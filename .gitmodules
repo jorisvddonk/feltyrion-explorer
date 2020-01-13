@@ -1,0 +1,3 @@
+[submodule "noctis-starmap"]
+	path = noctis-starmap
+	url = https://github.com/jorisvddonk/noctis-starmap.git
