@@ -7,5 +7,6 @@ module.exports = {
   siteMetadata: {
     title: `Feltyrion Explorer`
   },
-  plugins: [`gatsby-plugin-react-helmet`, `gatsby-plugin-typescript`]
+  plugins: [`gatsby-plugin-react-helmet`, `gatsby-plugin-typescript`],
+  pathPrefix: "/feltyrion-explorer"
 };
