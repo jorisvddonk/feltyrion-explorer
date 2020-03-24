@@ -8,7 +8,7 @@ export default function PlanetInfo({ data }) {
     <Layout>
       <h1>{planet.data.name}</h1>
       <p>
-        planet with index <em>{planet.data.index}</em> at {planet.data.x}, {planet.data.y},{" "}
+        planet with index <em>{planet.data.index}</em> at {planet.data.x}, {-planet.data.y},{" "}
         {planet.data.z}
       </p>
 

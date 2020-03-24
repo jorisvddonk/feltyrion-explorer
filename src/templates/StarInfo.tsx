@@ -9,7 +9,7 @@ export default function StarInfo({ data }) {
     <Layout>
       <h1>{star.data.name}</h1>
       <p>
-        Star of type <em>S{star.data.type}</em> at {star.data.x}, {star.data.y},{" "}
+        Star of type <em>S{star.data.type}</em> at {star.data.x}, {-star.data.y},{" "}
         {star.data.z}
       </p>
       <h2>Planets</h2>
