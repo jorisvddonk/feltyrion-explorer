@@ -1,4 +1,5 @@
 const starmapSourceNodes = require("./StarmapSourceNodes").default;
+const sanitizeFilename = require('sanitize-filename');
 
 exports.sourceNodes = async opts => {
   await starmapSourceNodes(opts);
@@ -8,7 +9,8 @@ exports.sourceNodes = async opts => {
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
   if (node.internal.type === `Star`) {
-    const slug = `/stars/${node.data.name}`;
+    const name = sanitizeFilename(node.data.name);
+    const slug = `/stars/${name}`;
     createNodeField({
       node,
       name: `slug`,
@@ -17,7 +19,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 
   if (node.internal.type === `Planet`) {
-    const slug = `/planets/${node.data.name}`;
+    const name = sanitizeFilename(node.data.name);
+    const slug = `/planets/${name}`;
     createNodeField({
       node,
       name: `slug`,
