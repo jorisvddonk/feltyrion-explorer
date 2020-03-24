@@ -1,5 +1,6 @@
 import * as React from "react";
 import { DefaultLayout as Layout } from "../layouts/index";
+import Link from "gatsby-link";
 import { graphql } from "gatsby";
 
 export default function StarInfo({ data }) {
@@ -17,7 +18,7 @@ export default function StarInfo({ data }) {
           return (
             <div key={planet.id}>
               <span>
-                <em>{planet.data.name}</em> (index {planet.data.index})
+                <em><Link to={planet.fields.slug}>{planet.data.name}</Link> (index {planet.data.index})</em>
               </span>
             </div>
           );
@@ -55,6 +56,9 @@ export const query = graphql`
           x
           y
           z
+        }
+        fields {
+          slug
         }
       }
     }
