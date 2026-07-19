@@ -1,5 +1,8 @@
 // Plain-text rendering of star/planet data, shared by the build-time
 // static .txt file generator (onPostBuild) and consumed by LLMs.
+//
+// STAR / PLANET / INDEX .txt files are plain data (no markdown, no links).
+// Only llms.txt carries explanatory prose.
 
 const PLANET_SYMBOLS = ['^', 'd', 'k', 'f', 'r', 'n', '@', 'i', 'q', '+', '*'];
 const PLANET_CODES = [
@@ -49,9 +52,9 @@ export function buildStarText(star: any): string {
   lines.push("System:");
   planets.forEach(planet => {
     const moons = moonsOf(planet.index);
-    lines.push(`- ${nameOf(planet)} (${typeOf(planet)})`);
+    lines.push(`${nameOf(planet)} (${typeOf(planet)})`);
     moons.forEach(moon => {
-      lines.push(`  - ${nameOf(moon)} (${typeOf(moon)})`);
+      lines.push(`  ${nameOf(moon)} (${typeOf(moon)})`);
     });
   });
 
@@ -87,6 +90,23 @@ export function buildPlanetText(planet: any): string {
   return lines.join("\n") + "\n";
 }
 
+export function buildIndexText(allStar: any): string {
+  const stars = allStar.nodes
+    .slice()
+    .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+  const lines: string[] = [];
+  stars.forEach(n => {
+    lines.push(
+      `${n.data.name}  S${n.data.type}  ${n.systemInfo.nob} bodies (${
+        n.systemInfo.nop
+      } planets, ${n.systemInfo.nob - n.systemInfo.nop} moons)`
+    );
+  });
+
+  return lines.join("\n") + "\n";
+}
+
 export function buildLlmsTxt(allStar: any, allPlanet: any): string {
   const stars = allStar.nodes
     .slice()
@@ -94,20 +114,6 @@ export function buildLlmsTxt(allStar: any, allPlanet: any): string {
   const planets = allPlanet.nodes
     .slice()
     .sort((a, b) => a.data.name.localeCompare(b.data.name));
-
-  const PREFIX = "/feltyrion-explorer";
-
-  const starLines = stars.map(
-    n =>
-      `- [${n.data.name}](${PREFIX}${n.fields.slug}.txt): S${n.data.type} — ${
-        n.systemInfo.nob
-      } bodies (${n.systemInfo.nop} planets, ${
-        n.systemInfo.nob - n.systemInfo.nop
-      } moons)`
-  );
-  const planetLines = planets.map(
-    n => `- [${n.data.name}](${PREFIX}${n.fields.slug}.txt)`
-  );
 
   const lines: string[] = [];
   lines.push("# Feltyrion Explorer");
@@ -133,8 +139,8 @@ export function buildLlmsTxt(allStar: any, allPlanet: any): string {
   lines.push("- Every named planet has an HTML page at /planets/<name> and a");
   lines.push("  plain-text equivalent at /planets/<name>.txt.");
   lines.push("- Plain-text pages use a simple, predictable format: header lines,");
-  lines.push("  a `System:` section listing planets (`-`) and their moons");
-  lines.push("  (indented `  -`), and any `Guide entries:`.");
+  lines.push("  a `System:` section listing planets and their moons (indented),");
+  lines.push("  and any `Guide entries:`.");
   lines.push("");
   lines.push("## Data fields");
   lines.push("");
@@ -175,42 +181,11 @@ export function buildLlmsTxt(allStar: any, allPlanet: any): string {
   lines.push("## Companion files");
   lines.push("");
   lines.push(
-    "- /index.txt: a plain-text listing of every star (name, class, body"
+    "- /index.txt: plain-text listing of every star (name, class, body counts)."
   );
-  lines.push("  counts) with links to each star's .txt page.");
   lines.push(
     "- /stars/<name>.txt and /planets/<name>.txt: per-object plain-text pages."
   );
-
-  return lines.join("\n") + "\n";
-}
-
-export function buildIndexText(allStar: any): string {
-  const PREFIX = "/feltyrion-explorer";
-  const stars = allStar.nodes
-    .slice()
-    .sort((a, b) => a.data.name.localeCompare(b.data.name));
-
-  const lines: string[] = [];
-  lines.push("# Feltyrion Explorer — star index");
-  lines.push("");
-  lines.push(
-    `Total stars: ${stars.length}. Each star has an HTML page at /stars/<name>`
-  );
-  lines.push(
-    "and a plain-text page at /stars/<name>.txt. See /llms.txt for the full"
-  );
-  lines.push("index and a description of all data fields.");
-  lines.push("");
-  stars.forEach(n => {
-    lines.push(
-      `- [${n.data.name}](${PREFIX}${n.fields.slug}.txt): S${n.data.type} — ${
-        n.systemInfo.nob
-      } bodies (${n.systemInfo.nop} planets, ${
-        n.systemInfo.nob - n.systemInfo.nop
-      } moons)`
-    );
-  });
 
   return lines.join("\n") + "\n";
 }
