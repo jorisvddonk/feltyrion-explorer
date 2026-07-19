@@ -28,6 +28,30 @@ const AVG_MOON_SIZING = 1.8;
 const AVG_PLANET_RAY = [
   0.007, 0.003, 0.01, 0.011, 0.01, 0.008, 0.064, 0.009, 0.012, 0.125, 5.0
 ];
+const PLANET_SYMBOLS = ['^', 'd', 'k', 'f', 'r', 'n', '@', 'i', 'q', '+', '*'];
+const PLANET_CODES = [
+  'unstable',
+  'dusty, craterized',
+  'thick atmosphere',
+  'felisian',
+  'rocky, creased',
+  'thin atmosphere',
+  'large, not consistent',
+  'icy surface',
+  'quartz surface',
+  'substellar object',
+  'companion star'
+];
+
+export interface BodyInfo {
+  index: number;
+  isMoon: boolean;
+  owner: number | null;
+  moonId: number | null;
+  type: number;
+  symbol: string;
+  code: string;
+}
 
 let _Seed = 1;
 let _randCount = 0;
@@ -100,6 +124,7 @@ export interface SystemInfo {
   ray: number;
   nop: number;
   nob: number;
+  bodies: BodyInfo[];
 }
 
 export function getSystemInfo(x: number, y: number, z: number): SystemInfo {
@@ -130,8 +155,26 @@ export function getSystemInfo(x: number, y: number, z: number): SystemInfo {
   const nop = c_random(CLASS_PLANETS[cls] + 1);
 
   const pType = new Array(MAXBODIES).fill(0);
+  const p_orb_orient = new Array(MAXBODIES).fill(0);
+  const p_orb_seed = new Array(MAXBODIES).fill(0);
+  const p_tilt = new Array(MAXBODIES).fill(0);
+  const p_orb_tilt = new Array(MAXBODIES).fill(0);
+  const p_orb_ecc = new Array(MAXBODIES).fill(0);
+  const p_ray = new Array(MAXBODIES).fill(0);
+  const p_ring = new Array(MAXBODIES).fill(0);
+  const pOwner = new Array(MAXBODIES).fill(-1);
+  const pMoonId = new Array(MAXBODIES).fill(-1);
 
   for (let n = 0; n < nop; n++) {
+    p_orb_orient[n] = DEG * c_random(360);
+    p_orb_seed[n] = 3 * (n * n + 1) * ray + c_random(300 * ray) / 100;
+    p_tilt[n] = zrandom(10 * p_orb_seed[n]) / 500;
+    p_orb_tilt[n] = zrandom(10 * p_orb_seed[n]) / 5000;
+    p_orb_ecc[n] =
+      1 - c_random(p_orb_seed[n] + 10 * Math.abs(p_orb_tilt[n])) / 2000;
+    p_ray[n] = c_random(p_orb_seed[n]) * 0.001 + 0.01;
+    p_ring[n] = zrandom(p_ray[n]) * (1 + c_random(1000) / 100);
+
     let t;
 
     if (cls !== 8) {
@@ -144,9 +187,7 @@ export function getSystemInfo(x: number, y: number, z: number): SystemInfo {
       }
     }
 
-    if (cls === 2 || cls === 7 || cls === 15) {
-      // no special handling needed for counts
-    }
+    if (cls === 2 || cls === 7 || cls === 15) p_orb_seed[n] *= 10;
   }
 
   if (cls === 0) {
@@ -216,6 +257,16 @@ export function getSystemInfo(x: number, y: number, z: number): SystemInfo {
 
       for (let c = 0; c < t; c++) {
         const q = nob + c;
+        pOwner[q] = n;
+        pMoonId[q] = c;
+        p_orb_orient[q] = DEG * c_random(360);
+        p_orb_seed[q] = (c * c + 4) * p_ray[n] + zrandom(300 * p_ray[n]) / 100;
+        p_tilt[q] = zrandom(10 * p_orb_seed[q]) / 50;
+        p_orb_tilt[q] = zrandom(10 * p_orb_seed[q]) / 500;
+        p_orb_ecc[q] =
+          1 - c_random(p_orb_seed[q] + 10 * Math.abs(p_orb_tilt[q])) / 2000;
+        p_ray[q] = c_random(p_orb_seed[n]) * 0.05 + 0.1;
+        p_ring[q] = 0;
         let r = pType[q] = c_random(PLANET_TYPES);
 
         if (r === 9 && s !== 10) r = 2;
@@ -241,10 +292,25 @@ export function getSystemInfo(x: number, y: number, z: number): SystemInfo {
     }
   }
 
+  const bodies: BodyInfo[] = [];
+  for (let n = 0; n < nob; n++) {
+    const isMoon = n >= nop;
+    bodies.push({
+      index: n,
+      isMoon,
+      owner: isMoon ? pOwner[n] : null,
+      moonId: isMoon ? pMoonId[n] : null,
+      type: pType[n],
+      symbol: PLANET_SYMBOLS[pType[n]],
+      code: PLANET_CODES[pType[n]]
+    });
+  }
+
   return {
     starClass: cls,
     ray,
     nop,
-    nob
+    nob,
+    bodies
   };
 }
