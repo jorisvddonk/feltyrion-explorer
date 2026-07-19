@@ -35,15 +35,15 @@ export default async ({ graphql, actions }) => {
         }
     });
 });
-result.data.allPlanet.edges.forEach(({ node }) => {
-  createPage({
-      path: node.fields.slug,
-      component: path.resolve(`./src/templates/PlanetInfo.tsx`),
-      context: {
-          // Data passed to context is available
-          // in page queries as GraphQL variables.
-          slug: node.fields.slug
-      }
+  result.data.allPlanet.edges.forEach(({ node }) => {
+    createPage({
+        path: node.fields.slug,
+        component: path.resolve(`./src/templates/PlanetInfo.tsx`),
+        context: {
+            // Data passed to context is available
+            // in page queries as GraphQL variables.
+            slug: node.fields.slug
+        }
+    });
   });
-});
 }
