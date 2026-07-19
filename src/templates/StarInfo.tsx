@@ -36,9 +36,11 @@ export default function StarInfo({ data }) {
     return (
       <div>
         {prefix}
-        <Link to={named ? named.fields.slug : "#"}>
-          {named ? named.data.name : label(body)}
-        </Link>{" "}
+        {named ? (
+          <Link to={named.fields.slug}>{named.data.name}</Link>
+        ) : (
+          <span>{label(body)}</span>
+        )}{" "}
         ({type})
       </div>
     );
