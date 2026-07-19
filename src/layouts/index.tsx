@@ -50,6 +50,9 @@ export class DefaultLayout extends React.PureComponent<
             { name: "description", content: "Feltyrion Explorer" },
             { name: "keywords", content: "noctis, noctis iv, g.o.e.s." }
           ]}
+          link={[
+            { rel: "llms.txt", href: "/feltyrion-explorer/llms.txt" }
+          ]}
         />
         <Header />
         <div
