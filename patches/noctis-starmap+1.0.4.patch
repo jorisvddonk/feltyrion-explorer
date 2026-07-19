@@ -1,0 +1,66 @@
+diff --git a/node_modules/noctis-starmap/dist/index.js b/node_modules/noctis-starmap/dist/index.js
+index 264eaf6..0955f21 100644
+--- a/node_modules/noctis-starmap/dist/index.js
++++ b/node_modules/noctis-starmap/dist/index.js
+@@ -9,6 +9,8 @@ var __importStar = (this && this.__importStar) || function (mod) {
+ Object.defineProperty(exports, "__esModule", { value: true });
+ const fs = __importStar(require("fs"));
+ const util_1 = require("util");
++const __isNumber = (v) => typeof v === "number";
++const __isString = (v) => typeof v === "string";
+ const DEFAULT_PRECISION = 0.00001;
+ function isStar(star) {
+     return (star.hasOwnProperty("x") &&
+@@ -38,7 +40,7 @@ class Noctis {
+         };
+         this.getIDForStar = (starname_or_object) => {
+             let star = undefined;
+-            if (util_1.isString(starname_or_object)) {
++            if (__isString(starname_or_object)) {
+                 star = this.getStarByName(starname_or_object);
+             }
+             else {
+@@ -49,7 +51,7 @@ class Noctis {
+             }
+         };
+         this.getStarByID = (starid, precision) => {
+-            if (!util_1.isNumber(starid)) {
++            if (!__isNumber(starid)) {
+                 let starid_ = this.getIDForStar(starid);
+                 if (starid_ !== undefined) {
+                     starid = starid_;
+@@ -72,14 +74,14 @@ class Noctis {
+             });
+         };
+         this.getGuideEntriesForStar = starid => {
+-            if (!util_1.isNumber(starid)) {
++            if (!__isNumber(starid)) {
+                 starid = this.getIDForStar(starid);
+             }
+             return this.getGuideEntriesById(starid);
+         };
+         this.getPlanetsForStar = (starid) => {
+             let starID;
+-            if (util_1.isNumber(starid)) {
++            if (__isNumber(starid)) {
+                 starID = starid;
+             }
+             else {
+@@ -88,7 +90,7 @@ class Noctis {
+                     starID = id;
+                 }
+             }
+-            if (util_1.isNumber(starID)) {
++            if (__isNumber(starID)) {
+                 const star = this.getStarByID(starID);
+                 if (star) {
+                     return this.planets.reduce((memo, planet) => {
+@@ -104,7 +106,7 @@ class Noctis {
+             return [];
+         };
+         this.getGuideEntriesForPlanet = (objid) => {
+-            if (!util_1.isNumber(objid)) {
++            if (!__isNumber(objid)) {
+                 const planet = this.getPlanetByName(objid);
+                 if (planet) {
+                     const starid = this.getIDForStarCoordinates(planet.x, planet.y, planet.z);
