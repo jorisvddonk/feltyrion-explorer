@@ -1,9 +1,11 @@
 import { default as Starmap } from './src/lib/Starmap'
+import { getSystemInfo } from './src/lib/nivEngine'
 
 export default async ({ actions }) => {
     const { createNode } = actions;
     Starmap.stars.forEach(star => {
         if (star.name === "" || star.name === undefined || star === undefined) return;
+        const system = getSystemInfo(star.x, star.y, star.z);
         const children = [];
         Starmap.getPlanetsForStar(star.name).forEach(planet => {
             if (planet.name === "") return
@@ -50,10 +52,11 @@ export default async ({ actions }) => {
 
         createNode({
             id: `star_${star.name}`,
+            systemInfo: system,
             data: star,
             internal: {
                 type: "Star",
-                contentDigest: JSON.stringify(star)
+                contentDigest: JSON.stringify(star) + JSON.stringify(system)
             },
             children
         });

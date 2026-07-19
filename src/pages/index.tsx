@@ -25,7 +25,9 @@ export default class extends React.Component<Props, {}> {
             return (
               <li key={node.id}>
                 <Link to={node.fields.slug}>{node.data.name}</Link>{" "}
-                (S{node.data.type})
+                (S{node.data.type}) — {node.systemInfo.nob} bodies (
+                {node.systemInfo.nop} planets,{" "}
+                {node.systemInfo.nob - node.systemInfo.nop} moons)
               </li>
             );
           })}
@@ -43,6 +45,10 @@ export const pageQuery = graphql`
         data {
           name
           type
+        }
+        systemInfo {
+          nop
+          nob
         }
         fields {
           slug
