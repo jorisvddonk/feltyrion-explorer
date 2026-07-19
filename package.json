@@ -15,7 +15,7 @@
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-typescript": "^2.1.26",
     "lodash": "^4.17.15",
-    "noctis-starmap": "^1.0.4",
+    "noctis-starmap": "^1.0.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
@@ -32,11 +32,9 @@
   "scripts": {
     "build": "NODE_OPTIONS=--openssl-legacy-provider gatsby build",
     "develop": "NODE_OPTIONS=--openssl-legacy-provider gatsby develop",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "patch-package"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "patch-package": "^8.0.1",
     "ts-node": "^8.6.2"
   }
 }
