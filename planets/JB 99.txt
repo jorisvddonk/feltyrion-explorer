@@ -1,0 +1,3 @@
+Planet: JB 99
+Starmap index: 04
+Paris coordinates: -61232592, 29255171, 664579

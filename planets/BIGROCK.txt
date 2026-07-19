@@ -1,0 +1,6 @@
+Planet: BIGROCK
+Starmap index: 03
+Paris coordinates: 3408208, 4220650, -1855031
+
+Guide entries:
+HUGE MOUNTAIN NEAR LQ 64:64

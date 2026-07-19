@@ -1,0 +1,3 @@
+Planet: FELISIAN CR1-1
+Starmap index: 10
+Paris coordinates: -1426188272, 705347, 1439547187

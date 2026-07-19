@@ -1,0 +1,3 @@
+Planet: FRAU
+Starmap index: 25
+Paris coordinates: 4348912, 3923012, -386959

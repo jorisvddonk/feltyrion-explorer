@@ -1,0 +1,3 @@
+Planet: TORVAHLUS
+Starmap index: 01
+Paris coordinates: -218928, 244011, 97180

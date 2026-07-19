@@ -1,0 +1,20 @@
+Star: NIKEPHORUS
+Star class: S00
+Paris coordinates: 5507120, 5288421, -243775
+Bodies: 11 (7 planets, 4 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- WOJOL (f felisian)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- APELATES (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+ DISCOVERED BY FOTIOS. EPOC 6011:609.430

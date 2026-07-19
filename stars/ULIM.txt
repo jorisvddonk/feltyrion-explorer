@@ -1,0 +1,10 @@
+Star: ULIM
+Star class: S00
+Paris coordinates: 14943312, 6179853, 44770092
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BELIGRE (n thin atmosphere)
+
+Guide entries:
+A S00 STAR WITH ONLY ONE LONELY PLANET.

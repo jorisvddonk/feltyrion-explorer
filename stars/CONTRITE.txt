@@ -1,0 +1,14 @@
+Star: CONTRITE
+Star class: S02
+Paris coordinates: 4031408, 1804535, 824431
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- CONTRITE I (+ substellar object)
+- CONTRITE II (d dusty, craterized)
+- CONTRITE III (@ large, not consistent)
+- CONTRITE 1V (d dusty, craterized)
+- CONTRITE V (q quartz surface)
+
+Guide entries:
+ A CLASS S)2 SYSTEM OF 5 PLANETS. SKINNYMON EPOC 6011 585.570

@@ -1,0 +1,9 @@
+Star: RADS
+Star class: S06
+Paris coordinates: -1374960, 5319599, -7620321
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR,DISCOVERED BY KJ EPOC 6011:578.362

@@ -1,0 +1,11 @@
+Star: MICHELLE
+Star class: S02
+Paris coordinates: 732496, 621830, 298907
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- NEVERMORE (r rocky, creased)
+- MORELLA (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.317

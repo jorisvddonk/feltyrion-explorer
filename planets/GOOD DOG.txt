@@ -1,0 +1,3 @@
+Planet: GOOD DOG
+Starmap index: 09
+Paris coordinates: 570352, -17743, 592279

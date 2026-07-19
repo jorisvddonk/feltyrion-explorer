@@ -1,0 +1,10 @@
+Star: GREY SOURCE
+Star class: S06
+Paris coordinates: 4497488, 4949116, -1719600
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ PROBABLE LITHIUM SOURCE.                                                   
+NO LITHIUM                                                                  

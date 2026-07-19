@@ -1,0 +1,6 @@
+Star: POST-DAWN
+Star class: S06
+Paris coordinates: 4066416, 5319160, -947130
+Bodies: 0 (0 planets, 0 moons)
+
+System:

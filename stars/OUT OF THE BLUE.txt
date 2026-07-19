@@ -1,0 +1,13 @@
+Star: OUT OF THE BLUE
+Star class: S01
+Paris coordinates: -1229648, 3781, 2677796
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- MALTHA (@ large, not consistent)
+- SHALOON (q quartz surface)
+- FLANNEL MOUTHED (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (^ unstable)

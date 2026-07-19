@@ -1,0 +1,9 @@
+Star: MDIR -2
+Star class: S06
+Paris coordinates: 2231408, 3973779, 2636994
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GREAT LI+.                                                                  

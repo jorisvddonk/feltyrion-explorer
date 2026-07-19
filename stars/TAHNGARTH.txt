@@ -1,0 +1,10 @@
+Star: TAHNGARTH
+Star class: S06
+Paris coordinates: 3804272, 4198014, -595760
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MICHIEL VAN MEERSBERGEN. EPOC 6011.565.979
+IDEAL FOR REFUELLING FAST

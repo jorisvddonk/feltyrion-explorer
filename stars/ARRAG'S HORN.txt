@@ -1,0 +1,10 @@
+Star: ARRAG'S HORN
+Star class: S00
+Paris coordinates: 63568, 13125, 763460
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED EPOC 6011:572.226 BY F. WISARD
+SYSTEM DOESN'T HAVE ORBITING BODIES.

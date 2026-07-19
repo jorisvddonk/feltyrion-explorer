@@ -1,0 +1,3 @@
+Planet: ROCKANIS
+Starmap index: 10
+Paris coordinates: -61939376, 29523124, 672688

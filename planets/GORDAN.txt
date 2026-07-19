@@ -1,0 +1,3 @@
+Planet: GORDAN
+Starmap index: 04
+Paris coordinates: 218928, -30906, -48140

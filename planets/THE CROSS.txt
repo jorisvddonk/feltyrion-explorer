@@ -1,0 +1,3 @@
+Planet: THE CROSS
+Starmap index: 04
+Paris coordinates: 3752848, 4867182, -1441718

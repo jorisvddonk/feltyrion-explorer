@@ -1,0 +1,21 @@
+Star: MARGARETE
+Star class: S00
+Paris coordinates: -165744, 3241563, 7052137
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- AMONIA (@ large, not consistent)
+- KRATAR (r rocky, creased)
+- FROCAR (f felisian)
+  - GRAYE (d dusty, craterized)
+  - TRUGE (d dusty, craterized)
+- TRITENA (n thin atmosphere)
+  - MRASA (n thin atmosphere)
+- JOTAR (d dusty, craterized)
+
+Guide entries:
+A YELLOW STAR HOME TO 8 BODIES; 3 NORMAL PLANETS, 1 FELISIAN, 1 GAS         
+GIANT, AND 3 MOONS. THE FELISIAN PLANET IS JUST ABOUT THE ONLY ONE          
+WORTH LOOKING, IT EVEN HAS 2 MOONS AND RINGS! THE GAS GIANT FOR             
+SOME ODD REASON HAS NO MOONS...                                             
+(SYSTEM DISCOVERED AND NAMED BY GEEKOFDEATH CIRCA EPOC 6011:711.490)        

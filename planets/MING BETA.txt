@@ -1,0 +1,3 @@
+Planet: MING BETA
+Starmap index: 02
+Paris coordinates: -1604272, 7386891, -1484699

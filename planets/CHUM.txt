@@ -1,0 +1,6 @@
+Planet: CHUM
+Starmap index: 04
+Paris coordinates: 1424, -39600, 1161220
+
+Guide entries:
+ TYPICAL FELISIAN. DISC. BY SCAREDY-CAT, EPOC 6011.583.919.BIRDS

@@ -1,0 +1,6 @@
+Planet: UKINIL
+Starmap index: 06
+Paris coordinates: 10976304, -19240498, 17578568
+
+Guide entries:
+FOUND EPOC 6011 586.783.535 BY ROLAND ASKEW

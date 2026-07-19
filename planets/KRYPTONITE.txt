@@ -1,0 +1,3 @@
+Planet: KRYPTONITE
+Starmap index: 35
+Paris coordinates: 156784, -15042, 351717

@@ -1,0 +1,8 @@
+Planet: AGYPE
+Starmap index: 37
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M04/P08 MEDIUM SIZE THICK ATMO, MAGENTA COLOR WITH LARGE DARK BANDS.        
+STORMS NOT LARGE BUT SEVERAL. PRO 0.113.040 PRV 0.005.274.216 SKINNYMON     
+6011 792.155                                                                

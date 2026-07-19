@@ -1,0 +1,21 @@
+Star: NARODET
+Star class: S11
+Paris coordinates: 1067504, 653456, -2027322
+Bodies: 11 (4 planets, 7 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (i icy surface)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (q quartz surface)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (i icy surface)
+
+Guide entries:
+NAMED BY BEN EPOC 6011 793:298                                              
+WARNING! PULSAR, MAKE SURE RADIATION LIMITOR IS ACTIVE!                     

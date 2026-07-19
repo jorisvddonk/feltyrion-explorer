@@ -1,0 +1,3 @@
+Planet: ENDURANCE
+Starmap index: 04
+Paris coordinates: 5179984, 5034153, -1328806

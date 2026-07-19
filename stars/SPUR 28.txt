@@ -1,0 +1,9 @@
+Star: SPUR 28
+Star class: S06
+Paris coordinates: -88127824, 27045151, -1155929
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

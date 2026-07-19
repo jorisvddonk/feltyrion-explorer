@@ -1,0 +1,6 @@
+Planet: GRAKEN
+Starmap index: 02
+Paris coordinates: 1008208, 231376, 523199
+
+Guide entries:
+NOT LANDABLE... COVERED WITH DENSE CLOUDS.

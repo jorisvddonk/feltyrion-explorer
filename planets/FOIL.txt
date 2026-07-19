@@ -1,0 +1,3 @@
+Planet: FOIL
+Starmap index: 01
+Paris coordinates: 5700336, 4705097, -808001

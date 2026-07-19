@@ -1,0 +1,11 @@
+Star: B EXPRESS 9 STATION
+Star class: S06
+Paris coordinates: -8194640, -77096, 7644680
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NEARBY YOU MAY FIND SOME OF SKINNYMON'S STARS.                              
+(NOTE THE LACK OF BODIES.)                                                  
+(THESE STARS ARE COMMONLY REFERRED TO AS THE '2ND GRID')                    

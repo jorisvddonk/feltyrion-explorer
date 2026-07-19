@@ -1,0 +1,3 @@
+Planet: NORJIUN TWAS
+Starmap index: 09
+Paris coordinates: 14847824, 32038901, -7119055

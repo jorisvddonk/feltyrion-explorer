@@ -1,0 +1,3 @@
+Planet: DOFFLER CHARGE
+Starmap index: 02
+Paris coordinates: -39761392, 1546378, 31461496

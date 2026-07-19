@@ -1,0 +1,3 @@
+Planet: CELEGORM
+Starmap index: 03
+Paris coordinates: -447152, 1243563, 2559842

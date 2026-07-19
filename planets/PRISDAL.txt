@@ -1,0 +1,3 @@
+Planet: PRISDAL
+Starmap index: 02
+Paris coordinates: -863568, -69039740, 242100

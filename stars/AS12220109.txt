@@ -1,0 +1,14 @@
+Star: AS12220109
+Star class: S02
+Paris coordinates: 1178480, 516590, 19803499
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- AS12220109A (@ large, not consistent)
+- AS12220109B (r rocky, creased)
+- AS12220109C (^ unstable)
+- AS12220109D (@ large, not consistent)
+- AS12220109E (r rocky, creased)
+- AS12220109F (d dusty, craterized)
+- AS12220109G (d dusty, craterized)
+- AS12220109H (k thick atmosphere)

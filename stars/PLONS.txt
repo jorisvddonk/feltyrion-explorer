@@ -1,0 +1,17 @@
+Star: PLONS
+Star class: S00
+Paris coordinates: 4377136, 4125490, -2745837
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+- ZOZLORA (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- PETRION (f felisian)
+  - MIOHI (n thin atmosphere)
+  - TIOHI (d dusty, craterized)
+  - BEOHI (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.373)

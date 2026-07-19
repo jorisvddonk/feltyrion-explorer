@@ -1,0 +1,8 @@
+Star: MEELI
+Star class: S05
+Paris coordinates: 1808208, -20295175, -327801
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PEWOQUE (r rocky, creased)
+- LIBO (r rocky, creased)

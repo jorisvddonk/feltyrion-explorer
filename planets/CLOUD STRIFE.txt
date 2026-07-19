@@ -1,0 +1,3 @@
+Planet: CLOUD STRIFE
+Starmap index: 01
+Paris coordinates: 570352, 82257, 668065

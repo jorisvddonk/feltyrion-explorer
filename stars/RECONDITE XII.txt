@@ -1,0 +1,6 @@
+Star: RECONDITE XII
+Star class: S06
+Paris coordinates: 620950000, 24950000, -621050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

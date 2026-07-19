@@ -1,0 +1,6 @@
+Star: RECONDITE VIII
+Star class: S06
+Paris coordinates: 395150000, 25250000, -395250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

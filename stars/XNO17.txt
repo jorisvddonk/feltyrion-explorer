@@ -1,0 +1,10 @@
+Star: XNO17
+Star class: S06
+Paris coordinates: 4348912, 4123012, -404149
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO LITHIUM
+SKINNYMON EPOC 6011 593.702

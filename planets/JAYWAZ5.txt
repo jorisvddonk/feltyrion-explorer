@@ -1,0 +1,6 @@
+Planet: JAYWAZ5
+Starmap index: 05
+Paris coordinates: -543216, -1292957, 861708
+
+Guide entries:
+SMALL, NO ATMOSPHERE. SOME LARGE CRATER FORMATIONS.

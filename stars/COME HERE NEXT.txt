@@ -1,0 +1,11 @@
+Star: COME HERE NEXT
+Star class: S07
+Paris coordinates: 521776, 95961, 1811900
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PINKSPHERE (+ substellar object)
+
+Guide entries:
+CLASS S07 STAR WITH 1 PLANET.
+NYTAR, EPOC 6011:612.217

@@ -1,0 +1,3 @@
+Planet: LIFIX
+Starmap index: 03
+Paris coordinates: 50206672, 73196, 1450535108

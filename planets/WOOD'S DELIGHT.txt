@@ -1,0 +1,6 @@
+Planet: WOOD'S DELIGHT
+Starmap index: 07
+Paris coordinates: 2452848, 6151009, -358039
+
+Guide entries:
+ NIL WITTHANEYE 6011 666.541.237 APPROX

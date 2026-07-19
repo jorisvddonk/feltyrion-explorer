@@ -1,0 +1,9 @@
+Star: ALTLIMAROOS
+Star class: S06
+Paris coordinates: 940050000, -860111, -939834759
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.581)                   

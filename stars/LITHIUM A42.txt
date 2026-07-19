@@ -1,0 +1,6 @@
+Star: LITHIUM A42
+Star class: S06
+Paris coordinates: 6317584, 4445474, -25442603
+Bodies: 0 (0 planets, 0 moons)
+
+System:

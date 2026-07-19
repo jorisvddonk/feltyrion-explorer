@@ -1,0 +1,6 @@
+Star: FRETE MONAD
+Star class: S03
+Paris coordinates: 1250000, 51750000, -1350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,7 @@
+Planet: ITCHY
+Starmap index: 01
+Paris coordinates: -432496, 203318, -459891
+
+Guide entries:
+ SMALL, SOLID, DUSTY, CRD, NO ATMOSPHERE, LARGE CRATEEEE4RS. ANOREXIK
+EPOC 6011 574.809

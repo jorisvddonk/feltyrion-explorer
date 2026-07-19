@@ -1,0 +1,3 @@
+Planet: DA TING
+Starmap index: 01
+Paris coordinates: 656784, 1833028, -143151

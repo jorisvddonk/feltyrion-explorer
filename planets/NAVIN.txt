@@ -1,0 +1,3 @@
+Planet: NAVIN
+Starmap index: 02
+Paris coordinates: 3459632, 5095682, -784034

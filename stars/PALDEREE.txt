@@ -1,0 +1,6 @@
+Star: PALDEREE
+Star class: S07
+Paris coordinates: 950000, 51950000, -1050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,20 @@
+Star: PWIN
+Star class: S00
+Paris coordinates: 3966416, 3899706, -1028195
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- VULKAN (r rocky, creased)
+- NACHT (n thin atmosphere)
+- KORILLANCE (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- SAARDANT (f felisian)
+  - CHIPPED ICE ROCK (d dusty, craterized)
+
+Guide entries:
+ STAR DISCOVERED BY SEBASTIAN PATTERSON EPOC 6011:683.295                   
+PLEASE FEEL FREE TO NAME THE MOONS. '(NOTE ADDED BY SEB PAT)                

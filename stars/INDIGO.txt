@@ -1,0 +1,6 @@
+Star: INDIGO
+Star class: S07
+Paris coordinates: 1470352, 169718, -251254
+Bodies: 0 (0 planets, 0 moons)
+
+System:

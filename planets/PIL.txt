@@ -1,0 +1,7 @@
+Planet: PIL
+Starmap index: 08
+Paris coordinates: 2029806864, -1864014, 355778
+
+Guide entries:
+M01/P05 SMALL SOLID, DUSTY, MODERATE SIZE CRATERS, LIGHT GREEN COLOR.       
+PRO 0.213.840 PRV 0.002.177.467 SKINNYMON 6011 797.362                      

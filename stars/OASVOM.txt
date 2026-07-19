@@ -1,0 +1,12 @@
+Star: OASVOM
+Star class: S09
+Paris coordinates: 1425712, -18029047, -838747
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- IUY (d dusty, craterized)
+- REJU (d dusty, craterized)
+- SURAB (^ unstable)
+  - GURAB (^ unstable)
+- LUXY (d dusty, craterized)
+  - QUOT (^ unstable)

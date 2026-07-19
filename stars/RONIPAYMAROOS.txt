@@ -1,0 +1,9 @@
+Star: RONIPAYMAROOS
+Star class: S06
+Paris coordinates: 760387856, -810792, -760033140
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.575)                   

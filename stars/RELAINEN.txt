@@ -1,0 +1,38 @@
+Star: RELAINEN
+Star class: S08
+Paris coordinates: 634664880, -10391089, 48226651
+Bodies: 26 (7 planets, 19 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (f felisian)
+  - Moon #1 (+ substellar object)
+- Planet #1 (* companion star)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (f felisian)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+
+Guide entries:
+A CLASS S08 SYSTEM WITH THREE COMPANION STARS, TWO NEARBY AND ONE           
+DISTANT FROM THE MAIN STAR. 26 BODIES TOTAL, TWO FELISIAN WORLDS.           
+0.66812325 BAL. M.; TEMP 3251K; RAD 128.3 KR; COOR 634664880;               
+-10391089; 48226651 SKINNYMON 6011.916.928                                  

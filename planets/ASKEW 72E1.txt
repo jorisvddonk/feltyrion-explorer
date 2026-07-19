@@ -1,0 +1,3 @@
+Planet: ASKEW 72E1
+Starmap index: 06
+Paris coordinates: 11183088, -19054853, 17846687

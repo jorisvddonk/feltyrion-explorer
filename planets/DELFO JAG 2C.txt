@@ -1,0 +1,3 @@
+Planet: DELFO JAG 2C
+Starmap index: 09
+Paris coordinates: 147056, 7086, 1986076718

@@ -1,0 +1,6 @@
+Planet: NOVEL
+Starmap index: 11
+Paris coordinates: 2452848, 5614952, -121907
+
+Guide entries:
+NEAR-FELISIAN...

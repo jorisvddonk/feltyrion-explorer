@@ -1,0 +1,3 @@
+Planet: ICECAP2
+Starmap index: 02
+Paris coordinates: 4969264, 4680100, 168760

@@ -1,0 +1,3 @@
+Planet: TSUNAMI
+Starmap index: 02
+Paris coordinates: 4286768, 4944020, -232567

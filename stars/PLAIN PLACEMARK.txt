@@ -1,0 +1,6 @@
+Star: PLAIN PLACEMARK
+Star class: S07
+Paris coordinates: 1550000, 53050000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

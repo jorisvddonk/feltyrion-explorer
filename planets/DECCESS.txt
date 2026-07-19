@@ -1,0 +1,3 @@
+Planet: DECCESS
+Starmap index: 04
+Paris coordinates: 4662480, 5012642, 95599

@@ -1,0 +1,7 @@
+Planet: ORBOX
+Starmap index: 42
+Paris coordinates: 3901424, -66380183, -2847415
+
+Guide entries:
+A DENSEWORLD WITH VERY WELL-DEFINED DULL PINK CLOUDS.
+(SCHMERM 6011 593.464)

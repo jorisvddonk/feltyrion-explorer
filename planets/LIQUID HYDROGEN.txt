@@ -1,0 +1,6 @@
+Planet: LIQUID HYDROGEN
+Starmap index: 37
+Paris coordinates: 3036016, -12924584, 9835578
+
+Guide entries:
+FOUND EPOC 6011 589.560.000 BY ROLAND ASKEW

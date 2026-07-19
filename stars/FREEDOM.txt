@@ -1,0 +1,15 @@
+Star: FREEDOM
+Star class: S00
+Paris coordinates: 4482832, 3728235, 1299762
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- CORDWAINER SMITH (q quartz surface)
+- ARTHUR C CLARKE (k thick atmosphere)
+- ISAAC ASIMOV (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- N MANDELA (f felisian)
+  - NOT PANDORA (d dusty, craterized)
+- LINDA NAGATA (n thin atmosphere)
+  - NAGATA A (^ unstable)
+  - NAGATA B (d dusty, craterized)

@@ -1,0 +1,9 @@
+Star: SARTRE
+Star class: S06
+Paris coordinates: 2642128, 4521735, 863778
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL DEPOT (TACKAT 6011:562.948)

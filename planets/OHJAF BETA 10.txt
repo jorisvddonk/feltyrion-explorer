@@ -1,0 +1,3 @@
+Planet: OHJAF BETA 10
+Starmap index: 15
+Paris coordinates: -26245072, -19374450, -448831906

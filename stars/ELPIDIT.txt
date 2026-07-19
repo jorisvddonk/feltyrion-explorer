@@ -1,0 +1,10 @@
+Star: ELPIDIT
+Star class: S06
+Paris coordinates: 1050150896, 1374251, 55078599
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.963
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

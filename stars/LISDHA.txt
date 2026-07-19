@@ -1,0 +1,6 @@
+Star: LISDHA
+Star class: S01
+Paris coordinates: 2750000, 50000, -2850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

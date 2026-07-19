@@ -1,0 +1,6 @@
+Star: SU 10
+Star class: S06
+Paris coordinates: -7137104, -71797, -1756320
+Bodies: 0 (0 planets, 0 moons)
+
+System:

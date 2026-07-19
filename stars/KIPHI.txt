@@ -1,0 +1,9 @@
+Star: KIPHI
+Star class: S06
+Paris coordinates: 2928560, 4241503, -225059
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06, SOURCE OF LN+

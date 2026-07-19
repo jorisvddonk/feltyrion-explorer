@@ -1,0 +1,3 @@
+Planet: BOX OF BORING
+Starmap index: 01
+Paris coordinates: 1866416, 1939481, 1181093

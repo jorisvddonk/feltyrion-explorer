@@ -1,0 +1,8 @@
+Planet: RFHREN
+Starmap index: 11
+Paris coordinates: 634309520, -10801615, 49308989
+
+Guide entries:
+M03/P05 ROCKY, CREASED, FAIRLY BRIGHT GREEN REFLECTIVITY, LESS SCARS        
+AND MORE CRATERS. PRO 0.152.640; PRV 0.002.830.772 SKINNYMON 6011           
+893.127                                                                     

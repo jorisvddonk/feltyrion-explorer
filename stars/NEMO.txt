@@ -1,0 +1,12 @@
+Star: NEMO
+Star class: S09
+Paris coordinates: 425712, 634229, 278861
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DISALLOW (+ substellar object)
+- RURALISM (@ large, not consistent)
+
+Guide entries:
+A CLASS S09 SYSTEM OF 2 NOT-CONSISTENT PLANETS. SKINNYMON EPOC 6011
+581.440

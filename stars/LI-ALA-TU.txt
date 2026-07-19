@@ -1,0 +1,6 @@
+Star: LI-ALA-TU
+Star class: S06
+Paris coordinates: 725712, -11767861, -100194
+Bodies: 0 (0 planets, 0 moons)
+
+System:

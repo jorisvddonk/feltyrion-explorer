@@ -1,0 +1,14 @@
+Star: LISTA 218
+Star class: S05
+Paris coordinates: 1240653520, -1671112, -134800
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- FHDHALIS (q quartz surface)
+- TRISLI (n thin atmosphere)
+- KHAASIS (r rocky, creased)
+  - AYYL (i icy surface)
+
+Guide entries:
+A CLASS S05 SYSTEM OF 3 PLANETS, 1 MOON. LITHIUM TOO. SKINNYMON
+EPOC 6011 622.139

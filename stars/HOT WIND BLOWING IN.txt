@@ -1,0 +1,11 @@
+Star: HOT WIND BLOWING IN
+Star class: S03
+Paris coordinates: 797477136, 19952973, -795620547
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SUMMER WIND (q quartz surface)
+- NO AUTUMN WIND (k thick atmosphere)
+
+Guide entries:
+S03 MASS 3.00856853 TEMP 3257 DEG C. RYAN GJK E6011.810.125                 

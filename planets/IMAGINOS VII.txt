@@ -1,0 +1,3 @@
+Planet: IMAGINOS VII
+Starmap index: 07
+Paris coordinates: 5662480, 4424480, -1102953

@@ -1,0 +1,3 @@
+Planet: CHE E'?
+Starmap index: 16
+Paris coordinates: 2521776, 5015370, -132554

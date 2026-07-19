@@ -1,0 +1,3 @@
+Planet: BERG
+Starmap index: 01
+Paris coordinates: -104623472, 25720132, -33552

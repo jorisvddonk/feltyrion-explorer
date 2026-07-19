@@ -1,0 +1,3 @@
+Planet: NURX
+Starmap index: 06
+Paris coordinates: 2628560, -26514628, 119618

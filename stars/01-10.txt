@@ -1,0 +1,31 @@
+Star: 01-10
+Star class: S08
+Paris coordinates: -737520, 5031334, 5347062
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- 10-01 (* companion star)
+- 10-10 (n thin atmosphere)
+- 10-11 (@ large, not consistent)
+  - 10-11-01 (n thin atmosphere)
+  - 10-11-10 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - 10-11-100 (n thin atmosphere)
+  - 10-11-101 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (^ unstable)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (f felisian)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (n thin atmosphere)
+  - Moon #14 (n thin atmosphere)
+  - Moon #15 (k thick atmosphere)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+(DISCOVERED 6011:571.527 BY SHADOWCLAW)

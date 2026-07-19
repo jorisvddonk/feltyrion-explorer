@@ -1,0 +1,11 @@
+Star: LITHFUL ALPHA
+Star class: S06
+Paris coordinates: -43216, -180715, 423847
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+EPOC 6011.722.974.735                                                       
+DISC. BY ELHAM                                                              
+HAS LITHIUM.                                                                

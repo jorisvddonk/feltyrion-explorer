@@ -1,0 +1,6 @@
+Star: RUNAWAY
+Star class: S00
+Paris coordinates: 3383920, 4184937, -1396911
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: ASKEW 104A
+Starmap index: 01
+Paris coordinates: 2039952, -12063304, 9072522

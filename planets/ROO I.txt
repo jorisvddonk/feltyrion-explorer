@@ -1,0 +1,3 @@
+Planet: ROO I
+Starmap index: 03
+Paris coordinates: 5855696, 5256586, -1540157

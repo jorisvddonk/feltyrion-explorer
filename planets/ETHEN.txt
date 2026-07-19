@@ -1,0 +1,6 @@
+Planet: ETHEN
+Starmap index: 04
+Paris coordinates: 1323536, 2117778, 6972572
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011.834.172.)                                    

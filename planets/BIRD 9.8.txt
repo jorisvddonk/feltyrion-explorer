@@ -1,0 +1,6 @@
+Planet: BIRD 9.8
+Starmap index: 23
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+YOU ALREADY KNOW IT. SERPENS, 6011 665.409

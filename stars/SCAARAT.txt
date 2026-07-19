@@ -1,0 +1,11 @@
+Star: SCAARAT
+Star class: S10
+Paris coordinates: 4283920, 6064038, -2308770
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FIDELOK (r rocky, creased)
+- MORASH (+ substellar object)
+
+Guide entries:
+ DISCOVERED 6011 658.671.990 BY MATTHIUS HOOD

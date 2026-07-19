@@ -1,0 +1,3 @@
+Planet: ENIAWD 2
+Starmap index: 02
+Paris coordinates: 2321776, 4647893, 72894

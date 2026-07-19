@@ -1,0 +1,3 @@
+Planet: ASKEW 40A
+Starmap index: 01
+Paris coordinates: 11958800, -19325483, 17497781

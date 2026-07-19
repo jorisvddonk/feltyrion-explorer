@@ -1,0 +1,14 @@
+Star: BOTAC
+Star class: S00
+Paris coordinates: 5031408, 9036185, -158306
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- PANA (q quartz surface)
+- PANA II (k thick atmosphere)
+- PANA III (f felisian)
+  - PANA IIIM (n thin atmosphere)
+  - PANA IIIM II (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED BY MURRMURR EPOC 6011:607.896

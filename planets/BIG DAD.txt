@@ -1,0 +1,3 @@
+Planet: BIG DAD
+Starmap index: 04
+Paris coordinates: 1577136, 4292069, 78342

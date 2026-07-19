@@ -1,0 +1,3 @@
+Planet: TRASH
+Starmap index: 02
+Paris coordinates: 2977136, 4624315, -1393374

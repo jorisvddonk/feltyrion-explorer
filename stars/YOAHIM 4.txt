@@ -1,0 +1,16 @@
+Star: YOAHIM 4
+Star class: S02
+Paris coordinates: -61239376, 29427306, -45630
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- GARGASIS (@ large, not consistent)
+- REKUREKURE 30 (r rocky, creased)
+- PIASHIS (d dusty, craterized)
+- GREENARIS (r rocky, creased)
+- JB 91 (+ substellar object)
+- BRASTINERA (d dusty, craterized)
+
+Guide entries:
+CLASS S02 WHITE DARF STAR DISCOVERED BY MCWGOGS EPOC 6011.639.671.
+6 LANETS NO MOONS.

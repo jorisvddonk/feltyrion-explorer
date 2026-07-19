@@ -1,0 +1,7 @@
+Planet: VERTIA
+Starmap index: 10
+Paris coordinates: 4279984, 4628393, -549462
+
+Guide entries:
+PLANET WITH THIN ATMOSPHERE, DUSTY.
+(NOTE BY BALIKA, 6011 823.999.180)

@@ -1,0 +1,3 @@
+Planet: KRELIS
+Starmap index: 01
+Paris coordinates: 1866416, 30861188, 950732

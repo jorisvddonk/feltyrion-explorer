@@ -1,0 +1,3 @@
+Planet: GAS SWAMP
+Starmap index: 02
+Paris coordinates: -105939888, 25925472, -1497120

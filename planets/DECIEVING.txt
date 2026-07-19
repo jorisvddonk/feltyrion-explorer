@@ -1,0 +1,9 @@
+Planet: DECIEVING
+Starmap index: 03
+Paris coordinates: 894640, -358849, -158813
+
+Guide entries:
+NOTE                                                                        
+ FOUND BY- DANIEL LINDHOUT - EPOC 6011.699.978.594                          
+RECORD 1                                                                    
+FOUND EPOC 6011.699.978.594-BY DANIEL LINDHOUT-DARK-CHEERY ATMOSTPHE        

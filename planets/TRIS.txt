@@ -1,0 +1,6 @@
+Planet: TRIS
+Starmap index: 03
+Paris coordinates: 3952848, 4820328, -1619072
+
+Guide entries:
+15 MOONS, ONLY ONE OF WHICH IS INTERESTING.

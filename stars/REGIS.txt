@@ -1,0 +1,9 @@
+Star: REGIS
+Star class: S10
+Paris coordinates: 5925712, 8139605, -5225608
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 605.490

@@ -1,0 +1,3 @@
+Planet: FUCHSILO
+Starmap index: 24
+Paris coordinates: 3559632, 4410553, -1049465

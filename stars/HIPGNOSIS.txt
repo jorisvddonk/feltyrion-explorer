@@ -1,0 +1,11 @@
+Star: HIPGNOSIS
+Star class: S00
+Paris coordinates: -3834256, 542131, -2848177
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (+ substellar object)
+- Planet #2 (f felisian)
+- ROGER-SYD-BARRETT (f felisian)
+- Planet #4 (d dusty, craterized)

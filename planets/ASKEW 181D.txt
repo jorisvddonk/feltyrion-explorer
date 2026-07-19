@@ -1,0 +1,3 @@
+Planet: ASKEW 181D
+Starmap index: 04
+Paris coordinates: 3903184, -41353, 3093622

@@ -1,0 +1,9 @@
+Star: ASKEW 97
+Star class: S05
+Paris coordinates: 11338448, -19306542, 17130096
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- ASKEW 97A (k thick atmosphere)
+- ASKEW 97B (q quartz surface)
+- ASKEW 97C (r rocky, creased)

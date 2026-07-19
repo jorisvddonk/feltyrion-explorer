@@ -1,0 +1,3 @@
+Planet: W.T. 1
+Starmap index: 01
+Paris coordinates: -29049520, -19019074, -900080466

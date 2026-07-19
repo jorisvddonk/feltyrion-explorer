@@ -1,0 +1,10 @@
+Star: GREGORY
+Star class: S06
+Paris coordinates: 4086768, 4511795, 67183
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY SIRKING, 6011.687.459                                         
+USABLE LITHIUM SOURCE                                                       

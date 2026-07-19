@@ -1,0 +1,46 @@
+Star: FRISOFORA
+Star class: S00
+Paris coordinates: 4142128, 4282625, -592209
+Bodies: 33 (11 planets, 22 moons)
+
+System:
+- LANTE (k thick atmosphere)
+- RACHI (r rocky, creased)
+- FACE VALUE (f felisian)
+  - DOYCO (d dusty, craterized)
+  - YREN (d dusty, craterized)
+  - DIGEN (d dusty, craterized)
+- TERRA DOIS (f felisian)
+  - VANAG (d dusty, craterized)
+- ANTA (n thin atmosphere)
+  - ENJ (d dusty, craterized)
+- EXAN (+ substellar object)
+  - BAD WORDS (f felisian)
+  - UNSAVORY PLACE (f felisian)
+  - TORZE (^ unstable)
+  - ZAAR (d dusty, craterized)
+  - ENSCHE (d dusty, craterized)
+  - RAMAT (^ unstable)
+  - AMETHISTIANA (f felisian)
+  - AROD (d dusty, craterized)
+  - UVET (k thick atmosphere)
+  - MUEZ (r rocky, creased)
+  - OTROP (d dusty, craterized)
+  - LARDYS (r rocky, creased)
+  - DRACH (^ unstable)
+  - STUMA (k thick atmosphere)
+  - ARIN (r rocky, creased)
+- MONAR (k thick atmosphere)
+  - RAYA (n thin atmosphere)
+  - ANGEI (d dusty, craterized)
+- UTTHIN (n thin atmosphere)
+- ELION (d dusty, craterized)
+- PONNE (i icy surface)
+- CANTHU (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM DISCOVERED BY UNKNOWN. ONLY THE
+STAR AND ONE MOON HAD BEEN NAMED, WITHOUT COMMENT. I CHOSE TO
+EXPLORE THIS SYSTEM BECAUSE IT APPEARED UNTOUCHED. IT'S A ROUGH JOB,
+BUT SOME FOOL HAS TO DO IT. 11 PLANETS, 22 MOONS, 5 (COUNT 'EM 5)
+FELISIAN WORLDS. SKINNYMON EPOC 6011 571.657

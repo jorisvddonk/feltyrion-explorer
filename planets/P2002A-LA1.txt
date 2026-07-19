@@ -1,0 +1,3 @@
+Planet: P2002A-LA1
+Starmap index: 01
+Paris coordinates: 3414992, 5189610, -1467863

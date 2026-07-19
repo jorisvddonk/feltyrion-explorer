@@ -1,0 +1,6 @@
+Star: GASTAR XI
+Star class: S06
+Paris coordinates: 50000, 422511, 177290
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: PITSTOP 34
+Star class: S06
+Paris coordinates: 264464, 352063, 1515565063
+Bodies: 0 (0 planets, 0 moons)
+
+System:

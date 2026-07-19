@@ -1,0 +1,15 @@
+Star: PITSTOP1
+Star class: S00
+Paris coordinates: 220241296, -21085, 219921483
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- PITSTOP1 I (q quartz surface)
+- PITSTOP1 II (+ substellar object)
+- FORMIA (f felisian)
+- ANTALOM (f felisian)
+- PITSTOP1 V (d dusty, craterized)
+
+Guide entries:
+AN S00 STAR, ABOUT 6 PLANETS. TAKING A BREAK HERE FROM MY TRIP TO
+THE EDGE. (SCHMERM 6011 596.573)

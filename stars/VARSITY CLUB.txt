@@ -1,0 +1,27 @@
+Star: VARSITY CLUB
+Star class: S08
+Paris coordinates: 1387856, 111504, -1046107
+Bodies: 21 (5 planets, 16 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (+ substellar object)
+  - Moon #9 (^ unstable)
+  - Moon #10 (f felisian)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (r rocky, creased)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

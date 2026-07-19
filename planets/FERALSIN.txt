@@ -1,0 +1,6 @@
+Planet: FERALSIN
+Starmap index: 04
+Paris coordinates: 2490704, 1503553, -26371
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:584.292.223

@@ -1,0 +1,6 @@
+Star: W'ROOTMAROOS
+Star class: S06
+Paris coordinates: 1150000, 51750000, -1250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

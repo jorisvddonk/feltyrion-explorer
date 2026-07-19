@@ -1,0 +1,10 @@
+Star: BUDO
+Star class: S06
+Paris coordinates: 3428560, 4460293, -708745
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A STANDARD COLD AND GIANT S06, NO ORBITING BODIES, GREAT FOR A REFUEL.
+(NAMED AND NOTED BY N5CORP ON 6011:627.442)

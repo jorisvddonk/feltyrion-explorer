@@ -1,0 +1,28 @@
+Star: EKA69
+Star class: S00
+Paris coordinates: 118928, -45237, 83832
+Bodies: 14 (4 planets, 10 moons)
+
+System:
+- BEAUTIFUL AGONY (r rocky, creased)
+- BADLANDS (r rocky, creased)
+- CHOCOLATE SUNDAE (@ large, not consistent)
+  - PEANUTS (k thick atmosphere)
+  - GOOEY CARAMEL (^ unstable)
+  - SPRINKLES (d dusty, craterized)
+  - WHIPPED CREAM (f felisian)
+  - GREEN CANDY (k thick atmosphere)
+  - CHOCOLATE CHIPS (n thin atmosphere)
+  - WHITE FUDGE (d dusty, craterized)
+  - GREEN SPRINKLES (k thick atmosphere)
+  - CHOCOLATE SPRINKLES (n thin atmosphere)
+  - MYSTERY SYRUP (f felisian)
+- Planet #3 (r rocky, creased)
+
+Guide entries:
+AN S00 STAR WITH 4 PLANETS AND 10 MOONS. --EKA
+I'M FINISHED LABELING THIS SYSTEM. NOT A BAD ONE. THE THIRD PLANET,
+CHOCOLATE SUNDAE, HAS AN INTERESTING FELISIAN MOON I SUGGEST VISITING.
+THE MOON IS CALLED MYSTERY SYRUP. IT'S ODDITIES INCLUDE TRANSPARENT
+TREES, TWIN CRATERS AT THE SOUTH POLE AREA, AND A STRANGE LAND/WATER
+COMPOSITION. --EKA

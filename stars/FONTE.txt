@@ -1,0 +1,10 @@
+Star: FONTE
+Star class: S06
+Paris coordinates: -294640, 134247, -230823
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.334
+GOOD FOR SCOPING LI+

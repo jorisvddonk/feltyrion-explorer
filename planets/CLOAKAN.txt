@@ -1,0 +1,3 @@
+Planet: CLOAKAN
+Starmap index: 15
+Paris coordinates: 2508208, 3870789, -1004086

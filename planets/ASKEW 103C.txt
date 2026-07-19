@@ -1,0 +1,3 @@
+Planet: ASKEW 103C
+Starmap index: 03
+Paris coordinates: 2139952, -12054346, 9064463

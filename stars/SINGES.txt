@@ -1,0 +1,11 @@
+Star: SINGES
+Star class: S00
+Paris coordinates: 26715760, 6722533, 44768408
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- EEREEMEG (r rocky, creased)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S00 WITH ONLY ONE PLANET.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:636:930

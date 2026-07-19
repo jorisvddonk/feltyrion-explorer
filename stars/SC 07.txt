@@ -1,0 +1,10 @@
+Star: SC 07
+Star class: S08
+Paris coordinates: -3882832, -80241, -1736755
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (r rocky, creased)
+- Planet #1 (d dusty, craterized)

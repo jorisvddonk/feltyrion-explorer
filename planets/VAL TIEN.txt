@@ -1,0 +1,3 @@
+Planet: VAL TIEN
+Starmap index: 02
+Paris coordinates: 2552848, 4541525, -310791

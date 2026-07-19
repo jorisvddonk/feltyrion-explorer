@@ -1,0 +1,3 @@
+Planet: TITAN SON
+Starmap index: 09
+Paris coordinates: 4904272, 4729963, -1676767

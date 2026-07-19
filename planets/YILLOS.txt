@@ -1,0 +1,3 @@
+Planet: YILLOS
+Starmap index: 02
+Paris coordinates: 3542128, 4619626, 37971

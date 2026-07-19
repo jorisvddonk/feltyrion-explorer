@@ -1,0 +1,8 @@
+Star: EMPOWERMENT
+Star class: S00
+Paris coordinates: 15768176, -31696498, -6785198
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- TEAL DIRECT (d dusty, craterized)
+- GARBAGE SCOW (d dusty, craterized)

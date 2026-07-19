@@ -1,0 +1,3 @@
+Planet: NERVALA-E-S14
+Starmap index: 22
+Paris coordinates: 3027888, -571017, -9937342

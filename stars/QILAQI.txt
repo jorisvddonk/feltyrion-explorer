@@ -1,0 +1,13 @@
+Star: QILAQI
+Star class: S00
+Paris coordinates: 3459632, 5095682, -784034
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- MANIQ (@ large, not consistent)
+- NAVIN (r rocky, creased)
+- KALAALA (f felisian)
+  - AVAIQ (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY JILL EPOC 6011 626.541.256

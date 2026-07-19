@@ -1,0 +1,6 @@
+Planet: BECKER'S DELIGHT
+Starmap index: 29
+Paris coordinates: 2452848, 6151009, -358039
+
+Guide entries:
+ NIL WITTHANEYE 6011 666.540.434 APPROX, TENNIS?

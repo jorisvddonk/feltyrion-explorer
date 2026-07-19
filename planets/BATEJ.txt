@@ -1,0 +1,7 @@
+Planet: BATEJ
+Starmap index: 20
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M01/P07 SMALL SOLID TIN ATMO, SLIGHTLY DARK, SLIGHT POLAR CAPS. PRO         
+0.173.160 PRV 0.003.805.067 SKINNYMON 6011 797.100                          

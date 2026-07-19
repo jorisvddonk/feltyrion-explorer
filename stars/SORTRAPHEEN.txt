@@ -1,0 +1,6 @@
+Star: SORTRAPHEEN
+Star class: S06
+Paris coordinates: 750000, 3050000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

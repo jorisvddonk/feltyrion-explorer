@@ -1,0 +1,39 @@
+Star: BEBECEE
+Star class: S00
+Paris coordinates: 4879984, 4546309, -1156168
+Bodies: 27 (9 planets, 18 moons)
+
+System:
+- IL'S TOPAZ (d dusty, craterized)
+- AURORA BOREALIS (@ large, not consistent)
+- REVELATION (f felisian)
+  - TARKIN (d dusty, craterized)
+  - AKAMAY (n thin atmosphere)
+- OPALEYE (q quartz surface)
+- CAPACIT (@ large, not consistent)
+  - MOLEF (k thick atmosphere)
+  - ARDHEA (n thin atmosphere)
+  - RIMOR (d dusty, craterized)
+- DISCREET SWIRL (q quartz surface)
+- BROOD (k thick atmosphere)
+  - IMIAN (d dusty, craterized)
+- MOUNDIS (d dusty, craterized)
+- BARDIVAL (@ large, not consistent)
+  - TIVE (i icy surface)
+  - URLEA (k thick atmosphere)
+  - EBAR (i icy surface)
+  - LAUDAN (r rocky, creased)
+  - PUSTU (i icy surface)
+  - IELDMO (i icy surface)
+  - NOIS (i icy surface)
+  - DIAMNA (i icy surface)
+  - ARITA (i icy surface)
+  - HADOW (i icy surface)
+  - SYRAL (i icy surface)
+  - QUETZ (i icy surface)
+
+Guide entries:
+ DISCOVERED BY NYQUIST ON 6011.569.595
+MOSTLY HARMLESS
+S00 CLASS STAR WITH 9 PLANETS AND 18 MINOR BODIES.
+MASS 1.23914394 BAL. M., SURFACE TEMP 6320K.

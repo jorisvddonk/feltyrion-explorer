@@ -1,0 +1,6 @@
+Star: ALSAKI CCIII
+Star class: S05
+Paris coordinates: 15799248, 32424301, -7028195
+Bodies: 0 (0 planets, 0 moons)
+
+System:

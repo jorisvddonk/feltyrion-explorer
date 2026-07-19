@@ -1,0 +1,3 @@
+Planet: COMPLEANNO
+Starmap index: 26
+Paris coordinates: 2521776, 5015370, -132554

@@ -1,0 +1,9 @@
+Star: BLUE BLAZE
+Star class: S07
+Paris coordinates: 4604272, 4397418, -1321038
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.17.777

@@ -1,0 +1,3 @@
+Planet: DEDLOV
+Starmap index: 01
+Paris coordinates: 4286768, 5144020, -157515

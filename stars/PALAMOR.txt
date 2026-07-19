@@ -1,0 +1,11 @@
+Star: PALAMOR
+Star class: S00
+Paris coordinates: 1174288, 1494814, -1510983
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MARG (k thick atmosphere)
+- DOMDOUZIS (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.257

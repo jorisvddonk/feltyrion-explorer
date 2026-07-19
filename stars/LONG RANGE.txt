@@ -1,0 +1,9 @@
+Star: LONG RANGE
+Star class: S06
+Paris coordinates: 2139280, 5372503, -704619
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERER ALEXX, EPOC 6011:602.471.

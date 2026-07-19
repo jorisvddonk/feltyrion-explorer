@@ -1,0 +1,3 @@
+Planet: ASKEW 49F6
+Starmap index: 30
+Paris coordinates: 11331664, -19103394, 16761200

@@ -1,0 +1,6 @@
+Star: RECONDITE IV-B
+Star class: S06
+Paris coordinates: 216250000, 50050000, -216350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

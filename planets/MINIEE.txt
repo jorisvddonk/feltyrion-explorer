@@ -1,0 +1,3 @@
+Planet: MINIEE
+Starmap index: 10
+Paris coordinates: 4855696, 4327844, -667718

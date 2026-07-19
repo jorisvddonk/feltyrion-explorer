@@ -1,0 +1,10 @@
+Star: WIGU
+Star class: S06
+Paris coordinates: 3842128, 5216662, -285746
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOUR WONDERFULLY TYPICAL GRAY GIANT, NOTHING OUT OF THE NORM.
+(NOTES, NAME, AND DISCOVERY BY N5CORP ON 6011:624.750.)

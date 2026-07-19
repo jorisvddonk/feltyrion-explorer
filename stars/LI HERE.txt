@@ -1,0 +1,6 @@
+Star: LI HERE
+Star class: S06
+Paris coordinates: -11344, 1197350, 226468705
+Bodies: 0 (0 planets, 0 moons)
+
+System:

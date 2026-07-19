@@ -1,0 +1,3 @@
+Planet: KANGACAT
+Starmap index: 04
+Paris coordinates: 5493552, 5026325, -935791

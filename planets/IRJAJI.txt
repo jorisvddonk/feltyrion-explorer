@@ -1,0 +1,8 @@
+Planet: IRJAJI
+Starmap index: 05
+Paris coordinates: 2061228144, -1654027, 3059941
+
+Guide entries:
+M02/P03 LARGE NOT CONSISTENT, CLOUD COVER A GREY SHADE WITH DARK BANDS,     
+MANY BRIGHT MOSTLY SMALL STORMS. PRO 0.169.920 PRV 0.001.545.751            
+SKINNYMON 6011 796.70                                                       

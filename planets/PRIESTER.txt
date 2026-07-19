@@ -1,0 +1,3 @@
+Planet: PRIESTER
+Starmap index: 05
+Paris coordinates: 4121776, 5030897, -1849493

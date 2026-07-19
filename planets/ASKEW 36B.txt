@@ -1,0 +1,3 @@
+Planet: ASKEW 36B
+Starmap index: 02
+Paris coordinates: 11827728, -18981101, 17961597

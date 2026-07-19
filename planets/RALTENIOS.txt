@@ -1,0 +1,3 @@
+Planet: RALTENIOS
+Starmap index: 03
+Paris coordinates: 3997488, 4763426, -1139241

@@ -1,0 +1,8 @@
+Planet: ARA-GONZALEZ
+Starmap index: 08
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.684.87 -                                
+MEDIUM SIZE, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.            
+MOONS: 1.                                                                   

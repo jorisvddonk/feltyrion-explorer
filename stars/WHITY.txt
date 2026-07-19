@@ -1,0 +1,12 @@
+Star: WHITY
+Star class: S02
+Paris coordinates: 2711056, 4822800, 871150
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- BORONTI (n thin atmosphere)
+- PHILO (d dusty, craterized)
+- LIAM (q quartz surface)
+- GUNTER LAG (d dusty, craterized)
+- KAL HALA (q quartz surface)
+- ESCALY (@ large, not consistent)

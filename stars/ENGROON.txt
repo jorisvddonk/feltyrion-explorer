@@ -1,0 +1,11 @@
+Star: ENGROON
+Star class: S06
+Paris coordinates: 2146558992, 1344897, 2098891121
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:588.715
+(S06) LI+
+COORDINATES = 2146558992, 1344897, 2098891121

@@ -1,0 +1,11 @@
+Star: LANTERN
+Star class: S00
+Paris coordinates: 4642128, 5025898, -1054674
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SON OF MARS (n thin atmosphere)
+
+Guide entries:
+FURTHER NOTES: DISCOVERER OF THIS SYSTEM UNKNOWN. CLASS S00 STAR
+1 PLANET, NOT VERY INTERESTING. SKINNYMON EPOC 6011 569.521

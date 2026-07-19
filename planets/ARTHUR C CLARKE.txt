@@ -1,0 +1,3 @@
+Planet: ARTHUR C CLARKE
+Starmap index: 02
+Paris coordinates: 4482832, 3728235, 1299762

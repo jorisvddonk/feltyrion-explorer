@@ -1,0 +1,13 @@
+Star: DUL
+Star class: S00
+Paris coordinates: -614992, 934031, -1248279
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GREQ (q quartz surface)
+- POTCHULAN (d dusty, craterized)
+
+Guide entries:
+THIS IS A YELLOW STAR WHICH IS HOME TO 2 SEPERATE PLANETS. NEITHER ARE
+LIFE BEARING WORLDS, THOUGH ONE IS A SITE FOR SOAR EYES. NICE REST STOP.
+(ATO EPOC 6011.610.933.918)

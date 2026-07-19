@@ -1,0 +1,15 @@
+Star: EMOBIJFHSUDA
+Star class: S08
+Paris coordinates: 2082626640, -917079, -1091847
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- KAKES (@ large, not consistent)
+- CAJDIR (k thick atmosphere)
+- KATUMUL (@ large, not consistent)
+  - SOUDFHS (k thick atmosphere)
+
+Guide entries:
+FALSE CLASS S08 WITH NO COMPANION STAR. 3 PLANETS 1 MOON, ALL               
+HAVE CLOUD ATMOS. 0.78359097 BAL. M. TEMP 3820 K RAD 29KR                   
+COOR 2082626649;-917079;-1091847; SKINNYMON 6011 793.786                    

@@ -1,0 +1,6 @@
+Star: FS12270117
+Star class: S06
+Paris coordinates: 49975600, 277880, 1451065144
+Bodies: 0 (0 planets, 0 moons)
+
+System:

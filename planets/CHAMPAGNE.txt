@@ -1,0 +1,3 @@
+Planet: CHAMPAGNE
+Starmap index: 03
+Paris coordinates: 1032496, 5728, -40498

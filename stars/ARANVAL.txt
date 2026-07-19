@@ -1,0 +1,18 @@
+Star: ARANVAL
+Star class: S00
+Paris coordinates: 3039280, 4757874, -1629490
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- GOLDEN SEA (d dusty, craterized)
+- GAZTELUGATXE (r rocky, creased)
+- IKATZ (n thin atmosphere)
+- BAS-AURI (f felisian)
+  - VALLEVERDE (d dusty, craterized)
+  - CAMPOESTRELLA (d dusty, craterized)
+  - SOLORIA (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY ATTRADIS, EPOC 6011:559.770
+MAIN STAR OF A 4 PLANET SYSTEM. ONE OF THEM IS INHABITED
+NOTES BY ATTRADIS, EPOC 6011:599.770

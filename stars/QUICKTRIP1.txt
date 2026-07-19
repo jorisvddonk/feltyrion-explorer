@@ -1,0 +1,6 @@
+Star: QUICKTRIP1
+Star class: S06
+Paris coordinates: 8265328, 6307923, -1519334
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: CORONAE
+Starmap index: 06
+Paris coordinates: 4821776, 4604922, -2453236

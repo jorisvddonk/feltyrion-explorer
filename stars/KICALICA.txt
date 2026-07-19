@@ -1,0 +1,6 @@
+Star: KICALICA
+Star class: S00
+Paris coordinates: 4155696, 4561360, 232380
+Bodies: 0 (0 planets, 0 moons)
+
+System:

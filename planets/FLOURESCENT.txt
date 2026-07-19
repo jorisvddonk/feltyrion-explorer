@@ -1,0 +1,6 @@
+Planet: FLOURESCENT
+Starmap index: 01
+Paris coordinates: 11052016, -19359857, 17958827
+
+Guide entries:
+FOUND EPOC 6011 586.913.000 BY ROLAND ASKEW

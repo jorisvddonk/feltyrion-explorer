@@ -1,0 +1,3 @@
+Planet: VAL CALHORN
+Starmap index: 01
+Paris coordinates: 2552848, 4541525, -310791

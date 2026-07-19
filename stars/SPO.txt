@@ -1,0 +1,8 @@
+Star: SPO
+Star class: S00
+Paris coordinates: -136432, 645069, 1079931
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- EVO (@ large, not consistent)
+- OTO (q quartz surface)

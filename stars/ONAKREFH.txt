@@ -1,0 +1,6 @@
+Star: ONAKREFH
+Star class: S07
+Paris coordinates: 7850000, -50000, -7950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

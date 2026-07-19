@@ -1,0 +1,3 @@
+Planet: XORA
+Starmap index: 02
+Paris coordinates: 5778896, 4368741, 1774831

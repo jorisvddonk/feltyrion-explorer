@@ -1,0 +1,8 @@
+Planet: LITIMDI
+Starmap index: 01
+Paris coordinates: 2060398160, -1842327, 78233
+
+Guide entries:
+P01/07 SMALL SOLID DUSTY MOSTLY MOTTLED AND REFLECTIVE, A FEW               
+CRATERS STAND OUT. PRO 0.193.320 PRV 0.010.719.728 SKINNYMON 6011           
+796.142                                                                     

@@ -1,0 +1,3 @@
+Planet: ABYNIUM
+Starmap index: 06
+Paris coordinates: 4773200, 4804238, -1220168

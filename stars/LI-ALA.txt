@@ -1,0 +1,9 @@
+Star: LI-ALA
+Star class: S06
+Paris coordinates: 274288, -51809366, -626398
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LOST AND LITHIUM-FREE. (TWOTWOS, 6012:247.7)

@@ -1,0 +1,30 @@
+Star: UNUK
+Star class: S00
+Paris coordinates: 552176, 4840885, -8002363
+Bodies: 20 (12 planets, 8 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- ALLAYB (f felisian)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (d dusty, craterized)
+- Planet #7 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #8 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+THIS STAR HAS 12 PLANETS AND 8 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:577.647

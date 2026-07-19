@@ -1,0 +1,15 @@
+Star: JIMFHUNAS
+Star class: S08
+Paris coordinates: 634558096, -10372635, 48090201
+Bodies: 3 (2 planets, 1 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (* companion star)
+  - Moon #0 (q quartz surface)
+
+Guide entries:
+CLASS S)8 WITH ONE COMPANION STAR AND TWO OTHER WORLDS. 0.91891229          
+BAL. M.; TEMP 3770K; RAD 28.3 KR; COOR 634558096; -10372635;                
+48090201 SKINNYMON 6011.916.933                                             
+RETURN EXPEDITION 6012 060.263, 02 TYPE PRIMARY. P02 AT 8.80 DYAMS

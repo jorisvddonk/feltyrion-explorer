@@ -1,0 +1,12 @@
+Planet: ARMOUR SON
+Starmap index: 01
+Paris coordinates: 1122864, 4909945, -2578195
+
+Guide entries:
+ DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.191.905.                         
+DARK SURFACE WITH ROLLING HILLS. THICK GREEN ATMOSHPERE.                    
+(RYLIE THOMAS, EPOC 6011:727.193.405)                                       
+NORTH POLE CONTAINS MORE DERIVATION INLAND FORM AND MINERALS.               
+(RT, EPOC 6011:727.194.92)                                                  
+SOUTH POLE IS FLAT, WITH BEAUTIFUL LARGE ROCKS.                             
+(RYLIR THOMAS, EPOC 6O11:727.194.492)                                       

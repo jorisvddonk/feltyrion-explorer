@@ -1,0 +1,8 @@
+Star: REDGIANTEY
+Star class: S03
+Paris coordinates: -72528144, -1444213, 56428509
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- INCREDIBLY (+ substellar object)
+- GLOWCRYSTALY (r rocky, creased)

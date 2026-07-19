@@ -1,0 +1,3 @@
+Planet: SALTA
+Starmap index: 03
+Paris coordinates: 4862480, 5230855, -92873

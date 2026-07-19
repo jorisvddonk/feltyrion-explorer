@@ -1,0 +1,6 @@
+Star: LITHUIM NEGATIVE
+Star class: S06
+Paris coordinates: 3404272, 3998312, -198144
+Bodies: 0 (0 planets, 0 moons)
+
+System:

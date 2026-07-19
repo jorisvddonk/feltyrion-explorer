@@ -1,0 +1,7 @@
+Planet: TOYN
+Starmap index: 60
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M19/P10 SMALL SOLID ICY LIGHT PURPLE WITH MUCH WHITE GROOVING. PRO 0.077.   
+400 PRV 0.004.982.564 SKINNYMON 6011 792.251                                

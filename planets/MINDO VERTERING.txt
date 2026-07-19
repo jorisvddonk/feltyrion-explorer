@@ -1,0 +1,3 @@
+Planet: MINDO VERTERING
+Starmap index: 03
+Paris coordinates: 3717840, 4160522, 265975

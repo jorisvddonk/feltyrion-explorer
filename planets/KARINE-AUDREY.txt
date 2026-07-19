@@ -1,0 +1,6 @@
+Planet: KARINE-AUDREY
+Starmap index: 03
+Paris coordinates: 4035344, 4384112, -831279
+
+Guide entries:
+PLANET DISCOVERED BY MANUEL F. LANCTOT, AT EPOC 6011;576.193

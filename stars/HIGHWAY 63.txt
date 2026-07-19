@@ -1,0 +1,16 @@
+Star: HIGHWAY 63
+Star class: S09
+Paris coordinates: 1262896, 141996, -9926149
+Bodies: 10 (4 planets, 6 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (^ unstable)
+  - Moon #4 (^ unstable)

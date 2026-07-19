@@ -1,0 +1,6 @@
+Planet: CYAN
+Starmap index: 02
+Paris coordinates: 3283920, 6172695, -1224010
+
+Guide entries:
+MED SIZED, OXYGEN ATMOSHERE (KRUSTY 6011:600.975)

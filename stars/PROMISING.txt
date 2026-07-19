@@ -1,0 +1,17 @@
+Star: PROMISING
+Star class: S08
+Paris coordinates: 5453520, -1874551, 6355742
+Bodies: 6 (2 planets, 4 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (d dusty, craterized)
+- Planet #1 (* companion star)
+  - Moon #0 (f felisian)
+  - Moon #1 (k thick atmosphere)
+
+Guide entries:
+A NICE BINARY SYSTEM, BUT NO GOOD PLANETS OR MOONS. NO PLANETS AT
+ALL, FOR THAT MATTER.
+STAR FOUND BY DR. WORM, EPOC 6011: 659.721

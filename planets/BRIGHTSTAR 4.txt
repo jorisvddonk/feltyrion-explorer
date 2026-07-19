@@ -1,0 +1,3 @@
+Planet: BRIGHTSTAR 4
+Starmap index: 04
+Paris coordinates: 11467760, 12279706, 10830563

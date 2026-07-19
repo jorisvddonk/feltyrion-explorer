@@ -1,0 +1,13 @@
+Star: B EXPRESS 14 STATION
+Star class: S06
+Paris coordinates: -39078896, 1759118, 31778572
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+QUITE A BIT OF LI+.                                                         
+PLENTIFUL LI+.                                                              
+DROP OF POINT FOR A CLUSTER PROBABLY NAMED BY STARDRIFTER                   
+STARSTRIDER. ALSO, LINK UP WITH THE ALFAFA CLUSTER WITH                     
+THE CENTRAL LINE.                                                           

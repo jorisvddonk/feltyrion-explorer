@@ -1,0 +1,3 @@
+Planet: LIAMANTEOUS 8
+Starmap index: 08
+Paris coordinates: 4666416, 4712546, -1738732

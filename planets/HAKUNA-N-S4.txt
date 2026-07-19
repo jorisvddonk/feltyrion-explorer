@@ -1,0 +1,3 @@
+Planet: HAKUNA-N-S4
+Starmap index: 76
+Paris coordinates: 264656, 999491, -3130269

@@ -1,0 +1,7 @@
+Planet: ARCTICOR
+Starmap index: 07
+Paris coordinates: -87856, 69100, -95029
+
+Guide entries:
+AN UNBEARABLY COLD FELYSIAN WORLD IN PERMANENT WINTER.
+(SCHMERM 6011 579.899)

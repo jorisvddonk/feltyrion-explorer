@@ -1,0 +1,3 @@
+Planet: OLDR
+Starmap index: 43
+Paris coordinates: 1983920, -25155371, 68899

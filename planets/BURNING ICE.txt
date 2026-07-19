@@ -1,0 +1,3 @@
+Planet: BURNING ICE
+Starmap index: 01
+Paris coordinates: -71668848, -580907, 53302099

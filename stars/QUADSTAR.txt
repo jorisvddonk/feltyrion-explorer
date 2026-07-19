@@ -1,0 +1,15 @@
+Star: QUADSTAR
+Star class: S08
+Paris coordinates: 3621776, 4593277, -1283613
+Bodies: 9 (3 planets, 6 moons)
+
+System:
+- QUADSTAR ALPHA (* companion star)
+  - OXYQUARTZ (q quartz surface)
+  - GREENY (f felisian)
+- QUADSTAR BETA (* companion star)
+  - CRATY (r rocky, creased)
+- QUADSTAR GAMMA (* companion star)
+  - ACID CLOUD (k thick atmosphere)
+  - SPLOTCH (@ large, not consistent)
+  - DUSTIER (d dusty, craterized)

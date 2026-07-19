@@ -1,0 +1,3 @@
+Planet: WATERWORLD
+Starmap index: 03
+Paris coordinates: 4579984, 5173244, -727048

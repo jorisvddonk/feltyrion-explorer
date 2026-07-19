@@ -1,0 +1,41 @@
+Star: BETINORM VI
+Star class: S00
+Paris coordinates: 3848912, 4036426, 94778
+Bodies: 32 (9 planets, 23 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+- Planet #2 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (^ unstable)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (^ unstable)
+  - Moon #12 (^ unstable)
+  - Moon #13 (n thin atmosphere)
+  - Moon #14 (@ large, not consistent)
+- BOROK TAL (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- PESS VEIRO (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- SUKHA BEVIL (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (r rocky, creased)
+
+Guide entries:
+THIS SYSTEM HAS SEVERAL HABITABLE PLANETS.                                  

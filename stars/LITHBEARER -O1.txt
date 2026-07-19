@@ -1,0 +1,6 @@
+Star: LITHBEARER -O1
+Star class: S06
+Paris coordinates: 3973200, 5521255, -502772
+Bodies: 0 (0 planets, 0 moons)
+
+System:

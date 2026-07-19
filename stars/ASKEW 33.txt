@@ -1,0 +1,6 @@
+Star: ASKEW 33
+Star class: S06
+Paris coordinates: 11727728, -19212154, 17988622
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: GAS GIANT 0002
+Starmap index: 05
+Paris coordinates: 6251760, 5044996, -324250

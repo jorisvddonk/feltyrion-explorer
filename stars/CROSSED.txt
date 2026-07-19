@@ -1,0 +1,6 @@
+Star: CROSSED
+Star class: S00
+Paris coordinates: 1550000, 4850000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

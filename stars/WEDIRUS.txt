@@ -1,0 +1,6 @@
+Star: WEDIRUS
+Star class: S09
+Paris coordinates: 3163568, 4776122, -2203306
+Bodies: 0 (0 planets, 0 moons)
+
+System:

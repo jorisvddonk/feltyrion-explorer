@@ -1,0 +1,6 @@
+Star: POOLSAR
+Star class: S11
+Paris coordinates: -105943824, 25720457, -41471
+Bodies: 0 (0 planets, 0 moons)
+
+System:

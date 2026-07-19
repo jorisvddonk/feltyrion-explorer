@@ -1,0 +1,3 @@
+Planet: PIRU
+Starmap index: 05
+Paris coordinates: 1194640, -18470514, -525444

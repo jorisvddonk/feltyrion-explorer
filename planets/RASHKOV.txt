@@ -1,0 +1,3 @@
+Planet: RASHKOV
+Starmap index: 04
+Paris coordinates: -108980592, 25731476, -852320

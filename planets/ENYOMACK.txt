@@ -1,0 +1,8 @@
+Planet: ENYOMACK
+Starmap index: 10
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M07/03 MEDIUM SIZE THICK ATMO CLOUDS TAN WITH LARGE DARK BANDS, STORM       
+ACTIVITY IN SOUTH. PRO 0.203.760 PRV 0.002.959.896 SKINNYMON 0.002.         
+959.896 SKINNYMON 6011 795.102                                              

@@ -1,0 +1,3 @@
+Planet: DUE
+Starmap index: 04
+Paris coordinates: -106577744, 25493358, -1238174

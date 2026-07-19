@@ -1,0 +1,10 @@
+Star: VORDINE
+Star class: S06
+Paris coordinates: 3879984, 5516450, -196920
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A GAS GIANT RICH IN LI++. NOT VERY USEFULL FOR A STARDRIFTER.
+DISCOVERED BY ORTEGA, EPOCH 6011:621.695

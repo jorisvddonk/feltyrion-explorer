@@ -1,0 +1,3 @@
+Planet: PROPHECY
+Starmap index: 02
+Paris coordinates: 2532496, 4432003, -1540265

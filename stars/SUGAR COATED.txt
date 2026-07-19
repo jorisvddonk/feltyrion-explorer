@@ -1,0 +1,6 @@
+Star: SUGAR COATED
+Star class: S11
+Paris coordinates: 3952848, 4320328, -1650913
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,18 @@
+Star: NUSE
+Star class: S00
+Paris coordinates: 3939280, 4643244, -2540327
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+- BLUJA (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+A YELLOW STAR WITH 5 PLANETS AND 4 MOONS-ANGOLODH-EPOCH 6011

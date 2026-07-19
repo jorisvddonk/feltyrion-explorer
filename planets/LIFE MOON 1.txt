@@ -1,0 +1,3 @@
+Planet: LIFE MOON 1
+Starmap index: 07
+Paris coordinates: 4209968, 4265947, 3246571

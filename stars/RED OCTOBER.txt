@@ -1,0 +1,6 @@
+Star: RED OCTOBER
+Star class: S03
+Paris coordinates: -20841872, -5519832, 40773633
+Bodies: 0 (0 planets, 0 moons)
+
+System:

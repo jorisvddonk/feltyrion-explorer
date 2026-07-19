@@ -1,0 +1,7 @@
+Planet: CYLIS
+Starmap index: 01
+Paris coordinates: 2029806864, -1864014, 355778
+
+Guide entries:
+P01/07 MEDIUM SIZED, ROCKY, VERY SCARRED, CRATERS, ROUH, AND GREEN. PRO     
+0.149.400 PRV 0.006.617.206 SKINNYMON 6011 797.357                          

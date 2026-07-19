@@ -1,0 +1,3 @@
+Planet: BILLING
+Starmap index: 01
+Paris coordinates: 2305360, 4296051, -2854289

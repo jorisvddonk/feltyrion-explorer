@@ -1,0 +1,6 @@
+Planet: YETTON
+Starmap index: 02
+Paris coordinates: -4872112, -75428596, -2064196
+
+Guide entries:
+ DICOVERED BY JAFO. EPOC 6011:583.286

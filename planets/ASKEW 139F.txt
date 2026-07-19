@@ -1,0 +1,3 @@
+Planet: ASKEW 139F
+Starmap index: 06
+Paris coordinates: 9266672, -17450856, 16757336

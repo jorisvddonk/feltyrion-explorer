@@ -1,0 +1,3 @@
+Planet: ASKEW 64K12
+Starmap index: 60
+Paris coordinates: 11083088, -19266817, 17947109

@@ -1,0 +1,3 @@
+Planet: ZABRIUS
+Starmap index: 02
+Paris coordinates: 4217840, 4251864, -191307

@@ -1,0 +1,3 @@
+Planet: GLAMTHS
+Starmap index: 01
+Paris coordinates: 5689616, 4314139, 534051

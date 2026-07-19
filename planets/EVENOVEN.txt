@@ -1,0 +1,3 @@
+Planet: EVENOVEN
+Starmap index: 04
+Paris coordinates: 4424624, 5286076, -32632

@@ -1,0 +1,10 @@
+Star: LITHIUM MINE 2
+Star class: S06
+Paris coordinates: 17987024, 4125270, 9332167
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FOUND BY PONTUS OTTOSSON
+CCAST GROTOD: FOUND BY PONTUS OTTOSSON 609.468.572, VISIT IT!

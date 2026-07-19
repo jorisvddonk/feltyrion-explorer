@@ -1,0 +1,3 @@
+Planet: LAGASH E
+Starmap index: 04
+Paris coordinates: -13152432, -295929, -2253203

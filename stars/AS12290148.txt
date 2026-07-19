@@ -1,0 +1,12 @@
+Star: AS12290148
+Star class: S02
+Paris coordinates: 47735088, 310348, 1980260268
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- AS12290148A (q quartz surface)
+- AS12290148B (+ substellar object)
+- AS12290148C (n thin atmosphere)
+
+Guide entries:
+NO HABITABLE PLANETS.

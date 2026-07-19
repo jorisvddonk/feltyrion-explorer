@@ -1,0 +1,7 @@
+Planet: ZNRT
+Starmap index: 05
+Paris coordinates: -625712, 37800, 65623
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED SOME FLYING CREATURES.                
+(NOTES BY FRITZ, EPOC 6011:714.981)                                         

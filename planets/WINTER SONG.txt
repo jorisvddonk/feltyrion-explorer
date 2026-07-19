@@ -1,0 +1,3 @@
+Planet: WINTER SONG
+Starmap index: 02
+Paris coordinates: 3311056, 3828793, 280161

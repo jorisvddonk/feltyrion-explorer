@@ -1,0 +1,3 @@
+Planet: OCEANIS
+Starmap index: 41
+Paris coordinates: -61232592, 30020466, 379974

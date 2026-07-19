@@ -1,0 +1,3 @@
+Planet: DUSTIER
+Starmap index: 09
+Paris coordinates: 3621776, 4593277, -1283613

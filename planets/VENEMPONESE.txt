@@ -1,0 +1,3 @@
+Planet: VENEMPONESE
+Starmap index: 03
+Paris coordinates: 705360, 6128595, -1315005

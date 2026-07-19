@@ -1,0 +1,6 @@
+Star: LEINOS
+Star class: S09
+Paris coordinates: 3166416, 4641207, -262854
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,7 @@
+Star: ISTIONA
+Star class: S02
+Paris coordinates: 714992, -30516364, 1215212
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OKLQUE (d dusty, craterized)

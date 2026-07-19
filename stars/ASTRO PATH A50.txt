@@ -1,0 +1,18 @@
+Star: ASTRO PATH A50
+Star class: S00
+Paris coordinates: 6042960, 4410873, -29540185
+Bodies: 12 (3 planets, 9 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (f felisian)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (^ unstable)

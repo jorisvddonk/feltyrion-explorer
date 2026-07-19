@@ -1,0 +1,6 @@
+Planet: ARTANE 7
+Starmap index: 07
+Paris coordinates: 4421776, 3901041, -2079375
+
+Guide entries:
+DISCOVERERED BY KROMEBOY 6011.586.323

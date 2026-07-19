@@ -1,0 +1,13 @@
+Star: GARN
+Star class: S08
+Paris coordinates: 1352848, 399675, 689378
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- TOPZAN (@ large, not consistent)
+- COMPANION GARN (* companion star)
+  - CANTAK (+ substellar object)
+  - LAKITU (f felisian)
+
+Guide entries:
+ (DISCOVERED BY THE GREAT DEMENTO)

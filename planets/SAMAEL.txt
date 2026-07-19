@@ -1,0 +1,6 @@
+Planet: SAMAEL
+Starmap index: 08
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+ DEAD MOON, NO LIFE, OXYGEN ATMOSPHERE.

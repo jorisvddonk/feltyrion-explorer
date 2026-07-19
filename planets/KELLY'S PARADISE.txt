@@ -1,0 +1,3 @@
+Planet: KELLY'S PARADISE
+Starmap index: 10
+Paris coordinates: 9266672, -17450856, 16757336

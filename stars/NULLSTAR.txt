@@ -1,0 +1,6 @@
+Star: NULLSTAR
+Star class: S00
+Paris coordinates: 2646064, 4525340, -774714
+Bodies: 0 (0 planets, 0 moons)
+
+System:

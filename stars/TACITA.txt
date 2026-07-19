@@ -1,0 +1,28 @@
+Star: TACITA
+Star class: S00
+Paris coordinates: 2146064, 2235789, -296096
+Bodies: 18 (5 planets, 13 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- ASCIAN (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+- SUBSTELLAR OBJECT 5B (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (k thick atmosphere)
+  - FROST (f felisian)
+  - Moon #10 (d dusty, craterized)
+
+Guide entries:
+CATALOGUED 6011.565.184.342 BY JEREMY HUSSELL.
+S00 STAR APPROXIMATELY HALFWAY BETWEEN BALASTRACKONASTREYA AND FENIA.

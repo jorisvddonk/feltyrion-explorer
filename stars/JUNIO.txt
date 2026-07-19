@@ -1,0 +1,10 @@
+Star: JUNIO
+Star class: S06
+Paris coordinates: 5138192, 6376196, 124376
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:605.234
+ABUNDANCE OF SCOPABLE LITHIUM DISCOVERED HERE.

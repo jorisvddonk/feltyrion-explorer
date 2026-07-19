@@ -1,0 +1,3 @@
+Planet: SIGEL
+Starmap index: 02
+Paris coordinates: 1575952, 3915214, -56082526

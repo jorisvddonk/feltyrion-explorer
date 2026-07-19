@@ -1,0 +1,6 @@
+Planet: BLINDME
+Starmap index: 03
+Paris coordinates: -1532496, -973713, 623217
+
+Guide entries:
+WHITE PLANET, CRATORISED WITH NO ATMOSPHERE.

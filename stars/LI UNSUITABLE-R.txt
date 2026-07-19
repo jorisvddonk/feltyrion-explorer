@@ -1,0 +1,6 @@
+Star: LI UNSUITABLE-R
+Star class: S06
+Paris coordinates: -1410136848, 348444, 1424446444
+Bodies: 0 (0 planets, 0 moons)
+
+System:

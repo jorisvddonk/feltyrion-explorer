@@ -1,0 +1,13 @@
+Star: VA TETIJEM
+Star class: S00
+Paris coordinates: 2052048912, 36783, -144225
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FHNAET (@ large, not consistent)
+- FHAKS (n thin atmosphere)
+
+Guide entries:
+CLASS S00 WITH JUST TWO PLANETS, NO FELISIAN. 1.48625791 BAL. M.            
+TEMP 7099 K RAD 18KR COOR 2052048912;36783;-144225; SKINNYMON 6011          
+797.449                                                                     

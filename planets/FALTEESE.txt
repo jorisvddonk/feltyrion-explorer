@@ -1,0 +1,7 @@
+Planet: FALTEESE
+Starmap index: 02
+Paris coordinates: -1108208, -712825, -246456
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.
+NYTAR, EPOC 6011:611.872

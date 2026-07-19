@@ -1,0 +1,6 @@
+Star: ALSAKI CCIV
+Star class: S10
+Paris coordinates: 15668176, 32372842, -6857186
+Bodies: 0 (0 planets, 0 moons)
+
+System:

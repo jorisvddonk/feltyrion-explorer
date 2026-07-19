@@ -1,0 +1,10 @@
+Star: CANTOR
+Star class: S06
+Paris coordinates: 367504, -66688322, -1301330
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:584:314
+ANOTHER STAR WHERE YOU CAN REFUEL THE SD.

@@ -1,0 +1,9 @@
+Star: LONG GONE
+Star class: S10
+Paris coordinates: 3304272, 5131155, -99653
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LARGE STAR, PROBABLY EJECTED FROM ITS SYSTEM BY A COMPANION

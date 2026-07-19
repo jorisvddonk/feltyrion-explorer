@@ -1,0 +1,16 @@
+Star: KOWAI
+Star class: S00
+Paris coordinates: -77136, -10954, -1386472
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- KOWARERU (d dusty, craterized)
+- KUDARI (k thick atmosphere)
+- KUDARU (k thick atmosphere)
+  - KRELL (d dusty, craterized)
+- KOWASU (f felisian)
+  - KOTAR (d dusty, craterized)
+  - KOTAI (n thin atmosphere)
+
+Guide entries:
+STAR FOUND BY (MEZURASHII EPOC 6011:608.994)

@@ -1,0 +1,63 @@
+Star: LIAMANTO
+Star class: S00
+Paris coordinates: 4666416, 4712546, -1738732
+Bodies: 38 (10 planets, 28 moons)
+
+System:
+- LIAMANTEOUS 1 (k thick atmosphere)
+- LIAMANTEOUS 2 (k thick atmosphere)
+- LIAMANTEOUS 3 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (f felisian)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (q quartz surface)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (d dusty, craterized)
+  - Moon #17 (q quartz surface)
+  - Moon #18 (n thin atmosphere)
+- LIAMANTEOUS 4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- LIAMANTEOUS 5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- LIAMANTEOUS 6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- LIAMANTEOUS 7 (q quartz surface)
+- LIAMANTEOUS 8 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- LIAMANTEOUS 9 (q quartz surface)
+  - Moon #0 (i icy surface)
+- Planet #9 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+
+Guide entries:
+STAR DISCOVERED BY OBLIVIATOR, EPOC 6011:595.642
+INITIAL PLANETARY SURVEY OF LIAMANTEOUS 1 REVEALS MASSIVE TECTONIC...
+...ACTIVITY AS THE ENTIRE SURFACE IS MOUNTAIN RANGES AND HILLS.
+VISIBILITY IS ALSO VERY LOW DUE TO HEAVY ATMOSPHERIC CONDITIONS.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.643)
+INITIAL PLANETARY SURVEY OF LIAMANTEOUS 2 YIELDS SAME RESULTS.
+(NOTE BY OBLIVIATOR, EPOC 6011:595.644)
+SURVEY OF LIAMANTEOUS 5 REVEALS PLANET CONSISTING OF MOSTLY WATER...
+...AND STORM ACTIVITY. INSECTS AND PLANTS ARE PRESENT ON ISLANDS.
+SHIP'S COMPUTER ALSO SHOWS PLANET AS FELISIAN.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.645)
+LIAMANTEOUS 6 SURVEY SHOWS MASSIVE FLAT PLAINS. THERE ARE A FEW...
+...MOUNTAINOUS MARVELS PRESENT. NO ATMOSPHERE, VISIBILITY VERY GOOD.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.646)
+SURVEY OF LIAMANTEOUS 7, TERRAIN IS MOSTLY ROCK, WITH HILLS RAMPANT.
+OXYGEN ATMOSPHERE WITH DECENT VISIBILITY.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.647)

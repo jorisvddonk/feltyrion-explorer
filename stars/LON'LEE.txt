@@ -1,0 +1,11 @@
+Star: LON'LEE
+Star class: S08
+Paris coordinates: -72517424, -13972778, 55111402
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LONELYSTAR IN A S08 SYSTEM. NO OTHER PLANETS.
+(DISCOVERED BY MEGAGUN)
+(ON EPOC 648.925.266)

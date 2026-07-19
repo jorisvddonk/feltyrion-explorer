@@ -1,0 +1,18 @@
+Star: VICE
+Star class: S08
+Paris coordinates: 3483920, 4997178, -1498364
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- VERSA (* companion star)
+  - VERSA ALPHA (r rocky, creased)
+- GRAPOI (r rocky, creased)
+- AKUY (r rocky, creased)
+  - AKUY ALPHA (d dusty, craterized)
+  - AKUY BETA (d dusty, craterized)
+
+Guide entries:
+PRIMARY STAR IN THIS BINARY SYSTEM
+COMPLEMENT TO VERSA
+(XILOSCIENT EPOC 6011:571.936)
+RATHER DESOLATE SYSTEM (XILOSCIENT EPOC 6011:571.941)

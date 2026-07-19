@@ -1,0 +1,6 @@
+Star: GREY STAR 4
+Star class: S06
+Paris coordinates: 4173200, 5284233, -740468
+Bodies: 0 (0 planets, 0 moons)
+
+System:

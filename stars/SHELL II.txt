@@ -1,0 +1,6 @@
+Star: SHELL II
+Star class: S06
+Paris coordinates: -136432, -54931, 1178117
+Bodies: 0 (0 planets, 0 moons)
+
+System:

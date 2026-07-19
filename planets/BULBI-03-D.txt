@@ -1,0 +1,3 @@
+Planet: BULBI-03-D
+Starmap index: 15
+Paris coordinates: 2101424, 6142806, -960659

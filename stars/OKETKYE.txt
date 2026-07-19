@@ -1,0 +1,6 @@
+Star: OKETKYE
+Star class: S01
+Paris coordinates: 1150000, 51850000, -1250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

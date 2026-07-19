@@ -1,0 +1,3 @@
+Planet: RADELLA-D
+Starmap index: 04
+Paris coordinates: 3348240, -660838, -9125564

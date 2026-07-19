@@ -1,0 +1,16 @@
+Star: ASKEW 179
+Star class: S04
+Paris coordinates: 4254608, -1005639, 3966789
+Bodies: 10 (4 planets, 6 moons)
+
+System:
+- ASKEW 179A (d dusty, craterized)
+- ASKEW 179B (r rocky, creased)
+- ASKEW 179C (+ substellar object)
+  - ASKEW 179C1 (d dusty, craterized)
+  - ASKEW 179C2 (k thick atmosphere)
+  - ASKEW 179C3 (q quartz surface)
+  - ASKEW 179C4 (k thick atmosphere)
+  - ASKEW 179C5 (^ unstable)
+- ASKEW 179D (q quartz surface)
+  - ASKEW 179D1 (d dusty, craterized)

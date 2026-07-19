@@ -1,0 +1,3 @@
+Planet: BB PELLET
+Starmap index: 01
+Paris coordinates: 1994640, 3437547, -1292412

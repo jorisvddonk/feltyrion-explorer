@@ -1,0 +1,3 @@
+Planet: INDRIMA
+Starmap index: 04
+Paris coordinates: 4589616, 6076815, 1671040

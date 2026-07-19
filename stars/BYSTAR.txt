@@ -1,0 +1,6 @@
+Star: BYSTAR
+Star class: S00
+Paris coordinates: 677136, 808788, 956855
+Bodies: 0 (0 planets, 0 moons)
+
+System:

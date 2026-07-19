@@ -1,0 +1,25 @@
+Star: IZIURS
+Star class: S00
+Paris coordinates: 5562480, 4129065, -750083
+Bodies: 16 (4 planets, 12 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (n thin atmosphere)
+- GLYRIA (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - XUIUS (f felisian)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.125)

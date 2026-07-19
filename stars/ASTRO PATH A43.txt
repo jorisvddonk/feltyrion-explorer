@@ -1,0 +1,23 @@
+Star: ASTRO PATH A43
+Star class: S00
+Paris coordinates: 6210800, 4435335, -25790021
+Bodies: 17 (6 planets, 11 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (^ unstable)
+  - Moon #6 (f felisian)

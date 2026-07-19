@@ -1,0 +1,24 @@
+Star: ASKEW 87
+Star class: S00
+Paris coordinates: 10976304, -19258322, 17845482
+Bodies: 15 (9 planets, 6 moons)
+
+System:
+- ASKEW 87A (q quartz surface)
+- ASKEW 87B (+ substellar object)
+- ASKEW 87C (d dusty, craterized)
+  - ASKEW 87C1 (d dusty, craterized)
+- CAVALIER (f felisian)
+  - ASKEW 87D1 (d dusty, craterized)
+- ASKEW 87E (n thin atmosphere)
+  - ASKEW 87E1 (^ unstable)
+- ASKEW 87F (d dusty, craterized)
+  - ASKEW 87F1 (^ unstable)
+- ASKEW 87G (r rocky, creased)
+  - ASKEW 87G1 (d dusty, craterized)
+- ASKEW 87H (d dusty, craterized)
+- ASKEW 87I (d dusty, craterized)
+  - ASKEW 87I1 (i icy surface)
+
+Guide entries:
+1 QUARTZ, 1 FELISIAN WORLD

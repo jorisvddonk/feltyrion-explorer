@@ -1,0 +1,41 @@
+Star: CUPOLLA
+Star class: S04
+Paris coordinates: 3008208, 4283926, -1464016
+Bodies: 31 (9 planets, 22 moons)
+
+System:
+- SUN HIDER (n thin atmosphere)
+- MISTAKEN (n thin atmosphere)
+- PROTECTOR (+ substellar object)
+  - THE GREAT GREEN SPOT (k thick atmosphere)
+  - A COLD SANDY PLACE (q quartz surface)
+  - Moon #2 (d dusty, craterized)
+  - ECLIPSE (^ unstable)
+  - PROTECTOR'S SHADOW (f felisian)
+  - Moon #5 (n thin atmosphere)
+  - GLOWING GREEN (@ large, not consistent)
+  - COLOR SHIFT (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (@ large, not consistent)
+  - PURPLE TWILIGHT (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+A YELLOW STAR SYSTEM WITH A SECOND SYSTEM INSIDE
+DISCOVERED BY TIM MACE EPOC 6011 - 584.534.13

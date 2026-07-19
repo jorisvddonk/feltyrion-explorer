@@ -1,0 +1,9 @@
+Planet: GREEN DEPTHS
+Starmap index: 05
+Paris coordinates: 902096, 1026900, 9976407
+
+Guide entries:
+THIS IS A REMOTE WORLD IN A PULSAR SYSTEM, AND LANDING ON IT WILL           
+CAST YOU INTO AN ALMOST-IMPENETRABLE DARKNESS, MADE EVEN DARKER             
+BY THE THIN, BUT INSISTENTLY PRESENT ATMOSPHERE.                            
+-PARRY LOST, 6011.712.946                                                   

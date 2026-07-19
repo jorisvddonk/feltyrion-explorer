@@ -1,0 +1,9 @@
+Planet: SAARDANT
+Starmap index: 05
+Paris coordinates: 3966416, 3899706, -1028195
+
+Guide entries:
+PLANET DISCOVERED BY SEBASTIAN PATTERSON, EPOC 6011:683.295                 
+SPOTTED SOME BLACK AND YELLOW BIRDS.                                        
+FOUND 4 ODDLY BIG TREES. ABOUT TWICE THE SIZE OF THE OTHERS.                
+FOUND RUBBEL NEAR OCEAN.'(NOTES BY SEB PAT EPOC 6011:683.297)               

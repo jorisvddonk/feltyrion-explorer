@@ -1,0 +1,3 @@
+Planet: MAH
+Starmap index: 19
+Paris coordinates: 2521776, 5015370, -132554

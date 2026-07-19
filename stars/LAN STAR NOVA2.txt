@@ -1,0 +1,45 @@
+Star: LAN STAR NOVA2
+Star class: S00
+Paris coordinates: 167504, 9588, -1095583
+Bodies: 35 (11 planets, 24 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (^ unstable)
+  - Moon #14 (k thick atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (^ unstable)
+- Planet #4 (f felisian)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (f felisian)
+  - Moon #2 (f felisian)
+- Planet #6 (q quartz surface)
+  - Moon #0 (i icy surface)
+- Planet #7 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #8 (k thick atmosphere)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY SPELLCASTER EPOC 6011 573:360
+THE STAR OF THE SYSTEM IN WHICH A QUARTZ PLANET RESIDES

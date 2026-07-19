@@ -1,0 +1,9 @@
+Star: Z-X051
+Star class: S05
+Paris coordinates: -1404602928, -43975, 1420931977
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BROWN DWARF. NO PLANETS. (SCHMERM 6011 598.637)

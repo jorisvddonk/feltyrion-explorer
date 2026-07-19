@@ -1,0 +1,3 @@
+Planet: GRANT'S TOMB
+Starmap index: 24
+Paris coordinates: 3473200, 3882739, 59962

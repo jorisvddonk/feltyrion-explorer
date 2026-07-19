@@ -1,0 +1,6 @@
+Planet: PTITPUSS
+Starmap index: 01
+Paris coordinates: 4779984, 4243323, -1040694
+
+Guide entries:
+FIRST PLANET DISCOVERED BY FRANCOIS WISARD.

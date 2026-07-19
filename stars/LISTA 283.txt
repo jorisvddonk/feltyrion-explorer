@@ -1,0 +1,9 @@
+Star: LISTA 283
+Star class: S06
+Paris coordinates: 1890460688, -2068363, -129787
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. SKINNYMON EPOC 6011 623.507

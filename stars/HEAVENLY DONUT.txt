@@ -1,0 +1,10 @@
+Star: HEAVENLY DONUT
+Star class: S06
+Paris coordinates: 725712, -267861, -32018
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOTE                                                                        
+FOUND ON EPOC 6011.700.13.800 BY DANIEL LINDHOUT TYPE S06                   

@@ -1,0 +1,6 @@
+Planet: TICK
+Starmap index: 39
+Paris coordinates: 670352, 437173, 502845
+
+Guide entries:
+ I FOUND SOME BLACK HOPPERS ON THIS PLANET.(TGD)

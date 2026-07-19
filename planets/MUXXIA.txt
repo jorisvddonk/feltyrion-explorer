@@ -1,0 +1,6 @@
+Planet: MUXXIA
+Starmap index: 02
+Paris coordinates: -436432, 188642, 1163637
+
+Guide entries:
+DISCOVERED BY ZOSETE (EPOC 6011 577.536.484)

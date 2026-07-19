@@ -1,0 +1,3 @@
+Planet: BOWLING BALL
+Starmap index: 04
+Paris coordinates: 4517840, 4625313, -517790

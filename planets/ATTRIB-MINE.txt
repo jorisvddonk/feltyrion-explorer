@@ -1,0 +1,6 @@
+Planet: ATTRIB-MINE
+Starmap index: 19
+Paris coordinates: -1532496, -973713, 623217
+
+Guide entries:
+VOLCANIC, UNABLE TO LAND. RED MOON.

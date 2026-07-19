@@ -1,0 +1,30 @@
+Star: GORGON
+Star class: S00
+Paris coordinates: 4148912, 4488377, -127177
+Bodies: 21 (12 planets, 9 moons)
+
+System:
+- GS-GORGON-1 (@ large, not consistent)
+- GS-GORGON-2 (+ substellar object)
+- DP-GORGON-1 (d dusty, craterized)
+- GORGONS CRUTCH (f felisian)
+  - DM-GORGONSCRTUCH-1 (n thin atmosphere)
+- GP-GORGON-1 (k thick atmosphere)
+  - DM-2-GORGONGP-1 (d dusty, craterized)
+  - DM-1-GORGONGP-1 (d dusty, craterized)
+- DP-GORGON-2 (n thin atmosphere)
+  - DM-1-GORGONDP-2 (d dusty, craterized)
+- DP-GORGON-3 (d dusty, craterized)
+- GP-GORGON-2 (k thick atmosphere)
+  - DM-1-GORGONGP-2 (d dusty, craterized)
+  - DM-2-GORGONGP-2 (d dusty, craterized)
+- DP-GORGON-4 (d dusty, craterized)
+  - GORON'S ICY DAUGHTER (n thin atmosphere)
+- DP-GORGO-7 (r rocky, creased)
+  - DM-1-GORGONDP-7 (d dusty, craterized)
+  - DM-2-GORGONDP-7 (d dusty, craterized)
+- DP-GORGON-5 (n thin atmosphere)
+- DP-GORGON-6 (d dusty, craterized)
+
+Guide entries:
+ TWO GAS GIANTS, ONE INHABITABLE PLANET

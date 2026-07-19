@@ -1,0 +1,6 @@
+Star: FUEL EIGHTEEN
+Star class: S06
+Paris coordinates: -463568, 121765, -178005
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: NYMBUS III
+Starmap index: 03
+Paris coordinates: 3928560, 4410155, -1175568

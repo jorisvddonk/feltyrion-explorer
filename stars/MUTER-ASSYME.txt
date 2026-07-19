@@ -1,0 +1,6 @@
+Star: MUTER-ASSYME
+Star class: S05
+Paris coordinates: 350000, 50950000, -450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

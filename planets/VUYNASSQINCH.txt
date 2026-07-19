@@ -1,0 +1,3 @@
+Planet: VUYNASSQINCH
+Starmap index: 02
+Paris coordinates: 14847824, 32038901, -7119055

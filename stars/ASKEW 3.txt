@@ -1,0 +1,6 @@
+Star: ASKEW 3
+Star class: S08
+Paris coordinates: 2856784, 5334820, -2332653
+Bodies: 0 (0 planets, 0 moons)
+
+System:

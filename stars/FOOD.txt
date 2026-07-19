@@ -1,0 +1,6 @@
+Star: FOOD
+Star class: S06
+Paris coordinates: -73303856, -1600870, 56730946
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: SALVA
+Star class: S06
+Paris coordinates: -132496, 96728, -566802
+Bodies: 0 (0 planets, 0 moons)
+
+System:

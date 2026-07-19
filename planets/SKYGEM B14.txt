@@ -1,0 +1,6 @@
+Planet: SKYGEM B14
+Starmap index: 23
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A GAS GIANT OF UNKNOWN TYPE. AMWHERE 6011.584.922

@@ -1,0 +1,6 @@
+Planet: DOME
+Starmap index: 01
+Paris coordinates: -290637904, -1396584, 55775634
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.576.814

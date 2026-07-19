@@ -1,0 +1,3 @@
+Planet: MEBEMEM
+Starmap index: 09
+Paris coordinates: 32496, -31155479, 1002557

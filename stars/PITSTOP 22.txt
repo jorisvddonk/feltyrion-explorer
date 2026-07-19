@@ -1,0 +1,6 @@
+Star: PITSTOP 22
+Star class: S06
+Paris coordinates: 171472, 125451, 563559427
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,18 @@
+Star: JEI SESIARJEM
+Star class: S00
+Paris coordinates: 2070474544, -1823143, 385289
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- LOYLSAT (r rocky, creased)
+- JEMBAR (n thin atmosphere)
+- TATBA (n thin atmosphere)
+  - TIPRIC (n thin atmosphere)
+- DATSFHON (q quartz surface)
+  - KIOPRAM (d dusty, craterized)
+  - INPAJAS (n thin atmosphere)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 4 PLANETS 3 MOONS NO FELISIAN WORLDS/                 
+1.22062258 BAL. M. TEMP 6259 K RAD 19 KR COOR 2070474544;                   
+-11823413;385289 SKINNYMON 795.17                                           

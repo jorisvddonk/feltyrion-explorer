@@ -1,0 +1,8 @@
+Planet: POJDUO
+Starmap index: 03
+Paris coordinates: 2141033520, -2063295, 879601
+
+Guide entries:
+P03/03 MEDIM SIZED, ROCKY, CREASED, NO ATMO. HAS A SOMEWHAT ORANGISH        
+AND DARK GREY MOTTLING WITH VERY LARGE CRATERS. PRO 0.222.480 PRV           
+0.326.020.480 SKINNYMON 6011 791.423                                        

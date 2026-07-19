@@ -1,0 +1,7 @@
+Planet: DAZE
+Starmap index: 01
+Paris coordinates: 2959632, 4184278, -481770
+
+Guide entries:
+A VERY LARGE SUBSTELLAR OBJECT, NOT CONSISTENT.
+(N5CORP ON 6011:627.514)

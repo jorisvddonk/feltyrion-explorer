@@ -1,0 +1,14 @@
+Star: FRANTIC
+Star class: S03
+Paris coordinates: -62646160, 29840261, 1248141
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- FOREGO (n thin atmosphere)
+- FRAIL (d dusty, craterized)
+- FILTHY (q quartz surface)
+  - FIDDLE (n thin atmosphere)
+
+Guide entries:
+CLASS S03 RED GIANT STAR DISCOVERED BY MCWGOGS AT EPOC 6011.647.994.
+3 PLANETS, NO LIFE HERE.

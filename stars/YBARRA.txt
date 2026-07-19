@@ -1,0 +1,9 @@
+Star: YBARRA
+Star class: S01
+Paris coordinates: 5476048, 5957484, 82716
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY SHADOWSTAR ON 6011:604.175

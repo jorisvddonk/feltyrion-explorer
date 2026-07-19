@@ -1,0 +1,6 @@
+Planet: MUILLIER
+Starmap index: 01
+Paris coordinates: -1532496, -973713, 623217
+
+Guide entries:
+BARREN LANDSCAPE, NO ATMOSPHERE.

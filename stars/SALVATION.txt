@@ -1,0 +1,10 @@
+Star: SALVATION
+Star class: S06
+Paris coordinates: -20171856, 18120614, 36411708
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ LITHIUM FUEL STAR DISC BY SCAREDY-CAT,6011.589.575.584
+ PARSIS COORD -20171856;18120614;36411708

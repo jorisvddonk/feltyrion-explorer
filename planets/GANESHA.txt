@@ -1,0 +1,10 @@
+Planet: GANESHA
+Starmap index: 31
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.813                                    
+PLANET DEFINITELY HAS WATER; LANDING IN LOWER ELEVATIONS NOT ADVISED        
+UNLESS YOU ENJOY SWIMMING                                                   
+ISLANDS ARE COVERED WITH BRILLIANT GREEN BUSHES                             
+(NOTES BY MISTRAL, EPOC 6011.797.813)                                       

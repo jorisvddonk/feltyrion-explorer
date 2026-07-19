@@ -1,0 +1,6 @@
+Star: ASKEW 192
+Star class: S06
+Paris coordinates: 9759888, -15157712, 15978334
+Bodies: 0 (0 planets, 0 moons)
+
+System:

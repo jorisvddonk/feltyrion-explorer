@@ -1,0 +1,39 @@
+Star: ASKEW 93
+Star class: S01
+Paris coordinates: 10793808, -18875421, 16913063
+Bodies: 30 (11 planets, 19 moons)
+
+System:
+- ASKEW 93A (k thick atmosphere)
+- ASKEW 93B (@ large, not consistent)
+- ASKEW 93C (@ large, not consistent)
+  - ASKEW 93C1 (^ unstable)
+  - ASKEW 93C2 (d dusty, craterized)
+  - ASKEW 93C3 (k thick atmosphere)
+  - ASKEW 93C4 (k thick atmosphere)
+  - YALGAMOTION (f felisian)
+  - ASKEW 93C6 (r rocky, creased)
+  - ASKEW 93C7 (q quartz surface)
+  - ASKEW 93C8 (k thick atmosphere)
+  - ASKEW 93C9 (q quartz surface)
+  - ASKEW 93C10 (k thick atmosphere)
+  - ASKEW 93C11 (q quartz surface)
+- ASKEW 93D (d dusty, craterized)
+  - ASKEW 93D1 (d dusty, craterized)
+- ASKEW 93E (k thick atmosphere)
+  - ASKEW 93E1 (d dusty, craterized)
+- ASKEW 93F (d dusty, craterized)
+  - ASKEW 93F1 (d dusty, craterized)
+- ASKEW 93G (d dusty, craterized)
+  - ASKEW 93G1 (d dusty, craterized)
+- ASKEW 93H (n thin atmosphere)
+  - ASKEW 93H1 (n thin atmosphere)
+- ASKEW 93I (k thick atmosphere)
+  - ASKEW 93I1 (i icy surface)
+  - ASKEW 93I2 (n thin atmosphere)
+- ASKEW 93J (r rocky, creased)
+- ASKEW 93K (^ unstable)
+  - ASKEW 93K1 (d dusty, craterized)
+
+Guide entries:
+3 QUARTZ, 1 FELISIAN WORLD

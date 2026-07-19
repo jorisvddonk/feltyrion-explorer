@@ -1,0 +1,3 @@
+Planet: RAVENITE
+Starmap index: 03
+Paris coordinates: 670352, 437173, 502845

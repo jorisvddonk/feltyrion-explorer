@@ -1,0 +1,3 @@
+Planet: KANDIS
+Starmap index: 03
+Paris coordinates: -122864, 281953, 1858744

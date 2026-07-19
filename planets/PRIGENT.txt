@@ -1,0 +1,6 @@
+Planet: PRIGENT
+Starmap index: 13
+Paris coordinates: 3890704, 4620850, -1463671
+
+Guide entries:
+MOON SUITABLE FOR LIFE

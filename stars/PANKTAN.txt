@@ -1,0 +1,41 @@
+Star: PANKTAN
+Star class: S03
+Paris coordinates: 2973200, 4320580, 267849
+Bodies: 31 (13 planets, 18 moons)
+
+System:
+- RINGO (@ large, not consistent)
+- CHROJIC (@ large, not consistent)
+- UXCLU (n thin atmosphere)
+  - IRCLUT (n thin atmosphere)
+  - RASADO (d dusty, craterized)
+- NUNETOR (k thick atmosphere)
+- SYKENT (n thin atmosphere)
+  - LOMOL (^ unstable)
+  - ROSIKA (d dusty, craterized)
+- NURITON (d dusty, craterized)
+- KAEDER (k thick atmosphere)
+  - LAFEX (d dusty, craterized)
+- Planet #7 (q quartz surface)
+  - SIOPOD (^ unstable)
+  - UADECI (i icy surface)
+- YOLPH (i icy surface)
+  - ESEUR (d dusty, craterized)
+  - AJAUR (d dusty, craterized)
+- GEGUON (q quartz surface)
+- HAMOD (d dusty, craterized)
+  - REMEN (d dusty, craterized)
+- OMLANTH (@ large, not consistent)
+  - FEQUEZ (n thin atmosphere)
+  - ZALON (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - KERIX (i icy surface)
+  - WUNTU (i icy surface)
+  - MUROC (i icy surface)
+  - DOMOR (i icy surface)
+  - SANUN (i icy surface)
+- Planet #12 (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S03 SYSTEM OF 12 PLANETS, 19 MOONS, NO FELISIAN
+WORLDS. SKINYMON EPOC 6011 598.899

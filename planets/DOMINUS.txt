@@ -1,0 +1,3 @@
+Planet: DOMINUS
+Starmap index: 04
+Paris coordinates: 5062480, 5212834, -475854

@@ -1,0 +1,6 @@
+Planet: DP-PINACLE-5
+Starmap index: 09
+Paris coordinates: 3804272, 4498014, -620206
+
+Guide entries:
+UNEXPLORED, QUARTZ SURFACE, OXYGEN ATMOSPHERE, ASSUMED DEAD

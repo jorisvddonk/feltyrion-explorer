@@ -1,0 +1,6 @@
+Star: MDIR 7
+Star class: S06
+Paris coordinates: 656784, 39157779, -252053
+Bodies: 0 (0 planets, 0 moons)
+
+System:

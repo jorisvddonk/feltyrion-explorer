@@ -1,0 +1,10 @@
+Star: OREGOTH
+Star class: S07
+Paris coordinates: -125712, 74213, -164911
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PLANETLESS BLUE GIANT ABOUT 7 LIGHT YEARS FROM FELYSIA.
+(DISCOVERED BY SCHMERM 6011 580.81)

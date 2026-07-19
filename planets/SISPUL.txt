@@ -1,0 +1,7 @@
+Planet: SISPUL
+Starmap index: 02
+Paris coordinates: 2130305712, -1733326, 162530
+
+Guide entries:
+P02/02 SMALL SOLID THIN ATMO. SLIGHTLY DARK WITH SLIGHT POLAR CAPS.         
+PRO 0.111.600 PRV 0.024.767.340 SKINNYMON 6011 791.663                      

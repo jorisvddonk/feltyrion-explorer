@@ -1,0 +1,19 @@
+Star: MELANYR
+Star class: S00
+Paris coordinates: 267504, 645097, -1145511
+Bodies: 8 (7 planets, 1 moons)
+
+System:
+- DEKULER (d dusty, craterized)
+- TUMPEM (d dusty, craterized)
+- CHROBY (d dusty, craterized)
+  - SHOROM (^ unstable)
+- BERSOKLOD (d dusty, craterized)
+- BRITE (q quartz surface)
+- ZAJIL (d dusty, craterized)
+- BILTROK (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 7 PLANETS, ONE MOON. NO FELISIAN
+WORLDS, MATTER OF FACT YOU CAN CASH IN ON A LOT OF DUST HERE. HINT!
+SKINNYMON EPOC 6011 596.393

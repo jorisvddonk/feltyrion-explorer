@@ -1,0 +1,3 @@
+Planet: OMINOUS
+Starmap index: 01
+Paris coordinates: 5369264, 4544774, -441678

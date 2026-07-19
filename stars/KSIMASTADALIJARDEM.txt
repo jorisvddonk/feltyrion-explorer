@@ -1,0 +1,57 @@
+Star: KSIMASTADALIJARDEM
+Star class: S03
+Paris coordinates: 2029827216, 2306055, 1542231
+Bodies: 46 (12 planets, 34 moons)
+
+System:
+- ADYSE (n thin atmosphere)
+- SESEKSI (@ large, not consistent)
+- PAMVISY (r rocky, creased)
+  - CYBEK (^ unstable)
+  - DUSOBFH (d dusty, craterized)
+- RAJSYLI (r rocky, creased)
+- AMTIVAKI (q quartz surface)
+  - KAPYLAL (d dusty, craterized)
+  - DEMESOS (d dusty, craterized)
+  - MINEJEM (d dusty, craterized)
+- BALPIP (n thin atmosphere)
+  - RARUPAN (d dusty, craterized)
+  - PLARYN (n thin atmosphere)
+- LAMANALFH (d dusty, craterized)
+  - BATEJ (n thin atmosphere)
+- NUBNAKI (+ substellar object)
+  - VODKUSU (k thick atmosphere)
+  - INSATY (r rocky, creased)
+  - PAMIL (d dusty, craterized)
+  - TALCYT (k thick atmosphere)
+  - SEBNUKY (r rocky, creased)
+  - OBSCURIOR (f felisian)
+  - CILTONA (k thick atmosphere)
+  - DIRSAKA (q quartz surface)
+  - DUPLIRA (k thick atmosphere)
+  - CASNE (^ unstable)
+  - NATULI (n thin atmosphere)
+  - MITVI (d dusty, craterized)
+  - COPISFHO (^ unstable)
+  - EMRONI (@ large, not consistent)
+  - ENPAMSY (@ large, not consistent)
+- SEBIJIA (+ substellar object)
+  - EPONTI (@ large, not consistent)
+  - COCYTE (n thin atmosphere)
+  - SIDAFH (i icy surface)
+  - ALIJOD (i icy surface)
+  - LEMFHR (i icy surface)
+  - PYKUR (i icy surface)
+  - TUMFH (i icy surface)
+  - IRYMELI (i icy surface)
+  - IRFHDOS (i icy surface)
+- ABEBOK (i icy surface)
+  - PYSISCAR (d dusty, craterized)
+- IPJACES (r rocky, creased)
+- BANOCES (r rocky, creased)
+  - TENOPA (d dusty, craterized)
+
+Guide entries:
+S03 SYSTEM OF 12 PLANETS, 34 MOONS, AND ONLY ONE FELISIAN                   
+WORLD. 7.72680664 BAL. M. TEMP 6381 K RAD 2 KR COOR                         
+2029827216;2306055;1542231; SKINNYMON 6011 797.179                          

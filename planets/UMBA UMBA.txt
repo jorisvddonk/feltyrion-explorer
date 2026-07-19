@@ -1,0 +1,3 @@
+Planet: UMBA UMBA
+Starmap index: 31
+Paris coordinates: -62139376, 29684697, 1110989

@@ -1,0 +1,3 @@
+Planet: KWANDOTZ
+Starmap index: 01
+Paris coordinates: 4182832, 5592128, 1661720

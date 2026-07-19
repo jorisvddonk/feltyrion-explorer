@@ -1,0 +1,3 @@
+Planet: NECROLUNA
+Starmap index: 08
+Paris coordinates: 1924624, 7368157, 2472677

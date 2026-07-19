@@ -1,0 +1,6 @@
+Star: Z-AXIS FUEL 4
+Star class: S06
+Paris coordinates: 602480, 69819, 249817202
+Bodies: 0 (0 planets, 0 moons)
+
+System:

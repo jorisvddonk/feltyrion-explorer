@@ -1,0 +1,6 @@
+Star: ASKEW 21
+Star class: S06
+Paris coordinates: 4858544, 2231770, 1457644
+Bodies: 0 (0 planets, 0 moons)
+
+System:

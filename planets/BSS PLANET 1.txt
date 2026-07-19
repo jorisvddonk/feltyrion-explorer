@@ -1,0 +1,3 @@
+Planet: BSS PLANET 1
+Starmap index: 01
+Paris coordinates: -1339280, 428603, 53415

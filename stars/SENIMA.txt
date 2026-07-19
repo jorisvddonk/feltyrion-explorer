@@ -1,0 +1,16 @@
+Star: SENIMA
+Star class: S11
+Paris coordinates: 1418928, 5009998, -1197369
+Bodies: 6 (5 planets, 1 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+1.PULSAR WITH 5 PLANETS AND 1 MOON
+2.DISCOVERED BY KJ EPOC 6011:570.648

@@ -1,0 +1,28 @@
+Star: KHAPHIR
+Star class: S00
+Paris coordinates: -81072, 26100, 335987
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- DROPLET (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (f felisian)
+- MALLIC (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (^ unstable)
+- Planet #8 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+S00; 9 MAJOR BODIES, 8 MINORS
+3 FELISIAN-TYPES
+DISCOVERED BY SHAM COURTNEY, 6011:595.975

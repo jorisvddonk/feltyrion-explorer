@@ -1,0 +1,3 @@
+Planet: BLUESKY
+Starmap index: 02
+Paris coordinates: 581072, 817758, -734678

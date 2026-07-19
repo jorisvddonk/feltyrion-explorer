@@ -1,0 +1,6 @@
+Star: SINBORU
+Star class: S01
+Paris coordinates: 4166416, 4722099, -1222204
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,18 @@
+Star: GESUNDHEIT
+Star class: S02
+Paris coordinates: -1196400, 1281118, -5269768
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- GESUNDHEIT 1 (n thin atmosphere)
+- GESUNDHEIT 2 (r rocky, creased)
+- GESUNDHEIT 3 (n thin atmosphere)
+- GESUNDHEIT 4 (n thin atmosphere)
+- GESUNDHEIT 5 (n thin atmosphere)
+- GESUNDHEIT 6 (+ substellar object)
+- GESUNDHEIT 7 (q quartz surface)
+- GESUNDHEIT 8 (k thick atmosphere)
+
+Guide entries:
+A WHITE DWARF, CLASS S02. IT HAS EIGHT PLANETS, WHICH IS AROUND             
+THE UPPER BOUNDARY FOR THIS TYPE OF STARS. SERPENS, 6011 787.600            

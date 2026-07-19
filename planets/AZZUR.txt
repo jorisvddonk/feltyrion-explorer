@@ -1,0 +1,7 @@
+Planet: AZZUR
+Starmap index: 08
+Paris coordinates: 4669264, 4132328, 493371
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 571.654
+GAS PLANET WITH RING

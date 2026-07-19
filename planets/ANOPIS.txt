@@ -1,0 +1,8 @@
+Planet: ANOPIS
+Starmap index: 10
+Paris coordinates: 634309520, -10801615, 49308989
+
+Guide entries:
+M02/P05 SMALL, THIN ATMOSPHERE, GREEN REFLECTIVITY, GOOD POLAR CAPS,        
+LIGHT AREAS NOTED. PRO 0.214.200; PRV 0.001.534.018 SKINNYMON 6011          
+893.127                                                                     

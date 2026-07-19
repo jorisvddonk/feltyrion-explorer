@@ -1,0 +1,8 @@
+Star: OLE DAN
+Star class: S10
+Paris coordinates: -343216, 9633296, 739576
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)

@@ -1,0 +1,6 @@
+Planet: BHORED
+Starmap index: 02
+Paris coordinates: 832496, -6513, 200211
+
+Guide entries:
+DISCOVERED EPOC 6011:572.268 BY F.WISARD. BARREN WORLD

@@ -1,0 +1,24 @@
+Star: TRIDENT
+Star class: S08
+Paris coordinates: 1070352, 1049165, 332090
+Bodies: 14 (4 planets, 10 moons)
+
+System:
+- TRIDENT A (* companion star)
+  - GREFIPLE (k thick atmosphere)
+  - MULTIS (f felisian)
+- DREEN (n thin atmosphere)
+- PIDA (n thin atmosphere)
+  - DRELLO (n thin atmosphere)
+  - GREDET (d dusty, craterized)
+- TRIDENT B (* companion star)
+  - DESAG (f felisian)
+  - PELINK (d dusty, craterized)
+  - ORAYL (q quartz surface)
+  - SURAN (+ substellar object)
+  - OVENCE (^ unstable)
+  - TERRADISE (f felisian)
+
+Guide entries:
+UNUSUAL SYSTEM, CONTAINS 3 DIFFERENT STARS AND SOME PLANETS.
+STAR(S) DISCOVERED BY JEFF KEMP EPOC 6011:621:278

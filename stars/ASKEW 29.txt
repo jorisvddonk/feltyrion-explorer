@@ -1,0 +1,6 @@
+Star: ASKEW 29
+Star class: S04
+Paris coordinates: 11489872, -19439914, 17920440
+Bodies: 0 (0 planets, 0 moons)
+
+System:

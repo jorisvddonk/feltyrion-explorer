@@ -1,0 +1,11 @@
+Star: GREY RAID
+Star class: S06
+Paris coordinates: 3269264, 6491923, 1667752
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED EPOC 6012 56.565
+GREY GIANT, NOTHING SPECIAL
+SUITABLE FOR LITHIUM SCOPING

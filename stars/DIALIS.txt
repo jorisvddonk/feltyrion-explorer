@@ -1,0 +1,37 @@
+Star: DIALIS
+Star class: S00
+Paris coordinates: 4273200, 4648925, -986128
+Bodies: 25 (8 planets, 17 moons)
+
+System:
+- NOURISH (@ large, not consistent)
+- DELIST (k thick atmosphere)
+- MITRAILLEUSE (@ large, not consistent)
+  - SOME CALL ME TIM (f felisian)
+  - OBSEQUIES (^ unstable)
+  - COHUNE (k thick atmosphere)
+  - MONOSTELE (q quartz surface)
+  - SHEOL (k thick atmosphere)
+  - PARATAXIS (k thick atmosphere)
+  - CINERIN (d dusty, craterized)
+- MILLIREM (+ substellar object)
+  - DODO (f felisian)
+  - MISSIVE (d dusty, craterized)
+  - OVERGLAZE (k thick atmosphere)
+- LYMAN RESERVE (q quartz surface)
+  - LYMAN ROCK (d dusty, craterized)
+- QUICK TIME (d dusty, craterized)
+- ROSE (@ large, not consistent)
+  - AUTOTOXIN (n thin atmosphere)
+  - PARTICLE (n thin atmosphere)
+  - TOURACO (r rocky, creased)
+  - MILDEN (d dusty, craterized)
+- DETINUE (n thin atmosphere)
+  - NONDESCRIPT (d dusty, craterized)
+  - SINGSPIEL (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES:A CLASS S00 SYSTEM WITH 8 PLANETS AND 17 MOONS.
+THE ORIGINAL STARDRIFTER WHO DISCOVERED THIS SYSTEM ONLY NAMED THE
+STAR AND TWO PLANETS (5 AND 7). MY FURTHER EXPOLORATIONS
+REVEALED TWO FELISIAN WORLDS. SKINNYMON EPOC 6011 568.123

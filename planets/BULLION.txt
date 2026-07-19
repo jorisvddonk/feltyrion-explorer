@@ -1,0 +1,3 @@
+Planet: BULLION
+Starmap index: 05
+Paris coordinates: 3555696, 4747547, 558041

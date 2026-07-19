@@ -1,0 +1,3 @@
+Planet: MOKHO'INEF A
+Starmap index: 01
+Paris coordinates: -823940592, -666067, -678703079

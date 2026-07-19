@@ -1,0 +1,27 @@
+Star: ASKEW 53
+Star class: S03
+Paris coordinates: 10762736, -19034762, 17197592
+Bodies: 18 (8 planets, 10 moons)
+
+System:
+- ASKEW 53A (k thick atmosphere)
+- ASKEW 53B (r rocky, creased)
+- LIANAAD (q quartz surface)
+  - ASKEW 53C1 (d dusty, craterized)
+  - ASKEW 53C2 (d dusty, craterized)
+  - ASKEW 53C3 (^ unstable)
+- ASKEW 53D (@ large, not consistent)
+  - ASKEW 534A (k thick atmosphere)
+  - YENSEK (q quartz surface)
+  - ASKEW 53D3 (k thick atmosphere)
+  - ASKEW 53D4 (k thick atmosphere)
+  - ASKEW 53D5 (q quartz surface)
+- ASKEW 53E (r rocky, creased)
+- ASKEW 53F (d dusty, craterized)
+- ERIE (f felisian)
+  - ASKEW 53G1 (d dusty, craterized)
+  - ASKEW 53G2 (n thin atmosphere)
+- ASKEW 53H (d dusty, craterized)
+
+Guide entries:
+1 FELISIAN, 2 QUARTZ WORLDS

@@ -1,0 +1,9 @@
+Star: TAU DENGIS
+Star class: S02
+Paris coordinates: 4114992, 5325140, -2138296
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)

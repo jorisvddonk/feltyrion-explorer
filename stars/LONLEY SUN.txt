@@ -1,0 +1,9 @@
+Star: LONLEY SUN
+Star class: S00
+Paris coordinates: -61646160, 30131801, -23715
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S00 STAR DISCOVERED BY MCWGOGS, EPOC 6011.645.309. NO PLANETS

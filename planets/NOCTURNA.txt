@@ -1,0 +1,3 @@
+Planet: NOCTURNA
+Starmap index: 03
+Paris coordinates: 3166416, 4450509, -74634

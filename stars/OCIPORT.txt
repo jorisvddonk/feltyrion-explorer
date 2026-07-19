@@ -1,0 +1,17 @@
+Star: OCIPORT
+Star class: S11
+Paris coordinates: 885008, 5065379, -2638278
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- THE TWELVE (d dusty, craterized)
+- FAMILIAR (d dusty, craterized)
+- NEAR OCEAN (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- FAMILIAR II (d dusty, craterized)
+  - LOCKED WATER (i icy surface)
+
+Guide entries:
+A TINY PULSAR WITH LARGE GRAVITY AND RADIATION.
+IT HAS 4 PLANETS IN ORBIT.
+DISCOVERED BY TIM MACE EPOC 6011 - 584.55.636

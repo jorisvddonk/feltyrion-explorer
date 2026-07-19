@@ -1,0 +1,7 @@
+Planet: VNIRFH
+Starmap index: 08
+Paris coordinates: 2052562480, 532725, 204773
+
+Guide entries:
+M04/P03 MEDIUM SIZE ROCKY, ROUGH WITH MANY CRATERS. PRO 0.180.360           
+PRV 0.003.758.391 SKINNYMON 6011 795.975                                    

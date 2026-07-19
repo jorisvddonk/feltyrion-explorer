@@ -1,0 +1,3 @@
+Planet: AEX-06-A
+Starmap index: 25
+Paris coordinates: 598576, 4279484, -1591122

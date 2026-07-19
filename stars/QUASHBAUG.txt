@@ -1,0 +1,28 @@
+Star: QUASHBAUG
+Star class: S01
+Paris coordinates: 4348912, 4523012, -438529
+Bodies: 19 (6 planets, 13 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (^ unstable)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (r rocky, creased)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.522                               

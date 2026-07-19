@@ -1,0 +1,3 @@
+Planet: PROTONIS
+Starmap index: 04
+Paris coordinates: 4273200, 3965722, -767003

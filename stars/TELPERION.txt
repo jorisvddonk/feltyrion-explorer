@@ -1,0 +1,10 @@
+Star: TELPERION
+Star class: S06
+Paris coordinates: 374288, -27268, -867492
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:591.51
+LI+ SOURCE

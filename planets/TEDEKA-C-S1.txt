@@ -1,0 +1,3 @@
+Planet: TEDEKA-C-S1
+Starmap index: 08
+Paris coordinates: 1160720, 3427984, -2521172

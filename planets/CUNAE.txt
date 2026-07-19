@@ -1,0 +1,3 @@
+Planet: CUNAE
+Starmap index: 16
+Paris coordinates: 456784, 1761371, 150486

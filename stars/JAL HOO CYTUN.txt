@@ -1,0 +1,6 @@
+Star: JAL HOO CYTUN
+Star class: S07
+Paris coordinates: 51150000, 50000, -51250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

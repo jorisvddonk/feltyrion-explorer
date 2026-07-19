@@ -1,0 +1,3 @@
+Planet: FINTELIUS
+Starmap index: 03
+Paris coordinates: 787856, 4913593, -441456

@@ -1,0 +1,7 @@
+Planet: GRAYE
+Starmap index: 06
+Paris coordinates: -165744, 3241563, 7052137
+
+Guide entries:
+CRATERED MOON OF FROCAR. NOTHING INTERESTING.                               
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.500.823)                           

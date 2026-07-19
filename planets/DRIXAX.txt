@@ -1,0 +1,8 @@
+Planet: DRIXAX
+Starmap index: 05
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+PLANET DISCOVERED BY NEURONWAKE EPOC 6011 802.490.555                       
+UNSUITABLE FOR LANDING. HAS MANY MOONS, AS WELL. (NEURONWAKE 6011 802.      
+490)                                                                        

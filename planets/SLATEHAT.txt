@@ -1,0 +1,7 @@
+Planet: SLATEHAT
+Starmap index: 06
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+0.441FG, -161 TO -151C EQU AND POLAR, 0.015ATM.                             
+(EXPLORED BY 131, EPOC 6011:804:543)                                        

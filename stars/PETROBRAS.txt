@@ -1,0 +1,11 @@
+Star: PETROBRAS
+Star class: S06
+Paris coordinates: 2814992, 4659155, -848079
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITAIBLE FOR LITIUM (RYLIE THOMAS, EPOC 6011:727.149.755)                
+FOUND SUITABLE FOR LITHIUM SCOPING. (NEURONWAKE 6011 802.541.609)           
+I SUPPOSE THAT NOTE 1 WAS A MISTAKE. . . (NEURONWAKE 6011 802.541)          

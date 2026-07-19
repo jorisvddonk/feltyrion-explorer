@@ -1,0 +1,6 @@
+Star: LI WELL
+Star class: S06
+Paris coordinates: 677136, -61020, 1172456
+Bodies: 0 (0 planets, 0 moons)
+
+System:

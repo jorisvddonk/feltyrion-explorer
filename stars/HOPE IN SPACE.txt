@@ -1,0 +1,14 @@
+Star: HOPE IN SPACE
+Star class: S00
+Paris coordinates: 839280, 679071, 589926
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+
+Guide entries:
+AFTER TRAVELLING TO 2 S00 STARS WITHOUT PLANETS I'M HOPING TO
+FIND LIFE HERE BUT WITH ONLY 2 MAJOR BODIES IN THE SYSTEM WE'LL
+SEE...
+NEITHER OF THEM HAVE AN ATMOSPHERE, I'LL KEEP SEARCHING.

@@ -1,0 +1,6 @@
+Star: CORPUS
+Star class: S10
+Paris coordinates: 2714992, 3954079, -836102
+Bodies: 0 (0 planets, 0 moons)
+
+System:

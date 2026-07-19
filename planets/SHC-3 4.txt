@@ -1,0 +1,3 @@
+Planet: SHC-3 4
+Starmap index: 04
+Paris coordinates: -27248368, -15847229, -1002309845

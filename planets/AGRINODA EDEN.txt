@@ -1,0 +1,3 @@
+Planet: AGRINODA EDEN
+Starmap index: 04
+Paris coordinates: 2270352, 3802262, -1075107

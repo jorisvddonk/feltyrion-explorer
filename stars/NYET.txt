@@ -1,0 +1,9 @@
+Star: NYET
+Star class: S00
+Paris coordinates: 1450000, 4622831, -1229093
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ S00 DISC BY SCAREDY-CAT, 6011.588.125. THIS ONE'S ALL ALONE. NO PLANETS

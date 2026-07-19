@@ -1,0 +1,14 @@
+Star: HAVEDEMASAS
+Star class: S08
+Paris coordinates: 2132257136, -1922174, -556654
+Bodies: 3 (2 planets, 1 moons)
+
+System:
+- HAVEDEMASAS B (* companion star)
+  - YLOSOPE (+ substellar object)
+- HIROKE (d dusty, craterized)
+
+Guide entries:
+CLASS S08 SYSTEM WITH TWO STARS, TWO BODIES. 0.53540176 BAL. M.             
+TEMP 3044 K RAD 42KR COOR 2132257136;-1922174;-556654; SKINNYMON            
+6011 797.374                                                                

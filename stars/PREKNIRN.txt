@@ -1,0 +1,24 @@
+Star: PREKNIRN
+Star class: S11
+Paris coordinates: -26958640, -19616960, -448688620
+Bodies: 15 (3 planets, 12 moons)
+
+System:
+- PREKNIRN PRIME (d dusty, craterized)
+- PREKNIRN 2 (d dusty, craterized)
+- PREKNIRN 3 (@ large, not consistent)
+  - PREKNIRN 3A (i icy surface)
+  - Moon #1 (i icy surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (i icy surface)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (n thin atmosphere)
+
+Guide entries:
+(DISCOVERED 6011:578.846 BY SHADOWCLAW)

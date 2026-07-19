@@ -1,0 +1,6 @@
+Planet: VIEMA 1
+Starmap index: 01
+Paris coordinates: 1670352, 5452727, -278138
+
+Guide entries:
+DISCOVERD BY POKECAT(6011.997.141)

@@ -1,0 +1,3 @@
+Planet: WAAS PRIME
+Starmap index: 01
+Paris coordinates: 2147479248, 2346547, 400741923

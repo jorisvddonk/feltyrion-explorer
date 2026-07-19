@@ -1,0 +1,6 @@
+Planet: SAMMY
+Starmap index: 08
+Paris coordinates: 3252848, 4365390, -954754
+
+Guide entries:
+DISCOVERED BY SAMUEL MORITZ EPOC 6011 577.476.850

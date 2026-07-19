@@ -1,0 +1,7 @@
+Star: PAYTROR
+Star class: S00
+Paris coordinates: 2466416, 4528367, 428392
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)

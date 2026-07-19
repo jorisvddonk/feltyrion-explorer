@@ -1,0 +1,3 @@
+Planet: HUSBAND
+Starmap index: 02
+Paris coordinates: 4366416, 4339783, -1219192

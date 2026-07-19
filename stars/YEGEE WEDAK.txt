@@ -1,0 +1,29 @@
+Star: YEGEE WEDAK
+Star class: S08
+Paris coordinates: 6224624, 5225192, -1808697
+Bodies: 23 (4 planets, 19 moons)
+
+System:
+- YEBEE WEDAK (* companion star)
+  - Moon #0 (r rocky, creased)
+- Planet #1 (* companion star)
+- Planet #2 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (^ unstable)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (@ large, not consistent)
+  - Moon #7 (+ substellar object)
+  - Moon #8 (^ unstable)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (+ substellar object)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (^ unstable)
+  - Moon #14 (^ unstable)
+- Planet #3 (* companion star)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (@ large, not consistent)

@@ -1,0 +1,6 @@
+Star: GEETOO-17
+Star class: S08
+Paris coordinates: 5753936, 5694800, -7290106
+Bodies: 0 (0 planets, 0 moons)
+
+System:

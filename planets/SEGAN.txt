@@ -1,0 +1,3 @@
+Planet: SEGAN
+Starmap index: 01
+Paris coordinates: 959632, -29159614, 1576490

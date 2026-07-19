@@ -1,0 +1,3 @@
+Planet: SHNIKERS
+Starmap index: 25
+Paris coordinates: -61125808, 29740310, 724290

@@ -1,0 +1,9 @@
+Star: SPUR 27
+Star class: S06
+Paris coordinates: -78527152, 27723551, -1251965
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

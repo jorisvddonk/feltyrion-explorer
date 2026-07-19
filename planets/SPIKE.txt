@@ -1,0 +1,6 @@
+Planet: SPIKE
+Starmap index: 01
+Paris coordinates: 167504, 1555824, -843778
+
+Guide entries:
+ COVERED WITH TALL THIN MOUNTIANS                                           

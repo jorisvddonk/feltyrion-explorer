@@ -1,0 +1,6 @@
+Star: LITH
+Star class: S06
+Paris coordinates: -72306704, -13765298, 53680208
+Bodies: 0 (0 planets, 0 moons)
+
+System:

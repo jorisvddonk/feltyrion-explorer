@@ -1,0 +1,11 @@
+Star: SAD
+Star class: S04
+Paris coordinates: 4128560, 4803885, -1390327
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SAD1 (d dusty, craterized)
+- SAD2 (d dusty, craterized)
+
+Guide entries:
+ GIANT ORANGE. 2 PLANETS NOT VISITED UNTIL 6011 . 824.525.355.              

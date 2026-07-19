@@ -1,0 +1,7 @@
+Planet: BIRD 6.1
+Starmap index: 13
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED. QUITE CLOSE TO ITS PLANET.
+SERPENS, 6011 665.408

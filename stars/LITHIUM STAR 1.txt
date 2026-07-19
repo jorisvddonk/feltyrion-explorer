@@ -1,0 +1,6 @@
+Star: LITHIUM STAR 1
+Star class: S06
+Paris coordinates: 3466416, 4340059, -424576
+Bodies: 0 (0 planets, 0 moons)
+
+System:

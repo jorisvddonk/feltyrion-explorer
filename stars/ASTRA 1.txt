@@ -1,0 +1,32 @@
+Star: ASTRA 1
+Star class: S00
+Paris coordinates: 3069264, 5430715, 1854030
+Bodies: 13 (8 planets, 5 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (+ substellar object)
+- DROGAN (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #5 (q quartz surface)
+- Planet #6 (r rocky, creased)
+- Planet #7 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY T. EPOC 6011,713.399.500.                                     
+PLANET 3 IS FULL OF LIFE AND BEAUTIFUL. HAS 3 MOONS, NONE VERY INTERE       
+STING.                                                                      
+PLANET 03 NAMED DROGAN.                                                     
+THE 4TH PLANET HAS GRASSY PLAINS AND MOUNTANOUS LAKE AREAS.                 
+PLANET 4 DOES HAVE ANIMAL LIFE.                                             
+PLANET 5 HAS STRANGE GLOWING THINGS. COORDINATES 60 0.                      
+PLANET 7 ALSO HAS GLOWING THINGS.                                           
+PLANET 6 WAS GIVEN TO BE MADE OF QUARTZ. I THINK THERE WAS A MISTAKE.       
+PLANET 8 IS MADE OF CLEAR QUARTZ AND IS QUITE FUN TO BE ON.                 
+MOON 2 OF PLANET 5 IS COVERED IN LAVA. IMPOSSIBLE TO VISIT.                 

@@ -1,0 +1,6 @@
+Planet: THEODORUS
+Starmap index: 01
+Paris coordinates: 790704, 463543, 1552541
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.249

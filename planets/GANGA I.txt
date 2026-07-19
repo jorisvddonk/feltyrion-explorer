@@ -1,0 +1,3 @@
+Planet: GANGA I
+Starmap index: 01
+Paris coordinates: 3673200, 4371914, -362360

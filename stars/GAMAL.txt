@@ -1,0 +1,10 @@
+Star: GAMAL
+Star class: S06
+Paris coordinates: -621776, -843502, -1542910
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR SCOPING
+SHAM COURTNEY, 6011:594.148

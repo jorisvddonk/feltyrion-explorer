@@ -1,0 +1,7 @@
+Planet: SATIVA 2
+Starmap index: 02
+Paris coordinates: 2739280, 5319060, -1293595
+
+Guide entries:
+DUSTY, CRATERS, NO ATMOS.
+(NOTE BY: ALEXX, EPOC 6011:602.472)

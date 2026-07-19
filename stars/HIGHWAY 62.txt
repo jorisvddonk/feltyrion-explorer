@@ -1,0 +1,8 @@
+Star: HIGHWAY 62
+Star class: S08
+Paris coordinates: 1487856, 3033001, -1230681
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)

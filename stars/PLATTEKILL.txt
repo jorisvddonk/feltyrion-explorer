@@ -1,0 +1,6 @@
+Star: PLATTEKILL
+Star class: S06
+Paris coordinates: -4223536, 552022, -3654810
+Bodies: 0 (0 planets, 0 moons)
+
+System:

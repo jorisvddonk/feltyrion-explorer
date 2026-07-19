@@ -1,0 +1,6 @@
+Star: BALBERT 2
+Star class: S06
+Paris coordinates: 3879984, 4733256, -28785
+Bodies: 0 (0 planets, 0 moons)
+
+System:

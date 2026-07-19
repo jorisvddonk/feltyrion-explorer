@@ -1,0 +1,6 @@
+Planet: BAGUY
+Starmap index: 03
+Paris coordinates: 3711056, 4512074, -85270
+
+Guide entries:
+DISCOVERED BY KROMEBOY 570.865.465

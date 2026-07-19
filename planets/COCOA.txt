@@ -1,0 +1,3 @@
+Planet: COCOA
+Starmap index: 01
+Paris coordinates: 5790704, 5142669, -3366881

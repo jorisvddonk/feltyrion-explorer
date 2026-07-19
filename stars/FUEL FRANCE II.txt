@@ -1,0 +1,6 @@
+Star: FUEL FRANCE II
+Star class: S06
+Paris coordinates: -20697232, -5585867, 41237253
+Bodies: 0 (0 planets, 0 moons)
+
+System:

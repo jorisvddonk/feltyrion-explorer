@@ -1,0 +1,3 @@
+Planet: ZZ9-BIGAMMA-O7RT4A
+Starmap index: 02
+Paris coordinates: 3290704, 4837570, -933229

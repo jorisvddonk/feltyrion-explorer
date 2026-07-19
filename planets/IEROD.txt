@@ -1,0 +1,7 @@
+Planet: IEROD
+Starmap index: 04
+Paris coordinates: 2100238704, -1473419, -594011
+
+Guide entries:
+P04/04 SMALL SOLID DUSTY LARGE CRATERS, PALE GREEN REFLECTIVITY. PRO        
+0.086.400 PRV 0.082.105.648 SKINNYMON 6011793.284                           

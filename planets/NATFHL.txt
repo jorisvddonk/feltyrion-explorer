@@ -1,0 +1,7 @@
+Planet: NATFHL
+Starmap index: 06
+Paris coordinates: 2031852592, -464651, -4802779
+
+Guide entries:
+M01/P03 SMALL SOLID DUSTY LARGE CRATERS, GREY COLOR. PRO 0.104.400          
+PRV 0.003.209.115 SKINNYMON 6011 796.403                                    

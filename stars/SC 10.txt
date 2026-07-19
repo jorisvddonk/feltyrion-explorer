@@ -1,0 +1,6 @@
+Star: SC 10
+Star class: S00
+Paris coordinates: -3176048, 22017, -2112536
+Bodies: 0 (0 planets, 0 moons)
+
+System:

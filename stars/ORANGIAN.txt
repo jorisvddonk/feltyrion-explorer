@@ -1,0 +1,12 @@
+Star: ORANGIAN
+Star class: S04
+Paris coordinates: 4907120, 4337961, 458927
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BONESLYDE (d dusty, craterized)
+- QUARTERA VIII (q quartz surface)
+
+Guide entries:
+CLASS S04 STAR. HAS 2 PLANETS AND NO MINOR BODIES.                          
+(DISCOVERED BY SERAXIS. EPOC 6011, 679.443.19)                              

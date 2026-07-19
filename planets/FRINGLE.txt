@@ -1,0 +1,3 @@
+Planet: FRINGLE
+Starmap index: 01
+Paris coordinates: 856784, -184895, -465420

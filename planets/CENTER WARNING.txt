@@ -1,0 +1,3 @@
+Planet: CENTER WARNING
+Starmap index: 04
+Paris coordinates: 2977136, 4457174, -1185882

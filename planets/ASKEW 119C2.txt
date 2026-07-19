@@ -1,0 +1,6 @@
+Planet: ASKEW 119C2
+Starmap index: 08
+Paris coordinates: 3036016, -12924584, 9835578
+
+Guide entries:
+FOUND EPOC 6011 589.550.000 BY ROLAND ASKEW

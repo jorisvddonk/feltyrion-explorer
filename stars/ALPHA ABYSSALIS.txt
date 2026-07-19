@@ -1,0 +1,6 @@
+Star: ALPHA ABYSSALIS
+Star class: S07
+Paris coordinates: 7229904, -16769281, 14893357
+Bodies: 0 (0 planets, 0 moons)
+
+System:

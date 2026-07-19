@@ -1,0 +1,3 @@
+Planet: CODENAME EAGLE
+Starmap index: 14
+Paris coordinates: 3308208, 4544237, -1774859

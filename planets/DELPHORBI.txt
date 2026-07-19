@@ -1,0 +1,3 @@
+Planet: DELPHORBI
+Starmap index: 03
+Paris coordinates: 525712, 4977223, 57282

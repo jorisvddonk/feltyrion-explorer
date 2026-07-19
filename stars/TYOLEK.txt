@@ -1,0 +1,27 @@
+Star: TYOLEK
+Star class: S00
+Paris coordinates: -1995144880, -30554, 1684406
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (@ large, not consistent)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (@ large, not consistent)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (@ large, not consistent)
+  - Moon #14 (^ unstable)
+  - Moon #15 (n thin atmosphere)

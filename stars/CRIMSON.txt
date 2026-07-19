@@ -1,0 +1,12 @@
+Star: CRIMSON
+Star class: S04
+Paris coordinates: 4039280, -66256436, -2641188
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CRIMSON I (r rocky, creased)
+- CRIMSON II (q quartz surface)
+
+Guide entries:
+AN S04 RED GIANT STAR 13LY FROM FARHOME. HAS TWO PLANETS, THE SECOND
+BEING A NICE-LOOKING QUARTZWORLD. (SCHMERM 6011 593.660)

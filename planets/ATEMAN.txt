@@ -1,0 +1,3 @@
+Planet: ATEMAN
+Starmap index: 14
+Paris coordinates: -2162480, -7768489, -2349162

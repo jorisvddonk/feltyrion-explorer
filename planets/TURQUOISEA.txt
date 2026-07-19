@@ -1,0 +1,3 @@
+Planet: TURQUOISEA
+Starmap index: 01
+Paris coordinates: 4166416, 4403058, -1129554

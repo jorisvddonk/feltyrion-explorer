@@ -1,0 +1,12 @@
+Star: LLAYRIA
+Star class: S04
+Paris coordinates: 2146954288, 1503771, 801673291
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LLAYRIA PRIMUS (d dusty, craterized)
+- LLAYRIA SECUNDUS (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BUT DODO C. SNOTTS - 6014:785.863
+(S04) 2 PLANETS / 0 MINOR

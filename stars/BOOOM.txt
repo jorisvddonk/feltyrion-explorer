@@ -1,0 +1,7 @@
+Star: BOOOM
+Star class: S10
+Paris coordinates: 5155696, 4627943, -741144
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PRISAO ESTELAR (@ large, not consistent)

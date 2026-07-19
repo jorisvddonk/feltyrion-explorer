@@ -1,0 +1,9 @@
+Star: SPUR 14
+Star class: S06
+Paris coordinates: -46504784, 14942923, -3044951
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

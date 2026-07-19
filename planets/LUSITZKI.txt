@@ -1,0 +1,3 @@
+Planet: LUSITZKI
+Starmap index: 12
+Paris coordinates: 1670352, -20147273, -251169

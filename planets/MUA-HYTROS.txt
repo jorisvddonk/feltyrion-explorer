@@ -1,0 +1,3 @@
+Planet: MUA-HYTROS
+Starmap index: 01
+Paris coordinates: 5665328, 9244775, 1215079

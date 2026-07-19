@@ -1,0 +1,48 @@
+Star: MACKOLOONGVA
+Star class: S04
+Paris coordinates: -61270448, 30091829, 306909
+Bodies: 38 (16 planets, 22 moons)
+
+System:
+- CHLOROPUS (q quartz surface)
+- GARRULUSUS (k thick atmosphere)
+- GLANDARIUS (n thin atmosphere)
+  - ZONK 1 (d dusty, craterized)
+- MBTP 17 (d dusty, craterized)
+  - HERETIC (n thin atmosphere)
+- HIPPOLARIS (n thin atmosphere)
+  - ZONK 2 (d dusty, craterized)
+  - ZONK 7 (d dusty, craterized)
+- ICTERINA (k thick atmosphere)
+  - ZONK 3 (d dusty, craterized)
+- HIRUNDO (k thick atmosphere)
+  - ZONK 4 (n thin atmosphere)
+- RUSTICA (r rocky, creased)
+- TORQUILLA (r rocky, creased)
+  - SHRICK (d dusty, craterized)
+- LANIUS (d dusty, craterized)
+- COLLURIO (n thin atmosphere)
+  - NORF 1 (n thin atmosphere)
+  - ZONK 8 (d dusty, craterized)
+- EXCUBITOR (@ large, not consistent)
+  - SYBIR 4 (i icy surface)
+  - BOILER (^ unstable)
+  - SYBIR 8 (i icy surface)
+  - SYBIR 7 (i icy surface)
+  - Moon #4 (i icy surface)
+  - SYBIR 1 (i icy surface)
+  - SYBIR 9 (i icy surface)
+  - SYBIR 5 (i icy surface)
+  - SYBIR 3 (i icy surface)
+  - SYBIR 6 (i icy surface)
+  - SYBIR 2 (i icy surface)
+- LOCUSTELLA (d dusty, craterized)
+- LOXIA (i icy surface)
+  - ZONK 5 (d dusty, craterized)
+- NAEVA (r rocky, creased)
+- LYRURUS (d dusty, craterized)
+  - ZONK 6 (d dusty, craterized)
+
+Guide entries:
+THIS BIG SYSTEM WAS DISCOVERED BY ME MCWGOGS EPOC 6011:638.635.
+CLASS S04 STAR, 16 PLANETS. NOTES BY MCWGOGS 6011.638.636

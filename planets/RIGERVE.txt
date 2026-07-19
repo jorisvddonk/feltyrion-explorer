@@ -1,0 +1,6 @@
+Planet: RIGERVE
+Starmap index: 07
+Paris coordinates: 347152, 637522, -2280495
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:801.855)             

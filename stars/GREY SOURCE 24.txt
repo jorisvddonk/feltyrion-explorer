@@ -1,0 +1,6 @@
+Star: GREY SOURCE 24
+Star class: S06
+Paris coordinates: 19846736, 54040380, -8320836
+Bodies: 0 (0 planets, 0 moons)
+
+System:

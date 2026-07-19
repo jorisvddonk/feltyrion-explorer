@@ -1,0 +1,3 @@
+Planet: TEDEKA-D-FELYS
+Starmap index: 04
+Paris coordinates: 1160720, 3427984, -2521172

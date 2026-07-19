@@ -1,0 +1,6 @@
+Star: LISEYBAL
+Star class: S02
+Paris coordinates: 50000, -17450000, -150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

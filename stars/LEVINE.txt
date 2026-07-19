@@ -1,0 +1,6 @@
+Star: LEVINE
+Star class: S07
+Paris coordinates: 1839280, 5533689, -387074
+Bodies: 0 (0 planets, 0 moons)
+
+System:

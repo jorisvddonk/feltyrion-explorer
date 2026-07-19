@@ -1,0 +1,3 @@
+Planet: THE BEAST
+Starmap index: 10
+Paris coordinates: -1170352, -263451, 180140

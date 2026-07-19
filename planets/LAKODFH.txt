@@ -1,0 +1,8 @@
+Planet: LAKODFH
+Starmap index: 08
+Paris coordinates: 2130850352, -1636894, 447026
+
+Guide entries:
+M01/P05 SMALL SOLID THIN ATMOFAIRLY LIGHT WITH SLIGHTLY SCANT POLAR         
+CAPS. QUITE CLOSE TO DOMIBE. PRO 0.267.840 PRV 0.004.038.286                
+SKINNYMON 6011 791.736                                                      

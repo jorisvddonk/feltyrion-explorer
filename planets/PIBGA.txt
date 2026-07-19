@@ -1,0 +1,7 @@
+Planet: PIBGA
+Starmap index: 24
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M01/P06 SMALL SOLID THIN ATMO. MODERATELY DARK WITH FAIR POLAR CAPS.        
+PRO 0.140.040 PRV 0.000.616.274 SKINNYMON 6011 791.363                      

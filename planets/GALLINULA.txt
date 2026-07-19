@@ -1,0 +1,3 @@
+Planet: GALLINULA
+Starmap index: 01
+Paris coordinates: -61915088, 29975142, 159290

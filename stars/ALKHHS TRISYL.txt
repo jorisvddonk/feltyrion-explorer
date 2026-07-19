@@ -1,0 +1,9 @@
+Star: ALKHHS TRISYL
+Star class: S06
+Paris coordinates: 2207120, 31238573, 3148045
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 633.660 (UNSUITABLE)

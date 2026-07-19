@@ -1,0 +1,34 @@
+Star: ARJUNA
+Star class: S08
+Paris coordinates: 3866416, 4313508, -809541
+Bodies: 25 (4 planets, 21 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (+ substellar object)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (+ substellar object)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (^ unstable)
+  - Moon #12 (f felisian)
+  - Moon #13 (+ substellar object)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (n thin atmosphere)
+  - Moon #16 (n thin atmosphere)
+  - Moon #17 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+EPOC 6011, BY HARIDAS, HAS 4 PLANETS AND 21 MOON, 2 STAR SYSTEM

@@ -1,0 +1,36 @@
+Star: FARVIEW
+Star class: S00
+Paris coordinates: 394640, 52221424, 264344
+Bodies: 22 (5 planets, 17 moons)
+
+System:
+- HOGOVIZ (r rocky, creased)
+- SLYTH (+ substellar object)
+- PEKLPIN (@ large, not consistent)
+  - PBROAAL (^ unstable)
+  - SIBAL (n thin atmosphere)
+  - CIFAS (n thin atmosphere)
+  - BORILEY (n thin atmosphere)
+  - SIRALAI (k thick atmosphere)
+  - FAHEW (n thin atmosphere)
+  - POHIM (d dusty, craterized)
+  - NESUWEA (q quartz surface)
+  - CHUAK (d dusty, craterized)
+  - SMOUB (n thin atmosphere)
+  - WHIAR (d dusty, craterized)
+  - PERFUNCTORY (f felisian)
+  - BRIAFU (k thick atmosphere)
+  - STEECHOH (d dusty, craterized)
+- CAVEAT (f felisian)
+  - LUMSKILL (d dusty, craterized)
+  - RYPOA (n thin atmosphere)
+  - NAARNA (n thin atmosphere)
+- EMPTOR (f felisian)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 5 PLANETS, 17 MOONS, 3 FELISIAN
+WORLDS. I AM UNDER ORDERS FROM G.O.E.S. NOT TO SPEAK OF MY 'HERETICAL
+FINDINGS INEXPLORING THIS SYSTEM. BUT I WILL MAKE ONE BRIEF SIDE
+REMARK. PERHAPS THE ANCIENTS DID EXIST. SKINNYMON EPOC 6011 602.696
+BUT THAT'S IMPOSSIBLE... THERE MUST BE SOMETHING WRONG WITH MY
+STARFIELD AMPLIFICATOR. (TWOTWOS, 6012:247.69)

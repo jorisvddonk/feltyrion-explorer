@@ -1,0 +1,7 @@
+Planet: MARVAIL C14
+Starmap index: 20
+Paris coordinates: -232496, 305408, -733741
+
+Guide entries:
+ LIFEFORMS FOUND HERE AS WELL, A SINGLE HOPPER, WHITE IN COLOR.
+(BGREMAN, 6011:613.64.32)

@@ -1,0 +1,12 @@
+Star: AS12281201
+Star class: S08
+Paris coordinates: 47779728, 507596, 1980851580
+Bodies: 6 (2 planets, 4 moons)
+
+System:
+- AS12281201A (* companion star)
+  - UNUMATIKA (f felisian)
+  - AS12281201A2 (+ substellar object)
+- AS12281201B (* companion star)
+  - AS12281201B1 (d dusty, craterized)
+  - AS12281201B2 (d dusty, craterized)

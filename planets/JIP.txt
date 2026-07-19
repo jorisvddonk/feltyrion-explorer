@@ -1,0 +1,6 @@
+Planet: JIP
+Starmap index: 01
+Paris coordinates: 3908208, 4333788, -2413591
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.14.494

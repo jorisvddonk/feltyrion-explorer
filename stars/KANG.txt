@@ -1,0 +1,6 @@
+Star: KANG
+Star class: S10
+Paris coordinates: 2432496, 4060346, -1407273
+Bodies: 0 (0 planets, 0 moons)
+
+System:

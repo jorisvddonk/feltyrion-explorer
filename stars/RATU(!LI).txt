@@ -1,0 +1,6 @@
+Star: RATU(!LI)
+Star class: S06
+Paris coordinates: 2070352, 5932126, -728107
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Planet: MANDAITO
+Starmap index: 08
+Paris coordinates: -1328560, -70460372, -1294468
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:582.607

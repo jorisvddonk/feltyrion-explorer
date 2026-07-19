@@ -1,0 +1,9 @@
+Star: IMPOTENT
+Star class: S06
+Paris coordinates: 3812144, 4134466, -3959594
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ SO6 DISC BY SCAREDY-CAT, EPOC 6011.585.950. NO FUEL HERE- A DUD.

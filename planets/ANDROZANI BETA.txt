@@ -1,0 +1,3 @@
+Planet: ANDROZANI BETA
+Starmap index: 01
+Paris coordinates: 4066416, 4419160, -988413

@@ -1,0 +1,6 @@
+Star: STATORPERT
+Star class: S06
+Paris coordinates: 2646064, 4925340, -809686
+Bodies: 0 (0 planets, 0 moons)
+
+System:

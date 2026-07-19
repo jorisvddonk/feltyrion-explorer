@@ -1,0 +1,17 @@
+Star: COYOTE
+Star class: S02
+Paris coordinates: 518928, 112088, -326009
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (q quartz surface)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (@ large, not consistent)
+- Planet #6 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.344
+COUNT BY JIM9137 EPOC 6011:581.795. PLANETS:7 MB:0 LABELED: 0/7

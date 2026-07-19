@@ -1,0 +1,7 @@
+Planet: DRIXAX IV
+Starmap index: 17
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 802.529.882                                   
+STILL IN A COOLDOWN STATE. (NEURONWAKE 6011 802.529.907)                    

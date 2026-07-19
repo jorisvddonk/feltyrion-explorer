@@ -1,0 +1,6 @@
+Planet: WU
+Starmap index: 04
+Paris coordinates: 1870352, 6120454, -719006
+
+Guide entries:
+SMALL SOLID DUSTY CRATERIZED (KRUSTY 6011:599.5

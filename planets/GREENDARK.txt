@@ -1,0 +1,3 @@
+Planet: GREENDARK
+Starmap index: 02
+Paris coordinates: -1139280, 128850, 12123

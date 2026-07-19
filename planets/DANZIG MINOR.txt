@@ -1,0 +1,6 @@
+Planet: DANZIG MINOR
+Starmap index: 13
+Paris coordinates: 3959632, 5309715, -1265022
+
+Guide entries:
+ BARRENWHITE MOON, FIRST MOON OF CRISHOM

@@ -1,0 +1,3 @@
+Planet: TRANSPARENT WORLD
+Starmap index: 04
+Paris coordinates: -112144, 51192, 468111

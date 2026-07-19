@@ -1,0 +1,6 @@
+Star: GEL FISH
+Star class: S09
+Paris coordinates: 774288, 878393, -1085594
+Bodies: 0 (0 planets, 0 moons)
+
+System:

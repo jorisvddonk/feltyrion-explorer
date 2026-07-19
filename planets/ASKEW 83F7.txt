@@ -1,0 +1,3 @@
+Planet: ASKEW 83F7
+Starmap index: 20
+Paris coordinates: 11889872, -19601692, 17537000

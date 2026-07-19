@@ -1,0 +1,3 @@
+Planet: MOLTEN MARBLE 1
+Starmap index: 12
+Paris coordinates: 3077136, 4447919, -1286006

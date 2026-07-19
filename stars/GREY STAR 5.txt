@@ -1,0 +1,6 @@
+Star: GREY STAR 5
+Star class: S06
+Paris coordinates: 4386768, 5375669, -267023
+Bodies: 0 (0 planets, 0 moons)
+
+System:

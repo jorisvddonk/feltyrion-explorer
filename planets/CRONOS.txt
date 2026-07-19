@@ -1,0 +1,3 @@
+Planet: CRONOS
+Starmap index: 04
+Paris coordinates: 4348912, 4223012, -412744

@@ -1,0 +1,3 @@
+Planet: TERRA PRIME
+Starmap index: 04
+Paris coordinates: 601424, 5340118, 547726

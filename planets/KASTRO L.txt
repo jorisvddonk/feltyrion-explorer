@@ -1,0 +1,7 @@
+Planet: KASTRO L
+Starmap index: 18
+Paris coordinates: 3594640, -66246329, -2851929
+
+Guide entries:
+SMALL BRIGHT QUARTZWORLD. HAS A DULL TURQUOISE GLOW.
+(SCHMERM 6011 594.488)

@@ -1,0 +1,8 @@
+Planet: REITER
+Starmap index: 03
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.815                                    
+ANOTHER CLOUDY PLANET.                                                      
+(NOTES BY MISTRAL, EPOC 6011.797.815)                                       

@@ -1,0 +1,3 @@
+Planet: MUSTARD
+Starmap index: 01
+Paris coordinates: 3966416, 5566334, -844380

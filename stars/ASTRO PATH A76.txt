@@ -1,0 +1,23 @@
+Star: ASTRO PATH A76
+Star class: S08
+Paris coordinates: 4760880, 3630331, -42819589
+Bodies: 17 (4 planets, 13 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (+ substellar object)
+- Planet #2 (* companion star)
+  - Moon #0 (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+- Planet #3 (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (f felisian)
+  - Moon #8 (k thick atmosphere)

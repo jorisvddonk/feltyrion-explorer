@@ -1,0 +1,6 @@
+Planet: LAZARIN
+Starmap index: 02
+Paris coordinates: 11707376, -19259942, 16768028
+
+Guide entries:
+FOUND EPOC 6011 585.795.600 BY ROLAND ASKEW

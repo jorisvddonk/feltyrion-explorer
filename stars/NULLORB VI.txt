@@ -1,0 +1,6 @@
+Star: NULLORB VI
+Star class: S03
+Paris coordinates: -243216, 1472717, 873060
+Bodies: 0 (0 planets, 0 moons)
+
+System:

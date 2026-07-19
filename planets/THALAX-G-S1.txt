@@ -1,0 +1,3 @@
+Planet: THALAX-G-S1
+Starmap index: 22
+Paris coordinates: 2987856, 4262240, -2661222

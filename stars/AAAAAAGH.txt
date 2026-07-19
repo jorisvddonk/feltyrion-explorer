@@ -1,0 +1,7 @@
+Star: AAAAAAGH
+Star class: S10
+Paris coordinates: -904272, 504804, -2225571
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)

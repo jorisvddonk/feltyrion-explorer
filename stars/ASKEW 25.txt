@@ -1,0 +1,7 @@
+Star: ASKEW 25
+Star class: S10
+Paris coordinates: 10907376, -19713673, 17598815
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ASKEW 25A (r rocky, creased)

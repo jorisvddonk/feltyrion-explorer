@@ -1,0 +1,10 @@
+Star: PARSIS' DWARF
+Star class: S07
+Paris coordinates: 2256784, 3950922, -1662661
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY CAPT. CARLOS ON 6011.602.875.875. IT'S A BLUE
+DWARF STAR. NAMED IN HONOR OF DR. PARSIS. NOPLANETS ARROUND IT.

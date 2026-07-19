@@ -1,0 +1,3 @@
+Planet: SHADES
+Starmap index: 02
+Paris coordinates: 4759632, 4827311, -2108874

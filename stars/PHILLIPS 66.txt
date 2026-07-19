@@ -1,0 +1,6 @@
+Star: PHILLIPS 66
+Star class: S06
+Paris coordinates: 3787856, 4303144, -3497643
+Bodies: 0 (0 planets, 0 moons)
+
+System:

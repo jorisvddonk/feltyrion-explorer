@@ -1,0 +1,6 @@
+Planet: BLSIBI 3
+Starmap index: 03
+Paris coordinates: 2866416, 5442081, 70254
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.997.964)

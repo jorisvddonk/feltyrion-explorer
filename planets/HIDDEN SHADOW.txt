@@ -1,0 +1,3 @@
+Planet: HIDDEN SHADOW
+Starmap index: 02
+Paris coordinates: 3308208, 4644237, -1812692

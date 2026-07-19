@@ -1,0 +1,6 @@
+Planet: VASTREIA
+Starmap index: 07
+Paris coordinates: 3882832, 6724949, 1897262
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.999.789)

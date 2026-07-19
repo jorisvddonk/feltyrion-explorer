@@ -1,0 +1,3 @@
+Planet: STELLARIS
+Starmap index: 01
+Paris coordinates: -61339376, 29956249, 167273

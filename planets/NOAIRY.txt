@@ -1,0 +1,3 @@
+Planet: NOAIRY
+Starmap index: 02
+Paris coordinates: -72834928, -1421266, 56473023

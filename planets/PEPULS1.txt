@@ -1,0 +1,6 @@
+Planet: PEPULS1
+Starmap index: 01
+Paris coordinates: 311056, -1476884, 3268334
+
+Guide entries:
+SMALL, NO ATMOSPHERE. CREASED.

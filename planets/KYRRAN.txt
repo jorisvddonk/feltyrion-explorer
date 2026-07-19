@@ -1,0 +1,3 @@
+Planet: KYRRAN
+Starmap index: 06
+Paris coordinates: 5813904, 5031533, -93900

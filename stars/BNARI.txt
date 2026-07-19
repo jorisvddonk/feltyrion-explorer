@@ -1,0 +1,11 @@
+Star: BNARI
+Star class: S11
+Paris coordinates: 5876048, 4961068, -246579
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- UNKO LISRU (n thin atmosphere)
+- TRANGOVE (n thin atmosphere)
+- GNALLA (@ large, not consistent)
+  - FALINI (q quartz surface)
+  - SINGIOFRAN (i icy surface)

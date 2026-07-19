@@ -1,0 +1,6 @@
+Star: SF 12
+Star class: S06
+Paris coordinates: -115551280, -52466303, -278671
+Bodies: 0 (0 planets, 0 moons)
+
+System:

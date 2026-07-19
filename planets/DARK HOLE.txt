@@ -1,0 +1,3 @@
+Planet: DARK HOLE
+Starmap index: 30
+Paris coordinates: 3366416, 4232527, -498413

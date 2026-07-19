@@ -1,0 +1,6 @@
+Planet: FIRST ROCK
+Starmap index: 01
+Paris coordinates: -12439536, -12353085, -11882026
+
+Guide entries:
+FORGOTTEN PLANET (NOTES BY DAWIWO, EPOCH 6011:768.495)                      

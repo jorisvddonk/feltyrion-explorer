@@ -1,0 +1,14 @@
+Star: NECTARINES
+Star class: S08
+Paris coordinates: 6313904, 4676597, -607987
+Bodies: 3 (1 planets, 2 moons)
+
+System:
+- NECTARINES A (* companion star)
+  - CHAR (^ unstable)
+  - ADMONISH (f felisian)
+
+Guide entries:
+FURTHER NOTES:A CLASS S08 SYSTEM, AS IT WERE, CONSISTING OF TWO
+STARS AND TWO WORLDS. ONE OF THE WORLDS, IRONICALLY, IS FELISIAN.
+GO FIGURE. SKINNYMON EPOC 6011 592.851

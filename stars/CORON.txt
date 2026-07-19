@@ -1,0 +1,10 @@
+Star: CORON
+Star class: S06
+Paris coordinates: 1756784, 4533924, -1146443
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ UNREMARKABLE GREY GIANT, BUT USEFUL AS A REFUELING POINT. -WOLFE
+DISCOVERED BY WOLFE EPOC 6011 EST. 659.128.---

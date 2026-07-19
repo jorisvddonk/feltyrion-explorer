@@ -1,0 +1,45 @@
+Star: OMRICON I
+Star class: S00
+Paris coordinates: 6212656, 5124804, 40079781
+Bodies: 35 (7 planets, 28 moons)
+
+System:
+- TIMDIM (n thin atmosphere)
+- DURPIL (n thin atmosphere)
+- YEOBJET (+ substellar object)
+  - REEND (n thin atmosphere)
+  - FEME (q quartz surface)
+  - PINNEN (k thick atmosphere)
+  - GNARL (^ unstable)
+  - DARVAL (r rocky, creased)
+  - TWISTRE (f felisian)
+  - ANGENE (d dusty, craterized)
+  - CANEXP (k thick atmosphere)
+  - DISMIC (f felisian)
+  - GREYEY (d dusty, craterized)
+  - CYGRELO (d dusty, craterized)
+  - ORDIDAR (n thin atmosphere)
+  - PURPLIN (k thick atmosphere)
+  - SHIGE (q quartz surface)
+  - PYROCAL (k thick atmosphere)
+  - REBEDI (n thin atmosphere)
+  - GADARAK (@ large, not consistent)
+  - AUTUMESE (f felisian)
+- NEONAS (@ large, not consistent)
+  - GREYEOR (k thick atmosphere)
+  - JENGIM (f felisian)
+  - DESTINGLE (f felisian)
+  - MOLTEG (^ unstable)
+  - THIGEGRE (k thick atmosphere)
+  - DACREDA (n thin atmosphere)
+  - CYDESU (d dusty, craterized)
+- PERPANE (n thin atmosphere)
+  - YELEINT (d dusty, craterized)
+- GENGRE (d dusty, craterized)
+  - ORDARD (n thin atmosphere)
+- GREROC (r rocky, creased)
+  - CARAAM (d dusty, craterized)
+
+Guide entries:
+S00 STAR WITH 7 PLANETS AND 28 MINOR BODIES. 5 OF THEM FELYSIAN.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:631:397

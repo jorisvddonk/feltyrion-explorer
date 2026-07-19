@@ -1,0 +1,10 @@
+Star: RECON DRIFTSAVER
+Star class: S06
+Paris coordinates: 185674288, 52834173, -186010675
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PHEW! WAS 'SAVED' BY THIS STAR, AFTER A 2500 LY VIMANA BURN                 
+THAT LEFT ME WITH HARDLY ANY LITHIUM. RYAN GJK E6011.807                    

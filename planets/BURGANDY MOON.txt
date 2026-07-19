@@ -1,0 +1,3 @@
+Planet: BURGANDY MOON
+Starmap index: 19
+Paris coordinates: 4259632, 5344350, -1544840

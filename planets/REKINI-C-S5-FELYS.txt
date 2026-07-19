@@ -1,0 +1,3 @@
+Planet: REKINI-C-S5-FELYS
+Starmap index: 13
+Paris coordinates: 164656, -54848, -2929708

@@ -1,0 +1,7 @@
+Planet: YUINCA XII
+Starmap index: 12
+Paris coordinates: -12144, -27311, 376371
+
+Guide entries:
+ ASMALL, THIN ATMOSPHERE PLANET. IT IS WAY OUT THERE.
+AMWHERE 6011.586.825

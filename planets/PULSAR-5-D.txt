@@ -1,0 +1,3 @@
+Planet: PULSAR-5-D
+Starmap index: 04
+Paris coordinates: 1667504, 4213447, -2437192

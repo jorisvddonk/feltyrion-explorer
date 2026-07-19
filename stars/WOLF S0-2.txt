@@ -1,0 +1,9 @@
+Star: WOLF S0-2
+Star class: S00
+Paris coordinates: 4773200, 4851613, -1483503
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (q quartz surface)

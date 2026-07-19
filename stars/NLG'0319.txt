@@ -1,0 +1,6 @@
+Star: NLG'0319
+Star class: S08
+Paris coordinates: 2950000, 5350000, -3050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

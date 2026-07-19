@@ -1,0 +1,11 @@
+Star: LORNADERER
+Star class: S00
+Paris coordinates: -125712, -79198, -348529
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BY JILANTY EPOC6011 568.993
+THIS CLASS 0 STAR HAS ONLY ONE SOLITARY PLANET WITH NO LIFE.

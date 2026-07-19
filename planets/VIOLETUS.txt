@@ -1,0 +1,3 @@
+Planet: VIOLETUS
+Starmap index: 19
+Paris coordinates: 4348912, 3923012, -386959

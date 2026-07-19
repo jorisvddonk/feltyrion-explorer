@@ -1,0 +1,10 @@
+Star: SPRAK
+Star class: S07
+Paris coordinates: 4973200, 4731331, -1675245
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SUBSTELLAR (+ substellar object)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY YOURS TRULY RAPTORJEDI (6011.605.149)

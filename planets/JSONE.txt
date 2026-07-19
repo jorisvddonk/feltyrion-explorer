@@ -1,0 +1,3 @@
+Planet: JSONE
+Starmap index: 09
+Paris coordinates: 4577136, 4540157, -2788136

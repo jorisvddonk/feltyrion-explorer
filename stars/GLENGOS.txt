@@ -1,0 +1,13 @@
+Star: GLENGOS
+Star class: S03
+Paris coordinates: 3948912, 4353743, 29276
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- GLENGIA (q quartz surface)
+- Planet #2 (r rocky, creased)
+- Planet #3 (q quartz surface)
+
+Guide entries:
+DISCOVERED BY GLENG THE GREAT EPOC 6011:566:170

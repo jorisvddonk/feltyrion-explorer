@@ -1,0 +1,10 @@
+Star: NONPLUS
+Star class: S00
+Paris coordinates: -25712, 84974, -455239
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (^ unstable)
+
+Guide entries:
+A CLASS S00 STAR WITH ONE ABSURD PLANET. SKINNYMON EPOC 6011 580.739

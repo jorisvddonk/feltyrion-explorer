@@ -1,0 +1,9 @@
+Star: EVII
+Star class: S08
+Paris coordinates: 2366416, 5551635, 539624
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS

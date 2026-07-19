@@ -1,0 +1,3 @@
+Planet: UBERDEK
+Starmap index: 03
+Paris coordinates: 9993136, 8520056, 8018881

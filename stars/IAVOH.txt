@@ -1,0 +1,13 @@
+Star: IAVOH
+Star class: S02
+Paris coordinates: 3779984, 5023104, 146427
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- KRANU (r rocky, creased)
+- PROVOR (q quartz surface)
+- JARTHU (+ substellar object)
+
+Guide entries:
+NAMED BY XILOSCIENT (EPOC 6011:571.681)
+TYPE S02 STAR

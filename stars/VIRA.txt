@@ -1,0 +1,10 @@
+Star: VIRA
+Star class: S06
+Paris coordinates: -1424, 3916208, -968183
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SOURCE OF LN+
+DISCOVERED BY SHAM COURTNEY, 6011:593.382

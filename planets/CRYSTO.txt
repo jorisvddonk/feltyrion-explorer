@@ -1,0 +1,6 @@
+Planet: CRYSTO
+Starmap index: 21
+Paris coordinates: 1109296, 4614243, -3321680
+
+Guide entries:
+ QUARTZ PLANET DISC BY SCAREDY-CAT, EPOC 6011.589.498.

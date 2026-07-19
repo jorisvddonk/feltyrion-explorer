@@ -1,0 +1,11 @@
+Star: ALONE
+Star class: S00
+Paris coordinates: 7358544, 845511, -1096003
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS 0 STAR WITH NO PLANETS
+DISCOVERED BY R.CLEAR EPOC 6011:568.555
+WE LIVE AS WE DREAM - ALONE

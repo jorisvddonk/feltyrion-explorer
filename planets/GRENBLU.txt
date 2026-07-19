@@ -1,0 +1,6 @@
+Planet: GRENBLU
+Starmap index: 02
+Paris coordinates: 1485008, 4177919, -3294996
+
+Guide entries:
+PLANET DISCOVERED BY NYO, EPOC 6011:575.822

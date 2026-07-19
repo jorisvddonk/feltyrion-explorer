@@ -1,0 +1,6 @@
+Star: ASKEW 146
+Star class: S07
+Paris coordinates: 10293808, -17938404, 17359396
+Bodies: 0 (0 planets, 0 moons)
+
+System:

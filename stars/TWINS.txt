@@ -1,0 +1,12 @@
+Star: TWINS
+Star class: S08
+Paris coordinates: 2977136, 4624315, -1393374
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- TWINREMOTE (* companion star)
+- TRASH (d dusty, craterized)
+
+Guide entries:
+INTRUDER
+6011 572.204.796

@@ -1,0 +1,11 @@
+Star: VANA
+Star class: S06
+Paris coordinates: 5438192, 4645464, -174286
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY JAVIER, 6011:686.119.                                         
+NO MONOVALENT LITHIUM PRESENT, UNSUITABLE FOR SCOPING. NO PLANETS LEFT.     
+(JAVIER 6011:686.120)                                                       

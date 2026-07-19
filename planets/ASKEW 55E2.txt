@@ -1,0 +1,3 @@
+Planet: ASKEW 55E2
+Starmap index: 14
+Paris coordinates: 11038448, -19251310, 17477204

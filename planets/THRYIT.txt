@@ -1,0 +1,8 @@
+Planet: THRYIT
+Starmap index: 02
+Paris coordinates: 2140364592, -691520, 1231760
+
+Guide entries:
+P02/07 SMALL SOLID THIN ATMO. MODERATELY DARK WITH FAIR POLAR CAPS.         
+HAS A FEW LIGHT AREAS VISIBLE. PRO 0.000.274.320 PRV 0.010.627.076          
+SKINNYMON 6011 791.552                                                      

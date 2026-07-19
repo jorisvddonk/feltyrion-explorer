@@ -1,0 +1,36 @@
+Star: DORMANT
+Star class: S00
+Paris coordinates: -3013904, 10333783, -2573808
+Bodies: 19 (12 planets, 7 moons)
+
+System:
+- DORMANT 1 (d dusty, craterized)
+- DORMANT 2 (k thick atmosphere)
+- DORMANT 3 (f felisian)
+- DORMANT 4 (f felisian)
+  - DORMANT 4.1 (n thin atmosphere)
+- DORMANT 5 (@ large, not consistent)
+  - DORMANT 5.2 (k thick atmosphere)
+  - DORMANT 5.1 (q quartz surface)
+  - DORMANT 5.3 (n thin atmosphere)
+- DORMANT 6 (^ unstable)
+- DORMANT 7 (r rocky, creased)
+- DORMANT 8 (n thin atmosphere)
+- DORMANT 9 (d dusty, craterized)
+- DORMANT 10 (k thick atmosphere)
+  - DORMANT 10.2 (d dusty, craterized)
+  - DORMANT 10.1 (n thin atmosphere)
+- DORMANT 11 (d dusty, craterized)
+  - DORMANT 11.1 (d dusty, craterized)
+- DORMANT 12 (r rocky, creased)
+
+Guide entries:
+ A S00 STAR WITH 12 PLANETS AND 7 MOONS. EXPLORATION WILL START ASAP.
+ THE DORMANT SYSTEM HAS 2 FELISIAN WORLDS, THE RETS BEING GAS-GIANTS
+AND OTHER UNINTERESTING PLANETS. THE TWO FELISIAN WORLDS MAKES THIS
+SYSTEM WORTH RE-VISITING LATER. RIGHT NOW, WE ARE ONCE AGAIN POWERING
+UP OUR VIMANA-DRIVE, WE STIL HAVE TO CONTINIUE OUR SEARCH FOR ANTYREN.
+FINDING THIS WORLD IS OUR MAIN GOAL, ALL OTHER GOALS ARE SECOUNDARY.
+THIS IS CAPTAIN STARGAZER OF SD FALCORI, ALL HANDS: PREPARE FOR VIMANA
+FLIGHT.
+STEADY AS SHE GOES... (STARGAZER. EPOC 6011; 586.13.673)

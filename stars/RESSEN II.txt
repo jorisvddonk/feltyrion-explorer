@@ -1,0 +1,17 @@
+Star: RESSEN II
+Star class: S03
+Paris coordinates: 26553616, 6466652, 45080159
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- OREIENG (+ substellar object)
+- BYETER (+ substellar object)
+- BIEET (k thick atmosphere)
+  - PIBEEN (d dusty, craterized)
+- BRONEZ (d dusty, craterized)
+  - CEEREIM (d dusty, craterized)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S03 STAR WITH 4 PLANETS AND 2 MOONS.
+NONE BEING FELYSIAN.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:782

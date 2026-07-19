@@ -1,0 +1,12 @@
+Star: MIRAGE OF LIFE
+Star class: S00
+Paris coordinates: 3752848, 4041158, -1634916
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GECKO (r rocky, creased)
+- BLUE EMMENTHAL (d dusty, craterized)
+
+Guide entries:
+YELLOW STAR. TWO PLANETS NOT SUITABLE FOR LIFE.
+DISCOVERED BY RAGENDAL.

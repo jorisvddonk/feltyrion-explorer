@@ -1,0 +1,7 @@
+Star: SIGLAR-1
+Star class: S00
+Paris coordinates: 1467504, 3757636, -2368314
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SIGLAR-1-A (+ substellar object)

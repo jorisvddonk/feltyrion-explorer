@@ -1,0 +1,7 @@
+Planet: EWALD
+Starmap index: 01
+Paris coordinates: 1567504, 4324217, -2528140
+
+Guide entries:
+ DISCOVERED BY CAPT. CARLOS ON 6011.603.320.062. A VERY BEAUTIFUL RINGED
+ HUGE PLANET...

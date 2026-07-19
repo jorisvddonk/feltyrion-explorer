@@ -1,0 +1,3 @@
+Planet: WAVE PANIC
+Starmap index: 14
+Paris coordinates: 3121776, 4855657, -847391

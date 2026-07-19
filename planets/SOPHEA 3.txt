@@ -1,0 +1,3 @@
+Planet: SOPHEA 3
+Starmap index: 03
+Paris coordinates: 294640, 502336, 354802

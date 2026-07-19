@@ -1,0 +1,7 @@
+Planet: FRATER
+Starmap index: 03
+Paris coordinates: 3635344, 4013073, -545271
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED FLYING CREATURES.                     
+(NOTES BY FRITZ, EPOC 6011:714.881)                                         

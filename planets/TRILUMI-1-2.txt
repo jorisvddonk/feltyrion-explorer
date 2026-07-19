@@ -1,0 +1,6 @@
+Planet: TRILUMI-1-2
+Starmap index: 04
+Paris coordinates: -1332496, 128377, 402960
+
+Guide entries:
+PLANET DISCOVERED BY JUS EPOC 6011.578.519

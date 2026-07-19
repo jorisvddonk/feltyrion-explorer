@@ -1,0 +1,16 @@
+Star: CASIRIMI
+Star class: S00
+Paris coordinates: 8208, 36174, 1539328
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- OBTECT (@ large, not consistent)
+- STAR SHELL (+ substellar object)
+- CATION (d dusty, craterized)
+  - PREFECT (n thin atmosphere)
+
+Guide entries:
+DISCOVERED EPOC 6011:565.837.560 BY FRANCOIS WISARD
+FURTHER NOTES: A CLASS S00 SYSTEM WITH 3 PLANETS, NONE OF WHICH WERE
+NAMED BY THE ORIGINAL DISCOVERER. ONE MOON, ALSO UNNAMED.
+SKINNYMON EPOC 6011 568.568

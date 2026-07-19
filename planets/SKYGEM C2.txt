@@ -1,0 +1,6 @@
+Planet: SKYGEM C2
+Starmap index: 31
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A STANDARD CLOUD COVERED PLANET. AMWHERE 6011.584.971

@@ -1,0 +1,10 @@
+Star: L4 LEG 9A
+Star class: S06
+Paris coordinates: -680530960, 89104, -184256
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE. GOTTA FIND SOME OTHER PLACE TO REFUEL.
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:163

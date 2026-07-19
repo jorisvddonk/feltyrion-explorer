@@ -1,0 +1,9 @@
+Star: ANCESTRY XXXIV
+Star class: S07
+Paris coordinates: -1426483248, 2046463, 1434369295
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PLANETLESS S07. RYAN GJK E6011.785.166                                    

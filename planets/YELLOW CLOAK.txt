@@ -1,0 +1,3 @@
+Planet: YELLOW CLOAK
+Starmap index: 02
+Paris coordinates: 6241040, 9632737, 1105476

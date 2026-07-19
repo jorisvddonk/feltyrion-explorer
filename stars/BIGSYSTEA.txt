@@ -1,0 +1,48 @@
+Star: BIGSYSTEA
+Star class: S04
+Paris coordinates: -61332592, 29351818, 460210
+Bodies: 38 (20 planets, 18 moons)
+
+System:
+- QUARELIS (q quartz surface)
+- THIERAI (n thin atmosphere)
+- THEREIS (n thin atmosphere)
+  - PONCHERAES (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- FELYRANIS (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- THIBERIS (n thin atmosphere)
+- THICKAREA (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- GASOLERIS (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (^ unstable)
+  - Moon #3 (n thin atmosphere)
+- ATMOTHICKERIS (k thick atmosphere)
+- CREASIS (r rocky, creased)
+- THICARES (k thick atmosphere)
+  - Moon #0 (^ unstable)
+- NOATMERSI (d dusty, craterized)
+- CRATERAES (d dusty, craterized)
+- THIEASIS (n thin atmosphere)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+- CRATEROES (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- ATERAES (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- PLANERISEA (k thick atmosphere)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+- ATMERAES (k thick atmosphere)
+- EITARES (d dusty, craterized)
+- PLANEREIS (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- CRATISES (d dusty, craterized)
+
+Guide entries:
+SYSTEM (VERY LARGE) DISCOVERED BY MCWGOGS EPOC 6011.639.741.
+CLASS S04 ORANGE GIANT STAR, 20 PLANETS. MCWGOGS EPOC 6011.639.742.

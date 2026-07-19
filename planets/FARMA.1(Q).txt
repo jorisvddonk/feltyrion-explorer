@@ -1,0 +1,3 @@
+Planet: FARMA.1(Q)
+Starmap index: 01
+Paris coordinates: 1608208, 5920927, -120051

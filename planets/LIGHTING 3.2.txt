@@ -1,0 +1,7 @@
+Planet: LIGHTING 3.2
+Starmap index: 07
+Paris coordinates: 36432, 33110, -633205
+
+Guide entries:
+VERY THICK ATMOSPHERE. HAS SOME DECENT STORMS.
+ SERPENS, 6011 665.369

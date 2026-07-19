@@ -1,0 +1,12 @@
+Star: HIGH LIGHT
+Star class: S02
+Paris coordinates: 4311056, 4686995, -684572
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- JUME (n thin atmosphere)
+- HOT ROCK (^ unstable)
+- MOLDY MELLON (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY SHADOWSTAR ON 6011:604.171

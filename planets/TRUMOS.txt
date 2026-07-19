@@ -1,0 +1,6 @@
+Planet: TRUMOS
+Starmap index: 01
+Paris coordinates: 2605360, 5998140, -3142515
+
+Guide entries:
+FOUND BY MIKE HEITZ(NOTES BY MIKE HEITZ EPOC:6011:659.898)

@@ -1,0 +1,3 @@
+Planet: MONSTER
+Starmap index: 01
+Paris coordinates: -70572784, -326262, 53980485

@@ -1,0 +1,34 @@
+Star: 1X3
+Star class: S08
+Paris coordinates: 4266416, 4367760, -1394938
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (f felisian)
+- Planet #1 (* companion star)
+  - Moon #0 (d dusty, craterized)
+- Planet #2 (* companion star)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (^ unstable)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (^ unstable)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+1X3 IS A MULTI-STAR SYSTEM WITH THE MAIN STAR, 3 COMPANION STARS AND 2
+PLANETS. THE OUTER PLANET IS ABOUT 815 DIAMS FROM THE CENTER. BOTH
+PLANETS ARE QUARTZ.
+DISCOVERED EPOC 6011 486.441.125 BY SPIDER, NOTES BY SAME

@@ -1,0 +1,10 @@
+Star: FOWL
+Star class: S00
+Paris coordinates: 3997488, 3863426, -1249943
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED FOWL EPOC 6011 TRIADS 661.192.280
+FOWL IS A MEDIUM SIZED YELLOW STAR WITHOUT ANY PLANETS

@@ -1,0 +1,22 @@
+Star: NIINA
+Star class: S00
+Paris coordinates: 14464240, 9025215, -3731651
+Bodies: 16 (7 planets, 9 moons)
+
+System:
+- SUOMI (k thick atmosphere)
+- VILKONEN (q quartz surface)
+- PUUT (f felisian)
+- KUKKA (f felisian)
+- TURKU (d dusty, craterized)
+- MOONEEN (@ large, not consistent)
+  - VILLIVALLO (k thick atmosphere)
+  - NYLAENDER (d dusty, craterized)
+  - VINTONEN (d dusty, craterized)
+  - YLOENEN (k thick atmosphere)
+  - YONTONEN (r rocky, creased)
+  - LUKTU (r rocky, creased)
+  - LEHTONEN (f felisian)
+  - JUNKA (r rocky, creased)
+  - ANJONEN (d dusty, craterized)
+- HILKONEN (k thick atmosphere)

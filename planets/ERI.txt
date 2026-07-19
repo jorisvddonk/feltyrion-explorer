@@ -1,0 +1,3 @@
+Planet: ERI
+Starmap index: 02
+Paris coordinates: -2562480, -10358316, -1899664

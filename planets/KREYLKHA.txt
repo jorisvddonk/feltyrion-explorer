@@ -1,0 +1,3 @@
+Planet: KREYLKHA
+Starmap index: 01
+Paris coordinates: 1186768, 31211492, 2883452

@@ -1,0 +1,7 @@
+Planet: BIRD 6.2
+Starmap index: 14
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+SMALL, CRATERIZED, BUT HAS A VERY HIGH, BLUE REFLECTIVITY.
+SERPENS, 6011 665.408

@@ -1,0 +1,6 @@
+Planet: ARES
+Starmap index: 17
+Paris coordinates: 43216, 394196, -236960
+
+Guide entries:
+DISCOVERED BY FOTIOS. EPOC 6011:609.544

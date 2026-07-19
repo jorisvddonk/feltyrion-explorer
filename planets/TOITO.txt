@@ -1,0 +1,3 @@
+Planet: TOITO
+Starmap index: 06
+Paris coordinates: -105412752, 25928537, -610127

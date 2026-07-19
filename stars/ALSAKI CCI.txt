@@ -1,0 +1,14 @@
+Star: ALSAKI CCI
+Star class: S02
+Paris coordinates: 15699248, 32056248, -6948680
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (k thick atmosphere)
+- Planet #3 (q quartz surface)
+- Planet #4 (@ large, not consistent)
+- Planet #5 (@ large, not consistent)
+- Planet #6 (@ large, not consistent)
+- Planet #7 (d dusty, craterized)

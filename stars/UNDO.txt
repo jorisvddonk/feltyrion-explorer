@@ -1,0 +1,38 @@
+Star: UNDO
+Star class: S00
+Paris coordinates: 3538192, 5043669, 1774051
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- NTFFS (d dusty, craterized)
+- GRING (d dusty, craterized)
+- DENTA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 572.374
+S00 STAR WITH 10 PLANETS
+PLANET 1 NTFFS
+PLANET 2 GRING
+PLANET 3 DENTA

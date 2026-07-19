@@ -1,0 +1,3 @@
+Planet: NOTHING CURIOUS
+Starmap index: 01
+Paris coordinates: 14641040, 32132444, -7287152

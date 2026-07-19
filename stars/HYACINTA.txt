@@ -1,0 +1,15 @@
+Star: HYACINTA
+Star class: S00
+Paris coordinates: 778224, 1277695, -2953247
+Bodies: 6 (5 planets, 1 moons)
+
+System:
+- HYACINTA I (k thick atmosphere)
+- HYACINTA II (k thick atmosphere)
+- HYACINTA III (f felisian)
+- HYACINTA IV (k thick atmosphere)
+- HYACINTA V (f felisian)
+  - NEAMER (d dusty, craterized)
+
+Guide entries:
+ SYSTEM DISCOVERED BY S J VAN DER SCHAAF, EPOC 6011:587.918.477

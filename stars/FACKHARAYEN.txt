@@ -1,0 +1,46 @@
+Star: FACKHARAYEN
+Star class: S03
+Paris coordinates: 3614992, 4399761, -1691336
+Bodies: 36 (9 planets, 27 moons)
+
+System:
+- MIMBUPAL (r rocky, creased)
+- TEBROK (q quartz surface)
+- FORDINARM (@ large, not consistent)
+  - LUTANILL (k thick atmosphere)
+  - RUHUG (d dusty, craterized)
+  - CUTUN (d dusty, craterized)
+  - PIMINILT (k thick atmosphere)
+  - LUKUBIRF (k thick atmosphere)
+  - RUDAPOPH (k thick atmosphere)
+  - BETRIS (d dusty, craterized)
+  - ROZZA (d dusty, craterized)
+  - FETRAC (n thin atmosphere)
+  - HETRARBOR (k thick atmosphere)
+  - MEREBIM (q quartz surface)
+- BOUNCIS (f felisian)
+  - NUIDOR (n thin atmosphere)
+  - LOALIZ (d dusty, craterized)
+  - ANGYOR (d dusty, craterized)
+- DREMOBAS (q quartz surface)
+  - WRAMP (d dusty, craterized)
+  - SLATH (d dusty, craterized)
+  - GLIFU (d dusty, craterized)
+- INFYMOR (d dusty, craterized)
+- PORTEGAIM (k thick atmosphere)
+  - GULTIG (n thin atmosphere)
+  - COGGIT (d dusty, craterized)
+- FLUGOS (d dusty, craterized)
+- DIFLAE (@ large, not consistent)
+  - CITREP (^ unstable)
+  - FUPRA (d dusty, craterized)
+  - LIPLO (i icy surface)
+  - BATREPOC (k thick atmosphere)
+  - PITRONEL (k thick atmosphere)
+  - KECTO (i icy surface)
+  - XITRIR (i icy surface)
+  - MEPLO (i icy surface)
+
+Guide entries:
+FURTHER NOTES: A CLASS S03 SYSTEM CONSISTING OF 9 PLANETS, 27
+MOONS, ONE FELISIAN WORLD. SKINNYMON EPOC 6011 597.84

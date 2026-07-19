@@ -1,0 +1,6 @@
+Star: COLD AIR
+Star class: S06
+Paris coordinates: 3824624, 5229346, 610655
+Bodies: 0 (0 planets, 0 moons)
+
+System:

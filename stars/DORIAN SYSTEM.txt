@@ -1,0 +1,16 @@
+Star: DORIAN SYSTEM
+Star class: S02
+Paris coordinates: 3377136, 4858630, -1777198
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- GRABEN (r rocky, creased)
+- EDWARD (+ substellar object)
+- SQUORNSHELLUS ZETA (k thick atmosphere)
+- ANIARA (@ large, not consistent)
+
+Guide entries:
+ STAR DISCOVERED BY DORIAN EPOC 6011:609.287
+SYSTEM HAS 4 PLANETS, 2 OF WHICH YOU CAN LAND ON. THE FIRST AND
+THE THIRD. NONE OF THEM HAS LIFE.
+(NOTES BY DORIAN EPOC 6011:609.353)

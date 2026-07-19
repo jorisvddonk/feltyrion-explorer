@@ -1,0 +1,8 @@
+Star: VB009
+Star class: S00
+Paris coordinates: 1560720, 5066469, -2680886
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)

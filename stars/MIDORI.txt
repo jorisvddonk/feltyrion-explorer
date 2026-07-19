@@ -1,0 +1,11 @@
+Star: MIDORI
+Star class: S00
+Paris coordinates: -379936080, -1443960, 54357502
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (+ substellar object)
+- MATOASSU (f felisian)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)

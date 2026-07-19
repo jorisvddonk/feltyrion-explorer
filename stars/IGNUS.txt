@@ -1,0 +1,28 @@
+Star: IGNUS
+Star class: S00
+Paris coordinates: 3128560, 6135234, -428993
+Bodies: 18 (4 planets, 14 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+- MEPHISTO (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - LONDON (f felisian)
+  - Moon #6 (n thin atmosphere)
+  - SHADOW (f felisian)
+  - TRINITY (f felisian)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (n thin atmosphere)
+
+Guide entries:
+ THE FOURTH PLANET OF THIS SYSTEM HAS SOME INTERESTING MOONS.
+(CPT. EUMEL, EPOC 6011:563.840.543)

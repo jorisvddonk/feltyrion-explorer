@@ -1,0 +1,6 @@
+Planet: LAGASTA 6
+Starmap index: 06
+Paris coordinates: 2759632, 5019210, -268015
+
+Guide entries:
+DISCOVERED BY CUNICULI, 6011:587.821. LARGE RING SYSTEM.

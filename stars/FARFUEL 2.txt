@@ -1,0 +1,9 @@
+Star: FARFUEL 2
+Star class: S06
+Paris coordinates: 3763568, -66462989, -2970541
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 FUELSTAR. 22MTPD OF LI+ IONS AVAILABLE. (SCHMERM 6011 593.659)

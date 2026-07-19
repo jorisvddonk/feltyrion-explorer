@@ -1,0 +1,3 @@
+Planet: ASKEW 78D6
+Starmap index: 12
+Paris coordinates: 11727728, -19112154, 18047770

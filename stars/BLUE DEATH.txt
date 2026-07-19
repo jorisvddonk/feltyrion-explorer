@@ -1,0 +1,6 @@
+Star: BLUE DEATH
+Star class: S01
+Paris coordinates: -750000, 9696258, 873557
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,10 @@
+Star: ZEULOS
+Star class: S06
+Paris coordinates: 2146746384, 1037295, 648882911
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.129
+(S06) LI+

@@ -1,0 +1,8 @@
+Planet: CYLISIA
+Starmap index: 16
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M13/P03 MEDIUM SIZE THICK ATMO DULL PINKISH CLOUD COVER. STORMS IN          
+NORTH AND EQUATOR. PRO 0.173.880 PRV 0.006.442.777 SKINNYMON 6011           
+795.108                                                                     

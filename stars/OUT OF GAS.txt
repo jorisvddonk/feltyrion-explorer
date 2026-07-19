@@ -1,0 +1,10 @@
+Star: OUT OF GAS
+Star class: S06
+Paris coordinates: 4179984, 4032638, -261139
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE FOR REFUELING
+NOTE 6011.564.772.736 BY JEREMY HUSSELL

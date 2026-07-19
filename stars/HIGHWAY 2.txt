@@ -1,0 +1,28 @@
+Star: HIGHWAY 2
+Star class: S11
+Paris coordinates: -20837936, -5354882, 39099506
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (i icy surface)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (i icy surface)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (i icy surface)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (q quartz surface)
+  - Moon #15 (i icy surface)
+  - Moon #16 (i icy surface)
+  - Moon #17 (i icy surface)
+- Planet #3 (d dusty, craterized)

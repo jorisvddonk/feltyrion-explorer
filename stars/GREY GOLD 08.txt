@@ -1,0 +1,9 @@
+Star: GREY GOLD 08
+Star class: S06
+Paris coordinates: 3478896, 3828726, 3992582
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.563                               

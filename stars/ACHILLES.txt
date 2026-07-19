@@ -1,0 +1,7 @@
+Star: ACHILLES
+Star class: S10
+Paris coordinates: 4955696, 5135586, -728200
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- CELESTRIA (k thick atmosphere)

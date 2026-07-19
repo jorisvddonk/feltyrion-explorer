@@ -1,0 +1,3 @@
+Planet: NEMUS
+Starmap index: 04
+Paris coordinates: 1714992, 134394, 227143

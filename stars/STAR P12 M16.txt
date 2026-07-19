@@ -1,0 +1,51 @@
+Star: STAR P12 M16
+Star class: S00
+Paris coordinates: -187856, -316568, 11115
+Bodies: 28 (12 planets, 16 moons)
+
+System:
+- P12 M16 CLOUDS (k thick atmosphere)
+- GREEN BORING PLANET (q quartz surface)
+- P12 M16 BIG BLUE (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- P12 M16 BIG YELLOW (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (f felisian)
+- P12 M16 BIG BEAUTY (f felisian)
+  - STAR P12 M16 5 M#1 (d dusty, craterized)
+- P12 M16 LIFE (f felisian)
+- P12 M16 BRIGHT EYE (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- P12 M16 RING LORD (d dusty, craterized)
+- P12 M16 GREEN GOBLIN (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- P12 M16 THICK (k thick atmosphere)
+- P12 M16 SPOT (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- P12 M16 PINK (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ STAR DISCOVERED BY MICHAEL MCNAMARA EPOC 6011:662.752
+P12 M16 STANDS FOR 12 PLANETS AND 16 MINOR BODIES.
+SECOND PLANET CALLED 'GREEN BORING PLANET'
+FIRST PLANET CALLED 'P12 M16 CLOUDS'.
+COULD NOT THINK OF BETTER NAME FOR FIRST PLANET.
+SIXTH PLANET CALLED 'P12M16 LIFE'.
+TENTH PLANET CALLED 'P12 M16 THICK'.
+SEVENTH PLANET CALLED 'P12 M16 BRIGHT EYE'.
+TWELVETH PLANET CALLED 'P12 M16 PINK'
+ELEVENTH PLANET CALLED 'P12 M16 SPOT'.
+EIGHTH PLANET CALLED 'P12 M16 RING LORD'.
+NINTH PLANET CALLED 'P12 M16 GREEN GOBLIN'.
+THIRD PLANET CALLED 'P12 M16 BIG BLUE'.
+FOURTH PLANET IS CALLED 'P12 M16 BIG YELLOW'.
+FIFTH PLANET IS CALLED 'P12 M16 BIG BEAUTY'.

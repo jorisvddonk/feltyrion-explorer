@@ -1,0 +1,10 @@
+Star: EVERYOD
+Star class: S06
+Paris coordinates: -92464, 5077120, -8078970
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:578.286

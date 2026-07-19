@@ -1,0 +1,6 @@
+Star: ARERETREI
+Star class: S05
+Paris coordinates: 3263568, 5240613, -2259806
+Bodies: 0 (0 planets, 0 moons)
+
+System:

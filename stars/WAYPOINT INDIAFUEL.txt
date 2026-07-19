@@ -1,0 +1,9 @@
+Star: WAYPOINT INDIA/FUEL
+Star class: S06
+Paris coordinates: -21343952, -19982398, -300955274
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THERE'S FUEL HERE. (SHADOWCLAW 6011:575.477)

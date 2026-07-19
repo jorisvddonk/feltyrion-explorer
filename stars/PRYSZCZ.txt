@@ -1,0 +1,10 @@
+Star: PRYSZCZ
+Star class: S02
+Paris coordinates: -107304880, 24998622, -2055866
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- REKUREKURE VI (r rocky, creased)
+- ALAMAKOTA (d dusty, craterized)
+- SCAZER (r rocky, creased)
+- SMILE (@ large, not consistent)

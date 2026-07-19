@@ -1,0 +1,6 @@
+Star: ALSAKI CVXCII
+Star class: S06
+Paris coordinates: 15323536, 32366473, -7121291
+Bodies: 0 (0 planets, 0 moons)
+
+System:

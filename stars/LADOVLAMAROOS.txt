@@ -1,0 +1,9 @@
+Star: LADOVLAMAROOS
+Star class: S06
+Paris coordinates: 640350000, -1070893, -640128693
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.571)                   

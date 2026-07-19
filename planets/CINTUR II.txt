@@ -1,0 +1,7 @@
+Planet: CINTUR II
+Starmap index: 08
+Paris coordinates: -344976, 9517823, -4954054
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.805 -                                
+SMALL. SOLID. DUSTY. CRATERIZED. NO ATMOSPHERE.                             

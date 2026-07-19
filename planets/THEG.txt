@@ -1,0 +1,7 @@
+Planet: THEG
+Starmap index: 15
+Paris coordinates: 4211056, 4491175, -595767
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, DARK, GOOD POLAR CAPS. SKINNYMON EPOC 6011
+574.595

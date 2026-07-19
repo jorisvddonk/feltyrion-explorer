@@ -1,0 +1,3 @@
+Planet: LOCIAN
+Starmap index: 03
+Paris coordinates: 387856, 27605, -70309

@@ -1,0 +1,6 @@
+Star: PIMP
+Star class: S06
+Paris coordinates: 350000, 9950000, -450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

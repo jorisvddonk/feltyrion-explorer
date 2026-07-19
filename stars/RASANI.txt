@@ -1,0 +1,9 @@
+Star: RASANI
+Star class: S06
+Paris coordinates: 3904272, 4465172, -654400
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM+

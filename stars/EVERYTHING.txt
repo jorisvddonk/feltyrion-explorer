@@ -1,0 +1,6 @@
+Star: EVERYTHING
+Star class: S00
+Paris coordinates: -698576, 1232931, 1871014
+Bodies: 0 (0 planets, 0 moons)
+
+System:

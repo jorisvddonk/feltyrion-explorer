@@ -1,0 +1,3 @@
+Planet: GALERIDA
+Starmap index: 09
+Paris coordinates: -61370448, 29437512, 475820

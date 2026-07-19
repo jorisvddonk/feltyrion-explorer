@@ -1,0 +1,6 @@
+Planet: DM-1-TRANQUIL
+Starmap index: 07
+Paris coordinates: 4035344, 4484112, -905031
+
+Guide entries:
+DEAD MOON, NO ATMOSPHERE

@@ -1,0 +1,6 @@
+Star: HIGHWAY 57
+Star class: S07
+Paris coordinates: -491792, 1823036, 1968532
+Bodies: 0 (0 planets, 0 moons)
+
+System:

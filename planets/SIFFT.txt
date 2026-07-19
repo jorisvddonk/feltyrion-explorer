@@ -1,0 +1,7 @@
+Planet: SIFFT
+Starmap index: 02
+Paris coordinates: 1170352, 1373898, -11566
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.312
+IMPOSSIBLE TO LAND ON.

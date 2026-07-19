@@ -1,0 +1,3 @@
+Planet: GOLD
+Starmap index: 02
+Paris coordinates: 4073200, 4600279, -799854

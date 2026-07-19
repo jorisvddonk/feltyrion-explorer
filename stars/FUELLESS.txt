@@ -1,0 +1,6 @@
+Star: FUELLESS
+Star class: S06
+Paris coordinates: -636432, 715830, 1566986
+Bodies: 0 (0 planets, 0 moons)
+
+System:

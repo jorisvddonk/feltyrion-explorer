@@ -1,0 +1,6 @@
+Planet: CRANE
+Starmap index: 12
+Paris coordinates: 3966416, 4066334, -822047
+
+Guide entries:
+EMPTYNESS

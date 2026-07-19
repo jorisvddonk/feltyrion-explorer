@@ -1,0 +1,7 @@
+Planet: LAMANALFH
+Starmap index: 07
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+PO7/12 SMALL SOLID DUSTY, VERY LARGE RAYED CRATERS, LIGHT GREEN .           
+PRO 0.154.800 PRV 0.303.889.152 SKINNYMON 6011 797.100                      

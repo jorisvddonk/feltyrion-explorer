@@ -1,0 +1,3 @@
+Planet: DRING
+Starmap index: 04
+Paris coordinates: -104623472, 25720132, -33552

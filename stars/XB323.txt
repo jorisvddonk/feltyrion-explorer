@@ -1,0 +1,9 @@
+Star: XB323
+Star class: S02
+Paris coordinates: 450000, 151174, -312855
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.343

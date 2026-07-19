@@ -1,0 +1,3 @@
+Planet: KRIMA
+Starmap index: 01
+Paris coordinates: 3736432, 7612209, -4387488

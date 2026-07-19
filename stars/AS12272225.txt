@@ -1,0 +1,9 @@
+Star: AS12272225
+Star class: S01
+Paris coordinates: 50510384, 58687, 1991367663
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS.

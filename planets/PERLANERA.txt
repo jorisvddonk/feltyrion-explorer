@@ -1,0 +1,7 @@
+Planet: PERLANERA
+Starmap index: 05
+Paris coordinates: 4669264, 4132328, 493371
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 571.651
+GAS PLANET WITH RING

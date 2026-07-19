@@ -1,0 +1,3 @@
+Planet: YARETHYN
+Starmap index: 01
+Paris coordinates: -105456, -268569, 1579253151

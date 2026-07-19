@@ -1,0 +1,6 @@
+Star: SUKAROLA
+Star class: S06
+Paris coordinates: 9835344, 5722934, -6740317
+Bodies: 0 (0 planets, 0 moons)
+
+System:

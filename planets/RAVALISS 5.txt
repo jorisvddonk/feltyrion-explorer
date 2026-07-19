@@ -1,0 +1,3 @@
+Planet: RAVALISS 5
+Starmap index: 05
+Paris coordinates: -123583024, -54967750, -1864646

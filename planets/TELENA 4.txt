@@ -1,0 +1,6 @@
+Planet: TELENA 4
+Starmap index: 04
+Paris coordinates: 2021776, 5377750, 335812
+
+Guide entries:
+DISCOVERD BY POKECAT(6011.997.812)

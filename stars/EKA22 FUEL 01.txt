@@ -1,0 +1,9 @@
+Star: EKA22 FUEL 01
+Star class: S06
+Paris coordinates: -72082416, -742857, 52908796
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GREY GIANT, FUEL PRESENT.

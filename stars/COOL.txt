@@ -1,0 +1,9 @@
+Star: COOL
+Star class: S06
+Paris coordinates: 456784, 61371, 173784
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+VERY COOL, ESP. LI+, NAMED BY DEREK YEUNG

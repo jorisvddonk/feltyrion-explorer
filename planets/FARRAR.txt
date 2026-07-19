@@ -1,0 +1,6 @@
+Planet: FARRAR
+Starmap index: 01
+Paris coordinates: 3552848, 6145109, -1343871
+
+Guide entries:
+SMALL ROCKY CREASED (KRUSTY 6011:596.994)

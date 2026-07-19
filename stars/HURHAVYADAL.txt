@@ -1,0 +1,23 @@
+Star: HURHAVYADAL
+Star class: S00
+Paris coordinates: 763588656, -17558845, -127586509
+Bodies: 11 (8 planets, 3 moons)
+
+System:
+- VERISIFH (k thick atmosphere)
+- UKETAL (d dusty, craterized)
+- ALVAIJ (^ unstable)
+  - LATEJAL (d dusty, craterized)
+- UJESTUI (d dusty, craterized)
+  - OMASTAL (n thin atmosphere)
+- ADAVAYNE (r rocky, creased)
+  - MIAHIE (d dusty, craterized)
+- SIETALEDO (@ large, not consistent)
+- ISIJALENY (d dusty, craterized)
+- ERETALFHS (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 8 PLANET AND 3 MOONS, NO FELISIAN WORLDS,
+NOR ANY OTHER WORLDS OF CONSEQUENCE. /// 2.55148244 BAL. M.; TEMP
+10060 K; RAD 14.1 KR; COOR 763588656; -17558845; 127586509 ///
+SKINNYMON 6011.953.330

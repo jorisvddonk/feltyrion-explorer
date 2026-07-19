@@ -1,0 +1,23 @@
+Star: SOPHIA
+Star class: S00
+Paris coordinates: 4035344, 4684112, -921463
+Bodies: 13 (5 planets, 8 moons)
+
+System:
+- ERCEN (@ large, not consistent)
+- RANGULA (r rocky, creased)
+- HAUST (@ large, not consistent)
+  - ACTUA (d dusty, craterized)
+  - ARDIO (d dusty, craterized)
+  - OU'RE (n thin atmosphere)
+  - REAT (n thin atmosphere)
+  - ITTE (n thin atmosphere)
+- SPIRRI (k thick atmosphere)
+  - CHED (d dusty, craterized)
+- WEEDY (f felisian)
+  - ELESS (d dusty, craterized)
+  - MID-AUG (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM WITH 5 PLANETS, 8MOONS, 1 FELISIAN
+WORLD. ANOREXIK EPOC 6011 575.969

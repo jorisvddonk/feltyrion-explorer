@@ -1,0 +1,6 @@
+Star: EDWARDIUS BEACONUS
+Star class: S08
+Paris coordinates: 3166416, 5741207, -300507
+Bodies: 0 (0 planets, 0 moons)
+
+System:

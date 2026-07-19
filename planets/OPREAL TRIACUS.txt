@@ -1,0 +1,3 @@
+Planet: OPREAL TRIACUS
+Starmap index: 03
+Paris coordinates: 1399800656, 1324598, 1398935270

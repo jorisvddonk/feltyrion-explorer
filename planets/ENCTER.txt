@@ -1,0 +1,8 @@
+Planet: ENCTER
+Starmap index: 05
+Paris coordinates: -120016, 5320411, 4043507
+
+Guide entries:
+M01/P04 SMALL SOLID DUSTY CRATERIZED. GREENISH WITH A FEW LARGE CRATERS     
+ON A MOTTLED APPEARANCE. PRO 0.294.480 PRV 0.002.122.022. SKINNYMON         
+EPOC 6011 791.277                                                           

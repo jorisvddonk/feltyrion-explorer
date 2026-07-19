@@ -1,0 +1,3 @@
+Planet: BLAHJ TRIACUS
+Starmap index: 03
+Paris coordinates: 1400252080, 1929570, 1399397714

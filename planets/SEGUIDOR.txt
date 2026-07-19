@@ -1,0 +1,7 @@
+Planet: SEGUIDOR
+Starmap index: 01
+Paris coordinates: 5555696, 6149718, -1148640
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.681.689 -                               
+ THIS IS A COMPANION STAR, NOT A PLANET.                                    

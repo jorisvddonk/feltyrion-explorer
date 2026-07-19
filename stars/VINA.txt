@@ -1,0 +1,10 @@
+Star: VINA
+Star class: S01
+Paris coordinates: 3877136, 4204946, -2043728
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+
+Guide entries:
+ BY HARIDAS ON 6011.570.639 ONLY 1 EMPTY PLANET

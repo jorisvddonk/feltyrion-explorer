@@ -1,0 +1,17 @@
+Star: BLACK HOLE SUN
+Star class: S00
+Paris coordinates: 378224, 4852914, -2631352
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (f felisian)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- 13370P14 (f felisian)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

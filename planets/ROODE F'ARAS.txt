@@ -1,0 +1,6 @@
+Planet: ROODE F'ARAS
+Starmap index: 06
+Paris coordinates: 1194640, 62929486, -441858
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:798.169)             

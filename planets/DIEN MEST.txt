@@ -1,0 +1,3 @@
+Planet: DIEN MEST
+Starmap index: 60
+Paris coordinates: 3804272, 4398014, -524676

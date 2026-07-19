@@ -1,0 +1,6 @@
+Planet: AROTH
+Starmap index: 05
+Paris coordinates: 263568, 740889, 777398
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.227

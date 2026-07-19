@@ -1,0 +1,3 @@
+Planet: JAFL PRIMUS
+Starmap index: 01
+Paris coordinates: 1399069584, 1329335, 1399689351

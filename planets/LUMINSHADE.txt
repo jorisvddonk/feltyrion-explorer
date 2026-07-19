@@ -1,0 +1,7 @@
+Planet: LUMINSHADE
+Starmap index: 07
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+BRIGHT GAS GIANT, HAS MANY AS OF NOW, UNEXPLORED MOONS.                     
+ (131, EPOC 6011:804:543)                                                   

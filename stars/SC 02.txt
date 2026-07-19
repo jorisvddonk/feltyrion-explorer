@@ -1,0 +1,6 @@
+Star: SC 02
+Star class: S02
+Paris coordinates: -790704, -100087, -1479468
+Bodies: 0 (0 planets, 0 moons)
+
+System:

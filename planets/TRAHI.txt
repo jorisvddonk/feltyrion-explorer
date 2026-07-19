@@ -1,0 +1,3 @@
+Planet: TRAHI
+Starmap index: 03
+Paris coordinates: 4158544, 4648509, 2112777

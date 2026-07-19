@@ -1,0 +1,9 @@
+Star: LITHBEARER -02
+Star class: S06
+Paris coordinates: 129648, 1560434, -1174797
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ORTEGA, EPOCH 6011.621.707

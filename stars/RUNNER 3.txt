@@ -1,0 +1,10 @@
+Star: RUNNER 3
+Star class: S10
+Paris coordinates: -701424, 393517, -245343
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY BRYAN ALLBERRYEPOC-6011-663.278.140
+STAR IS AN ODD COLOR

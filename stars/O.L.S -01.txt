@@ -1,0 +1,9 @@
+Star: O.L.S -01
+Star class: S05
+Paris coordinates: 887856, 1835090, -549900
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LONE STAR DISCOVERED BY ORTEGA, EPOCH 6011:621.707

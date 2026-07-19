@@ -1,0 +1,9 @@
+Star: WHITE BLAST II
+Star class: S08
+Paris coordinates: -1152848, 61790072, -840696
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S02 WITH NO PLANETS.                                                     

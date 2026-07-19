@@ -1,0 +1,58 @@
+Star: GIANT'S TREASURE
+Star class: S08
+Paris coordinates: 908208, 554963, 552389
+Bodies: 31 (6 planets, 25 moons)
+
+System:
+- GOLDEN BUCKLE (* companion star)
+  - CRESCENT ROCK (n thin atmosphere)
+  - RED MAN (n thin atmosphere)
+- GOLD COIN (d dusty, craterized)
+- GIANT'S FAVORITE (q quartz surface)
+- BLACK HEART (n thin atmosphere)
+  - NEON (d dusty, craterized)
+  - AGE PRISON (d dusty, craterized)
+- LOST BLUE (* companion star)
+  - YELLOW BALL (r rocky, creased)
+  - MYTH ORB (r rocky, creased)
+  - DIAFLON SWORD (d dusty, craterized)
+  - CURSED HAZE (k thick atmosphere)
+  - GIANT'S ARMOUR (+ substellar object)
+  - CRUMPLE (r rocky, creased)
+  - TINY CLASP (n thin atmosphere)
+  - CLONED (n thin atmosphere)
+  - ESSEN (n thin atmosphere)
+  - HOT (d dusty, craterized)
+  - DRAGONNIA (f felisian)
+  - DEVIL (^ unstable)
+  - CLEAR HEADED (q quartz surface)
+  - PASSION (k thick atmosphere)
+  - THARIUS (f felisian)
+  - PLATFORM (^ unstable)
+  - NIDAL (f felisian)
+- BRIGHT (* companion star)
+  - FA (r rocky, creased)
+  - SUPPORT (@ large, not consistent)
+  - ENODMI (n thin atmosphere)
+  - POFAH (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.296
+A HUGE SYSTEM!
+THE GIANT GUARDS HIS TREASURE CARFULLY, SITTING IN HIS
+CAVE, WATCHING JEALOUSLY. BUT IF YOU'RE CAREFUL, YOU CAN
+FIND THE WAY IN AND STEAL A PEICE OR TWO.
+THIS SYSTEM IS A GIANT 31 BODY SYSTEM, WITH MUCH TO SEE
+EVERYONE SHOULD TAKE A LOOK
+THERE ARE THREE FELESIAN PLANETS. THAY ARE...
+1.NIDAL-ICY, BUT SUPPORTS LIFE
+2-THARIUS. THIS IS A VERY AMAZING PLANET. CHECK OUT
+THE CARDINAL VALLEY TO SEE!
+3-DRAGONNIA.
+TWO QUARTZ PLANET SWIM AROUND THE TREASURE HEAP..
+1-GIANT'S FAVORITE. ALSO MINE
+2-CLEAR HEADED. WORTH A PEEK
+ANOTHER PLANET WORTH A VISIT IS AGE PRISON.
+IF YOU WERE TO VISIT ONE SINGLE PLANET, THOUGH, SEE
+THE CARDINAL VALLEY ON THARIUS.
+AL IN ALL THIS IS A VERY EXCITING AND VARIED SYSTEM.

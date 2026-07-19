@@ -1,0 +1,9 @@
+Star: SASMOPHEEN
+Star class: S06
+Paris coordinates: 11145808, 18910303, -32516627
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR LI+ SCOPING (DISCOVERED BY NEUZD, 6011:794.007)          

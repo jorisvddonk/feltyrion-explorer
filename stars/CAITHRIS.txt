@@ -1,0 +1,34 @@
+Star: CAITHRIS
+Star class: S00
+Paris coordinates: 3111056, 4437153, 552458
+Bodies: 25 (7 planets, 18 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (+ substellar object)
+- AZIS (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (f felisian)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+A S00 WITH SEVEN PLANETS

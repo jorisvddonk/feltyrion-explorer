@@ -1,0 +1,6 @@
+Star: CHARNOBYL
+Star class: S07
+Paris coordinates: -106208816, 25935299, -1456489
+Bodies: 0 (0 planets, 0 moons)
+
+System:

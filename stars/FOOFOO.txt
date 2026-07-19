@@ -1,0 +1,6 @@
+Star: FOOFOO
+Star class: S06
+Paris coordinates: -1660720, -38546, 3107928
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,20 @@
+Star: FOTIOS' STAR
+Star class: S03
+Paris coordinates: 752848, 414304, 1300716
+Bodies: 11 (4 planets, 7 moons)
+
+System:
+- CERASIS (@ large, not consistent)
+- SELIGOR (r rocky, creased)
+- LEPROS (r rocky, creased)
+  - SAPILAS (d dusty, craterized)
+  - ACHER (d dusty, craterized)
+- CORLAIN (+ substellar object)
+  - PYRAKTONIS (^ unstable)
+  - PRAG (d dusty, craterized)
+  - ARISTON (f felisian)
+  - POUPOULOS (d dusty, craterized)
+  - CEREMUS (^ unstable)
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.226

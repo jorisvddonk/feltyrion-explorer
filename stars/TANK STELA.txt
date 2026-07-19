@@ -1,0 +1,6 @@
+Star: TANK STELA
+Star class: S06
+Paris coordinates: 4097488, 4532993, -1286405
+Bodies: 0 (0 planets, 0 moons)
+
+System:

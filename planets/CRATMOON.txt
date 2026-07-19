@@ -1,0 +1,6 @@
+Planet: CRATMOON
+Starmap index: 06
+Paris coordinates: 4966416, 6018883, -1864728
+
+Guide entries:
+ DISCOVERED BY MATTHIUS HOOD EPOCH 6011 TRIADS 658.670.134

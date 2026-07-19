@@ -1,0 +1,6 @@
+Star: RICHARD STOCKTON
+Star class: S06
+Paris coordinates: -418928, 358343, 372587
+Bodies: 0 (0 planets, 0 moons)
+
+System:

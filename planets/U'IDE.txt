@@ -1,0 +1,3 @@
+Planet: U'IDE
+Starmap index: 03
+Paris coordinates: -494640, 30520235, -71665

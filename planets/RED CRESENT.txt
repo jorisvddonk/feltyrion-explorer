@@ -1,0 +1,3 @@
+Planet: RED CRESENT
+Starmap index: 01
+Paris coordinates: 3446064, 4908620, -1610482

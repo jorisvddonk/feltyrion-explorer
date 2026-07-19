@@ -1,0 +1,3 @@
+Planet: NOCTURN
+Starmap index: 01
+Paris coordinates: 4955696, 4335983, -631819

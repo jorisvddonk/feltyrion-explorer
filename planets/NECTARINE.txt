@@ -1,0 +1,6 @@
+Planet: NECTARINE
+Starmap index: 01
+Paris coordinates: 3879984, 4433256, 20761
+
+Guide entries:
+CLOSE SOLAR ORBIT. INCONSISTENT. (TACKAT 6011:562.864)

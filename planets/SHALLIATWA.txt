@@ -1,0 +1,3 @@
+Planet: SHALLIATWA
+Starmap index: 06
+Paris coordinates: 59081776, -33288570, 926170502

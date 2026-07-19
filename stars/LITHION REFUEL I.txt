@@ -1,0 +1,6 @@
+Star: LITHION REFUEL I
+Star class: S06
+Paris coordinates: -72434928, -1451633, 55930811
+Bodies: 0 (0 planets, 0 moons)
+
+System:

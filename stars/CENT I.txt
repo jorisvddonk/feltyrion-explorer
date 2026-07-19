@@ -1,0 +1,6 @@
+Star: CENT I
+Star class: S06
+Paris coordinates: 4114992, 4825140, -2185370
+Bodies: 0 (0 planets, 0 moons)
+
+System:

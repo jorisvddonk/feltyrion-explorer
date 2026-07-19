@@ -1,0 +1,32 @@
+Star: TRISTARIA
+Star class: S08
+Paris coordinates: 4516080, 5386974, -6351020
+Bodies: 22 (3 planets, 19 moons)
+
+System:
+- TRISTARIA I (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- TRISTARIA II (n thin atmosphere)
+- TRISTARIA III (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (^ unstable)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (^ unstable)
+  - Moon #7 (+ substellar object)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (^ unstable)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (^ unstable)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (q quartz surface)
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.689.186 -                                
+THIS STAR HAS TWO COMPANION STARS.                                          

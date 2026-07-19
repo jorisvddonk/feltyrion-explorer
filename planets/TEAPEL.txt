@@ -1,0 +1,6 @@
+Planet: TEAPEL
+Starmap index: 04
+Paris coordinates: -12144, -27311, 376371
+
+Guide entries:
+ (YUINCA IV) A FELYISAN PLANET. HAS 1 MOON. AMWHERE 6011.586.139

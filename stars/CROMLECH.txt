@@ -1,0 +1,10 @@
+Star: CROMLECH
+Star class: S06
+Paris coordinates: 3028560, 4472833, -227626
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A GREY PACKED WITH LITHIUM.L+ IONS BOUNTIFUL!
+DISCOVERED BY BRINE, 658:626:80

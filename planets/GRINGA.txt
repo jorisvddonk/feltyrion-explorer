@@ -1,0 +1,3 @@
+Planet: GRINGA
+Starmap index: 03
+Paris coordinates: 3663568, 4179686, -2879759

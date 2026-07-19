@@ -1,0 +1,35 @@
+Star: GATOUS
+Star class: S01
+Paris coordinates: 1377136, 6524911, 257731
+Bodies: 26 (4 planets, 22 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (n thin atmosphere)
+- Planet #3 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - FOLIONIOUSIS (f felisian)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+
+Guide entries:
+ DISCOVERED BY SHADOW151 EPOC 6011.597.434

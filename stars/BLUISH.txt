@@ -1,0 +1,9 @@
+Star: BLUISH
+Star class: S07
+Paris coordinates: 10525712, -4648750, -9868472
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A BRIGHT, BLUE DWARF. NO PLANETS, UNFORTUNATELY. SERPENS, 6011 665.334

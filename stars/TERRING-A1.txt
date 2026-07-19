@@ -1,0 +1,16 @@
+Star: TERRING-A1
+Star class: S00
+Paris coordinates: 1570352, 4124634, -351480
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- C-ITGROW (f felisian)
+  - NECK'NROCK MOON (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #3 (f felisian)
+
+Guide entries:
+DISC. BY T A INGALLS - EPOC 6011:691.91                                     

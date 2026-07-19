@@ -1,0 +1,14 @@
+Star: VERLON
+Star class: S00
+Paris coordinates: 31434512, 5593029, -1284043
+Bodies: 8 (6 planets, 2 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (+ substellar object)
+- CARTHERE (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (k thick atmosphere)

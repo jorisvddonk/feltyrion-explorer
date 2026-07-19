@@ -1,0 +1,6 @@
+Planet: EXPLODE
+Starmap index: 02
+Paris coordinates: 4279984, 4428393, -580816
+
+Guide entries:
+ LARGE PLANET, COVERED IN CLOUDS AND IMPOSSIBLE TO EXPLORE.                 

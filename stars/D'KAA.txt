@@ -1,0 +1,46 @@
+Star: D'KAA
+Star class: S01
+Paris coordinates: 4860720, 8320240, -6249233
+Bodies: 37 (12 planets, 25 moons)
+
+System:
+- D'KAA 1 (+ substellar object)
+- D'KAA 2 (d dusty, craterized)
+- D'KAA 3 (d dusty, craterized)
+- D'KAA 4 (d dusty, craterized)
+- D'KAA 5 (k thick atmosphere)
+  - D'KAA SIGMA (^ unstable)
+- D'KAA 6 (@ large, not consistent)
+  - D'KAA LA (d dusty, craterized)
+  - D'KAA ISH (d dusty, craterized)
+  - D'KAA MAL (k thick atmosphere)
+  - D'KAA MAI (n thin atmosphere)
+- D'KAA 7 (+ substellar object)
+  - D'KAA LUMA (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+- D'KAA 8 (k thick atmosphere)
+  - D'KAA DEUS (d dusty, craterized)
+- D'KAA 9 (d dusty, craterized)
+  - D'KAA BLEM (d dusty, craterized)
+- D'KAA 10 (i icy surface)
+  - D'KAA IMA (n thin atmosphere)
+- D'KAA 11 (d dusty, craterized)
+- D'KAA 12 (@ large, not consistent)
+  - D'KAA MEI (i icy surface)
+  - D'KAA GOMA (^ unstable)
+  - D'KAA JEI (i icy surface)
+  - D'KAA UMA (i icy surface)
+  - D'KAA KEI (i icy surface)
+  - D'KAA TAL (i icy surface)
+  - D'KAA ISHKA (i icy surface)
+  - D'KAA GILA (i icy surface)
+  - D'KAA MRI (i icy surface)
+  - D'KAA ZAA (i icy surface)
+  - D'KAA YRI (i icy surface)
+  - D'KAA TRI (i icy surface)
+  - D'KAA WYR (i icy surface)
+  - D'KAA DRA (i icy surface)
+  - D'KAA BREE (i icy surface)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.569

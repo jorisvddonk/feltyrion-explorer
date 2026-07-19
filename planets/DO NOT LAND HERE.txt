@@ -1,0 +1,3 @@
+Planet: DO NOT LAND HERE
+Starmap index: 02
+Paris coordinates: 3659632, 4627550, -1125826

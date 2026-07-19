@@ -1,0 +1,10 @@
+Star: PITYFULL
+Star class: S05
+Paris coordinates: -443216, 9635706, 830446
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (i icy surface)

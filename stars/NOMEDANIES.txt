@@ -1,0 +1,8 @@
+Star: NOMEDANIES
+Star class: S02
+Paris coordinates: 3721776, 4327015, -1399718
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MOCOBAL (n thin atmosphere)
+- SANGREBAL (k thick atmosphere)

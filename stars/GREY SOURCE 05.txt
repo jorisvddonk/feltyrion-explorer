@@ -1,0 +1,6 @@
+Star: GREY SOURCE 05
+Star class: S06
+Paris coordinates: 21171024, 48628176, -10332248
+Bodies: 0 (0 planets, 0 moons)
+
+System:

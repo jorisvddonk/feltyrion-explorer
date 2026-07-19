@@ -1,0 +1,3 @@
+Planet: FENILIA 10
+Starmap index: 10
+Paris coordinates: 5638192, 5004262, -353473

@@ -1,0 +1,3 @@
+Planet: MOUDLERIS
+Starmap index: 01
+Paris coordinates: 625712, 20217, -47143

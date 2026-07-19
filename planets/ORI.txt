@@ -1,0 +1,3 @@
+Planet: ORI
+Starmap index: 01
+Paris coordinates: 2594640, 6276362, -1885446

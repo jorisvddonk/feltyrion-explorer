@@ -1,0 +1,6 @@
+Star: BROWN RUNOFF
+Star class: S05
+Paris coordinates: 3474288, 6241701, -3922838
+Bodies: 0 (0 planets, 0 moons)
+
+System:

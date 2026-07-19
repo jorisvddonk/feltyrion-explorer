@@ -1,0 +1,9 @@
+Star: BLINKER
+Star class: S11
+Paris coordinates: 174288, -555611, -631997
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED 601.91.405 OUELLETTE - PULSAR NO PLANETS

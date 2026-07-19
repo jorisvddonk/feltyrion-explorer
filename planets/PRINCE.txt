@@ -1,0 +1,3 @@
+Planet: PRINCE
+Starmap index: 02
+Paris coordinates: 656784, 33028, -98036

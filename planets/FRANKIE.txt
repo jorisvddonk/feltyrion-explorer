@@ -1,0 +1,3 @@
+Planet: FRANKIE
+Starmap index: 05
+Paris coordinates: -106433104, 25524817, -762163

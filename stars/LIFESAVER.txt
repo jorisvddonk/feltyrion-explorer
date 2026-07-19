@@ -1,0 +1,6 @@
+Star: LIFESAVER
+Star class: S06
+Paris coordinates: 3111056, 3937153, 456361
+Bodies: 0 (0 planets, 0 moons)
+
+System:

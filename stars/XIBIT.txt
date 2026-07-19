@@ -1,0 +1,6 @@
+Star: XIBIT
+Star class: S06
+Paris coordinates: 487856, 549102, -203350
+Bodies: 0 (0 planets, 0 moons)
+
+System:

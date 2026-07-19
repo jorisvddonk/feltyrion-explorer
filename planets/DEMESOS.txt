@@ -1,0 +1,8 @@
+Planet: DEMESOS
+Starmap index: 16
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M02/P05 SMALL SOLID DUUSTY VERY BRIGHT WHITE WIT MOTTLED GREY, LARGE        
+CRATERS. PRO 0.074.520 PRV 0.003.850.975                                    
+SKINNYMON 6011 797.97                                                       

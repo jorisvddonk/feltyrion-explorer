@@ -1,0 +1,3 @@
+Planet: REEVA
+Starmap index: 04
+Paris coordinates: 3274288, 7682286, -3768411

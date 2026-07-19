@@ -1,0 +1,16 @@
+Star: EFINNIOFULIS
+Star class: S00
+Paris coordinates: 525712, 4977223, 57282
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- NILIOSIXI (q quartz surface)
+- MAIETIS (k thick atmosphere)
+- DELPHORBI (f felisian)
+- MINITOVIS (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- ARVATIOUS (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- RYTAELU (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- SILUMITH (r rocky, creased)

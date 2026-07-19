@@ -1,0 +1,12 @@
+Star: BETA STICK
+Star class: S05
+Paris coordinates: -9564912, 328278, -10520768
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- GRUNDERIN (r rocky, creased)
+- GUDDENCLEUR (k thick atmosphere)
+- PARMEZAN (q quartz surface)
+  - BACON SLICE (i icy surface)
+  - BOBSLED (i icy surface)
+  - CEREBRUM (n thin atmosphere)

@@ -1,0 +1,8 @@
+Star: LENNON
+Star class: S00
+Paris coordinates: -174288, 638409, 856944
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (n thin atmosphere)

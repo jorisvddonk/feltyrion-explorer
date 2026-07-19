@@ -1,0 +1,17 @@
+Star: JW1-P3-S01
+Star class: S01
+Paris coordinates: 4704272, 4864576, -1488990
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (q quartz surface)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY JOSHUA WICHT, EPOC 6011:849.580                               
+P1-LARGE, NOT CONSISTENT, DENSE CLOUDS.                                     
+P2-MEDIUM, QUARTZ SURFACE, 02 ATMOSPHERE                                    
+P3-MEDIUM, SOLID, THICK ATMOSPHERE, FULL CLOUD COVER.                       
+ CLOSING COMMENTS, JOSHUA WICHT EPOC 6011:849.584- NO LIFE OBSERVED         

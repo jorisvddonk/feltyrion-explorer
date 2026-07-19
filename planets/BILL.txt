@@ -1,0 +1,8 @@
+Planet: BILL
+Starmap index: 06
+Paris coordinates: 1167504, 4837930, -1943668
+
+Guide entries:
+IT HAS LIFE BUT THE TEMPERATURE IS -117C
+INTRUDER
+EPOC 6011:572.207.690

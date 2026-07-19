@@ -1,0 +1,27 @@
+Star: ESTREYADOS
+Star class: S08
+Paris coordinates: 5555696, 6149718, -1148640
+Bodies: 17 (6 planets, 11 moons)
+
+System:
+- SEGUIDOR (* companion star)
+  - LUNUNA (q quartz surface)
+  - Moon #1 (q quartz surface)
+- CASITREYA (+ substellar object)
+- SEGUNDON (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - LUNIVER (d dusty, craterized)
+  - LUNDORA (^ unstable)
+  - LUNCRAT (d dusty, craterized)
+  - LUNGRIS (d dusty, craterized)
+  - LUNIMARR (n thin atmosphere)
+  - LUNHOT (^ unstable)
+  - GREENGREY (n thin atmosphere)
+- CRATUNG (d dusty, craterized)
+- BRILLER (d dusty, craterized)
+  - QUESINIA (d dusty, craterized)
+- SUBTREYA (+ substellar object)
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.681,688 -                               
+ THIS IS A CLASS 8 STAR.                                                    

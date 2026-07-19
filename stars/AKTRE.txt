@@ -1,0 +1,6 @@
+Star: AKTRE
+Star class: S08
+Paris coordinates: 2750000, 250000, -2850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

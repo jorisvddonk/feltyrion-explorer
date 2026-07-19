@@ -1,0 +1,7 @@
+Planet: POTAYT
+Starmap index: 09
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+M02/P06 SMALL, SOLID, DUSTY, VERY LARGE CRATERS, MILD GREEN COLOR. PRO      
+0.271.440 PRV 0.001.699.090                                                 

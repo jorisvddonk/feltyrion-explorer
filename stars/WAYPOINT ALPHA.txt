@@ -1,0 +1,9 @@
+Star: WAYPOINT ALPHA
+Star class: S06
+Paris coordinates: -363568, -20028395, -253763
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOU CAN SLOPE FOR FUEL HERE. (SHADOWCLAW 6011:573.238)

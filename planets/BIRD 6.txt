@@ -1,0 +1,6 @@
+Planet: BIRD 6
+Starmap index: 06
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+A THIN-ATMOSPHERE DARKWORLD, TWO MOONS. SERPENS, 6011 665.408

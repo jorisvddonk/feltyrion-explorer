@@ -1,0 +1,52 @@
+Star: SPOOORK
+Star class: S00
+Paris coordinates: 9599248, 6738908, -838193
+Bodies: 42 (8 planets, 34 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (f felisian)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (f felisian)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (n thin atmosphere)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (^ unstable)
+  - Moon #17 (n thin atmosphere)
+  - Moon #18 (q quartz surface)
+  - Moon #19 (@ large, not consistent)
+- FNOORGSPOORG (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+
+Guide entries:
+352.53:0.-2 VERY HILLY AREA WITH PLANT LIFE
+HAPPY SPECIAL PLANET

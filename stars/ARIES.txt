@@ -1,0 +1,29 @@
+Star: ARIES
+Star class: S00
+Paris coordinates: 4855696, 5027844, -732805
+Bodies: 19 (9 planets, 10 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+- Planet #2 (r rocky, creased)
+- VIOLETTA (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (^ unstable)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (i icy surface)
+  - Moon #4 (^ unstable)
+  - Moon #5 (i icy surface)
+
+Guide entries:
+CHARTED BY TUNA SONCUL, EPOC 6011 TRIADS 562.855.450
+CLASS S00 STAR. IT HAS 9 PLANETS AND 10 SMALLER BODIES IN ITS SYSTEM

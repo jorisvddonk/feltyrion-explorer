@@ -1,0 +1,6 @@
+Planet: TIGER MOUNTAIN
+Starmap index: 04
+Paris coordinates: 3897488, 4324932, -1025582
+
+Guide entries:
+ EAT YOUR SHREDDIES ON THIS PLANET. IT IS SAFE.

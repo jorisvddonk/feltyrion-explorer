@@ -1,0 +1,6 @@
+Planet: JOMNIA V
+Starmap index: 05
+Paris coordinates: 5024624, 4042805, -582543
+
+Guide entries:
+'BIRDLIKE LIFEFORM DISCOVERED (JOHN DILICK, 6011:609.152)'

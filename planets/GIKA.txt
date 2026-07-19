@@ -1,0 +1,3 @@
+Planet: GIKA
+Starmap index: 12
+Paris coordinates: 5470352, 7001368, -4266745

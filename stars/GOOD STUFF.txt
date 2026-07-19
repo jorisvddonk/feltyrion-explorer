@@ -1,0 +1,9 @@
+Star: GOOD STUFF
+Star class: S06
+Paris coordinates: 3852848, 4693755, -1598774
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NAMED BY DEREK YEUNG 6011 580.859.853

@@ -1,0 +1,3 @@
+Planet: PUMUCKEL
+Starmap index: 08
+Paris coordinates: 3559632, 4410553, -1049465

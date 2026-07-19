@@ -1,0 +1,3 @@
+Planet: ICE PICK
+Starmap index: 05
+Paris coordinates: 2132496, 4507520, -1133554

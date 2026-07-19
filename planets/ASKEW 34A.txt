@@ -1,0 +1,3 @@
+Planet: ASKEW 34A
+Starmap index: 01
+Paris coordinates: 11796656, -19185769, 18074499

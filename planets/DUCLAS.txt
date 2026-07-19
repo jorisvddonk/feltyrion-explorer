@@ -1,0 +1,7 @@
+Planet: DUCLAS
+Starmap index: 11
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M08/P03 SMALL SOLID DUSTY ROUGH BUT HIGHLY REFLECTIVE WITH CRATERS.         
+PRO 0.092.160 PRV 0.004.046.130 SKINNYMON 6011 795.102                      

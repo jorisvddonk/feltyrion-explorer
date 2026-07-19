@@ -1,0 +1,7 @@
+Planet: KERAMINE7-11
+Starmap index: 29
+Paris coordinates: -36432, -1290440, 1061497
+
+Guide entries:
+SMALL, THIN ATMOSPHERE.
+DIM LIGHT LEVEL ON SURFACE.

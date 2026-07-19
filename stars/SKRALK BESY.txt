@@ -1,0 +1,6 @@
+Star: SKRALK BESY
+Star class: S07
+Paris coordinates: 550000, 51250000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

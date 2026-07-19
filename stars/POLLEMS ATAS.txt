@@ -1,0 +1,6 @@
+Star: POLLEMS ATAS
+Star class: S01
+Paris coordinates: 1050000, 6750000, -1150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: VADARJIKE
+Star class: S04
+Paris coordinates: 1150000, 50750000, -1250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

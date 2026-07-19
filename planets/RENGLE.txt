@@ -1,0 +1,3 @@
+Planet: RENGLE
+Starmap index: 19
+Paris coordinates: 23046832, 8324243, 48448356

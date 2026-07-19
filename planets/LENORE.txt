@@ -1,0 +1,3 @@
+Planet: LENORE
+Starmap index: 02
+Paris coordinates: 1239280, 487133, 187162

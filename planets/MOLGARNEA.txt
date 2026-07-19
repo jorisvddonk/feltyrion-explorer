@@ -1,0 +1,6 @@
+Planet: MOLGARNEA
+Starmap index: 01
+Paris coordinates: 974288, 1321067, -1251662
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.383

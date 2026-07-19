@@ -1,0 +1,6 @@
+Planet: KIDARA
+Starmap index: 20
+Paris coordinates: -650068912, 64469, -500437619
+
+Guide entries:
+SOLSIRA 10/05; FELISIAN

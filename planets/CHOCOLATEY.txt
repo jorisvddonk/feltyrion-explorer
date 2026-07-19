@@ -1,0 +1,8 @@
+Planet: CHOCOLATEY
+Starmap index: 01
+Paris coordinates: 4435344, 4855151, -1248033
+
+Guide entries:
+ A PLANET WITH SHINY MOUNTAINS, GOOD FOR A PICTURE,                         
+ WATCH YOUR STEPS! THERE ARE DEEP PRECIPICES HERE.                          
+ NOTE BY TIANCRIS - EPOC 6011.680.836 -                                     

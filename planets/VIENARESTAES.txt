@@ -1,0 +1,3 @@
+Planet: VIENARESTAES
+Starmap index: 13
+Paris coordinates: -61232592, 29255171, 664579

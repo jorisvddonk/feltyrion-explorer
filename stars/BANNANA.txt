@@ -1,0 +1,10 @@
+Star: BANNANA
+Star class: S00
+Paris coordinates: 1973200, 4015204, 1296742
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- BANNANA 1 (d dusty, craterized)
+- BLUE ROOM (@ large, not consistent)
+- JELLY AIR (k thick atmosphere)
+- BANNANA 4 (r rocky, creased)

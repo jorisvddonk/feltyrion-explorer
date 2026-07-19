@@ -1,0 +1,3 @@
+Planet: MON LLACUNA
+Starmap index: 05
+Paris coordinates: 4566416, 4745435, -1511147

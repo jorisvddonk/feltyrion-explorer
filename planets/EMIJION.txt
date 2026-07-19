@@ -1,0 +1,7 @@
+Planet: EMIJION
+Starmap index: 01
+Paris coordinates: 2070212400, -1874050, 758862
+
+Guide entries:
+P01/01 MEDIUM SIZE ROCKY, GREEN COLOR HAS VERY LARGE RAYED CRATERS.         
+PRO 0.229.320 PRV 0.012.659.314 SKINNYMON 6011 794.942                      

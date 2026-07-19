@@ -1,0 +1,7 @@
+Planet: PIKAROS
+Starmap index: 01
+Paris coordinates: -601424, -78140, -425711
+
+Guide entries:
+LARGE, NOT CONSISTENT, AND VERY CLOUDY.
+NYTAR, EPOC 6011:611.683

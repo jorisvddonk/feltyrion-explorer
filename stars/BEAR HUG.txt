@@ -1,0 +1,14 @@
+Star: BEAR HUG
+Star class: S01
+Paris coordinates: 3459632, 4762483, -942547
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- BEAR CUB (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+
+Guide entries:
+NAMED BEAR HUG BECAUSE IT HUGS ALL ITS PLANETS SO CLOSE
+(FOR AN S01 STAR)

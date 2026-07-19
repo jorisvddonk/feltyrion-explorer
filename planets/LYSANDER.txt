@@ -1,0 +1,6 @@
+Planet: LYSANDER
+Starmap index: 05
+Paris coordinates: 3359632, 4340447, -669628
+
+Guide entries:
+DISCOVERED BY ASUYUKA                                                       

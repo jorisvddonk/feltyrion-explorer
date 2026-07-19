@@ -1,0 +1,29 @@
+Star: SOMMENDLING
+Star class: S04
+Paris coordinates: 94640, 433089, 597304
+Bodies: 20 (12 planets, 8 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (q quartz surface)
+- Planet #3 (d dusty, craterized)
+- DIVMER (+ substellar object)
+  - Moon #0 (r rocky, creased)
+- Planet #5 (k thick atmosphere)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #9 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #11 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.843

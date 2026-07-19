@@ -1,0 +1,3 @@
+Planet: BAGA
+Starmap index: 02
+Paris coordinates: 4518928, 7029982, -4274515

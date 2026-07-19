@@ -1,0 +1,3 @@
+Planet: EURICTIS SEPTUS
+Starmap index: 07
+Paris coordinates: 2146971120, 1495697, 1200751841

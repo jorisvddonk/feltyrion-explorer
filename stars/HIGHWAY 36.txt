@@ -1,0 +1,6 @@
+Star: HIGHWAY 36
+Star class: S10
+Paris coordinates: -11537520, -4347211, 16139583
+Bodies: 0 (0 planets, 0 moons)
+
+System:

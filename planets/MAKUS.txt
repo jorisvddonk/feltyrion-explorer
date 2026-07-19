@@ -1,0 +1,3 @@
+Planet: MAKUS
+Starmap index: 03
+Paris coordinates: 4004272, 4632329, -729962

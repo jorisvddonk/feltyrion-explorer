@@ -1,0 +1,6 @@
+Star: XOL LII
+Star class: S06
+Paris coordinates: -108267024, 25587309, -821315
+Bodies: 0 (0 planets, 0 moons)
+
+System:

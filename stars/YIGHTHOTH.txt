@@ -1,0 +1,6 @@
+Star: YIGHTHOTH
+Star class: S10
+Paris coordinates: 4173200, 4774602, -849306
+Bodies: 0 (0 planets, 0 moons)
+
+System:

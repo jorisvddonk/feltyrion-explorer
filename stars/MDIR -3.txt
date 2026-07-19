@@ -1,0 +1,9 @@
+Star: MDIR -3
+Star class: S06
+Paris coordinates: 1851760, 3255254, 4177185
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BECAUSE EVERY FELISIAN LIKES LITHIUM.                                       

@@ -1,0 +1,15 @@
+Star: GEM
+Star class: S00
+Paris coordinates: 3059632, 6036884, -363844
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+- ATLANTIS II (f felisian)
+
+Guide entries:
+ THERE IS SOME LIFE ON THE FOURTH PLANET OF THIS SYSTEM.
+ (DISCOVERED BY CPT. EUMEL, EPOC 6011:563.741.859)

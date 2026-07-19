@@ -1,0 +1,6 @@
+Star: ASCS 3
+Star class: S07
+Paris coordinates: 4204272, 4297716, -998232
+Bodies: 0 (0 planets, 0 moons)
+
+System:

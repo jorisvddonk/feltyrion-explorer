@@ -1,0 +1,6 @@
+Star: XNOL XVI
+Star class: S06
+Paris coordinates: 743216, 25774788, -926414
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: TINGE-PINK
+Starmap index: 05
+Paris coordinates: -1425091120, 1038855, 1436371991

@@ -1,0 +1,9 @@
+Star: ORPHAN
+Star class: S00
+Paris coordinates: 2897488, 5184624, -101273
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A YELLOW STAR WITHOUT ANY PLANETS. DISCOVERED BY MRUQE; E. 6011-570.591

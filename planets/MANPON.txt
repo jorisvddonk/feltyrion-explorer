@@ -1,0 +1,3 @@
+Planet: MANPON
+Starmap index: 02
+Paris coordinates: 4681072, -1513891, -4774099

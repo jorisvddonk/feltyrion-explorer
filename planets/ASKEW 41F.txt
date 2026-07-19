@@ -1,0 +1,3 @@
+Planet: ASKEW 41F
+Starmap index: 06
+Paris coordinates: 12058800, -19145394, 17625580

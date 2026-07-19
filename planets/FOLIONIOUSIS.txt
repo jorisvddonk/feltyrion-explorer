@@ -1,0 +1,6 @@
+Planet: FOLIONIOUSIS
+Starmap index: 24
+Paris coordinates: 1377136, 6524911, 257731
+
+Guide entries:
+ DISCOVERED BY SHADOW151 EPOC 6011.597.434

@@ -1,0 +1,9 @@
+Star: GASTAR
+Star class: S06
+Paris coordinates: 894640, 1841151, -147542
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FUEL STATION. COURTESY OF THE GREAT DEMENTO. YOU'RE WELCOME. :)

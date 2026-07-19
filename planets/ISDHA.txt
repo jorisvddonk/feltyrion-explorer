@@ -1,0 +1,3 @@
+Planet: ISDHA
+Starmap index: 01
+Paris coordinates: -143216, 30508545, 675589

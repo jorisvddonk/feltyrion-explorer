@@ -1,0 +1,7 @@
+Planet: GREEN EDEN
+Starmap index: 04
+Paris coordinates: 2570352, 4004679, -1213630
+
+Guide entries:
+ DISCOVERED BY NICOLAI MEYER EPOC 6011 693.500.950                          
+WORLD OF WIDE GREEN PLAINS FULL OF VARIOUS LIFEFORMS                        

@@ -1,0 +1,6 @@
+Planet: BLSIBI 4
+Starmap index: 04
+Paris coordinates: 2866416, 5442081, 70254
+
+Guide entries:
+DISCOVEDED BY POKECAT(6011.997.967)

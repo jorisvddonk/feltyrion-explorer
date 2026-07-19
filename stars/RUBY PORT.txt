@@ -1,0 +1,29 @@
+Star: RUBY PORT
+Star class: S03
+Paris coordinates: 4497488, 5149116, -1701105
+Bodies: 19 (6 planets, 13 moons)
+
+System:
+- ESSE (n thin atmosphere)
+- SYIL (+ substellar object)
+- ALKIR (k thick atmosphere)
+- TRAMI (d dusty, craterized)
+  - TRAME (d dusty, craterized)
+- CRINA (@ large, not consistent)
+  - THERL (n thin atmosphere)
+  - VISTEK (q quartz surface)
+  - ORTIS (n thin atmosphere)
+  - EGUL (n thin atmosphere)
+  - FECTYL (k thick atmosphere)
+  - LECOM (k thick atmosphere)
+  - ZANTOG (r rocky, creased)
+  - LATAVI (k thick atmosphere)
+  - DARM (^ unstable)
+  - BYSHNYA (d dusty, craterized)
+  - MATOL (d dusty, craterized)
+  - TIGOPH (q quartz surface)
+- SHALEG (q quartz surface)
+
+Guide entries:
+A CLASS S03 SYSTEM CONSISTING OF 6 PLANETS, 13 MOONS, NO FELISIAN
+WORLDS. SKINNYMON EPOC 6011 576.84

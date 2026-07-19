@@ -1,0 +1,6 @@
+Star: SPUR 25
+Star class: S06
+Paris coordinates: -64627568, 28170351, -1512565
+Bodies: 0 (0 planets, 0 moons)
+
+System:

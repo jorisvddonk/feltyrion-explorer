@@ -1,0 +1,6 @@
+Star: LONELY S06
+Star class: S06
+Paris coordinates: -525712, 533043, -22587
+Bodies: 0 (0 planets, 0 moons)
+
+System:

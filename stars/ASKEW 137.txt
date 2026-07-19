@@ -1,0 +1,12 @@
+Star: ASKEW 137
+Star class: S00
+Paris coordinates: 8639536, -17137372, 16021154
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- ASKEW 137A (k thick atmosphere)
+- ASKEW 137B (q quartz surface)
+- CARTESIAN REDHEAD (f felisian)
+  - ASKEW 137C1 (n thin atmosphere)
+- ASKEW 137D (q quartz surface)
+  - ASKEW 137D1 (d dusty, craterized)

@@ -1,0 +1,3 @@
+Planet: LANE.11.3(I)
+Starmap index: 49
+Paris coordinates: 1463568, 4728350, -437812

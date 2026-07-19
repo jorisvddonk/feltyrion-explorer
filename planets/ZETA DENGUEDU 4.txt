@@ -1,0 +1,3 @@
+Planet: ZETA DENGUEDU 4
+Starmap index: 43
+Paris coordinates: 6998832, -16787199, 15185943

@@ -1,0 +1,9 @@
+Star: FSS 0003
+Star class: S06
+Paris coordinates: 194640, 52177, 527772
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FUEL STAR.

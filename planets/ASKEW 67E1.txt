@@ -1,0 +1,3 @@
+Planet: ASKEW 67E1
+Starmap index: 14
+Paris coordinates: 11045232, -19173216, 17808348

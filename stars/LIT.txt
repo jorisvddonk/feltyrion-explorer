@@ -1,0 +1,9 @@
+Star: LIT
+Star class: S06
+Paris coordinates: 10174288, -4699503, -10700948
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A LITHIUM-EMITTING GREY GIANT DISCOVERED BY SERPENS, 6011 665.333

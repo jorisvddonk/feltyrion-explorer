@@ -1,0 +1,11 @@
+Star: MASS LI
+Star class: S06
+Paris coordinates: 694640, 140831, 65503
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED E6011.577.918 BY DAVIN FELTH
+DECENT SOURCE OF LI+, 23 MTPD. CLOSE TO THAT OF FUEL FIFTEEN.
+(E6011.577.923 DAVIN FELTH)

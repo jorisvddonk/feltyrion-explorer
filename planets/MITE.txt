@@ -1,0 +1,3 @@
+Planet: MITE
+Starmap index: 01
+Paris coordinates: 5058544, 5844159, 1406958

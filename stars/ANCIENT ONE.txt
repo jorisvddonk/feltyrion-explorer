@@ -1,0 +1,6 @@
+Star: ANCIENT ONE
+Star class: S03
+Paris coordinates: 1370352, 5135410, 71290
+Bodies: 0 (0 planets, 0 moons)
+
+System:

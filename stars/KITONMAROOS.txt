@@ -1,0 +1,6 @@
+Star: KITONMAROOS
+Star class: S06
+Paris coordinates: 160250000, -950000, -160350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

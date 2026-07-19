@@ -1,0 +1,6 @@
+Planet: GASION
+Starmap index: 01
+Paris coordinates: 670352, 437173, 502845
+
+Guide entries:
+ A NICE SUBSTELLAR WASTE OF SPACE.

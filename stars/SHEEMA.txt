@@ -1,0 +1,13 @@
+Star: SHEEMA
+Star class: S11
+Paris coordinates: 5956784, 8165851, -5435792
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- SHEEMA 1 (@ large, not consistent)
+- SHEEMA 2 (d dusty, craterized)
+- SHEEMA 3 (n thin atmosphere)
+  - SHEEMA 1/3 (i icy surface)
+- SHEEMA 4 (n thin atmosphere)
+  - SHEEMA 1/4 (d dusty, craterized)
+  - SHEEMA 2/4 (d dusty, craterized)

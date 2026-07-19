@@ -1,0 +1,6 @@
+Star: PAPYRUS
+Star class: S02
+Paris coordinates: 5066416, 4271710, -2038204
+Bodies: 0 (0 planets, 0 moons)
+
+System:

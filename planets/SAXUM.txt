@@ -1,0 +1,9 @@
+Planet: SAXUM
+Starmap index: 06
+Paris coordinates: 3259632, 4697415, -785262
+
+Guide entries:
+FIRST MOON OF VELUM.                                                        
+UNREMARKABLE WORLD LACKING ATMOSPHERE, MUCH UNLIKE THE PLANET IT ORBITS.    
+VERY WEAK GRAVITY.                                                          
+(JAVIER, 6011:685.956)                                                      

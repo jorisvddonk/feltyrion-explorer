@@ -1,0 +1,3 @@
+Planet: TURQUIOSE PIGMENT
+Starmap index: 02
+Paris coordinates: 3773200, 4027206, -299920

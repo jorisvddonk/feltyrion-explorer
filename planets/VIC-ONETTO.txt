@@ -1,0 +1,15 @@
+Planet: VIC-ONETTO
+Starmap index: 07
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.684.87 -                                
+MEDIUM SIZE, FELISIAN, BREATHABLE ATMOSPHERE, SUITABLE FOR LIFE.            
+MOONS: 0.                                                                   
+NICE LOCATIONS TO VISIT:                                                    
+0.53:-41.-18                                                                
+0.60:-41.-8                                                                 
+290.63:0.0 AND 290.63:-59.-55                                               
+1.96:0.0                                                                    
+152.1:-29.36 AND 152.1:-62.67                                               
+NOTES BY TIANCRIS - EPOC 6011.685.990 -                                     

@@ -1,0 +1,6 @@
+Planet: BASIC 3
+Starmap index: 12
+Paris coordinates: 3742128, 3928007, -212877
+
+Guide entries:
+FOUNDED EPOC 6011, 681.307.302 BY REZA. 6TH MOON OF OCEAN.                  

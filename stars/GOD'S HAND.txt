@@ -1,0 +1,20 @@
+Star: GOD'S HAND
+Star class: S00
+Paris coordinates: 2456784, 3449420, -2122039
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- MYSTERY (q quartz surface)
+- GRIFFIN (+ substellar object)
+- CALADAN (f felisian)
+  - GIEDI PRIME (n thin atmosphere)
+- PACIFIA (n thin atmosphere)
+- HEAVEN (f felisian)
+  - 7TH SCROLL (d dusty, craterized)
+  - LAST CHAPTER (n thin atmosphere)
+  - SIVA (d dusty, craterized)
+
+Guide entries:
+FIRST SYSTEM FOUND THAT CAN SUPPORT LIFE.
+BY DRL, STARDATE 565.872.265.
+ALSO DRL'S NEW HOME SYSTEM, THERE'S NO PLACE LIKE HOME :)

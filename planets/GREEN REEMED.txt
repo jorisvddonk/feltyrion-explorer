@@ -1,0 +1,3 @@
+Planet: GREEN REEMED
+Starmap index: 01
+Paris coordinates: 6193552, 5224215, -1715792

@@ -1,0 +1,3 @@
+Planet: OOMER
+Starmap index: 01
+Paris coordinates: -420421264, -1424324, 54985058

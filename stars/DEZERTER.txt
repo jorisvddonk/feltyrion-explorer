@@ -1,0 +1,6 @@
+Star: DEZERTER
+Star class: S10
+Paris coordinates: -106570960, 25497310, -828058
+Bodies: 0 (0 planets, 0 moons)
+
+System:

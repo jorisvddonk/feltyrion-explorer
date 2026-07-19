@@ -1,0 +1,3 @@
+Planet: BREK
+Starmap index: 02
+Paris coordinates: 4142128, 4782625, -641787

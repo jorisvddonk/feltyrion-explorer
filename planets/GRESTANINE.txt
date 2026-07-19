@@ -1,0 +1,3 @@
+Planet: GRESTANINE
+Starmap index: 02
+Paris coordinates: 5038192, 4896797, 274497

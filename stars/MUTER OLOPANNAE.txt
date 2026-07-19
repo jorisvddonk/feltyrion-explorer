@@ -1,0 +1,6 @@
+Star: MUTER OLOPANNAE
+Star class: S05
+Paris coordinates: 650000, 50750000, -750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

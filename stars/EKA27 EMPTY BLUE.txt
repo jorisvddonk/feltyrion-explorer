@@ -1,0 +1,9 @@
+Star: EKA27 EMPTY BLUE
+Star class: S07
+Paris coordinates: -71962064, -750533, 54041548
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A BLUE DWARF STAR WITH NO ORBITING BODIES. --EKA

@@ -1,0 +1,3 @@
+Planet: MOMOKO
+Starmap index: 19
+Paris coordinates: 3559632, 4410553, -1049465

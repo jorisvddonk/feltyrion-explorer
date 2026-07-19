@@ -1,0 +1,3 @@
+Planet: IRRIDIUM BLUE
+Starmap index: 34
+Paris coordinates: 663568, 1836709, 279372

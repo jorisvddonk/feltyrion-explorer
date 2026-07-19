@@ -1,0 +1,6 @@
+Star: MEKI JEDOO
+Star class: S00
+Paris coordinates: 6217840, 5348306, -2147354
+Bodies: 0 (0 planets, 0 moons)
+
+System:

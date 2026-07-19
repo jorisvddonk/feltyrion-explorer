@@ -1,0 +1,3 @@
+Planet: MEILINIAS
+Starmap index: 24
+Paris coordinates: 4173200, 5584233, -640733

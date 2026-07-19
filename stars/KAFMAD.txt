@@ -1,0 +1,6 @@
+Star: KAFMAD
+Star class: S06
+Paris coordinates: 6017840, 5099340, -1975097
+Bodies: 0 (0 planets, 0 moons)
+
+System:

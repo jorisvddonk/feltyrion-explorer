@@ -1,0 +1,11 @@
+Star: GORT 42
+Star class: S05
+Paris coordinates: 3052848, 5043317, -801922
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+
+Guide entries:
+KLAATU BARADA NIKTO

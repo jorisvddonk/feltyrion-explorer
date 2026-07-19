@@ -1,0 +1,8 @@
+Star: S04-6812
+Star class: S08
+Paris coordinates: -39930320, 1592992, 31393538
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- S04-6812 1 (n thin atmosphere)
+- S04-6812 2 (d dusty, craterized)

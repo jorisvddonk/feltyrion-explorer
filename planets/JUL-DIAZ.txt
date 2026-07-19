@@ -1,0 +1,6 @@
+Planet: JUL-DIAZ
+Starmap index: 24
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BBY TIANCRIS - EPOC 6011.685.901 -                              

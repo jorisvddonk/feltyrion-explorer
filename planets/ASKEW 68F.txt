@@ -1,0 +1,6 @@
+Planet: ASKEW 68F
+Starmap index: 06
+Paris coordinates: 11314160, -19380914, 17626244
+
+Guide entries:
+FOUND EPOC 6011 587.348.200 BY ROLAND ASKEW

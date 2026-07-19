@@ -1,0 +1,7 @@
+Planet: MAJOR IV
+Starmap index: 12
+Paris coordinates: -344976, 9517823, -4954054
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.848 -                                
+VERY LARGE. SUBSTELLAR OBJECT. NOT CONSISTENT.                              

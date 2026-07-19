@@ -1,0 +1,12 @@
+Star: FERRAYAH
+Star class: S11
+Paris coordinates: 2708208, 5523615, -1144671
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GRAIN (d dusty, craterized)
+- D'KHAN (n thin atmosphere)
+
+Guide entries:
+ A PULSAR WITH TWO PLANETS; DISCOVERED BY MRUQE; EPOC 6011-568.594
+ONE OF THE PLANETS ACTUALLY HAS SOME THIN ATMOSPHERE! (MRUQE)

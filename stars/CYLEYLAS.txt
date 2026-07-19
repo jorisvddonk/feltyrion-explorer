@@ -1,0 +1,13 @@
+Star: CYLEYLAS
+Star class: S04
+Paris coordinates: 634316304, -11055626, 49664486
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- AJEISA (n thin atmosphere)
+
+Guide entries:
+A CLASS S04 SYSTEM WITH ONE PLANET. NOT TO BE CONFUSED WITH CLYELYAS        
+WHICH IS A CLASS S03 SYSTEM 16.56 LY FROM HERE. (SEE EXLPANATION            
+THERE) 44.77005005 BAL. M.; TEMP 77279 K; RAD 71.2 KR;                      
+COOR 634316304;-11055626;4966486 SKINNYMON 6011 893.57                      

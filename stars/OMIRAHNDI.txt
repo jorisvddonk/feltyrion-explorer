@@ -1,0 +1,11 @@
+Star: OMIRAHNDI
+Star class: S02
+Paris coordinates: 808208, 3078550, 662026
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- XET (n thin atmosphere)
+- HULILIC (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY ORTEGA, EPOCH 6011:621.704

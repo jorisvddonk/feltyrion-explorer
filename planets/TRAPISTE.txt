@@ -1,0 +1,7 @@
+Planet: TRAPISTE
+Starmap index: 18
+Paris coordinates: 3635344, 4013073, -545271
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED SOME CREATURES.                       
+(NOTES BY FRITZ, EPOC 6011:714.884)                                         

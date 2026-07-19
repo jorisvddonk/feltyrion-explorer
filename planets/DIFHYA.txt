@@ -1,0 +1,7 @@
+Planet: DIFHYA
+Starmap index: 01
+Paris coordinates: 2081657712, -541241, -163753
+
+Guide entries:
+P01/02 MEDIUM SIZED, QUARTZ SURDACE, VERY SILVERY WHIYE REFLECTIVE.         
+PRO 0.196.200 PRV 0.011.408.180 SKINNYMON EPOC 793.774                      

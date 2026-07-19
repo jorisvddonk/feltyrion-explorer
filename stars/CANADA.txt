@@ -1,0 +1,11 @@
+Star: CANADA
+Star class: S00
+Paris coordinates: 894640, -358849, -158813
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)
+- DECIEVING (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (^ unstable)

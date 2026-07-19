@@ -1,0 +1,9 @@
+Planet: ACANU
+Starmap index: 09
+Paris coordinates: 2054927472, 1424347, -408821
+
+Guide entries:
+M01/P04 SMLL                                                                
+M01/P04 SMALL SOLID DUSTY VERY LARGE CRATERS WITH DARK RAYS SO SPREAD       
+ACROSS THE WHITE SURFACE IT LOOKS GREY. PRO 0.225.360 PRV 0.002.510.749     
+SKINNYMON 6011 795.898                                                      

@@ -1,0 +1,14 @@
+Star: LISTA 296
+Star class: S05
+Paris coordinates: 2020375120, -1795082, 72198
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- TAKTOK (d dusty, craterized)
+- SESROL (d dusty, craterized)
+- YATHOR (k thick atmosphere)
+  - CARBI (d dusty, craterized)
+  - ARKOT (i icy surface)
+
+Guide entries:
+LITHIUM, S05 WITH 3 PLANETS, 2 MOONS. SKINNYMON EPOC 6011 623.694

@@ -1,0 +1,46 @@
+Star: FNORD
+Star class: S00
+Paris coordinates: 5424624, 4793243, -964596
+Bodies: 34 (7 planets, 27 moons)
+
+System:
+- FLAMING MOE (+ substellar object)
+- PURPLE ATTACK (@ large, not consistent)
+- BIRDFALL (f felisian)
+  - Moon #0 (d dusty, craterized)
+- LIFELUST (f felisian)
+  - Moon #0 (d dusty, craterized)
+- HIKER'S HEAVEN (d dusty, craterized)
+- SILVERGREEN (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (^ unstable)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+- MR. POPULAR (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (f felisian)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (^ unstable)
+  - Moon #9 (@ large, not consistent)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (^ unstable)
+  - Moon #13 (i icy surface)
+  - Moon #14 (^ unstable)
+
+Guide entries:
+A RICH AND LOVELY YELLOW SUN. MANY INTERESTING PLANETS, WITH LOT'S OF
+UNIQUENESSES. PLANETS I FOUND WITH LIFE IN THEM:
+BIRDFALL, THE 3RD PLANET.
+CALEB, 6011.567.844

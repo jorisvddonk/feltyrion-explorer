@@ -1,0 +1,3 @@
+Planet: ESPEN NAMEHERE
+Starmap index: 01
+Paris coordinates: 4807120, 3151397, 560749

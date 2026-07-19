@@ -1,0 +1,3 @@
+Planet: BORING 1
+Starmap index: 45
+Paris coordinates: -61584016, 29782048, -184920

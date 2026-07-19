@@ -1,0 +1,37 @@
+Star: GAV
+Star class: S00
+Paris coordinates: -332496, -19693, -380818
+Bodies: 20 (5 planets, 15 moons)
+
+System:
+- MINT CHOCOLATE (@ large, not consistent)
+- MINT AND CHIPS (r rocky, creased)
+- GAV 3 (+ substellar object)
+  - SOOT (@ large, not consistent)
+  - FRIED PEPPER (^ unstable)
+  - CITARIS (k thick atmosphere)
+  - HOTHA (f felisian)
+  - CARAMEL APPLE (^ unstable)
+  - BERRY (@ large, not consistent)
+  - FRIED GREEN TOMATOES (k thick atmosphere)
+  - CAIMON (q quartz surface)
+  - BURNT DELICACY (n thin atmosphere)
+  - ANCIENT ATTEMPT (r rocky, creased)
+  - OLIVES AND CHIVES (r rocky, creased)
+  - MAGIE (k thick atmosphere)
+- GUACAMOLE (r rocky, creased)
+- SPECKLE (q quartz surface)
+  - CRUNCHED UP CANDY (d dusty, craterized)
+  - FORGOTTEN CANDY (n thin atmosphere)
+  - LIME JAWBREAKER (n thin atmosphere)
+
+Guide entries:
+S00; 5 PLANETS, 15 MINORS
+S00 STAR WITH 5 PLANETS AND 15 MOONS. --EKA
+WELL, I'VE FINISHED THE LABELLING HERE. IT'S NOT A BAD SYSTEM; IT HAS A
+FELISIAN MOON ORBITING 'HOT OVEN', IT HAS A MINISTAR WHICH  IS  'HOT
+OVEN', IT HAS TWO ABSOLUTELY BEAUTIFUL CRATERED BODIES, ONE OF WHICH IS
+A PLANET AND ONE OF WHICH IS ORBITING 'HOT OVEN', AND IT HAS AN
+UNUSUALLY BRIGHT THIN-ATMOSPHERE MOON ORBITING THE FIFTH AND LAST
+PLANET. THIS SYSTEM WAS AN EYE-OPENER TO ME REGARDING HOW THINGS WORKED
+AND WHAT WAS POSSIBLE. --EKA

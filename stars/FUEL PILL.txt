@@ -1,0 +1,6 @@
+Star: FUEL PILL
+Star class: S06
+Paris coordinates: 4896400, 9947244, 1769269
+Bodies: 0 (0 planets, 0 moons)
+
+System:

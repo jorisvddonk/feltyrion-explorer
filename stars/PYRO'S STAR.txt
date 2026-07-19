@@ -1,0 +1,7 @@
+Star: PYRO'S STAR
+Star class: S03
+Paris coordinates: 3552848, 4233415, -1467931
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KRYPT (k thick atmosphere)

@@ -1,0 +1,3 @@
+Planet: ULAN-UDE
+Starmap index: 46
+Paris coordinates: -72317424, -1376064, 54932106

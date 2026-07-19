@@ -1,0 +1,12 @@
+Star: ZERCANA 1
+Star class: S02
+Paris coordinates: 3452848, 4318536, -1143623
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (q quartz surface)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+- DESOLATE (n thin atmosphere)

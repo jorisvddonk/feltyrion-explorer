@@ -1,0 +1,6 @@
+Planet: ELIRON
+Starmap index: 01
+Paris coordinates: 2452848, 4751009, -338501
+
+Guide entries:
+DISCOVERED BY CUNICULI, 6011:587.812

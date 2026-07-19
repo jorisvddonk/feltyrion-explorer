@@ -1,0 +1,6 @@
+Planet: BYFI3
+Starmap index: 03
+Paris coordinates: -178224, -1278064, 2452536
+
+Guide entries:
+SMALL, NO ATMOSPHERE. CRATERISED.

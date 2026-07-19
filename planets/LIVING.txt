@@ -1,0 +1,3 @@
+Planet: LIVING
+Starmap index: 03
+Paris coordinates: 5982832, 4801985, -224257

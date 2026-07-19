@@ -1,0 +1,3 @@
+Planet: CLAREN
+Starmap index: 04
+Paris coordinates: 7785680, 121504, 157218

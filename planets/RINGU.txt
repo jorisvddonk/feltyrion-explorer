@@ -1,0 +1,6 @@
+Planet: RINGU
+Starmap index: 01
+Paris coordinates: 4169264, 4539675, 792675
+
+Guide entries:
+ FIRST PLANET OF RUTANA, DISCOVERED BY LINGO. LARGE AND RINGED.

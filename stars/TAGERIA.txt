@@ -1,0 +1,6 @@
+Star: TAGERIA
+Star class: S08
+Paris coordinates: 3346064, 4510710, -1509249
+Bodies: 0 (0 planets, 0 moons)
+
+System:

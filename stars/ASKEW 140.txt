@@ -1,0 +1,7 @@
+Star: ASKEW 140
+Star class: S11
+Paris coordinates: 9780240, -17869111, 17110375
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ASKEW 140A (d dusty, craterized)

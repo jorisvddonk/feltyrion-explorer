@@ -1,0 +1,3 @@
+Planet: TOBACCO
+Starmap index: 05
+Paris coordinates: -71562064, -598009, 53608687

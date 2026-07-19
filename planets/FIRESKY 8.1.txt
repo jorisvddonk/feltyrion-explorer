@@ -1,0 +1,6 @@
+Planet: FIRESKY 8.1
+Starmap index: 41
+Paris coordinates: 4128560, 4303885, -1407510
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATM. SERPENS, 6011 665.851

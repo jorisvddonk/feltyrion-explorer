@@ -1,0 +1,12 @@
+Star: SPAN I
+Star class: S10
+Paris coordinates: 26746832, 6327918, 44688346
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GRAEP (@ large, not consistent)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 STAR WITH ONE LONE PLANET, GRAEP, A
+GREEN GAS GIANT.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:265

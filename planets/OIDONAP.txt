@@ -1,0 +1,7 @@
+Planet: OIDONAP
+Starmap index: 05
+Paris coordinates: 2100590128, -1965623, -11495
+
+Guide entries:
+P05/08 MEDIUM SIZE THICK ATMO. GREEN CLOUD COVER WITH LARGE STORMS.         
+PRO 0.228.600 PRV 0.209.624.416 SKINNYMON 6011 793.297                      

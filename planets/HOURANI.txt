@@ -1,0 +1,3 @@
+Planet: HOURANI
+Starmap index: 03
+Paris coordinates: 7146064, 5131294, -5275254

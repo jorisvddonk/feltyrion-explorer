@@ -1,0 +1,6 @@
+Planet: LUA NOVA
+Starmap index: 10
+Paris coordinates: -350382640, -1432259, 54971403
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.577.28

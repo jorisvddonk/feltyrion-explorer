@@ -1,0 +1,6 @@
+Planet: ZEBRIM C
+Starmap index: 10
+Paris coordinates: 12144, 154769, -241000
+
+Guide entries:
+A THINWORLD. SURFACE SLIGHTLY PURPLE. (SCHMERM 6011 584.404)

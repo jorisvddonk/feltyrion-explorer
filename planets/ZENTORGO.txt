@@ -1,0 +1,6 @@
+Planet: ZENTORGO
+Starmap index: 03
+Paris coordinates: 663568, 1836709, 279372
+
+Guide entries:
+ 12 MOONS

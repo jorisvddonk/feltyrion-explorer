@@ -1,0 +1,12 @@
+Star: PEOPES
+Star class: S08
+Paris coordinates: 2110580080, -1768906, 992742
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ROKL (d dusty, craterized)
+
+Guide entries:
+CLASS S08, BUT NO COMPANION STAR, ONLY ONE SMALL PLANET. 0.21447635         
+BAL. M. TEMP 1559 K RAD 49KR COOR 2110580080;-1768906;992742 SKINNYMON      
+6011 973.213                                                                

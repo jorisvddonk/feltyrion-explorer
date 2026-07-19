@@ -1,0 +1,11 @@
+Star: YOAHIM 5
+Star class: S02
+Paris coordinates: -61646160, 29411572, 186064
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HOLERAIS (k thick atmosphere)
+- KALAMATIS (r rocky, creased)
+
+Guide entries:
+CLASS S02 WHITE DARF STAR DISCOVERED BY MCWGOGS EPOC 6011.639.690

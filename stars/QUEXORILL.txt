@@ -1,0 +1,31 @@
+Star: QUEXORILL
+Star class: S01
+Paris coordinates: 800887696, 1501169, 55273217
+Bodies: 21 (3 planets, 18 moons)
+
+System:
+- QUEXORILL PRIME (n thin atmosphere)
+- QUEXORILL 2 (r rocky, creased)
+- QUEXORILL 3 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (^ unstable)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (k thick atmosphere)
+  - Moon #15 (r rocky, creased)
+  - Moon #16 (n thin atmosphere)
+  - Moon #17 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:789.43
+(S01) 3 PLANETS / 18 MINOR

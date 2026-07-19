@@ -1,0 +1,3 @@
+Planet: EXXEQUIS-5
+Starmap index: 65
+Paris coordinates: 3804272, 4398014, -524676

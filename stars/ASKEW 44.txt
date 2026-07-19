@@ -1,0 +1,6 @@
+Star: ASKEW 44
+Star class: S03
+Paris coordinates: 11983088, -19276638, 17072488
+Bodies: 0 (0 planets, 0 moons)
+
+System:

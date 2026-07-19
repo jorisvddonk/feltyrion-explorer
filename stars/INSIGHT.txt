@@ -1,0 +1,9 @@
+Star: INSIGHT
+Star class: S00
+Paris coordinates: 129648, 660434, -1184923
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED 6011:571.171.400 BY SHADOWCLAW)

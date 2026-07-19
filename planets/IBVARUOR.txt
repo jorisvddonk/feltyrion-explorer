@@ -1,0 +1,7 @@
+Planet: IBVARUOR
+Starmap index: 01
+Paris coordinates: 2132663920, -1770074, -569834
+
+Guide entries:
+P01/03 SMALL SOLID DUSTY, VERY LARGE CRATERS, GREEN REFLECTIVITY. PRO       
+0.141.120 PRV 0.006.509.393 SKINNYMON 6011 797.437                          

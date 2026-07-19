@@ -1,0 +1,11 @@
+Star: STELLA A MOERTE
+Star class: S11
+Paris coordinates: 2783920, 5342560, -724918
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DEAD BALL (d dusty, craterized)
+- DEAD BALL TWO (n thin atmosphere)
+
+Guide entries:
+STAR FOUND BY DAMATS,EPOC 6011:563:998

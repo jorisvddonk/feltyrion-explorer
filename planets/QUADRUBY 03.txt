@@ -1,0 +1,3 @@
+Planet: QUADRUBY 03
+Starmap index: 04
+Paris coordinates: 3177136, 4191473, -1547012

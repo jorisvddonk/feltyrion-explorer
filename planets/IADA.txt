@@ -1,0 +1,3 @@
+Planet: IADA
+Starmap index: 02
+Paris coordinates: 785008, 4963289, -2548483

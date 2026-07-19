@@ -1,0 +1,17 @@
+Star: ASKEW 41
+Star class: S04
+Paris coordinates: 12058800, -19145394, 17625580
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- ASKEW 41A (n thin atmosphere)
+- ASKEW 41B (+ substellar object)
+- ASKEW 41C (n thin atmosphere)
+  - ASKEW 41C1 (d dusty, craterized)
+  - ASKEW 41C2 (d dusty, craterized)
+- ASKEW 41D (^ unstable)
+- ASKEW 41E (+ substellar object)
+  - ASKEW 41E1 (k thick atmosphere)
+- ASKEW 41F (r rocky, creased)
+  - ASKEW 41F1 (d dusty, craterized)
+  - ASKEW 41F2 (d dusty, craterized)

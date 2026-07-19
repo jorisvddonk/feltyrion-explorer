@@ -1,0 +1,6 @@
+Star: GREY STAR 2
+Star class: S06
+Paris coordinates: 3783920, 5333902, -1807549
+Bodies: 0 (0 planets, 0 moons)
+
+System:

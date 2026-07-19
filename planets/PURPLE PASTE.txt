@@ -1,0 +1,3 @@
+Planet: PURPLE PASTE
+Starmap index: 09
+Paris coordinates: 3773200, 4027206, -299920

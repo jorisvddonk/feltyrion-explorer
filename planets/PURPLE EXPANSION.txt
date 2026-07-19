@@ -1,0 +1,3 @@
+Planet: PURPLE EXPANSION
+Starmap index: 19
+Paris coordinates: 3773200, 4027206, -299920

@@ -1,0 +1,3 @@
+Planet: SAFOK
+Starmap index: 01
+Paris coordinates: -2569264, -5942531, -2333864

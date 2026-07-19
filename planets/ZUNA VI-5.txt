@@ -1,0 +1,3 @@
+Planet: ZUNA VI-5
+Starmap index: 18
+Paris coordinates: 9675376, 5043750, -13745597

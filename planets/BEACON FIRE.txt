@@ -1,0 +1,3 @@
+Planet: BEACON FIRE
+Starmap index: 01
+Paris coordinates: -1443526800, 677938, 1446818530

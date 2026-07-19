@@ -1,0 +1,6 @@
+Planet: CARLITO
+Starmap index: 03
+Paris coordinates: 3904272, 5465172, -666611
+
+Guide entries:
+ UNINTERESTING PLANET DISCOVERED BY MRUQE; EPOC 6011-568.272

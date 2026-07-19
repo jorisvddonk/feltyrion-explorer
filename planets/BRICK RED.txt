@@ -1,0 +1,3 @@
+Planet: BRICK RED
+Starmap index: 21
+Paris coordinates: -3970352, 1646424, 2969723

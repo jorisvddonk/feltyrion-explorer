@@ -1,0 +1,3 @@
+Planet: SCOFEN
+Starmap index: 03
+Paris coordinates: 1624624, 31139792, 2797652

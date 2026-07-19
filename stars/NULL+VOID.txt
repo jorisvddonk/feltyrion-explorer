@@ -1,0 +1,9 @@
+Star: NULL+VOID
+Star class: S00
+Paris coordinates: 2059632, 5308818, 653770
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ NO PLANETS OR MOONS. CHRIS SCHEER 6011:693.181.400                         

@@ -1,0 +1,8 @@
+Star: IOTA DENGIS
+Star class: S05
+Paris coordinates: 4046064, 5396081, -2229556
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)

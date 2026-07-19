@@ -1,0 +1,7 @@
+Planet: JANESHOU
+Starmap index: 03
+Paris coordinates: 2646064, 4825340, -800943
+
+Guide entries:
+ DISCOVERED BY SYS EPOC 6011 571.105.570
+NAMED FOR MY HEART'S ONE DESIRE, JANE

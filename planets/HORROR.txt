@@ -1,0 +1,3 @@
+Planet: HORROR
+Starmap index: 02
+Paris coordinates: 7146064, 5131294, -5275254

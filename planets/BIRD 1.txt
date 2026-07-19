@@ -1,0 +1,7 @@
+Planet: BIRD 1
+Starmap index: 01
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, VERY CLOSE TO BIRD.
+SERPENS, 6011 665.406

@@ -1,0 +1,10 @@
+Star: REAR OCCUPIER
+Star class: S08
+Paris coordinates: -125712, 52374213, -228323
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PSEUDO S08 WITH NO PLANETS...LOCATED BEHIND THE GRID. ANOTHER             
+GRID PHENOMENON? RYAN GJK E6011.789.152                                     

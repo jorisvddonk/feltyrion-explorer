@@ -1,0 +1,3 @@
+Planet: ALPHA PLANET
+Starmap index: 01
+Paris coordinates: -105657392, 25872251, -859369

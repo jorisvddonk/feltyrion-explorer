@@ -1,0 +1,3 @@
+Planet: AUSTERITY
+Starmap index: 02
+Paris coordinates: 1363568, 694931, -392299

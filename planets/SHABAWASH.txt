@@ -1,0 +1,3 @@
+Planet: SHABAWASH
+Starmap index: 12
+Paris coordinates: -1404272, -14064165, -1675893

@@ -1,0 +1,3 @@
+Planet: ITRIA 1
+Starmap index: 01
+Paris coordinates: 4052848, 5299379, -1987317

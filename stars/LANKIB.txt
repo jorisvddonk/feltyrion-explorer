@@ -1,0 +1,6 @@
+Star: LANKIB
+Star class: S08
+Paris coordinates: 4779984, 4793547, -895029
+Bodies: 0 (0 planets, 0 moons)
+
+System:

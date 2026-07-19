@@ -1,0 +1,6 @@
+Planet: SPOTTY
+Starmap index: 12
+Paris coordinates: 670352, 437173, 502845
+
+Guide entries:
+ AT 7.71 YOU'LL FIND THE DODONGO MOUNTAIN RANGE.

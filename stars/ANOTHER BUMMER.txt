@@ -1,0 +1,6 @@
+Star: ANOTHER BUMMER
+Star class: S00
+Paris coordinates: -525712, 33043, -28515
+Bodies: 0 (0 planets, 0 moons)
+
+System:

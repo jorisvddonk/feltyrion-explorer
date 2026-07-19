@@ -1,0 +1,20 @@
+Star: YELAR
+Star class: S00
+Paris coordinates: 521776, -3104039, 1871586
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- YELAR 1 (d dusty, craterized)
+- INVER (@ large, not consistent)
+- BUMPAE (n thin atmosphere)
+  - CRATERED (d dusty, craterized)
+- RUILES (f felisian)
+- SNOWHOT (k thick atmosphere)
+  - ALBINO (d dusty, craterized)
+  - LIFELESS GREEN (d dusty, craterized)
+
+Guide entries:
+A SYSTEM WITH 8 BODIES; 4 MAJOR, 3 MINOR, AND 1 FELISIAN. NO RUINS FOUND    
+IN FIRST WAVE OF EXPLORATION. MOST BODIES HEAVILY CRATERED AND THE          
+FELISIAN PLANET HASN'T REVEALED RUINS TO ME. A BORING PLACE.                
+(ALL BODIES DISCOVERED AND NAMED BY GEEKOFDEATH CIRCA EPOC 6011:711.394)    

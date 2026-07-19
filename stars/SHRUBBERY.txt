@@ -1,0 +1,26 @@
+Star: SHRUBBERY
+Star class: S00
+Paris coordinates: -105326320, 26033824, -1280200
+Bodies: 20 (12 planets, 8 moons)
+
+System:
+- SRAMS (n thin atmosphere)
+- BANAN (+ substellar object)
+- GREVUS (k thick atmosphere)
+- KARS (n thin atmosphere)
+- KRATERLAND (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- FAL LANDAS (f felisian)
+  - Moon #0 (d dusty, craterized)
+- FAL EVENBETTER (f felisian)
+  - Moon #0 (d dusty, craterized)
+- MESHH (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+- PULTON (d dusty, craterized)
+- NESQUIK (r rocky, creased)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+- FERIE (k thick atmosphere)
+- KROSTA (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

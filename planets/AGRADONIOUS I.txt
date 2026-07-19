@@ -1,0 +1,3 @@
+Planet: AGRADONIOUS I
+Starmap index: 01
+Paris coordinates: 3259632, 3797415, -827087

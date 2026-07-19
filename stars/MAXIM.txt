@@ -1,0 +1,6 @@
+Star: MAXIM
+Star class: S11
+Paris coordinates: 1256784, 585854, -636547
+Bodies: 0 (0 planets, 0 moons)
+
+System:

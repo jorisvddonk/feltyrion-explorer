@@ -1,0 +1,12 @@
+Star: GESTERN
+Star class: S00
+Paris coordinates: 4762480, 4456213, -4835
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HEUTE (+ substellar object)
+- OHNE DICH (@ large, not consistent)
+
+Guide entries:
+CLASS S00 STAR WITH 2 MAJOR BODIES AND NO MINOR BODIES.                     
+(DISCOVERED BY SERAXIS. EPOC 6011, 679.444.682)                             

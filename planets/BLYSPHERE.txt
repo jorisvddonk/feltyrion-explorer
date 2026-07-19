@@ -1,0 +1,7 @@
+Planet: BLYSPHERE
+Starmap index: 06
+Paris coordinates: -1108208, -712825, -246456
+
+Guide entries:
+VERY LARGE, SUBSTELLAR, NOT CONSISTENT.
+NYTAR, EPOC 6011:611.945

@@ -1,0 +1,7 @@
+Planet: LAPROCK
+Starmap index: 01
+Paris coordinates: -1426042544, 980747, 1436051835
+
+Guide entries:
+THIN-ATMOSPHERE WORLD. LOW ALBEDO FROM ORBIT, BUT THE SURFAE AT THE         
+POLAR CAPS IS WELL-LIT. RYAN GJK E6011.783.713                              

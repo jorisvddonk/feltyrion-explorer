@@ -1,0 +1,8 @@
+Star: ZORT
+Star class: S00
+Paris coordinates: 27759216, 43352599, -11614385
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LHOHO (@ large, not consistent)
+- GHALAN (n thin atmosphere)

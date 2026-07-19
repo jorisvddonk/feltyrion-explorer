@@ -1,0 +1,6 @@
+Planet: CUYG GAMMA
+Starmap index: 04
+Paris coordinates: 4551760, 4335716, 1321092
+
+Guide entries:
+SURVEYED BY EDEANP 6011.617.988.207

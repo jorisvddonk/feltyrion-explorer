@@ -1,0 +1,3 @@
+Planet: ICE ORB A
+Starmap index: 53
+Paris coordinates: 3452848, 4518536, -1183512

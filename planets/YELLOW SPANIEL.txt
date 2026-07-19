@@ -1,0 +1,6 @@
+Planet: YELLOW SPANIEL
+Starmap index: 12
+Paris coordinates: 2008880, -12128966, 9171998
+
+Guide entries:
+FOUND EPOC 6011 589.076.000 BY ROLAND ASKEW

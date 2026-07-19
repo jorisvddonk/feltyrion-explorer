@@ -1,0 +1,6 @@
+Star: ARCHIMEDES 241
+Star class: S06
+Paris coordinates: 3390704, 4378474, -933972
+Bodies: 0 (0 planets, 0 moons)
+
+System:

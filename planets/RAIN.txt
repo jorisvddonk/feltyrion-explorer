@@ -1,0 +1,7 @@
+Planet: RAIN
+Starmap index: 04
+Paris coordinates: 3359632, 4245485, -948943
+
+Guide entries:
+A I CAN SAY ONLY ONE THING, GO HTERE
+HOT(41.6C) CONSTANT RAIN

@@ -1,0 +1,6 @@
+Star: ASTRO PATH A92
+Star class: S02
+Paris coordinates: 3153424, 3548612, -51267812
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,7 @@
+Planet: TRISTANIA
+Starmap index: 03
+Paris coordinates: 2132496, 4107520, -1134734
+
+Guide entries:
+ DISCOVERED BY NICOLAI MEYER                                                
+VERY GREY, RAINY WORLD.NO LIFE FOUND SO FAR                                 

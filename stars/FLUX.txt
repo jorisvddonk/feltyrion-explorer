@@ -1,0 +1,6 @@
+Star: FLUX
+Star class: S07
+Paris coordinates: -243216, 461959, 568724
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: ASKEW 172
+Star class: S08
+Paris coordinates: 6025296, -5564148, 8058375
+Bodies: 0 (0 planets, 0 moons)
+
+System:

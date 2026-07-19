@@ -1,0 +1,24 @@
+Star: FELIS
+Star class: S00
+Paris coordinates: -1626800, 33322066, 4959862
+Bodies: 13 (5 planets, 8 moons)
+
+System:
+- FELIS 1 (n thin atmosphere)
+- FELIS 2 (@ large, not consistent)
+- FELIS 3 (d dusty, craterized)
+  - FELIS 3.1 (n thin atmosphere)
+- FELIS 4 (n thin atmosphere)
+  - FELIS 4.1 (n thin atmosphere)
+- FELIS 5 (@ large, not consistent)
+  - FELIS 5.1 (q quartz surface)
+  - FELIS 5.2 (f felisian)
+  - FELIS 5.3 (q quartz surface)
+  - FELIS 5.4 (^ unstable)
+  - FELIS 5.5 (n thin atmosphere)
+  - FELIS 5.6 (r rocky, creased)
+
+Guide entries:
+ FELIS IS A G-TYPE YELLOW DWARF, S00 SYSTEM.
+THIS STAR HAS 13 OBJECTS ORBITING IT, BEING 5 PLANETS, AND 8 MOONS.
+(STARGAZER. EPOC 6011:611:179)

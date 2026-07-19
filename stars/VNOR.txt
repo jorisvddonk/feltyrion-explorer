@@ -1,0 +1,18 @@
+Star: VNOR
+Star class: S00
+Paris coordinates: 5813904, 5031533, -93900
+Bodies: 7 (6 planets, 1 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+- TOGAIN TALAS (f felisian)
+  - LITTLE TAINA (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+- KYRRAN (f felisian)
+
+Guide entries:
+ AN AVERAGE YELLOW STAR, NUMEROUS PLANETS AND MOONS WITH AT LEAST ONE
+ SUTABLE FOR LIFE. DISCOVERED BY DETJEN HAYNES DATE UNKNOWN.
+(DETJEN HAYNES EPOC 6011.619.459)

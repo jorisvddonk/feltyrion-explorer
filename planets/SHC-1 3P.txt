@@ -1,0 +1,3 @@
+Planet: SHC-1 3P
+Starmap index: 26
+Paris coordinates: -26583376, -15647682, -1001175282

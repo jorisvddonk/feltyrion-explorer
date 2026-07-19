@@ -1,0 +1,6 @@
+Planet: QUASZWALD
+Starmap index: 23
+Paris coordinates: 3952848, 4679972, -1872131
+
+Guide entries:
+ HABITABLE. GRASS, SHRUBS, TREES, AND AVIANS SIGHTED. LARGELY OCEAN.

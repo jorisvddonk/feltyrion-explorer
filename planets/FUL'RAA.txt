@@ -1,0 +1,3 @@
+Planet: FUL'RAA
+Starmap index: 02
+Paris coordinates: 3082160, 7638623, -6946602

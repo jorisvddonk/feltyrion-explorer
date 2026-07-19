@@ -1,0 +1,3 @@
+Planet: ERINEUS
+Starmap index: 12
+Paris coordinates: 4628560, 4422675, -1868141

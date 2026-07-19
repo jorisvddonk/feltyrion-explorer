@@ -1,0 +1,3 @@
+Planet: NARWIN-D-S8
+Starmap index: 17
+Paris coordinates: -148912, 1540144, -3543794

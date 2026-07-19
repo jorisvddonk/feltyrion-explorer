@@ -1,0 +1,3 @@
+Planet: CHANIA-F
+Starmap index: 06
+Paris coordinates: 4198576, 4521282, -5157453

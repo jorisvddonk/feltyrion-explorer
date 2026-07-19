@@ -1,0 +1,43 @@
+Star: TIBERIUS
+Star class: S00
+Paris coordinates: -822864, 4092963, 2445003
+Bodies: 33 (7 planets, 26 moons)
+
+System:
+- AVENTINE (d dusty, craterized)
+- CAELIAN (n thin atmosphere)
+- CAPITOLINE (d dusty, craterized)
+  - CAPITOLINE MINOR (n thin atmosphere)
+- ESQUILINE (r rocky, creased)
+  - TACERE (n thin atmosphere)
+  - NEBULOSUS (d dusty, craterized)
+- PALATINE (f felisian)
+  - CARDINALIS (n thin atmosphere)
+  - SECUNDUS (n thin atmosphere)
+  - TERTIUS (^ unstable)
+- QUIRINAL (r rocky, creased)
+- VIMINAL (+ substellar object)
+  - IRONIA (d dusty, craterized)
+  - CONSULATUS (k thick atmosphere)
+  - PEREGRINUS (k thick atmosphere)
+  - PENSARE (r rocky, creased)
+  - SUPPLICARE (d dusty, craterized)
+  - GEOMETRES (d dusty, craterized)
+  - DESPONDERE (k thick atmosphere)
+  - SUPERSTITIO (f felisian)
+  - DELIRARE (k thick atmosphere)
+  - DEUS INSANUS (f felisian)
+  - GRAVIS (n thin atmosphere)
+  - BRUMA (d dusty, craterized)
+  - SINGULUS (d dusty, craterized)
+  - FRIGUS (i icy surface)
+  - INSIPIENS (f felisian)
+  - FAVUS (k thick atmosphere)
+  - SALIVATUS (d dusty, craterized)
+  - PROVERBIUM (k thick atmosphere)
+  - FORTIS (r rocky, creased)
+  - FINIS (r rocky, creased)
+
+Guide entries:
+CKASS S00 SYSTEM, 7 PLANETS, 26 MOONS. 3 FELISIAN WORLDS.
+SKINNYMON EPOC 6011 567.866

@@ -1,0 +1,7 @@
+Planet: QUATERMASS
+Starmap index: 03
+Paris coordinates: -1342128, 7759850, -2085923
+
+Guide entries:
+WATCH OUT FOR THE GIANT PIT AT 359.118.
+(NOTES BY GARY! EPOC 6011:572:832)

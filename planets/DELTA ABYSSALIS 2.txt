@@ -1,0 +1,3 @@
+Planet: DELTA ABYSSALIS 2
+Starmap index: 02
+Paris coordinates: 7029904, -16790780, 15131002

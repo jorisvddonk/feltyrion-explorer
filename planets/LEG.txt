@@ -1,0 +1,3 @@
+Planet: LEG
+Starmap index: 10
+Paris coordinates: 2359632, 5058003, 162880

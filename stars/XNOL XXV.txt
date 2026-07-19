@@ -1,0 +1,6 @@
+Star: XNOL XXV
+Star class: S06
+Paris coordinates: 2711056, 4622800, 929063
+Bodies: 0 (0 planets, 0 moons)
+
+System:

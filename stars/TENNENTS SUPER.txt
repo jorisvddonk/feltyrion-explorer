@@ -1,0 +1,9 @@
+Star: TENNENTS SUPER
+Star class: S06
+Paris coordinates: -25712, 284974, -499566
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING, DISCOVERED BY RCLEAR 6011.629:505

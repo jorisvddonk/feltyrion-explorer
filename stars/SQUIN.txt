@@ -1,0 +1,11 @@
+Star: SQUIN
+Star class: S05
+Paris coordinates: 1994640, 1737547, -1322785
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SQUIN 1 (q quartz surface)
+- SQUIN 2 (@ large, not consistent)
+
+Guide entries:
+ A BROWN DWARF WITH TWO PLANETS.

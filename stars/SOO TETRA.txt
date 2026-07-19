@@ -1,0 +1,40 @@
+Star: SOO TETRA
+Star class: S00
+Paris coordinates: 1360720, 4607373, -2490889
+Bodies: 31 (10 planets, 21 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (f felisian)
+- INDIGLO (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #8 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (i icy surface)
+  - Moon #9 (i icy surface)
+  - Moon #10 (i icy surface)
+  - Moon #11 (i icy surface)
+  - Moon #12 (i icy surface)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ S00 STAR DISC BY SCAREDY-CAT, EPOC 6011.588.898

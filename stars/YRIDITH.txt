@@ -1,0 +1,13 @@
+Star: YRIDITH
+Star class: S03
+Paris coordinates: 1008208, 231376, 523199
+Bodies: 7 (6 planets, 1 moons)
+
+System:
+- SCHIZM (@ large, not consistent)
+- GRAKEN (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)

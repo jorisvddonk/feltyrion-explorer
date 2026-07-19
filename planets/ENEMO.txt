@@ -1,0 +1,7 @@
+Planet: ENEMO
+Starmap index: 15
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M01/P06 SMALL SOLID THIN ATMO. S DOUBLE FOR EPOMO. PRO 0.199.180 PRV        
+0.002.250.256 SKINNYMON 6011 791.997                                        

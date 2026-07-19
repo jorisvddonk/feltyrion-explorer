@@ -1,0 +1,6 @@
+Star: ASCS 00034
+Star class: S00
+Paris coordinates: 187856, 15683, 96725
+Bodies: 0 (0 planets, 0 moons)
+
+System:

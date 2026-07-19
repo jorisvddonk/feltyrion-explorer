@@ -1,0 +1,11 @@
+Star: VIODEM
+Star class: S10
+Paris coordinates: 12132752, 12442054, 12065100
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ILLOSE (d dusty, craterized)
+- LOPELINK (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERD BY DAWIWO, EPOCH 6011:768.477                                

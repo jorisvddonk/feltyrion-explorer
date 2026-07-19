@@ -1,0 +1,11 @@
+Star: TERNTIUM
+Star class: S07
+Paris coordinates: 3055696, 6779869, 1287831
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED EPOC 6012 55.589
+EXTREMELY HUGE STAR S00 CLASS
+ITS S07 STAR, FIX

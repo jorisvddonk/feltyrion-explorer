@@ -1,0 +1,12 @@
+Star: RADELLA
+Star class: S02
+Paris coordinates: 3348240, -660838, -9125564
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- RADELLA-A (q quartz surface)
+- RADELLA-B (q quartz surface)
+- RADELLA-C (r rocky, creased)
+- RADELLA-D (@ large, not consistent)
+- RADELLA-E (@ large, not consistent)
+- RADELLA-F (@ large, not consistent)

@@ -1,0 +1,3 @@
+Planet: SEVER
+Starmap index: 01
+Paris coordinates: 312144, 42847, -433379

@@ -1,0 +1,14 @@
+Star: FORTUNE
+Star class: S00
+Paris coordinates: 4355696, 4964845, -249621
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- ABOVE AVERAGE (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

@@ -1,0 +1,3 @@
+Planet: SARI
+Starmap index: 08
+Paris coordinates: -3539280, 1680833, 2227697

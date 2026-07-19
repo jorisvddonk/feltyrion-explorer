@@ -1,0 +1,3 @@
+Planet: ASKEW 170A
+Starmap index: 01
+Paris coordinates: 6483504, -6725110, 9011737

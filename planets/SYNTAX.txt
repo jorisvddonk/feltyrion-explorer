@@ -1,0 +1,6 @@
+Planet: SYNTAX
+Starmap index: 02
+Paris coordinates: 3677136, 4440439, -2078563
+
+Guide entries:
+ SUN GIVES MOONLIKE APPEAL. VERY DRAB PLANET

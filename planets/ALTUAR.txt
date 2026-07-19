@@ -1,0 +1,3 @@
+Planet: ALTUAR
+Starmap index: 03
+Paris coordinates: 2283920, -26018647, -222425

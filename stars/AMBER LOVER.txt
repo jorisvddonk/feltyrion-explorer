@@ -1,0 +1,28 @@
+Star: AMBER LOVER
+Star class: S00
+Paris coordinates: -776048, 4351251, -4442859
+Bodies: 15 (5 planets, 10 moons)
+
+System:
+- SUN LINE RAIN (@ large, not consistent)
+- ROCKSU (n thin atmosphere)
+- CRYSTAL TREE X (f felisian)
+  - Moon #0 (d dusty, craterized)
+- TROPIC DE SINE (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - SHINY DISCO LANDO (q quartz surface)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (r rocky, creased)
+  - BLUE SWIRL (f felisian)
+  - Moon #6 (d dusty, craterized)
+  - BYAKKO'S LEFT EYE (f felisian)
+- GREY LIFE (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+BIG YELLOW STAR FOUND WHILE LISTENING TO OILVIA--BLACK FOREST
+PLANET THREE FOUND WHILE LISTENING TO X/1999 OST FOREVER LOVE
+HAS CRYSTAL TREES...OOH SEE THROUGH...HE HE
+PLANET TWO HAS NOTHING BUT ROCKS PARADISE IS NOT FOUND HERE....
+YOU CAN SEE A BELT FROM SUN LINE RAIN....

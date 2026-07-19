@@ -1,0 +1,3 @@
+Planet: URAAS PRIME
+Starmap index: 01
+Paris coordinates: 2146862352, 1760712, 2146965304

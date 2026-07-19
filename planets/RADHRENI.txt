@@ -1,0 +1,3 @@
+Planet: RADHRENI
+Starmap index: 03
+Paris coordinates: 3370352, 5130627, -2189113

@@ -1,0 +1,22 @@
+Star: STOPLIGHT
+Star class: S03
+Paris coordinates: -243216, 861959, 568836
+Bodies: 13 (8 planets, 5 moons)
+
+System:
+- OOBISCUS (@ large, not consistent)
+- STOPLIGHT II (n thin atmosphere)
+- STOPLIGHT III (d dusty, craterized)
+- STINKY (k thick atmosphere)
+  - STINKY A (d dusty, craterized)
+- STOPLIGHT V (k thick atmosphere)
+- STOPLIGHT VI (d dusty, craterized)
+  - STOPLIGHT VI A (d dusty, craterized)
+- STOPLIGHT VII (r rocky, creased)
+- STOPLIGHT VIII (q quartz surface)
+  - STOPLIGHT VIII A (d dusty, craterized)
+  - STOPLIGHT VIII B (d dusty, craterized)
+  - STOPLIGHT VIII C (^ unstable)
+
+Guide entries:
+A RED GIANT STAR WITH 5 PLANETS. (DISCOVERED BY SCHMERM 6011 583.22)

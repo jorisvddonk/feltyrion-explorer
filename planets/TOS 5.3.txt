@@ -1,0 +1,6 @@
+Planet: TOS 5.3
+Starmap index: 11
+Paris coordinates: 4373200, 5223248, -1089557
+
+Guide entries:
+ HOW MANY OF THESE MOONS ARE THERE? (STARGAZER. EPOC 6011)

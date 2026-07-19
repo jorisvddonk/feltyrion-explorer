@@ -1,0 +1,14 @@
+Star: BISTARIAL
+Star class: S10
+Paris coordinates: 5411056, 7441017, -1775473
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CLAM (@ large, not consistent)
+- SORZ (q quartz surface)
+
+Guide entries:
+SYSTEM DISCOVERED BY MURRMURR EPOC 6011:607.556
+SYSTEM HAS TWO PLANETS
+WILL INVESTIGATE FURTHER
+(NOTES BY MURRMURR EPOC 6011:607.556)

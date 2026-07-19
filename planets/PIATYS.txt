@@ -1,0 +1,8 @@
+Planet: PIATYS
+Starmap index: 04
+Paris coordinates: 2090751600, -1867804, -44748
+
+Guide entries:
+P04/06 MEDIUM SIZE ROCKY ROUUGH, SCARRED, CRATERS, DULL GREEN, MEDIUM       
+SIZED REFLECTIVE RING. PRO 0.290.520 PRV 0.095.866.552 SKINNYMON 6011       
+793.755                                                                     

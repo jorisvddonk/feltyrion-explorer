@@ -1,0 +1,6 @@
+Star: ASKEW 84
+Star class: S06
+Paris coordinates: 11820944, -19580305, 17491969
+Bodies: 0 (0 planets, 0 moons)
+
+System:

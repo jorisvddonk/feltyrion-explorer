@@ -1,0 +1,6 @@
+Star: THE ESCAPE
+Star class: S10
+Paris coordinates: 550000, 150000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

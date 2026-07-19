@@ -1,0 +1,6 @@
+Planet: SPARTOX
+Starmap index: 01
+Paris coordinates: 4401424, 5320713, -3280121
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011:834.194.)                                    

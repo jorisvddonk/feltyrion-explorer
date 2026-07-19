@@ -1,0 +1,20 @@
+Star: PAENEVITA
+Star class: S00
+Paris coordinates: 5121776, 4075066, -2797361
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- HOT PURPLE HAZE (@ large, not consistent)
+- PV-ANNULUS (r rocky, creased)
+- PAENIUS (n thin atmosphere)
+- PAENEVITA IV (r rocky, creased)
+- APEX NIHIL (@ large, not consistent)
+  - AN-1 (^ unstable)
+  - AN-2 (k thick atmosphere)
+  - AN-3 (r rocky, creased)
+  - AN-4 (d dusty, craterized)
+  - AN-5 (q quartz surface)
+  - AN-6 (r rocky, creased)
+
+Guide entries:
+LIFELESS SYSTEM. INNOMINANDUS EPOC 6011:723.768.791                         

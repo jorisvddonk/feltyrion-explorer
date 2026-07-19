@@ -1,0 +1,24 @@
+Star: KALASANTY PRIME
+Star class: S00
+Paris coordinates: -105412752, 25928537, -610127
+Bodies: 18 (10 planets, 8 moons)
+
+System:
+- MER\SEDES (d dusty, craterized)
+- FAL GOUS (q quartz surface)
+- ZBYHOO (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- FAL PADDLE (f felisian)
+- HAIRA (k thick atmosphere)
+- TOITO (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- WISHNYA (n thin atmosphere)
+- KALI100 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- OBRANAPYRA (q quartz surface)
+- LASTONE (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

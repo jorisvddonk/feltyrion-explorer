@@ -1,0 +1,14 @@
+Star: ORBITARIUM
+Star class: S00
+Paris coordinates: 4442128, 4248589, -942984
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- NOAR (r rocky, creased)
+- Planet #1 (q quartz surface)
+- ORBITAL 1 (f felisian)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- CENTURION (q quartz surface)
+  - B612 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

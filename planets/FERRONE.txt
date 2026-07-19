@@ -1,0 +1,3 @@
+Planet: FERRONE
+Starmap index: 01
+Paris coordinates: -5585680, -76795984, -2183360

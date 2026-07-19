@@ -1,0 +1,6 @@
+Star: ASKEW 161
+Star class: S05
+Paris coordinates: 8416336, -11622971, 12947985
+Bodies: 0 (0 planets, 0 moons)
+
+System:

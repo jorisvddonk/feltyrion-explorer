@@ -1,0 +1,3 @@
+Planet: SIFTING
+Starmap index: 12
+Paris coordinates: 3559632, 4419846, -912889

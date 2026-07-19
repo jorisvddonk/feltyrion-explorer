@@ -1,0 +1,9 @@
+Star: GEETOO-37
+Star class: S06
+Paris coordinates: 6373616, 6219421, -16420457
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL IS HERE

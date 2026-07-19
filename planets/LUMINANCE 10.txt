@@ -1,0 +1,6 @@
+Planet: LUMINANCE 10
+Starmap index: 10
+Paris coordinates: -425712, 797215, -142477
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.059.85)

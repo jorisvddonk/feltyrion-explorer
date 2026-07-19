@@ -1,0 +1,6 @@
+Star: SKT 5
+Star class: S06
+Paris coordinates: 7036432, -170197, -7747595
+Bodies: 0 (0 planets, 0 moons)
+
+System:

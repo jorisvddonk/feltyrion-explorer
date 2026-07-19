@@ -1,0 +1,3 @@
+Planet: ZARKA
+Starmap index: 13
+Paris coordinates: -1862480, -12887279, -2575254

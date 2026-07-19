@@ -1,0 +1,10 @@
+Star: SHELLEYSTAR
+Star class: S00
+Paris coordinates: 4290704, 5753395, -1931866
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BRIND ALPHA (q quartz surface)
+
+Guide entries:
+ STAR DISCOVERED BY MATTHIUS HOOD, TRIADS 658.666.20 ONE PLANET.

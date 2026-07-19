@@ -1,0 +1,3 @@
+Planet: GASH
+Starmap index: 34
+Paris coordinates: 377136, 935675, 1401841

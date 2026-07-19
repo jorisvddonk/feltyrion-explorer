@@ -1,0 +1,6 @@
+Star: HAGA
+Star class: S10
+Paris coordinates: 5663568, 7046546, -4877364
+Bodies: 0 (0 planets, 0 moons)
+
+System:

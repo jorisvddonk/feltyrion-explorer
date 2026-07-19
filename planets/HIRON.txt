@@ -1,0 +1,3 @@
+Planet: HIRON
+Starmap index: 02
+Paris coordinates: 1383920, 5102252, 557940

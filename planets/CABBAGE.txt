@@ -1,0 +1,6 @@
+Planet: CABBAGE
+Starmap index: 02
+Paris coordinates: 4059632, 4833879, -1388853
+
+Guide entries:
+ A PLANET AS DULL AS A CABBAGE. DISCOVERED BY MRUQE; EPOC 6011-567.737

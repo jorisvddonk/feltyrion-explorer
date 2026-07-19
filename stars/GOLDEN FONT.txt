@@ -1,0 +1,30 @@
+Star: GOLDEN FONT
+Star class: S00
+Paris coordinates: 6034256, 4325458, 922876
+Bodies: 19 (8 planets, 11 moons)
+
+System:
+- HYDRANGEIS (k thick atmosphere)
+- KLAFNOK (d dusty, craterized)
+- KIRANA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- ZIRDEX (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- OPAL Q5 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- AMETHYSTE (q quartz surface)
+- CAERVE (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (n thin atmosphere)
+- GUMTHRMA (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ GOLDEN FONT OF LIFE. TRITE AND UNCREATIVE, I KNOW.
+POSSIBLE RECORD OF LIFE-BEARING PLANETS/PLANETOIDS IN THIS SYSTEM.
+ COORECTION AND ADDENDUM: CONTENDER FOR MOST QUARTZITE OBJECTS.

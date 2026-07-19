@@ -1,0 +1,6 @@
+Star: ASKEW 114
+Star class: S05
+Paris coordinates: 2039952, -12163304, 9084901
+Bodies: 0 (0 planets, 0 moons)
+
+System:

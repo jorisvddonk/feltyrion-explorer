@@ -1,0 +1,6 @@
+Star: NYABAR BADAR
+Star class: S09
+Paris coordinates: 9450000, 50000, -9550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,8 @@
+Star: EKA12 SWEET POISON
+Star class: S11
+Paris coordinates: -70772784, -692223, 54091794
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- POISONED TWIN A (n thin atmosphere)
+- POISONED TWIN B (n thin atmosphere)

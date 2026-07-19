@@ -1,0 +1,13 @@
+Star: OMW
+Star class: S10
+Paris coordinates: 1404272, 699802, 1803398
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CUMON (r rocky, creased)
+- EXY (+ substellar object)
+
+Guide entries:
+*MY FOURTH* S10 PLANETARY SYSTEM IN 3 DAYS, AND THE SECOND IN 5 MINUTES.    
+2 PLANETS, 1 THICK ATMOSPHERE, 1 SUBSTELLAR.                                
+(DISCOVERED BY GEEKOFDEATH 6011:711.720.773)                                

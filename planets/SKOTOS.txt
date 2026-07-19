@@ -1,0 +1,6 @@
+Planet: SKOTOS
+Starmap index: 01
+Paris coordinates: 739280, 409824, 758782
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.225

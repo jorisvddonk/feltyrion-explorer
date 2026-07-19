@@ -1,0 +1,8 @@
+Star: MENDOZA VI
+Star class: S04
+Paris coordinates: -18876880, -5671201, 40593680
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (k thick atmosphere)

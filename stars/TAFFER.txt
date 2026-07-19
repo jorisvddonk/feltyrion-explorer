@@ -1,0 +1,9 @@
+Star: TAFFER
+Star class: S06
+Paris coordinates: 3256784, 4947649, -2921800
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE 506 STAR, DISCOVERED BY R.CLEAR 6011:598.12

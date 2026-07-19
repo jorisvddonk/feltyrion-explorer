@@ -1,0 +1,9 @@
+Star: DISTANT FUEL
+Star class: S06
+Paris coordinates: -300327856, -1413679, 54556912
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.576.814

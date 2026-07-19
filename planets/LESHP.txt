@@ -1,0 +1,6 @@
+Planet: LESHP
+Starmap index: 03
+Paris coordinates: 3573200, 4797591, -303987
+
+Guide entries:
+FELSIAN PLANET, AVIAN LIFE FOUND.                                           

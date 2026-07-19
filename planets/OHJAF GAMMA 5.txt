@@ -1,0 +1,3 @@
+Planet: OHJAF GAMMA 5
+Starmap index: 23
+Paris coordinates: -26245072, -19374450, -448831906

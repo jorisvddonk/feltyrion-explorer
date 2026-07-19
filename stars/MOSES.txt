@@ -1,0 +1,12 @@
+Star: MOSES
+Star class: S11
+Paris coordinates: 1577136, 1492069, -37268
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- RUBALLIN (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:584.209
+PULSAR OBJECT. HAS TWO OR MORE PLANETS IN SYSTEM.
+(NOTES BY BJS 584.209)

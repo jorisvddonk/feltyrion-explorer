@@ -1,0 +1,14 @@
+Star: IUSOC
+Star class: S01
+Paris coordinates: 1294640, -20820355, -524859
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- LONDE (n thin atmosphere)
+- KEW (k thick atmosphere)
+- GENOR (q quartz surface)
+  - JOER (^ unstable)
+  - KLINSMANN (d dusty, craterized)
+  - KJAN (n thin atmosphere)
+- NEK (^ unstable)
+  - KITEVOX (d dusty, craterized)

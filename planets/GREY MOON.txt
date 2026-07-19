@@ -1,0 +1,6 @@
+Planet: GREY MOON
+Starmap index: 02
+Paris coordinates: 3121776, 4655657, -835874
+
+Guide entries:
+SMALL MOON, DUSTY, NO ATMOSPHERE, SOME ICE, CRATERS                         

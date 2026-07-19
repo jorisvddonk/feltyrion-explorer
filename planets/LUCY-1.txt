@@ -1,0 +1,3 @@
+Planet: LUCY-1
+Starmap index: 01
+Paris coordinates: -946064, -156848, -609785

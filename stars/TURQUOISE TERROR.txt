@@ -1,0 +1,8 @@
+Star: TURQUOISE TERROR
+Star class: S11
+Paris coordinates: 812144, 471190, -971254
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)

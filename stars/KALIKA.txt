@@ -1,0 +1,22 @@
+Star: KALIKA
+Star class: S00
+Paris coordinates: -83920, 6858315, -1735966
+Bodies: 16 (7 planets, 9 moons)
+
+System:
+- SEKAL (d dusty, craterized)
+- TREMIL (d dusty, craterized)
+- SKARO (f felisian)
+  - KALED (^ unstable)
+  - VROS (d dusty, craterized)
+  - THAL (^ unstable)
+- TARYK (q quartz surface)
+- KELDIAK (k thick atmosphere)
+  - SKELTON (d dusty, craterized)
+  - DEKLA (d dusty, craterized)
+- GHATRI (d dusty, craterized)
+  - FARAQ (^ unstable)
+- TIMIKO (q quartz surface)
+  - JAL (d dusty, craterized)
+  - LEK (d dusty, craterized)
+  - EDAK (d dusty, craterized)

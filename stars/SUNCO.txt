@@ -1,0 +1,12 @@
+Star: SUNCO
+Star class: S00
+Paris coordinates: 6168176, 12790627, 2757727
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- CLO I (k thick atmosphere)
+- CLO II (n thin atmosphere)
+- CLO III (f felisian)
+
+Guide entries:
+DISCOVERED BY MURRMURR EPOC 6011:607.903

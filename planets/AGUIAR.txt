@@ -1,0 +1,6 @@
+Planet: AGUIAR
+Starmap index: 11
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 0.60 / 0.2G -270C 0A (BY NBOAR 6011 588.559)

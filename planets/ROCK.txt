@@ -1,0 +1,3 @@
+Planet: ROCK
+Starmap index: 13
+Paris coordinates: 3652848, 5121750, -1588493

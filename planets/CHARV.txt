@@ -1,0 +1,6 @@
+Planet: CHARV
+Starmap index: 01
+Paris coordinates: 1487856, 6333001, -1174221
+
+Guide entries:
+A STERILE PLANET. KASGOR 6011.469.770

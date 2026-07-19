@@ -1,0 +1,3 @@
+Planet: S02-7184 2
+Starmap index: 02
+Paris coordinates: -39278896, 1471061, 31940585

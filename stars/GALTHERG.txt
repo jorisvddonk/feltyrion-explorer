@@ -1,0 +1,31 @@
+Star: GALTHERG
+Star class: S08
+Paris coordinates: 4928560, 5278806, -2232144
+Bodies: 25 (6 planets, 19 moons)
+
+System:
+- GALTHERG A (* companion star)
+- GALTHERG B (* companion star)
+  - CIRCADIA (f felisian)
+  - GALTHERG B2 (r rocky, creased)
+- GALTHERG 1 (@ large, not consistent)
+  - GALTHERG 1A (d dusty, craterized)
+  - GALTHERG 1B (n thin atmosphere)
+- GALTHERG 2 (r rocky, creased)
+- GALTHERG 3 (@ large, not consistent)
+  - GALTHERG 3A (n thin atmosphere)
+  - GALTHERG 3B (n thin atmosphere)
+  - GALTHERG 3C (d dusty, craterized)
+  - GALTHERG 3D (k thick atmosphere)
+  - GALTHERG 3E (k thick atmosphere)
+  - GALTHERG 3F (n thin atmosphere)
+  - GALTHERG 3G (n thin atmosphere)
+  - GALTHERG 3H (r rocky, creased)
+  - GALTHERG 3I (k thick atmosphere)
+- GALTHERG C (* companion star)
+  - GALTHERG C1 (r rocky, creased)
+  - GALTHERG C2 (d dusty, craterized)
+  - GALTHERG C3 (^ unstable)
+  - GALTHERG C4 (r rocky, creased)
+  - GALTHERG C5 (@ large, not consistent)
+  - GALTHERG C6 (d dusty, craterized)

@@ -1,0 +1,11 @@
+Star: STUGAO
+Star class: S00
+Paris coordinates: 3177136, 4891473, -1613983
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- STUGAO 1 (d dusty, craterized)
+- STUGAO 2 (q quartz surface)
+
+Guide entries:
+DISCOVERED BY POKECAT.(6011.995.843)

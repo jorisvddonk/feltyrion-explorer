@@ -1,0 +1,10 @@
+Star: NARGIL
+Star class: S07
+Paris coordinates: -56784, 115693, -169142
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PLANETLESS BLUE DWARF 6.92LY FROM FELYSIA.
+(DISCOVERED BY SCHMERM 6011 580.76)

@@ -1,0 +1,3 @@
+Planet: DARK LORD
+Starmap index: 06
+Paris coordinates: -2632496, -8819671, 1657423

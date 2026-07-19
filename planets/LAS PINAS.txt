@@ -1,0 +1,3 @@
+Planet: LAS PINAS
+Starmap index: 06
+Paris coordinates: 5107120, 5642162, 170503

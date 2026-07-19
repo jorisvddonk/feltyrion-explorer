@@ -1,0 +1,8 @@
+Planet: EVEMAT
+Starmap index: 03
+Paris coordinates: 2031852592, -464651, -4802779
+
+Guide entries:
+P03/05 MEDIUM SIZE, THICK ATMO, TANNISH COLOR TO CLOUDS WITH A LARGE        
+DARK BAND, VERY SMALL STORM ACTIVITY. PRO 0.100.800 PRV 0.019.047.522       
+SKINNYMON 6011 796.399                                                      

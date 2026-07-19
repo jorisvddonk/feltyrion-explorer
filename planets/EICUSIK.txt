@@ -1,0 +1,7 @@
+Planet: EICUSIK
+Starmap index: 01
+Paris coordinates: 2100238704, -1473419, -594011
+
+Guide entries:
+P01/04 SMALL SOLID THIN ATMO RATHER DARK WITH GOOD POLAR CAPS. PRO 0.       
+276.480 PRV 0.012.645.874 SKINNYMON 6011 793.284                            

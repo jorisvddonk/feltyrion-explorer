@@ -1,0 +1,3 @@
+Planet: VYLONDRE
+Starmap index: 31
+Paris coordinates: -614992, 734031, -1219112

@@ -1,0 +1,7 @@
+Planet: ARGONAS 11.13
+Starmap index: 42
+Paris coordinates: 2163568, 1586571, -1137857
+
+Guide entries:
+ICY, PINK PLANETOID. VERY SMALL, NO ATMOSPHERE.
+(STARGAZER. EPOC 6011:596:892)

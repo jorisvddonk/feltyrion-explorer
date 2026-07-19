@@ -1,0 +1,6 @@
+Star: ASCS 00025
+Star class: S00
+Paris coordinates: 50000, 122511, 95439
+Bodies: 0 (0 planets, 0 moons)
+
+System:

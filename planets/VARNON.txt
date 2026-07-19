@@ -1,0 +1,3 @@
+Planet: VARNON
+Starmap index: 01
+Paris coordinates: 243216, 51201, -462028

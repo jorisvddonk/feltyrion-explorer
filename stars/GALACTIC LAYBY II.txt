@@ -1,0 +1,6 @@
+Star: GALACTIC LAYBY II
+Star class: S06
+Paris coordinates: -1425422192, 978095, 1436882143
+Bodies: 0 (0 planets, 0 moons)
+
+System:

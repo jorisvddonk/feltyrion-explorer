@@ -1,0 +1,16 @@
+Star: NIRVANA
+Star class: S00
+Paris coordinates: 4083920, 5039555, -2105840
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- COBAIN (r rocky, creased)
+- NOVOSELIC (n thin atmosphere)
+- GROHL (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+ DISCOVERD BY MARK SCHULTHEISS AT EPOC 6011:565.445

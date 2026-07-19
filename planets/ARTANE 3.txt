@@ -1,0 +1,6 @@
+Planet: ARTANE 3
+Starmap index: 03
+Paris coordinates: 4421776, 3901041, -2079375
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011.587.156

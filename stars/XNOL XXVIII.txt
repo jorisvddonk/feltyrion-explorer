@@ -1,0 +1,9 @@
+Star: XNOL XXVIII
+Star class: S06
+Paris coordinates: 974288, 5519906, -1522296
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S06 WITH NO SCOPABLE LITHIUM, I.E. BAD STAR!                             

@@ -1,0 +1,3 @@
+Planet: SURIVER
+Starmap index: 01
+Paris coordinates: -263568, 21446, -319080

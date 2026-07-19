@@ -1,0 +1,3 @@
+Planet: LASTONEA
+Starmap index: 17
+Paris coordinates: -62039376, 29283139, 812295

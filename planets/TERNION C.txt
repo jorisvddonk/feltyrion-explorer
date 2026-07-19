@@ -1,0 +1,7 @@
+Planet: TERNION C
+Starmap index: 03
+Paris coordinates: 45874000, 13259263, -635467729
+
+Guide entries:
+THIRD AND SMALLEST STAR IN TRINRY SYSTEM. ONE PLANET ORBITS.                
+(EXPLORED BY NEV, 6011:812.151)                                             

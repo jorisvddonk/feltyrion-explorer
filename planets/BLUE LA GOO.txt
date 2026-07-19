@@ -1,0 +1,3 @@
+Planet: BLUE LA GOO
+Starmap index: 04
+Paris coordinates: 2546064, 3827429, -731391

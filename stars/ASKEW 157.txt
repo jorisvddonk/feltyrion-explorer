@@ -1,0 +1,17 @@
+Star: ASKEW 157
+Star class: S11
+Paris coordinates: 9163824, -13609398, 14800184
+Bodies: 11 (3 planets, 8 moons)
+
+System:
+- ASKEW 157A (d dusty, craterized)
+- ASKEW 157B (d dusty, craterized)
+- ASKEW 157C (@ large, not consistent)
+  - ASKEW 157C1 (q quartz surface)
+  - ASKEW 157C2 (r rocky, creased)
+  - ASKEW 157C3 (i icy surface)
+  - ASKEW 157C4 (k thick atmosphere)
+  - ASKEW 157C5 (n thin atmosphere)
+  - ASKEW 157C6 (i icy surface)
+  - ASKEW 157C7 (i icy surface)
+  - ASKEW 157C8 (i icy surface)

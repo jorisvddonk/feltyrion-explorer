@@ -1,0 +1,39 @@
+Star: VIEMA
+Star class: S09
+Paris coordinates: 1670352, 5452727, -278138
+Bodies: 30 (6 planets, 24 moons)
+
+System:
+- VIEMA 1 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (^ unstable)
+  - VIEMA 15 (k thick atmosphere)
+  - Moon #6 (^ unstable)
+  - Moon #7 (^ unstable)
+  - Moon #8 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (d dusty, craterized)
+  - VIEMA 23 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (^ unstable)
+  - Moon #8 (^ unstable)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (k thick atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.997.139)

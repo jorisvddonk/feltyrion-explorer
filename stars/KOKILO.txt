@@ -1,0 +1,28 @@
+Star: KOKILO
+Star class: S03
+Paris coordinates: 2501424, 4364880, -1388893
+Bodies: 19 (4 planets, 15 moons)
+
+System:
+- MOLTAN (^ unstable)
+- BLUSH (k thick atmosphere)
+- REGRET (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- DARKLORE (@ large, not consistent)
+  - JEWEL OF HATE (^ unstable)
+  - JEWEL OF MISERY (k thick atmosphere)
+  - JEWEL OF DARKNESS (n thin atmosphere)
+  - JEWEL OF IGNORANCE (r rocky, creased)
+  - JEWEL OF TORMENT (n thin atmosphere)
+  - Moon #5 (r rocky, creased)
+  - JEWEL OF DECEIT (q quartz surface)
+  - JEWEL OF CHAOS (f felisian)
+  - JEWEL OF GREED (n thin atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (d dusty, craterized)
+  - JEWEL OF BLOOD (k thick atmosphere)
+  - JEWEL OF DEATH (n thin atmosphere)
+  - Moon #13 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY SEBASTIAN PATTERSON EPOC 6011 683.478                    

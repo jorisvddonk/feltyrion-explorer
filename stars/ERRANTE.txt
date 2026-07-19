@@ -1,0 +1,12 @@
+Star: ERRANTE
+Star class: S10
+Paris coordinates: -470352, 240152, -611320
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.847
+THIS RUNAWAY STAR HAS A COUPLE OF PLANETS

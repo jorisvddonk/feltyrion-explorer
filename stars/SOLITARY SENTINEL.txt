@@ -1,0 +1,6 @@
+Star: SOLITARY SENTINEL
+Star class: S09
+Paris coordinates: 2008208, 4857651, -502592
+Bodies: 0 (0 planets, 0 moons)
+
+System:

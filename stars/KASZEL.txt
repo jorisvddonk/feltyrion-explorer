@@ -1,0 +1,12 @@
+Star: KASZEL
+Star class: S02
+Paris coordinates: -107404880, 24973547, -1984549
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- GRULB (@ large, not consistent)
+- ARKARRIS TAU (q quartz surface)
+- KENKON (@ large, not consistent)
+- HEAVEN WALL (@ large, not consistent)
+- REKUREKURE XVI (q quartz surface)
+- PINKWOOD (@ large, not consistent)

@@ -1,0 +1,7 @@
+Planet: SERPENTINE 8.1
+Starmap index: 23
+Paris coordinates: 218928, 369094, -5434
+
+Guide entries:
+SMALL, SOLID, TENUOUS ATMOSPHERE, EXTREMELY DARK.
+SERPENS, 6011 665.940

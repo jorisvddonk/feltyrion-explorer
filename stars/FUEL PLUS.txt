@@ -1,0 +1,6 @@
+Star: FUEL PLUS
+Star class: S06
+Paris coordinates: -380142864, -1456127, 54185051
+Bodies: 0 (0 planets, 0 moons)
+
+System:

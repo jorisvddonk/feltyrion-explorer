@@ -1,0 +1,14 @@
+Star: OTRASOLAW
+Star class: S00
+Paris coordinates: 1656784, 4198096, -1143538
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- ASIOZERT (d dusty, craterized)
+- MOENOZERT (d dusty, craterized)
+- AGAUZUL (f felisian)
+  - OSUDIIT (n thin atmosphere)
+- LADRIG (k thick atmosphere)
+  - WADAVIE (n thin atmosphere)
+- ONION RINGS (d dusty, craterized)
+  - ALIGNED (d dusty, craterized)

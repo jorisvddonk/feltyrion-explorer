@@ -1,0 +1,3 @@
+Planet: REPITITION
+Starmap index: 72
+Paris coordinates: 70352, 945533, 1134813

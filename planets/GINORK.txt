@@ -1,0 +1,3 @@
+Planet: GINORK
+Starmap index: 51
+Paris coordinates: 3858544, 5745947, 2575799

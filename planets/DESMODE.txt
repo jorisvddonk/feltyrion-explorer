@@ -1,0 +1,6 @@
+Planet: DESMODE
+Starmap index: 03
+Paris coordinates: 18928, 140432, 218872
+
+Guide entries:
+ HUGE TREES

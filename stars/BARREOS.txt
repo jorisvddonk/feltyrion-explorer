@@ -1,0 +1,17 @@
+Star: BARREOS
+Star class: S00
+Paris coordinates: 1529648, 736568, -2611102
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- CARTOGA (d dusty, craterized)
+
+Guide entries:
+NAMED BY BEN, EPOC 6011 793:454:685                                         
+NAMED SUCH BECAUSE OF THE BARREN NATURE OF THE SYSTEM.                      

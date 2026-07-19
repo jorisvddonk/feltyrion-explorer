@@ -1,0 +1,11 @@
+Star: LITHIUM+
+Star class: S06
+Paris coordinates: 3421776, 5225800, -1045403
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LARGE SOURCE OF LI+
+STAR DISCOVERED BY XVOLUTION, EPOC 6011:603.835
+NO PLANEST FOUND

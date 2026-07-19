@@ -1,0 +1,13 @@
+Star: MINSEAN II
+Star class: S00
+Paris coordinates: 3848912, 4136426, 104479
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- HOT AIR (n thin atmosphere)
+- DRY TERRA (n thin atmosphere)
+- MELLOW HAIRSPRAY (f felisian)
+
+Guide entries:
+YELLOW STAR. 3 PLANETS(ONE FELISIAN), ALL IN FAIRLY CLOSE ORBITS.           
+NAMED AND DISCOVERED BY RYAN GJK, EPOC 6011, 778.976                        

@@ -1,0 +1,6 @@
+Star: CHOLISH
+Star class: S10
+Paris coordinates: 2294640, 4056955, -1624783
+Bodies: 0 (0 planets, 0 moons)
+
+System:

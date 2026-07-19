@@ -1,0 +1,6 @@
+Star: PITSTOP 42
+Star class: S06
+Paris coordinates: -39623536, 1384388, 31722836
+Bodies: 0 (0 planets, 0 moons)
+
+System:

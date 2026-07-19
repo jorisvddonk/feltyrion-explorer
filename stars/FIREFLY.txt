@@ -1,0 +1,13 @@
+Star: FIREFLY
+Star class: S10
+Paris coordinates: 4411056, 4582815, -757700
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SALADAR (k thick atmosphere)
+- RED RING (+ substellar object)
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 565 956
+FURTHER NOTES: A CLASS S10 STAR WITH TWO PLANETS OF MINOR INTEREST.
+SKINNYMON EPOC 6011 567.521

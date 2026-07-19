@@ -1,0 +1,9 @@
+Star: MINA
+Star class: S05
+Paris coordinates: 3263568, 6712529, -2502934
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY RAPTORJEDI EPOC 6011 605.188

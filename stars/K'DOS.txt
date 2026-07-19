@@ -1,0 +1,17 @@
+Star: K'DOS
+Star class: S02
+Paris coordinates: -694640, 30375151, 157987
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- IRRIM (q quartz surface)
+- TRACKLI (n thin atmosphere)
+- TRASA (q quartz surface)
+- YAYL (d dusty, craterized)
+- ONAAYYA (d dusty, craterized)
+- AYPAR (d dusty, craterized)
+- ONADHA (r rocky, creased)
+- FHAK (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 632.826

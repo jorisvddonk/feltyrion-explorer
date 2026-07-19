@@ -1,0 +1,3 @@
+Planet: FENILIA 16
+Starmap index: 16
+Paris coordinates: 5638192, 5004262, -353473

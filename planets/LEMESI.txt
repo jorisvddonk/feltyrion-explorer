@@ -1,0 +1,3 @@
+Planet: LEMESI
+Starmap index: 02
+Paris coordinates: 2394640, 4207114, -1644127

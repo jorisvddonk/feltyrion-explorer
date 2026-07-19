@@ -1,0 +1,35 @@
+Star: DEN CHAWARRE
+Star class: S08
+Paris coordinates: -21119856, 889084, -11694600
+Bodies: 25 (4 planets, 21 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (+ substellar object)
+- DEN CHAWARRE C (* companion star)
+  - KOBA (q quartz surface)
+  - VIENRA (q quartz surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (^ unstable)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (+ substellar object)
+  - DRASENN (f felisian)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (+ substellar object)
+- DEN CHAWARRE D (* companion star)
+  - GEDAAME (q quartz surface)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (^ unstable)
+  - Moon #4 (d dusty, craterized)
+  - NODZAREM (f felisian)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (n thin atmosphere)
+
+Guide entries:
+S08; 4 MAJORS, 21 MINORS
+DISCOVERED BY SYFEN (6011:609.550)

@@ -1,0 +1,3 @@
+Planet: METHAR
+Starmap index: 26
+Paris coordinates: 3890704, 4320850, -1439499

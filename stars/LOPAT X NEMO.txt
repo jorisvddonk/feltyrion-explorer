@@ -1,0 +1,6 @@
+Star: LOPAT X NEMO
+Star class: S10
+Paris coordinates: 550000, 51850000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

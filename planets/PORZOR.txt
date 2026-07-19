@@ -1,0 +1,3 @@
+Planet: PORZOR
+Starmap index: 20
+Paris coordinates: -40368, 5083976, 2470886

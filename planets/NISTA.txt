@@ -1,0 +1,3 @@
+Planet: NISTA
+Starmap index: 10
+Paris coordinates: 2628560, -26514628, 119618

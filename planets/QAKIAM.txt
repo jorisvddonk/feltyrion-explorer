@@ -1,0 +1,3 @@
+Planet: QAKIAM
+Starmap index: 05
+Paris coordinates: 6007536, 6148158, -14180541

@@ -1,0 +1,7 @@
+Planet: CLYGA
+Starmap index: 02
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+P02/09 VERY LARGE SUBSTELLAR OBJECT. PINK WITH LARGE DEBRIS RING. PRO       
+0.252.360 PRV 0.022.677.338 SKINNYMON EPOC 6011 791.350                     

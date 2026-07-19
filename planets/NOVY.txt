@@ -1,0 +1,6 @@
+Planet: NOVY
+Starmap index: 01
+Paris coordinates: -481072, -153, 650323
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.426

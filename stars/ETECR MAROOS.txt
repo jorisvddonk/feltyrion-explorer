@@ -1,0 +1,9 @@
+Star: ETECR MAROOS
+Star class: S06
+Paris coordinates: 11301168, 19619575, -33370439
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06 (DISCOVERED NY NEUZD, 6011:794.008)                    

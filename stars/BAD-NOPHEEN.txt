@@ -1,0 +1,9 @@
+Star: BAD-NOPHEEN
+Star class: S06
+Paris coordinates: 220174288, -892982, -220477967
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR LITHIUM SCOPING. (DISCOVERED BY NEUZD, 6011:814.552)     

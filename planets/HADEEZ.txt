@@ -1,0 +1,3 @@
+Planet: HADEEZ
+Starmap index: 05
+Paris coordinates: 8303184, 5908820, -1251717

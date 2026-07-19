@@ -1,0 +1,3 @@
+Planet: JADORE
+Starmap index: 02
+Paris coordinates: 4162480, 4129830, 471229

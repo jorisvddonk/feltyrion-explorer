@@ -1,0 +1,42 @@
+Star: ISLANDIA
+Star class: S09
+Paris coordinates: 1375376, 4768945, -5652465
+Bodies: 32 (8 planets, 24 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (^ unstable)
+  - Moon #0 (n thin atmosphere)
+- DORING (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - BANNAR (f felisian)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (^ unstable)
+- TAMPLIN (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - REEVES (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (^ unstable)
+  - Moon #9 (^ unstable)
+  - Moon #10 (r rocky, creased)
+- Planet #5 (+ substellar object)
+  - Moon #0 (^ unstable)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (n thin atmosphere)
+- Planet #7 (d dusty, craterized)
+
+Guide entries:
+S09 STAR WITH 2 FELISIAN BOIDIES - R02/P04 (BANNAR) AND...
+R02/P05 (REEVES). FOUND BY RICHARD SOLENSKY EPOC 6011-572.909.430

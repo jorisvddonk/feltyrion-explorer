@@ -1,0 +1,6 @@
+Star: GREY SOURCE 23
+Star class: S06
+Paris coordinates: 20053520, 54036889, -8306871
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,31 @@
+Star: AS01030202
+Star class: S04
+Paris coordinates: 52681488, 454949, 1981762261
+Bodies: 22 (12 planets, 10 moons)
+
+System:
+- AS01030202A (q quartz surface)
+- AS01030202B (@ large, not consistent)
+- AS01030202C (r rocky, creased)
+  - AS01030202C1 (d dusty, craterized)
+- AS01030202D (q quartz surface)
+  - AS01030202D1 (n thin atmosphere)
+  - AS01030202D2 (d dusty, craterized)
+- AS01030202E (d dusty, craterized)
+  - AS01030202E1 (n thin atmosphere)
+- AS01030202F (d dusty, craterized)
+  - AS01030202F1 (n thin atmosphere)
+- AS01030202G (k thick atmosphere)
+  - AS01030202G1 (d dusty, craterized)
+- AS01030202H (q quartz surface)
+- AS01030202I (d dusty, craterized)
+- AS01030202J (@ large, not consistent)
+  - AS01030202J1 (i icy surface)
+  - AS01030202J2 (i icy surface)
+- AS01030202K (n thin atmosphere)
+  - AS01030202K1 (n thin atmosphere)
+- AS01030202L (i icy surface)
+  - AS01030202L1 (d dusty, craterized)
+
+Guide entries:
+NO HABITABLE PLANETS.

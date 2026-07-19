@@ -1,0 +1,23 @@
+Star: GEETOO-33
+Star class: S00
+Paris coordinates: 6007536, 6148158, -14180541
+Bodies: 17 (6 planets, 11 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (@ large, not consistent)
+- QAKIAM (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)

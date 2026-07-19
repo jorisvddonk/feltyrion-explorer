@@ -1,0 +1,3 @@
+Planet: ARID II
+Starmap index: 02
+Paris coordinates: 6048912, 5024188, -2079836

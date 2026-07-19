@@ -1,0 +1,10 @@
+Star: CENTURION A100
+Star class: S00
+Paris coordinates: 1575952, 3915214, -56082526
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- JAVEL (d dusty, craterized)
+- SIGEL (r rocky, creased)
+- TURMA (d dusty, craterized)
+  - SEMPAL (^ unstable)

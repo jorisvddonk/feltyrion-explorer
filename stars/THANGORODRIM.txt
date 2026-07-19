@@ -1,0 +1,22 @@
+Star: THANGORODRIM
+Star class: S04
+Paris coordinates: 23694896, 4940515, 220879
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (+ substellar object)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (@ large, not consistent)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:579.302
+ONLY SMALL, BARREN PLANETS AND GAS GIANTS POPULATE THIS SYSTEM,
+WITH THE EXCEPTION OF TWO PLANETS WITH OXYGEN ATMOSPHERE, BUT
+UNFIT FOR LIFE, ANYWAY.

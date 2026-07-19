@@ -1,0 +1,3 @@
+Planet: GUMBLIS TWE
+Starmap index: 03
+Paris coordinates: 2101424, 2442806, -935556

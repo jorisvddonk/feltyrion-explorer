@@ -1,0 +1,6 @@
+Planet: ALGO
+Starmap index: 05
+Paris coordinates: 4363568, 5387748, -3560998
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011:834.234.)                                    

@@ -1,0 +1,3 @@
+Planet: THALAX-C
+Starmap index: 03
+Paris coordinates: 2987856, 4262240, -2661222

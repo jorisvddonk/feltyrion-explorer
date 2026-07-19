@@ -1,0 +1,3 @@
+Planet: KARUBY-D-FELYS
+Starmap index: 04
+Paris coordinates: 264656, 434473, -3302103

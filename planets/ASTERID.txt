@@ -1,0 +1,3 @@
+Planet: ASTERID
+Starmap index: 21
+Paris coordinates: 11052016, -19159857, 17954467

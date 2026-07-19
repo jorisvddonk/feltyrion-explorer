@@ -1,0 +1,6 @@
+Star: PITSTOP 29
+Star class: S06
+Paris coordinates: 268560, -253267, 1067268433
+Bodies: 0 (0 planets, 0 moons)
+
+System:

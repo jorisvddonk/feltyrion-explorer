@@ -1,0 +1,8 @@
+Planet: KURAFH
+Starmap index: 14
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+ M1/P05 MEDIUM SIZED THICK ATMO CLOUD COVER. SLIGHT PURPLE TINGE IN         
+NORTH, UNSETTLED IN SOUTH REGIONS. PRO 0.127.800 PRV 0.000.875.991          
+SKINNYMON 6011 791.355                                                      

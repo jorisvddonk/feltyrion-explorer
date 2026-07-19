@@ -1,0 +1,3 @@
+Planet: RICHESSE-B
+Starmap index: 02
+Paris coordinates: 2606448, -710817, -7025642

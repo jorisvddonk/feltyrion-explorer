@@ -1,0 +1,9 @@
+Planet: ISFESILIA
+Starmap index: 14
+Paris coordinates: 3857872, 5537093, -7120928
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.689.269 -                                
+PLACES TO VISIT:                                                            
+357.50:-12.26                                                               
+0.42:-41.-34                                                                

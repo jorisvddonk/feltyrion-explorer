@@ -1,0 +1,3 @@
+Planet: THE EMERALD
+Starmap index: 03
+Paris coordinates: 3835344, 5233056, -684851

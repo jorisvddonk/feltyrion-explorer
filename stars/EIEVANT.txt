@@ -1,0 +1,12 @@
+Star: EIEVANT
+Star class: S00
+Paris coordinates: 2130305712, -1733326, 162530
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SESLOL (@ large, not consistent)
+- SISPUL (n thin atmosphere)
+
+Guide entries:
+S00 WITH 2 PLANETS- NO FELISIAN OF COURSE. 1.09804344 TEMP 5852 K RAD       
+23-24 KR COR 2130305712; -173326; 162530 SKINNYMON 6011 791.663             

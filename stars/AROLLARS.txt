@@ -1,0 +1,11 @@
+Star: AROLLARS
+Star class: S00
+Paris coordinates: 6231408, 4069308, -1418090
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CRILLA (r rocky, creased)
+- WHILLA (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.846)

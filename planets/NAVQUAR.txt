@@ -1,0 +1,3 @@
+Planet: NAVQUAR
+Starmap index: 01
+Paris coordinates: 3520016, 7746807, -7149577

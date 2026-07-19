@@ -1,0 +1,11 @@
+Star: ZOMEC
+Star class: S05
+Paris coordinates: 2632496, 5972588, -1555296
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ZAAG (d dusty, craterized)
+- MUGG (q quartz surface)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.187

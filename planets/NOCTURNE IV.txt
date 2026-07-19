@@ -1,0 +1,3 @@
+Planet: NOCTURNE IV
+Starmap index: 02
+Paris coordinates: 4111056, 4395355, -467643

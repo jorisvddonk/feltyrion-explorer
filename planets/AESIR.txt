@@ -1,0 +1,3 @@
+Planet: AESIR
+Starmap index: 02
+Paris coordinates: 14757456, 8159489, -4721068

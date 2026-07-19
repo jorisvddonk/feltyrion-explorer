@@ -1,0 +1,3 @@
+Planet: KIELM
+Starmap index: 01
+Paris coordinates: 5327472, 4299442, 1208799

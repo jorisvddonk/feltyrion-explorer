@@ -1,0 +1,3 @@
+Planet: TANKMOON7-05-09
+Starmap index: 25
+Paris coordinates: 6344976, 7429440, -652444

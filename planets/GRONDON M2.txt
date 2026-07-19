@@ -1,0 +1,3 @@
+Planet: GRONDON M2
+Starmap index: 14
+Paris coordinates: 4066416, 5645367, -1158831

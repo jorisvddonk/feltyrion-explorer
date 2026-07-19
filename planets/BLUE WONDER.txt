@@ -1,0 +1,3 @@
+Planet: BLUE WONDER
+Starmap index: 04
+Paris coordinates: 3555696, 4747547, 558041

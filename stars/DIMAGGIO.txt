@@ -1,0 +1,27 @@
+Star: DIMAGGIO
+Star class: S08
+Paris coordinates: 122864, 336219, -1574904
+Bodies: 16 (3 planets, 13 moons)
+
+System:
+- VINCE DIMAGGIO (* companion star)
+  - Moon #0 (k thick atmosphere)
+- DOM DIMAGGIO (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (r rocky, creased)
+- JOE DIMAGGIO (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (^ unstable)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (+ substellar object)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (@ large, not consistent)
+  - JOE DIMAGGIO X (f felisian)
+
+Guide entries:
+S08 SYSTEM WITH 3 COMPANION STARS
+FOUND BY RICHARD SOLENSKY EPOC 6011-583.477.140
+R10/P03 IS FELISIAN.

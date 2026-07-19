@@ -1,0 +1,6 @@
+Star: REFUELING STAR
+Star class: S06
+Paris coordinates: 3552848, 3645109, -1238973
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: PITSTOP 15
+Star class: S06
+Paris coordinates: -428112, 319109, 140989644
+Bodies: 0 (0 planets, 0 moons)
+
+System:

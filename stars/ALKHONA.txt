@@ -1,0 +1,6 @@
+Star: ALKHONA
+Star class: S08
+Paris coordinates: 1550000, 750000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

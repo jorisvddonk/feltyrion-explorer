@@ -1,0 +1,6 @@
+Planet: LEOFELFOR-1
+Starmap index: 15
+Paris coordinates: -29648, -1258023, 1474796
+
+Guide entries:
+SMALL, NO ATMOSPHERE. CRATERISED.

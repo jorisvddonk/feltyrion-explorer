@@ -1,0 +1,6 @@
+Star: FUEL STATION GAMMA
+Star class: S06
+Paris coordinates: -72382672, -1529683, 30006650
+Bodies: 0 (0 planets, 0 moons)
+
+System:

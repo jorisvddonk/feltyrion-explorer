@@ -1,0 +1,3 @@
+Planet: SUGF
+Starmap index: 13
+Paris coordinates: 2628560, -26514628, 119618

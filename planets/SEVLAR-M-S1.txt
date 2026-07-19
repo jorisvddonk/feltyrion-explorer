@@ -1,0 +1,3 @@
+Planet: SEVLAR-M-S1
+Starmap index: 53
+Paris coordinates: 1116080, 2928478, -3043292

@@ -1,0 +1,6 @@
+Star: WILLIAM_HALSEY
+Star class: S06
+Paris coordinates: 586096, 3805709, -6217239
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: POX
+Starmap index: 07
+Paris coordinates: 3955696, 5000472, 437976

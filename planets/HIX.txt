@@ -1,0 +1,6 @@
+Planet: HIX
+Starmap index: 37
+Paris coordinates: 10700592, -19048169, 17432791
+
+Guide entries:
+FOUND EPOC 6011 586.377.120 BY ROLAND ASKEW

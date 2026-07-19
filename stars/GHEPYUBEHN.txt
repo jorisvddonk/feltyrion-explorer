@@ -1,0 +1,6 @@
+Star: GHEPYUBEHN
+Star class: S00
+Paris coordinates: 550000, 51350000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

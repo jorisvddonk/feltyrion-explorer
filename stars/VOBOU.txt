@@ -1,0 +1,8 @@
+Star: VOBOU
+Star class: S02
+Paris coordinates: 3435344, 4462017, -334724
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)

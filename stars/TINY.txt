@@ -1,0 +1,15 @@
+Star: TINY
+Star class: S11
+Paris coordinates: 4266416, 4555884, -1153667
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- TINY1 (@ large, not consistent)
+- TINY2 (d dusty, craterized)
+- TINY3 (@ large, not consistent)
+  - TINY3A (i icy surface)
+  - TINY3B (i icy surface)
+  - TINY3C (i icy surface)
+
+Guide entries:
+FIRST S11 VISITED BY DEREK YEUNG 6011 580.859.70

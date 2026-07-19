@@ -1,0 +1,3 @@
+Planet: BALAK
+Starmap index: 02
+Paris coordinates: 2107120, 31320936, 3248212

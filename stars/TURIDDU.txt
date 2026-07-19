@@ -1,0 +1,6 @@
+Star: TURIDDU
+Star class: S06
+Paris coordinates: 12758544, 7498221, -6251051
+Bodies: 0 (0 planets, 0 moons)
+
+System:

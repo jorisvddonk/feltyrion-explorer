@@ -1,0 +1,3 @@
+Planet: FLATEA
+Starmap index: 01
+Paris coordinates: 343216, 29704, -630374

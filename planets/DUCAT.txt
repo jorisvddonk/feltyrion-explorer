@@ -1,0 +1,7 @@
+Planet: DUCAT
+Starmap index: 02
+Paris coordinates: 3277136, 4829407, -1500921
+
+Guide entries:
+MEDIUM SIZED, ROCKY AND CREASED, NO ATMOSPHERE, NO LIFE.
+(N5CORP ON 6011:627.516)

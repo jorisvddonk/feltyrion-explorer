@@ -1,0 +1,10 @@
+Star: DIFFERENT SIBILING
+Star class: S11
+Paris coordinates: 4083920, 4439555, -2071621
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY LEXUS- EPOC 6011.841.170- 1 PLANET                           

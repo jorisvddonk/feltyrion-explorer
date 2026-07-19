@@ -1,0 +1,6 @@
+Planet: THANITAL
+Starmap index: 03
+Paris coordinates: 1939280, 4734008, -467041
+
+Guide entries:
+DISCOVERED BY CUNICULI, EPOC 6011:587.810

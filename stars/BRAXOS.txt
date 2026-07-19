@@ -1,0 +1,22 @@
+Star: BRAXOS
+Star class: S00
+Paris coordinates: 18928, 140432, 218872
+Bodies: 16 (9 planets, 7 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- DESMODE (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)

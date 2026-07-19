@@ -1,0 +1,8 @@
+Planet: TYRESI
+Starmap index: 03
+Paris coordinates: 2130850352, -1636894, 447026
+
+Guide entries:
+P03/06 MEDIUMM SIZE THICK ATMO COVERED WITH CLOUDS. VERY PURPLE VERY        
+AGITATED LOOKING SMALL STORM NOTED. PRO 0.296.560 PRV 0.030.666.130         
+SKINNYMON 6011 791.732                                                      

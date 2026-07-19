@@ -1,0 +1,3 @@
+Planet: ASKEW 46T4
+Starmap index: 64
+Paris coordinates: 11669520, -19273131, 16728031

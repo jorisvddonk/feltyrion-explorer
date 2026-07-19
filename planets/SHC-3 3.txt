@@ -1,0 +1,6 @@
+Planet: SHC-3 3
+Starmap index: 03
+Paris coordinates: -27248368, -15847229, -1002309845
+
+Guide entries:
+ANOTHER BLOB OF GAS. (SHADOWCLAW 6011:595.273)

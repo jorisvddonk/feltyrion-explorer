@@ -1,0 +1,8 @@
+Star: HIGHWAY 4
+Star class: S11
+Paris coordinates: -20313648, -5356870, 37871746
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)

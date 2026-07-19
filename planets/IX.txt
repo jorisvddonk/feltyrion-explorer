@@ -1,0 +1,7 @@
+Planet: IX
+Starmap index: 02
+Paris coordinates: 3876048, 4435559, 1533268
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 571.710
+GOLD GAS PLANET

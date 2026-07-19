@@ -1,0 +1,6 @@
+Planet: TARCIS
+Starmap index: 04
+Paris coordinates: 3952848, 4820328, -1619072
+
+Guide entries:
+HABITABLE ARCTIC. SEVERAL BIRD/ANIMAL TYPES, BUT NO PLANTS FOUND.

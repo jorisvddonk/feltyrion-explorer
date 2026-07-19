@@ -1,0 +1,10 @@
+Star: ZOBROK
+Star class: S06
+Paris coordinates: 1852848, 2665639, 193509
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CATALOGUED BY ZAP MORTON, EPOC 6011:566.663
+NO PLANETS. CAN SCOPE FOR LITHIUM.

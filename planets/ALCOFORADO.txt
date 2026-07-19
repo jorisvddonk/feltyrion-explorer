@@ -1,0 +1,6 @@
+Planet: ALCOFORADO
+Starmap index: 01
+Paris coordinates: 4873200, 4885727, -1391831
+
+Guide entries:
+UNSTABLE (BY NBOAR 6011 588.802)

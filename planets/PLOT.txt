@@ -1,0 +1,7 @@
+Planet: PLOT
+Starmap index: 09
+Paris coordinates: 74288, 47959, -394282
+
+Guide entries:
+VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011
+580.403

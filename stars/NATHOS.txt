@@ -1,0 +1,10 @@
+Star: NATHOS
+Star class: S02
+Paris coordinates: 4401424, 5320713, -3280121
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- SPARTOX (q quartz surface)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (+ substellar object)

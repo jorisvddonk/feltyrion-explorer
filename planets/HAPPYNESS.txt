@@ -1,0 +1,3 @@
+Planet: HAPPYNESS
+Starmap index: 01
+Paris coordinates: -61684016, 29753985, -55639

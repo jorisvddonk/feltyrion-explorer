@@ -1,0 +1,31 @@
+Star: EKA5 RED FATHER
+Star class: S03
+Paris coordinates: -71562064, -598009, 53608687
+Bodies: 25 (11 planets, 14 moons)
+
+System:
+- NONCONFORMIST (q quartz surface)
+- SON OF SUN (q quartz surface)
+- INCREDIBLE (r rocky, creased)
+  - JEALOUSY (d dusty, craterized)
+- NUCLEAR WAR (k thick atmosphere)
+- TOBACCO (k thick atmosphere)
+  - CIGARETTE BUTT (d dusty, craterized)
+- STEALTH (n thin atmosphere)
+- CAMOUFLAGE (n thin atmosphere)
+  - AMATEUR CAMOUFLAGE (d dusty, craterized)
+- MUDDLED (r rocky, creased)
+  - TORMENT (^ unstable)
+- MALT (@ large, not consistent)
+  - MILK CHOCOLATE (k thick atmosphere)
+  - TIE DYED (i icy surface)
+  - LAND O' LAVA (^ unstable)
+  - MINT ICE CREAM (i icy surface)
+  - STRAWBERRY ICE CREAM (i icy surface)
+  - YELLOW IN THE SNOW (i icy surface)
+  - BROWN IN THE SNOW (i icy surface)
+  - SNOW (i icy surface)
+- TILT-A-WHIRL (q quartz surface)
+  - NO SEATBELT (^ unstable)
+- FROZEN FLAME (d dusty, craterized)
+  - ASHES (n thin atmosphere)

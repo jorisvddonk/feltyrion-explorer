@@ -1,0 +1,3 @@
+Planet: TIBIA
+Starmap index: 71
+Paris coordinates: 9837776, 8235999, 8907617

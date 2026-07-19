@@ -1,0 +1,12 @@
+Star: OLD RED
+Star class: S03
+Paris coordinates: 4179984, 4425408, -507835
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OLD RED ONE (@ large, not consistent)
+
+Guide entries:
+VERY LARGE, ANCIENT, RED GIANT STAR DISC. BY MIN KA, EPOC 6011:605.726
+MASS: 2.47223902 BMS, SURF. TEMP.: 3130 DEG K.
+(NOTES BY MIN KA, EPOC 6011:605.727)

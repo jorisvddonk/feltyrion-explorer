@@ -1,0 +1,23 @@
+Star: CORINTHIA
+Star class: S00
+Paris coordinates: 4469264, 4387862, 683077
+Bodies: 14 (7 planets, 7 moons)
+
+System:
+- BOILING ICE (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- CASTELLAN (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- GREEN ICE (d dusty, craterized)
+- FIREBALL CHEESE (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - PURPLE BOREDOM (d dusty, craterized)
+  - Moon #2 (i icy surface)
+
+Guide entries:
+DISCOVERED BY BRIAN KWAN, EPOC 6011:565.44

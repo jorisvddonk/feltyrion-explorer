@@ -1,0 +1,6 @@
+Planet: BERENE
+Starmap index: 02
+Paris coordinates: 10876304, -19348790, 17927220
+
+Guide entries:
+FOUND EPOC 6011 586.912.350 BY ROLAND ASKEW

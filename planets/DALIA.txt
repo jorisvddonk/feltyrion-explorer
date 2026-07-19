@@ -1,0 +1,6 @@
+Planet: DALIA
+Starmap index: 25
+Paris coordinates: 11052016, -19059857, 17952287
+
+Guide entries:
+FOUND EPOC 6011 588.092.800 BY ROLAND ASKEW

@@ -1,0 +1,7 @@
+Planet: AILA
+Starmap index: 01
+Paris coordinates: 994640, -139762, -233042
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.248
+A QUARTZ PLANET. THOSE ARE PRETTY.

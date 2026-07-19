@@ -1,0 +1,6 @@
+Star: NEWA
+Star class: S10
+Paris coordinates: 1681072, 4038936, -1824421
+Bodies: 0 (0 planets, 0 moons)
+
+System:

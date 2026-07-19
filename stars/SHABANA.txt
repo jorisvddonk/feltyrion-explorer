@@ -1,0 +1,10 @@
+Star: SHABANA
+Star class: S05
+Paris coordinates: 3697488, 4716870, -875868
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- TCG (@ large, not consistent)
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING DISCOVERED BY R.CLEAR 6011:594.182

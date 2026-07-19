@@ -1,0 +1,3 @@
+Planet: ASKEW 102C4
+Starmap index: 09
+Paris coordinates: 2545392, -12116486, -10361800

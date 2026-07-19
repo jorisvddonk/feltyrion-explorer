@@ -1,0 +1,3 @@
+Planet: DISTANT ICE
+Starmap index: 46
+Paris coordinates: -187856, 283432, 60619

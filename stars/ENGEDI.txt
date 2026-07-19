@@ -1,0 +1,18 @@
+Star: ENGEDI
+Star class: S03
+Paris coordinates: 1785008, 4284189, -3592315
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- MIGDOL (f felisian)
+- BEAUX YEUX (k thick atmosphere)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

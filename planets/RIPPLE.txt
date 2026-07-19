@@ -1,0 +1,3 @@
+Planet: RIPPLE
+Starmap index: 09
+Paris coordinates: 663568, 1836709, 279372

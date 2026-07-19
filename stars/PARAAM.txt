@@ -1,0 +1,36 @@
+Star: PARAAM
+Star class: S00
+Paris coordinates: 4142128, 4182625, -529864
+Bodies: 26 (12 planets, 14 moons)
+
+System:
+- PASCUIL (k thick atmosphere)
+- KYLE'S QUARTZ BEAUTY (q quartz surface)
+- GIVYNTI (r rocky, creased)
+  - DEMORCT (d dusty, craterized)
+  - PIVONY (^ unstable)
+- RED EARTH (f felisian)
+  - FUBALIAM (n thin atmosphere)
+  - CETENEOR (d dusty, craterized)
+- DOCETISM (f felisian)
+- GLORDOCIT (r rocky, creased)
+  - PLIMOSUS (d dusty, craterized)
+  - THAGNESUR (d dusty, craterized)
+- TREEG (d dusty, craterized)
+  - SNEIP (d dusty, craterized)
+- PONISIL (k thick atmosphere)
+  - VEGISIF (n thin atmosphere)
+- TITERIYD (r rocky, creased)
+  - VAPER (d dusty, craterized)
+- OSSAY (q quartz surface)
+  - ELTAO (d dusty, craterized)
+  - ISCAU (d dusty, craterized)
+- UXAUG (n thin atmosphere)
+- DOISO (q quartz surface)
+  - LOOSY (d dusty, craterized)
+  - LEOSE (d dusty, craterized)
+  - GOOFA (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 12 PLANETS AND 14 MOONS, 2
+FELISIAN WORLDS. SKINNYMON EPOC 6011 592.494

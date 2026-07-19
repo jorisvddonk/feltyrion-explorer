@@ -1,0 +1,7 @@
+Planet: LUMINANCE 8
+Starmap index: 08
+Paris coordinates: -425712, 797215, -142477
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.059.82)
+MADE OF WHITE QUARZ.POKECAT(6012.059.83)

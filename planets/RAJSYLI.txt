@@ -1,0 +1,7 @@
+Planet: RAJSYLI
+Starmap index: 04
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+P04/12 MEDIUM SIZE ROCKY, ROUGH, PINKISH COLOR.                             
+PRO 0.234/000 PRV 0.034.448.704 SKINNYMON 6011 797.92                       

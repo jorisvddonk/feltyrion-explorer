@@ -1,0 +1,31 @@
+Star: PATINE
+Star class: S00
+Paris coordinates: 87856, -5814, 275087
+Bodies: 21 (7 planets, 14 moons)
+
+System:
+- VERDIGRIS (q quartz surface)
+- RADISH (r rocky, creased)
+- INDEED (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - RATSBANE (d dusty, craterized)
+- SWANK (@ large, not consistent)
+  - PALLITATE (n thin atmosphere)
+  - LOZENGE (d dusty, craterized)
+  - GUAVA (d dusty, craterized)
+  - DISUSE (d dusty, craterized)
+  - EXPEL (k thick atmosphere)
+  - INFAMY (^ unstable)
+  - OXBLOOD (^ unstable)
+  - PLATTER (k thick atmosphere)
+  - DE SON TORT (f felisian)
+- NE EXEAT (f felisian)
+  - PUNGENT (n thin atmosphere)
+- LURCH (d dusty, craterized)
+  - EXCITE (d dusty, craterized)
+- BERATE (k thick atmosphere)
+  - FED (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 SYSTEM WITH 7 PLANETS, 14 MOONS, TWO FELISIAN WORLDS.
+SKINNYMON EPOC 6011 581.90

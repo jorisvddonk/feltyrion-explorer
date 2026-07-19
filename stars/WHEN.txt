@@ -1,0 +1,11 @@
+Star: WHEN
+Star class: S02
+Paris coordinates: 312144, -257153, -523914
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A SYSTEM WITH... 0 BODIES!
+COME HERE IF YOU WANT SOLITUDE.
+DISCOVERED BY EXPLORER EPOC 6011:568.248

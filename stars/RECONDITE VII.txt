@@ -1,0 +1,6 @@
+Star: RECONDITE VII
+Star class: S06
+Paris coordinates: 384650000, 40450000, -384750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

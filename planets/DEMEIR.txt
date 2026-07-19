@@ -1,0 +1,7 @@
+Planet: DEMEIR
+Starmap index: 01
+Paris coordinates: -22019856, 672974, -10838518
+
+Guide entries:
+FAIHA 1; SMALL, SOLID, THIN ATMOSPHERE
+PINK, WITH BLUE STARRY SKIES

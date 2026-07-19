@@ -1,0 +1,24 @@
+Star: WANALE
+Star class: S11
+Paris coordinates: 3951760, 5640032, 2112631
+Bodies: 18 (4 planets, 14 moons)
+
+System:
+- VORRYK (d dusty, craterized)
+- THUKK (d dusty, craterized)
+- KNORROK (d dusty, craterized)
+  - TSCHAN (i icy surface)
+- BRINXO (@ large, not consistent)
+  - FLADAGID (i icy surface)
+  - TRUEGG (n thin atmosphere)
+  - KNAGO (i icy surface)
+  - CIVKO (i icy surface)
+  - SUERUELLUE (i icy surface)
+  - KROORT (d dusty, craterized)
+  - ENKOLI (k thick atmosphere)
+  - SINTIFONIK (i icy surface)
+  - BILIHN (i icy surface)
+  - KWOKSNOBIRALOYA (i icy surface)
+  - KALIKOWI (i icy surface)
+  - EFTOX (d dusty, craterized)
+  - POLOWIY (i icy surface)

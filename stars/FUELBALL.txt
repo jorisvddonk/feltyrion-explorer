@@ -1,0 +1,6 @@
+Star: FUELBALL
+Star class: S06
+Paris coordinates: 6020688, 21838890, 116614
+Bodies: 0 (0 planets, 0 moons)
+
+System:

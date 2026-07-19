@@ -1,0 +1,9 @@
+Planet: AKRITORI II
+Starmap index: 23
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.532.600                              
+FREEZING, LOW GRAVITY. URFACE IS MOSTLY FLAT WITH SPARSE HILLS AND          
+MOUNTAINS, SUCH AS THOSE AT 292.41 53.48.                                   
+(NEURONWAKE 6011 802.533.783)                                               

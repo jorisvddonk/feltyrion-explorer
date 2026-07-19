@@ -1,0 +1,3 @@
+Planet: DYALL
+Starmap index: 01
+Paris coordinates: -1179984, 7381427, -2429544

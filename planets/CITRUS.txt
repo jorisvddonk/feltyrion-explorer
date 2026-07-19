@@ -1,0 +1,3 @@
+Planet: CITRUS
+Starmap index: 04
+Paris coordinates: 3935344, 4924120, -791084

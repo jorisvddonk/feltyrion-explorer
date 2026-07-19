@@ -1,0 +1,3 @@
+Planet: ASKEW 69C1
+Starmap index: 16
+Paris coordinates: 10876304, -19048790, 17868166

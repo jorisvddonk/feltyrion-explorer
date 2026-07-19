@@ -1,0 +1,10 @@
+Planet: OCELOTHOS
+Starmap index: 02
+Paris coordinates: 1323536, 2117778, 6972572
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011:834.171.)                                    
+FIRST SURFACE SURVEY ON (143:055) REVEALED QUARTZ FORMATIONS.               
+NOW PLANNING THE SECOND LANDING OPERATION.                                  
+SECOND SURVEY ON (144:055) DISCOVERED VAST HILLS.                           
+SIGNING OFF. FAUST.                                                         

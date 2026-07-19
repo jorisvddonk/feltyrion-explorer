@@ -1,0 +1,3 @@
+Planet: SHADOWFAX
+Starmap index: 04
+Paris coordinates: 5155696, 4727943, -820349

@@ -1,0 +1,27 @@
+Star: RASTR
+Star class: S08
+Paris coordinates: 1400207440, 1427364, 1398908212
+Bodies: 13 (4 planets, 9 moons)
+
+System:
+- RASTR ALPHA (* companion star)
+- RASTR PRIMUS (k thick atmosphere)
+- RASTR BETA (* companion star)
+  - RASTR BETA PRIMUS (^ unstable)
+  - RASTR BETA SECUNDUS (d dusty, craterized)
+  - RASTR BETA TRIACUS (f felisian)
+- RASTR GAMMA (* companion star)
+  - RASTR GAMMA PRIMUS (@ large, not consistent)
+  - RASTR GAMMA SECUNDUS (q quartz surface)
+  - RASTR GAMMA TRIACUS (q quartz surface)
+  - RASTR GAMMA QUADREX (^ unstable)
+  - RASTR GAMMA QUINTUS (+ substellar object)
+  - RASTR GAMMA SEXTANE (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:601.337
+(S08) MULTIPLE SYSTEM WITH PRIMARY AND 3 COMPANION STARS
+THE THIRD COMAPANION STAR IS A GREAT DISTANCE FROM THE REST OF SYSTEM
+3RD COMPANION STAR (RASTR GAMMA) IS EVEN A DIFFERENT COLOR FROM THE REST
+THE THIRD PLANET OF THE SECOND COMPANION STAR IS FELISISAN
+COORDINATES = 1400207440, 1427364, 1398908212

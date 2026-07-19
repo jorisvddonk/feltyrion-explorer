@@ -1,0 +1,3 @@
+Planet: HELL'S GATE B
+Starmap index: 06
+Paris coordinates: 2618928, 4619831, -2375126

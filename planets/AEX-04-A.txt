@@ -1,0 +1,10 @@
+Planet: AEX-04-A
+Starmap index: 13
+Paris coordinates: 598576, 4279484, -1591122
+
+Guide entries:
+MOON DISCOVERED BY YAYO (ROBERTO CORREZZOLA) EPOC 6011:684.871              
+MAROON SURFACE.                                                             
+THE SKY HAS A VERY RELAXING DARK BLUE AND A CALMING LOW-LIGHT BLUE.         
+NOTHING ELSE.                                                               
+(NOTES BY YAYO, EPOC 6011:684.872)                                          

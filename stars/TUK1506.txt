@@ -1,0 +1,7 @@
+Star: TUK1506
+Star class: S05
+Paris coordinates: 3777136, 4724017, -2240227
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PLANET FOSK (r rocky, creased)

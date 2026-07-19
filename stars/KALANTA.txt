@@ -1,0 +1,9 @@
+Star: KALANTA
+Star class: S05
+Paris coordinates: 39280, 262948, 1450474
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:562:629

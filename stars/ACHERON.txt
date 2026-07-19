@@ -1,0 +1,10 @@
+Star: ACHERON
+Star class: S06
+Paris coordinates: 3673200, 6071914, -358756
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ LITHIUM SOURCE
+ (DISCOVERED BY CPT. EUMEL, EPOC 6011:563.487.310)

@@ -1,0 +1,3 @@
+Planet: FARFIELD
+Starmap index: 04
+Paris coordinates: 3890704, 4620850, -1463671

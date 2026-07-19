@@ -1,0 +1,8 @@
+Planet: QUENILLO
+Starmap index: 03
+Paris coordinates: -2521776, 537093, 306363
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.945 -                                
+VERY LARGE. SUBSTELLAR OBJECT. NOT CONSISTENT.                              
+THIS PLANET HAS A NICE SYSTEM OF RINGS.                                     

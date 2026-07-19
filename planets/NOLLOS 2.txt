@@ -1,0 +1,3 @@
+Planet: NOLLOS 2
+Starmap index: 02
+Paris coordinates: 2000854608, 1108973, 55179517

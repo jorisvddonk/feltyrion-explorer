@@ -1,0 +1,3 @@
+Planet: SIGLAR-2-A
+Starmap index: 01
+Paris coordinates: 820016, -266048, -4413975

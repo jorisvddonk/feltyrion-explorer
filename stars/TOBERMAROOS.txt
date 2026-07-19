@@ -1,0 +1,6 @@
+Star: TOBERMAROOS
+Star class: S06
+Paris coordinates: 7350000, 1150000, -7450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: FENISTIL I
+Star class: S05
+Paris coordinates: 4252848, 4838193, -2177433
+Bodies: 0 (0 planets, 0 moons)
+
+System:

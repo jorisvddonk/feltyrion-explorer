@@ -1,0 +1,6 @@
+Star: ELVIN
+Star class: S09
+Paris coordinates: 177136, -1245814, 1640051
+Bodies: 0 (0 planets, 0 moons)
+
+System:

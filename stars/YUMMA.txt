@@ -1,0 +1,9 @@
+Star: YUMMA
+Star class: S03
+Paris coordinates: 3871440, 7750968, -6519377
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 605.427

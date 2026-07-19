@@ -1,0 +1,3 @@
+Planet: LC 10
+Starmap index: 10
+Paris coordinates: 1863568, 5424170, -927775

@@ -1,0 +1,3 @@
+Planet: ORION 5.1
+Starmap index: 11
+Paris coordinates: 3973200, 5021255, -469763

@@ -1,0 +1,7 @@
+Planet: CREVICE
+Starmap index: 02
+Paris coordinates: 467504, 3945992, -1215803
+
+Guide entries:
+P02 OF REM SYSTEM
+NAMED FOR CANYON AT 70.60

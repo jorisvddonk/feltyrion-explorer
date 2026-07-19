@@ -1,0 +1,6 @@
+Planet: FARTOK
+Starmap index: 15
+Paris coordinates: 2052848, 1439733, 166578
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:584.291.539

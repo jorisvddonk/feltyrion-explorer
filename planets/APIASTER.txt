@@ -1,0 +1,3 @@
+Planet: APIASTER
+Starmap index: 04
+Paris coordinates: -61501520, 29941691, 642079

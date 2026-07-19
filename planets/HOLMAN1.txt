@@ -1,0 +1,6 @@
+Planet: HOLMAN1
+Starmap index: 01
+Paris coordinates: -305360, -1036478, 1027323
+
+Guide entries:
+NO ATMOSPHERE, BARREN WITH SMALL AMOUNT OF CRATORS.

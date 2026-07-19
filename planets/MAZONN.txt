@@ -1,0 +1,6 @@
+Planet: MAZONN
+Starmap index: 01
+Paris coordinates: 3759632, 3830317, -1038610
+
+Guide entries:
+GAZ GIANT, WITH RING.                                                       

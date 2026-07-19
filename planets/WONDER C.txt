@@ -1,0 +1,6 @@
+Planet: WONDER C
+Starmap index: 33
+Paris coordinates: 3177136, 5238663, -1391711
+
+Guide entries:
+PLANET FOUND BY STARDRIFTER FRACTUS, EPOC 6011:573.338.

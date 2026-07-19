@@ -1,0 +1,3 @@
+Planet: PLAYA DEL MENDOZA
+Starmap index: 03
+Paris coordinates: 5338192, 5634993, -63131

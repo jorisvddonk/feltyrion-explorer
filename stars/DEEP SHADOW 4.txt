@@ -1,0 +1,9 @@
+Star: DEEP SHADOW 4
+Star class: S03
+Paris coordinates: 1358320, 236233, -1500235471
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A RED GIANT STAR. (SHADOWCLAW 6011:602.445)

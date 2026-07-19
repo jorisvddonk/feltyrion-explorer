@@ -1,0 +1,8 @@
+Planet: SYERET
+Starmap index: 01
+Paris coordinates: 2082664496, -1337026, -728338
+
+Guide entries:
+P01/02 MEDIUM SIZE QUARTZ SURFACE BRIGHT WHITE WITH SOME LIGHT GREY,        
+LARGE DARK MARKINGS. PRO 0.221.760 PRV 0.008.767.927 SKINNYMON 6011         
+793.778                                                                     

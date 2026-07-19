@@ -1,0 +1,3 @@
+Planet: GOLFINGER
+Starmap index: 17
+Paris coordinates: 487856, 49102, -230101

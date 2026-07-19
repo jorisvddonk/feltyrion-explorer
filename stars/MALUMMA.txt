@@ -1,0 +1,11 @@
+Star: MALUMMA
+Star class: S00
+Paris coordinates: 3773200, 6127206, -221070
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MALUMMA 1 (n thin atmosphere)
+- MALUMMA 2 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.998.659)

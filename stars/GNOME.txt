@@ -1,0 +1,6 @@
+Star: GNOME
+Star class: S05
+Paris coordinates: 4097488, 4332993, -1292308
+Bodies: 0 (0 planets, 0 moons)
+
+System:

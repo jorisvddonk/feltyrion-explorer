@@ -1,0 +1,6 @@
+Star: BLUENEB
+Star class: S05
+Paris coordinates: 3339280, 4596688, -1907433
+Bodies: 0 (0 planets, 0 moons)
+
+System:

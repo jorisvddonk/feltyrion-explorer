@@ -1,0 +1,15 @@
+Star: RURITANIA
+Star class: S08
+Paris coordinates: -920688, 4849920, -4913827
+Bodies: 5 (2 planets, 3 moons)
+
+System:
+- Planet #0 (* companion star)
+  - STRESLAU (f felisian)
+- Planet #1 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (@ large, not consistent)
+
+Guide entries:
+S08 STAR - 3 STARS, 1 FELISIAN PLANET (STRESLAU)
+FOUND BY RICHARD SOLENSKY EPOC 6011-568.934.450

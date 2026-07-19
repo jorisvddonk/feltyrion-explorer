@@ -1,0 +1,9 @@
+Planet: CRAESTRIA
+Starmap index: 02
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+PLANET DISCOVERED BY NEURONWAKE EPOC 6011 802.489                           
+SURFACE POCKMARKED BY MANY ICE CRYSTALS. HUGE CRATERS WITH HIGH             
+WALLS.                                                                      
+(NEURONWAKE 6011 802.489)                                                   

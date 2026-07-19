@@ -1,0 +1,8 @@
+Star: OSCHTORL
+Star class: S05
+Paris coordinates: 1424, -31439600, 1068260
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- YEPFE (k thick atmosphere)
+- KELRE (q quartz surface)

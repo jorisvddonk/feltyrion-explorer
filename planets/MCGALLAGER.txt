@@ -1,0 +1,3 @@
+Planet: MCGALLAGER
+Starmap index: 05
+Paris coordinates: 1632496, 642452, -638716

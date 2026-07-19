@@ -1,0 +1,3 @@
+Planet: ASKEW 45C
+Starmap index: 03
+Paris coordinates: 11714160, -19354934, 17151070

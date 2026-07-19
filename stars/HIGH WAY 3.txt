@@ -1,0 +1,13 @@
+Star: HIGH WAY 3
+Star class: S05
+Paris coordinates: 3659632, 4327550, -1239332
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- OSCURA TOO (k thick atmosphere)
+- LOW WAY 2 (n thin atmosphere)
+
+Guide entries:
+ THE PLANETS OF THIS STAR ARE COMPLETELY DESOLATE AND UNINTERESTING
+ THERE IS NO REASON TO EXPLORE THEM.. NOTHING TO SEE. THAT IS ALL.
+ RECORDED BY LGM (ANDREW EDMARK)

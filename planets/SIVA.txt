@@ -1,0 +1,3 @@
+Planet: SIVA
+Starmap index: 09
+Paris coordinates: 2456784, 3449420, -2122039

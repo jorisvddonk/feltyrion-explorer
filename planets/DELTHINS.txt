@@ -1,0 +1,3 @@
+Planet: DELTHINS
+Starmap index: 06
+Paris coordinates: 2739280, 4319060, -1223981

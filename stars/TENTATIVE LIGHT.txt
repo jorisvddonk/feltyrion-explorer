@@ -1,0 +1,7 @@
+Star: TENTATIVE LIGHT
+Star class: S07
+Paris coordinates: -743216, 1049718, 1167826
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ETHERAL (+ substellar object)

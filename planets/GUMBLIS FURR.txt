@@ -1,0 +1,3 @@
+Planet: GUMBLIS FURR
+Starmap index: 04
+Paris coordinates: 2101424, 2442806, -935556

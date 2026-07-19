@@ -1,0 +1,10 @@
+Star: LYRON
+Star class: S06
+Paris coordinates: 502512, 4848428, -3204780
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:574.997

@@ -1,0 +1,3 @@
+Planet: PFYR
+Starmap index: 04
+Paris coordinates: -31046256, -20000567, -499915367

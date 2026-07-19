@@ -1,0 +1,3 @@
+Planet: CURST
+Starmap index: 07
+Paris coordinates: 3814992, 4409913, -1856513

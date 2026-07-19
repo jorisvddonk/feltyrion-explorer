@@ -1,0 +1,3 @@
+Planet: FOULGAS
+Starmap index: 02
+Paris coordinates: 2355696, 920154, 2032037

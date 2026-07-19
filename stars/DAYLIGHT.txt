@@ -1,0 +1,16 @@
+Star: DAYLIGHT
+Star class: S02
+Paris coordinates: 2739280, 4419060, -1283371
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- TEMPTATION (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (r rocky, creased)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY JILANTY EPOC6011 569.88
+A SMALL SYSTEM WITH 5 PLANETS AND NO MOONS. 2 PLANETS HAVE A THIN
+ATMOSPHERE, 2 PLANETS HAVE NO ATMOSPHERE, 1 IS NATIVE QUARTZ

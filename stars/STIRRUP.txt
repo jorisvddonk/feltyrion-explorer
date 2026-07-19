@@ -1,0 +1,15 @@
+Star: STIRRUP
+Star class: S02
+Paris coordinates: 3630320, 2467979, 4999632
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- STIRRUP I (r rocky, creased)
+- STIRRUP II (q quartz surface)
+- STIRRUP III (+ substellar object)
+- STIRRUP IV (@ large, not consistent)
+- STIRRUP V (k thick atmosphere)
+- STIRRUP VI (@ large, not consistent)
+
+Guide entries:
+A CLASS S02 SYSTEM OF 6 PLANETS. SKINNYMON EPOC 6011 585.845

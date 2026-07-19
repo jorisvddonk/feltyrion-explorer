@@ -1,0 +1,17 @@
+Star: ALMA
+Star class: S08
+Paris coordinates: 4542128, 4637243, -928773
+Bodies: 8 (3 planets, 5 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (r rocky, creased)
+- Planet #1 (* companion star)
+  - Moon #0 (q quartz surface)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.270

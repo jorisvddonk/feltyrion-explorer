@@ -1,0 +1,9 @@
+Star: LISTA 252
+Star class: S05
+Paris coordinates: 1580352752, -1895466, 368006
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S05 LITHIUM SOURCE WITH NO PLANETS. SKINNYMON EPOC 6011 622.565

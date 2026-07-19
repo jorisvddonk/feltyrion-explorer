@@ -1,0 +1,3 @@
+Planet: NONSTAR
+Starmap index: 01
+Paris coordinates: 955024, 4732279, -6421119

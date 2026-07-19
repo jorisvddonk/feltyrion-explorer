@@ -1,0 +1,3 @@
+Planet: REST POINT 5
+Starmap index: 35
+Paris coordinates: -16691120, -4929354, 27872887

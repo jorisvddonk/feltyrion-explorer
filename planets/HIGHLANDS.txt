@@ -1,0 +1,9 @@
+Planet: HIGHLANDS
+Starmap index: 15
+Paris coordinates: 3628560, 4254023, -915798
+
+Guide entries:
+ O2 ATMOSPHERE, BEAUTIFUL MOUNTAINOUS TERRAIN, BRIGHT SKIES.                
+FOUNDED EPOC 6011, 678.981.306 BY REZA. 9TH MOON OF ROSEBEAD.               
+DARK SPOTS ARE HIGH STEEP MOUNTAINS. NO LIFEFORMS. BRIGHT WHITE SKY         
+(REZA, EPOC 6011, 678.981.942)                                              

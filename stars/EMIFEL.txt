@@ -1,0 +1,19 @@
+Star: EMIFEL
+Star class: S08
+Paris coordinates: 2452848, 4751009, -338501
+Bodies: 13 (5 planets, 8 moons)
+
+System:
+- ELIRON (@ large, not consistent)
+- SARBITE (@ large, not consistent)
+- Planet #2 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (^ unstable)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

@@ -1,0 +1,6 @@
+Planet: IXRON G
+Starmap index: 13
+Paris coordinates: 112144, 40438, -249045
+
+Guide entries:
+SMALL, DUSTY, AIRLESS, CRATERED. (SCHMERM 6011 582.589)

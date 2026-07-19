@@ -1,0 +1,8 @@
+Planet: HELGOTH
+Starmap index: 01
+Paris coordinates: 4417840, 4500830, -376139
+
+Guide entries:
+BLADE TRAIN3R 6011 701;146;500                                              
+GRAVITY +- 1/8 NORMAL.AVG DAY TEMPERATURE 420 DEGREES                       
+LACK OF ATMOSPHERE AND EXTREME TEMPERATURE ARE UNCONDUCIVE TO LIFE          

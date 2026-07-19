@@ -1,0 +1,3 @@
+Planet: 182 PLANET
+Starmap index: 02
+Paris coordinates: 9551344, 10030058, 9837462

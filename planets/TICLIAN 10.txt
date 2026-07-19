@@ -1,0 +1,3 @@
+Planet: TICLIAN 10
+Starmap index: 10
+Paris coordinates: 1400726512, 1022746, 54785282

@@ -1,0 +1,6 @@
+Star: PEYCH EMPLAS
+Star class: S02
+Paris coordinates: 51050000, 50000, -51150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

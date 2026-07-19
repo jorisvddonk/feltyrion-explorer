@@ -1,0 +1,6 @@
+Planet: PRODES
+Starmap index: 02
+Paris coordinates: 1074288, -67776523, -1340315
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011 :584:494.

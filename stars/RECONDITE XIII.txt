@@ -1,0 +1,6 @@
+Star: RECONDITE XIII
+Star class: S06
+Paris coordinates: 682950000, 23050000, -683050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

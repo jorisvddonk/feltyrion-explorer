@@ -1,0 +1,15 @@
+Star: FLASHBULB
+Star class: S02
+Paris coordinates: 4139280, -66387189, -2682421
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- FLASHBULB I (n thin atmosphere)
+- FLASHBULB II (@ large, not consistent)
+- FLASHBULB III (d dusty, craterized)
+- FLASHBULB IV (n thin atmosphere)
+
+Guide entries:
+AN S02 WHITE DWARF STAR 15LY FROM FARHOME. HAS 4 PLANETS, ALL
+BORING. THE PLANET FINDER REPORTS 5 PLANETS BEING LABELLED OUT OF 4
+VERY STRANGE. (SCHMERM 6011 593.660)

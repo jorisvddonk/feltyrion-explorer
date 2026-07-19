@@ -1,0 +1,10 @@
+Star: QOPINORELKA
+Star class: S10
+Paris coordinates: -22312304, -19406612, -350274872
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FAMILIARITY (+ substellar object)
+
+Guide entries:
+(DISCOVERED BY SHADOWCLAW 6011:576.110)

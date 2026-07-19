@@ -1,0 +1,14 @@
+Star: JIRON
+Star class: S00
+Paris coordinates: 2714992, 4354079, -792717
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SHALOMO (r rocky, creased)
+- SIA (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY JAMES REYNOLDS. 6011.562.947.868
+ORBITED BY 2 PLANETS, SHALOMO AND SIA
+DEVOID OF LIFE YET BEAUTIFUL
+(NOTES BY JAMES REYNOLDS. 6011.562.964.332)

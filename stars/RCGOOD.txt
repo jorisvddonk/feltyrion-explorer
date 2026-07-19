@@ -1,0 +1,6 @@
+Star: RCGOOD
+Star class: S06
+Paris coordinates: 2677136, 4342507, -1046299
+Bodies: 0 (0 planets, 0 moons)
+
+System:

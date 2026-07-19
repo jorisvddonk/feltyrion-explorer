@@ -1,0 +1,9 @@
+Star: LISTA 62
+Star class: S06
+Paris coordinates: 4121776, 4330897, -1773130
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ CLASS S06 REFUEL SPOT. SKINNYMON EPOC 6011 592.332

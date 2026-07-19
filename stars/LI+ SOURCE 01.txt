@@ -1,0 +1,6 @@
+Star: LI+ SOURCE 01
+Star class: S06
+Paris coordinates: 2663568, 4230720, -1894134
+Bodies: 0 (0 planets, 0 moons)
+
+System:

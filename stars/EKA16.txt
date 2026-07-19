@@ -1,0 +1,14 @@
+Star: EKA16
+Star class: S00
+Paris coordinates: -71593136, -672408, 53770643
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- GREEN RINGED (r rocky, creased)
+- SHINING GREEN (q quartz surface)
+- OLD OLIVE (r rocky, creased)
+  - ORANGE FIRE (^ unstable)
+  - YELLOW FIRE (d dusty, craterized)
+- ROTTED OLIVE (r rocky, creased)
+- TILT A WHIRL (k thick atmosphere)
+  - SICK FROM THE RIDE (d dusty, craterized)

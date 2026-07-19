@@ -1,0 +1,3 @@
+Planet: ICICLE
+Starmap index: 71
+Paris coordinates: 4059632, 4388757, -1624134

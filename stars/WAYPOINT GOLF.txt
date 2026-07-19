@@ -1,0 +1,6 @@
+Star: WAYPOINT GOLF
+Star class: S06
+Paris coordinates: -19423248, -19946405, -218398953
+Bodies: 0 (0 planets, 0 moons)
+
+System:

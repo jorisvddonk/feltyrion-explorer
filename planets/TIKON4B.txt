@@ -1,0 +1,3 @@
+Planet: TIKON4B
+Starmap index: 04
+Paris coordinates: 963568, 4765, -216641

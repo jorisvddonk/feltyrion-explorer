@@ -1,0 +1,3 @@
+Planet: EDIBLE
+Starmap index: 05
+Paris coordinates: 1952848, 5085046, 61557

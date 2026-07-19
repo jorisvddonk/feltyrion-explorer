@@ -1,0 +1,3 @@
+Planet: BRADDAN
+Starmap index: 01
+Paris coordinates: 3521776, 4259539, -1152662

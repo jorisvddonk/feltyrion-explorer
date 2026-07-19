@@ -1,0 +1,3 @@
+Planet: EARA BELLARO SOO
+Starmap index: 01
+Paris coordinates: 3177136, 4438663, -1400824

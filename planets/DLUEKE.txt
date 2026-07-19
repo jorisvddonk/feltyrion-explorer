@@ -1,0 +1,3 @@
+Planet: DLUEKE
+Starmap index: 14
+Paris coordinates: 287856, -62820, 77351

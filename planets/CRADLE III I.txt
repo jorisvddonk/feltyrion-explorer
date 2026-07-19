@@ -1,0 +1,6 @@
+Planet: CRADLE III I
+Starmap index: 25
+Paris coordinates: 4190704, -10156437, -1803955
+
+Guide entries:
+GREY DEADWORLD. (SCHMERM 6011 592.862)

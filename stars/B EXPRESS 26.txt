@@ -1,0 +1,9 @@
+Star: B EXPRESS 26
+Star class: S06
+Paris coordinates: -108666672, 1116816, 82731923
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+EVERYBODY LOVES LITHIUM.                                                    

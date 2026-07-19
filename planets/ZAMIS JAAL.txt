@@ -1,0 +1,3 @@
+Planet: ZAMIS JAAL
+Starmap index: 06
+Paris coordinates: 4147152, 8296636, -6104665

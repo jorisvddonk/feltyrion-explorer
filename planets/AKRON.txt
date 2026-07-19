@@ -1,0 +1,6 @@
+Planet: AKRON
+Starmap index: 04
+Paris coordinates: 2601424, 4843702, -1427000
+
+Guide entries:
+AN UNSTABLE, HOT MOOD DISCOVERED BY MRUQE; EPOC 6011-569.883

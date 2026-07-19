@@ -1,0 +1,9 @@
+Star: LIANE
+Star class: S06
+Paris coordinates: 3552848, 4333415, -1509004
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ UNSUITABLE FOR FUELING. INNOMINANDUS EPOC 6011:723.756.442                 

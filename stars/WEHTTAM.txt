@@ -1,0 +1,28 @@
+Star: WEHTTAM
+Star class: S03
+Paris coordinates: 3683920, 4721661, -1660782
+Bodies: 19 (4 planets, 15 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (d dusty, craterized)
+  - TABBY (f felisian)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (k thick atmosphere)
+  - NICE (f felisian)
+  - Moon #10 (^ unstable)
+  - Moon #11 (^ unstable)
+  - Moon #12 (@ large, not consistent)
+  - Moon #13 (^ unstable)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ S03 DISC BY SCAREDY-CAT, EPOC 6011.586.909. 3 FELISIAN PLANETS

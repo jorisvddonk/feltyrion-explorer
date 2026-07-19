@@ -1,0 +1,7 @@
+Planet: DROPLET
+Starmap index: 03
+Paris coordinates: -81072, 26100, 335987
+
+Guide entries:
+KHAPHIR 3; FELISIAN-TYPE
+NAMED AFTER RING-SHAPED VALLEY AT 0.60:45.-6

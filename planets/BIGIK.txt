@@ -1,0 +1,3 @@
+Planet: BIGIK
+Starmap index: 08
+Paris coordinates: -1766416, -6455599, -921319

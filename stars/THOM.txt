@@ -1,0 +1,17 @@
+Star: THOM
+Star class: S02
+Paris coordinates: 3635344, 4413073, -437495
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- RIGATA (d dusty, craterized)
+- JAMOR (k thick atmosphere)
+- PURONA (q quartz surface)
+- SADAR (k thick atmosphere)
+- SUNORIA (+ substellar object)
+- LENIA (k thick atmosphere)
+- MYCLOPIA (r rocky, creased)
+- GRANOPIA (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MURRMURR EPOC 6011:602.706

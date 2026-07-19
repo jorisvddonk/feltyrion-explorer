@@ -1,0 +1,12 @@
+Star: ASKEW 77
+Star class: S11
+Paris coordinates: 11320944, -19161182, 18060856
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- ASKEW 77A (d dusty, craterized)
+- ASKEW 77B (d dusty, craterized)
+- ASKEW 77C (n thin atmosphere)
+- ASKEW 77D (n thin atmosphere)
+  - ASKEW 77D1 (i icy surface)
+  - ASKEW 77D2 (i icy surface)

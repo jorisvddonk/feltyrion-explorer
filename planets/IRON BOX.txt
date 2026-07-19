@@ -1,0 +1,3 @@
+Planet: IRON BOX
+Starmap index: 17
+Paris coordinates: 1413381072, -31268, -1413496484

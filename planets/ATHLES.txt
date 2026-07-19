@@ -1,0 +1,8 @@
+Planet: ATHLES
+Starmap index: 09
+Paris coordinates: 2060398160, -1842327, 78233
+
+Guide entries:
+M01/P04 SMALL SOLID DUSTY VERY LARGE CRATERS WITH DARK RAYS ON BRIGHT       
+REFLECTIVE SURFACE. PRO 0.285.120 PRV 0.002.940.788 SKINNYMON 6011          
+796.143                                                                     

@@ -1,0 +1,3 @@
+Planet: 1ST NOSTRAL
+Starmap index: 53
+Paris coordinates: -174288, 9638409, 793201

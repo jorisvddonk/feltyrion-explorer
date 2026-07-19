@@ -1,0 +1,3 @@
+Planet: WESHALLSAYNI
+Starmap index: 01
+Paris coordinates: -103830256, 26103032, -1039132

@@ -1,0 +1,8 @@
+Planet: FHTAVUK
+Starmap index: 02
+Paris coordinates: 2100238704, -1473419, -594011
+
+Guide entries:
+P02/04 MEDIUM SIZED THICK ATMO. PURPLE CLOUDS WITH DARK BANDS VERY          
+SLIGHT STORMINESS IN SOUTH. PRO 0.112.320 PRV 0.024.007.678 SKINNYMON       
+6011 793.284                                                                

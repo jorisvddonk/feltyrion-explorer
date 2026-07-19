@@ -1,0 +1,3 @@
+Planet: EL ADRELL
+Starmap index: 10
+Paris coordinates: 6719600, 6438096, 3202274

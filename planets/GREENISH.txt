@@ -1,0 +1,3 @@
+Planet: GREENISH
+Starmap index: 05
+Paris coordinates: -425712, 29129, 150607

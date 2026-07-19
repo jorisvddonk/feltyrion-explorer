@@ -1,0 +1,10 @@
+Star: LITHULE I
+Star class: S06
+Paris coordinates: -174288, -61591, 867727
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 STAR. 24 MTPD TEST AT RADIATION SAFE RANGE. FUEL HERE!
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:644:351

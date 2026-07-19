@@ -1,0 +1,7 @@
+Planet: CYSHISI
+Starmap index: 04
+Paris coordinates: 2069274544, -1807205, 1405355
+
+Guide entries:
+P04/07 SMALL SOLID THIN ATMO. BRIGHT WITH GOOD POLAR CAPS. PRO              
+0.256.320 PRV 0.081.709.376 SKINNYMON 6011 794.932                          

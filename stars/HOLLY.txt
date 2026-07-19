@@ -1,0 +1,9 @@
+Star: HOLLY
+Star class: S06
+Paris coordinates: 4479984, 4634365, -836496
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING, DISCOVERED BY RCLEAR 6011:627.75

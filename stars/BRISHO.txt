@@ -1,0 +1,32 @@
+Star: BRISHO
+Star class: S01
+Paris coordinates: 22364336, 7906996, 48257710
+Bodies: 26 (10 planets, 16 moons)
+
+System:
+- GREOX (k thick atmosphere)
+- BEAUNT (n thin atmosphere)
+- ROEGOE (d dusty, craterized)
+- DIOB (+ substellar object)
+  - ASGER (@ large, not consistent)
+  - PAREOYSIAN (f felisian)
+  - CANDEEN (d dusty, craterized)
+  - EPSTO (k thick atmosphere)
+  - CYNIOT (k thick atmosphere)
+  - CYNYN (d dusty, craterized)
+  - PERGEOAS (d dusty, craterized)
+  - CREARK (@ large, not consistent)
+  - FIEGER (k thick atmosphere)
+- SINGLIN (d dusty, craterized)
+  - SMYC (d dusty, craterized)
+- IMPACT (r rocky, creased)
+- SIAM A (d dusty, craterized)
+  - SIAM B (d dusty, craterized)
+- BRIDAR (q quartz surface)
+  - UEGYE (d dusty, craterized)
+  - LIBTI (d dusty, craterized)
+  - PINKURY (^ unstable)
+- BRISIMI (q quartz surface)
+  - BLEFEN (d dusty, craterized)
+- BLIB (d dusty, craterized)
+  - DESIYE (d dusty, craterized)

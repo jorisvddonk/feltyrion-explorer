@@ -1,0 +1,9 @@
+Star: SOLO
+Star class: S08
+Paris coordinates: 3844976, 4358971, 1862310
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SINGLE CLASS 8 STAR, NO PLANETS. (TACKAT 6011:562.880)

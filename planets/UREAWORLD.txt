@@ -1,0 +1,3 @@
+Planet: UREAWORLD
+Starmap index: 02
+Paris coordinates: 5969264, 4564576, -830164

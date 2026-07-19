@@ -1,0 +1,7 @@
+Star: ALSAKI CCXLVII
+Star class: S07
+Paris coordinates: 14734256, 32449369, -7801771
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)

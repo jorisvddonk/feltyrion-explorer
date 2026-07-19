@@ -1,0 +1,3 @@
+Planet: ASKEW 30K7
+Starmap index: 79
+Paris coordinates: 11558800, -19461295, 17911789

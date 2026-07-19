@@ -1,0 +1,10 @@
+Star: EVERREADY
+Star class: S06
+Paris coordinates: -644976, 4799014, -4648349
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:576.616

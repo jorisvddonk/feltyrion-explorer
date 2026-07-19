@@ -1,0 +1,7 @@
+Planet: YLESKOL
+Starmap index: 03
+Paris coordinates: 2040369680, -1613682, -623842
+
+Guide entries:
+P03/04 SMALL, SOLID THIN ATMO, SLIGHTLY DARK, MODERATE POLAR CAPS.          
+PRO 0.277.560 PRV 0.052.094.692 SKINNYMON 6011 796.552                      

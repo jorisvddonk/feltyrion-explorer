@@ -1,0 +1,10 @@
+Star: VARG
+Star class: S07
+Paris coordinates: 56784, 49130, 548301
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- VARG 1 (+ substellar object)
+
+Guide entries:
+CLASS S07 BLUE DWARF, ONE PLANET. SERPENS, 6011 665.927

@@ -1,0 +1,3 @@
+Planet: SADOC LADEIRA 05
+Starmap index: 05
+Paris coordinates: 6076048, 5028697, -657493

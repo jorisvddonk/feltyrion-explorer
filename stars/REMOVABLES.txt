@@ -1,0 +1,9 @@
+Star: REMOVABLES
+Star class: S06
+Paris coordinates: 3901424, 4419817, -2735705
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING, DISCOVERED BY RCLEAR, 6011:597.610

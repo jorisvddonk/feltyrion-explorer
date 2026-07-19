@@ -1,0 +1,21 @@
+Star: GYN
+Star class: S04
+Paris coordinates: 4073200, 4600279, -799854
+Bodies: 15 (7 planets, 8 moons)
+
+System:
+- HEAVY METAL (k thick atmosphere)
+- GOLD (+ substellar object)
+- BRICK (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- GAZA (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- PYRHEAN (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- SPHYNX (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- TABLETOP (r rocky, creased)
+  - KUBRICK'S HELL (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)

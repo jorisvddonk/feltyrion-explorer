@@ -1,0 +1,10 @@
+Star: GASTAR VIII
+Star class: S06
+Paris coordinates: 1859632, -120202, 636087
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(TIS FUL=ELING STATION PROVIDED BY TGD)
+(YOU'RE WELCOME.)

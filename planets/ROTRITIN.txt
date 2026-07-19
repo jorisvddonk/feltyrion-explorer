@@ -1,0 +1,8 @@
+Planet: ROTRITIN
+Starmap index: 04
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+PLANET DISCOVERED BY NEURONWAKE EPOC 6011 802.490.310                       
+SURFACE UNSUITABLE FOR LANDING. 1 LARGE RING, MANY MOONS. (NEURONWAKE       
+6011 802.490)                                                               

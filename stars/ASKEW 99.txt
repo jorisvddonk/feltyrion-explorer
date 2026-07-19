@@ -1,0 +1,40 @@
+Star: ASKEW 99
+Star class: S03
+Paris coordinates: 11738448, -19692803, 16737605
+Bodies: 31 (13 planets, 18 moons)
+
+System:
+- ASKEW 99A (+ substellar object)
+- ASKEW 99B (@ large, not consistent)
+- ASKEW 99C (@ large, not consistent)
+  - ASKEW 99C1 (r rocky, creased)
+  - ASKEW 99C2 (q quartz surface)
+  - ASKEW 99C3 (^ unstable)
+  - ASKEW 99C4 (^ unstable)
+  - ASKEW 99C5 (d dusty, craterized)
+  - ASKEW 99C6 (d dusty, craterized)
+  - ASKEW 99C7 (q quartz surface)
+  - ASKEW 99C8 (n thin atmosphere)
+  - ASKEW 99C9 (q quartz surface)
+- ASKEW 99D (k thick atmosphere)
+- ASKEW 99E (d dusty, craterized)
+- ASKEW 99F (n thin atmosphere)
+  - ASKEW 99F1 (d dusty, craterized)
+- ASKEW 99G (q quartz surface)
+  - ASKEW 99G1 (d dusty, craterized)
+  - ASKEW 99G2 (d dusty, craterized)
+  - ASKEW 99G3 (n thin atmosphere)
+- ASKEW 99H (q quartz surface)
+  - ASKEW 99H1 (^ unstable)
+  - ASKEW 99H2 (d dusty, craterized)
+- ASKEW 99I (r rocky, creased)
+  - ASKEW 99I1 (d dusty, craterized)
+- ASKEW 99J (d dusty, craterized)
+- ASKEW 99K (d dusty, craterized)
+- ASKEW 99L (n thin atmosphere)
+- ASKEW 99M (n thin atmosphere)
+  - ASKEW 99M1 (i icy surface)
+  - ASKEW 99M2 (d dusty, craterized)
+
+Guide entries:
+5 QUARTZ WORLDS

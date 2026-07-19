@@ -1,0 +1,3 @@
+Planet: ERYTHRIA
+Starmap index: 02
+Paris coordinates: 4259632, 5044350, -1588675

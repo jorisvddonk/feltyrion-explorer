@@ -1,0 +1,10 @@
+Star: UMOTU
+Star class: S06
+Paris coordinates: 2147302288, 1927098, 850562474
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:785.858
+(S06) LI+

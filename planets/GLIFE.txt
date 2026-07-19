@@ -1,0 +1,3 @@
+Planet: GLIFE
+Starmap index: 14
+Paris coordinates: 26615760, 6510886, 44915311

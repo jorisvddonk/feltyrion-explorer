@@ -1,0 +1,6 @@
+Star: TANKSTAR5
+Star class: S06
+Paris coordinates: 5476048, 7157484, 166722
+Bodies: 0 (0 planets, 0 moons)
+
+System:

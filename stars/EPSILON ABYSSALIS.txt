@@ -1,0 +1,6 @@
+Star: EPSILON ABYSSALIS
+Star class: S10
+Paris coordinates: 7129904, -16780031, 15058779
+Bodies: 0 (0 planets, 0 moons)
+
+System:

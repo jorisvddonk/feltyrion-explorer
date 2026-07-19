@@ -1,0 +1,7 @@
+Star: ASTRO PATH A21
+Star class: S02
+Paris coordinates: 5627888, 4694661, -12607176
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)

@@ -1,0 +1,6 @@
+Star: WAYWARD
+Star class: S10
+Paris coordinates: 274288, 490634, -619464
+Bodies: 0 (0 planets, 0 moons)
+
+System:

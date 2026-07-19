@@ -1,0 +1,10 @@
+Star: KAI
+Star class: S06
+Paris coordinates: 4197488, 4771488, -1391423
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.327
+GOOD FOR SCOPING

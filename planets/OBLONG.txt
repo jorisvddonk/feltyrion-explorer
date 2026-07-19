@@ -1,0 +1,6 @@
+Planet: OBLONG
+Starmap index: 49
+Paris coordinates: 3873200, 5739766, -376082
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE,VERY DARK, MODERATE POLAR CAPS. SKINNYMON

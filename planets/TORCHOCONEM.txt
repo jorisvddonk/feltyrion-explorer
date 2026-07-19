@@ -1,0 +1,3 @@
+Planet: TORCHOCONEM
+Starmap index: 23
+Paris coordinates: 670352, 437173, 502845

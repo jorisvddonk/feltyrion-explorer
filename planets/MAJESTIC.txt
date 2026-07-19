@@ -1,0 +1,3 @@
+Planet: MAJESTIC
+Starmap index: 11
+Paris coordinates: 5190704, 5528316, -2752182

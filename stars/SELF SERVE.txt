@@ -1,0 +1,9 @@
+Star: SELF SERVE
+Star class: S06
+Paris coordinates: -71672784, -1370123, 55027831
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GET YOUR LITHIUM HERE! 6011.564.855.596, JEREMY HUSSELL.

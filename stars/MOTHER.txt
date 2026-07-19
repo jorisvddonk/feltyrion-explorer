@@ -1,0 +1,11 @@
+Star: MOTHER
+Star class: S04
+Paris coordinates: 246064, 544425, 1557082
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SON (r rocky, creased)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM WITH ONLY ONE MINOR WORLD. SKINNYMON
+EPOC 6011 575.894

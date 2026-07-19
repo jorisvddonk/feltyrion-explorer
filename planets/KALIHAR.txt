@@ -1,0 +1,3 @@
+Planet: KALIHAR
+Starmap index: 58
+Paris coordinates: 9837776, 8235999, 8907617

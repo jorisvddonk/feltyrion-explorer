@@ -1,0 +1,3 @@
+Planet: RAVALISS 10
+Starmap index: 10
+Paris coordinates: -123583024, -54967750, -1864646

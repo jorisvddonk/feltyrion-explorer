@@ -1,0 +1,6 @@
+Planet: PIREXIS
+Starmap index: 01
+Paris coordinates: 3897488, 4024932, -1128385
+
+Guide entries:
+ DISCOVERED BY LEOW IN 6011-579.137.000

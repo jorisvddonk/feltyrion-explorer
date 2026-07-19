@@ -1,0 +1,9 @@
+Star: LI-LON-TU
+Star class: S06
+Paris coordinates: 456784, -11738629, 150455
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LOST AGAIN. THIS ONE HAS LITHIUM (TWOTWOS, 6012:247.67)

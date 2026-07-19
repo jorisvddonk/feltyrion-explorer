@@ -1,0 +1,8 @@
+Star: JIONET
+Star class: S00
+Paris coordinates: -432496, -62368, -245954
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)

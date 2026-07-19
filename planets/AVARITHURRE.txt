@@ -1,0 +1,3 @@
+Planet: AVARITHURRE
+Starmap index: 55
+Paris coordinates: 58795344, -33712659, 927379101

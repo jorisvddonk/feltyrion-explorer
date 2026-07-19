@@ -1,0 +1,3 @@
+Planet: GALATEA
+Starmap index: 09
+Paris coordinates: 4782832, 4395414, 997135

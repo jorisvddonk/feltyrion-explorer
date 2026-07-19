@@ -1,0 +1,6 @@
+Star: EOGILIE
+Star class: S02
+Paris coordinates: 4265328, 5738799, 2583670
+Bodies: 0 (0 planets, 0 moons)
+
+System:

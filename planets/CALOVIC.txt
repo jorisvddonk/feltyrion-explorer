@@ -1,0 +1,3 @@
+Planet: CALOVIC
+Starmap index: 08
+Paris coordinates: 3683920, 4321661, -1688096

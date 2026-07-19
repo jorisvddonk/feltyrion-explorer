@@ -1,0 +1,6 @@
+Planet: PEL
+Starmap index: 25
+Paris coordinates: 4279984, 4828393, -649180
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.320

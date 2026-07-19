@@ -1,0 +1,9 @@
+Star: MDIR 3
+Star class: S06
+Paris coordinates: -381072, 49414178, 640874
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOTE THAT WE ARE STILL ALONG THE GRID.                                      

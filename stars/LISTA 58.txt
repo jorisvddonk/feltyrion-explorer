@@ -1,0 +1,9 @@
+Star: LISTA 58
+Star class: S06
+Paris coordinates: 4533168, 1974707, 6258223
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S06 LITHIUM BEARING STAR. SKINNYMON EPOC 6011 585.854

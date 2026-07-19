@@ -1,0 +1,3 @@
+Planet: HADRA 04
+Starmap index: 04
+Paris coordinates: -3538192, -51993, -1627263

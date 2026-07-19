@@ -1,0 +1,33 @@
+Star: HENDERSEN
+Star class: S00
+Paris coordinates: -98576, 812650, 1187944
+Bodies: 27 (7 planets, 20 moons)
+
+System:
+- HEND-1 (d dusty, craterized)
+- HEND-2 (r rocky, creased)
+- TENNEBRA (f felisian)
+- HEND-4 (k thick atmosphere)
+  - HEND-4 1 (n thin atmosphere)
+  - HEND-4 2 (d dusty, craterized)
+- IOCASTE (+ substellar object)
+  - HEND-5 1 (k thick atmosphere)
+  - HEND-5 2 (d dusty, craterized)
+  - JASONSIGMA (f felisian)
+  - BEUDAMYER (f felisian)
+  - HEND-5 5 (@ large, not consistent)
+  - ANGEL GOOD (f felisian)
+  - HEND-5 7 (k thick atmosphere)
+  - HEND-5 8 (d dusty, craterized)
+  - HEND-5 9 (n thin atmosphere)
+  - HEND-5 10 (k thick atmosphere)
+  - HEND-5 11 (^ unstable)
+- HEND-6 (+ substellar object)
+  - HEND-6 1 (n thin atmosphere)
+  - HEND-6 2 (d dusty, craterized)
+  - HEND-6 3 (r rocky, creased)
+  - HEND-6 4 (d dusty, craterized)
+  - HEND-6 5 (^ unstable)
+  - HEND-6 6 (q quartz surface)
+  - HEND-6 7 (@ large, not consistent)
+- RICHTERSTADT (f felisian)

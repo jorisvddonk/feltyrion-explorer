@@ -1,0 +1,3 @@
+Planet: WULLAD 2
+Starmap index: 02
+Paris coordinates: 1100443536, 1644619, 54686807

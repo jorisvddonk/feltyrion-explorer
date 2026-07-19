@@ -1,0 +1,6 @@
+Star: PITSTOP 31
+Star class: S06
+Paris coordinates: 234928, 227607, 1245256983
+Bodies: 0 (0 planets, 0 moons)
+
+System:

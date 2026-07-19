@@ -1,0 +1,17 @@
+Star: PLYKE
+Star class: S00
+Paris coordinates: 2735344, 5479930, 432719
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (q quartz surface)
+- XAYIRILA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.998.45)

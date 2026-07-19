@@ -1,0 +1,6 @@
+Planet: DESOLA
+Starmap index: 06
+Paris coordinates: 3828560, 4347754, -1069241
+
+Guide entries:
+PLANET DISCOVERED BY BUD J. SMOKER EPOCH 6011:583.206

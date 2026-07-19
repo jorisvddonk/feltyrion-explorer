@@ -1,0 +1,8 @@
+Star: TOROSTERYE
+Star class: S10
+Paris coordinates: 4578896, 11119370, 3081289
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DEEPWALKS (q quartz surface)
+- Planet #1 (+ substellar object)

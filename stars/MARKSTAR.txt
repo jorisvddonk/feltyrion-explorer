@@ -1,0 +1,32 @@
+Star: MARKSTAR
+Star class: S00
+Paris coordinates: 1601424, 1341910, -484972
+Bodies: 26 (12 planets, 14 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- MARKSLAND (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (i icy surface)
+  - Moon #2 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (n thin atmosphere)
+- Planet #11 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

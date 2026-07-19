@@ -1,0 +1,3 @@
+Planet: THE GLOW
+Starmap index: 05
+Paris coordinates: 4193552, 1728711, 281299

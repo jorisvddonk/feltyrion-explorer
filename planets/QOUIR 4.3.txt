@@ -1,0 +1,7 @@
+Planet: QOUIR 4.3
+Starmap index: 12
+Paris coordinates: 2108208, 1634064, -606358
+
+Guide entries:
+ DUSTY, CRATERISED, NO ATMOSPHERE. NOTHING TO SEE HERE.
+(STARGAZER. EPOC 6011:596:898)

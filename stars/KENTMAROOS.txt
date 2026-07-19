@@ -1,0 +1,9 @@
+Star: KENTMAROOS
+Star class: S06
+Paris coordinates: -14990960, 21237956, -10445264
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. DISCOVERED BY NEUZD 6011 786:952                      

@@ -1,0 +1,20 @@
+Star: ASFHIJISOY
+Star class: S01
+Paris coordinates: 2029806864, -1864014, 355778
+Bodies: 9 (7 planets, 2 moons)
+
+System:
+- CYLIS (r rocky, creased)
+- FHNURS (n thin atmosphere)
+- PEKUALI (k thick atmosphere)
+- ONEBAS (n thin atmosphere)
+- CAVYDORAR (q quartz surface)
+  - PIL (d dusty, craterized)
+  - TIJ (d dusty, craterized)
+- DIDIJAR (@ large, not consistent)
+- CYDASIAHS (q quartz surface)
+
+Guide entries:
+CLASS S01, 7 PLANETS, 2 MOONS, NO FELISIAN. 23.28927803 BAL. M.             
+TEMP 39875 K RAD 42KR COOR 2029806864;-1864014;355778; SKINNYMON            
+6011 797.364                                                                

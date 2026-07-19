@@ -1,0 +1,9 @@
+Star: UNFERTILE
+Star class: S09
+Paris coordinates: -956784, 247022, 722813
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+INFANT STAR, CLASS S09. NO PLANETS. SERPENS, 6011 665.929

@@ -1,0 +1,11 @@
+Star: B EXPRESS 22
+Star class: S06
+Paris coordinates: -79424208, -1059004, 61611532
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THE LINE NOW HEADS FOR THE FINAL NAMED CLUSTER...NOT REALLY A               
+CLUSTER, WITH ONLY THREE STARS, BUT THEY'RE THE LAST NAMED STARS            
+BEFORE THE RIM@STAR'S END.                                                  

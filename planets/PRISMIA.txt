@@ -1,0 +1,6 @@
+Planet: PRISMIA
+Starmap index: 02
+Paris coordinates: 2570352, 5898082, -1391976
+
+Guide entries:
+ DISCOVERED BY MRUQE; EPOC 6011-568.644

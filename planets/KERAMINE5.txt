@@ -1,0 +1,6 @@
+Planet: KERAMINE5
+Starmap index: 05
+Paris coordinates: -36432, -1290440, 1061497
+
+Guide entries:
+SMALL, NO ATMOSPHERE. GREEN COLOURED AND CRATERISED.

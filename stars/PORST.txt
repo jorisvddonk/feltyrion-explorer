@@ -1,0 +1,10 @@
+Star: PORST
+Star class: S06
+Paris coordinates: 3642128, 4639353, -114931
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FOUND EPOC 6011:604.519 BY PIETARI SEPPAENEN.
+CLASS S06. COMPLETELY UNREMARKABLE. UNSUITABLE FOR SCOPING.

@@ -1,0 +1,3 @@
+Planet: D'KAA JEI
+Starmap index: 25
+Paris coordinates: 4860720, 8320240, -6249233

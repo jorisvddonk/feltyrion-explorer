@@ -1,0 +1,7 @@
+Star: FARTHEST SOUTH
+Star class: S05
+Paris coordinates: -81720720, -80413421, -80777117
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)

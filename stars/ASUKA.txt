@@ -1,0 +1,23 @@
+Star: ASUKA
+Star class: S00
+Paris coordinates: 5142128, 4600242, -1544061
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+- LAIN (f felisian)
+- EMERALDUS (f felisian)
+- VESPERTINE (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+(DISCOVERED EPOC 6011, 577.288.000. BY KAYIN ANGEL)
+THE ASUKA SYSTEM IS A MEDUIM YELLOW STAR, WITH 7 PLANETS.
+THE FOURTH PLANET, LAIN, IS A FELISIAN WORLD WITH RINGS.

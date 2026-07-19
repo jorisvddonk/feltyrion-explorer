@@ -1,0 +1,10 @@
+Star: ZIRILL
+Star class: S06
+Paris coordinates: 2147434608, 1848833, 400171793
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.303
+(S06) LI+

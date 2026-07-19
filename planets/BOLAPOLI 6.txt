@@ -1,0 +1,6 @@
+Planet: BOLAPOLI 6
+Starmap index: 06
+Paris coordinates: 6458544, 4745807, -225388
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.999.988)

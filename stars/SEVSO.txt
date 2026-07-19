@@ -1,0 +1,27 @@
+Star: SEVSO
+Star class: S00
+Paris coordinates: -85008, 1143030, 1966563
+Bodies: 21 (9 planets, 12 moons)
+
+System:
+- POLA (k thick atmosphere)
+- GOKAR (k thick atmosphere)
+- FANGVAR (f felisian)
+- ARGAN (f felisian)
+  - GALIN (n thin atmosphere)
+  - GREN (^ unstable)
+- CALLOLIN (k thick atmosphere)
+- TURASAL (@ large, not consistent)
+  - COVOS (d dusty, craterized)
+  - TORON (d dusty, craterized)
+  - ELEBIN (k thick atmosphere)
+  - RHIA (n thin atmosphere)
+  - YASIUS (d dusty, craterized)
+  - ORRET (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (^ unstable)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (q quartz surface)
+  - Moon #0 (d dusty, craterized)

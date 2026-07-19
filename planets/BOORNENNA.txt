@@ -1,0 +1,8 @@
+Planet: BOORNENNA
+Starmap index: 10
+Paris coordinates: 1353936, 4952744, -3128537
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.636.520                           
+5TH MOON OF VIOLETTESSA                                                     
+TOO HOT TO LAND. SURFACE APPEARS VOLCANIC.                                  

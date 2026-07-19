@@ -1,0 +1,3 @@
+Planet: 2OF3
+Starmap index: 21
+Paris coordinates: 8107120, 9232316, -2786137

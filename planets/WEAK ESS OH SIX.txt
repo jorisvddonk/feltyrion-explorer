@@ -1,0 +1,3 @@
+Planet: WEAK ESS OH SIX
+Starmap index: 01
+Paris coordinates: 3328560, 4328964, -529244

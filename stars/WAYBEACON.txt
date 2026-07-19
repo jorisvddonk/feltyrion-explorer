@@ -1,0 +1,10 @@
+Star: WAYBEACON
+Star class: S07
+Paris coordinates: -225712, 102875, -99797
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BLUE DWARF STAR 11LY FROM FELYSIA WITH NO PLANETS.
+(DISCOVERED BY SCHMERM 6011 583.21)

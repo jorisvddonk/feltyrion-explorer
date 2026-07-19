@@ -1,0 +1,49 @@
+Star: FOUNDATION
+Star class: S04
+Paris coordinates: 2147416112, 1656395, 55270555
+Bodies: 38 (11 planets, 27 moons)
+
+System:
+- FOUNDATION PRIME (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (@ large, not consistent)
+- Planet #6 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #9 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (i icy surface)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (i icy surface)
+  - Moon #10 (i icy surface)
+  - Moon #11 (i icy surface)
+  - Moon #12 (i icy surface)
+  - Moon #13 (i icy surface)
+  - Moon #14 (d dusty, craterized)
+- Planet #10 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.988
+THIS IS WHERE I FINISHED MY QUEST TO THE OUTER RIM - DODO C. SNOTTS
+(S04) 11 PLANETS / 27 MINOR

@@ -1,0 +1,54 @@
+Star: TITA
+Star class: S00
+Paris coordinates: 3679984, 4810478, -21448
+Bodies: 30 (12 planets, 18 moons)
+
+System:
+- INFIERNILLO (k thick atmosphere)
+- ANULAR (n thin atmosphere)
+- NUBLAR (k thick atmosphere)
+- VERDEBELLA (f felisian)
+- DESERTICA (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- INOSPITA (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- ARIDA (d dusty, craterized)
+- QUARITZIA (q quartz surface)
+- Planet #8 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (i icy surface)
+  - Moon #10 (i icy surface)
+  - Moon #11 (i icy surface)
+  - Moon #12 (i icy surface)
+  - Moon #13 (i icy surface)
+- ABANDONO (d dusty, craterized)
+- OLVIDO (d dusty, craterized)
+- LEJANIA (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+DISCOVERED BY LEOW, EPOCH 6011 TRIAD:579.151.262
+ THIS IS AVERY INTERESTING SYS, EACH PLANET NEAR THE STAR IS UNIQUE.
+BUT ARIDA Y DESERTICA ARE ALMOST TWINS, INSTEAD BEING PLANET 5 AND 7
+INOSPITA ISSIMILAR, BUT NO AS ARIDA AND DESERTICA ARE.
+OLVIDO Y ABANDONO ARE ALMOST TWINS TOO,
+I, LEOW, NOT FINDED THE 12 PLANET OF THE SYS, PROBABLY IN ANOTHER EXPEDIT
+VERDEBELLA IS A BEAUTIFUL PLANET, FULL OF LIFE, PLANTS AND ANIMALS,
+IT'S VERY CURIOUS TO HAVE 2 PAIR OF TWIN PLANETS IN THE SAME SYSTEM.
+COMRADE STARDRIFTER, MAY I ASK YOU A FAVOR? IF YOU FIND THE LAST PLANET..
+PLEASE LABEL IT AS 'LEJANIA', THIS IS THE NAME I WANTED TO LABEL IT...
+BUT DESTINY CHANGED MY PLANS. LEJANIA MEANS 'REMOTE PLACE'. PLEASE. LEOW.
+I, MURRMURR, HAVE FOUND AND LABELLED THE 12TH PLANET 'LEJANIA'.
+(AS PER THE PREVIOUS STARDRIFTER'S WISH).
+IT WAS EASY TO FIND THE PLANET. I JUST WENT TO ONE OF IT'S MOONS, AND
+FROM THERE IT WAS A SHORT HOP TO THE PLANET.
+(NOTES BY MURRMURR EPOC 6011:608.339)

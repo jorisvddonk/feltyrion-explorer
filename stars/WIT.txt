@@ -1,0 +1,6 @@
+Star: WIT
+Star class: S06
+Paris coordinates: 5773200, 4956989, -2473711
+Bodies: 0 (0 planets, 0 moons)
+
+System:

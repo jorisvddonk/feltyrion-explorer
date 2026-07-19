@@ -1,0 +1,3 @@
+Planet: FAZIKAD
+Starmap index: 01
+Paris coordinates: 5774288, 5587050, -6132532

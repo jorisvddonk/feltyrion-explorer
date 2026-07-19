@@ -1,0 +1,10 @@
+Star: TANKSTAR3
+Star class: S03
+Paris coordinates: 6244976, 6921378, -565403
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)
+- TANKWORLD3A (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)

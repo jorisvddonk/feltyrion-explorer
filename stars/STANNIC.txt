@@ -1,0 +1,15 @@
+Star: STANNIC
+Star class: S02
+Paris coordinates: 3722448, 2243696, 8259093
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- STANNIC I (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- STANNIC III (+ substellar object)
+- STANNIC IV (r rocky, creased)
+- STANNIC V (n thin atmosphere)
+- STANNIC VI (d dusty, craterized)
+
+Guide entries:
+A CLASS S02 SYSTEM WITH 6 PLANETS. SKINNYMON EPOC 6011 586.192

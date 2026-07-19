@@ -1,0 +1,10 @@
+Star: JULIO
+Star class: S06
+Paris coordinates: 3873200, 4539766, -395636
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY SIRKING, 6011.687.459                                         
+NO USABLE LITHIUM PRESENT                                                   

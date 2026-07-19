@@ -1,0 +1,6 @@
+Star: CARFISMAROOS
+Star class: S06
+Paris coordinates: 250000, 51050000, -350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

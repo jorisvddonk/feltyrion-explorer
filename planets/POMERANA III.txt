@@ -1,0 +1,6 @@
+Planet: POMERANA III
+Starmap index: 03
+Paris coordinates: 3751088, 5827367, -7611043
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.627 -                                

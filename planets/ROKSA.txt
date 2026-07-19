@@ -1,0 +1,3 @@
+Planet: ROKSA
+Starmap index: 01
+Paris coordinates: 4083920, 4839555, -2094433

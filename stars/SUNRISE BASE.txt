@@ -1,0 +1,16 @@
+Star: SUNRISE BASE
+Star class: S00
+Paris coordinates: 5338192, 5634993, -63131
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- PLAYA DEL MENDOZA (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- SANTO SEPULCRO (f felisian)
+  - Moon #0 (d dusty, craterized)

@@ -1,0 +1,7 @@
+Planet: ESASFH
+Starmap index: 11
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+ P11/11 SMALL SOLID THIN ATMORATHER DARK FAIR POLAR CAPS. PRO 0,137.        
+160 PRV 5.317.785.??? SKINNYMON 6011 792.252                                

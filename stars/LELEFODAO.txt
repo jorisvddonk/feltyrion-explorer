@@ -1,0 +1,11 @@
+Star: LELEFODAO
+Star class: S00
+Paris coordinates: 3352848, 4591963, -1063331
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LARCENEUS (q quartz surface)
+
+Guide entries:
+DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:601.781. ONLY ONE PLANET.
+SYSTEM WITH NO LIFE FORMS.

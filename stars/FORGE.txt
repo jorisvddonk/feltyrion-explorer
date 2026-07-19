@@ -1,0 +1,36 @@
+Star: FORGE
+Star class: S03
+Paris coordinates: 167504, 1555824, -843778
+Bodies: 27 (7 planets, 20 moons)
+
+System:
+- SPIKE (q quartz surface)
+- Planet #1 (+ substellar object)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (^ unstable)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (^ unstable)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - ORC (f felisian)
+  - Moon #12 (q quartz surface)
+  - Moon #13 (^ unstable)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY SHADOW151 6011.679.333                                       

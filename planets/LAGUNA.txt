@@ -1,0 +1,3 @@
+Planet: LAGUNA
+Starmap index: 03
+Paris coordinates: 2877136, 4566430, -1124365

@@ -1,0 +1,3 @@
+Planet: MOONSIDE
+Starmap index: 03
+Paris coordinates: 956784, 1809441, -381050

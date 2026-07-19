@@ -1,0 +1,3 @@
+Planet: ILLUMINUS
+Starmap index: 02
+Paris coordinates: 2859632, 4636208, -356909

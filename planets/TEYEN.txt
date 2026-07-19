@@ -1,0 +1,3 @@
+Planet: TEYEN
+Starmap index: 10
+Paris coordinates: -107473808, 25015881, -2024939

@@ -1,0 +1,6 @@
+Star: TOMBSTONE
+Star class: S06
+Paris coordinates: 7769264, 4189063, -2622902
+Bodies: 0 (0 planets, 0 moons)
+
+System:

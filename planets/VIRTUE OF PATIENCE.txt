@@ -1,0 +1,7 @@
+Planet: VIRTUE OF PATIENCE
+Starmap index: 02
+Paris coordinates: 4504272, 4730261, -1221398
+
+Guide entries:
+BLADE TRAIN3R 6011 705;157                                                  
+GRAVITY +- 0.3 NORMAL, NO UNUSUAL TOPOGRAPHY                                

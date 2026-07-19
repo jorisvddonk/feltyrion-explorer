@@ -1,0 +1,6 @@
+Star: GALAGA
+Star class: S06
+Paris coordinates: 1729648, 4209995, -2774315
+Bodies: 0 (0 planets, 0 moons)
+
+System:

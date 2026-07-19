@@ -1,0 +1,6 @@
+Star: INFANTIA
+Star class: S09
+Paris coordinates: 4793552, 5197362, -348684
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,16 @@
+Star: KILLEBREW
+Star class: S00
+Paris coordinates: 3983920, 4627313, -2037785
+Bodies: 10 (8 planets, 2 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (q quartz surface)
+- Planet #3 (r rocky, creased)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (r rocky, creased)

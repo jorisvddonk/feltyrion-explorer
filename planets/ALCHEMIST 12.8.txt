@@ -1,0 +1,7 @@
+Planet: ALCHEMIST 12.8
+Starmap index: 45
+Paris coordinates: 4448912, 4340329, -472415
+
+Guide entries:
+SMALL, ICY MOON, GREEN SURFACE, MANY VISIBLE CRACKS. SERPENS,
+6011 665.864

@@ -1,0 +1,9 @@
+Star: SKINNYSPHERE
+Star class: S11
+Paris coordinates: -1427262896, 771867, 1436327083
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S11, NO PLANETS(PHEW!). RYAN GJK E6011.787.60                               

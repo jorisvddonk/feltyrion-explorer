@@ -1,0 +1,6 @@
+Planet: PINK PLANET
+Starmap index: 03
+Paris coordinates: 1755696, 7604252, 2399357
+
+Guide entries:
+ DISCOVERED BY SHADOW151 6011.598.384

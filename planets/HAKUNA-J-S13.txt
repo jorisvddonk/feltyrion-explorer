@@ -1,0 +1,3 @@
+Planet: HAKUNA-J-S13
+Starmap index: 59
+Paris coordinates: 264656, 999491, -3130269

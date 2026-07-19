@@ -1,0 +1,3 @@
+Planet: LARINX
+Starmap index: 14
+Paris coordinates: 2359632, 5058003, 162880

@@ -1,0 +1,6 @@
+Star: MID PATHFINDER
+Star class: S02
+Paris coordinates: 1410950000, 150000, -1411050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

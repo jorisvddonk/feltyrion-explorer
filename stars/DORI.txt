@@ -1,0 +1,10 @@
+Star: DORI
+Star class: S06
+Paris coordinates: -665904, -39768168, 44275752
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 648.173 ON MY WAY TO THE OUTER
+RIM. WISH ME LUCK

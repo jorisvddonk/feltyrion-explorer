@@ -1,0 +1,6 @@
+Star: JAMESFENIMORECOOPER
+Star class: S06
+Paris coordinates: -4790704, 1838731, 2455030
+Bodies: 0 (0 planets, 0 moons)
+
+System:

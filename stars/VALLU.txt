@@ -1,0 +1,32 @@
+Star: VALLU
+Star class: S03
+Paris coordinates: 51550608, 1048480, 54943506
+Bodies: 22 (13 planets, 9 moons)
+
+System:
+- VALLU PRIME (d dusty, craterized)
+- VALLU 2 (d dusty, craterized)
+- VALLU 3 (f felisian)
+- VALLU 4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- VALLU 5 (k thick atmosphere)
+- VALLU 6 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+- VALLU 7 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- VALLU 8 (d dusty, craterized)
+- VALLU 9 (i icy surface)
+- VALLU 10 (i icy surface)
+- VALLU 11 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- VALLU 12 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+- VALLU 13 (d dusty, craterized)
+
+Guide entries:
+ DODO C. SNOTTS - 6014:789.550 - ON MY QUEST TO THE OUTER RIM
+(S03) 13 PLANETS / 9 MOONS

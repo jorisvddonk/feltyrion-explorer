@@ -1,0 +1,3 @@
+Planet: MONTAZUL
+Starmap index: 04
+Paris coordinates: 3959632, 4540688, -1516089

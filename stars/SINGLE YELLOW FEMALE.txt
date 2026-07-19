@@ -1,0 +1,6 @@
+Star: SINGLE YELLOW FEMALE
+Star class: S00
+Paris coordinates: -950000, 9681927, 1050152
+Bodies: 0 (0 planets, 0 moons)
+
+System:

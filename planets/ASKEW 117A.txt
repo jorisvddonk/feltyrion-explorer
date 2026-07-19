@@ -1,0 +1,3 @@
+Planet: ASKEW 117A
+Starmap index: 01
+Paris coordinates: 2729232, -12713175, 9674887

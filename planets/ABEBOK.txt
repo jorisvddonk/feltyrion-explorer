@@ -1,0 +1,8 @@
+Planet: ABEBOK
+Starmap index: 10
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+P10/12 SMAL SOLID ICY. GREY COLOR WITH LIGHT GROOVING. HAS A VERY LARGE     
+ THOUGH TENUOUS, STILL REFLECTIVE DEBRIS RING. PRO 0.236.160 PRV 0.612.     
+566/122 SKINNYMON 6011 797.171                                              

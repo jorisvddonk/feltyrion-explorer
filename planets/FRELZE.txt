@@ -1,0 +1,3 @@
+Planet: FRELZE
+Starmap index: 29
+Paris coordinates: 3775888, 4823813, 38544600

@@ -1,0 +1,3 @@
+Planet: LANE.12.12(I)
+Starmap index: 71
+Paris coordinates: 1463568, 4728350, -437812

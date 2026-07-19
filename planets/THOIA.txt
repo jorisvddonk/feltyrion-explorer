@@ -1,0 +1,6 @@
+Planet: THOIA
+Starmap index: 03
+Paris coordinates: 4351760, 6255857, 1754917
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.999.787)

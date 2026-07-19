@@ -1,0 +1,23 @@
+Star: ELEVOS
+Star class: S00
+Paris coordinates: 1323536, 2117778, 6972572
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- LIROS (r rocky, creased)
+- OCELOTHOS (q quartz surface)
+- COLUMBUS (f felisian)
+- ETHEN (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- NAMEUS (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- VIESTARTOS (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- NATOS (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- PROTORN (k thick atmosphere)
+- SCAROS (i icy surface)

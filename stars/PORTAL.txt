@@ -1,0 +1,39 @@
+Star: PORTAL
+Star class: S00
+Paris coordinates: 3935344, 4324120, -784352
+Bodies: 22 (11 planets, 11 moons)
+
+System:
+- DIVINE COMEDY (+ substellar object)
+- PICUL (@ large, not consistent)
+- BLAND (@ large, not consistent)
+  - WET BLANKET (n thin atmosphere)
+  - THINGAMAJIG (f felisian)
+  - DAVY LAMP (^ unstable)
+  - PRIMUS (f felisian)
+  - SINTER (d dusty, craterized)
+- WELCOME (f felisian)
+  - TOPONYM (d dusty, craterized)
+  - CRENATE (d dusty, craterized)
+  - SELLER (d dusty, craterized)
+- LONG FACE (r rocky, creased)
+- SPOTTY RECORD (k thick atmosphere)
+  - TORREFY (^ unstable)
+- SYBIL (r rocky, creased)
+  - DICKY (d dusty, craterized)
+- RELUCTANCE (k thick atmosphere)
+  - TABU (n thin atmosphere)
+- MORAL HAZARD (n thin atmosphere)
+- DOOR STOP (i icy surface)
+- EXPIRY (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: APPARENTLY THIS SYSTEM WAS DISCOVERED BY A STARDRIFTER
+ON A 'GOLD RUSH' FOR FELISIAN WORLDS. HE NAMED THE STAR, ONE PLANET
+(FELISIAN) AND ONE MOON (FELISIAN). HOWEVER, HE DIDN'T NAME THE PLANET
+THE MOON ORBITED, SO WHEN A DL WAS RUN ON THE STAR, ONLY THE PLANET
+APPEARED ON THE TREE. HE ALSO LEFT NO NOTES ON EITHER THE STAR, THE
+PLANET, OR THE MOON. THAT'S WHERE I CAME IN. I'M SKINNYMON, AND NOTES
+ARE MY FORTE. THE SYSTEM CONSISTS OF 11 PLANETS AND 10 MOONS. A THIRD
+FELISIAN WORLD (A MOON IN THE SAME SYSTEM THE STARDRIFTER'S MOON IS IN)
+WAS DISCOVERED. SKINNYMON EPOC 6011 566.997

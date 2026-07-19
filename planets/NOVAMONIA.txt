@@ -1,0 +1,3 @@
+Planet: NOVAMONIA
+Starmap index: 01
+Paris coordinates: 14903184, 32253007, -7941049

@@ -1,0 +1,6 @@
+Star: WTLITHIUMSOURCE
+Star class: S06
+Paris coordinates: -173200, 6367951, -2926009
+Bodies: 0 (0 planets, 0 moons)
+
+System:

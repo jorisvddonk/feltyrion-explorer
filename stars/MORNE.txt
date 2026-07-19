@@ -1,0 +1,6 @@
+Star: MORNE
+Star class: S06
+Paris coordinates: 2825712, 4348582, -2160308
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,8 @@
+Star: XANDAR
+Star class: S02
+Paris coordinates: 4059632, 4333879, -1442615
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- XANDAR 2 (r rocky, creased)
+- XANDAR 1 (d dusty, craterized)

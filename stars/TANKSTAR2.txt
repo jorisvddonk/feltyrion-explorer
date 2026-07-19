@@ -1,0 +1,11 @@
+Star: TANKSTAR2
+Star class: S08
+Paris coordinates: 5769264, 6836116, -738272
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- TANKCOMPSTAR2 (* companion star)
+  - TANKMOON2A (k thick atmosphere)
+  - TANKMOON2B (d dusty, craterized)
+- TANKWORLD2B (q quartz surface)
+- TANKWORLD2A (q quartz surface)

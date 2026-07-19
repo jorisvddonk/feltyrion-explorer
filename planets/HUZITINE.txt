@@ -1,0 +1,6 @@
+Planet: HUZITINE
+Starmap index: 11
+Paris coordinates: 4283920, 4264038, -2340212
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.336)

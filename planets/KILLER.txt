@@ -1,0 +1,3 @@
+Planet: KILLER
+Starmap index: 05
+Paris coordinates: -1221776, -261, -795876

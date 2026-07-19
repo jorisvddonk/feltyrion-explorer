@@ -1,0 +1,3 @@
+Planet: TRAAK
+Starmap index: 01
+Paris coordinates: 1559632, 30894784, 1061848

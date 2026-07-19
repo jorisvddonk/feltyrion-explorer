@@ -1,0 +1,6 @@
+Star: SKT 3
+Star class: S06
+Paris coordinates: 2950000, -756, -2780271
+Bodies: 0 (0 planets, 0 moons)
+
+System:

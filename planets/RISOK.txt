@@ -1,0 +1,3 @@
+Planet: RISOK
+Starmap index: 09
+Paris coordinates: 759632, -29653883, 1894601

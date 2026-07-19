@@ -1,0 +1,45 @@
+Star: GABRIELLE
+Star class: S01
+Paris coordinates: 1052848, 1236149, 1272524
+Bodies: 36 (7 planets, 29 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (^ unstable)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (q quartz surface)
+  - PUREFIELDS (f felisian)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (^ unstable)
+  - Moon #7 (k thick atmosphere)
+- GLASS EYE (q quartz surface)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (^ unstable)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (^ unstable)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (i icy surface)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (d dusty, craterized)
+  - Moon #16 (i icy surface)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.317

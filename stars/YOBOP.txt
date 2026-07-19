@@ -1,0 +1,10 @@
+Star: YOBOP
+Star class: S06
+Paris coordinates: 5079984, 4521208, -1365907
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S06 STAR SUITABLE FOR REFUELING
+DISCOVERED BY CRUMB, EPOC 6011:570.86

@@ -1,0 +1,3 @@
+Planet: HOTIRIS3
+Starmap index: 03
+Paris coordinates: 3055696, 4879869, 1258058

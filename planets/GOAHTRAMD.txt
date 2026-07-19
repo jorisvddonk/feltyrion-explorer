@@ -1,0 +1,3 @@
+Planet: GOAHTRAMD
+Starmap index: 04
+Paris coordinates: 2056784, 6465841, -1650892

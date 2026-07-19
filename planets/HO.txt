@@ -1,0 +1,3 @@
+Planet: HO
+Starmap index: 03
+Paris coordinates: 2908208, 4507513, -1355104

@@ -1,0 +1,6 @@
+Star: ASTRO PATH A60
+Star class: S07
+Paris coordinates: 5779056, 4046282, -34981668
+Bodies: 0 (0 planets, 0 moons)
+
+System:

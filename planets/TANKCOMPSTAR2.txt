@@ -1,0 +1,3 @@
+Planet: TANKCOMPSTAR2
+Starmap index: 01
+Paris coordinates: 5769264, 6836116, -738272

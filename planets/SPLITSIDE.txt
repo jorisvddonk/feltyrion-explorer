@@ -1,0 +1,3 @@
+Planet: SPLITSIDE
+Starmap index: 71
+Paris coordinates: 70352, 945533, 1134813

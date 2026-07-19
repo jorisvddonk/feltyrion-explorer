@@ -1,0 +1,10 @@
+Star: REDIAN
+Star class: S03
+Paris coordinates: 4700336, 4332862, 233642
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LARGE S03 RED GIANT STAR. NO MAJOR BODIES, AND NO FURTHER REASON TO       
+VISIT THIS SYSTEM :-/ (DISCOVERED BY SERAXIS. EPOC 6011, 679.444.405)       

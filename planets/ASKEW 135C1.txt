@@ -1,0 +1,3 @@
+Planet: ASKEW 135C1
+Starmap index: 04
+Paris coordinates: 8363824, -17104928, 15600988

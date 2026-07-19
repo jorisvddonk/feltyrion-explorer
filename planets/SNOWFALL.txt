@@ -1,0 +1,3 @@
+Planet: SNOWFALL
+Starmap index: 03
+Paris coordinates: 5778896, 4368741, 1774831

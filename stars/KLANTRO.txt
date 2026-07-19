@@ -1,0 +1,28 @@
+Star: KLANTRO
+Star class: S04
+Paris coordinates: 1583920, -27673265, 361375
+Bodies: 22 (10 planets, 12 moons)
+
+System:
+- SISXU (^ unstable)
+- LUFTOL (q quartz surface)
+- BESK (r rocky, creased)
+  - BAXE (d dusty, craterized)
+- QUONK (d dusty, craterized)
+  - TRUYSE (d dusty, craterized)
+- RATOLUTA (+ substellar object)
+  - KESRI (r rocky, creased)
+  - RIGUS (k thick atmosphere)
+  - GINGO (d dusty, craterized)
+  - NEKSURIA (d dusty, craterized)
+  - PUNZA (^ unstable)
+  - GLUEX (d dusty, craterized)
+  - ARTOL (n thin atmosphere)
+- IXUX (d dusty, craterized)
+- POELTSCH (d dusty, craterized)
+  - PLIGARON (d dusty, craterized)
+- KNISCHTEL (q quartz surface)
+- LUFTIKUS (k thick atmosphere)
+  - LYSO (i icy surface)
+- LUCHS (d dusty, craterized)
+  - UNGHO (d dusty, craterized)

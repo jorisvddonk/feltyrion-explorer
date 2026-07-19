@@ -1,0 +1,6 @@
+Planet: DES2
+Starmap index: 02
+Paris coordinates: 36432, 433110, -621435
+
+Guide entries:
+ONE CANNOT LAND ON THIS CLOUDY PLANET

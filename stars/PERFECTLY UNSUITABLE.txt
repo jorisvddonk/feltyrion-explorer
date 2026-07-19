@@ -1,0 +1,12 @@
+Star: PERFECTLY UNSUITABLE
+Star class: S10
+Paris coordinates: 3446064, 4908620, -1610482
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- RED CRESENT (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+
+Guide entries:
+NAMED BECAUSE THIS TYPE OF STAR IS UNSUITABLE FOR PLANETS
+YET IT IS HOME TO 2

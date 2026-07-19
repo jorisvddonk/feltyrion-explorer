@@ -1,0 +1,33 @@
+Star: CRENSHAW
+Star class: S00
+Paris coordinates: 12144, 154769, -241000
+Bodies: 27 (5 planets, 22 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- CRENSHAW II (d dusty, craterized)
+- SULIMAR (f felisian)
+  - DROHQ (d dusty, craterized)
+  - KROKHO (d dusty, craterized)
+- ZEBRIM (@ large, not consistent)
+  - ZEBRIM A (n thin atmosphere)
+  - ZEBRIM B (^ unstable)
+  - ZEBRIM C (n thin atmosphere)
+  - ZEBRIM D (d dusty, craterized)
+  - ZEBRIM E (^ unstable)
+  - ZEBRIM F (d dusty, craterized)
+  - ZEBRIM G (n thin atmosphere)
+  - ZEBRIM H (n thin atmosphere)
+  - Moon #8 (f felisian)
+  - CREAMPIE (k thick atmosphere)
+  - ZEBRIM K (d dusty, craterized)
+  - ZEBRIM L (k thick atmosphere)
+  - ZEBRIM M (r rocky, creased)
+  - YELLOWHELLOW (^ unstable)
+  - ZEBRIM O (n thin atmosphere)
+  - ZEBRIM P (d dusty, craterized)
+  - ZEBRIM Q (n thin atmosphere)
+  - LUMINOUS YETI (d dusty, craterized)
+- BRACKARACK (n thin atmosphere)
+  - BRACKARACK A (n thin atmosphere)
+  - BRACKARACK B (d dusty, craterized)

@@ -1,0 +1,3 @@
+Planet: CAUSALIDAD
+Starmap index: 01
+Paris coordinates: 4390704, 5394299, -2041809

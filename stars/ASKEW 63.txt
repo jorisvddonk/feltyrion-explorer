@@ -1,0 +1,14 @@
+Star: ASKEW 63
+Star class: S11
+Paris coordinates: 10983088, -19247710, 18057584
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ASKEW 63A (n thin atmosphere)
+- ASKEW 63B (@ large, not consistent)
+- ASKEW 63C (d dusty, craterized)
+  - ASKEW 63C1 (i icy surface)
+
+Guide entries:
+PULSAR SYSTEM WITH 3 PLANETS AND A MOON.
+THE VIEWS FROM C1 ARE EXCELLENT!

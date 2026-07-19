@@ -1,0 +1,12 @@
+Star: LET US SLEEP NOW
+Star class: S01
+Paris coordinates: 3597488, 5147303, -787501
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ESCAPE (q quartz surface)
+- RELEASED (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY R.CLEAR EPOC 6011:564.673
+INSPIRED BY THE POEM 'STRANGE MEETING' BY WILRED OWEN

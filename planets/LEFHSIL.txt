@@ -1,0 +1,8 @@
+Planet: LEFHSIL
+Starmap index: 03
+Paris coordinates: 634354160, -10849132, 49993180
+
+Guide entries:
+P03 DUSTY BROWN REFLECTIVITY FOR A DUSTY WORLD, WITH LARGECRATERS WITH      
+BRIGHT RAYS, ALSO HAS A SMALL DEBRIS RING. PRO 0.177.480; PRV               
+0.096.593.608 SKINNYMON 6011 893.152                                        

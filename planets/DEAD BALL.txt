@@ -1,0 +1,6 @@
+Planet: DEAD BALL
+Starmap index: 01
+Paris coordinates: 2783920, 5342560, -724918
+
+Guide entries:
+FOUND BY DAMATS IN EPOC 6011.564.12 DEAD

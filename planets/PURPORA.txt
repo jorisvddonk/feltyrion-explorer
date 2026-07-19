@@ -1,0 +1,3 @@
+Planet: PURPORA
+Starmap index: 05
+Paris coordinates: -61470448, 29952124, 573120

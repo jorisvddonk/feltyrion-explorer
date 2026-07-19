@@ -1,0 +1,3 @@
+Planet: ALLON
+Starmap index: 22
+Paris coordinates: 1067504, 1964183, -1819350

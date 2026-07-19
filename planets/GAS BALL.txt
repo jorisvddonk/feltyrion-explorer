@@ -1,0 +1,6 @@
+Planet: GAS BALL
+Starmap index: 01
+Paris coordinates: 3852848, 4360565, -1796331
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.14.15

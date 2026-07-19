@@ -1,0 +1,6 @@
+Star: HIGHWAY 21
+Star class: S11
+Paris coordinates: -15711472, -4872810, 25682621
+Bodies: 0 (0 planets, 0 moons)
+
+System:

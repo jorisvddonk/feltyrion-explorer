@@ -1,0 +1,3 @@
+Planet: MBTP 25
+Starmap index: 08
+Paris coordinates: -61584016, 29782048, -184920

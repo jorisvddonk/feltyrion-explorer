@@ -1,0 +1,3 @@
+Planet: AURUS
+Starmap index: 04
+Paris coordinates: 3277136, 4429407, -1460385

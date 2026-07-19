@@ -1,0 +1,17 @@
+Star: WHITE HEDGE
+Star class: S02
+Paris coordinates: 3700336, 6429555, 1222600
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+- Planet #2 (@ large, not consistent)
+- GREEN MESA (r rocky, creased)
+- Planet #4 (@ large, not consistent)
+- BROWNYSKY (k thick atmosphere)
+- PIDOUBLE (+ substellar object)
+- Planet #7 (@ large, not consistent)
+
+Guide entries:
+DISCOVERED EPOC 6012 55:588 (ITS TIME OF LABELING)

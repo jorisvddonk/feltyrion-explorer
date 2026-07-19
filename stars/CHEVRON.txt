@@ -1,0 +1,6 @@
+Star: CHEVRON
+Star class: S06
+Paris coordinates: 3477136, 4341968, -1645412
+Bodies: 0 (0 planets, 0 moons)
+
+System:

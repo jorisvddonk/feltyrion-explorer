@@ -1,0 +1,3 @@
+Planet: YOG
+Starmap index: 01
+Paris coordinates: 4186768, 4143444, -134465

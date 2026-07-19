@@ -1,0 +1,3 @@
+Planet: GLOVOX
+Starmap index: 02
+Paris coordinates: 3466416, 4809260, -635953

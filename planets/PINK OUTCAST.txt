@@ -1,0 +1,3 @@
+Planet: PINK OUTCAST
+Starmap index: 02
+Paris coordinates: -71737776, -612728, 53298332

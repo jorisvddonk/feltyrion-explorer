@@ -1,0 +1,3 @@
+Planet: LAGRAND.9.12
+Starmap index: 32
+Paris coordinates: 3779984, 3313464, -52977

@@ -1,0 +1,3 @@
+Planet: PINK ICE
+Starmap index: 47
+Paris coordinates: 3942128, 4305316, -442144

@@ -1,0 +1,6 @@
+Star: BEAN FUEL
+Star class: S06
+Paris coordinates: 3239280, 4427441, -1785175
+Bodies: 0 (0 planets, 0 moons)
+
+System:

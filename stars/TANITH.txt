@@ -1,0 +1,9 @@
+Star: TANITH
+Star class: S07
+Paris coordinates: -156784, 437190, -22791
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:574.370

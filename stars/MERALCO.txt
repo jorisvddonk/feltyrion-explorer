@@ -1,0 +1,11 @@
+Star: MERALCO
+Star class: S06
+Paris coordinates: 3304272, 4531155, -35058
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ZK306 EPOC 6011.667.358.625
+STAR IS SUITABLE FOR SCOPING
+SYSTEM IS BARREN. ZK306 6011.667.358.785

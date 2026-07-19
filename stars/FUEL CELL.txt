@@ -1,0 +1,6 @@
+Star: FUEL CELL
+Star class: S06
+Paris coordinates: 6151760, 28561535, -57365
+Bodies: 0 (0 planets, 0 moons)
+
+System:

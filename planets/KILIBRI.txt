@@ -1,0 +1,3 @@
+Planet: KILIBRI
+Starmap index: 21
+Paris coordinates: -1862480, -12887279, -2575254

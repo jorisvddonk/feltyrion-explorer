@@ -1,0 +1,3 @@
+Planet: ORESTES 4
+Starmap index: 04
+Paris coordinates: 5224624, 5018024, -732889

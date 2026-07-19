@@ -1,0 +1,3 @@
+Planet: WS-3
+Starmap index: 18
+Paris coordinates: 3846064, 4400261, -2019011

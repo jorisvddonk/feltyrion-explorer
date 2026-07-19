@@ -1,0 +1,9 @@
+Star: LIT 5
+Star class: S05
+Paris coordinates: 5017840, 4216655, -1035000
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LITHIUM-EMITTING BROWN DWARF. NO PLANETS. SERPENS, 6011 665.865

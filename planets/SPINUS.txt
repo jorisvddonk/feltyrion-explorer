@@ -1,0 +1,3 @@
+Planet: SPINUS
+Starmap index: 02
+Paris coordinates: -61984016, 30000869, 155241

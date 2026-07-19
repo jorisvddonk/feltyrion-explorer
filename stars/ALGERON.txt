@@ -1,0 +1,57 @@
+Star: ALGERON
+Star class: S00
+Paris coordinates: 3781072, 5219529, -3829061
+Bodies: 30 (7 planets, 23 moons)
+
+System:
+- ALGERONIA 1 (@ large, not consistent)
+- ALGERONIA 2 (q quartz surface)
+- ALGERONIA 3 (r rocky, creased)
+- ALGERONIA 4 (k thick atmosphere)
+  - TRANSPERATEOUS (d dusty, craterized)
+- ALGERONIA 5 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (^ unstable)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (f felisian)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (n thin atmosphere)
+- ALGERONIA 6 (q quartz surface)
+- ALGERONIA 7 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - FELISIONA (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (i icy surface)
+
+Guide entries:
+STAR DISCOVERED BY OBLIVIATOR, EPOC 6011:595.697
+INITIAL PLANETARY SURVEY OF ALGERONIA 2 SHOWS PLANET IS BARREN, AND...
+...MOSTLY MADE OF ROCK. HILLS ARE RAMPANT. VERY BRIGHT PLANET WITH...
+...CLEAR VISIBILITY. (NOTES BY OBLIVIATOR, EPOC 6011:595.697)
+PLANETARY SURVEY OF ALGERONIA 3 SHOWS THAT IT IS ALSO BARREN AND...
+...DESOLATE. MAINLY ROCK AND FLAT PLAINS, VERY FEW HILLS EXIST. NO...
+...ATMOSPHERE IS PRESENT. VISIBILITY IS EXCELLENT.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.698)
+SURVEY OF ALGERONIA 4 PROVED INEFFECTIVE DUE TO THE LACK OF VISIBILTY.
+LIGHT APPARENTLY CANNOT PIERCE THE THICK ATMOSPHERE CAUSING ALL...
+...AROUND NIGHT-TIME. (NOTES BY OBLIVIATOR, EPOC 6011:595.698)
+INITIAL SURVERY OF A MOON OF ALGERONIA 5, TRANSPERATEOUS, THE...
+...LANDSCAPE SEEMS TO BE TRANSPARENT ON THE ENTIRE MOON SURFACE. IT...
+...IS AN INTERESTING FIND. (NOTES BY OBLIVIATOR, EPOC 6011:595.715)
+A MOON OF ALGERONIA 7, FELISIONA, IS APPARENTLY A FELISIAN MOON. IT...
+...IS LABELED TO HAVE A BREATHABLE ATMOSPHERE AND IS SUITABLE FOR...
+...LIFE.PLANET SURVEY SHOWED MASSIVE MOUNTAIN RANGES PROBABLY...
+...CAUSED BY AN EXTREME AMOUNT OF TECTONIC ACTIVITY.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.717)

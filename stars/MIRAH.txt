@@ -1,0 +1,10 @@
+Star: MIRAH
+Star class: S10
+Paris coordinates: 5864656, 6054769, -8847710
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+JUST ANOTHER RUN AWAY STAR, NO PLANETS OR OTHERWISE.
+(DISCOVERED AND NOTED UPON BY N5CORP ON 6011:625.877)

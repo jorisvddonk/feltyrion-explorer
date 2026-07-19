@@ -1,0 +1,6 @@
+Planet: CLUCOR
+Starmap index: 01
+Paris coordinates: -363568, 271605, -221691
+
+Guide entries:
+HOT, DUSTY, DESOLATE PLANET. (XEN MARMARIS 6011:563.46)

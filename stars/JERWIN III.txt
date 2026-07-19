@@ -1,0 +1,6 @@
+Star: JERWIN III
+Star class: S06
+Paris coordinates: -18539024, -5679966, 40589693
+Bodies: 0 (0 planets, 0 moons)
+
+System:

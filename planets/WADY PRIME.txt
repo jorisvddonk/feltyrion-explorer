@@ -1,0 +1,3 @@
+Planet: WADY PRIME
+Starmap index: 01
+Paris coordinates: 701071344, 1362109, 55871765

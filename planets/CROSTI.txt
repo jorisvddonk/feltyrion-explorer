@@ -1,0 +1,6 @@
+Planet: CROSTI
+Starmap index: 07
+Paris coordinates: 3111056, 4037153, 554224
+
+Guide entries:
+PLANET DISCOVERED BY MURRMURR EPOC 6011:608.337

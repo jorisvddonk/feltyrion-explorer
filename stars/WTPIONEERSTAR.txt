@@ -1,0 +1,11 @@
+Star: WTPIONEERSTAR
+Star class: S00
+Paris coordinates: -22802352, 3090342, -11020531
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (k thick atmosphere)
+- WTPIONEERPLANET1 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)

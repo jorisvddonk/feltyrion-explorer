@@ -1,0 +1,3 @@
+Planet: MOY-5
+Starmap index: 05
+Paris coordinates: -222864, 325508, 1826922

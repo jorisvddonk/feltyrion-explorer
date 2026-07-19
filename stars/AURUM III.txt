@@ -1,0 +1,12 @@
+Star: AURUM III
+Star class: S00
+Paris coordinates: -19614736, -5408940, 41020979
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)

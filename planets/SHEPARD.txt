@@ -1,0 +1,3 @@
+Planet: SHEPARD
+Starmap index: 07
+Paris coordinates: 5360, 336337, -613214

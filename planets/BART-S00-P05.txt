@@ -1,0 +1,3 @@
+Planet: BART-S00-P05
+Starmap index: 05
+Paris coordinates: 3025712, 9303498, -2378735

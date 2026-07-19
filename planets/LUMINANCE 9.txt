@@ -1,0 +1,6 @@
+Planet: LUMINANCE 9
+Starmap index: 09
+Paris coordinates: -425712, 797215, -142477
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.059.83)

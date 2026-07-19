@@ -1,0 +1,3 @@
+Planet: ASKEW 134B
+Starmap index: 02
+Paris coordinates: 7981328, -16959998, 15097044

@@ -1,0 +1,9 @@
+Star: GLARI
+Star class: S05
+Paris coordinates: 6050000, 8159236, -5853817
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 605.490

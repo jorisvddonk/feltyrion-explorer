@@ -1,0 +1,10 @@
+Star: XNO 1
+Star class: S06
+Paris coordinates: 4686768, 4339542, -574721
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LARGE, WEAK AND COLD DEAD GREY STAR. NOT SUITABLE FOR LITHIUM SCOPE.
+(NOTES BY EDWARD SEAGER, EPOC 6011:609.261

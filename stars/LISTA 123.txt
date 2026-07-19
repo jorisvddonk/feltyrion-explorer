@@ -1,0 +1,6 @@
+Star: LISTA 123
+Star class: S06
+Paris coordinates: 290356592, -1982711, -32221
+Bodies: 0 (0 planets, 0 moons)
+
+System:

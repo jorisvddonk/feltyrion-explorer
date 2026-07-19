@@ -1,0 +1,10 @@
+Planet: CHIPPED ICE ROCK
+Starmap index: 10
+Paris coordinates: 3966416, 3899706, -1028195
+
+Guide entries:
+MOON DISCOVERED BY SEBASTIAN PATTERSON EPOC 6011:683.298                    
+A MOON OF SAARDANT                                                          
+HAS A VERY LARGE CRATER ON ONE SIDE.                                        
+2 HUGE MOUNTAINS PARTLY COVERED IN ICE.                                     
+NICE VIEW OF THE SUN. '(NOTES BY SEB PAT EPOC 6011:683.298)'                

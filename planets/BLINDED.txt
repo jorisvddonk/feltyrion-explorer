@@ -1,0 +1,6 @@
+Planet: BLINDED
+Starmap index: 09
+Paris coordinates: -1532496, -973713, 623217
+
+Guide entries:
+VERY SIMILAR TO ITS PARENT PLANET 'BLINDME'.

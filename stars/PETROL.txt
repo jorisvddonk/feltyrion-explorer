@@ -1,0 +1,6 @@
+Star: PETROL
+Star class: S06
+Paris coordinates: 4655696, 5429115, -252730
+Bodies: 0 (0 planets, 0 moons)
+
+System:

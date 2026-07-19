@@ -1,0 +1,3 @@
+Planet: MOUNTANIA
+Starmap index: 02
+Paris coordinates: 4266416, 4655884, -1181596

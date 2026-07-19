@@ -1,0 +1,30 @@
+Star: USHER
+Star class: S08
+Paris coordinates: 4204272, 4397716, -1011668
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- MANOIR (* companion star)
+  - Moon #0 (d dusty, craterized)
+- Planet #1 (* companion star)
+  - Moon #0 (d dusty, craterized)
+- FALL (* companion star)
+- Planet #3 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (^ unstable)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (+ substellar object)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (q quartz surface)
+
+Guide entries:
+PLANET DISCOVERED BY MANUEL F. LANCTOT, AT EPOC 6011;576.193

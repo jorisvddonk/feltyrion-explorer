@@ -1,0 +1,3 @@
+Planet: CLADYLUN
+Starmap index: 05
+Paris coordinates: 3001424, 4265776, -1907110

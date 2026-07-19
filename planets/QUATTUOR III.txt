@@ -1,0 +1,3 @@
+Planet: QUATTUOR III
+Starmap index: 03
+Paris coordinates: 3174288, 4345848, -3434396

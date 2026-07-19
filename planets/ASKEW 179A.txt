@@ -1,0 +1,3 @@
+Planet: ASKEW 179A
+Starmap index: 01
+Paris coordinates: 4254608, -1005639, 3966789

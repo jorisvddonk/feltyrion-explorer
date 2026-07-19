@@ -1,0 +1,7 @@
+Planet: RARPOK
+Starmap index: 15
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M01/P03 SMALL SOLID YHIN ATMO. SLIGHTLY DARK FAIR POLAR CAPS. PRO           
+0.268.200 PRV 0.006.459.679 SKINNYMON 6011 795.108                          

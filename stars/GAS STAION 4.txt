@@ -1,0 +1,6 @@
+Star: GAS STAION 4
+Star class: S06
+Paris coordinates: -48049936, -47297496, -48522384
+Bodies: 0 (0 planets, 0 moons)
+
+System:

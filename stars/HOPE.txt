@@ -1,0 +1,24 @@
+Star: HOPE
+Star class: S00
+Paris coordinates: 456784, 31526, -25779
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- STONE RING (n thin atmosphere)
+  - MORI (d dusty, craterized)
+
+Guide entries:
+ NOTES BY JIM9137, EPOC 6011:581.793
+STAR DISCOVERED EPOC 6011:581.793
+COUNT: PLANETS:5 MINOR BODIES:7 LABELED: ?/13
+END. JIM9137 EPOC 6011:581.793

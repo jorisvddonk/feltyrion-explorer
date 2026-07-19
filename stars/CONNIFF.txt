@@ -1,0 +1,15 @@
+Star: CONNIFF
+Star class: S08
+Paris coordinates: 1412794640, 132893, -1412083955
+Bodies: 5 (2 planets, 3 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (n thin atmosphere)
+- Planet #1 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+A 2 STAR SYSTEM WITH 3 PLANETS TOTAL. STARS APPEAR BLUE MAIN SEQUENCE.      
+RYAN GJK E6011.835.568                                                      

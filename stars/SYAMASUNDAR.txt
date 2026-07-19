@@ -1,0 +1,11 @@
+Star: SYAMASUNDAR
+Star class: S00
+Paris coordinates: 3928560, 4310155, -1229625
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- SCUMHAZE (k thick atmosphere)
+
+Guide entries:
+ BY HARIDAS,6011, 2 PLANETS ONLY

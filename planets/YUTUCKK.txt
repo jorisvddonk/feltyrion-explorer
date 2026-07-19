@@ -1,0 +1,3 @@
+Planet: YUTUCKK
+Starmap index: 01
+Paris coordinates: 3828560, 4347754, -1069241

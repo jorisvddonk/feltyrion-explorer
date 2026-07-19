@@ -1,0 +1,15 @@
+Star: QUINT
+Star class: S02
+Paris coordinates: 4448912, 5540329, -488394
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- MONO (n thin atmosphere)
+- DOPPLER (k thick atmosphere)
+- TRISTELLAR (d dusty, craterized)
+- DELTA (q quartz surface)
+- PENTA (n thin atmosphere)
+
+Guide entries:
+SMALL FIVE-PLANET STAR. VERY NEAT.
+-EPOC 6011 584.132.420 BY PROF.CALLAHAN.

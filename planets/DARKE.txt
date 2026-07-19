@@ -1,0 +1,6 @@
+Planet: DARKE
+Starmap index: 38
+Paris coordinates: -251088, 1512852, 4247815
+
+Guide entries:
+ A COLD FELISIAN MOON.

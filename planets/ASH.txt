@@ -1,0 +1,3 @@
+Planet: ASH
+Starmap index: 01
+Paris coordinates: 3170352, 4039313, -1817825

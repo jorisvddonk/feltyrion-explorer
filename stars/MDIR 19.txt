@@ -1,0 +1,9 @@
+Star: MDIR 19
+Star class: S06
+Paris coordinates: 2274288, 14641668, -2646032
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GET YOUR MEGA-LITHIUM HERE!                                                 

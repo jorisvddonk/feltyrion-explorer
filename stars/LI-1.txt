@@ -1,0 +1,9 @@
+Star: LI-1
+Star class: S06
+Paris coordinates: 3966416, 4699706, -1094185
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS 06 GREY GIANT. EXT. ENV. LITHIUM LEVEL: 26 MTPD.

@@ -1,0 +1,3 @@
+Planet: JB 60
+Starmap index: 01
+Paris coordinates: -61432592, 30103545, 817601

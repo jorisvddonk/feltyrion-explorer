@@ -1,0 +1,6 @@
+Star: NEXT STOP
+Star class: S06
+Paris coordinates: -170444496, -1350383, 54877073
+Bodies: 0 (0 planets, 0 moons)
+
+System:

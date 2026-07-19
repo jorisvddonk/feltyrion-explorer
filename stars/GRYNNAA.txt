@@ -1,0 +1,18 @@
+Star: GRYNNAA
+Star class: S00
+Paris coordinates: 3442128, 4130971, 176633
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (k thick atmosphere)
+- SAREKIA (f felisian)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED EPOC 6011:565.814.100 BY FRANCOIS WISARD

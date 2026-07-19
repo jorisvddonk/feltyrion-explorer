@@ -1,0 +1,6 @@
+Planet: LOHDAR
+Starmap index: 06
+Paris coordinates: 1512144, 1401943, -1729487
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.386

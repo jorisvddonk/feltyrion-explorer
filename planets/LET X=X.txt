@@ -1,0 +1,6 @@
+Planet: LET X=X
+Starmap index: 08
+Paris coordinates: 2466416, 4128367, 479619
+
+Guide entries:
+SATELLITES ARE OUT TONIGHT

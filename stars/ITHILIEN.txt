@@ -1,0 +1,10 @@
+Star: ITHILIEN
+Star class: S06
+Paris coordinates: 550000, -41660, -415519
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:583.607
+LI+ STAR

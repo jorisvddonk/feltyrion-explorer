@@ -1,0 +1,6 @@
+Planet: MORITURI
+Starmap index: 13
+Paris coordinates: 110558800, 2821237, -80852784
+
+Guide entries:
+DARK, DIM, CLOUDY, UNPLEASANT

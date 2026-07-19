@@ -1,0 +1,8 @@
+Planet: ADVERSA
+Starmap index: 08
+Paris coordinates: 5262480, 4636210, -419139
+
+Guide entries:
+TYPICAL SILICIOUS MOON LACKING ATMOSPHERE,                                  
+COMMONLY FOUND ORBITING LIFE-BEARING PLANETS.                               
+(JAVIER 6011:686.116)                                                       

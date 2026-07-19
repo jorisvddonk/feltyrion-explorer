@@ -1,0 +1,7 @@
+Planet: VARACYLNIA 5.2
+Starmap index: 17
+Paris coordinates: 2459632, 7706073, -15349
+
+Guide entries:
+ SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.
+(STARGAZER. EPOC 6011:609:517)

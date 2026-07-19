@@ -1,0 +1,3 @@
+Planet: LUCKY SEVENTH
+Starmap index: 07
+Paris coordinates: -1139280, 528850, 7837

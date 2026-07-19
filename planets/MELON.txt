@@ -1,0 +1,3 @@
+Planet: MELON
+Starmap index: 01
+Paris coordinates: 4111056, 4595355, -531038

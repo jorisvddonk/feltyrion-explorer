@@ -1,0 +1,15 @@
+Star: DEEP SHADOW 5
+Star class: S08
+Paris coordinates: 751536, 241995, -1500023125
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- DEEP SHADOW 5-1 (k thick atmosphere)
+- DEEP SHADOW 5-2 (d dusty, craterized)
+- DEEP SHADOW 5-3 (r rocky, creased)
+  - DEEP SHADOW 5-3-1 (n thin atmosphere)
+  - DEEP SHADOW 5-3-2 (d dusty, craterized)
+
+Guide entries:
+THTS ISN'T REALLT A MULTIPLE SYSTEM. IT LOOKS LIKE AN INFANT
+STAR WHICH WAS MISLABEWLLED. (SHADOWCLAW 6011:602.446)

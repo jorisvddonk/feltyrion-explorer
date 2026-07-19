@@ -1,0 +1,7 @@
+Star: PULSER
+Star class: S11
+Paris coordinates: 2070352, 4332126, -727550
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)

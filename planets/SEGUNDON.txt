@@ -1,0 +1,6 @@
+Planet: SEGUNDON
+Starmap index: 03
+Paris coordinates: 5555696, 6149718, -1148640
+
+Guide entries:
+ ANOTHER COMPANION STAR, NOT A PLANET.                                      

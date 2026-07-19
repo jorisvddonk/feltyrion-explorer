@@ -1,0 +1,6 @@
+Planet: PROVOR
+Starmap index: 02
+Paris coordinates: 3779984, 5023104, 146427
+
+Guide entries:
+NAMED BY XILOSCIENT (EPOC 6011:571.681)

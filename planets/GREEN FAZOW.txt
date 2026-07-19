@@ -1,0 +1,3 @@
+Planet: GREEN FAZOW
+Starmap index: 01
+Paris coordinates: 6428976, 6343639, -17121108

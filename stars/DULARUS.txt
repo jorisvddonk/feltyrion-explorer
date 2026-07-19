@@ -1,0 +1,24 @@
+Star: DULARUS
+Star class: S00
+Paris coordinates: 2521776, 4915370, -175857
+Bodies: 14 (8 planets, 6 moons)
+
+System:
+- MISH (k thick atmosphere)
+- LUMANIS (q quartz surface)
+- NOXIL (n thin atmosphere)
+  - LUNU (n thin atmosphere)
+- TACHI (f felisian)
+  - GREND (n thin atmosphere)
+  - VAHAGN (d dusty, craterized)
+- KNEDL (n thin atmosphere)
+- CRATK (d dusty, craterized)
+  - TSAR (d dusty, craterized)
+- OXYRA (q quartz surface)
+  - VOLVAGIN (i icy surface)
+  - FLATIM (i icy surface)
+- PALASK (r rocky, creased)
+
+Guide entries:
+ HARBORS AT LEAST 2 PLANETS WITH LIFE.
+DISCOVERED BY DAVE, EPOC 6011:653.50

@@ -1,0 +1,7 @@
+Star: BETINORM II
+Star class: S00
+Paris coordinates: 4369264, 3915628, 788359
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)

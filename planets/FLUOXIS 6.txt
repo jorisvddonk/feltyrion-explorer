@@ -1,0 +1,3 @@
+Planet: FLUOXIS 6
+Starmap index: 06
+Paris coordinates: 1814992, 24939470, 147554

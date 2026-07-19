@@ -1,0 +1,3 @@
+Planet: AZURE GLOBE
+Starmap index: 01
+Paris coordinates: 2974288, 3903174, -3326370

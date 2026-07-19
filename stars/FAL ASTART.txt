@@ -1,0 +1,11 @@
+Star: FAL ASTART
+Star class: S00
+Paris coordinates: 2054051760, 1000223, -7185
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PLANETLESS S00 STAR IN THE MIDDLE OF NO CAT'S TERRITORY.                  
+2.40167046 BAL. M. TEMP 9673 K RAD 15KR COOR 2054051760;1000223;            
+-7185 SKINNYMON 6011 787.451                                                

@@ -1,0 +1,3 @@
+Planet: MALAWI 9
+Starmap index: 09
+Paris coordinates: 1243216, 298375, -1471960

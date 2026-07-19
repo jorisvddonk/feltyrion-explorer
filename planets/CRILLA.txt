@@ -1,0 +1,6 @@
+Planet: CRILLA
+Starmap index: 01
+Paris coordinates: 6231408, 4069308, -1418090
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.846)

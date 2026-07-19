@@ -1,0 +1,6 @@
+Planet: DEVLIN
+Starmap index: 01
+Paris coordinates: 1870352, 6120454, -719006
+
+Guide entries:
+RINGED NON CONSISTENT COVERED WITH CLOUDS (KRUSTY 6011:598.970)

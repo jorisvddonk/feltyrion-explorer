@@ -1,0 +1,14 @@
+Star: DOXENION
+Star class: S11
+Paris coordinates: 3183920, 3960454, -1237541
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- HANKEY (@ large, not consistent)
+- LIRMI (n thin atmosphere)
+- KIRNIR (d dusty, craterized)
+  - SUTEM (i icy surface)
+
+Guide entries:
+FURTHER NOTES: A CLASS S11 SYSTEM (AS SUCH) OF 3 PLANETS, 1 MOON, NO
+FELISIAN WORLDS. SKINNYMON EPOC 6011 595.768

@@ -1,0 +1,27 @@
+Star: CAZ
+Star class: S00
+Paris coordinates: -670352, 235653, -325455
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- MK-ALGAE (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- WAFFLE (r rocky, creased)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (@ large, not consistent)
+- Planet #6 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (r rocky, creased)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ELHAM EPOC 6011.722.995.700.                                  
+HOST TO 16 OR MORE HEAVENLY BODIES, ALL UNEXPLORED SO FAR.                  

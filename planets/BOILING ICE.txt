@@ -1,0 +1,3 @@
+Planet: BOILING ICE
+Starmap index: 01
+Paris coordinates: 4469264, 4387862, 683077

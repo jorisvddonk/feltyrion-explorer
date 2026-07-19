@@ -1,0 +1,6 @@
+Planet: FORGOTTEN LOYALTY
+Starmap index: 08
+Paris coordinates: 4342128, 4659934, -849888
+
+Guide entries:
+ DISCOVERED EPOC 6011:582.412 BY MARCUS ARAC

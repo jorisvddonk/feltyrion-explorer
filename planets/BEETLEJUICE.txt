@@ -1,0 +1,6 @@
+Planet: BEETLEJUICE
+Starmap index: 04
+Paris coordinates: 4255696, 4407340, 93768
+
+Guide entries:
+DISCOVERED BY BRIAN KWAN, EPOC 6011:565.45

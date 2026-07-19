@@ -1,0 +1,3 @@
+Planet: COWKSEN
+Starmap index: 02
+Paris coordinates: 226800, 1068249, -3393825

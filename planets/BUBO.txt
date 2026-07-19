@@ -1,0 +1,3 @@
+Planet: BUBO
+Starmap index: 02
+Paris coordinates: -61339376, 29956249, 167273

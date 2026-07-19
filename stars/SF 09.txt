@@ -1,0 +1,9 @@
+Star: SF 09
+Star class: S06
+Paris coordinates: -100773136, -44962366, 1041162
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+24 MTPDS EST

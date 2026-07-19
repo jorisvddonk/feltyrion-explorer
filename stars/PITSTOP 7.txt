@@ -1,0 +1,6 @@
+Star: PITSTOP 7
+Star class: S06
+Paris coordinates: -17505776, -12842650, 31739158
+Bodies: 0 (0 planets, 0 moons)
+
+System:

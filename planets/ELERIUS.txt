@@ -1,0 +1,8 @@
+Planet: ELERIUS
+Starmap index: 01
+Paris coordinates: 5393552, 5166013, -832123
+
+Guide entries:
+BLADE TRAIN3R 6011 705.168                                                  
+GAS GIANT, RINGS                                                            
+LOOKS QUITE NICE :)                                                         

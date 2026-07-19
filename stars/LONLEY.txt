@@ -1,0 +1,6 @@
+Star: LONLEY
+Star class: S00
+Paris coordinates: 4135344, 4444104, -968264
+Bodies: 0 (0 planets, 0 moons)
+
+System:

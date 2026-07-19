@@ -1,0 +1,3 @@
+Planet: SUTARN
+Starmap index: 04
+Paris coordinates: -106715600, 25121868, -1371160

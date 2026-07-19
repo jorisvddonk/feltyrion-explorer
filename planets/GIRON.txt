@@ -1,0 +1,3 @@
+Planet: GIRON
+Starmap index: 23
+Paris coordinates: 1670352, -20147273, -251169

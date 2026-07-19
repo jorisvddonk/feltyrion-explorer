@@ -1,0 +1,3 @@
+Planet: MOTHEARTH
+Starmap index: 03
+Paris coordinates: 51214416, 51877097, 889625

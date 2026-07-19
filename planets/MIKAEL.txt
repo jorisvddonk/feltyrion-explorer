@@ -1,0 +1,6 @@
+Planet: MIKAEL
+Starmap index: 16
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+DEAD MOON, NO LIFE, OXYGEN ATMOSPHERE

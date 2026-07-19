@@ -1,0 +1,10 @@
+Star: VACUITY
+Star class: S00
+Paris coordinates: 3025712, 4803498, -2383158
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.689.185 -                               
+THERE IS NO PLANETS HERE.                                                   

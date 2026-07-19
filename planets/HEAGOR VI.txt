@@ -1,0 +1,3 @@
+Planet: HEAGOR VI
+Starmap index: 06
+Paris coordinates: 178224, 906060, -2356602

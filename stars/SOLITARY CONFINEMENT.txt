@@ -1,0 +1,10 @@
+Star: SOLITARY CONFINEMENT
+Star class: S07
+Paris coordinates: 6217840, 5848306, -2207199
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 647.512
+NO PLANETS, DON'T BOTHER.

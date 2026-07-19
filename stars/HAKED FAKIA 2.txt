@@ -1,0 +1,6 @@
+Star: HAKED FAKIA 2
+Star class: S06
+Paris coordinates: 6300336, 5214653, -1375418
+Bodies: 0 (0 planets, 0 moons)
+
+System:

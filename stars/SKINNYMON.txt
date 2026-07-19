@@ -1,0 +1,31 @@
+Star: SKINNYMON
+Star class: S00
+Paris coordinates: -108435952, 25590221, -633099
+Bodies: 25 (9 planets, 16 moons)
+
+System:
+- NORTON (n thin atmosphere)
+- FAL PIONEER (n thin atmosphere)
+- SEETHEHOLE (r rocky, creased)
+- IGOR (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (^ unstable)
+- SNAKE (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (k thick atmosphere)
+- BIERZNICK (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- KURCZAKI (r rocky, creased)
+  - Moon #0 (i icy surface)
+- LULUBEL (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)

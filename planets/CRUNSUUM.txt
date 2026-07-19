@@ -1,0 +1,3 @@
+Planet: CRUNSUUM
+Starmap index: 06
+Paris coordinates: -1328560, -70460372, -1294468

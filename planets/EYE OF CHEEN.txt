@@ -1,0 +1,6 @@
+Planet: EYE OF CHEEN
+Starmap index: 34
+Paris coordinates: 918928, -67261658, -687914
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:584:379

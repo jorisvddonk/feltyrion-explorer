@@ -1,0 +1,6 @@
+Star: DON'T SCOPE HERE
+Star class: S06
+Paris coordinates: 4004272, 4832329, -838928
+Bodies: 0 (0 planets, 0 moons)
+
+System:

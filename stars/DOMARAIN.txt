@@ -1,0 +1,11 @@
+Star: DOMARAIN
+Star class: S06
+Paris coordinates: 2147362512, 1274983, 1700320791
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:585.686
+(S06) L+
+COORDINATES = 2147362512,1274983,1700320791

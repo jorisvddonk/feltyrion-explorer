@@ -1,0 +1,3 @@
+Planet: LIGHTBURST III
+Starmap index: 16
+Paris coordinates: 3779984, 4313464, -58717

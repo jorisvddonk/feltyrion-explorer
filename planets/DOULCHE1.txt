@@ -1,0 +1,6 @@
+Planet: DOULCHE1
+Starmap index: 01
+Paris coordinates: 1611056, -3031222, 2070828
+
+Guide entries:
+GAS GIANT.

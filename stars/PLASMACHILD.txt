@@ -1,0 +1,6 @@
+Star: PLASMACHILD
+Star class: S06
+Paris coordinates: 3428560, 5260293, -622069
+Bodies: 0 (0 planets, 0 moons)
+
+System:

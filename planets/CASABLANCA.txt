@@ -1,0 +1,7 @@
+Planet: CASABLANCA
+Starmap index: 01
+Paris coordinates: 2990704, 4745929, -613453
+
+Guide entries:
+LEOW EPOCH 6011 TRIAD:579.218.600
+BEAUTIFUL ORBITAL RING

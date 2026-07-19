@@ -1,0 +1,9 @@
+Star: MDIR 18
+Star class: S06
+Paris coordinates: 1053936, 16824978, -2719002
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+, EVERY STARDRIFTER'S PREFERRED CHOICE.                                  

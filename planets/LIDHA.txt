@@ -1,0 +1,3 @@
+Planet: LIDHA
+Starmap index: 01
+Paris coordinates: 1973200, 30815204, 1337124

@@ -1,0 +1,6 @@
+Star: ASKEW 91
+Star class: S10
+Paris coordinates: 10669520, -19067830, 17505756
+Bodies: 0 (0 planets, 0 moons)
+
+System:

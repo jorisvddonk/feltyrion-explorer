@@ -1,0 +1,3 @@
+Planet: VANSON II
+Starmap index: 05
+Paris coordinates: 4090704, 4802659, -1642921

@@ -1,0 +1,30 @@
+Star: AS12232229
+Star class: S08
+Paris coordinates: -418672, 4564700, 23505645
+Bodies: 24 (5 planets, 19 moons)
+
+System:
+- AS12232229A (@ large, not consistent)
+- AS12232229B (+ substellar object)
+- AS12232229C (* companion star)
+  - AS12232229C1 (+ substellar object)
+  - AS12232229C2 (k thick atmosphere)
+  - AS12232229C3 (n thin atmosphere)
+  - AS12232229C4 (d dusty, craterized)
+  - AS12232229C5 (@ large, not consistent)
+  - AS12232229C6 (d dusty, craterized)
+  - AS12232229C7 (k thick atmosphere)
+- AS12232229D (@ large, not consistent)
+  - AS12232229D1 (n thin atmosphere)
+  - AS12232229D2 (r rocky, creased)
+  - AS12232229D3 (q quartz surface)
+  - AS12232229D4 (r rocky, creased)
+- AS12232229E (* companion star)
+  - AS12232229E1 (d dusty, craterized)
+  - AS12232229E2 (n thin atmosphere)
+  - AS12232229E3 (@ large, not consistent)
+  - AS12232229E4 (@ large, not consistent)
+  - ZOX (f felisian)
+  - AS12232229E6 (d dusty, craterized)
+  - AS12232229E7 (d dusty, craterized)
+  - THRUFF (f felisian)

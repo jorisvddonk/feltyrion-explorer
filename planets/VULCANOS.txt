@@ -1,0 +1,7 @@
+Planet: VULCANOS
+Starmap index: 01
+Paris coordinates: -112144, 651192, 480098
+
+Guide entries:
+(DISCOVERED BY FAUST. EPOC:6011:834.142.)                                   
+THERE ARE SEVERAL VOLCANOS SCATTERED AROUND THE ROCKY SURFACE.              

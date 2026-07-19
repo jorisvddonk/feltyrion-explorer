@@ -1,0 +1,3 @@
+Planet: TEDEKA-E-S3
+Starmap index: 11
+Paris coordinates: 1160720, 3427984, -2521172

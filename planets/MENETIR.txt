@@ -1,0 +1,6 @@
+Planet: MENETIR
+Starmap index: 41
+Paris coordinates: 81072, -77486, -118953
+
+Guide entries:
+HAS CRATERS VISIBLE FROM ORBIT. (SCHMERM 6011 579.822)

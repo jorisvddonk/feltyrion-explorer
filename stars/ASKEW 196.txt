@@ -1,0 +1,28 @@
+Star: ASKEW 196
+Star class: S08
+Paris coordinates: 5264240, -2142229, 5191049
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- ASKEW 196A (* companion star)
+  - ASKEW 196A1 (d dusty, craterized)
+- ASKEW 196B (d dusty, craterized)
+- ASKEW 196C (n thin atmosphere)
+- ASKEW 196D (@ large, not consistent)
+  - ASKEW 196D1 (d dusty, craterized)
+  - ASKEW 196D2 (k thick atmosphere)
+  - ASKEW 196D3 (d dusty, craterized)
+  - ASKEW 196D4 (q quartz surface)
+  - ASKEW 196D5 (^ unstable)
+  - ASKEW 196D6 (k thick atmosphere)
+  - ASKEW 196D7 (n thin atmosphere)
+  - ASKEW 196D8 (r rocky, creased)
+  - ASKEW 196D9 (n thin atmosphere)
+  - PRISOMI ALTIER (f felisian)
+  - ASKEW 196D11 (k thick atmosphere)
+  - ASKEW 196D12 (n thin atmosphere)
+  - ASKEW 196D13 (d dusty, craterized)
+  - KURDEL OMNI BOR (f felisian)
+  - ASKEW 196D15 (n thin atmosphere)
+  - ASKEW 196D16 (n thin atmosphere)
+  - ASKEW 196D17 (d dusty, craterized)

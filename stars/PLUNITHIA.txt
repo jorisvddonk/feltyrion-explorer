@@ -1,0 +1,6 @@
+Star: PLUNITHIA
+Star class: S06
+Paris coordinates: 1425712, 4970953, -781966
+Bodies: 0 (0 planets, 0 moons)
+
+System:

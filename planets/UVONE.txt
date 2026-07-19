@@ -1,0 +1,3 @@
+Planet: UVONE
+Starmap index: 08
+Paris coordinates: -72010640, -1390290, 54985678

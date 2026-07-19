@@ -1,0 +1,6 @@
+Star: LONELY SOUL
+Star class: S00
+Paris coordinates: 3277136, 4375052, -1735948
+Bodies: 0 (0 planets, 0 moons)
+
+System:

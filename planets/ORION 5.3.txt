@@ -1,0 +1,6 @@
+Planet: ORION 5.3
+Starmap index: 12
+Paris coordinates: 3973200, 5021255, -469763
+
+Guide entries:
+ NOTHING TO SEE HERE, JUST MOVE ON. (STARGAZER EPOC 6011.584.138)

@@ -1,0 +1,12 @@
+Star: BEACON
+Star class: S11
+Paris coordinates: 4379984, 4531379, -714766
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- IMMORTELLE (@ large, not consistent)
+- COMITY (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S11 STAR DISCOVERER UNKNOWN. I DISCOVERED 2
+PLANETS HERE. SKINNYMON EPOC 6011 569.503

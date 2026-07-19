@@ -1,0 +1,12 @@
+Star: EYEBURNER
+Star class: S11
+Paris coordinates: 2470352, 4042597, -1117789
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+
+Guide entries:
+EXTREMELY BRIGHT PULSAR
+ THIS PULSAR IS NOTABLE IN THE FACT IT HAS 2 PLANETS.                       

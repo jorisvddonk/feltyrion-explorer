@@ -1,0 +1,3 @@
+Planet: TERBIN-P
+Starmap index: 02
+Paris coordinates: 1636432, 4116987, -2313501

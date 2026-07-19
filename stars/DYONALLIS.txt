@@ -1,0 +1,49 @@
+Star: DYONALLIS
+Star class: S00
+Paris coordinates: 201035312, 1486577, 55212486
+Bodies: 39 (12 planets, 27 moons)
+
+System:
+- DYONALLIS PRIME (+ substellar object)
+- DYONALLIS 2 (@ large, not consistent)
+- DYONALLIS 3 (d dusty, craterized)
+- DYONALLIS 4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- DYONALLIS 5 (d dusty, craterized)
+- DYONALLIS 6 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- DYONALLIS 7 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- DYONALLIS 8 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (f felisian)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (^ unstable)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (q quartz surface)
+  - Moon #15 (r rocky, creased)
+  - Moon #16 (i icy surface)
+  - Moon #17 (f felisian)
+- DYONALLIS 9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- DYONALLIS 10 (d dusty, craterized)
+- DYONALLIS 11 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- DYONALLIS 12 (d dusty, craterized)
+  - Moon #0 (i icy surface)
+
+Guide entries:
+DISCOVERED:DODO C. SNOTTS:6014:789.463: ON QUEST TO THE OUTER RIM
+(S00) 12 PLANETS / 27 MINOR

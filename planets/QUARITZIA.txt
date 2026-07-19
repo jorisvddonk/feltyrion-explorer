@@ -1,0 +1,3 @@
+Planet: QUARITZIA
+Starmap index: 08
+Paris coordinates: 3679984, 4810478, -21448

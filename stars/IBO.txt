@@ -1,0 +1,8 @@
+Star: IBO
+Star class: S04
+Paris coordinates: 4104272, 4530559, -851560
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LUNA DIBO (d dusty, craterized)
+- LADUES DIBO (@ large, not consistent)

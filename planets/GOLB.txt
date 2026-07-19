@@ -1,0 +1,3 @@
+Planet: GOLB
+Starmap index: 46
+Paris coordinates: 70352, 945533, 1134813

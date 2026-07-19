@@ -1,0 +1,6 @@
+Star: ALSAKI CXXIII
+Star class: S06
+Paris coordinates: 15954608, 32108135, -7749153
+Bodies: 0 (0 planets, 0 moons)
+
+System:

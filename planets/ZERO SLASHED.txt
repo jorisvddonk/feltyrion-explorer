@@ -1,0 +1,3 @@
+Planet: ZERO SLASHED
+Starmap index: 07
+Paris coordinates: 570352, -17743, 592279

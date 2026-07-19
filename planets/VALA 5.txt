@@ -1,0 +1,6 @@
+Planet: VALA 5
+Starmap index: 05
+Paris coordinates: -625712, 137800, 70892
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.996.180)

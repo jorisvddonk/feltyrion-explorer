@@ -1,0 +1,9 @@
+Star: PLETH
+Star class: S02
+Paris coordinates: -53936, -1249305, 1957525
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY AIRCON.

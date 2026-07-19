@@ -1,0 +1,3 @@
+Planet: SEK-A
+Starmap index: 01
+Paris coordinates: 1436432, 3786235, -2088807

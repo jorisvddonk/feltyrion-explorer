@@ -1,0 +1,3 @@
+Planet: LAST BREATH 8
+Starmap index: 08
+Paris coordinates: 2110352944, 546421, -242843

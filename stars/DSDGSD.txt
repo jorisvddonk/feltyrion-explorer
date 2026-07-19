@@ -1,0 +1,6 @@
+Star: DSDGSD
+Star class: S07
+Paris coordinates: -421776, 275554, -1607571
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Star: LISTA 167
+Star class: S06
+Paris coordinates: 730278960, -1976918, -27138
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM OVERFLOWING. SKINNYMON EPOC 6011 607.531

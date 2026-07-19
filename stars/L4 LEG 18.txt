@@ -1,0 +1,10 @@
+Star: L4 LEG 18
+Star class: S06
+Paris coordinates: -1400445680, 17597, 90269
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+24 MTPD. WITH STELLAR AMP OFF, THIS AREA IS REALLY REALLY DARK.
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:172

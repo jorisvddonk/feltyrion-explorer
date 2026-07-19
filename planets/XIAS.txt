@@ -1,0 +1,6 @@
+Planet: XIAS
+Starmap index: 01
+Paris coordinates: -3071024, 5332038, -7715152
+
+Guide entries:
+SUBSTELLAR GAS GIANT-RINGED,DISCOVERED BY KJ EPOC 6011:578.519

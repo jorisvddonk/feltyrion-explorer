@@ -1,0 +1,10 @@
+Star: FERREL
+Star class: S06
+Paris coordinates: -1338192, 4834587, -3774341
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:576.598

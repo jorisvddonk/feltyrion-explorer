@@ -1,0 +1,6 @@
+Planet: TEMENKO
+Starmap index: 06
+Paris coordinates: 3866416, 4622974, -953228
+
+Guide entries:
+DISCOVERED BY JOZE MAUCEC EP0C 6011:565.446

@@ -1,0 +1,6 @@
+Planet: LISTENER
+Starmap index: 01
+Paris coordinates: -4034256, -73015173, -2589013
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:582.659

@@ -1,0 +1,30 @@
+Star: GODSPEED
+Star class: S00
+Paris coordinates: 659632, 127249, 1786696
+Bodies: 16 (4 planets, 12 moons)
+
+System:
+- DOGSPEED (q quartz surface)
+- BOSH N PECKS (n thin atmosphere)
+- KESTREL (f felisian)
+  - Moon #0 (d dusty, craterized)
+- PADGANG (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (f felisian)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY R.CLEAR EPOC 6011:565.643
+NAMED AFTER THE OVER-EXCELLENT BAND 'GODSPEED YOU BLACK EMPEROR'
+ONLY HAS 4 PLANETS, BUT KESTREL IS FELISIAN
+ALL OF THE MOONS ARE BEAUTIFUL WHEN VIEWED FROM THE STARDRIFTER
+I LOVE NOCTIS
+FOTTIFOH IS A GENIUS!

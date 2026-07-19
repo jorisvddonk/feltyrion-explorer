@@ -1,0 +1,3 @@
+Planet: PHALAC
+Starmap index: 12
+Paris coordinates: 763568, 121186, 4975

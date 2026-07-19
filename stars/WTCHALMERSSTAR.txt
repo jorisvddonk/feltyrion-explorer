@@ -1,0 +1,19 @@
+Star: WTCHALMERSSTAR
+Star class: S00
+Paris coordinates: -13572784, -327862, -3083831
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)
+- WTCHALMERSPLANET (f felisian)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (f felisian)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

@@ -1,0 +1,25 @@
+Star: A DE LIAN DE XIN
+Star class: S00
+Paris coordinates: 1259632, 7660150, 1378735
+Bodies: 19 (12 planets, 7 moons)
+
+System:
+- ADELIAN DE QI (^ unstable)
+- Planet #1 (k thick atmosphere)
+- ADELIAN-ZHANMUSHI AI (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+- ADELIAN DE GUOJIA (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+- PRETUNAMA (n thin atmosphere)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (k thick atmosphere)
+- Planet #11 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)

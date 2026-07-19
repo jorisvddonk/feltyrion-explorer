@@ -1,0 +1,8 @@
+Star: TERGIVERSATION
+Star class: S10
+Paris coordinates: 3152848, 4238818, -947940
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CHUNK (q quartz surface)
+- TAGALONG (+ substellar object)

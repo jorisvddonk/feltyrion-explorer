@@ -1,0 +1,3 @@
+Planet: GLA
+Starmap index: 01
+Paris coordinates: 546064, 938156, 1328283

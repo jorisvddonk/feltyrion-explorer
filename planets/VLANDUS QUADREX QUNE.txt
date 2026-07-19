@@ -1,0 +1,3 @@
+Planet: VLANDUS QUADREX QUNE
+Starmap index: 33
+Paris coordinates: 1399200656, 1246996, 1399521124

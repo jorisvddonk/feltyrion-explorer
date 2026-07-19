@@ -1,0 +1,15 @@
+Star: MASS FLAME
+Star class: S02
+Paris coordinates: 4252848, 4268974, -1981463
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (q quartz surface)
+- Planet #2 (+ substellar object)
+- Planet #3 (@ large, not consistent)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.15.755

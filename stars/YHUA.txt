@@ -1,0 +1,18 @@
+Star: YHUA
+Star class: S00
+Paris coordinates: 1156784, 150026, -569521
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- RAD (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+STAR DISCOVERED BY JIM9137 EPOC 6011:581.795
+COUNT: PLANETS:4 MINOR BODIES:3 LABELED: 1/7 AT THE MOMENT
+NOTES BY JIM9137 EPOC 6011:581.795

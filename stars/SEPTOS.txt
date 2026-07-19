@@ -1,0 +1,14 @@
+Star: SEPTOS
+Star class: S05
+Paris coordinates: 4200336, 5681208, 670626
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- DONIA (k thick atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY GLENG THE GREAT (6011 566.414)
+ONE PLANET EXPLORED 'DONIA'. TOO DARK. LOST SHIP FOR 10 MINUTES.
+(NOTES BY GLENG THE GREAT 6011 415.505)

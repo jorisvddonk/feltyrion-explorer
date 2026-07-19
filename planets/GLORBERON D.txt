@@ -1,0 +1,6 @@
+Planet: GLORBERON D
+Starmap index: 15
+Paris coordinates: -118928, 136846, 52177
+
+Guide entries:
+THIN ATMOSPHERE, ICE CAPS. (SCHMERM 6011 582.598)

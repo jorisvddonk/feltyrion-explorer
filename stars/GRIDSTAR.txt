@@ -1,0 +1,6 @@
+Star: GRIDSTAR
+Star class: S01
+Paris coordinates: 1550000, 52550000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

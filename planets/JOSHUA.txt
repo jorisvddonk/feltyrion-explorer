@@ -1,0 +1,6 @@
+Planet: JOSHUA
+Starmap index: 01
+Paris coordinates: 4079984, 4522487, -187799
+
+Guide entries:
+DISCOVERED BY SIRKING, 6011.687.460                                         

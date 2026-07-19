@@ -1,0 +1,3 @@
+Planet: EM
+Starmap index: 29
+Paris coordinates: 3652848, 3940609, -1420373

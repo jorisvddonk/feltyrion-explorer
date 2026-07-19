@@ -1,0 +1,11 @@
+Star: DESTRONOVA
+Star class: S00
+Paris coordinates: 2639280, 4449812, -1241427
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- MOLNEN (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY TORBJORN KALLSTROM 609:589:700

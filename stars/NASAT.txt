@@ -1,0 +1,18 @@
+Star: NASAT
+Star class: S00
+Paris coordinates: 2659632, 5271140, -236534
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- ELEVATION (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+ MY ORIGINAL EXPLORATION OF THIS SYSTEM WAS LIMITED TO THE PLANET
+ELEVATION, SO I HOPE FUTURE EXPLORERS WILL DO A BETTER JOB THAN I DID.

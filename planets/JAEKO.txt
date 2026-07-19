@@ -1,0 +1,8 @@
+Planet: JAEKO
+Starmap index: 25
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M02/P06 MEDIUM SIZED INTERNALLY HOT, UNSTABLE. HAS A RUDDY COLOR AND        
+A NICE CHEERY GLOW TO THE HOT SPOTS. (EEEEWWWW!) PRO 0.072.720 PRV 0.001    
+346.220 SKINNYMON 6011 791.363                                              

@@ -1,0 +1,7 @@
+Planet: RECON
+Starmap index: 01
+Paris coordinates: -1870352, 58864017, 782273
+
+Guide entries:
+S07 SUBSTELLAR OBJECT. TWO DISTINCT HEMISPHERES, LAVENDER IN COLOUR.        
+LACKS RINGS. RYAN GJK E6011.789.829                                         

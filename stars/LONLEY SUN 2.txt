@@ -1,0 +1,10 @@
+Star: LONLEY SUN 2
+Star class: S00
+Paris coordinates: 763568, 21186, 14436
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S00 STAR DISCOVERED BY MCWGOGS, EPOC 6011.647.456.
+EMPTY SYSTEM. NO PLANETS.

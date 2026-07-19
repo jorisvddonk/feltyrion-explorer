@@ -1,0 +1,3 @@
+Planet: NERVALA-D-S1
+Starmap index: 08
+Paris coordinates: 3027888, -571017, -9937342

@@ -1,0 +1,6 @@
+Star: FUEL DEPOT
+Star class: S06
+Paris coordinates: 4128560, 4003885, -1365391
+Bodies: 0 (0 planets, 0 moons)
+
+System:

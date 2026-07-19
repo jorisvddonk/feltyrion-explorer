@@ -1,0 +1,3 @@
+Planet: ARANDIS 6
+Starmap index: 06
+Paris coordinates: 1751260336, 1849084, 55771548

@@ -1,0 +1,6 @@
+Planet: ANGERONA
+Starmap index: 10
+Paris coordinates: 4293552, 4257950, 277464
+
+Guide entries:
+ DISCOVERED IN EPOC 6011.573.231 BY JOSEPH HILL.

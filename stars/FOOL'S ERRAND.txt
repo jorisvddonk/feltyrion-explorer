@@ -1,0 +1,10 @@
+Star: FOOL'S ERRAND
+Star class: S06
+Paris coordinates: 2539280, 4280565, -1145284
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED EPOC 6011:582.409 BY MARCUS ARAC
+ GREY GIANT STAR EMITTING NO USABLE LITHIUM.

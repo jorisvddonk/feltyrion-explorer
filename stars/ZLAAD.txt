@@ -1,0 +1,11 @@
+Star: ZLAAD
+Star class: S06
+Paris coordinates: 2147269776, 1303068, 2000102924
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:587.694
+(SO6) LI+
+COORDINATES = 2147269776, 1303068, 2000102924

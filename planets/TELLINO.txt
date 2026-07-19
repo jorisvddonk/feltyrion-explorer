@@ -1,0 +1,3 @@
+Planet: TELLINO
+Starmap index: 10
+Paris coordinates: 2839280, 5119379, -1347871

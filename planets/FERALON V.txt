@@ -1,0 +1,7 @@
+Planet: FERALON V
+Starmap index: 05
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+LARGE RINGED GAS GIANT, NO FURTHER OBSERVATIONS                             
+(131, EPOC 6011:804:543)                                                    

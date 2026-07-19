@@ -1,0 +1,6 @@
+Planet: KENNELIA
+Starmap index: 02
+Paris coordinates: 3231408, 6205429, 1583335
+
+Guide entries:
+DISCOVERED EPOC 6012 060.112

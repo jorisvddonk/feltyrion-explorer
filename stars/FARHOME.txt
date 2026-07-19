@@ -1,0 +1,61 @@
+Star: FARHOME
+Star class: S00
+Paris coordinates: 3901424, -66380183, -2847415
+Bodies: 45 (10 planets, 35 moons)
+
+System:
+- MALTAG (n thin atmosphere)
+- CRAGGOTH (r rocky, creased)
+- BREYUS (+ substellar object)
+  - PYROS (^ unstable)
+  - GOLENASH (@ large, not consistent)
+  - TOMPALOON (f felisian)
+  - BAHALUN (k thick atmosphere)
+  - CROMPAH (r rocky, creased)
+  - PAUVRO (n thin atmosphere)
+  - OMAVO (k thick atmosphere)
+  - ORLANN (d dusty, craterized)
+  - QUARTZON (f felisian)
+  - SOKAR (^ unstable)
+  - XELINAC (r rocky, creased)
+  - DEEPOL (@ large, not consistent)
+  - KEB (@ large, not consistent)
+  - DAGORATH (^ unstable)
+  - SATANAS (^ unstable)
+  - RENSHAK (n thin atmosphere)
+  - TABOQUIN (k thick atmosphere)
+  - EERUAK (@ large, not consistent)
+  - UBIQUANON (r rocky, creased)
+  - MARBORELLO (@ large, not consistent)
+- SOLONIA (f felisian)
+  - VARAMOND (n thin atmosphere)
+- KINTAR (r rocky, creased)
+  - OURUDAC (d dusty, craterized)
+- MORGANUS (+ substellar object)
+- YORBAN (@ large, not consistent)
+  - FRIGIDON (i icy surface)
+  - QESDEL (d dusty, craterized)
+  - ICEMAS (i icy surface)
+  - ARCTICE (i icy surface)
+  - ZARZAN (n thin atmosphere)
+  - GOOSTRAN (r rocky, creased)
+  - INNORDICA (f felisian)
+  - PHLINN (k thick atmosphere)
+  - ARLIS (d dusty, craterized)
+  - ORBOX (k thick atmosphere)
+  - PITAKI (r rocky, creased)
+  - TRIXI (r rocky, creased)
+- DARGOL (n thin atmosphere)
+- IYATAK (r rocky, creased)
+- NOONERAAN (q quartz surface)
+  - SHAKRI (d dusty, craterized)
+
+Guide entries:
+AFTER MY EXODUS FROM THE KNOWN REGION OF SPACE, I HAVE ARRIVED HERE
+AT THE VERY BOTTOM OF THE GALAXY. THIS STAR SYSTEM WAS THE CLOSEST
+S00 STAR TO THE FUELSTAR 6LY AWAY THAT I USED TO REPLENISH MY DRAINED
+LI+ RESERVES. SEVERAL THOUSAND LIGHT YEARS FROM THE BALASTRA AND
+FENIA CLUSTERS, I THINK I'LL SETTLE DOWN HERE FOR A WHILE.
+THIS S00 STAR HAS A MASS OF 1.5BM AND 10 PLANETS.
+FOUR OF THESE WORLDS ARE FELISIAN.
+(SCHMERM 6011 592.965)

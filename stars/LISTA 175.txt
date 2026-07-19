@@ -1,0 +1,12 @@
+Star: LISTA 175
+Star class: S05
+Paris coordinates: 810225040, -1940354, -132710
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SALIS (k thick atmosphere)
+- HSLIS (k thick atmosphere)
+
+Guide entries:
+A CLASS S05 SYSTEM OF TWO PLANETS WITH LITHIUM AS THE ONLY BONUS.
+SKINNYMON EPOC 6011 621.869

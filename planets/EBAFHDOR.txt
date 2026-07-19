@@ -1,0 +1,3 @@
+Planet: EBAFHDOR
+Starmap index: 44
+Paris coordinates: 634747376, -10764602, 49182722

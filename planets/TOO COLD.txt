@@ -1,0 +1,3 @@
+Planet: TOO COLD
+Starmap index: 29
+Paris coordinates: -61584016, 29782048, -184920

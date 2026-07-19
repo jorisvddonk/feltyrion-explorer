@@ -1,0 +1,3 @@
+Planet: UNI
+Starmap index: 03
+Paris coordinates: 3052848, 5636380, -959161

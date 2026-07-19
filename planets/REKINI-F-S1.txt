@@ -1,0 +1,3 @@
+Planet: REKINI-F-S1
+Starmap index: 18
+Paris coordinates: 164656, -54848, -2929708

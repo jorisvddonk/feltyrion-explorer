@@ -1,0 +1,6 @@
+Star: LITHINIUS
+Star class: S06
+Paris coordinates: 4059632, 4533879, -1447325
+Bodies: 0 (0 planets, 0 moons)
+
+System:

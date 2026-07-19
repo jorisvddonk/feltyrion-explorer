@@ -1,0 +1,6 @@
+Star: RADAX DRAG
+Star class: S01
+Paris coordinates: -39899248, 1618236, 31275760
+Bodies: 0 (0 planets, 0 moons)
+
+System:

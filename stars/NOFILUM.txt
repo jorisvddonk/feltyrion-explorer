@@ -1,0 +1,11 @@
+Star: NOFILUM
+Star class: S07
+Paris coordinates: 3821776, 4329682, -1490527
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+
+Guide entries:
+ DISCOVERD BY SENSENBRECHT AT 6011:564.620
+JUST ONE SUPERSTELLAR OBJECT IN THE SYSTEM.

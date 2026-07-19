@@ -1,0 +1,9 @@
+Star: CPN 15
+Star class: S06
+Paris coordinates: -61721872, 29825417, -407387
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SCOPE HERE! DISCOVERED BY MCWGOGS EPOC 6011.639.582.

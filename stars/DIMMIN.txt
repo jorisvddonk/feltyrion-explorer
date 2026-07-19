@@ -1,0 +1,7 @@
+Star: DIMMIN
+Star class: S05
+Paris coordinates: 4259632, 4144350, -1589109
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SINGULOS (d dusty, craterized)

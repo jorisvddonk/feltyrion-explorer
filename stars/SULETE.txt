@@ -1,0 +1,6 @@
+Star: SULETE
+Star class: S05
+Paris coordinates: 3973200, 4325956, -696113
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,39 @@
+Star: WORMISIA
+Star class: S00
+Paris coordinates: 339280, -798238, 1066992
+Bodies: 30 (7 planets, 23 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (f felisian)
+  - Moon #13 (f felisian)
+  - Moon #14 (r rocky, creased)
+  - Moon #15 (n thin atmosphere)
+  - Moon #16 (d dusty, craterized)
+  - Moon #17 (k thick atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (r rocky, creased)
+- WORMISIA-1 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+STAR WITH FELISIAN PLANETS

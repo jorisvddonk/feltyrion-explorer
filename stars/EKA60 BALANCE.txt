@@ -1,0 +1,37 @@
+Star: EKA60 BALANCE
+Star class: S00
+Paris coordinates: 425712, -65771, 156278
+Bodies: 24 (12 planets, 12 moons)
+
+System:
+- EMPTINESS (r rocky, creased)
+- CALM POND (k thick atmosphere)
+- STABLE PLAGUE (n thin atmosphere)
+  - RECOVERING INJURY (d dusty, craterized)
+- PLACID STORM (f felisian)
+  - ACID DRIZZLES (d dusty, craterized)
+  - SUNSET CLOUD (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (f felisian)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (i icy surface)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (n thin atmosphere)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+S00 STAR WITH 12 PLANETS AND 12 MOONS; HENCE THE NAME. IN THE VICINITY
+OF 0,0,0. --EKA
+I'VE STOPPED IN THE MIDDLE OF CATALOGUEING THE PLANETS AND MOONS OF THIS
+STAR IN FAVOR OF SOME MORE INTERESTING STARS, I.E. PULSARS AND MULTIPLE
+SYSTEMS. --EKA

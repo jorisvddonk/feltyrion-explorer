@@ -1,0 +1,6 @@
+Star: BEREFT
+Star class: S00
+Paris coordinates: 4155696, 4718289, -4898
+Bodies: 0 (0 planets, 0 moons)
+
+System:

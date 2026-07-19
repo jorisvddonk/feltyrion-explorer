@@ -1,0 +1,6 @@
+Star: MENDOZA III
+Star class: S00
+Paris coordinates: -19859376, -5525855, 40712267
+Bodies: 0 (0 planets, 0 moons)
+
+System:

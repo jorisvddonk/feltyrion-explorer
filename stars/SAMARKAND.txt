@@ -1,0 +1,16 @@
+Star: SAMARKAND
+Star class: S00
+Paris coordinates: 4224624, 5110857, 265322
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- GRANDFATHER (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.294

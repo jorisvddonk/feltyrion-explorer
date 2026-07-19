@@ -1,0 +1,3 @@
+Planet: OPTOMUS
+Starmap index: 01
+Paris coordinates: 4479984, 5134365, -725610

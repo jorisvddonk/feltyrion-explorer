@@ -1,0 +1,3 @@
+Planet: CRICKTY
+Starmap index: 01
+Paris coordinates: 4521776, 5034779, -2227769

@@ -1,0 +1,33 @@
+Star: FELANA
+Star class: S00
+Paris coordinates: 3466416, 4809260, -635953
+Bodies: 24 (7 planets, 17 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- GLOVOX (k thick atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- LEVANDE (f felisian)
+  - Moon #0 (d dusty, craterized)
+- DELORIMIER (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (f felisian)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (f felisian)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (^ unstable)
+  - Moon #6 (r rocky, creased)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.244

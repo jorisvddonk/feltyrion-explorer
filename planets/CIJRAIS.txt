@@ -1,0 +1,8 @@
+Planet: CIJRAIS
+Starmap index: 01
+Paris coordinates: 634078448, -10967068, 49836712
+
+Guide entries:
+P01 NON CONSISTENT. HAS A BROWN REFLECTIVITY WITH MANY BRIGHT LARGE         
+AND SMALL STORMS. PRO 0.039.240; PRV 0.006.414.141 SKINNYMON 6011           
+893.109                                                                     

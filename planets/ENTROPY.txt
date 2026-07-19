@@ -1,0 +1,6 @@
+Planet: ENTROPY
+Starmap index: 11
+Paris coordinates: 2939280, 4388626, -1511660
+
+Guide entries:
+ DISCOVERED EPOC 6011:582.408 BY MARCUS ARAC

@@ -1,0 +1,14 @@
+Star: SUN2
+Star class: S00
+Paris coordinates: 1877136, 4342805, -337055
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- JUPITER2 (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- EARTH2 (n thin atmosphere)
+  - LUNA2 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- MARS2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

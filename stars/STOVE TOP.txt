@@ -1,0 +1,15 @@
+Star: STOVE TOP
+Star class: S00
+Paris coordinates: 269264, 4991319, 4759989
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- HOT GAS (@ large, not consistent)
+- NEW DAY (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (f felisian)
+
+Guide entries:
+DISCOVERED BY SHADOWCLAW, 6011:571.273

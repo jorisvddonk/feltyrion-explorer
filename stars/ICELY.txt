@@ -1,0 +1,6 @@
+Star: ICELY
+Star class: S06
+Paris coordinates: 3021776, 4421918, -662179
+Bodies: 0 (0 planets, 0 moons)
+
+System:

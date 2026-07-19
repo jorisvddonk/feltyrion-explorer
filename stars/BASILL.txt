@@ -1,0 +1,6 @@
+Star: BASILL
+Star class: S02
+Paris coordinates: 750000, -650000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

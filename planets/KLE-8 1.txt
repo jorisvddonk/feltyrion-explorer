@@ -1,0 +1,3 @@
+Planet: KLE-8 1
+Starmap index: 21
+Paris coordinates: 3221776, 4389395, -850477

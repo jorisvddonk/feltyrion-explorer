@@ -1,0 +1,3 @@
+Planet: EREMO
+Starmap index: 01
+Paris coordinates: 4579984, 4773244, -735859

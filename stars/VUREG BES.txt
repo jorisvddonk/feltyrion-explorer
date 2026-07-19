@@ -1,0 +1,9 @@
+Star: VUREG BES
+Star class: S06
+Paris coordinates: 5273200, 4442754, -1815816
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED EPOC 6011;573.595 BY KJ 2.UNSUITABLE FOR FUEL

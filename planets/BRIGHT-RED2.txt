@@ -1,0 +1,3 @@
+Planet: BRIGHT-RED2
+Starmap index: 04
+Paris coordinates: -538192, 4282814, -4387444

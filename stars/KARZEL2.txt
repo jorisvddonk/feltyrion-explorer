@@ -1,0 +1,14 @@
+Star: KARZEL2
+Star class: S05
+Paris coordinates: 151088, 731187, -3788550
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- KARZEL2 1 (d dusty, craterized)
+- KARZEL2 2 (d dusty, craterized)
+- KARZEL2 3 (d dusty, craterized)
+
+Guide entries:
+AN S05 CLASS BROWN DWARF, WHERE I ONLY INTENDED TO REFUEL. BUT IT HAS       
+THREE PLANETS! I DEFINITELY CAN'T LEAVE THEM UNEXPLORED.                    
+SERPENS, 6011 788.149                                                       

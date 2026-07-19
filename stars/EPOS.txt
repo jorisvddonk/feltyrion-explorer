@@ -1,0 +1,11 @@
+Star: EPOS
+Star class: S10
+Paris coordinates: 4952848, 5223912, -2686282
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- APOS (k thick atmosphere)
+- OPOS (q quartz surface)
+
+Guide entries:
+(SYSTEM DISCOVERED BY FAUST.EPOC:6011:834.186.)                             

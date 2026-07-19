@@ -1,0 +1,6 @@
+Planet: IMMUTABLE
+Starmap index: 04
+Paris coordinates: 1471440, 4265899, -4070543
+
+Guide entries:
+ DISC BY SCAREDY-CAT, EPOC 6011.584.235

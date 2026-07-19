@@ -1,0 +1,9 @@
+Star: FUEL 36
+Star class: S06
+Paris coordinates: -608208, 9866, -813388
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.432

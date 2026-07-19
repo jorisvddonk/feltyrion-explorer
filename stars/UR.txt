@@ -1,0 +1,6 @@
+Star: UR
+Star class: S10
+Paris coordinates: 2777136, 4026086, -1226053
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: LITH05
+Star class: S06
+Paris coordinates: 4022864, 4838605, -5537696
+Bodies: 0 (0 planets, 0 moons)
+
+System:

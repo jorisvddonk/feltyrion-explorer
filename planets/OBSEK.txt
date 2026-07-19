@@ -1,0 +1,3 @@
+Planet: OBSEK
+Starmap index: 02
+Paris coordinates: 492880, 5929765, -5699210

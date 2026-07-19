@@ -1,0 +1,10 @@
+Star: USURAD
+Star class: S06
+Paris coordinates: 650389424, 1332449, 55196577
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:789.120
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

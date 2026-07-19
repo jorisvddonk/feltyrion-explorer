@@ -1,0 +1,9 @@
+Star: AWFATNEKR
+Star class: S06
+Paris coordinates: -381072, 614178, 628365
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE 506 STAR, DISCOVERED BY RCLEAR 6011:598.564

@@ -1,0 +1,6 @@
+Star: SIREOUSYBY
+Star class: S07
+Paris coordinates: -72634928, -1412310, 56356960
+Bodies: 0 (0 planets, 0 moons)
+
+System:

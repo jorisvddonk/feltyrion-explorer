@@ -1,0 +1,9 @@
+Star: DIABLO
+Star class: S10
+Paris coordinates: 687856, 292096, -418456
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED E6011.578.7 BY DAVIN FELTH

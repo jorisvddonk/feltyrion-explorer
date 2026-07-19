@@ -1,0 +1,21 @@
+Star: LIFE IN SPACE
+Star class: S00
+Paris coordinates: 1114992, 803939, 798372
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)
+- HOME IN SPACE (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- BLKICE (k thick atmosphere)
+
+Guide entries:
+I HAVE MANAGED TO FIND A STAR WITH A FELYSIAN WORLD, P03

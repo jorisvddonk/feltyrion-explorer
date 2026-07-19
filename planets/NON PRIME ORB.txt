@@ -1,0 +1,3 @@
+Planet: NON PRIME ORB
+Starmap index: 08
+Paris coordinates: -1417747568, 866844, 1433341836

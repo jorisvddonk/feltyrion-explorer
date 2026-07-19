@@ -1,0 +1,7 @@
+Star: SOLLSETRENS
+Star class: S00
+Paris coordinates: 25712, 24397, 664745
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- VINAKA (n thin atmosphere)

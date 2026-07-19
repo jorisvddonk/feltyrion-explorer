@@ -1,0 +1,6 @@
+Star: UMBRIEL
+Star class: S06
+Paris coordinates: 4252848, 5338193, -2169450
+Bodies: 0 (0 planets, 0 moons)
+
+System:

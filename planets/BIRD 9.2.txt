@@ -1,0 +1,6 @@
+Planet: BIRD 9.2
+Starmap index: 17
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+SMALL, DUSTY, CRATERIZED, NO ATMOSPHERE. SERPENS, 6011 665.408

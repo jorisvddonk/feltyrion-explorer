@@ -1,0 +1,14 @@
+Star: G.O.G.
+Star class: S00
+Paris coordinates: 2504272, 4531751, 705498
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- DUD (@ large, not consistent)
+- Planet #1 (+ substellar object)
+- POKEY (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY NIV. STAR SYSTEM CONTAINS LIFE.

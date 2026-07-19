@@ -1,0 +1,6 @@
+Star: VB001
+Star class: S10
+Paris coordinates: 3752848, 4341158, -1631276
+Bodies: 0 (0 planets, 0 moons)
+
+System:

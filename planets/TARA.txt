@@ -1,0 +1,6 @@
+Planet: TARA
+Starmap index: 01
+Paris coordinates: 3221776, 4589395, -827691
+
+Guide entries:
+EXP BY SUNFIRE

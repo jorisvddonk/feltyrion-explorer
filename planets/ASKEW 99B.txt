@@ -1,0 +1,3 @@
+Planet: ASKEW 99B
+Starmap index: 02
+Paris coordinates: 11738448, -19692803, 16737605

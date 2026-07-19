@@ -1,0 +1,7 @@
+Planet: PERIP
+Starmap index: 09
+Paris coordinates: 20068432, 1328172, 12119336
+
+Guide entries:
+PURPLE GAS PLANET, 16 MOONS, NO RINGS.
+(NOTES BY JEFF KEMP EPOC 6011:623:455)

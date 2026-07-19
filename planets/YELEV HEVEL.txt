@@ -1,0 +1,3 @@
+Planet: YELEV HEVEL
+Starmap index: 06
+Paris coordinates: 7689200, -9846196, 11968208

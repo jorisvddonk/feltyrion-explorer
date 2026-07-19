@@ -1,0 +1,6 @@
+Planet: MARLBORO
+Starmap index: 01
+Paris coordinates: 2870352, 5993903, -1732830
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-568.775

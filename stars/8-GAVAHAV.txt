@@ -1,0 +1,6 @@
+Star: 8-GAVAHAV
+Star class: S08
+Paris coordinates: 5231408, 4937658, -391000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

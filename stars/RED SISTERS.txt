@@ -1,0 +1,31 @@
+Star: RED SISTERS
+Star class: S08
+Paris coordinates: 4304272, 4864874, -1110519
+Bodies: 19 (4 planets, 15 moons)
+
+System:
+- ELDER GUARDIAN (* companion star)
+  - HER BEAUTY (r rocky, creased)
+- BALBOA (r rocky, creased)
+- JUNIOR SIBLING (* companion star)
+  - INDIGO AUNT (f felisian)
+  - MOTHER OF ALL (f felisian)
+  - BROKEN EMERALD (r rocky, creased)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (^ unstable)
+  - STARCHILD (+ substellar object)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (+ substellar object)
+  - Moon #9 (q quartz surface)
+  - NIGHTCLOUD (n thin atmosphere)
+  - STAINEDPAPER (k thick atmosphere)
+- NOIR (n thin atmosphere)
+  - UNIMON (d dusty, craterized)
+  - DIAMON (d dusty, craterized)
+
+Guide entries:
+ A VERY LARGE MULTIPLE SYSTEM WITH TWO MAIN, BRIGHT STARS AND MANY          
+LESSER STARS ORBITING THEM. THERE ARE NUMEROUS ROCKY PLANETS AND            
+MOONS AS WELL.                                                              
+-PARRY LOST, EPOC 6011.712.918                                              

@@ -1,0 +1,28 @@
+Star: MULTIBEAM
+Star class: S08
+Paris coordinates: -1439280, 2190685, 52298
+Bodies: 18 (4 planets, 14 moons)
+
+System:
+- MULTIBEAM MAJOR I (n thin atmosphere)
+- FLAKABLAX (@ large, not consistent)
+- MULTIBEAM MINOR (* companion star)
+  - GRENARIA (f felisian)
+  - TORM (f felisian)
+  - MULTIBEAM MINOR III (n thin atmosphere)
+  - Moon #3 (r rocky, creased)
+  - MULTIBEAM MINOR V (d dusty, craterized)
+  - ROUGISS (f felisian)
+  - MULTIBEAM MINOR VII (+ substellar object)
+  - MULTIBEAM MINOR VIII (r rocky, creased)
+  - TOOTH DECAY (@ large, not consistent)
+  - MULTIBEAM MINOR X (r rocky, creased)
+  - MULTIBEAM MINOR XI (k thick atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (r rocky, creased)
+  - Moon #13 (n thin atmosphere)
+- NETHERWORLD (^ unstable)
+
+Guide entries:
+A TWIN STAR SYSTEM WITH LOTS OF FELYSIAN PLANETS. NOT FULLY SURVEYED
+(DISCOVERED BY SCHMERM 6011 583.22)

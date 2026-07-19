@@ -1,0 +1,7 @@
+Planet: BICE
+Starmap index: 44
+Paris coordinates: -72824208, -13935588, 55276606
+
+Guide entries:
+FAR ICE.
+(DISCOVERED BY MEGAGUN)

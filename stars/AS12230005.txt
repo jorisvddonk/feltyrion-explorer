@@ -1,0 +1,9 @@
+Star: AS12230005
+Star class: S08
+Paris coordinates: 512400, 1590937, 22505012
+Bodies: 3 (2 planets, 1 moons)
+
+System:
+- AS12230005A (* companion star)
+  - AS12230005A1 (n thin atmosphere)
+- Planet #1 (* companion star)

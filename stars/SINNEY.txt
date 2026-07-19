@@ -1,0 +1,46 @@
+Star: SINNEY
+Star class: S00
+Paris coordinates: 3824624, 5929346, 628416
+Bodies: 36 (11 planets, 25 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+- Planet #5 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (^ unstable)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (^ unstable)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (^ unstable)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- YUTAN (q quartz surface)
+  - BUCKEL (d dusty, craterized)
+- YORKE (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- KREUZER (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.44.370
+ IF YOU LIKE RINGS, VISIT YUTAN

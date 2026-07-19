@@ -1,0 +1,3 @@
+Planet: THALAX-K-S2
+Starmap index: 28
+Paris coordinates: 2987856, 4262240, -2661222

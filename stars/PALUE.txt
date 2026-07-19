@@ -1,0 +1,11 @@
+Star: PALUE
+Star class: S07
+Paris coordinates: 26684688, 6600413, 44874699
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- TWOTONE (+ substellar object)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S07 STAR WITH 1 PLANET, SUBSTELLAR OBJECT.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:633:735

@@ -1,0 +1,3 @@
+Planet: BLAUEN ROTT
+Starmap index: 28
+Paris coordinates: 570352, -17743, 592279

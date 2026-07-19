@@ -1,0 +1,17 @@
+Star: PEPAR
+Star class: S00
+Paris coordinates: 4366416, 10039783, -1314646
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+- CHAZM (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+DISCOVERED BY LOGAN, EPOC 6011:664.880
+4 PLANETS, 2 MINOR BODIES, 1 FELISIAN PLANET (P04).
+(NOTES BY LOGAN, EPOC 6011:664.880)

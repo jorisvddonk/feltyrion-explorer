@@ -1,0 +1,17 @@
+Star: MONDAY
+Star class: S01
+Paris coordinates: 5179984, 4424194, -1495125
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- BLUE NOON (q quartz surface)
+- DARK GEM (r rocky, creased)
+- DUSK (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+A BLUE GIANT NAMED MONDAY, THE BRAINCHILD OF A TWISTED HUMOUR.
+DISCOVERED BY KONNRAD. EPOCH 6011:560.690
+(FUNNY NOTE, DARK GEM WAS NAMED BUT THE STAR WAS NOT.
+DUE TO THIS, DIRECT PARSIS CO-ORDS HAD TO BE USED TO LOCATE MONDAY.)

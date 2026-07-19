@@ -1,0 +1,6 @@
+Planet: BYFI2
+Starmap index: 02
+Paris coordinates: -178224, -1278064, 2452536
+
+Guide entries:
+COMPANION STAR TO BYFI

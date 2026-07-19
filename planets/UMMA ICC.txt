@@ -1,0 +1,3 @@
+Planet: UMMA ICC
+Starmap index: 12
+Paris coordinates: 5425712, 8286779, -4787371

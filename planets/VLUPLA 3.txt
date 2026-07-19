@@ -1,0 +1,6 @@
+Planet: VLUPLA 3
+Starmap index: 03
+Paris coordinates: 1239280, 1087133, 251512
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.996.407)

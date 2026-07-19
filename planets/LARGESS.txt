@@ -1,0 +1,8 @@
+Planet: LARGESS
+Starmap index: 01
+Paris coordinates: 1353936, 4952744, -3128537
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.627.45                            
+HAS 1 'MOON', LARGETTA. A GIANT SUBSTELLAR BODY. (RT 6011:727.642.899)      
+SECOND OF THREE STARS IN THE SYSTEM                                         

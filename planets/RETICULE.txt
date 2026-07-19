@@ -1,0 +1,3 @@
+Planet: RETICULE
+Starmap index: 14
+Paris coordinates: 4328560, 3997615, -1543936

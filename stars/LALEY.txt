@@ -1,0 +1,12 @@
+Star: LALEY
+Star class: S05
+Paris coordinates: 1018928, -67347327, -797231
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- SENREI (q quartz surface)
+- SEVEU (d dusty, craterized)
+- SETRA (q quartz surface)
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:487

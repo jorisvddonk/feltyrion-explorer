@@ -1,0 +1,6 @@
+Star: WELCOME STRANGER
+Star class: S06
+Paris coordinates: 2704272, 4766066, 565861
+Bodies: 0 (0 planets, 0 moons)
+
+System:

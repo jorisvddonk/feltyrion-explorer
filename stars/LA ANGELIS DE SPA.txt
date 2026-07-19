@@ -1,0 +1,23 @@
+Star: LA ANGELIS DE SPA
+Star class: S11
+Paris coordinates: -105456, -268569, 1579253151
+Bodies: 17 (3 planets, 14 moons)
+
+System:
+- YARETHYN (n thin atmosphere)
+- ERINAERYN (@ large, not consistent)
+- IURYTHON (@ large, not consistent)
+  - IURYTHON 1 (n thin atmosphere)
+  - IURYTHON 2 (d dusty, craterized)
+  - IURYTHON 3 (n thin atmosphere)
+  - IURYTHON 4 (k thick atmosphere)
+  - IURYTHON 5 (i icy surface)
+  - IURYTHON 6 (k thick atmosphere)
+  - IURYTHON 7 (n thin atmosphere)
+  - IURYTHON 8 (n thin atmosphere)
+  - IURYTHON 9 (i icy surface)
+  - IURYTHON 10 (d dusty, craterized)
+  - IURYTHON 11 (q quartz surface)
+  - IURYTHON 12 (d dusty, craterized)
+  - IURYTHON 13 (r rocky, creased)
+  - IURYTHON 14 (i icy surface)

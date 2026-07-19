@@ -1,0 +1,6 @@
+Star: CPN VII
+Star class: S06
+Paris coordinates: -107604880, 24923396, -1776372
+Bodies: 0 (0 planets, 0 moons)
+
+System:

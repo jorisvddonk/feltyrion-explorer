@@ -1,0 +1,7 @@
+Planet: MONK
+Starmap index: 04
+Paris coordinates: 3635344, 4013073, -545271
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED AT LEAST THREE DIFFERENT CREATURES.   
+(NOTES BY FRITZ, EPOC 6011:714.882)                                         

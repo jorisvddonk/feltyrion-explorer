@@ -1,0 +1,9 @@
+Star: IMDIWO
+Star class: S07
+Paris coordinates: 3652848, 4340609, -1328519
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ASUYUKA                                                       

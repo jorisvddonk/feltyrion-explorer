@@ -1,0 +1,3 @@
+Planet: HUS
+Starmap index: 31
+Paris coordinates: 9252848, 5586893, -7007054

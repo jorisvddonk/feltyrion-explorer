@@ -1,0 +1,10 @@
+Star: SPEN V
+Star class: S10
+Paris coordinates: 26646832, 6223437, 44826711
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 STAR WITH NOTHING OF NOTE IN IT.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:266

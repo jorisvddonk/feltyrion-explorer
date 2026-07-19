@@ -1,0 +1,39 @@
+Star: DARAMA
+Star class: S08
+Paris coordinates: -24140208, 724689, -10071605
+Bodies: 29 (6 planets, 23 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (@ large, not consistent)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- DARAMA C (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (q quartz surface)
+  - SIANDA (f felisian)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (+ substellar object)
+  - Moon #8 (^ unstable)
+  - Moon #9 (@ large, not consistent)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (q quartz surface)
+  - Moon #15 (@ large, not consistent)
+  - Moon #16 (q quartz surface)
+  - Moon #17 (d dusty, craterized)
+  - Moon #18 (f felisian)
+  - Moon #19 (f felisian)
+
+Guide entries:
+S08; 6 MAJORS, 17 MINORS
+DISCOVERED BY SYFEN (6011:601.782)

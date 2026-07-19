@@ -1,0 +1,7 @@
+Planet: ASHESLAND
+Starmap index: 01
+Paris coordinates: 32496, -155479, 1006249
+
+Guide entries:
+PLANET DISC BY CATRANGER,EPOC 6011,717.705. NO ATMOSPHERE,NO LIFE           
+AND NO STRUCTURES FOUND. LOW GRAVITY, CRATERS,DARKNESS.                     

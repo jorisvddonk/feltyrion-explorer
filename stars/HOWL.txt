@@ -1,0 +1,35 @@
+Star: HOWL
+Star class: S00
+Paris coordinates: 4666416, 3329333, -1614139
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- HOWL I (k thick atmosphere)
+- HOWL II (+ substellar object)
+- HOWL III (k thick atmosphere)
+  - HOWL III M.1 (d dusty, craterized)
+- HOWL IV (n thin atmosphere)
+- HOWL V (k thick atmosphere)
+- HOWL VI (+ substellar object)
+  - HOWL VI M.1 (k thick atmosphere)
+  - HOWL VI M.2 (k thick atmosphere)
+  - HOWL VI M.3 (d dusty, craterized)
+  - HOWL VI M.4 (q quartz surface)
+  - HOWL VI M.5 (d dusty, craterized)
+  - HOWL VI M.6 (r rocky, creased)
+  - HOWL VI M.7 (d dusty, craterized)
+  - HOWL V1 M.8 (^ unstable)
+  - HOWL VI M.9 (d dusty, craterized)
+- HOWL VII (^ unstable)
+  - HOWL VII M.1 (d dusty, craterized)
+- HOWL VIII (d dusty, craterized)
+- HOWL IX (+ substellar object)
+  - HOWL IX M.1 (d dusty, craterized)
+  - HOWL IX M.2 (i icy surface)
+- HOWL X (k thick atmosphere)
+  - HOWL X M.1 (^ unstable)
+  - HOWL X M.2 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED HOWL EPOC 6011 TRIADS 661.193.165
+HOWL HAS 10 PLANETS AND 15 MINOR BODIES

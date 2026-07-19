@@ -1,0 +1,6 @@
+Planet: ASKEW 64B
+Starmap index: 02
+Paris coordinates: 11083088, -19266817, 17947109
+
+Guide entries:
+FOUND EPOC 6011 587.048.050 BY ROLAND ASKEW

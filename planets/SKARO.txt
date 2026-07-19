@@ -1,0 +1,3 @@
+Planet: SKARO
+Starmap index: 03
+Paris coordinates: -83920, 6858315, -1735966

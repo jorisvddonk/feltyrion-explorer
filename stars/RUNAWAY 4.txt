@@ -1,0 +1,7 @@
+Star: RUNAWAY 4
+Star class: S10
+Paris coordinates: 4414992, 5240367, -2433095
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- RUNAWAY 4A (r rocky, creased)

@@ -1,0 +1,3 @@
+Planet: NUFU
+Starmap index: 04
+Paris coordinates: 1670352, -20147273, -251169

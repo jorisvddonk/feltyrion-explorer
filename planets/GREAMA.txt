@@ -1,0 +1,3 @@
+Planet: GREAMA
+Starmap index: 03
+Paris coordinates: 178224, 306060, -2325049

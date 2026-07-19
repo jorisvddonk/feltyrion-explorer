@@ -1,0 +1,6 @@
+Star: LITHIUM MINE
+Star class: S06
+Paris coordinates: 5878896, 18721166, 1847456
+Bodies: 0 (0 planets, 0 moons)
+
+System:

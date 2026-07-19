@@ -1,0 +1,3 @@
+Planet: RJ2 ROMEO
+Starmap index: 04
+Paris coordinates: 2759632, 3919210, -321550

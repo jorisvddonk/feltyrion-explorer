@@ -1,0 +1,9 @@
+Star: PARTY OF ONE
+Star class: S05
+Paris coordinates: 133584, 4233352, -2924955
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ ORANGE GIANT DISC BY SCAREDY-CAT EPOC 6011.584.321.NO PLANETS.

@@ -1,0 +1,6 @@
+Star: CPN III
+Star class: S06
+Paris coordinates: -106946672, 25461711, -1127525
+Bodies: 0 (0 planets, 0 moons)
+
+System:

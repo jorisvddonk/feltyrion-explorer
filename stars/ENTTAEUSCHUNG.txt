@@ -1,0 +1,6 @@
+Star: ENTTAEUSCHUNG
+Star class: S06
+Paris coordinates: 70352, -31054467, 1106689
+Bodies: 0 (0 planets, 0 moons)
+
+System:

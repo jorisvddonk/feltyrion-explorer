@@ -1,0 +1,7 @@
+Planet: PLAEOC
+Starmap index: 23
+Paris coordinates: -1108208, -712825, -246456
+
+Guide entries:
+MOON OF BLYSPHERE. MEDIUM, SOLID, ROCKY, CREASED, NO ATMOSPHERE.
+NYTAR, EPOC 6011:612.207

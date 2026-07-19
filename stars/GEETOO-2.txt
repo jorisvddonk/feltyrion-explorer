@@ -1,0 +1,10 @@
+Star: GEETOO-2
+Star class: S09
+Paris coordinates: 5735344, 5259333, -2535968
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- HAAKEM QEKAS (^ unstable)
+
+Guide entries:
+ 2ND STOP ON THE GREAT PATH REACHED ON 6011.629.840

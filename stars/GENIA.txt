@@ -1,0 +1,17 @@
+Star: GENIA
+Star class: S00
+Paris coordinates: 4707120, 5664832, 598338
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- FOREST (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY GLENG THE GREAT (6011 566.416)
+THIRD PLANET COVERED IN FOREST
+(NOTES BY GLENG THE GREAT 6011 566.417)

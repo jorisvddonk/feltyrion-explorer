@@ -1,0 +1,7 @@
+Planet: AUP 68
+Starmap index: 39
+Paris coordinates: 4638192, 4248129, 655268
+
+Guide entries:
+SURVEYED BY EDEANP 617.933.365
+ SURVEYED BY EDEANP 617.977.730

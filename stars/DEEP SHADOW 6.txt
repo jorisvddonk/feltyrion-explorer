@@ -1,0 +1,39 @@
+Star: DEEP SHADOW 6
+Star class: S08
+Paris coordinates: 1396176, 219138, -1499926110
+Bodies: 30 (7 planets, 23 moons)
+
+System:
+- DEEP SHADOW 6A (* companion star)
+  - DEEP SHADOW 6A-1 (^ unstable)
+  - DEEP SHADOW 6A-2 (n thin atmosphere)
+- DEEP SHADOW 6B (* companion star)
+  - DEEP SHADOW 6B-1 (r rocky, creased)
+- DEEP SHADOW 6C (* companion star)
+  - DEEP SHADOW 6C-1 (@ large, not consistent)
+  - DEEP SHADOW 6C-2 (+ substellar object)
+  - DEEP SHADOW 6C-3 (d dusty, craterized)
+  - DEEP SHADOW 6C-4 (@ large, not consistent)
+  - DEEP SHADOW 6C-5 (q quartz surface)
+  - DEEP SHADOW 6C-6 (k thick atmosphere)
+  - DEEP SHADOW 6C-7 (d dusty, craterized)
+  - DEEP SHADOW 6C-8 (d dusty, craterized)
+  - DEEP SHADOW 6C-9 (f felisian)
+  - DEEP SHADOW 6C-10 (n thin atmosphere)
+  - DEEP SHADOW 6C-11 (+ substellar object)
+  - DEEP SHADOW 6C-12 (+ substellar object)
+  - DEEP SHADOW 6C-13 (f felisian)
+  - DEEP SHADOW 6C-14 (q quartz surface)
+  - DEEP SHADOW 6C-15 (n thin atmosphere)
+  - DEEP SHADOW 6C-16 (d dusty, craterized)
+- DEEP SHADOW 6-1 (n thin atmosphere)
+  - DEEP SHADOW 6-1-1 (d dusty, craterized)
+- DEEP SHADOW 6-2 (q quartz surface)
+  - DEEP SHADOW 6-2-1 (d dusty, craterized)
+- DEEP SHADOW 6-3 (n thin atmosphere)
+  - DEEP SHADOW 6-3-1 (d dusty, craterized)
+  - DEEP SHADOW 6-3-3 (d dusty, craterized)
+- DEEP SHADOW 6-4 (k thick atmosphere)
+
+Guide entries:
+A MULTIPLE SYSTEM. (SHADOWCLAW 6011:602.447)

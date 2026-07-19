@@ -1,0 +1,3 @@
+Planet: OXYQUARTZ
+Starmap index: 04
+Paris coordinates: 3621776, 4593277, -1283613

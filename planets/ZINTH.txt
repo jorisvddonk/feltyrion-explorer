@@ -1,0 +1,9 @@
+Planet: ZINTH
+Starmap index: 02
+Paris coordinates: 4711056, 4770276, -1069633
+
+Guide entries:
+SECOND PLANET IN THE TRIOSA SYSTEM.                                         
+LARGE, NOT CONSIST, CONTINUALLY SHROUDED IN DENSE CLOUDS.                   
+HAS A LARGE DEBRIS RING.                                                    
+DISCOVERED ON EPOC 6011 724.785.798 BY MARTAN D'NAE.                        

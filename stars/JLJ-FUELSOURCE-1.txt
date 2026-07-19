@@ -1,0 +1,10 @@
+Star: JLJ-FUELSOURCE-1
+Star class: S06
+Paris coordinates: 5293552, 6036774, -744731
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM ION STAR DISCOVERED BY...
+JEREMY JOHNSON, EPOC 6011 - 596.143.70

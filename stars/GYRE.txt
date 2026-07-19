@@ -1,0 +1,20 @@
+Star: GYRE
+Star class: S00
+Paris coordinates: -2295312, 5285616, -8018997
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- VUAR (+ substellar object)
+- ETHEREAL (@ large, not consistent)
+- IJIRA (d dusty, craterized)
+  - JIO (d dusty, craterized)
+- BRENNOR (r rocky, creased)
+  - URION (d dusty, craterized)
+- CUMULUS (k thick atmosphere)
+- RAJA (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+YELLOW STAR-IT HAS 6 PLANETS AND 4 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:578.447

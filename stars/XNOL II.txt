@@ -1,0 +1,6 @@
+Star: XNOL II
+Star class: S06
+Paris coordinates: -4125712, 741072, 3824385
+Bodies: 0 (0 planets, 0 moons)
+
+System:

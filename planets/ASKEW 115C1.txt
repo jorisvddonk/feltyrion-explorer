@@ -1,0 +1,3 @@
+Planet: ASKEW 115C1
+Starmap index: 04
+Paris coordinates: 2246736, -12327183, 9262990

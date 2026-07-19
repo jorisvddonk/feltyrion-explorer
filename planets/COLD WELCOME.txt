@@ -1,0 +1,3 @@
+Planet: COLD WELCOME
+Starmap index: 05
+Paris coordinates: 3428560, 4360293, -735964

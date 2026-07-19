@@ -1,0 +1,8 @@
+Planet: RAKTAS
+Starmap index: 09
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M06/P03 SMALL SOLID DUSTY CRATERIZED. THAT IS THE ONLY DESCRIPTION          
+FOR THE APPEARANCE OF THIS WORLD. PRO 0.330.120 PRV 0.002.953.282           
+SKINNYMON 6011 795.93                                                       

@@ -1,0 +1,6 @@
+Planet: DM-2-GLOWERGP-1
+Starmap index: 10
+Paris coordinates: 4035344, 4484112, -905031
+
+Guide entries:
+DEAD MOON, NO ATMOSPHERE

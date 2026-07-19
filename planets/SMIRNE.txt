@@ -1,0 +1,3 @@
+Planet: SMIRNE
+Starmap index: 01
+Paris coordinates: 5652848, 4947777, -3346875

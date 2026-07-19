@@ -1,0 +1,10 @@
+Star: VIKA
+Star class: S11
+Paris coordinates: 6301424, 8345475, -5243911
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- VIKA 1 (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.492

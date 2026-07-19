@@ -1,0 +1,13 @@
+Star: SPAN IV
+Star class: S10
+Paris coordinates: 26471120, 6328255, 44558202
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LEDEF (r rocky, creased)
+- THETALEN (q quartz surface)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 WITH TWO PLANETS, LEDEF, THE FIRST,
+A ROCKY PLANET, AND THETALEN, THE SECOND, A QUARTZ WORLD.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:712

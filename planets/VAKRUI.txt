@@ -1,0 +1,3 @@
+Planet: VAKRUI
+Starmap index: 03
+Paris coordinates: 5062480, 4312834, -451139

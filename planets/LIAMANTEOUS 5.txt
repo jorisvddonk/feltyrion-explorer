@@ -1,0 +1,3 @@
+Planet: LIAMANTEOUS 5
+Starmap index: 05
+Paris coordinates: 4666416, 4712546, -1738732

@@ -1,0 +1,9 @@
+Planet: LAMP
+Starmap index: 03
+Paris coordinates: 443216, 339279, -663603
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.247
+A RINGED PLANET NAMED LAMP FOR IT'S BRIGHT APPEARANCE FROM SPACE.
+SURFACE EXPLORATION IS IMPOSSIBLE.
+NOTES                                                                       

@@ -1,0 +1,3 @@
+Planet: VADUZ XX
+Starmap index: 25
+Paris coordinates: 3770352, 4542875, -2364699

@@ -1,0 +1,6 @@
+Planet: ASKEW 124E7
+Starmap index: 21
+Paris coordinates: 4490288, -14532671, 11396889
+
+Guide entries:
+FOUND EPOC 6011 590.926.000 BY ROLAND ASKEW

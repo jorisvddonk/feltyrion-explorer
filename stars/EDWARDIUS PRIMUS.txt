@@ -1,0 +1,6 @@
+Star: EDWARDIUS PRIMUS
+Star class: S06
+Paris coordinates: 3752848, 5467182, -1432270
+Bodies: 0 (0 planets, 0 moons)
+
+System:

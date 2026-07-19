@@ -1,0 +1,8 @@
+Star: SKIAD
+Star class: S00
+Paris coordinates: 4769264, 5192224, 262183
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- GREEN CADAF (r rocky, creased)

@@ -1,0 +1,3 @@
+Planet: LIGHTING 2
+Starmap index: 02
+Paris coordinates: 36432, 33110, -633205

@@ -1,0 +1,18 @@
+Star: GRUNT
+Star class: S01
+Paris coordinates: 176048, 5036467, 5175191
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- THUD (n thin atmosphere)
+- URGH (n thin atmosphere)
+- YET ANOTHER ROCK (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- HESMIN (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+(DISCOVERED 6011:571.430 BY SHADOWCLAW)

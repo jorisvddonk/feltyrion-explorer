@@ -1,0 +1,10 @@
+Star: IONIC PETROLEUM
+Star class: S06
+Paris coordinates: -26439696, 17627823, 38605559
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 DISC BY SCAREDY-CAT, 6011.592.522. PARSIS COORDS:-26439487
+17627830;38635662

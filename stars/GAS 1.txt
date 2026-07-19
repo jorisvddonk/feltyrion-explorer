@@ -1,0 +1,10 @@
+Star: GAS 1
+Star class: S06
+Paris coordinates: 766416, 634635, 2155683
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A SCOPABLE S06 STAR.                                                        
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.719.37)                            

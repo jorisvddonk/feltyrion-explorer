@@ -1,0 +1,3 @@
+Planet: BRONIA
+Starmap index: 04
+Paris coordinates: -106760240, 26118119, -1836609

@@ -1,0 +1,11 @@
+Star: IKAR
+Star class: S11
+Paris coordinates: -746064, 220521, -957699
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- NATHOR (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.740
+A SMALL, ROCKY PLANET WITH THIN ATMOSPHERE IS ORBITING AROUND THIS PULSAR

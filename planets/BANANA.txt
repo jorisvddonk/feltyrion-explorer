@@ -1,0 +1,6 @@
+Planet: BANANA
+Starmap index: 01
+Paris coordinates: 594640, 21744, 54910
+
+Guide entries:
+GREEN PLANET

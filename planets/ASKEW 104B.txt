@@ -1,0 +1,3 @@
+Planet: ASKEW 104B
+Starmap index: 02
+Paris coordinates: 2039952, -12063304, 9072522

@@ -1,0 +1,14 @@
+Star: NAGURUN
+Star class: S11
+Paris coordinates: 2283920, -26018647, -222425
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- IERON (d dusty, craterized)
+- ELAB ORA (d dusty, craterized)
+- ALTUAR (d dusty, craterized)
+  - JENSCH (i icy surface)
+- NIERK (d dusty, craterized)
+  - GOELARUSSIN (n thin atmosphere)
+- NEGOR (d dusty, craterized)
+  - PUGP (i icy surface)

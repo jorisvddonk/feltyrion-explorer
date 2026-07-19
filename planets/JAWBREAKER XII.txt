@@ -1,0 +1,3 @@
+Planet: JAWBREAKER XII
+Starmap index: 13
+Paris coordinates: -107335952, 25030477, -1780663

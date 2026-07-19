@@ -1,0 +1,29 @@
+Star: GUILHERME
+Star class: S00
+Paris coordinates: 912144, 556859, -1129001
+Bodies: 23 (4 planets, 19 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (^ unstable)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (^ unstable)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (^ unstable)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (n thin atmosphere)
+  - Moon #17 (d dusty, craterized)
+  - Moon #18 (r rocky, creased)
+- WXBB52 (f felisian)

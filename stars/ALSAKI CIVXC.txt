@@ -1,0 +1,6 @@
+Star: ALSAKI CIVXC
+Star class: S05
+Paris coordinates: 15416752, 32355442, -7537106
+Bodies: 0 (0 planets, 0 moons)
+
+System:

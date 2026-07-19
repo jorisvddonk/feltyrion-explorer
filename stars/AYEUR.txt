@@ -1,0 +1,19 @@
+Star: AYEUR
+Star class: S00
+Paris coordinates: 5248912, 4247794, -1222268
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED EPOC 6011:565.754.01 BY FRANCOIS WISARD.

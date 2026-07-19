@@ -1,0 +1,3 @@
+Planet: BAR
+Starmap index: 02
+Paris coordinates: 276048, 4630197, 5098758

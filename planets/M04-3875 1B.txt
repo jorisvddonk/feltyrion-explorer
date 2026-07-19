@@ -1,0 +1,3 @@
+Planet: M04-3875 1B
+Starmap index: 07
+Paris coordinates: -39892464, 1503533, 31669280

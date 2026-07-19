@@ -1,0 +1,3 @@
+Planet: PLUNONIUM
+Starmap index: 08
+Paris coordinates: -108980592, 25731476, -852320

@@ -1,0 +1,16 @@
+Star: END OF WAYPOINTS
+Star class: S03
+Paris coordinates: -27038736, -16776074, -1000240546
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+SINCE IT'S NOT POSSIBLE TO ENTER A 10-DIGIT NEGATIVE NUMBER
+AS PART OF A PARSIS CO-ORDINATE, I'M ENDING THE WAYPOINTS
+HERE. (SHADOWCLAW 6011:581.879)

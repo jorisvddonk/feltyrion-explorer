@@ -1,0 +1,3 @@
+Planet: ARDEA
+Starmap index: 02
+Paris coordinates: -61670448, 30043492, 732512

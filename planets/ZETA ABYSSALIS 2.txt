@@ -1,0 +1,3 @@
+Planet: ZETA ABYSSALIS 2
+Starmap index: 02
+Paris coordinates: 7298832, -16764526, 14912992

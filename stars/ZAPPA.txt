@@ -1,0 +1,26 @@
+Star: ZAPPA
+Star class: S04
+Paris coordinates: 4479984, 4434365, -749778
+Bodies: 17 (10 planets, 7 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- ZATO-1 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- MILLIA (r rocky, creased)
+- KY (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (^ unstable)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, AT EPOC 6011;576.194

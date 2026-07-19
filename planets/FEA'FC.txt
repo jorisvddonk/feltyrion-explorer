@@ -1,0 +1,3 @@
+Planet: FEA'FC
+Starmap index: 31
+Paris coordinates: 2513904, 31322248, 3277420

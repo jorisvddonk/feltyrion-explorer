@@ -1,0 +1,8 @@
+Star: ONETT
+Star class: S10
+Paris coordinates: -232496, 1005408, -722732
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SANE (n thin atmosphere)
+- FRANK (+ substellar object)

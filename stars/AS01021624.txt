@@ -1,0 +1,9 @@
+Star: AS01021624
+Star class: S05
+Paris coordinates: 51034000, 531302, 1980737750
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS.

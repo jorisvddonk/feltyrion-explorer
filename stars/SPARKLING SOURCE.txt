@@ -1,0 +1,6 @@
+Star: SPARKLING SOURCE
+Star class: S06
+Paris coordinates: 4277136, 4341911, -2718354
+Bodies: 0 (0 planets, 0 moons)
+
+System:

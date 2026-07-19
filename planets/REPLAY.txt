@@ -1,0 +1,3 @@
+Planet: REPLAY
+Starmap index: 21
+Paris coordinates: 3121776, 4855657, -847391

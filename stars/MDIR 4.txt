@@ -1,0 +1,9 @@
+Star: MDIR 4
+Star class: S06
+Paris coordinates: 687856, 46592096, -329344
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE, STILL FOLLOWING THE GRID.                                         

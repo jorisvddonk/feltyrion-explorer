@@ -1,0 +1,32 @@
+Star: DIPSON-TYGARA
+Star class: S08
+Paris coordinates: 4090704, 4502659, -1683424
+Bodies: 20 (4 planets, 16 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- DIPSON-TYGARA B (* companion star)
+- DIPSON-TYGARA C (* companion star)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (^ unstable)
+  - Moon #5 (^ unstable)
+  - Moon #6 (@ large, not consistent)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (d dusty, craterized)
+  - CABARIS (k thick atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (@ large, not consistent)
+  - Moon #14 (f felisian)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+
+Guide entries:
+AN ODDITY IN THE UNIVERSE IS A TRINARY SYSTEM OF WHITE DWARVES.
+OF ALL THE PLANETS IN THIS SYSTEM, MOST ARE CRATERED, AIRLESS
+AND UNWORTHY OF MENTION. CABARIS MAY BE THE ONLY EXCEPTION.
+MAPPED BY RIVVEC PAULAVI, EPOC 6011.

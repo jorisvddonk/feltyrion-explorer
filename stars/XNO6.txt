@@ -1,0 +1,9 @@
+Star: XNO6
+Star class: S06
+Paris coordinates: -1836432, 28369, 2844389
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO LITHIUM SKINNYMON EPOC 6011 569.250

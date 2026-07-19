@@ -1,0 +1,6 @@
+Planet: ALBERGARIA
+Starmap index: 12
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 247.90 / 0.3G -270C 0A / QUARTZ (BY NBOAR 6011 588.560)

@@ -1,0 +1,15 @@
+Star: YMIR
+Star class: S00
+Paris coordinates: 2498576, 5228726, -3505735
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- ROXOIA (k thick atmosphere)
+- KAROS (@ large, not consistent)
+- Planet #2 (f felisian)
+  - HARAH (d dusty, craterized)
+  - HAUSS (d dusty, craterized)
+  - SZEN (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY GARY! A, EPOC 6011:571:502

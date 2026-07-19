@@ -1,0 +1,3 @@
+Planet: SUNRAY
+Starmap index: 02
+Paris coordinates: 4111056, 4595355, -531038

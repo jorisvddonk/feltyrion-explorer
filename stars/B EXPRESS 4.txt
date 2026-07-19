@@ -1,0 +1,6 @@
+Star: B EXPRESS 4
+Star class: S06
+Paris coordinates: 2350000, 650000, -2450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

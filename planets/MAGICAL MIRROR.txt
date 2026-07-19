@@ -1,0 +1,3 @@
+Planet: MAGICAL MIRROR
+Starmap index: 01
+Paris coordinates: 3035344, 4590978, 51540

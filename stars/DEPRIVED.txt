@@ -1,0 +1,11 @@
+Star: DEPRIVED
+Star class: S00
+Paris coordinates: 212144, 26106, -419305
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S00 STAR WITH NO PLANETS. SKINNYMON EPOC 6011 580.738
+ (DISCOVERED BY TGD)
+I GOT NUTIN.

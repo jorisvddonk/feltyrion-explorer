@@ -1,0 +1,3 @@
+Planet: QUARTZIA
+Starmap index: 02
+Paris coordinates: 7958544, 5805373, -1465733

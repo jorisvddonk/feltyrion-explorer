@@ -1,0 +1,3 @@
+Planet: GARIDIU
+Starmap index: 02
+Paris coordinates: 3962480, 5014432, 845577

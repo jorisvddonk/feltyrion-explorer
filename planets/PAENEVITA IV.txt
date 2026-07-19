@@ -1,0 +1,3 @@
+Planet: PAENEVITA IV
+Starmap index: 04
+Paris coordinates: 5121776, 4075066, -2797361

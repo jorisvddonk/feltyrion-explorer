@@ -1,0 +1,9 @@
+Star: AS12280059
+Star class: S07
+Paris coordinates: 48131152, 342373, 1981533029
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS

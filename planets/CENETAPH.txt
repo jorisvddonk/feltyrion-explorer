@@ -1,0 +1,6 @@
+Planet: CENETAPH
+Starmap index: 18
+Paris coordinates: 10869520, -19274356, 17549028
+
+Guide entries:
+FOUND EPOC 6011 586.899.100 BY ROLAND ASKEW

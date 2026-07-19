@@ -1,0 +1,46 @@
+Star: BALARAM
+Star class: S03
+Paris coordinates: 3535344, 4322009, -410753
+Bodies: 37 (7 planets, 30 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- NITAI (n thin atmosphere)
+- Planet #2 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (^ unstable)
+  - Moon #7 (f felisian)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (^ unstable)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (n thin atmosphere)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (f felisian)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY HARIDAS, EPOC 6011, 7 PLANET AND 30 MINOR BODIES

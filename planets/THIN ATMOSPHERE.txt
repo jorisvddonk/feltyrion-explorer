@@ -1,0 +1,3 @@
+Planet: THIN ATMOSPHERE
+Starmap index: 65
+Paris coordinates: 3942128, 4305316, -442144

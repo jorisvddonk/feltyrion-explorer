@@ -1,0 +1,3 @@
+Planet: MARENIES
+Starmap index: 04
+Paris coordinates: -61808304, 29569120, 567616

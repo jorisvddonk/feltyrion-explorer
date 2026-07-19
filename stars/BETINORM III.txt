@@ -1,0 +1,28 @@
+Star: BETINORM III
+Star class: S00
+Paris coordinates: 4169264, 3939675, 769516
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (r rocky, creased)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (q quartz surface)
+  - Moon #16 (r rocky, creased)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

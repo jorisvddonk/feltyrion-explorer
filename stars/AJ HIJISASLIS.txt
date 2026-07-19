@@ -1,0 +1,14 @@
+Star: AJ HIJISASLIS
+Star class: S05
+Paris coordinates: 634354160, -10849132, 49993180
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- LYFHNA (n thin atmosphere)
+- MEFHBIJ (d dusty, craterized)
+- LEFHSIL (d dusty, craterized)
+
+Guide entries:
+A CLASS S05 STAR WITH A SYSTEM OF 3 PLANETS (NO FELISIAN). HAS              
+LITHIUM ALSO. 0.04226637 BAL. M.; TEMP 1024 K; RAD 7.7 KR; LI+              
+21 MTPD; COOR 63454160;-10849132;49993180 SKINNYMON 6011 893.153            

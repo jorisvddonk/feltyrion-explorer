@@ -1,0 +1,3 @@
+Planet: NOCHUT V
+Starmap index: 05
+Paris coordinates: -1521346320, -1701020, -1370627468

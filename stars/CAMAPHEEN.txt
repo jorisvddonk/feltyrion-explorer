@@ -1,0 +1,9 @@
+Star: CAMAPHEEN
+Star class: S06
+Paris coordinates: -14459888, 21263813, -11033175
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR LITHIUM SCOPING. DISCOVERED BY NEUZD 6011 786:952        

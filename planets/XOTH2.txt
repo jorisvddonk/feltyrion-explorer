@@ -1,0 +1,3 @@
+Planet: XOTH2
+Starmap index: 02
+Paris coordinates: 3966416, 4399706, -1036671

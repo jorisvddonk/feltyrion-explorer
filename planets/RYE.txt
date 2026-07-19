@@ -1,0 +1,3 @@
+Planet: RYE
+Starmap index: 01
+Paris coordinates: -825712, -1090544, 332495

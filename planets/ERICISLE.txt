@@ -1,0 +1,3 @@
+Planet: ERICISLE
+Starmap index: 06
+Paris coordinates: 1077136, 543103, 562714

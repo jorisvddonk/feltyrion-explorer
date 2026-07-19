@@ -1,0 +1,6 @@
+Planet: FIRESKY 7
+Starmap index: 07
+Paris coordinates: 4128560, 4303885, -1407510
+
+Guide entries:
+SMALLSOLIDTHINATMOSPHERE. DARK. SERPENS, 6011 665.850

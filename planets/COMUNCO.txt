@@ -1,0 +1,6 @@
+Planet: COMUNCO
+Starmap index: 04
+Paris coordinates: 2935344, 4630986, 272990
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.685.389 -                               

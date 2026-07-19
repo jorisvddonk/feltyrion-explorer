@@ -1,0 +1,3 @@
+Planet: YUF
+Starmap index: 30
+Paris coordinates: 3890704, 4320850, -1439499

@@ -1,0 +1,24 @@
+Star: EXTANT 134
+Star class: S00
+Paris coordinates: 59064272, -34182083, 927109229
+Bodies: 18 (9 planets, 9 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+- Planet #5 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (q quartz surface)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)

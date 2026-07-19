@@ -1,0 +1,7 @@
+Planet: DM-1-GORGONDP-2
+Starmap index: 16
+Paris coordinates: 4148912, 4488377, -127177
+
+Guide entries:
+DEAD PLANET, NO ATMOSPHERE
+DEAD MOON, NO ATMOSPHERE

@@ -1,0 +1,12 @@
+Star: AYTARIA
+Star class: S00
+Paris coordinates: 4331408, 4287816, 537809
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+
+Guide entries:
+ DISCOVERED BY JOSHUA WICHT, EPOC 6011:849.469                              
+NO LIFE PRESENT IN SYSTEM.                                                  

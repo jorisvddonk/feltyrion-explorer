@@ -1,0 +1,3 @@
+Planet: FIRYONTAR
+Starmap index: 21
+Paris coordinates: 4765328, 4381639, 1942162

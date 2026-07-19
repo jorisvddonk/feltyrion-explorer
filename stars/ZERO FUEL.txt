@@ -1,0 +1,6 @@
+Star: ZERO FUEL
+Star class: S10
+Paris coordinates: -2438192, 391297, -2651497
+Bodies: 0 (0 planets, 0 moons)
+
+System:

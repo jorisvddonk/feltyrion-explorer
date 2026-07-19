@@ -1,0 +1,6 @@
+Star: NEK 0
+Star class: S06
+Paris coordinates: 3904272, 4565172, -629407
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: BEEMGA
+Starmap index: 06
+Paris coordinates: 4691792, 7735818, -6095365

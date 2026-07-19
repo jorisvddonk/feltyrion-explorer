@@ -1,0 +1,7 @@
+Star: ZUL
+Star class: S10
+Paris coordinates: -2124624, -11263693, -1956569
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LOJO (@ large, not consistent)

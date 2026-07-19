@@ -1,0 +1,3 @@
+Planet: CUMULUS
+Starmap index: 05
+Paris coordinates: -2295312, 5285616, -8018997

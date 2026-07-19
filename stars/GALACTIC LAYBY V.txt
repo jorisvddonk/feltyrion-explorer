@@ -1,0 +1,10 @@
+Star: GALACTIC LAYBY V
+Star class: S05
+Paris coordinates: -1425293968, 1980959, 1434386671
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(RELATIVELY)VERY COOL BROWN DWARF. NO PLANETS. SUITABLE FOR                 
+LITHIUM SCOPING. RYAN GJK E6011.785.81                                      

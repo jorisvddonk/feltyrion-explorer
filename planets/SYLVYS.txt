@@ -1,0 +1,3 @@
+Planet: SYLVYS
+Starmap index: 03
+Paris coordinates: 1956784, 5537178, -1563820

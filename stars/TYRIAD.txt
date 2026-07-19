@@ -1,0 +1,11 @@
+Star: TYRIAD
+Star class: S00
+Paris coordinates: 5665328, 4477163, 1057889
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FYORA (d dusty, craterized)
+- BELIX ORMUS (q quartz surface)
+
+Guide entries:
+DESCOVERED BY ORTEGA, EPOCH 6011:621.693

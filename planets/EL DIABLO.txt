@@ -1,0 +1,3 @@
+Planet: EL DIABLO
+Starmap index: 01
+Paris coordinates: 1566416, 5593135, 1330895

@@ -1,0 +1,3 @@
+Planet: SHYGLACE
+Starmap index: 11
+Paris coordinates: -156784, 37190, -85076

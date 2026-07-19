@@ -1,0 +1,28 @@
+Star: REDORAN
+Star class: S03
+Paris coordinates: 4855696, 4327844, -667718
+Bodies: 18 (7 planets, 11 moons)
+
+System:
+- KRIEDEL (d dusty, craterized)
+- ELASTICA (d dusty, craterized)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - DENN (n thin atmosphere)
+  - MINIEE (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - THINIA (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - MORDIAS (k thick atmosphere)
+  - FLAKEN (d dusty, craterized)
+- CLYOD (@ large, not consistent)
+  - FINNIUS (d dusty, craterized)
+  - ATPHOS (d dusty, craterized)
+  - CRASHPAD (n thin atmosphere)
+- LEDORAL (d dusty, craterized)
+- DUSTIONE (d dusty, craterized)
+- QUARTERA IX (q quartz surface)
+
+Guide entries:
+LARGE AND ANCIENT S03 STAR. HAS 7 PLANETS AND 11 MINOR BODIES.              
+(DISCOVERED BY SERAXIS. EPOC 6011, 679.446.720)                             

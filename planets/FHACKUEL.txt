@@ -1,0 +1,8 @@
+Planet: FHACKUEL
+Starmap index: 01
+Paris coordinates: 2028686512, 3015167, 208047
+
+Guide entries:
+P01/04 MEDIUM SIZE, THICK ATMO, CLOUDS ARE TANNISH WITH LIGHTER BANDS       
+AGITATION IN NORTH BAND. PRO 0.191.160 PRV 0.011.746.015 SKINNYMON          
+6011 797.186                                                                

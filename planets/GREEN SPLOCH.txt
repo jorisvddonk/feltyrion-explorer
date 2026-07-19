@@ -1,0 +1,3 @@
+Planet: GREEN SPLOCH
+Starmap index: 33
+Paris coordinates: 3942128, 4305316, -442144

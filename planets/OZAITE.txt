@@ -1,0 +1,6 @@
+Planet: OZAITE
+Starmap index: 02
+Paris coordinates: 5873200, 4131687, -2403194
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.201)

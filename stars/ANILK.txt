@@ -1,0 +1,9 @@
+Star: ANILK
+Star class: S00
+Paris coordinates: 3977136, 4495690, -2175407
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERD EPOC 6011.623.304.719

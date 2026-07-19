@@ -1,0 +1,3 @@
+Planet: GJ'LERENI
+Starmap index: 21
+Paris coordinates: 6998832, -16787199, 15185943

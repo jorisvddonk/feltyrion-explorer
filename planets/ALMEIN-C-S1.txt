@@ -1,0 +1,3 @@
+Planet: ALMEIN-C-S1
+Starmap index: 06
+Paris coordinates: 4974288, 4454208, -5324018

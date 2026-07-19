@@ -1,0 +1,9 @@
+Star: HOUIT
+Star class: S06
+Paris coordinates: 2352848, 4731602, -293365
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+1.LITHIUM SOURCE 2.DISCOVERED BY KJ EPOC 6011:574.122

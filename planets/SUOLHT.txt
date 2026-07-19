@@ -1,0 +1,8 @@
+Planet: SUOLHT
+Starmap index: 02
+Paris coordinates: 2111011152, -1375530, 556166
+
+Guide entries:
+P02/03 SMALL SOLID THIN ATMO, HAS AA REFLECTIVE MEDIUM SIZE RING,           
+QUITE BRIGHT, ALMOST RED COLOR. PRO 0.120.960 PRV 0.025.434.202             
+SKINNYMON 6011 793.204                                                      

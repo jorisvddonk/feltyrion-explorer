@@ -1,0 +1,6 @@
+Star: NOTSCOPING
+Star class: S06
+Paris coordinates: -107198096, 25086749, -1739991
+Bodies: 0 (0 planets, 0 moons)
+
+System:

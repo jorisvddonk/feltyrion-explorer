@@ -1,0 +1,8 @@
+Planet: MEFHBIJ
+Starmap index: 02
+Paris coordinates: 634354160, -10849132, 49993180
+
+Guide entries:
+P02 SMALL DUSTY WITH LARGE CRATERS. HAS A DECIDEDLY ORANGISH TINT           
+REFLECTABILITY. PRO 0.155,520; PRV 0.045.035.004 SKINNYMON 6011             
+893.152                                                                     

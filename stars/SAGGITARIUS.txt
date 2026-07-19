@@ -1,0 +1,24 @@
+Star: SAGGITARIUS
+Star class: S04
+Paris coordinates: 2481072, 4112682, -2525508
+Bodies: 18 (9 planets, 9 moons)
+
+System:
+- SAGGITARIUS-A (+ substellar object)
+- SAGGITARIUS-B (n thin atmosphere)
+- SAGGITARIUS-C (k thick atmosphere)
+  - SAGGITARIUS-C-S1 (d dusty, craterized)
+  - SAGGITARIUS-C-S2 (d dusty, craterized)
+- SAGGITARIUS-D (k thick atmosphere)
+- SAGGITARIUS-E (n thin atmosphere)
+  - SAGGITARIUS-E-S1 (n thin atmosphere)
+  - SAGGITARIUS-E-S2 (d dusty, craterized)
+- SAGGITARIUS-F (d dusty, craterized)
+  - SAGGITARIUS-F-S1 (d dusty, craterized)
+- SAGGITARIUS-G (n thin atmosphere)
+  - SAGGITARIUS-G-S1 (d dusty, craterized)
+- SAGGITARIUS-H (@ large, not consistent)
+  - SAGGITARIUS-H-S1 (r rocky, creased)
+  - SAGGITARIUS-H-S2 (d dusty, craterized)
+  - SAGGITARIUS-H-S3 (n thin atmosphere)
+- SAGGITARIUS-I (d dusty, craterized)

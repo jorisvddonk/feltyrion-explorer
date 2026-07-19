@@ -1,0 +1,8 @@
+Planet: DIDIJAR
+Starmap index: 06
+Paris coordinates: 2029806864, -1864014, 355778
+
+Guide entries:
+P06/07 LARGE NOT CONSISTENT, AN ALMOST FEATURELESS BRIGHT GREEN DISK        
+WITH LIGHT AREAS PROBABLY STORMS. PRO 0.248.040 PRV 0.219.806.112           
+SKINNYMON 6011 797.363                                                      

@@ -1,0 +1,3 @@
+Planet: ERUBUS
+Starmap index: 05
+Paris coordinates: 51088, 4840830, -3844519

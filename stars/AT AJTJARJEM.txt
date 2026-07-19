@@ -1,0 +1,20 @@
+Star: AT AJTJARJEM
+Star class: S04
+Paris coordinates: 2130850352, -1636894, 447026
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- MYRODE (n thin atmosphere)
+- JOMYMY (+ substellar object)
+- TYRESI (k thick atmosphere)
+- CIBONE (d dusty, craterized)
+  - CYJYNE (d dusty, craterized)
+- DOMIBE (d dusty, craterized)
+  - LAKODFH (n thin atmosphere)
+- SHUSHGU (d dusty, craterized)
+  - CYCOGU (d dusty, craterized)
+
+Guide entries:
+S04 STAR WITH 6 PLANETS, 4 MOONS, NO FELISIAN, LOTS OF DUSTY.               
+1.09804344 BAL. M. TEMP 83266 K RAD 63-64 KR COR 2130850352;                
+-1636894; 447026 SKINNYMON 6011 791.738                                     

@@ -1,0 +1,3 @@
+Planet: METAR
+Starmap index: 30
+Paris coordinates: 5472112, 4348283, 1672402

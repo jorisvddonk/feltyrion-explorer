@@ -1,0 +1,3 @@
+Planet: GEASEF
+Starmap index: 01
+Paris coordinates: 7176048, 5872715, -1624564

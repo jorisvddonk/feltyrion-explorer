@@ -1,0 +1,6 @@
+Planet: BASIC 2
+Starmap index: 11
+Paris coordinates: 3742128, 3928007, -212877
+
+Guide entries:
+FOUNDED EPOC 6011, 680.212.849 BY REZA. 5TH MOON OF OCEAN.                  

@@ -1,0 +1,6 @@
+Planet: KALOS
+Starmap index: 19
+Paris coordinates: 43216, 394196, -236960
+
+Guide entries:
+ DISCOVERED FOTIOS. EPOC 6011:609.543

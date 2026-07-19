@@ -1,0 +1,39 @@
+Star: PROLIFICA
+Star class: S00
+Paris coordinates: -73010640, -1598344, 56035429
+Bodies: 30 (10 planets, 20 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- CAMPEXE (f felisian)
+  - BURAQUERA (d dusty, craterized)
+  - CORCOVA (d dusty, craterized)
+  - PONTO FRIO (n thin atmosphere)
+- Planet #6 (d dusty, craterized)
+- PRODIGIUS (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (r rocky, creased)
+  - EDEN (f felisian)
+  - INFERNO (^ unstable)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - LIMBO (k thick atmosphere)
+  - Moon #12 (n thin atmosphere)
+- Planet #8 (i icy surface)
+- Planet #9 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011:571.370

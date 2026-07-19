@@ -1,0 +1,8 @@
+Star: CHIHUAHUA
+Star class: S00
+Paris coordinates: 625712, -79783, 32975
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)

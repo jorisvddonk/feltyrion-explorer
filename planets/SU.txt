@@ -1,0 +1,6 @@
+Planet: SU
+Starmap index: 09
+Paris coordinates: 4066416, 4619160, -1022930
+
+Guide entries:
+VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011 572.626

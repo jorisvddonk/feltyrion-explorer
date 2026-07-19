@@ -1,0 +1,3 @@
+Planet: ANCESTRY
+Starmap index: 01
+Paris coordinates: 4355696, 4364845, -165133

@@ -1,0 +1,3 @@
+Planet: TAGELLIUS
+Starmap index: 08
+Paris coordinates: 3973200, 3825956, -736163

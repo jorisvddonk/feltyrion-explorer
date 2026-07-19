@@ -1,0 +1,8 @@
+Star: 16 AGES
+Star class: S10
+Paris coordinates: -1222864, 252693, 3028672
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)

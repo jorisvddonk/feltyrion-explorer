@@ -1,0 +1,8 @@
+Planet: COPUME
+Starmap index: 01
+Paris coordinates: 2061763152, -1905797, 540779
+
+Guide entries:
+P01/02 LARGE NOT CONSISTENT. DARK PURPLE COLOR WITH BRIGHT STORMS, HAS      
+A MODERATE SIZE RING. PRO 0.182.529 PRV 0.012.092.858 SKINNYMON 6011        
+795,209                                                                     

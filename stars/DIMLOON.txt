@@ -1,0 +1,16 @@
+Star: DIMLOON
+Star class: S03
+Paris coordinates: -1071024, 5220683, -9634850
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- EVERGOR (r rocky, creased)
+- JADEVILLA (d dusty, craterized)
+- BULLWARE (q quartz surface)
+- MIDDOCK (q quartz surface)
+  - TUGYAN (n thin atmosphere)
+  - FOREJIG (d dusty, craterized)
+
+Guide entries:
+RED GIANT,HAS 4 PLANETS AND 2 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:579.461

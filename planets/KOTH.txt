@@ -1,0 +1,6 @@
+Planet: KOTH
+Starmap index: 20
+Paris coordinates: 974288, 1321067, -1251662
+
+Guide entries:
+PLANET DISCOVERED BY FOTIOS. EPOC 6011:609.374

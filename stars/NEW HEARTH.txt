@@ -1,0 +1,10 @@
+Star: NEW HEARTH
+Star class: S06
+Paris coordinates: 1039952, 1078193, 10134116
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY PARRY LOST, 6011.712.951                                      
+A FUEL SOURCE FOR EXPLORERS IN THESE REMOTE PARTS.                          

@@ -1,0 +1,8 @@
+Planet: GYMNOS
+Starmap index: 01
+Paris coordinates: 5262480, 4636210, -419139
+
+Guide entries:
+PLANET ORBITING SURYA CLOSEST BY. NO ATMOSPHERE.                            
+NEARBY SURYA LOOKS GREAT FROM THE SURFACE WITHOUT A GASEOUS VEIL.           
+(JAVIER 6011:686.117)                                                       

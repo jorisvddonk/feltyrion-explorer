@@ -1,0 +1,10 @@
+Star: INCUS
+Star class: S02
+Paris coordinates: 6751760, 5030646, -858744
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- INCUS I (d dusty, craterized)
+
+Guide entries:
+A CLASS S02 STAR WITH ONLY ONE PLANET. SKINNYMON EPOC 6011 585.243

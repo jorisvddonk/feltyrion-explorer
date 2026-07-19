@@ -1,0 +1,3 @@
+Planet: REST POINT 1
+Starmap index: 03
+Paris coordinates: -17301840, -5070813, 29794061

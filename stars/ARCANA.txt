@@ -1,0 +1,27 @@
+Star: ARCANA
+Star class: S04
+Paris coordinates: -4325296, -3374338, -9722060
+Bodies: 21 (6 planets, 15 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (f felisian)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (f felisian)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (k thick atmosphere)

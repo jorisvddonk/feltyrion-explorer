@@ -1,0 +1,7 @@
+Planet: SHEPHERD
+Starmap index: 03
+Paris coordinates: -3071024, 5332038, -7715152
+
+Guide entries:
+SUBSTELLAR GAS GIANT-HAS 20 MOONS
+DISCOVERED BY KJ EPOC 6011:578.520

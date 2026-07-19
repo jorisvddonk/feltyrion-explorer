@@ -1,0 +1,9 @@
+Planet: CRESED
+Starmap index: 03
+Paris coordinates: 808208, 1178550, 752685
+
+Guide entries:
+ROCKY, CREASED, NO ATMOSPHERE, THE TYPICAL PLANET. PRETTY HEAVY THOUGH,     
+AT 1.024 FG'S DESPITE THE FACT THAT IT MANAGED TO GET AWAY WITHOUT          
+AN ATMOSPHERE...                                                            
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.938.630)                           

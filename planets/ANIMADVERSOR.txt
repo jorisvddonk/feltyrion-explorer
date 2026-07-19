@@ -1,0 +1,9 @@
+Planet: ANIMADVERSOR
+Starmap index: 02
+Paris coordinates: -32496, 51707498, -934078
+
+Guide entries:
+ LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. A PURPLISH               
+ TINT WITH DARK BANDS, SOME SMALL STORMS DOTTING THE FACE, HAS A            
+LARGE THOUGH SPARSE RING. P02/02 PRO 0.163.800 PRV 0.025.082.930            
+SKINNYMON 6011790.832                                                       

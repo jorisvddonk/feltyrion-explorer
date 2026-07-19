@@ -1,0 +1,26 @@
+Star: KRAHA
+Star class: S00
+Paris coordinates: 759632, -29653883, 1894601
+Bodies: 20 (7 planets, 13 moons)
+
+System:
+- USB (n thin atmosphere)
+- NUSERO (r rocky, creased)
+- ENASDE (r rocky, creased)
+  - KLEGELEGE (^ unstable)
+  - RISOK (d dusty, craterized)
+- JAKALUNA (f felisian)
+  - SHUK (d dusty, craterized)
+- BALTP (r rocky, creased)
+- XURGEL (d dusty, craterized)
+  - KNES (^ unstable)
+- MISES (+ substellar object)
+  - EKNO (k thick atmosphere)
+  - ULTE WUXAXA (f felisian)
+  - LEFTEKASE (r rocky, creased)
+  - ENGUZ (k thick atmosphere)
+  - PIXORANE (d dusty, craterized)
+  - SHO (i icy surface)
+  - POLATERANU (k thick atmosphere)
+  - POLATERANU 2 (k thick atmosphere)
+  - SELSEL (d dusty, craterized)

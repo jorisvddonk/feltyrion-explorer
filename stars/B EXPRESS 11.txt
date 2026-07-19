@@ -1,0 +1,9 @@
+Star: B EXPRESS 11
+Star class: S06
+Paris coordinates: -23042128, -793840, 19668144
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SCOOPS OF LITHIUM.                                                          

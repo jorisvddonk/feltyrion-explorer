@@ -1,0 +1,6 @@
+Planet: DM-1-HEIGHT
+Starmap index: 11
+Paris coordinates: 3804272, 4498014, -620206
+
+Guide entries:
+DEAD MOON, NO ATMOSPHERE

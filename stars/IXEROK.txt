@@ -1,0 +1,9 @@
+Star: IXEROK
+Star class: S06
+Paris coordinates: -386768, 4863624, -3624113
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM FUEL STAR,DISCOVERED BY KJ EPOC 6011:575.592

@@ -1,0 +1,3 @@
+Planet: PZEOR SEXTANE
+Starmap index: 06
+Paris coordinates: 1399769584, 1431519, 1399013199

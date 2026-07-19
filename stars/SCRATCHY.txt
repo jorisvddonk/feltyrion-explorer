@@ -1,0 +1,11 @@
+Star: SCRATCHY
+Star class: S02
+Paris coordinates: -432496, 203318, -459891
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ITCHY (d dusty, craterized)
+
+Guide entries:
+ A CLASS S02 SYSTEM WITH ONE MINOR WORLD. ANOREXIK EPOC 6011 574.810
+FURTHER NOTES: NAMED AFTER MY 2ND OLDEST KITHA. ANOREXIK. 574.810

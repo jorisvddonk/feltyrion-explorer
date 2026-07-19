@@ -1,0 +1,9 @@
+Star: EMPTY-LEAP
+Star class: S00
+Paris coordinates: -1425862896, 2256646, 1434866710
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PLANETLESS S00. NAMED AND DISCOVERED BY RYAN GJK, E6011, 785.172.         

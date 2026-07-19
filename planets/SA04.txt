@@ -1,0 +1,3 @@
+Planet: SA04
+Starmap index: 24
+Paris coordinates: 4146064, 4893991, -2244689

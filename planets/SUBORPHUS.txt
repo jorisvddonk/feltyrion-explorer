@@ -1,0 +1,3 @@
+Planet: SUBORPHUS
+Starmap index: 02
+Paris coordinates: 594640, 6221744, 116255

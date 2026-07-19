@@ -1,0 +1,3 @@
+Planet: BEAR BLUE
+Starmap index: 04
+Paris coordinates: 3728560, 3416425, -988306

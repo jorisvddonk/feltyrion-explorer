@@ -1,0 +1,50 @@
+Star: BLUNASTERIS
+Star class: S01
+Paris coordinates: -61132592, 29530985, 540729
+Bodies: 40 (12 planets, 28 moons)
+
+System:
+- NOATMES (d dusty, craterized)
+- ATERASTENES (n thin atmosphere)
+- JB 101 (+ substellar object)
+  - MERCEDERIS (k thick atmosphere)
+  - SMALIDES (d dusty, craterized)
+  - SOLIMES (d dusty, craterized)
+  - ATERASTES (k thick atmosphere)
+  - REKUREKURE 32 (r rocky, creased)
+  - YOMANERIS (^ unstable)
+  - QUARESTIS (q quartz surface)
+  - PIVORESTES (k thick atmosphere)
+  - THERANERES (k thick atmosphere)
+  - QUARTINESIS (q quartz surface)
+  - THERANAMIS (n thin atmosphere)
+  - CRATERIZARES (d dusty, craterized)
+  - FELYSAREA PRIME (f felisian)
+  - BELTEZARIS (@ large, not consistent)
+- MERTANESTIA (n thin atmosphere)
+  - UMIZA (n thin atmosphere)
+- MBTP 22 (d dusty, craterized)
+  - LARGERINA (^ unstable)
+- MANERATES (n thin atmosphere)
+  - IMPACTIS (d dusty, craterized)
+  - ZESRATCH (d dusty, craterized)
+- CREASERIS (r rocky, creased)
+- QUERREY (q quartz surface)
+  - GREENCRATERIS (d dusty, craterized)
+- ICESPHERE (i icy surface)
+- YIPEETER (@ large, not consistent)
+  - MERISIS (k thick atmosphere)
+  - LIGHTBLUEIS (i icy surface)
+  - THICKTHOCK (k thick atmosphere)
+  - VANILLA (i icy surface)
+  - FREIS (i icy surface)
+- MEMFIS (n thin atmosphere)
+  - CRETISEA (d dusty, craterized)
+  - CRATERINES (d dusty, craterized)
+- REKUREKURE 37 (r rocky, creased)
+  - CRATKEA (d dusty, craterized)
+  - GRUBBEY (n thin atmosphere)
+
+Guide entries:
+CLASS S01 BLUE GIANT STAR DISCOVERED BY MCWGOGS EPOC 6011.639.780.
+12 PLANETS, 28 MINOR BODIES.

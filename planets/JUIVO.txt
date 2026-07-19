@@ -1,0 +1,8 @@
+Planet: JUIVO
+Starmap index: 14
+Paris coordinates: 2140268528, -2165691, -352139
+
+Guide entries:
+M01/P07 SMSMALL SOLID DUSTY CRATERIZED. SLIGHT PINK REFLECTIVITY FROM       
+THIS POINT BOUT HAS LARGE CRATERS. PRO 0.327.240 PRV O.003.073.258          
+SKINNYMON 6011 791.655                                                      

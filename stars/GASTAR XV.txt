@@ -1,0 +1,6 @@
+Star: GASTAR XV
+Star class: S06
+Paris coordinates: 739280, 909824, 710812
+Bodies: 0 (0 planets, 0 moons)
+
+System:

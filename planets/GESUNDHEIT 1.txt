@@ -1,0 +1,10 @@
+Planet: GESUNDHEIT 1
+Starmap index: 01
+Paris coordinates: -1196400, 1281118, -5269768
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE. ITS COLOUR AS SEEN FROM ORBIT                
+IS VERY NICE, DARK BLUE. ON THE SURFACE, IT'S JUST AS DARK AS               
+YOU'D EXPECT. HOWEVER, TRY SETTING YOUR FOOT ON ANY HIGHER ROCK             
+AND YOU'LL NOTICE THE HORIZON'S INTENSE GLOW. RADIATION? MAYBE.             
+SERPENS, 6011 787.601                                                       

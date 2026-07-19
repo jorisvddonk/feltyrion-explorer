@@ -1,0 +1,6 @@
+Planet: CLIFT
+Starmap index: 06
+Paris coordinates: 3290704, 5637570, -892839
+
+Guide entries:
+SMALL SOLID THIN ATMOSPHERE WELL DEFINED RINGS (KRUSTY 6011:596.566)

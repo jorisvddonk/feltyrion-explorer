@@ -1,0 +1,12 @@
+Star: LOVER'S ETERNAL
+Star class: S01
+Paris coordinates: 194640, 452177, 563487
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FRIENDSHIP (k thick atmosphere)
+
+Guide entries:
+DICOVERED BY EXPLORER EPOC 6011.567.295
+A BLUE GIANT WITH ONLY ONE PLANET.
+CAT LOVER'S ETERNAL

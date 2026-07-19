@@ -1,0 +1,3 @@
+Planet: VIMARAES-E-S1
+Starmap index: 31
+Paris coordinates: 3661808, 108183, -8606009

@@ -1,0 +1,3 @@
+Planet: ATRA
+Starmap index: 08
+Paris coordinates: -61370448, 29437512, 475820

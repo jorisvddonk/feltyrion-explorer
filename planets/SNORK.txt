@@ -1,0 +1,3 @@
+Planet: SNORK
+Starmap index: 08
+Paris coordinates: 3570352, 5140459, -2376901

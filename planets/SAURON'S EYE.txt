@@ -1,0 +1,3 @@
+Planet: SAURON'S EYE
+Starmap index: 03
+Paris coordinates: 3614992, 4599761, -1671484

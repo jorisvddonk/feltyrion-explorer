@@ -1,0 +1,7 @@
+Planet: TWHIRLUK
+Starmap index: 13
+Paris coordinates: -1139280, 528850, 7837
+
+Guide entries:
+DISCOVERED BY PICHERITY, EPOC 6011, 688:913.                                
+ITS NAME COMES FROM THE SWIRL-LIKE CRATER ON IT.                            

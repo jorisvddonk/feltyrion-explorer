@@ -1,0 +1,6 @@
+Star: PULSEY
+Star class: S11
+Paris coordinates: -72834928, -1440882, 56278674
+Bodies: 0 (0 planets, 0 moons)
+
+System:

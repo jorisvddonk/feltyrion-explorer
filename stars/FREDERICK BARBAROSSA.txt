@@ -1,0 +1,16 @@
+Star: FREDERICK BARBAROSSA
+Star class: S04
+Paris coordinates: 967504, 817947, -1836791
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- WECHEGNO (q quartz surface)
+- FLESPOM (k thick atmosphere)
+- COTZ (d dusty, craterized)
+  - BUNG (d dusty, craterized)
+- JUESTUS (q quartz surface)
+  - SHEH (^ unstable)
+
+Guide entries:
+FURTHER NOTES: A CLASS S04 SYSTEM OF 4 PLANETS, 2 MOONS,
+NADA FELISIAN WORLDS. SKINNYMON EPOC 6011 598.971

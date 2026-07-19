@@ -1,0 +1,34 @@
+Star: PARADISO PERDUTO
+Star class: S00
+Paris coordinates: 487856, 49102, -230101
+Bodies: 24 (10 planets, 14 moons)
+
+System:
+- BIG ORANGE (+ substellar object)
+- BRILLIANT (k thick atmosphere)
+- OCEANO (f felisian)
+- WHITITI (n thin atmosphere)
+  - PERLITA (d dusty, craterized)
+- UGLY SOUP (n thin atmosphere)
+  - DIANA (d dusty, craterized)
+  - BOSCO (n thin atmosphere)
+- TRIGONOMETRIC (@ large, not consistent)
+  - MICKEY (d dusty, craterized)
+  - KIWI (n thin atmosphere)
+  - NOT FALSE (q quartz surface)
+  - GOLFINGER (d dusty, craterized)
+  - NEBULAE (f felisian)
+  - BURNEDY (^ unstable)
+- GREEN MINE (d dusty, craterized)
+  - PICOLLO (n thin atmosphere)
+- MOHJ (r rocky, creased)
+  - IAMJUAN (d dusty, craterized)
+  - TROPIC (d dusty, craterized)
+- BIG LEMON (+ substellar object)
+  - QUIJOTE (f felisian)
+- NEUMAC (d dusty, craterized)
+  - FARAWAY (n thin atmosphere)
+
+Guide entries:
+24 EXOTIC BODIES MAKE THIS PLACE A PARADISIAC HUGE WORLD. DIS
+COVERED BY JUAN DEL CASTILLO EPOC 6011 583.226 APROX.

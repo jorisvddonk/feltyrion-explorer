@@ -1,0 +1,3 @@
+Planet: EQUOD TRIACUS
+Starmap index: 03
+Paris coordinates: 1399469584, 1843421, 1399487117

@@ -1,0 +1,3 @@
+Planet: HADRIM
+Starmap index: 03
+Paris coordinates: 5802512, 5849040, -8479687

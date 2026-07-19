@@ -1,0 +1,3 @@
+Planet: BLANAK
+Starmap index: 20
+Paris coordinates: 377136, 935675, 1401841

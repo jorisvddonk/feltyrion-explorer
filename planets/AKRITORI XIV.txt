@@ -1,0 +1,8 @@
+Planet: AKRITORI XIV
+Starmap index: 35
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.544.503                              
+SURFACE IS TOO DARK FOR SURVEYING, BUT APPEARS TO BE GENERALLY              
+SMOOTH. (NEURONWAKE 6011 802.545.904)                                       

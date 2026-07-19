@@ -1,0 +1,34 @@
+Star: DIAN
+Star class: S00
+Paris coordinates: -560720, 816391, 2077163
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- NGGUL (d dusty, craterized)
+- SIMBI (d dusty, craterized)
+- MERI (k thick atmosphere)
+- GANTA (+ substellar object)
+  - BIOSPHER (f felisian)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (k thick atmosphere)
+- NUSHI (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- PERZAT (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- INTI (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- TERJADA (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- MALARKUU (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- MORKUL (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:563:662

@@ -1,0 +1,6 @@
+Planet: STROOMFET
+Starmap index: 01
+Paris coordinates: 825712, -24867, -127109
+
+Guide entries:
+DISCOVERED EPOC 6011:572.315 BY F. WISARD. SUB-STELLAR OBJECT.

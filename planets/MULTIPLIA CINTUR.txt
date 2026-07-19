@@ -1,0 +1,7 @@
+Planet: MULTIPLIA CINTUR
+Starmap index: 03
+Paris coordinates: -344976, 9517823, -4954054
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.691.804 -                               
+SMALL. SOLID. THIN ATMOSPHERE.                                              

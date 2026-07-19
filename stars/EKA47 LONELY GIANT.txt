@@ -1,0 +1,6 @@
+Star: EKA47 LONELY GIANT
+Star class: S04
+Paris coordinates: 450000, -350000, -550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

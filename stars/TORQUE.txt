@@ -1,0 +1,9 @@
+Star: TORQUE
+Star class: S06
+Paris coordinates: 4113904, 4534813, 1608186
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE FOR FUEL (TACKAT 6011:562.880)

@@ -1,0 +1,6 @@
+Planet: SKYGLASS
+Starmap index: 21
+Paris coordinates: 3742128, 3928007, -212877
+
+Guide entries:
+FOUNDED EPOC 6011, 681.406.715 BY REZA. ONLY SATELLITE OF PURP.             

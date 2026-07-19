@@ -1,0 +1,7 @@
+Planet: HOTHKA
+Starmap index: 08
+Paris coordinates: 763568, 121186, 4975
+
+Guide entries:
+DISCOVERED E6011.577.916 BY DAVIN FELTH
+LIFELESS MOON

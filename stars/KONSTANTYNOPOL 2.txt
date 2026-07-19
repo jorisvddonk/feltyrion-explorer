@@ -1,0 +1,6 @@
+Star: KONSTANTYNOPOL 2
+Star class: S00
+Paris coordinates: -106722384, 24963555, -1612417
+Bodies: 0 (0 planets, 0 moons)
+
+System:

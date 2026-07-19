@@ -1,0 +1,3 @@
+Planet: ALIMONI
+Starmap index: 62
+Paris coordinates: 9837776, 8235999, 8907617

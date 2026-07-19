@@ -1,0 +1,3 @@
+Planet: KORELLA-C-S1
+Starmap index: 10
+Paris coordinates: 2952176, -481196, -10426488

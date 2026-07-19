@@ -1,0 +1,9 @@
+Star: GRAY EYE
+Star class: S06
+Paris coordinates: 3893552, 5778849, 567977
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GRAY GIANT, GOOD LI+ IONS. EPOC 6012:1038.598

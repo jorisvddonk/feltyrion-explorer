@@ -1,0 +1,6 @@
+Star: MUTER FRE
+Star class: S05
+Paris coordinates: 7250000, 150000, -7350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

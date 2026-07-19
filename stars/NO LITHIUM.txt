@@ -1,0 +1,6 @@
+Star: NO LITHIUM
+Star class: S06
+Paris coordinates: 3574288, 4605873, -4024132
+Bodies: 0 (0 planets, 0 moons)
+
+System:

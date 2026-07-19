@@ -1,0 +1,9 @@
+Star: ANCESTRY V
+Star class: S02
+Paris coordinates: -1412043632, 252579, 1426086419
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)

@@ -1,0 +1,7 @@
+Planet: SYROA
+Starmap index: 01
+Paris coordinates: 3408208, 420650, -1856116
+
+Guide entries:
+CLOUDY
+FIRST LANDING SITE 5.53; EDGE OF CRATER

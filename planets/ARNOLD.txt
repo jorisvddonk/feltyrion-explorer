@@ -1,0 +1,3 @@
+Planet: ARNOLD
+Starmap index: 01
+Paris coordinates: 5779984, 4363991, -1880236

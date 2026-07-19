@@ -1,0 +1,3 @@
+Planet: ASKEW 162C
+Starmap index: 03
+Paris coordinates: 8171696, -11006601, 12363217

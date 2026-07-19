@@ -1,0 +1,3 @@
+Planet: RELSO
+Starmap index: 01
+Paris coordinates: 4259632, 5053825, -1757486

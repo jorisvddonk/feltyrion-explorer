@@ -1,0 +1,3 @@
+Planet: LINNEUS
+Starmap index: 33
+Paris coordinates: 3377136, 4558630, -1790935

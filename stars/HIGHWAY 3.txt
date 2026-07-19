@@ -1,0 +1,6 @@
+Star: HIGHWAY 3
+Star class: S06
+Paris coordinates: -20544720, -5352246, 38396817
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,11 @@
+Star: JELIM
+Star class: S06
+Paris coordinates: -718928, -220160, 639955
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY SASHA SIMONOV EPOC 6011;600;994
+ CLOSEST DEAD STAR TO DOMINORAL
+NOTE BY SASHA SIMONOV 6011;600;994

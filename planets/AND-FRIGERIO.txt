@@ -1,0 +1,6 @@
+Planet: AND-FRIGERIO
+Starmap index: 34
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.685.754 -                               

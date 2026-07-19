@@ -1,0 +1,9 @@
+Planet: BOTTLE
+Starmap index: 04
+Paris coordinates: 3259632, 4697415, -785262
+
+Guide entries:
+FOURTH PLANET OF AMATERASU SYSTEM. THREE MOONS. NAMED BY PERSON UNKNOWN     
+RATHER COLD WORLD WITH SCANT, ARCTIC LIFE PRESENT.                          
+IT SEEMS THAT MOST OF THE WATER IS FROZEN.                                  
+(JAVIER, 6011:685.959)                                                      

@@ -1,0 +1,9 @@
+Planet: PURLIJIEL
+Starmap index: 03
+Paris coordinates: 634154160, -11058310, 50011242
+
+Guide entries:
+P03 ANOTHER LARGE AND NONCONSISTENT WORLD, THIS TIME WITH A LIGHT           
+PINK REFLECTIVITY TONE AND A SMALLISH MODERATELY REFLECTIVE BUT             
+TENUOUS DEBRIS RING. PRO 0.128.880; PRV 0.027.509.810 SKINNYMON 6011        
+893.111                                                                     

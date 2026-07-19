@@ -1,0 +1,11 @@
+Star: BYZANTIUM
+Star class: S10
+Paris coordinates: 2770352, 4428842, -1448862
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY JILANTY EPOC6011 569.89
+RARE RUNAWAY STAR WITH A PLANET.

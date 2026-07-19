@@ -1,0 +1,7 @@
+Planet: SATIVA 1
+Starmap index: 01
+Paris coordinates: 2739280, 5319060, -1293595
+
+Guide entries:
+SURFACE-QUARTZ,ATMOS.-OXYGEN.
+(NOTE BY:ALEXX, EPOC 6011:602.472)

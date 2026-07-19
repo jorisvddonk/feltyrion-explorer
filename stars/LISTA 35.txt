@@ -1,0 +1,13 @@
+Star: LISTA 35
+Star class: S05
+Paris coordinates: 3694640, 4703830, -2942661
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- AISI (k thick atmosphere)
+- RIERYK (r rocky, creased)
+- FICOR (d dusty, craterized)
+
+Guide entries:
+A CLASS S05 SYSTEM WITH 3 PLANETS. ALSO A SOURCE OF LITHIUM.
+SKINNYMON EPOC 6011 577.371

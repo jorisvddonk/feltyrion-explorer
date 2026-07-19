@@ -1,0 +1,6 @@
+Star: SU 03
+Star class: S06
+Paris coordinates: -1986768, -37866, -1984851
+Bodies: 0 (0 planets, 0 moons)
+
+System:

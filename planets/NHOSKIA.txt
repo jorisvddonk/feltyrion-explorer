@@ -1,0 +1,7 @@
+Planet: NHOSKIA
+Starmap index: 02
+Paris coordinates: 2070974544, -1657016, -20712
+
+Guide entries:
+ P02/03 MEDIUM SIZE THICK ATMO CLOUD COVER IN MOTTLED SHADES OF GREEN.      
+PRO 0.132.840 PRV 0.020.852.098 SKINNYMON 6011 794.946                      

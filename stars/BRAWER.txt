@@ -1,0 +1,9 @@
+Star: BRAWER
+Star class: S06
+Paris coordinates: 1394640, -67370195, -702627
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:584:380

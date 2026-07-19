@@ -1,0 +1,10 @@
+Star: GIRANDAN
+Star class: S04
+Paris coordinates: 4311056, 4386995, -657390
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PALUN (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.805                                    

@@ -1,0 +1,6 @@
+Star: FATSO
+Star class: S10
+Paris coordinates: -1374288, 12046768, 2068259
+Bodies: 0 (0 planets, 0 moons)
+
+System:

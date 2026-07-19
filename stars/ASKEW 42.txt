@@ -1,0 +1,8 @@
+Star: ASKEW 42
+Star class: S03
+Paris coordinates: 11920944, -19477915, 17435909
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASKEW 42A (@ large, not consistent)
+- ASKEW 42B (@ large, not consistent)

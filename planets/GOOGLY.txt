@@ -1,0 +1,3 @@
+Planet: GOOGLY
+Starmap index: 01
+Paris coordinates: 3197488, 3831180, -416659

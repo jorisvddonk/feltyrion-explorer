@@ -1,0 +1,3 @@
+Planet: ULOSE SECUNDUS
+Starmap index: 02
+Paris coordinates: 1399224944, 1579245, 1399057149

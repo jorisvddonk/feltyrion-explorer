@@ -1,0 +1,6 @@
+Planet: NOOST
+Starmap index: 04
+Paris coordinates: 3751760, 4461391, 2168286
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, WITHFAIR POLAR CAPS

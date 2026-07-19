@@ -1,0 +1,6 @@
+Star: CENTRAL 007 AGENT
+Star class: S06
+Paris coordinates: -9841456, 24723988, 16068658
+Bodies: 0 (0 planets, 0 moons)
+
+System:

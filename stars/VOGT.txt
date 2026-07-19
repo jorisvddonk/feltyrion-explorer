@@ -1,0 +1,7 @@
+Star: VOGT
+Star class: S00
+Paris coordinates: -2923472, 2, 307859092
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)

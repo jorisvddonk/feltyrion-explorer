@@ -1,0 +1,3 @@
+Planet: KDL-3756545
+Starmap index: 18
+Paris coordinates: 3290704, 4837570, -933229

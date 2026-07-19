@@ -1,0 +1,10 @@
+Star: L4 LEG 5
+Star class: S06
+Paris coordinates: -359888432, -260350, 267673
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FINALLY, A GOOD S06 STAR. 26 MTPD. CONTINUING ONWARD TO THE OUTER RIM
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:161

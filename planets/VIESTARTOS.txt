@@ -1,0 +1,9 @@
+Planet: VIESTARTOS
+Starmap index: 06
+Paris coordinates: 1323536, 2117778, 6972572
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011:834.173.)                                    
+(DISCOVERED BY FAUST.EPOC:6011:834.174.)                                    
+BEAUTIFUL PLANET, FULL WITH LIFE.                                           
+SIGNING OFF. FAUST.                                                         

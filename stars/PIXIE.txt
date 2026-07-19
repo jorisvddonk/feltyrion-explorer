@@ -1,0 +1,16 @@
+Star: PIXIE
+Star class: S00
+Paris coordinates: -24647568, 17598212, 40160958
+Bodies: 7 (6 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)
+- FUSCHIA (f felisian)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ SOO DISC BY SCAREDY-CAT, EPOC 6011.591.576

@@ -1,0 +1,3 @@
+Planet: TANKWORLD6-09
+Starmap index: 09
+Paris coordinates: 5707120, 7261550, -440786

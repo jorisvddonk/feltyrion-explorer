@@ -1,0 +1,39 @@
+Star: HLOS
+Star class: S03
+Paris coordinates: 2166416, 6329242, 692078
+Bodies: 30 (11 planets, 19 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+  - GLDMN (d dusty, craterized)
+- HLOS 4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- HLOS 5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- HLOS 6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (i icy surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #8 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+  - Moon #2 (d dusty, craterized)
+- Planet #9 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+- Planet #10 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.997.28)

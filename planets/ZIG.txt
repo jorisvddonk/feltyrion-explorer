@@ -1,0 +1,3 @@
+Planet: ZIG
+Starmap index: 01
+Paris coordinates: -107335952, 25030477, -1780663

@@ -1,0 +1,6 @@
+Planet: DESA1
+Starmap index: 01
+Paris coordinates: 66416, -1278204, 2786514
+
+Guide entries:
+MEDIUM, THICK ATMOSPHERE. COMPLETE CLOUD COVER.

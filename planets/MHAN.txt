@@ -1,0 +1,7 @@
+Planet: MHAN
+Starmap index: 59
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M17/P10 SMALL SOLID ICY MEDIUM GREY WITH WHITE GROOVING. PRO 0.231.120      
+PRV 0.004.727.130 SKINNYMON 6011 792.251                                    

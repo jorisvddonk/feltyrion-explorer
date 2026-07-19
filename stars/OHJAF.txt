@@ -1,0 +1,32 @@
+Star: OHJAF
+Star class: S08
+Paris coordinates: -26245072, -19374450, -448831906
+Bodies: 23 (5 planets, 18 moons)
+
+System:
+- OHJAF ALPHA (* companion star)
+- OHJAF 2 (k thick atmosphere)
+- OHJAF BETA (* companion star)
+  - OHJAF BETA 1 (q quartz surface)
+  - OHJAF BETA 2 (@ large, not consistent)
+  - OHJAF BETA 3 (n thin atmosphere)
+  - OHJAF BETA 4 (n thin atmosphere)
+  - OHJAF BETA 5 (r rocky, creased)
+  - OHJAF BETA 6 (n thin atmosphere)
+  - OHJAF BETA 7 (+ substellar object)
+  - OHJAF BETA 8 (+ substellar object)
+  - OHJAF BETA 9 (d dusty, craterized)
+  - OHJAF BETA 10 (d dusty, craterized)
+  - OHJAF BETA 11 (+ substellar object)
+  - OHJAF BETA 12 (^ unstable)
+- OHJAF 4 (d dusty, craterized)
+  - OHJAF 4A (d dusty, craterized)
+- OHJAF GAMMA (* companion star)
+  - OHJAF GAMMA 1 (@ large, not consistent)
+  - OHJAF GAMMA 2 (q quartz surface)
+  - OHJAF GAMMA 3 (^ unstable)
+  - OHJAF GAMMA 4 (n thin atmosphere)
+  - OHJAF GAMMA 5 (k thick atmosphere)
+
+Guide entries:
+DISCOVERED 6011:577.843 BY SHADOWCLAW

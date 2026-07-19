@@ -1,0 +1,6 @@
+Star: LIFETTANOY
+Star class: S03
+Paris coordinates: 6150000, 850000, -6250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

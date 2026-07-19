@@ -1,0 +1,14 @@
+Star: GEETOO-12
+Star class: S03
+Paris coordinates: 5787856, 5439868, -5501181
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- ZAFED KEFEED (d dusty, craterized)
+- Planet #2 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (q quartz surface)
+
+Guide entries:
+ DISCOVERED 6011.629.847 BY NALIX ON THE GREAT PATH (GEETOO)

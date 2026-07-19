@@ -1,0 +1,27 @@
+Star: VAMADALESTIM
+Star class: S00
+Paris coordinates: 2100590128, -1965623, -11495
+Bodies: 16 (8 planets, 8 moons)
+
+System:
+- PUJHO (@ large, not consistent)
+- OURATES (k thick atmosphere)
+- CUNCTATUS (f felisian)
+- MORATUS (f felisian)
+  - MLIKYE (d dusty, craterized)
+  - KLIREA (d dusty, craterized)
+- OIDONAP (k thick atmosphere)
+  - LINISFHU (d dusty, craterized)
+  - KODFHU (d dusty, craterized)
+- VAKFHA (n thin atmosphere)
+  - GLYTERN (d dusty, craterized)
+- OHDILID (k thick atmosphere)
+  - TLONUA (d dusty, craterized)
+  - MITCOE (n thin atmosphere)
+- PSFHDUO (d dusty, craterized)
+  - KSFLUO (d dusty, craterized)
+
+Guide entries:
+S00 SYSTEM OF 8 PLANETS 8 MOONS 2 FELISIAN WORLDS. 1.05722439               
+BAL. M. TEMP 5712 K RAD 23KR COOR 2100590128;-1965623;-11495                
+SKINNYMON 6011 793.301                                                      

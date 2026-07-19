@@ -1,0 +1,3 @@
+Planet: FLISLIFE
+Starmap index: 03
+Paris coordinates: 4511056, 5278635, -949765

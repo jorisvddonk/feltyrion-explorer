@@ -1,0 +1,29 @@
+Star: YAMUNA
+Star class: S00
+Paris coordinates: 4239280, 4182059, -2754402
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- PADMAPURANA (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+- BHIMA (f felisian)
+  - Moon #0 (d dusty, craterized)
+- UDDHAVA (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (@ large, not consistent)
+- Planet #6 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (r rocky, creased)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ BY HARIDAS ON 6011.570.594 9 PLANET AND 8 MOONS
+BY HARIDAS 6011.570.621 9 PLANETS AND 8 MOONS
+4TH PLANET HAS GORGEOUS RINGS - NAME BHIMA
+ 5TH PLANET ALSO HAVE LIFE! CALLED IT UDDHAVA

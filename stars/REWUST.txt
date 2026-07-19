@@ -1,0 +1,6 @@
+Star: REWUST
+Star class: S03
+Paris coordinates: 3050000, 850000, -3150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

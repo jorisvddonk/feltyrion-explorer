@@ -1,0 +1,40 @@
+Star: XERES PRIMUS
+Star class: S00
+Paris coordinates: 2656784, 4963163, -2146127
+Bodies: 29 (11 planets, 18 moons)
+
+System:
+- DUSTOUND (r rocky, creased)
+- Planet #1 (+ substellar object)
+- Planet #2 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- YURIZ (f felisian)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- GROMIE (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #8 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+- Planet #9 (k thick atmosphere)
+- Planet #10 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+1.YELLOW STAR HAS 11 PLANETS AND 18 MOONS
+2.DISCOVERED BY KJ EPOC 6011:574.656
+1 PLANRT SUPPORTS LIFE,OTHERS WERE UNSUITABLE FOR LIFE

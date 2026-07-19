@@ -1,0 +1,8 @@
+Star: BARDON
+Star class: S08
+Paris coordinates: 3866416, 5413508, -830581
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BARDON 1 (@ large, not consistent)
+- BARDON 2 (@ large, not consistent)

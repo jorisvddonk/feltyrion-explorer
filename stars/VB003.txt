@@ -1,0 +1,6 @@
+Star: VB003
+Star class: S06
+Paris coordinates: 4177136, 4377179, -2342188
+Bodies: 0 (0 planets, 0 moons)
+
+System:

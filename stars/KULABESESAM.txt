@@ -1,0 +1,7 @@
+Star: KULABESESAM
+Star class: S10
+Paris coordinates: 514992, -30226515, 1391353
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PLISPE (d dusty, craterized)

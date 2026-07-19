@@ -1,0 +1,7 @@
+Star: ALSAKI CXXCIII
+Star class: S07
+Paris coordinates: 15485680, 32294381, -7550323
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)

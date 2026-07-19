@@ -1,0 +1,36 @@
+Star: SERAXIS PRIME
+Star class: S08
+Paris coordinates: 4286768, 5144020, -157515
+Bodies: 27 (4 planets, 23 moons)
+
+System:
+- DEDLOV (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- SERAXIS LESSER (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (f felisian)
+  - Moon #11 (^ unstable)
+- Planet #3 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (+ substellar object)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (f felisian)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (f felisian)
+
+Guide entries:
+BINARY SYSTEM. (DISCOVERED BY SERAXIS.)                                     

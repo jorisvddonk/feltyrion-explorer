@@ -1,0 +1,25 @@
+Star: OPTIMUS PRIME
+Star class: S08
+Paris coordinates: 5062480, 5212834, -475854
+Bodies: 19 (3 planets, 16 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)
+- OPTIMUS MINOR (* companion star)
+  - DOMINUS (f felisian)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (q quartz surface)
+  - Moon #13 (@ large, not consistent)
+  - Moon #14 (n thin atmosphere)
+  - Moon #15 (d dusty, craterized)

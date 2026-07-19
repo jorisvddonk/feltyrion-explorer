@@ -1,0 +1,8 @@
+Star: PHEENER
+Star class: S00
+Paris coordinates: 5589616, 4963084, 639843
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MUALPHA (d dusty, craterized)
+- LEPHTSHU (d dusty, craterized)

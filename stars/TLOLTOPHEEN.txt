@@ -1,0 +1,9 @@
+Star: TLOLTOPHEEN
+Star class: S06
+Paris coordinates: 400181072, -1042570, -400226098
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR LITHIUM SCOPING. (DISCOVERED BY NEUZD, 6011:814.558)     

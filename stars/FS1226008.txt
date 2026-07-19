@@ -1,0 +1,6 @@
+Star: FS1226008
+Star class: S06
+Paris coordinates: 50377424, 84083, 950293159
+Bodies: 0 (0 planets, 0 moons)
+
+System:

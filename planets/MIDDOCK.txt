@@ -1,0 +1,3 @@
+Planet: MIDDOCK
+Starmap index: 04
+Paris coordinates: -1071024, 5220683, -9634850

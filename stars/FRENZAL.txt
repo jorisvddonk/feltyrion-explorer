@@ -1,0 +1,10 @@
+Star: FRENZAL
+Star class: S08
+Paris coordinates: 3666416, 4631653, -817411
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- SMALL-FRENZAL (* companion star)
+  - ROCKY-CREASE (r rocky, creased)
+  - RHOMB (^ unstable)
+- MINI-FRENZAL (* companion star)

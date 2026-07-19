@@ -1,0 +1,38 @@
+Star: KSIATUT
+Star class: S00
+Paris coordinates: -194640, -77675, -351463
+Bodies: 27 (5 planets, 22 moons)
+
+System:
+- DYABRIS (n thin atmosphere)
+- GABAMASAS (d dusty, craterized)
+- NOVELLETUM (f felisian)
+  - HAIJIRO (d dusty, craterized)
+  - MEINCHADS (d dusty, craterized)
+- EU ARSALVA (@ large, not consistent)
+  - UTHABON (n thin atmosphere)
+  - IJANOM (^ unstable)
+  - OVANDH (n thin atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (^ unstable)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (f felisian)
+  - RHJEHAYAND (k thick atmosphere)
+  - ORORBU (d dusty, craterized)
+  - MUIDASSAT (k thick atmosphere)
+  - BEFHNAKA (r rocky, creased)
+  - REFHIJIL (^ unstable)
+  - DUORJI (n thin atmosphere)
+  - ATAFOTJI (d dusty, craterized)
+  - FHLRIKO (n thin atmosphere)
+  - HAIBICA (d dusty, craterized)
+- KEOFHIUN (n thin atmosphere)
+  - FHKFIM (n thin atmosphere)
+  - YATFHRO (d dusty, craterized)
+
+Guide entries:
+ CLASS S00 STAR WITH 5 PLANETS, 22 MOONS, 2 FELISIAN WORLDS.
+2.65779638 BAL. M.; TEMP 10330 K; RAD 13.5 KR; COOR -194640; -77675;
+-351463; SKINNYMON 6011.940.972

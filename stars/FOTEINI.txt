@@ -1,0 +1,13 @@
+Star: FOTEINI
+Star class: S00
+Paris coordinates: 13203184, 7645538, -6163643
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- OLYMPOS (@ large, not consistent)
+- HERMES (@ large, not consistent)
+- APOLLOS (k thick atmosphere)
+  - APOLLINE (^ unstable)
+  - APOLLOINE (d dusty, craterized)
+- KOFFEE (f felisian)
+- PHILIPPES (d dusty, craterized)

@@ -1,0 +1,6 @@
+Star: EKA39 HALLWAY STAR
+Star class: S06
+Paris coordinates: 119681264, -140952, 47800
+Bodies: 0 (0 planets, 0 moons)
+
+System:

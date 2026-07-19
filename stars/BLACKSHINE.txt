@@ -1,0 +1,14 @@
+Star: BLACKSHINE
+Star class: S05
+Paris coordinates: -1246064, -625757, -538613
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- BIOHAZARD (k thick atmosphere)
+- GRENROC (r rocky, creased)
+- PHUKRATOS (d dusty, craterized)
+  - BULAK (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY NYTAR, EPOC 6011:611.870
+CLASS S05 STAR WITH 3 PLANETS AND 1 MOON.

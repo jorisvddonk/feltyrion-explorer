@@ -1,0 +1,33 @@
+Star: GILGAMESH
+Star class: S00
+Paris coordinates: 4211056, 4791175, -605208
+Bodies: 24 (4 planets, 20 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- STORMIA (f felisian)
+  - STORM (^ unstable)
+  - STORM ELISIUM (n thin atmosphere)
+- BERBERIS (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (^ unstable)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (^ unstable)
+  - Moon #14 (n thin atmosphere)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (n thin atmosphere)
+  - Moon #17 (f felisian)
+
+Guide entries:
+ STAR DISCOVERED BY MRUQE, EPOC 6011 - 567.653 (HAS 1 NICE PLANET)

@@ -1,0 +1,3 @@
+Planet: BURK-1
+Starmap index: 01
+Paris coordinates: 70352, 645533, 1165269

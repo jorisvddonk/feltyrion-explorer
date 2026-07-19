@@ -1,0 +1,3 @@
+Planet: FUZINAK
+Starmap index: 02
+Paris coordinates: 4700336, 5232862, 175184

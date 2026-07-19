@@ -1,0 +1,12 @@
+Star: ORWELL
+Star class: S05
+Paris coordinates: 601424, 40118, 540640
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- 1984 (k thick atmosphere)
+- ANIMAL FARM (q quartz surface)
+- BURMESE DAYS (f felisian)
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOING DISCOVERED BY R.CLEAR EPOC 6011:593.839

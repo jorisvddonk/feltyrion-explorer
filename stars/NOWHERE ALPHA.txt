@@ -1,0 +1,8 @@
+Star: NOWHERE ALPHA
+Star class: S00
+Paris coordinates: 272112, 6669167, 6806998
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)

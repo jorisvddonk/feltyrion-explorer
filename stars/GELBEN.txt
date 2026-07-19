@@ -1,0 +1,28 @@
+Star: GELBEN
+Star class: S00
+Paris coordinates: 4259632, 4344350, -1559886
+Bodies: 19 (8 planets, 11 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- TRAD (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- GREY (q quartz surface)
+- SCEPTRE (@ large, not consistent)
+  - HEPTUNOS (f felisian)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ SYSTEM SURVEYED BY CYBES, EPOCH 6011 - 562.573.200

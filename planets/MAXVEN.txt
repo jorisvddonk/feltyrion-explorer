@@ -1,0 +1,7 @@
+Planet: MAXVEN
+Starmap index: 24
+Paris coordinates: 4924624, 4489659, -461091
+
+Guide entries:
+A GAS GIANT ORBITING THE SIXTH STAR OF THE SYSTEM.                          
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:712.2.561)                             

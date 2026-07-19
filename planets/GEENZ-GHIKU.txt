@@ -1,0 +1,3 @@
+Planet: GEENZ-GHIKU
+Starmap index: 46
+Paris coordinates: 767504, 8315857, -1670814

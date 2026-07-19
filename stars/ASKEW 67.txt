@@ -1,0 +1,32 @@
+Star: ASKEW 67
+Star class: S00
+Paris coordinates: 11045232, -19173216, 17808348
+Bodies: 23 (5 planets, 18 moons)
+
+System:
+- ASKEW 67A (r rocky, creased)
+- ASKEW 67B (n thin atmosphere)
+- FEDELITY (@ large, not consistent)
+  - ASKEW 67C1 (n thin atmosphere)
+  - FEDERAL GIG (f felisian)
+  - ASKEW 67C3 (r rocky, creased)
+  - ASKEW 67C4 (n thin atmosphere)
+  - ASKEW 67C5 (k thick atmosphere)
+- INCONTINENT (@ large, not consistent)
+  - ASKEW 67D1 (q quartz surface)
+  - ASKEW 67D2 (d dusty, craterized)
+  - ASKEW 67D3 (k thick atmosphere)
+- ASKEW 67E (+ substellar object)
+  - ASKEW 67E1 (r rocky, creased)
+  - ASKEW 67E2 (q quartz surface)
+  - ASKEW 67E3 (@ large, not consistent)
+  - ASKEW 67E4 (^ unstable)
+  - ASKEW 67E5 (r rocky, creased)
+  - ASKEW 67E6 (r rocky, creased)
+  - ASKEW 67E7 (k thick atmosphere)
+  - ASKEW 67E8 (k thick atmosphere)
+  - ASKEW 67E9 (n thin atmosphere)
+  - ASKEW 67E10 (d dusty, craterized)
+
+Guide entries:
+1 FELISIAN, 2 QUARTZ WORLDS

@@ -1,0 +1,3 @@
+Planet: SMILEY!
+Starmap index: 02
+Paris coordinates: 570352, 676612, 868585

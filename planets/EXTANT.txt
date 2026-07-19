@@ -1,0 +1,3 @@
+Planet: EXTANT
+Starmap index: 06
+Paris coordinates: -675376, 5328164, 5102857

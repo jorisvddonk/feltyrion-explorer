@@ -1,0 +1,3 @@
+Planet: FURNACE OF STONE
+Starmap index: 03
+Paris coordinates: 4079984, 5122422, -371686

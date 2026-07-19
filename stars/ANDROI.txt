@@ -1,0 +1,25 @@
+Star: ANDROI
+Star class: S00
+Paris coordinates: -280275088, -1411417, 54856035
+Bodies: 16 (5 planets, 11 moons)
+
+System:
+- VISO (n thin atmosphere)
+- MONDRIATI (+ substellar object)
+- TAORI (f felisian)
+  - DIANO (n thin atmosphere)
+  - BOINA (d dusty, craterized)
+- TRITO (d dusty, craterized)
+  - PACO (n thin atmosphere)
+- TALES (@ large, not consistent)
+  - SILIA (q quartz surface)
+  - NABUCO (r rocky, creased)
+  - METROPOLIS (f felisian)
+  - CISO (d dusty, craterized)
+  - TURANDOT (k thick atmosphere)
+  - TISUNA (d dusty, craterized)
+  - GIO (f felisian)
+  - NOIVI (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.576.803

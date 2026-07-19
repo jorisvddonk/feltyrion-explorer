@@ -1,0 +1,6 @@
+Star: RECONDITE XV
+Star class: S06
+Paris coordinates: 797050000, 19950000, -797150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

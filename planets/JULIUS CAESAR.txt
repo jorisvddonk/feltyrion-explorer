@@ -1,0 +1,3 @@
+Planet: JULIUS CAESAR
+Starmap index: 04
+Paris coordinates: 4755696, 4989030, -530150

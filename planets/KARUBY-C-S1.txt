@@ -1,0 +1,3 @@
+Planet: KARUBY-C-S1
+Starmap index: 12
+Paris coordinates: 264656, 434473, -3302103

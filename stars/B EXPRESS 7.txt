@@ -1,0 +1,9 @@
+Star: B EXPRESS 7
+Star class: S06
+Paris coordinates: -5263568, 539063, 4586309
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM!                                                                    

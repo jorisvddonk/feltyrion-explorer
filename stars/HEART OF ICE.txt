@@ -1,0 +1,7 @@
+Star: HEART OF ICE
+Star class: S11
+Paris coordinates: 3677136, 5123457, -1948694
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ICEPATH (d dusty, craterized)

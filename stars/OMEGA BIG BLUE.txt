@@ -1,0 +1,27 @@
+Star: OMEGA BIG BLUE
+Star class: S01
+Paris coordinates: -11567088, -299536, -851430
+Bodies: 17 (10 planets, 7 moons)
+
+System:
+- OMEGA BIG BLUE I (+ substellar object)
+- OMEGA BIG BLUE II (@ large, not consistent)
+- OMEGA BIG BLUE III (d dusty, craterized)
+- OMEGA BIG BLUE IV (d dusty, craterized)
+  - OMEGA BIG BLUE IVA (d dusty, craterized)
+- OMEGA BIG BLE V (^ unstable)
+- OMEGA BIG BLUE VI (n thin atmosphere)
+- OMEGA BIG BLUE VII (@ large, not consistent)
+  - OMEGA BIG BLUE VIIA (k thick atmosphere)
+  - OMEGA BIG BLUE VIIB (r rocky, creased)
+  - OMEGA BIG BLUE VIIC (n thin atmosphere)
+  - OMEGA BIG BLUE VIID (n thin atmosphere)
+  - OMEGA BIG BLUE VIIE (^ unstable)
+- OMEGA BIG BLUE VIII (d dusty, craterized)
+  - OMEGA BIG BLUE VIIIA (n thin atmosphere)
+- OMEGA BIG BLUE IX (i icy surface)
+- OMEGA BIG BLUE X (i icy surface)
+
+Guide entries:
+A CLASS S01 SYSTEM OF 10 PLANETS, 7 MOONS, NO FELISIAN WORLDS.
+SKINNYMON EPOC 6011 586.365

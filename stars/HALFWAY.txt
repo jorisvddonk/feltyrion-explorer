@@ -1,0 +1,9 @@
+Star: HALFWAY
+Star class: S06
+Paris coordinates: -36237104, -644726, 27477867
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NEXT GAS 2264.5L.Y. 6011.564.856.293, JEREMY HUSSELL.

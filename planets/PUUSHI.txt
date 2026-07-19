@@ -1,0 +1,7 @@
+Planet: PUUSHI
+Starmap index: 40
+Paris coordinates: 81072, -77486, -118953
+
+Guide entries:
+HAS A FLAT, SMOOTH, GROOVED ICY SURFACE.
+(SCHMERM 6011 579.822)

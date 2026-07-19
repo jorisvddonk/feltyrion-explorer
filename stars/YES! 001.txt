@@ -1,0 +1,9 @@
+Star: YES! 001
+Star class: S06
+Paris coordinates: -30615664, -19594201, -800099985
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THERE'S FUEL HERE. (SHADOWCLAW 6011:581.803)

@@ -1,0 +1,10 @@
+Star: S121202
+Star class: S07
+Paris coordinates: 678224, 3604268, -2849377
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A BLUE DWARF STAR, SPECTRAL-CLASS B1VII. NO PLANETS DETECTED.
+(STARGAZER. EPOC 6011:597:872)

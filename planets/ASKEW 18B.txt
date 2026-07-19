@@ -1,0 +1,3 @@
+Planet: ASKEW 18B
+Starmap index: 02
+Paris coordinates: 9830992, 8533201, 8516575

@@ -1,0 +1,8 @@
+Planet: KISAKI
+Starmap index: 12
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+KISAKI DISCOVERED BY MISTRAL, EPOC 6011.797.808                             
+PLANET IS HILLY AND DEVOID OF LIFE                                          
+(NOTES BY MISTRAL, EPOC 6011.797.809)                                       

@@ -1,0 +1,10 @@
+Star: GASTAR XIV
+Star class: S06
+Paris coordinates: 1414992, 919167, 511423
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ (DISCOVERED BY THE GREAT DEMENTO)
+OUTPUT: 25 MTPD EST.

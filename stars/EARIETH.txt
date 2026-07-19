@@ -1,0 +1,10 @@
+Star: EARIETH
+Star class: S05
+Paris coordinates: 4942128, 4922933, -1440887
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (i icy surface)

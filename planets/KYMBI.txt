@@ -1,0 +1,8 @@
+Planet: KYMBI
+Starmap index: 13
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M01/P04 SMALL SOLID DUSTY CRATERIZED VERY LARGE CRATERS WITH RAYS ON        
+REFLECTIVE LIGHT GREY SURFACE. PRO 0.150.480 PRV 0.004.057.469              
+SKINNYMON 6011 791.354                                                      

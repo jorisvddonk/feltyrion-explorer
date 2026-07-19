@@ -1,0 +1,8 @@
+Star: ASKEW 13
+Star class: S10
+Paris coordinates: 9793136, 8261854, 8231802
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASKEW 13A (n thin atmosphere)
+- ASKEW 13B (@ large, not consistent)

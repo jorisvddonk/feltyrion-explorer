@@ -1,0 +1,3 @@
+Planet: CHUNK
+Starmap index: 01
+Paris coordinates: 3152848, 4238818, -947940

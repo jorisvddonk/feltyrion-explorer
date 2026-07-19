@@ -1,0 +1,10 @@
+Star: AS01051248
+Star class: S02
+Paris coordinates: 55028976, 351970, 1982185810
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- AS01051248A (@ large, not consistent)
+
+Guide entries:
+NO HABITABLE PLANETS.

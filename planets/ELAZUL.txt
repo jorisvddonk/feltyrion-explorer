@@ -1,0 +1,8 @@
+Planet: ELAZUL
+Starmap index: 03
+Paris coordinates: 1636432, 5716987, -2236086
+
+Guide entries:
+A COLD, YET TEEMING PLANET, COVERED IN ARCTIC, FEATURELESS TERRAIN.         
+DESPITE THE BRIGHT SUN, THERE IS LITTLE WARMTH, AND SEVERAL LARGE MESAS     
+ (DISCOVERED BY JAKE, 683.946.780)                                          

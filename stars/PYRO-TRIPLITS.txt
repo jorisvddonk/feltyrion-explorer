@@ -1,0 +1,43 @@
+Star: PYRO-TRIPLITS
+Star class: S08
+Paris coordinates: -739280, 693969, -538507
+Bodies: 29 (7 planets, 22 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (* companion star)
+  - P-T-2-1 (f felisian)
+- Planet #2 (* companion star)
+  - Moon #0 (q quartz surface)
+  - P-T-3-2 (f felisian)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (r rocky, creased)
+  - P-T-3-5 (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (+ substellar object)
+  - Moon #10 (+ substellar object)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (@ large, not consistent)
+  - P-T-3-14 (f felisian)
+  - P-T-3-15 (f felisian)
+  - Moon #15 (k thick atmosphere)
+- Planet #3 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED BY JUS, 6011.578.577
+TRIPLITS WAS THE WRONG NAME TO CHOOSE, AS THERE IS AT LEAST ONE
+OTHER STAR BESIDES THE THREE FROM WHICH THE SYSTEM DERIVES ITS
+NAME. IT SEEMS TO BE A BLUE GIANT IN ORBIT AROUNT THE MAIN STAR,
+BUT IS IS SO FAR THAT IT CANNOT EVEN BE SEEN FROM THE OTHERS,
+ABOUT 600 DYAMS OR MORE AWAY FROM THE REST.(JUS,6011.578.582)

@@ -1,0 +1,6 @@
+Planet: GOX II
+Starmap index: 02
+Paris coordinates: -25712, -854450, -220160
+
+Guide entries:
+DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.324

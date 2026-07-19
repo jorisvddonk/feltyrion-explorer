@@ -1,0 +1,9 @@
+Star: EXCLUSIVE
+Star class: S00
+Paris coordinates: 2904272, 4131453, 312012
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS 0 STAR WITH NO PLANETS, DISCOVERED BY RCLEAR 6011:598.13

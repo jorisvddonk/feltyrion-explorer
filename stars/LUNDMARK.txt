@@ -1,0 +1,36 @@
+Star: LUNDMARK
+Star class: S08
+Paris coordinates: 4101424, -65953610, -2995754
+Bodies: 21 (3 planets, 18 moons)
+
+System:
+- LUNDMARK BETA (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (+ substellar object)
+- LUNDMARK ALPHA I (d dusty, craterized)
+- LUNDMARK GAMMA (* companion star)
+  - LUNDMARK GAMMA I (^ unstable)
+  - LUNDMARK GAMMA II (k thick atmosphere)
+  - LUNDMARK GAMMA III (k thick atmosphere)
+  - LUNDMARK GAMMA IV (n thin atmosphere)
+  - LUNDMARK GAMMA V (d dusty, craterized)
+  - LUNDMARK GAMMA VI (n thin atmosphere)
+  - LUNDMARK GAMMA VII (^ unstable)
+  - LUNDMARK GAMMA VIII (r rocky, creased)
+  - LUNDMARK GAMMA IX (k thick atmosphere)
+  - LUNDMARK PRIME (f felisian)
+  - LUNDMARK GAMMA XI (+ substellar object)
+  - LUNDMARK GAMMA XII (q quartz surface)
+  - LUNDMARK GAMMA XIII (k thick atmosphere)
+  - LUNDMARK GAMMA XIV (n thin atmosphere)
+  - LUNDMARK GAMMA XV (+ substellar object)
+  - LUNDMARK GAMMA XVI (q quartz surface)
+
+Guide entries:
+A TRINARY SYSTEM, SOME 20-30LY FROM FARHOME. ALL THREE STARS ARE BLUE
+WITH THE FIRST TWO LESS THAN A DYAM APART, AND THE THIRD BEING 40
+DYAMS AWAY FROM THEM. THE FIRST STAR HAS A SINGLE PLANET, AND THE
+BULK OF THE PLANETS ORBIT THE DISTANT GAMMA COMPANION. THE TENTH
+PLANET IS A FELYSIAN WORLD WORTH VISITING FOR THE SPECTACULAR
+LIGHTSHOWS CREATED BY AN S08 MULTISTAR SYSTEM.
+(SCHMERM 6011 594.933)

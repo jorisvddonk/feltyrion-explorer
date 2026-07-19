@@ -1,0 +1,9 @@
+Star: THE GREY
+Star class: S06
+Paris coordinates: 4159632, 4636827, -1724494
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE

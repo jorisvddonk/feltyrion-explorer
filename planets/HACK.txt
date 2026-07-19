@@ -1,0 +1,3 @@
+Planet: HACK
+Starmap index: 04
+Paris coordinates: 1677136, 2175648, -46363

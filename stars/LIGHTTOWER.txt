@@ -1,0 +1,14 @@
+Star: LIGHTTOWER
+Star class: S11
+Paris coordinates: 4755696, 4989030, -530150
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- ALEXANDRIA (d dusty, craterized)
+- PHAROS (d dusty, craterized)
+- CLEOPATRA (d dusty, craterized)
+- JULIUS CAESAR (d dusty, craterized)
+  - MARCUS ANTONIUS (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY KALMAN FARAGO IN 6011.560.731

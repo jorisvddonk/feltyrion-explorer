@@ -1,0 +1,6 @@
+Star: NOPE
+Star class: S06
+Paris coordinates: 556784, 1329117, -198508
+Bodies: 0 (0 planets, 0 moons)
+
+System:

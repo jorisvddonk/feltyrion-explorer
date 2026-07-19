@@ -1,0 +1,12 @@
+Star: TELAR
+Star class: S11
+Paris coordinates: 225712, 679313, 410990
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- TEMARIA (@ large, not consistent)
+
+Guide entries:
+DISCOVERED EPOC 6011, 577.159.800
+TELAR IS A PULSAR SYSTEM WITH ONE LARGE PLANET.
+(NOTES BY KAYIN ANGEL)

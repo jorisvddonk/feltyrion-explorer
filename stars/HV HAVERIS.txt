@@ -1,0 +1,13 @@
+Star: HV HAVERIS
+Star class: S08
+Paris coordinates: 2081950928, -879718, -1036662
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- JYHSYAD (q quartz surface)
+- KOIDAFH (q quartz surface)
+
+Guide entries:
+A PSEUDO S08 WITH NO COMPAINION STAR BUT 2 PLANETS, BOTH QUARTZ.            
+1.08542633 BAL. M. TEMP 4024K RAD 25KR COOR 2081950928;-879718;             
+-1036662; SKINNYMON 6011 793.820                                            

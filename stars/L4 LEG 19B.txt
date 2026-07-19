@@ -1,0 +1,10 @@
+Star: L4 LEG 19B
+Star class: S06
+Paris coordinates: -1479640336, 142209, 456505
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ALSO NOT SUITABLE. THERE'S GOT TO BE A GOOD ONE AROUND HERE.
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:173

@@ -1,0 +1,7 @@
+Planet: SAYR
+Starmap index: 38
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M05/P08 SMALLL ICY DULL GREY WITH DARK GROOVES. PRO 0.147.240 PRV 0.005.    
+542.266 SKINNYMON 6011 792.156                                              

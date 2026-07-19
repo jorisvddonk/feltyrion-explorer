@@ -1,0 +1,11 @@
+Star: ALEXANDROS
+Star class: S00
+Paris coordinates: 3352848, 4694601, -1274885
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- HETAEROS (@ large, not consistent)
+
+Guide entries:
+YELLOW SUN WITH ONLY 1 PLANET
+RECORDED BY MELANC EPOC 6011.600.735.800

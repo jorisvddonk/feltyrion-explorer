@@ -1,0 +1,9 @@
+Planet: GRAN CRATER
+Starmap index: 07
+Paris coordinates: 4459632, 4949965, -2023422
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.741 -                               
+ MOON OF CANGURITO PLANET.                                                  
+ PRESENTS VERY LARGE CRATERS.                                               
+ NOTE BY TIANCRIS - EPOC 6011.680.741 -                                     

@@ -1,0 +1,3 @@
+Planet: ASKEW 195C12
+Starmap index: 16
+Paris coordinates: 7689200, -9846196, 11968208

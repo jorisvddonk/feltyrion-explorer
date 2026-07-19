@@ -1,0 +1,3 @@
+Planet: TIGER
+Starmap index: 03
+Paris coordinates: 319856, 3830639, 32789096

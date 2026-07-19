@@ -1,0 +1,3 @@
+Planet: LARGER
+Starmap index: 70
+Paris coordinates: 11558800, -19461295, 17911789

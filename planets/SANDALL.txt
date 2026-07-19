@@ -1,0 +1,3 @@
+Planet: SANDALL
+Starmap index: 01
+Paris coordinates: -3535344, -3723125, 521558

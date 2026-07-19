@@ -1,0 +1,6 @@
+Star: ION+ #1
+Star class: S06
+Paris coordinates: 2659632, 3947014, 27783
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,12 @@
+Star: RESONANT
+Star class: S02
+Paris coordinates: 4576048, 3749421, 978599
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- RUINATION (n thin atmosphere)
+- TURBULENCE (^ unstable)
+- LONELINESS (d dusty, craterized)
+- UNCERTAINITY (q quartz surface)
+- NAMELESS (d dusty, craterized)
+- SUICIDE (d dusty, craterized)

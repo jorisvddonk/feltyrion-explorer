@@ -1,0 +1,6 @@
+Star: QWERT
+Star class: S00
+Paris coordinates: -132496, -3272, -631914
+Bodies: 0 (0 planets, 0 moons)
+
+System:

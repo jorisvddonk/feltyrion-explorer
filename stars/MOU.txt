@@ -1,0 +1,17 @@
+Star: MOU
+Star class: S00
+Paris coordinates: 6221776, 5252973, -3881393
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- MISTY (@ large, not consistent)
+- PAKE (k thick atmosphere)
+- ADOR (f felisian)
+  - FERSH (d dusty, craterized)
+  - RING (d dusty, craterized)
+  - LESS (d dusty, craterized)
+- FINAL (n thin atmosphere)
+  - SER (n thin atmosphere)
+
+Guide entries:
+CLASS S00 STAR DISCOVERED BY MURRMURR EPOC 6011:608.591

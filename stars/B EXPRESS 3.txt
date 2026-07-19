@@ -1,0 +1,9 @@
+Star: B EXPRESS 3
+Star class: S06
+Paris coordinates: -1543216, 682560, 1932356
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+, LI+, LI+                                                               

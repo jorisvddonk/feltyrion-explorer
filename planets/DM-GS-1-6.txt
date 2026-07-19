@@ -1,0 +1,6 @@
+Planet: DM-GS-1-6
+Starmap index: 12
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+DEAD MOON, NO LIFE, OXYGEN ATMOSPHERE

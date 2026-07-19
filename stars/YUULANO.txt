@@ -1,0 +1,10 @@
+Star: YUULANO
+Star class: S06
+Paris coordinates: 2146552016, 1837642, 749931194
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:786.905
+(S06) LI+

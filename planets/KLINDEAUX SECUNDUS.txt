@@ -1,0 +1,3 @@
+Planet: KLINDEAUX SECUNDUS
+Starmap index: 02
+Paris coordinates: 2147371600, 1054315, 1909573915

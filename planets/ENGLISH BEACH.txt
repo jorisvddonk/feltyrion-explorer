@@ -1,0 +1,12 @@
+Planet: ENGLISH BEACH
+Starmap index: 01
+Paris coordinates: -694640, 175151, 72300
+
+Guide entries:
+ APPEARS TO HAVE HAD WATER ONCE, LOOKS SIMILAR TO AN EARTH                  
+DESERT. FURTHEST OF TWO PLANETS FROM ITS SUN.                               
+DISCOVERED BY ELHAM.                                                        
+EXCELLENT VIEWS OF IT NEAR THE SUN TO BE SEEN, I'M SURE THE                 
+CLOSER PLANET WILL LOOK EVEN BETTER.                                        
+DISCOVERED EPOCH 6011.722.994.760.                                          
+CO-ORDS -694597;175151;72181.                                               

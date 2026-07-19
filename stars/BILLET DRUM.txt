@@ -1,0 +1,32 @@
+Star: BILLET DRUM
+Star class: S00
+Paris coordinates: 3439280, 4765935, -2020859
+Bodies: 26 (11 planets, 15 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- COIN (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- RANTIDINE (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+- Planet #9 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (i icy surface)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)

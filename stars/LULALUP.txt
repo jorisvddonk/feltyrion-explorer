@@ -1,0 +1,6 @@
+Star: LULALUP
+Star class: S08
+Paris coordinates: 2352848, -24368398, -242392
+Bodies: 0 (0 planets, 0 moons)
+
+System:

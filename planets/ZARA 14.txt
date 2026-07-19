@@ -1,0 +1,3 @@
+Planet: ZARA 14
+Starmap index: 14
+Paris coordinates: -1128560, -539771, -1463575

@@ -1,0 +1,16 @@
+Star: KINGLET
+Star class: S02
+Paris coordinates: 3378896, 2037877, 4292895
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- KINGLET I (k thick atmosphere)
+- KINGLET II (d dusty, craterized)
+- KINGLET III (@ large, not consistent)
+- KINGLET IV (@ large, not consistent)
+- KINGLET V (n thin atmosphere)
+- KINGLET VI (+ substellar object)
+- KINGLET VII (d dusty, craterized)
+
+Guide entries:
+A CLASS S02 SYSTEM WITH 7 PLANETS.SKINNYMON EPOC 6011 585.753

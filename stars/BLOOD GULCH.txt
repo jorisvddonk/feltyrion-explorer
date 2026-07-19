@@ -1,0 +1,17 @@
+Star: BLOOD GULCH
+Star class: S00
+Paris coordinates: 574288, 332147, -1025664
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (q quartz surface)
+- EPSILON (f felisian)
+  - Moon #0 (d dusty, craterized)
+- GRIF (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (f felisian)

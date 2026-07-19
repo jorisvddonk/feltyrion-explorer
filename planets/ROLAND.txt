@@ -1,0 +1,3 @@
+Planet: ROLAND
+Starmap index: 04
+Paris coordinates: -1346064, 264988, -392979

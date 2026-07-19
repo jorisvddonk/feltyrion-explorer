@@ -1,0 +1,6 @@
+Star: YAGHUI
+Star class: S06
+Paris coordinates: 4355696, 4222248, -13112
+Bodies: 0 (0 planets, 0 moons)
+
+System:

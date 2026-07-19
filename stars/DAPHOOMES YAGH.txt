@@ -1,0 +1,6 @@
+Star: DAPHOOMES YAGH
+Star class: S11
+Paris coordinates: 1050000, 51950000, -1150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,16 @@
+Star: JMK
+Star class: S11
+Paris coordinates: 5544976, 4364947, 115791
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- VICUS GIDIRIA (@ large, not consistent)
+- IIO (d dusty, craterized)
+- JAS VICTUS (@ large, not consistent)
+  - JAS ERRANT -JV01 (i icy surface)
+  - JAS ZLION -JV02 (i icy surface)
+  - JAS NUBROK -JV03 (q quartz surface)
+- LURIEN TOR (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ORTEGA, EPOCH 6011:621.648

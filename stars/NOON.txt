@@ -1,0 +1,9 @@
+Star: NOON
+Star class: S10
+Paris coordinates: -446064, -174742, -1070571
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ LARGE, ANCIENT RUNAWAY STAR. NO PLANETS. SERPENS, 6011 665.674

@@ -1,0 +1,3 @@
+Planet: RADAX ERIN 4
+Starmap index: 04
+Paris coordinates: -39623536, 1498313, 31452219

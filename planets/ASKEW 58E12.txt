@@ -1,0 +1,3 @@
+Planet: ASKEW 58E12
+Starmap index: 17
+Paris coordinates: 10869520, -19274356, 17549028

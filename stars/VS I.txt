@@ -1,0 +1,33 @@
+Star: VS I
+Star class: S00
+Paris coordinates: 3770352, 5042875, -2324110
+Bodies: 27 (7 planets, 20 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- SARTEMA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (f felisian)
+  - Moon #11 (^ unstable)
+  - Moon #12 (f felisian)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (f felisian)
+- Planet #6 (d dusty, craterized)

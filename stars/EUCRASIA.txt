@@ -1,0 +1,47 @@
+Star: EUCRASIA
+Star class: S00
+Paris coordinates: 3573200, 4797591, -303987
+Bodies: 38 (10 planets, 28 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- LESHP (f felisian)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+- Planet #5 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (^ unstable)
+  - Moon #7 (^ unstable)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (k thick atmosphere)
+- Planet #6 (f felisian)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #7 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (i icy surface)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (r rocky, creased)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+- Planet #9 (q quartz surface)
+
+Guide entries:
+DISCOVERRED BY CEREBUS, 6011.719.432                                        

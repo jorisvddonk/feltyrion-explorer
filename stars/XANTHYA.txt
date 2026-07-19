@@ -1,0 +1,19 @@
+Star: XANTHYA
+Star class: S00
+Paris coordinates: 922864, 3162771, -2336095
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- XANTHYA-A (@ large, not consistent)
+- XANTHYA-B (r rocky, creased)
+- XANTHYA-C-FELYS (f felisian)
+  - XANTHYA-C-S1 (d dusty, craterized)
+- XANTHYA-D-FELYS (f felisian)
+  - XANTHYA-D-S1 (d dusty, craterized)
+  - XANTHYA-D-S2 (^ unstable)
+  - Moon #2 (^ unstable)
+- XANTHYA-E-FELYS (f felisian)
+  - XANTHYA-E-S1 (n thin atmosphere)
+  - XANTHYA-E-S2 (d dusty, craterized)
+- XANTHYA-F (r rocky, creased)
+- XANTHYA-G (d dusty, craterized)

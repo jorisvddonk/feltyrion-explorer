@@ -1,0 +1,9 @@
+Star: SF 10
+Star class: S06
+Paris coordinates: -124438384, -54977743, -290751
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+26 MTPD EST

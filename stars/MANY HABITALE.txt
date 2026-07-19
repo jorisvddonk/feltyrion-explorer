@@ -1,0 +1,13 @@
+Star: MANY HABITALE
+Star class: S00
+Paris coordinates: 6273200, 4059677, -3008243
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+- Planet #4 (f felisian)
+- Planet #5 (q quartz surface)
+- Planet #6 (f felisian)

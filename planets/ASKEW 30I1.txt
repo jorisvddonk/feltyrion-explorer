@@ -1,0 +1,3 @@
+Planet: ASKEW 30I1
+Starmap index: 55
+Paris coordinates: 11558800, -19461295, 17911789

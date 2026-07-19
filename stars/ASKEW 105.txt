@@ -1,0 +1,6 @@
+Star: ASKEW 105
+Star class: S06
+Paris coordinates: 1746736, -12053140, 9799190
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,7 @@
+Planet: OVONO
+Starmap index: 24
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M09.07 SMALL SOLID THIN ATMO. SLIGHTLY BRIGHT, FAIR POLAR CAPS. PRO 0.      
+291.240 PRV 0.007.532.692 SKINNYMON 6011 792.11                             

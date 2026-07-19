@@ -1,0 +1,9 @@
+Star: ARBITER
+Star class: S00
+Paris coordinates: -832496, -862, -69451
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A CLASS S00 SYSTEM. NO PLANETS. SERPENS, 6011 665.411

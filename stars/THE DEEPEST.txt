@@ -1,0 +1,9 @@
+Star: THE DEEPEST
+Star class: S10
+Paris coordinates: 10143216, -4679851, -10409221
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A RUNAWAY STAR WITH NO PLANETS. SERPENS, 6011 665.334

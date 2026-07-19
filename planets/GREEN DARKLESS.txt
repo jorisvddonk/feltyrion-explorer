@@ -1,0 +1,3 @@
+Planet: GREEN DARKLESS
+Starmap index: 01
+Paris coordinates: 24249168, 5950755, 2934920

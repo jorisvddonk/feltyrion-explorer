@@ -1,0 +1,6 @@
+Planet: CHEN
+Starmap index: 02
+Paris coordinates: 1870352, 6120454, -719006
+
+Guide entries:
+SMALL SOLID DUSTY NO ATMOSPHERE (KRUSTY 6011:598.970)

@@ -1,0 +1,9 @@
+Star: REFUEL
+Star class: S06
+Paris coordinates: 3552848, 4833415, -1452226
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ NOT MUCH TO SAY. THIS IS YET ANOTHER S06 STAR, GOOD FOR REFUELING.

@@ -1,0 +1,40 @@
+Star: STEL
+Star class: S00
+Paris coordinates: 1566416, 449930, 1557757
+Bodies: 21 (8 planets, 13 moons)
+
+System:
+- SEME (+ substellar object)
+- SATURNINE (n thin atmosphere)
+- JNUK (d dusty, craterized)
+- BIRONG (r rocky, creased)
+  - BARING (n thin atmosphere)
+  - BERANG (d dusty, craterized)
+- MISING (k thick atmosphere)
+  - APEL (n thin atmosphere)
+  - LITE (d dusty, craterized)
+- TRAHS (d dusty, craterized)
+- KROTAR (d dusty, craterized)
+  - FRYD (^ unstable)
+- GEI (@ large, not consistent)
+  - WOT (^ unstable)
+  - FUZE (r rocky, creased)
+  - YEHA (f felisian)
+  - LON (n thin atmosphere)
+  - YAE (q quartz surface)
+  - INWAL (d dusty, craterized)
+  - HOLF (n thin atmosphere)
+  - FUSBAL (r rocky, creased)
+
+Guide entries:
+A S00 STAR WITH 21 BODIES;8 PLANETS AND 13 ZARKING MOONS. MOST OF THE       
+SYSTEM IS A BUNCH OF THIN OR NO ATMOSPHERED PLANETS THAT ARE COMPLETELY     
+DULL. HOWEVER, I BELIEVE EVERY TYPE OF PLANET IS IN THIS SYSTEM.            
+THERE IS 1 QUARTZ PLANET, 1 OR MORE THICK-ATMOSPHERED PLANETS, COUNTLESS    
+NO OR THIN ATMOSPHERED PLANETS, A GAS GIANT AND EVEN A SUBSTELLAR OBJECT    
+AND 2 GEOLOGICALLY UNSTABLE PLANETS. TOO BAD I HAD TO NAME ALL BUT 1 OF     
+THE BORING ONES BEFORE FINALLY COMING ACROSS A FELISIAN *MOON* OF THE       
+LAST PLANET, WHICH HAPPENS TO BE 0.20 LIGHTYEARS AWAY FROM THE SUN AND      
+HAS A TEMPERATURE OF -15 DEGREES CELSIUS AND GRAVITY OF AROUND 0.50 FG'S.   
+QUITE THE SYSTEM, EVEN THOUGH MOST OF IT IS BORING.                         
+(SYSTEM DISCOVERED AND NAMED BY GEEKOFDEATH CIRCA EPOC 6011:711.582.0)      

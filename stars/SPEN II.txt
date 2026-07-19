@@ -1,0 +1,10 @@
+Star: SPEN II
+Star class: S10
+Paris coordinates: 26477904, 6434646, 44662638
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 STAR WITH NOTHING IN IT.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:265

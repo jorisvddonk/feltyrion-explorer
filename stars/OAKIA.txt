@@ -1,0 +1,13 @@
+Star: OAKIA
+Star class: S00
+Paris coordinates: 3677136, 4623457, -1870326
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- GASIA (+ substellar object)
+- DUSTYCRATER (d dusty, craterized)
+- KEPTOCRACY (n thin atmosphere)
+  - BLACKCRATER (d dusty, craterized)
+  - WHITECRATER (d dusty, craterized)
+- THEEYE (k thick atmosphere)
+  - VULCANAS (^ unstable)

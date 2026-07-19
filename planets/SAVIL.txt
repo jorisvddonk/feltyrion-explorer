@@ -1,0 +1,6 @@
+Planet: SAVIL
+Starmap index: 29
+Paris coordinates: -683920, -11230, -1166048
+
+Guide entries:
+KIET 13/03

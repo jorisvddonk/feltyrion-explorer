@@ -1,0 +1,6 @@
+Star: ALKHASFH
+Star class: S08
+Paris coordinates: 9350000, 50000, -9450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

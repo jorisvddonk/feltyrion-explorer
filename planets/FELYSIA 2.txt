@@ -1,0 +1,3 @@
+Planet: FELYSIA 2
+Starmap index: 04
+Paris coordinates: 756784, 1837784, -206215

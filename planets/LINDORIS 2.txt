@@ -1,0 +1,3 @@
+Planet: LINDORIS 2
+Starmap index: 02
+Paris coordinates: 400919440, 1742300, 55344076

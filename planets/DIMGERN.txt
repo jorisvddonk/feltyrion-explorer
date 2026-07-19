@@ -1,0 +1,3 @@
+Planet: DIMGERN
+Starmap index: 05
+Paris coordinates: -43376, 4332103, 37107834

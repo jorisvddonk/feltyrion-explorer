@@ -1,0 +1,7 @@
+Planet: RUFDAK
+Starmap index: 08
+Paris coordinates: 2090751600, -1867804, -44748
+
+Guide entries:
+M02/P03 SMALL SOLID THIN ATMO FAIRLY DARK WITH GOOD POLAR CAPS. PRO 0.      
+167.040 PRV 0.003.993.106 SKINNYMON 6011 793.754                            

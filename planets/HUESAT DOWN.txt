@@ -1,0 +1,3 @@
+Planet: HUESAT DOWN
+Starmap index: 05
+Paris coordinates: 363568, 1522957, 392575

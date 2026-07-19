@@ -1,0 +1,3 @@
+Planet: BLUE KAHNDRI
+Starmap index: 03
+Paris coordinates: 5941456, 5941169, -12115456

@@ -1,0 +1,7 @@
+Star: BLUE LOU
+Star class: S07
+Paris coordinates: 1994640, 3437547, -1292412
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BB PELLET (+ substellar object)

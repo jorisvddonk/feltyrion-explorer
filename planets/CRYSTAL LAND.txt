@@ -1,0 +1,3 @@
+Planet: CRYSTAL LAND
+Starmap index: 01
+Paris coordinates: 4135344, 4344104, -1049562

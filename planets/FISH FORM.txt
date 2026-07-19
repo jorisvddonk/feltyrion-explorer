@@ -1,0 +1,3 @@
+Planet: FISH FORM
+Starmap index: 03
+Paris coordinates: 3634256, 4255586, 3313584

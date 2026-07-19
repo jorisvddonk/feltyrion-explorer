@@ -1,0 +1,3 @@
+Planet: ASKEW 108C
+Starmap index: 03
+Paris coordinates: 1802096, -12054883, 9036333

@@ -1,0 +1,10 @@
+Star: GAS STATION.2
+Star class: S05
+Paris coordinates: 4993552, 4486913, -525769
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ALTHOUGH A BROWN DWARF, EMITS THE CHERISHED LITHIUM.
+CALEB, 6011:567.917

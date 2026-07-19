@@ -1,0 +1,7 @@
+Planet: GOAT 18.2
+Starmap index: 54
+Paris coordinates: -401424, -59309, -558865
+
+Guide entries:
+SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY DARK. SERPENS, 6011
+665 626

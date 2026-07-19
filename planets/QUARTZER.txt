@@ -1,0 +1,12 @@
+Planet: QUARTZER
+Starmap index: 13
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.591                                    
+A PLANET OF MOSTLY GREY SAND, WITH ROLLING HILLS OF IT MIXED AMIDST         
+LARGE,JUTTING TOWERS OF CRYSTAL.                                            
+AT 138:043 -60.-8, THERE IS A LARGE FORMATION OF CRYSTALS.                  
+AT 113.49 THERE IS A HUGE CANYON OF SPARKLING PURPLE MOUNDS.                
+THE PLANET'S OBSIDIAN DEPOSITS, SUCH AS AT 322.65, CONTAIN MASSIVE          
+CANYONS OF PITCH BLACK SAND.                                                

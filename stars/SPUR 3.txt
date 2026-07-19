@@ -1,0 +1,9 @@
+Star: SPUR 3
+Star class: S06
+Paris coordinates: -2862480, 6260473, -1579197
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

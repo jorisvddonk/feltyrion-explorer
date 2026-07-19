@@ -1,0 +1,9 @@
+Star: FUEL STOP
+Star class: S06
+Paris coordinates: 4804272, 4631733, -1639528
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ HERE YOU CAN FIND PLENTY OF LI++

@@ -1,0 +1,3 @@
+Planet: KITE
+Starmap index: 48
+Paris coordinates: 377136, 935675, 1401841

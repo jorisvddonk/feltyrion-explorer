@@ -1,0 +1,8 @@
+Planet: RHYV
+Starmap index: 26
+Paris coordinates: 634216304, -10847893, 49858171
+
+Guide entries:
+M18/P05 SMALL SOLID DUSTY, VERY REFLECTIVE GREENISH COLOR WITH LARGE        
+HIGHLY REFLECTIVE CRATERS. PRO 0.028.400; PRV 0.006.569.235 SKINNYMON       
+6011 893.76                                                                 

@@ -1,0 +1,16 @@
+Star: ST'ZEB'HUL-ON
+Star class: S00
+Paris coordinates: 5169264, 4383567, -129735
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- ST'CHOUPETTE (r rocky, creased)
+- ST'STA-CY (d dusty, craterized)
+- ST'DYDYS (f felisian)
+  - ST'ELVIRA (n thin atmosphere)
+  - ST'ADELINE (d dusty, craterized)
+  - ST'CHRISS (n thin atmosphere)
+- ST'TIPH-DAN-GALA (f felisian)
+
+Guide entries:
+ DISCOVERED BY SAREK BLUES, EPOC 565.933

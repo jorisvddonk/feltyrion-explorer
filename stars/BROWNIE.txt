@@ -1,0 +1,9 @@
+Star: BROWNIE
+Star class: S05
+Paris coordinates: 3914992, 4814989, -2035343
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:583.998

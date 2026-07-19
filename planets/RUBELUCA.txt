@@ -1,0 +1,3 @@
+Planet: RUBELUCA
+Starmap index: 01
+Paris coordinates: -61639376, 29582594, 663822

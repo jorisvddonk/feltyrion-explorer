@@ -1,0 +1,9 @@
+Star: FUEL FOURTEEN
+Star class: S06
+Paris coordinates: -332496, 80307, -370980
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.430

@@ -1,0 +1,3 @@
+Planet: BLULSTAT 6-10
+Starmap index: 35
+Paris coordinates: 3252848, 5675194, -1215611

@@ -1,0 +1,8 @@
+Star: ALSAKI CCIL
+Star class: S05
+Paris coordinates: 14765328, 32483615, -7866197
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)

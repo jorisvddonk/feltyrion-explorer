@@ -1,0 +1,7 @@
+Planet: GRIND
+Starmap index: 01
+Paris coordinates: 443216, 339279, -663603
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.246
+A NICE QUARTZ PLANET.

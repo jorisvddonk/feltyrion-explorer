@@ -1,0 +1,23 @@
+Star: FAX DURA
+Star class: S11
+Paris coordinates: 4677136, 4330901, -2849413
+Bodies: 14 (5 planets, 9 moons)
+
+System:
+- FAX DURA I (@ large, not consistent)
+- FAX DURA II (@ large, not consistent)
+- FAX DURA III (d dusty, craterized)
+  - FAX DURA III-A (d dusty, craterized)
+- FAX DURA IV (@ large, not consistent)
+  - FAX DURA IV-A (i icy surface)
+  - FAX DURA IV-B (^ unstable)
+  - FAX DURA IV-C (i icy surface)
+  - FAX DURA IV-D (d dusty, craterized)
+  - FAX DURA IV-E (i icy surface)
+  - FAX DURA IV-F (i icy surface)
+- FAX DURA V (n thin atmosphere)
+  - FAX DURA V-A (d dusty, craterized)
+  - FAX DURA V-B (i icy surface)
+
+Guide entries:
+BARREN PULSAR SYSTEM. INNOMINANDUS EPOC 6011:723.813.53                     

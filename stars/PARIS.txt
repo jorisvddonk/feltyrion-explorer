@@ -1,0 +1,22 @@
+Star: PARIS
+Star class: S00
+Paris coordinates: 3002096, 2125716, 7807164
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)
+- PARIS 1 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #6 (@ large, not consistent)
+
+Guide entries:
+ THE STAR OF LIGHTS.                                                        

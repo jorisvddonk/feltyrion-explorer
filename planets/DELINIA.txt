@@ -1,0 +1,6 @@
+Planet: DELINIA
+Starmap index: 03
+Paris coordinates: 2490704, 1503553, -26371
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:584.292.116

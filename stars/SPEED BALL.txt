@@ -1,0 +1,11 @@
+Star: SPEED BALL
+Star class: S10
+Paris coordinates: 3542128, 4919626, -31933
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- RINGO (d dusty, craterized)
+
+Guide entries:
+BIG RUNAWAY STAR WITH 1 PLANET
+LOW RADIATION

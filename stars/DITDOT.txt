@@ -1,0 +1,12 @@
+Star: DITDOT
+Star class: S00
+Paris coordinates: -23367920, 17736220, 37913190
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- TWEETY (f felisian)
+
+Guide entries:
+ S00 DISC BY SCAREDY-CAT, EPOC 599.92.187

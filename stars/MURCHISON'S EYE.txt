@@ -1,0 +1,40 @@
+Star: MURCHISON'S EYE
+Star class: S03
+Paris coordinates: 1670352, 2252727, -258382
+Bodies: 30 (12 planets, 18 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- VERTICAL LIMIT (+ substellar object)
+  - Moon #0 (^ unstable)
+  - EPIC (f felisian)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (n thin atmosphere)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (i icy surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #9 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+- Planet #11 (n thin atmosphere)
+
+Guide entries:
+CATALOGUED 6011.565.728.898 BY JEREMY HUSSELL
+RED GIANT WITH 12 PLANETS.

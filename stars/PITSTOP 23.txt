@@ -1,0 +1,6 @@
+Star: PITSTOP 23
+Star class: S06
+Paris coordinates: -163440, 221732, 625507658
+Bodies: 0 (0 planets, 0 moons)
+
+System:

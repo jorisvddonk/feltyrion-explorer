@@ -1,0 +1,3 @@
+Planet: OOGY
+Starmap index: 02
+Paris coordinates: -412144, 9617773, 669160

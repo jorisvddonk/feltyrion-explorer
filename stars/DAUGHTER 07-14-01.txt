@@ -1,0 +1,31 @@
+Star: DAUGHTER 07-14-01
+Star class: S03
+Paris coordinates: 4297488, 4741055, -1492048
+Bodies: 25 (11 planets, 14 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+- ASHLEY NICHOLE 71401 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (^ unstable)
+- Planet #8 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (^ unstable)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+- Planet #9 (q quartz surface)
+  - Moon #0 (^ unstable)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)

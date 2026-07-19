@@ -1,0 +1,3 @@
+Planet: TOFU
+Starmap index: 22
+Paris coordinates: 670352, 437173, 502845

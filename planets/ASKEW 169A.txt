@@ -1,0 +1,3 @@
+Planet: ASKEW 169A
+Starmap index: 01
+Paris coordinates: 6766000, -7372091, 9568314

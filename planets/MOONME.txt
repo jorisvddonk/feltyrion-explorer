@@ -1,0 +1,6 @@
+Planet: MOONME
+Starmap index: 15
+Paris coordinates: -625712, -113546, 306765
+
+Guide entries:
+MOON DISCOVERED BY BJS EPOC 6011:583.997

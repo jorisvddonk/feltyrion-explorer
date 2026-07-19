@@ -1,0 +1,3 @@
+Planet: VIERE-10
+Starmap index: 10
+Paris coordinates: 514992, 473485, 1377492

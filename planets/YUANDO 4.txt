@@ -1,0 +1,6 @@
+Planet: YUANDO 4
+Starmap index: 04
+Paris coordinates: 1752848, 5860015, 576142
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.996.950)

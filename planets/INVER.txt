@@ -1,0 +1,7 @@
+Planet: INVER
+Starmap index: 02
+Paris coordinates: 521776, -3104039, 1871586
+
+Guide entries:
+UNINTERESTING GAS GIANT                                                     
+ALSO WITH RINGS. (DISCOVERED BY GEEKOFDEATH EPOC 6011:711.396.533)          

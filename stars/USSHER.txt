@@ -1,0 +1,21 @@
+Star: USSHER
+Star class: S08
+Paris coordinates: 3659632, 4375081, -973353
+Bodies: 15 (3 planets, 12 moons)
+
+System:
+- AGNUS DEI (@ large, not consistent)
+- NULLARBOR (* companion star)
+  - Moon #0 (d dusty, craterized)
+- ROSARY (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (^ unstable)
+  - Moon #7 (f felisian)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (d dusty, craterized)

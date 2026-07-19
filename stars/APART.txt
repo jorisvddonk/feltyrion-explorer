@@ -1,0 +1,6 @@
+Star: APART
+Star class: S08
+Paris coordinates: -618928, 872674, 472908
+Bodies: 0 (0 planets, 0 moons)
+
+System:

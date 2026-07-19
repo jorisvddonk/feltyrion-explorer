@@ -1,0 +1,9 @@
+Star: FADE TO BLACK
+Star class: S06
+Paris coordinates: 4024624, 4435637, 397924
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+USEABLE FOR REFUELING (TACKAT 6011:562.865)

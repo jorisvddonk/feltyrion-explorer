@@ -1,0 +1,23 @@
+Star: BART-S00
+Star class: S00
+Paris coordinates: 3025712, 9303498, -2378735
+Bodies: 17 (5 planets, 12 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (f felisian)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (^ unstable)
+  - Moon #10 (k thick atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- BART-S00-P05 (d dusty, craterized)

@@ -1,0 +1,3 @@
+Planet: KEPT ONE
+Starmap index: 02
+Paris coordinates: 1077136, 143103, 570971

@@ -1,0 +1,7 @@
+Planet: DESPER
+Starmap index: 03
+Paris coordinates: 3966416, 4599706, -1118705
+
+Guide entries:
+ DISCOVERED BY VARRIER. EPOCH 6011:570.630
+DUSTY. NO ATMOSPHERE.

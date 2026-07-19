@@ -1,0 +1,3 @@
+Planet: NIGGUD
+Starmap index: 04
+Paris coordinates: -2638192, -8864335, -2266709

@@ -1,0 +1,3 @@
+Planet: DRAILE PRIMUS
+Starmap index: 01
+Paris coordinates: 1400121008, 1740948, 1399814788

@@ -1,0 +1,13 @@
+Star: B EXPRESS 15
+Star class: S06
+Paris coordinates: -49439952, 1275217, 38658364
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOW HEADING FOR THE NEXT CLUSTER OF NAMED STARS, THE 'EKA'                  
+CLUSTER. WE AREN'T SURE WHO NAMED THEM, BUT THEY ALL HAVE FAIRLY            
+GLOOMY NAMES.                                                               
+(NOTE:NO LITHIUM+ AT THIS STAR. TRY B EXPRESS 16-IT HAS QUITE A             
+LOAD O' LITHIUM.)                                                           

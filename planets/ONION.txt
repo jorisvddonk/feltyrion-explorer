@@ -1,0 +1,6 @@
+Planet: ONION
+Starmap index: 07
+Paris coordinates: 4166416, 4703058, -1033495
+
+Guide entries:
+A PLANET WITH A REMARKABLE BELT, DISCOVERED BY MRUQE; EPOC 6011-569.235

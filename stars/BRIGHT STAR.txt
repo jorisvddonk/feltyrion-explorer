@@ -1,0 +1,39 @@
+Star: BRIGHT STAR
+Star class: S00
+Paris coordinates: 777136, 1292367, 804838
+Bodies: 30 (12 planets, 18 moons)
+
+System:
+- DETHLAR (@ large, not consistent)
+- SIPRIS (r rocky, creased)
+- Planet #2 (f felisian)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- GLOBO (f felisian)
+  - Moon #0 (^ unstable)
+- Planet #6 (+ substellar object)
+  - Moon #0 (i icy surface)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (f felisian)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (f felisian)
+  - Moon #12 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (r rocky, creased)
+- Planet #9 (d dusty, craterized)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #11 (n thin atmosphere)
+
+Guide entries:
+(DISCOVERED BY THE GREAT DEMENTO)

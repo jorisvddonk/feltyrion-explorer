@@ -1,0 +1,10 @@
+Star: BEEPEE
+Star class: S06
+Paris coordinates: 2601424, 4243702, -1487342
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED EPOC 6011:582.409 BY MARCUS ARAC
+LITHIUM BEARING GREY GIANT.

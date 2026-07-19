@@ -1,0 +1,11 @@
+Star: AEEIIEEA
+Star class: S00
+Paris coordinates: 4911056, 3961916, -1337652
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- OEUIA (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+
+Guide entries:
+NOT MUCH GOING ON HERE

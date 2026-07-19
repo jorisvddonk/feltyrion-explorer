@@ -1,0 +1,3 @@
+Planet: JAFL QUADREX LUNA
+Starmap index: 06
+Paris coordinates: 1399069584, 1329335, 1399689351

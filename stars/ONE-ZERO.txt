@@ -1,0 +1,15 @@
+Star: ONE-ZERO
+Star class: S08
+Paris coordinates: -21320688, -255560, 15308627
+Bodies: 3 (1 planets, 2 moons)
+
+System:
+- LUMINAUT (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ELHAM EPOC 6011.722.983.42X.                                  
+CLASS 8 (TWO STARS), HAVE NOT YET FOUND PLANETS, HIGHLY PROBABLE            
+THERE ARE A FEW AT LEAST. THE VIEW OF THE TWO STARS IS SPECTACULAR!         
+CO-ORDS -21320698;-255592;15308854.                                         

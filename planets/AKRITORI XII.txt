@@ -1,0 +1,8 @@
+Planet: AKRITORI XII
+Starmap index: 33
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.542.325                              
+GASEOUS MOON, UNSUITABLE FOR LANDING, COVERED BY CLOUDS.                    
+(NEURONWAKE 6011 802.542.390)                                               

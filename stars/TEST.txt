@@ -1,0 +1,6 @@
+Star: TEST
+Star class: S06
+Paris coordinates: 5489616, 5343100, 771156
+Bodies: 0 (0 planets, 0 moons)
+
+System:

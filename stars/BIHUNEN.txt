@@ -1,0 +1,7 @@
+Star: BIHUNEN
+Star class: S07
+Paris coordinates: -2369264, -8558335, -2457338
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- POGROVE (+ substellar object)

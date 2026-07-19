@@ -1,0 +1,10 @@
+Star: FONTELITIO 26
+Star class: S06
+Paris coordinates: -369264, 7766123, -4456750
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.634 -                                
+LI+ IONS: 26 MTPD EST.                                                      

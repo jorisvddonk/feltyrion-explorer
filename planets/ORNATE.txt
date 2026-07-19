@@ -1,0 +1,3 @@
+Planet: ORNATE
+Starmap index: 08
+Paris coordinates: 12144, 354769, -222098

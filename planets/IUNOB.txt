@@ -1,0 +1,3 @@
+Planet: IUNOB
+Starmap index: 23
+Paris coordinates: 1281072, -17832402, -1447008

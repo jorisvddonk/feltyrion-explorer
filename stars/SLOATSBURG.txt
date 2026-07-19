@@ -1,0 +1,6 @@
+Star: SLOATSBURG
+Star class: S06
+Paris coordinates: -2507120, 367093, -2682349
+Bodies: 0 (0 planets, 0 moons)
+
+System:

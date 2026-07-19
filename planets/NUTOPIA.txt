@@ -1,0 +1,6 @@
+Planet: NUTOPIA
+Starmap index: 14
+Paris coordinates: 3814992, 4409913, -1856513
+
+Guide entries:
+NAMED BY SILENTGREEN EPOC 6011 630.649.372

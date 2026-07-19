@@ -1,0 +1,9 @@
+Star: Z-AXIS FUEL 3
+Star class: S06
+Paris coordinates: -89584, 3986, 150500056
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY RADIOACTIVEYETI EPOC 6011 607.76

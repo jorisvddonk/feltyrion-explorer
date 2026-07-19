@@ -1,0 +1,8 @@
+Planet: GEIME
+Starmap index: 12
+Paris coordinates: 2140268528, -2165691, -352139
+
+Guide entries:
+M01/P06 SMALL SOLID DUSTY CRATERIZED. HAS A YELLOW GREEN REFLECTIVITY       
+WITH EQUALLY REFLECTIVE LARGE CRATERS. PRO 0.204.480 PRV 0.0.429.340        
+SKINNYMON 6011 791.653                                                      

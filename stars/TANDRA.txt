@@ -1,0 +1,10 @@
+Star: TANDRA
+Star class: S00
+Paris coordinates: 3566416, 4423957, -437988
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- LYNX (f felisian)
+  - Moon #0 (d dusty, craterized)

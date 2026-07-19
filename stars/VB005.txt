@@ -1,0 +1,6 @@
+Star: VB005
+Star class: S06
+Paris coordinates: 1074288, 4684078, -1590118
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,15 @@
+Star: SRIVAS
+Star class: S11
+Paris coordinates: 3877136, 4307596, -2248909
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+
+Guide entries:
+ BY HARIDAS ON 6011.570.590 HAS 4 PLANET AND 1 MOON EMPTY
+WHAT SHOULD I EXPECT FROM PULSAR AFTER ALL?

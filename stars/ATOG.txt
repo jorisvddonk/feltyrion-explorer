@@ -1,0 +1,9 @@
+Star: ATOG
+Star class: S10
+Paris coordinates: 3690704, 4770114, -1241100
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LARGE RUNAWAY, LONLEY STAR DISCOVERED BY MRUQE; EPOC 6011-569.782

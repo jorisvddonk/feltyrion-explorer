@@ -1,0 +1,6 @@
+Star: GREYFIRE 2
+Star class: S06
+Paris coordinates: -394640, 77241, -232682
+Bodies: 0 (0 planets, 0 moons)
+
+System:

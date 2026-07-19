@@ -1,0 +1,3 @@
+Planet: BOILERERER
+Starmap index: 48
+Paris coordinates: -143216, 190622, 460566

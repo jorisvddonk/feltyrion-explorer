@@ -1,0 +1,3 @@
+Planet: LAND O' LAVA
+Starmap index: 18
+Paris coordinates: -71562064, -598009, 53608687

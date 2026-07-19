@@ -1,0 +1,3 @@
+Planet: TARVOLA BETA
+Starmap index: 02
+Paris coordinates: 4582832, 4950628, 1266235

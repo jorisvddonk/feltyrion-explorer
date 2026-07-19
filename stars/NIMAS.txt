@@ -1,0 +1,35 @@
+Star: NIMAS
+Star class: S00
+Paris coordinates: 3742128, 3928007, -212877
+Bodies: 24 (6 planets, 18 moons)
+
+System:
+- OPIUM (k thick atmosphere)
+- DOMEAN (r rocky, creased)
+- OCEAN (@ large, not consistent)
+  - BASIC (d dusty, craterized)
+  - BLAZE (^ unstable)
+  - BLAZE 2 (^ unstable)
+  - OPIUMITE (k thick atmosphere)
+  - BASIC 2 (d dusty, craterized)
+  - BASIC 3 (d dusty, craterized)
+  - CREASE (r rocky, creased)
+  - GOLFE (q quartz surface)
+  - INFRA (n thin atmosphere)
+  - MARIE (d dusty, craterized)
+  - SPOTS (q quartz surface)
+  - DAGOBAH (f felisian)
+  - BASIC 4 (d dusty, craterized)
+  - DAGOBAH 2 (f felisian)
+- SPADE (d dusty, craterized)
+- PURP (r rocky, creased)
+  - SKYGLASS (d dusty, craterized)
+- BALOONE (@ large, not consistent)
+  - GOTHAM (k thick atmosphere)
+  - PANDAN (r rocky, creased)
+  - BASIC 5 (n thin atmosphere)
+
+Guide entries:
+ FOUND BY REZA, MANY PLANETS WITH BREATHABLE ATMOSPHERES.                   
+ FOUNDED BY REZA, EPOC 6011, 678.971.219                                    
+6 PLANETS, MOONS BREATHABLE. (REZA, EPOC 6011, 680.210.993)                 

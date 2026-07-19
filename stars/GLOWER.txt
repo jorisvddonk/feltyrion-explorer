@@ -1,0 +1,19 @@
+Star: GLOWER
+Star class: S00
+Paris coordinates: 4035344, 4484112, -905031
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- DP-GLOWER-1 (d dusty, craterized)
+- DP-GLOWER-2 (d dusty, craterized)
+- DP-GLOWER-3 (n thin atmosphere)
+- DP-GLOWER-4 (d dusty, craterized)
+- TRANQUIL (f felisian)
+  - DM-1-TRANQUIL (d dusty, craterized)
+  - DM-2-TRANQUIL (d dusty, craterized)
+- GP-GLOWER-1 (k thick atmosphere)
+  - DM-1-GLOWERGP-1 (d dusty, craterized)
+  - DM-2-GLOWERGP-1 (d dusty, craterized)
+
+Guide entries:
+VEGETATION/LIFE ON FIFTH PLANET : STORM

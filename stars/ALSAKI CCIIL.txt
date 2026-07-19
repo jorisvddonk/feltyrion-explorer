@@ -1,0 +1,9 @@
+Star: ALSAKI CCIIL
+Star class: S11
+Paris coordinates: 14803184, 32475698, -7785906
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)

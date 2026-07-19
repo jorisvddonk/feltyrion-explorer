@@ -1,0 +1,6 @@
+Planet: SKYGEM IV B
+Starmap index: 50
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A DARK, DUSTY WORLD. AMWHERE 6011.585.75

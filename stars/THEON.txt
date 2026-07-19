@@ -1,0 +1,9 @@
+Star: THEON
+Star class: S06
+Paris coordinates: 2577136, 5194196, -739158
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:571:14

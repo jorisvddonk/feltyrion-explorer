@@ -1,0 +1,8 @@
+Star: VEX
+Star class: S00
+Paris coordinates: 861808, 5947580, -5741320
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MISSNOM (@ large, not consistent)
+- KAHN (n thin atmosphere)

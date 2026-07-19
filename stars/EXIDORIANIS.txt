@@ -1,0 +1,28 @@
+Star: EXIDORIANIS
+Star class: S00
+Paris coordinates: 4762480, 4256213, -23545
+Bodies: 18 (10 planets, 8 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- ARIOUS-X (f felisian)
+  - TINSIELI (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- AITYONIS (f felisian)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+- ISEILIA (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+ CLASS S00 DISCOVERED EPOC 6011:934.537
+ (DISCOVERED BY MORNINGS EVE)

@@ -1,0 +1,9 @@
+Star: FUEL ONE
+Star class: S06
+Paris coordinates: -494640, 120235, -147167
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.429

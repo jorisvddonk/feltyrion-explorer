@@ -1,0 +1,11 @@
+Star: FOR THE NONCE
+Star class: S09
+Paris coordinates: 3970352, 4722267, -2739145
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- NONCE WORD (@ large, not consistent)
+
+Guide entries:
+A CLASS S09 SYSTEM WITH ONE WORLD. HARDLY WORTH A FOOTNOTE, BUT
+AS LONG AS I'M HERE... SKINNYMON EPOC 6011 577.894

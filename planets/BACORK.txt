@@ -1,0 +1,8 @@
+Planet: BACORK
+Starmap index: 04
+Paris coordinates: 2060398160, -1842327, 78233
+
+Guide entries:
+P04/07 SMALL SOLID THIN ATMO, QUITE DARK WITH FAIR POLAR CAPS. HAS A        
+SMALL TENUOUS FAIRLY DARK DEBRIS RING. PRO 0.114.120 PRV 0.090.696          
+SKINNYMON 6011 796.143                                                      

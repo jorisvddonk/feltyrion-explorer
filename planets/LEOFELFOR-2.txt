@@ -1,0 +1,6 @@
+Planet: LEOFELFOR-2
+Starmap index: 16
+Paris coordinates: -29648, -1258023, 1474796
+
+Guide entries:
+SMALL, THIN ATMOSPHERE.

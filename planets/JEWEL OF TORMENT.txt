@@ -1,0 +1,3 @@
+Planet: JEWEL OF TORMENT
+Starmap index: 10
+Paris coordinates: 2501424, 4364880, -1388893

@@ -1,0 +1,6 @@
+Star: ASCS 00029
+Star class: S01
+Paris coordinates: 550000, 58340, -392890
+Bodies: 0 (0 planets, 0 moons)
+
+System:

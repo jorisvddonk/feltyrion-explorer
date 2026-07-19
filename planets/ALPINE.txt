@@ -1,0 +1,6 @@
+Planet: ALPINE
+Starmap index: 34
+Paris coordinates: 3890704, 4320850, -1439499
+
+Guide entries:
+BIG FORMATION OF MOUNTAINS AT 23.1

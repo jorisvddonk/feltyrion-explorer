@@ -1,0 +1,10 @@
+Star: LONESOME
+Star class: S02
+Paris coordinates: 5452848, 5225703, -3193770
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY CHRIS DONOVAN, EPOC 6011:572.724) DO WHITE DWARFS GET
+LONELY? (NOTES BY CHRIS DONOVAN, EPOC 6011:572.724)

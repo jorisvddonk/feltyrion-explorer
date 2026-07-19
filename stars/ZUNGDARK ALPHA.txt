@@ -1,0 +1,27 @@
+Star: ZUNGDARK ALPHA
+Star class: S00
+Paris coordinates: 850768, 78338, 68952500
+Bodies: 17 (6 planets, 11 moons)
+
+System:
+- ZOZ C (d dusty, craterized)
+- ZOZ B (d dusty, craterized)
+- ZOZ A (k thick atmosphere)
+- ZOZ E (f felisian)
+- ZOZ D (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (f felisian)
+  - Moon #7 (f felisian)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY RADIOACTIVEYETI EPOC 6011 607.73
+ ZOZ E IS A MUST-SEE

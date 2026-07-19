@@ -1,0 +1,6 @@
+Planet: OLETAMMIS
+Starmap index: 25
+Paris coordinates: 3583920, 4409420, -1541145
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:797.801)             

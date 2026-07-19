@@ -1,0 +1,7 @@
+Planet: ARGONAS 11.7
+Starmap index: 36
+Paris coordinates: 2163568, 1586571, -1137857
+
+Guide entries:
+ ICY, NO ATMOSPHERE, ORANGE SURFACE.
+(STARGAZER. EPOC 6011:596:891)

@@ -1,0 +1,3 @@
+Planet: RAYA
+Starmap index: 32
+Paris coordinates: 4142128, 4282625, -592209

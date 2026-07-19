@@ -1,0 +1,6 @@
+Planet: ULEDEN
+Starmap index: 05
+Paris coordinates: 11307376, -19271272, 17252434
+
+Guide entries:
+FOUND EPOC 6011 586.232.000 BY ROLAND ASKEW

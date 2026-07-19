@@ -1,0 +1,7 @@
+Planet: PEONTY
+Starmap index: 06
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+P06/09 VERY LARGE AND VERY PINK SUBSTELLAR OBJECT. PRO 0.254.880 PRV        
+0.420.324.192 SKINNYMON 6011 791.362                                        

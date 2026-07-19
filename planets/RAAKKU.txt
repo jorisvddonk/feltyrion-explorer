@@ -1,0 +1,3 @@
+Planet: RAAKKU
+Starmap index: 12
+Paris coordinates: 5827472, 4968989, 720641

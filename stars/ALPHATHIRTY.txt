@@ -1,0 +1,12 @@
+Star: ALPHATHIRTY
+Star class: S03
+Paris coordinates: 33068432, 32076420, -845600
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - AOL (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

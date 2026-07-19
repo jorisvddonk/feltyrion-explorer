@@ -1,0 +1,10 @@
+Star: LISTA 54
+Star class: S06
+Paris coordinates: 5782832, 4957199, -21635
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A CLASS S06 REFUEL STAR. NAMED A BIT OUT OF ORDER. OH WELL, BETTER
+LATE THAN NEVER. SKINNYMON EPOC 6011 591.618

@@ -1,0 +1,10 @@
+Star: GRAFFIS
+Star class: S06
+Paris coordinates: 1350358160, 1383600, 54852496
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.771
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

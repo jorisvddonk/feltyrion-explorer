@@ -1,0 +1,3 @@
+Planet: DROOP
+Starmap index: 02
+Paris coordinates: -587856, 9540757, 456286

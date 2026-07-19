@@ -1,0 +1,3 @@
+Planet: SESQWERT
+Starmap index: 02
+Paris coordinates: -1425793968, 1597378, 1434962482

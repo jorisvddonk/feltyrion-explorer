@@ -1,0 +1,6 @@
+Star: SU 08
+Star class: S06
+Paris coordinates: -7750672, -50940, -1806698
+Bodies: 0 (0 planets, 0 moons)
+
+System:

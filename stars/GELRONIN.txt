@@ -1,0 +1,11 @@
+Star: GELRONIN
+Star class: S08
+Paris coordinates: -1996620592, 84412, 2657420
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LONELY S08 SYSTEM, COMPOSED OF WHAT APPEARS TO BE A SINGLE SO5            
+STAR. NO PLANETS OR COMPANION STARS.                                        
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:653:175                             

@@ -1,0 +1,16 @@
+Star: TROUBLED
+Star class: S00
+Paris coordinates: 4817840, 4567690, -774077
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- NOWHE (d dusty, craterized)
+- DOMAI (k thick atmosphere)
+- EMINENCE (f felisian)
+  - BESOL (d dusty, craterized)
+  - DOHI (d dusty, craterized)
+  - GOGIC (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 SYSTEM WITH 3 PLANETS, 3 MOONS, ONE FELISIAN WORLD.
+SKINNYMON EPOC 6011 572.540

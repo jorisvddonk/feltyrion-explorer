@@ -1,0 +1,8 @@
+Star: ALSAKI CXXIIX
+Star class: S10
+Paris coordinates: 16161392, 32287672, -7761048
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)

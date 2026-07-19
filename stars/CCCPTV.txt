@@ -1,0 +1,9 @@
+Star: CCCPTV
+Star class: S06
+Paris coordinates: 3831408, 4271991, 1075736
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING, DISCOVERED BY RCLEAR 6011:599.517

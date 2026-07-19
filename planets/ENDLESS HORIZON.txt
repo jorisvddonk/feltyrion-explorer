@@ -1,0 +1,3 @@
+Planet: ENDLESS HORIZON
+Starmap index: 02
+Paris coordinates: 9006032, 835175, 81728

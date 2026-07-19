@@ -1,0 +1,6 @@
+Planet: APPLE
+Starmap index: 01
+Paris coordinates: 2959632, 1881649, -323664
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.51

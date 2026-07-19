@@ -1,0 +1,14 @@
+Star: HOLLYWOOD
+Star class: S02
+Paris coordinates: 8642800, 6833678, 4604110
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+- THE DEATH STAR (d dusty, craterized)
+- Planet #7 (q quartz surface)

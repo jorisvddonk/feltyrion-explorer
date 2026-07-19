@@ -1,0 +1,3 @@
+Planet: DIRT BALL
+Starmap index: 01
+Paris coordinates: 3546064, 4806530, -1665720

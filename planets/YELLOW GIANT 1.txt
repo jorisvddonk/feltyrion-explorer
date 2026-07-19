@@ -1,0 +1,3 @@
+Planet: YELLOW GIANT 1
+Starmap index: 06
+Paris coordinates: 3077136, 4447919, -1286006

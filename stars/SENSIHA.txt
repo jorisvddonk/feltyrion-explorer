@@ -1,0 +1,10 @@
+Star: SENSIHA
+Star class: S07
+Paris coordinates: 746064, 233976, 1090786
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SENSIONLY (+ substellar object)
+
+Guide entries:
+STAR DISCOVERED BY ZOSETE (EPOC 6011 577.521.450)

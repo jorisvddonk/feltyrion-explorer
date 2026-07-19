@@ -1,0 +1,3 @@
+Planet: UMIA
+Starmap index: 01
+Paris coordinates: 714992, 83636, 1227612

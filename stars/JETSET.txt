@@ -1,0 +1,9 @@
+Star: JETSET
+Star class: S10
+Paris coordinates: 1559632, -105216, 1085097
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ (DISCOVERED BY TGD)

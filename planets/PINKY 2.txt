@@ -1,0 +1,3 @@
+Planet: PINKY 2
+Starmap index: 04
+Paris coordinates: 2460720, 5427705, -3769680

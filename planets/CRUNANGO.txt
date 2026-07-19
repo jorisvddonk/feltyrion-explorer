@@ -1,0 +1,3 @@
+Planet: CRUNANGO
+Starmap index: 01
+Paris coordinates: -432496, 237632, -299351

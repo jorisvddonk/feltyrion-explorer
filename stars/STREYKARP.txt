@@ -1,0 +1,6 @@
+Star: STREYKARP
+Star class: S08
+Paris coordinates: 1650000, 4350000, -1750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

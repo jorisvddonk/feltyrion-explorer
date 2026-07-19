@@ -1,0 +1,6 @@
+Star: FUEL04
+Star class: S05
+Paris coordinates: 3766416, 4577313, -869757
+Bodies: 0 (0 planets, 0 moons)
+
+System:

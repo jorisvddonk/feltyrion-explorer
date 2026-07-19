@@ -1,0 +1,7 @@
+Planet: BRUNUS I
+Starmap index: 01
+Paris coordinates: 3870352, -66463721, -2675017
+
+Guide entries:
+A GREEN DEADWORLD WITH AN EQUATORIAL RING SYSTEM.
+(SCHMERM 6011 593.658)

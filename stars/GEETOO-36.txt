@@ -1,0 +1,9 @@
+Star: GEETOO-36
+Star class: S06
+Paris coordinates: 6287184, 6123473, -15749339
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ NO FUEL HERE

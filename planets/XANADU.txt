@@ -1,0 +1,3 @@
+Planet: XANADU
+Starmap index: 04
+Paris coordinates: 3004272, 3998610, 186034

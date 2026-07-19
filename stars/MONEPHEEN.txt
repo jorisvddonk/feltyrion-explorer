@@ -1,0 +1,9 @@
+Star: MONEPHEEN
+Star class: S06
+Paris coordinates: 45350000, -977167, -45167355
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR SCOPING. (DISCOVERED BY NEUZD, 6011:814.545)             

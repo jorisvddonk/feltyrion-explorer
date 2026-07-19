@@ -1,0 +1,6 @@
+Planet: MARTACUS
+Starmap index: 04
+Paris coordinates: 1601424, 5141910, -517221
+
+Guide entries:
+PLANET DISCOVERED BY MARTIN BJORK, EPOC 6011:610.769

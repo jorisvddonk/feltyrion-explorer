@@ -1,0 +1,3 @@
+Planet: SADO
+Starmap index: 17
+Paris coordinates: 3277136, 4429407, -1460385

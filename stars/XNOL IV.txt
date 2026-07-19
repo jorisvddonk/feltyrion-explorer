@@ -1,0 +1,6 @@
+Star: XNOL IV
+Star class: S06
+Paris coordinates: -6132496, 628378, 5440517
+Bodies: 0 (0 planets, 0 moons)
+
+System:

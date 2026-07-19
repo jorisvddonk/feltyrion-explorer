@@ -1,0 +1,22 @@
+Star: DELFO JAG
+Star class: S08
+Paris coordinates: 147056, 7086, 1986076718
+Bodies: 16 (5 planets, 11 moons)
+
+System:
+- DELFO JAG A (* companion star)
+- DELFO JAG B (* companion star)
+- DELFO JAG 1 (k thick atmosphere)
+  - DELFO JAG 1A (n thin atmosphere)
+- DELFO JAG 2 (@ large, not consistent)
+  - DELFO JAG 2A (d dusty, craterized)
+  - DELFO JAG 2B (q quartz surface)
+  - DELFO JAG 2C (k thick atmosphere)
+  - BRELLEGROSTREYA (f felisian)
+  - DELFO JAG 2E (d dusty, craterized)
+  - DELFO JAG 2F (q quartz surface)
+  - DELFO JAG 2G (d dusty, craterized)
+  - DELFO JAG 2H (d dusty, craterized)
+  - DELFO JAG 2I (^ unstable)
+  - DELFO JAG 2J (q quartz surface)
+- DELFO JAG 3 (@ large, not consistent)

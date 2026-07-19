@@ -1,0 +1,6 @@
+Planet: KUROSSE
+Starmap index: 03
+Paris coordinates: 767504, 8315857, -1670814
+
+Guide entries:
+PALE BLUE COMPANION STAR WITH 8 SATELLITES.(NEUZD, 6011:849.234)            

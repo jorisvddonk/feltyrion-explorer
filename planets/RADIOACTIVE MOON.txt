@@ -1,0 +1,3 @@
+Planet: RADIOACTIVE MOON.
+Starmap index: 31
+Paris coordinates: 5369264, 4600105, -122686

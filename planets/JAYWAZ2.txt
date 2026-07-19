@@ -1,0 +1,6 @@
+Planet: JAYWAZ2
+Starmap index: 02
+Paris coordinates: -543216, -1292957, 861708
+
+Guide entries:
+SMALL, NO ATMOSPHERE. PURPLE SURFACE WITH CRATERS.

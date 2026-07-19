@@ -1,0 +1,6 @@
+Star: MAGA
+Star class: S06
+Paris coordinates: 4567504, 7123875, -5320969
+Bodies: 0 (0 planets, 0 moons)
+
+System:

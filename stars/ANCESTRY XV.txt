@@ -1,0 +1,6 @@
+Star: ANCESTRY XV
+Star class: S07
+Paris coordinates: -1421339696, 1128900, 1433504212
+Bodies: 0 (0 planets, 0 moons)
+
+System:

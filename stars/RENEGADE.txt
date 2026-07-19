@@ -1,0 +1,6 @@
+Star: RENEGADE
+Star class: S00
+Paris coordinates: 3659632, 4575081, -983785
+Bodies: 0 (0 planets, 0 moons)
+
+System:

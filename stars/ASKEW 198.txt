@@ -1,0 +1,12 @@
+Star: ASKEW 198
+Star class: S02
+Paris coordinates: 5264240, -2242229, 5204013
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- ASKEW 198A (+ substellar object)
+- ASKEW 198B (n thin atmosphere)
+- ASKEW 198C (k thick atmosphere)
+- ASKEW 198D (@ large, not consistent)
+- ASKEW 198E (q quartz surface)
+- ASKEW 198F (n thin atmosphere)

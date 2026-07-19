@@ -1,0 +1,10 @@
+Star: MDIR 13
+Star class: S06
+Paris coordinates: 863568, 26034620, 67642
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+HEALTHY LI+ HERE.(NOTE THAT THE GRID IS STILL NEARBY BUT HARD TO            
+DISTINGUISH)                                                                

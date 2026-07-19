@@ -1,0 +1,10 @@
+Star: TUESDAY
+Star class: S05
+Paris coordinates: 2973200, 4920580, 369506
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO ORBITING BODIES, NOTHING ELSE. BROWN DWARF STAR.
+(DISCOVERED BY N5CORP ON 6011:617.895)

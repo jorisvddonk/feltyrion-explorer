@@ -1,0 +1,6 @@
+Planet: TERTIO 3.7
+Starmap index: 12
+Paris coordinates: 11828560, -4640891, -9107608
+
+Guide entries:
+ SMALL, CRATERIZED, BLUE REFLECTIVITY. SERPENS, 6011 665.337

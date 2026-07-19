@@ -1,0 +1,9 @@
+Star: LISTA 145
+Star class: S06
+Paris coordinates: 510210992, -1991121, -355345
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL AGAIN. SKINNYMON EPOC 6011 607.452

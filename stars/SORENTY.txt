@@ -1,0 +1,27 @@
+Star: SORENTY
+Star class: S00
+Paris coordinates: 4335344, 4395159, -1196999
+Bodies: 17 (8 planets, 9 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY SOEREN BOJESEN, EPOC 6011:572.641.
+THERE ARE 17 PLANETS ORBITING THE STAR, BUT NO LIFEFORMS FOUND.

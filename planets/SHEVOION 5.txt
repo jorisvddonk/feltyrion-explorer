@@ -1,0 +1,6 @@
+Planet: SHEVOION 5
+Starmap index: 05
+Paris coordinates: 870352, 878077, 320438
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.996.341)

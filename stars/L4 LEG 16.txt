@@ -1,0 +1,10 @@
+Star: L4 LEG 16
+Star class: S06
+Paris coordinates: -1240346736, 52795, 153923
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STILL MOVING ON, SCOPABLE. 24 MTPD.
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:171

@@ -1,0 +1,9 @@
+Star: GEETOO-11
+Star class: S06
+Paris coordinates: 5756784, 5425266, -5246522
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ NO FUEL HERE. OH WELL

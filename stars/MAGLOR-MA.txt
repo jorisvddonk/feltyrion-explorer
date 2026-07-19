@@ -1,0 +1,22 @@
+Star: MAGLOR-MA
+Star class: S00
+Paris coordinates: 5455696, 4398585, -1344889
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- DEV RAI-MA01 (q quartz surface)
+- TIRABIAN-MA02 (@ large, not consistent)
+- PI'LORA-MA03 (f felisian)
+- HYLITH -MA04 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- CORENOK -MA05 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- FEORD -MA06 (f felisian)
+- KERQUSE -MA07 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ORTEGA, EPOC 6011:621.641

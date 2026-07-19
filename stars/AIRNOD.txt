@@ -1,0 +1,11 @@
+Star: AIRNOD
+Star class: S06
+Paris coordinates: 3621776, 4693277, -1327903
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY STARMAN, EPOC 6011-789.519.544. CLASS S06.               
+NO OTHER MAJOR BODIES KNOWN. L+ ION FRIENDLY.P.M:3.28009152 BAL.M.          
+(NOTES BY STARMAN, EPOC 6011789.519.615.                                    

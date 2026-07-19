@@ -1,0 +1,3 @@
+Planet: GROI
+Starmap index: 01
+Paris coordinates: 4146064, 4893991, -2244689

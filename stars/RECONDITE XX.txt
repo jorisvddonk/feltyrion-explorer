@@ -1,0 +1,6 @@
+Star: RECONDITE XX
+Star class: S06
+Paris coordinates: 1006250000, 12150000, -1006350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

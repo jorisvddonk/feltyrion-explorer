@@ -1,0 +1,3 @@
+Planet: KEMPOWTPLANET04
+Starmap index: 04
+Paris coordinates: 636432, 6994296, -1277091

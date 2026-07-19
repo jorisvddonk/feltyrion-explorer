@@ -1,0 +1,6 @@
+Star: GM-E01-41
+Star class: S09
+Paris coordinates: 15050000, 48250000, -15150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

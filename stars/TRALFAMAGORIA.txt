@@ -1,0 +1,61 @@
+Star: TRALFAMAGORIA
+Star class: S08
+Paris coordinates: 3904272, 4765172, -710492
+Bodies: 40 (6 planets, 34 moons)
+
+System:
+- TRALFAMAGORIA-A (* companion star)
+  - GEY (n thin atmosphere)
+  - AUTOLYSIN (d dusty, craterized)
+- TRALFAMAGORIA-B (* companion star)
+  - INSOLE (d dusty, craterized)
+  - RUMFOORD (f felisian)
+- TRALFAMAGORIA-C (* companion star)
+  - MILFOIL (@ large, not consistent)
+  - PUNTY (+ substellar object)
+  - FAL LAL (n thin atmosphere)
+  - HOOPOE (^ unstable)
+  - ROOTLET (k thick atmosphere)
+  - SUBTER (n thin atmosphere)
+  - PARTOK (+ substellar object)
+  - IMMIX (k thick atmosphere)
+  - SOTOL (+ substellar object)
+  - MICRA (d dusty, craterized)
+- TRALFAMAGORIA-D (* companion star)
+  - SORA (d dusty, craterized)
+  - EASI (d dusty, craterized)
+  - MARAV (@ large, not consistent)
+  - REFE (q quartz surface)
+  - TOU (@ large, not consistent)
+  - MULB (r rocky, creased)
+  - CONSTANT (f felisian)
+  - MORAINE (^ unstable)
+  - EDI (r rocky, creased)
+  - CIRCI (d dusty, craterized)
+  - MAKI (+ substellar object)
+  - OTAC (+ substellar object)
+  - DLESSE (r rocky, creased)
+  - ANWEE (d dusty, craterized)
+  - WASAK (d dusty, craterized)
+- TRALFAMAGORIA-E (d dusty, craterized)
+  - E-A (d dusty, craterized)
+- TRALFAMAGORIA-F (+ substellar object)
+  - ECOR (k thick atmosphere)
+  - CRAZY GODS CONCEPT (f felisian)
+  - THEY NEVER QUIT (f felisian)
+  - TFUL (d dusty, craterized)
+
+Guide entries:
+MULTIPLE STAR SYSTEM DISCOVERED BY MRUQE; EPOC 6011-569.317
+THIS MULTIPLE SYSTEM HAS TWO FELYSIAN PLANETS.
+THEIR NAMES ARE: RUMFOORD AND CONSTANT.
+BOTH OF THEM ARE WORTH A VISIT. THE PHANTOM FOREST ON CONSTANT
+IS SOMETHING THAT MADE A BIG IMPRESSION ON ME. (MRUQE)
+FURTHER NOTES: I HAPPENED TO BE REFUELING AT A NEARBY LITHIUM
+STAR (GROAK) AND WHEN I SCANNED FOR NEW DISTANT TARGETS I CAME
+UP WITH THIS NAMED STAR. SO MANY UNEXPLORED WORLDS I JUST HAD
+TO LIST THEM. BY THE WAY, THERE ARE 4 FELISIAN WORLDS IN
+THIS SYSTEM. THE OTHER TWO ORBIT PLANET 6. SKINNYMON EPOC 6011
+570.713
+FURTHER NOTES:MULTIPLE STAR SYSTEM, AT LEAST 4 STARS SPOTTED.               
+STARS ARE S10 IN APPEARANCE. RYAN GJK E6011.792.172                         

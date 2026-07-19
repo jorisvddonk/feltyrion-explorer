@@ -1,0 +1,3 @@
+Planet: GREY LIFE
+Starmap index: 05
+Paris coordinates: -776048, 4351251, -4442859

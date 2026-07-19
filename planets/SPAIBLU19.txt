@@ -1,0 +1,3 @@
+Planet: SPAIBLU19
+Starmap index: 19
+Paris coordinates: 4090704, 4802659, -1642921

@@ -1,0 +1,10 @@
+Star: L4 LEG 4
+Star class: S06
+Paris coordinates: -280624848, 22188, -16872
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THE FOURTH STOP. S06 STAR, SCOPABLE, 24 MTPD. STILL A WAY TO GO.
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:161

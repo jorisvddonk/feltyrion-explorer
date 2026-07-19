@@ -1,0 +1,3 @@
+Planet: RELEASED
+Starmap index: 02
+Paris coordinates: 3597488, 5147303, -787501

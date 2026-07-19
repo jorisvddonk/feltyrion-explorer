@@ -1,0 +1,3 @@
+Planet: UMMA AK
+Starmap index: 10
+Paris coordinates: 5425712, 8286779, -4787371

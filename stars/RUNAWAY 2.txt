@@ -1,0 +1,6 @@
+Star: RUNAWAY 2
+Star class: S10
+Paris coordinates: 3852848, 5160565, -1755336
+Bodies: 0 (0 planets, 0 moons)
+
+System:

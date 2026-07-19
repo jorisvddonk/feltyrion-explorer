@@ -1,0 +1,3 @@
+Planet: LAOEAS
+Starmap index: 08
+Paris coordinates: 570352, -23388, 773528

@@ -1,0 +1,3 @@
+Planet: REMORSE
+Starmap index: 05
+Paris coordinates: 4717840, 4843207, -729075

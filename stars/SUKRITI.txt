@@ -1,0 +1,10 @@
+Star: SUKRITI
+Star class: S04
+Paris coordinates: 4390704, 4294299, -2024260
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+
+Guide entries:
+BY HARIDAS ON 6011.570.435.695, ONLY ONE PLANET

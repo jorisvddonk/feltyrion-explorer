@@ -1,0 +1,28 @@
+Star: NOWHERE I
+Star class: S00
+Paris coordinates: 678896, 6754095, 6842934
+Bodies: 19 (8 planets, 11 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- Planet #5 (q quartz surface)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+NOT MUCH TO SAY, A FEW PLANETS. (CHRIS SCHEER 6011:693.230                  

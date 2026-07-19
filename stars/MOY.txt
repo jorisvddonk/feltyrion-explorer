@@ -1,0 +1,26 @@
+Star: MOY
+Star class: S04
+Paris coordinates: -222864, 325508, 1826922
+Bodies: 20 (5 planets, 15 moons)
+
+System:
+- MOY-1 (k thick atmosphere)
+- MOY-2 (d dusty, craterized)
+- WESLEYSTADT (f felisian)
+  - MOY-3 1 (d dusty, craterized)
+- FARCHETKA (@ large, not consistent)
+  - MOY-4 1 (k thick atmosphere)
+  - MOY-4 2 (q quartz surface)
+  - MOY-4 3 (n thin atmosphere)
+  - VANDRIVDLE (f felisian)
+  - MOY-4 5 (d dusty, craterized)
+  - MOY-4 6 (q quartz surface)
+  - MOY-4 7 (k thick atmosphere)
+  - MOY-4 8 (q quartz surface)
+  - MOY-4 9 (n thin atmosphere)
+  - MOY-4 10 (r rocky, creased)
+  - MOY-4 11 (r rocky, creased)
+- MOY-5 (+ substellar object)
+  - MOY-5 1 (r rocky, creased)
+  - MOY-5 2 (d dusty, craterized)
+  - MOY-5 3 (@ large, not consistent)

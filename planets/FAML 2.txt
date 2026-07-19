@@ -1,0 +1,6 @@
+Planet: FAML 2
+Starmap index: 02
+Paris coordinates: 1290704, 5236991, 1155414
+
+Guide entries:
+ HAS A HUGE CRATER THAT IS ABOUT 25% OF THE SURFACE.

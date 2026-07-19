@@ -1,0 +1,6 @@
+Planet: VIOITE
+Starmap index: 01
+Paris coordinates: 4352848, 4195547, -2083180
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.709)

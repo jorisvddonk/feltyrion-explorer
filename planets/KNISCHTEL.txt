@@ -1,0 +1,3 @@
+Planet: KNISCHTEL
+Starmap index: 08
+Paris coordinates: 1583920, -27673265, 361375

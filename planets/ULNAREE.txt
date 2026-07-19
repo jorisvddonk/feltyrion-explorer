@@ -1,0 +1,3 @@
+Planet: ULNAREE
+Starmap index: 07
+Paris coordinates: 4293552, 3757950, 243471

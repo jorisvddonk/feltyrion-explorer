@@ -1,0 +1,7 @@
+Planet: ANFHJY
+Starmap index: 34
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M01/P08 SMALL SOLID THIN ATMO FAIRLY DARK WITH SLIGHT POLAR CAPS. PRO       
+0.212.400 PRV 0.0.930.967 SKINNYMON 6011 792.95                             

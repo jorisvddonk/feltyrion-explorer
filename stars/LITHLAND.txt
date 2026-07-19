@@ -1,0 +1,6 @@
+Star: LITHLAND
+Star class: S06
+Paris coordinates: -72034928, -1362384, 55519819
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: SINCLAIR
+Star class: S06
+Paris coordinates: 2570352, 4204679, -1204051
+Bodies: 0 (0 planets, 0 moons)
+
+System:

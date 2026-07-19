@@ -1,0 +1,37 @@
+Star: MANAMANAH
+Star class: S00
+Paris coordinates: -2028560, 193012, -377261
+Bodies: 27 (10 planets, 17 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (d dusty, craterized)
+- MANAMANAH III (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- MANAMANAH V (@ large, not consistent)
+  - MANAMANAH V A (f felisian)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (^ unstable)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (^ unstable)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (r rocky, creased)
+  - MANAMANAH V K (f felisian)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (i icy surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #9 (k thick atmosphere)
+
+Guide entries:
+S00 SYSTEM FOUND BY RICHARD SOLENSKY EPOC 6011-582.235.820
+PLANET 3 IS FELISIAN, SO ARE MOONS 1 AND 11 OF PLANET 5

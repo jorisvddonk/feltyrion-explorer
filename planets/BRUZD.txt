@@ -1,0 +1,3 @@
+Planet: BRUZD
+Starmap index: 01
+Paris coordinates: -105726320, 25974833, -1096811

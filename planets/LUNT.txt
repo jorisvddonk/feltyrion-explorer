@@ -1,0 +1,7 @@
+Planet: LUNT
+Starmap index: 29
+Paris coordinates: 4517840, 4425313, -473575
+
+Guide entries:
+MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE. SKINNYMON EPOC 6011
+574.14

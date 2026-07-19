@@ -1,0 +1,3 @@
+Planet: RAVALISS 3
+Starmap index: 03
+Paris coordinates: -123583024, -54967750, -1864646

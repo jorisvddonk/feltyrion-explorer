@@ -1,0 +1,7 @@
+Star: DANTE B92
+Star class: S10
+Paris coordinates: 3959632, 4409715, -1348823
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)

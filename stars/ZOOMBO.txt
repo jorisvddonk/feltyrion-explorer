@@ -1,0 +1,6 @@
+Star: ZOOMBO
+Star class: S05
+Paris coordinates: 2250000, 4750000, -2350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

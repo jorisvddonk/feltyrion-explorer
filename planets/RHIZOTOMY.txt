@@ -1,0 +1,3 @@
+Planet: RHIZOTOMY
+Starmap index: 04
+Paris coordinates: 4893552, 3826601, -384525

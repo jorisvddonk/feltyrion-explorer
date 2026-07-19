@@ -1,0 +1,10 @@
+Star: BELEG
+Star class: S06
+Paris coordinates: 23274544, 4977647, -442281
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:579.301
+LI+ STAR

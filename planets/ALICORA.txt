@@ -1,0 +1,8 @@
+Planet: ALICORA
+Starmap index: 13
+Paris coordinates: -72010640, -1390290, 54985678
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.517                                    
+ANOTHER DUSTY WORLD WITH AT LEAST ONE SPIRAL CRATER.                        
+FOUND SOME LIGHT BLUE STONES ON THE SURFACE. POSSIBLY CRYSTALLINE.          

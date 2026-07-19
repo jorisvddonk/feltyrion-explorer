@@ -1,0 +1,9 @@
+Star: LISTA 266
+Star class: S05
+Paris coordinates: 1721123216, -1755685, -1031589
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S05 LITHIUM AND NO PLANETS, SKINNYMON EPOC 6011 622.658.

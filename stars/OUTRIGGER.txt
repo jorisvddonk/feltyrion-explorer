@@ -1,0 +1,13 @@
+Star: OUTRIGGER
+Star class: S00
+Paris coordinates: 50480496, 4999627, -189722
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)
+- OUT3B (n thin atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

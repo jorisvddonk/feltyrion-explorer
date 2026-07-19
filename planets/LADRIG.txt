@@ -1,0 +1,3 @@
+Planet: LADRIG
+Starmap index: 04
+Paris coordinates: 1656784, 4198096, -1143538

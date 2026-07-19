@@ -1,0 +1,9 @@
+Star: BALAKLI
+Star class: S02
+Paris coordinates: 877136, 30520469, 969901
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 632.828 (NO PLANETS)

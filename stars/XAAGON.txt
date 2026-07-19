@@ -1,0 +1,25 @@
+Star: XAAGON
+Star class: S08
+Paris coordinates: -12801008, -323424, -1685534
+Bodies: 16 (5 planets, 11 moons)
+
+System:
+- XAAGON I (n thin atmosphere)
+- Planet #1 (q quartz surface)
+- XAAGON III (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- XAAGON B (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (+ substellar object)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (r rocky, creased)
+  - XAAGON B VI (f felisian)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:593.614

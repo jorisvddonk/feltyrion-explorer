@@ -1,0 +1,23 @@
+Star: HULIIK
+Star class: S04
+Paris coordinates: -2582832, -6847123, -3094735
+Bodies: 17 (10 planets, 7 moons)
+
+System:
+- SCKWASFALD (k thick atmosphere)
+- BIRNE (@ large, not consistent)
+- SEBBROAH (n thin atmosphere)
+  - LUGORON (d dusty, craterized)
+  - ZYKLOP (d dusty, craterized)
+- NOBBRIB (d dusty, craterized)
+- BOLLIGUK (d dusty, craterized)
+  - TOGSI (n thin atmosphere)
+- KRASIDU (d dusty, craterized)
+- GROLIA (@ large, not consistent)
+  - THOMAS MORUS (^ unstable)
+  - JENUIN (n thin atmosphere)
+- HYDRO (k thick atmosphere)
+- KRIGO (r rocky, creased)
+  - GRULWI (d dusty, craterized)
+- GUGLOWSK (d dusty, craterized)
+  - BIRIV (d dusty, craterized)

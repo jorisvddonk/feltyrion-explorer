@@ -1,0 +1,6 @@
+Star: PITSTOP 27
+Star class: S06
+Paris coordinates: -129040, 47126, 926998434
+Bodies: 0 (0 planets, 0 moons)
+
+System:

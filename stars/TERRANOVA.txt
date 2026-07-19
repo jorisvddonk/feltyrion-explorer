@@ -1,0 +1,7 @@
+Star: TERRANOVA
+Star class: S04
+Paris coordinates: 4211056, 4391175, -636311
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- TERRAVECTOR (@ large, not consistent)

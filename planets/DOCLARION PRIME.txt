@@ -1,0 +1,3 @@
+Planet: DOCLARION PRIME
+Starmap index: 01
+Paris coordinates: 356784, 100102863, -21217

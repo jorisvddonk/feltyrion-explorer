@@ -1,0 +1,7 @@
+Planet: ARTERMERNIS
+Starmap index: 03
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+(131, EPOC:6011:804:540)                                                    
+RINGED GAS GIANT, PRETTY,UNABLE TO LAND. NO OTHER OBSERVATIONS.             

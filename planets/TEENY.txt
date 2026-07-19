@@ -1,0 +1,3 @@
+Planet: TEENY
+Starmap index: 04
+Paris coordinates: 4197488, 5171488, -1373321

@@ -1,0 +1,3 @@
+Planet: TASKLAMPU
+Starmap index: 31
+Paris coordinates: 5658544, 4943265, 798068

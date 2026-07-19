@@ -1,0 +1,6 @@
+Planet: BASIC 5
+Starmap index: 24
+Paris coordinates: 3742128, 3928007, -212877
+
+Guide entries:
+FOUNDED EPOC 6011:681.407.650 BY REZA. 3RD SATELLITE OF BALOONE.            

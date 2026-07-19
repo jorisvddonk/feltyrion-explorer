@@ -1,0 +1,6 @@
+Star: VOFALPHEEN
+Star class: S06
+Paris coordinates: 1250000, 1150000, -1350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

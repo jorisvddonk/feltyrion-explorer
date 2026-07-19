@@ -1,0 +1,9 @@
+Star: FUEL ELEVEN
+Star class: S06
+Paris coordinates: -112144, -148808, 464116
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 601:568.430

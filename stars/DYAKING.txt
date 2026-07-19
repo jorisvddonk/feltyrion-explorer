@@ -1,0 +1,8 @@
+Star: DYAKING
+Star class: S08
+Paris coordinates: 1225712, 4716037, -567956
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DYAKING.1 _Q (q quartz surface)
+- DYAKING.2 _S (d dusty, craterized)

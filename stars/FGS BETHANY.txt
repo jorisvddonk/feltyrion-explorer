@@ -1,0 +1,6 @@
+Star: FGS BETHANY
+Star class: S07
+Paris coordinates: 1412850000, 50000, -1412950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

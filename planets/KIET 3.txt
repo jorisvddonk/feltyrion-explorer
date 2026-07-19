@@ -1,0 +1,3 @@
+Planet: KIET 3
+Starmap index: 03
+Paris coordinates: -683920, -11230, -1166048

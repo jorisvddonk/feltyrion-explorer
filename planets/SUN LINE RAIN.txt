@@ -1,0 +1,3 @@
+Planet: SUN LINE RAIN
+Starmap index: 01
+Paris coordinates: -776048, 4351251, -4442859

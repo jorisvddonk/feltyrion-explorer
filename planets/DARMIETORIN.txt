@@ -1,0 +1,8 @@
+Planet: DARMIETORIN
+Starmap index: 09
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+MOON DISCOVERED BY NEURONWAKE EPOC 6011 802.523                             
+DID NOT EXPLORE, FOR IT IS MUCH LIKE THE FIRST MOON.                        
+(NEUONWAKE 6011 802.523)                                                    

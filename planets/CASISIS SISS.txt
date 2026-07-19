@@ -1,0 +1,3 @@
+Planet: CASISIS SISS
+Starmap index: 02
+Paris coordinates: 3573200, 4864228, -41934

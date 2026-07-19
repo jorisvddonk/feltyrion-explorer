@@ -1,0 +1,3 @@
+Planet: MAR
+Starmap index: 10
+Paris coordinates: 3083920, 4648212, -1135470

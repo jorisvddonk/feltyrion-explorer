@@ -1,0 +1,14 @@
+Star: BABY PLUM
+Star class: S09
+Paris coordinates: 4224624, 4510857, 227371
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- SAPPHIRE MARBLE (@ large, not consistent)
+- INCARNATE FIREBALL (+ substellar object)
+- GUMBALL (d dusty, craterized)
+
+Guide entries:
+A YOUNG STAR WITH A PURPLE-ORANGE SURROUNDING. THREE PLANETS
+ORBITING. DISCOVERED AND NAMED BY JIM MC QUIM (AND A SMALL FRIEND)
+EPOC 6011:587.303

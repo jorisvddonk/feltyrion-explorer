@@ -1,0 +1,6 @@
+Star: NULLORB VII
+Star class: S08
+Paris coordinates: 797056784, 19926331, -796492773
+Bodies: 0 (0 planets, 0 moons)
+
+System:

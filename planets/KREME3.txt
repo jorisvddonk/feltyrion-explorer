@@ -1,0 +1,6 @@
+Planet: KREME3
+Starmap index: 03
+Paris coordinates: 14992, -1251894, 1971276
+
+Guide entries:
+SMALL, NO ATMOSPHERE. CRATERISED.

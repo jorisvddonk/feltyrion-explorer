@@ -1,0 +1,3 @@
+Planet: HAMBURGER II
+Starmap index: 04
+Paris coordinates: -107098096, 25040487, -1901769

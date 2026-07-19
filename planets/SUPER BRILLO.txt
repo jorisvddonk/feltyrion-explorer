@@ -1,0 +1,9 @@
+Planet: SUPER BRILLO
+Starmap index: 01
+Paris coordinates: 4397488, 4779550, -1620594
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.812 -                               
+ A PLANET WITH VERY SHINING FRAGMENTS ON ITS SURFACE.                       
+ PRESENTS LARGE AND DEEP CRATERS.                                           
+ NOTE BY TIANCRIS - EPOC 6011.680.813 -                                     

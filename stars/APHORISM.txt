@@ -1,0 +1,19 @@
+Star: APHORISM
+Star class: S00
+Paris coordinates: 1283920, 4190011, 765689
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- UNJUST (d dusty, craterized)
+- ROOSE (^ unstable)
+- JOCUND (n thin atmosphere)
+  - JOCOSE (n thin atmosphere)
+  - EULACHON (d dusty, craterized)
+- CUI BONO? (f felisian)
+- SUBSOIL (q quartz surface)
+  - TARGET PRACTICE (d dusty, craterized)
+  - PARAMO (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 STAR WITH 5 PLANETS, 4 MOONS. 1 FELISIAN WORLD.
+SKINNYMON EPOC 6011 567.593

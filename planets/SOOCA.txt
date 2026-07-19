@@ -1,0 +1,3 @@
+Planet: SOOCA
+Starmap index: 01
+Paris coordinates: 3125712, 7046492, -2523938

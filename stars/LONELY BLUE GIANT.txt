@@ -1,0 +1,6 @@
+Star: LONELY BLUE GIANT
+Star class: S01
+Paris coordinates: 3321776, 4723134, -1007743
+Bodies: 0 (0 planets, 0 moons)
+
+System:

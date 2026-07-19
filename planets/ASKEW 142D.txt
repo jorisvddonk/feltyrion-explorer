@@ -1,0 +1,3 @@
+Planet: ASKEW 142D
+Starmap index: 04
+Paris coordinates: 9949168, -18098952, 17237040

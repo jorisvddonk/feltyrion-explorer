@@ -1,0 +1,6 @@
+Planet: MALANDER
+Starmap index: 03
+Paris coordinates: 3066416, 5164474, -234173
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-570.591

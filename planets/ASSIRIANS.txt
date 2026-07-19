@@ -1,0 +1,3 @@
+Planet: ASSIRIANS
+Starmap index: 03
+Paris coordinates: 16736272, 19571159, 19351465

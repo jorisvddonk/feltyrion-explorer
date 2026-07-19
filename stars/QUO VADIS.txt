@@ -1,0 +1,10 @@
+Star: QUO VADIS
+Star class: S10
+Paris coordinates: 2674288, 4335112, -3133073
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- HOTMIX (+ substellar object)
+
+Guide entries:
+ RUNAWAY DISC BY SCAREDY-CAT, EPOC 6011.584.91. 1 SUBSTELLAR BODY

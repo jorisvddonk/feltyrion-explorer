@@ -1,0 +1,3 @@
+Planet: KNOBUT
+Starmap index: 09
+Paris coordinates: -532496, -163263, -374858

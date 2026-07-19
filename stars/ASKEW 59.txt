@@ -1,0 +1,20 @@
+Star: ASKEW 59
+Star class: S00
+Paris coordinates: 10976304, -19358322, 17808074
+Bodies: 11 (3 planets, 8 moons)
+
+System:
+- ASKEW 59A (d dusty, craterized)
+- ASJASG (k thick atmosphere)
+- ASKEW 59C (+ substellar object)
+  - ASKEW 59C1 (@ large, not consistent)
+  - KELNEDERD (f felisian)
+  - ASKEW 59C3 (r rocky, creased)
+  - ALKARAM (f felisian)
+  - ASKEW 59C5 (k thick atmosphere)
+  - ASKEW 59C6 (n thin atmosphere)
+  - ASKEW 59C7 (r rocky, creased)
+  - ASKEW 59C8 (k thick atmosphere)
+
+Guide entries:
+3 WORLDS WITH OXYGEN ATMOSPHERE

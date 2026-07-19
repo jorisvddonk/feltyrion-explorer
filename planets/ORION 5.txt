@@ -1,0 +1,6 @@
+Planet: ORION 5
+Starmap index: 05
+Paris coordinates: 3973200, 5021255, -469763
+
+Guide entries:
+ ANOTHER GASS-GIANT. NOTHING OF REAL INTEREST. (STARGAZER, EPOC 6011)

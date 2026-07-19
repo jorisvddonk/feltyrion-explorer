@@ -1,0 +1,6 @@
+Planet: KNIGHT
+Starmap index: 03
+Paris coordinates: 2766416, 3796421, 167479
+
+Guide entries:
+HUGE SEAS, DENSELY FORESTED ILSANDS. SOME SMALL STRUCTURES.

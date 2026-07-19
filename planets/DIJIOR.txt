@@ -1,0 +1,8 @@
+Planet: DIJIOR
+Starmap index: 12
+Paris coordinates: 634309520, -10801615, 49308989
+
+Guide entries:
+M01/P06 SMALL SOLID DUSTY VERY GREEN REFLECTIVITY WITH LARGE CRATERS        
+WITH VERY BRIGHT RAYS. PRO 0.231.120; PRV 0.001.660.323 SKINNYMON 6011      
+893.130                                                                     

@@ -1,0 +1,8 @@
+Star: LITHIUM A87
+Star class: S05
+Paris coordinates: 3638768, 3633853, -48567099
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)

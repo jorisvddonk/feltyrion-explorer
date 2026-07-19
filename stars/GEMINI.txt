@@ -1,0 +1,7 @@
+Star: GEMINI
+Star class: S07
+Paris coordinates: 4362480, 4519787, 426900
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PINK BEAUTY (+ substellar object)

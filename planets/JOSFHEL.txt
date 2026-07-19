@@ -1,0 +1,7 @@
+Planet: JOSFHEL
+Starmap index: 01
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+P01/06 SMALL SOLID DUSTY, LARGE RAYED CRATERS PALE GREY COLOR. PRO          
+0.250.200 PRV 0.012.788.224 SKINNYMON 6011 797.276                          

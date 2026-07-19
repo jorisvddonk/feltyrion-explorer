@@ -1,0 +1,3 @@
+Planet: BLUE MELON
+Starmap index: 02
+Paris coordinates: -443216, 232132, 986326

@@ -1,0 +1,9 @@
+Star: AS12280047
+Star class: S02
+Paris coordinates: 49720432, -90000, 1981220016
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS

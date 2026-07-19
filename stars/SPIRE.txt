@@ -1,0 +1,9 @@
+Star: SPIRE
+Star class: S07
+Paris coordinates: -963568, -989581, 297854
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NICE TO WATCH THE STAR SPIN AROUND.

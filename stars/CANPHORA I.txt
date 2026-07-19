@@ -1,0 +1,12 @@
+Star: CANPHORA I
+Star class: S08
+Paris coordinates: 3159632, 5861048, -488959
+Bodies: 2 (1 planets, 1 moons)
+
+System:
+- CANPHORA II (* companion star)
+  - REBALL (r rocky, creased)
+
+Guide entries:
+FURTHER NOTES: CLASS S08 SYSTEM WITH 2 STARS AND 1 PLANET. THAT'S
+ALL. SKINNYMON EPOC 6011 569.950

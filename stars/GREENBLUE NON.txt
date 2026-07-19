@@ -1,0 +1,6 @@
+Star: GREENBLUE NON
+Star class: S08
+Paris coordinates: -1423953264, 1541654, 1435461190
+Bodies: 0 (0 planets, 0 moons)
+
+System:

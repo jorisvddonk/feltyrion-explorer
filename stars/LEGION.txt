@@ -1,0 +1,40 @@
+Star: LEGION
+Star class: S03
+Paris coordinates: 3243216, 4161651, -3521309
+Bodies: 31 (15 planets, 16 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+- GADARENES (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (k thick atmosphere)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (d dusty, craterized)
+- Planet #12 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- Planet #13 (d dusty, craterized)
+- Planet #14 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ REDGIANTDISC BY SCAREDY-CAT,EOPOC 6011.585.950. 31ORBITING BODIES

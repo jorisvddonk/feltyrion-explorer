@@ -1,0 +1,6 @@
+Planet: LIABEZE MAJOR
+Starmap index: 06
+Paris coordinates: 2008880, -12128966, 9171998
+
+Guide entries:
+FOUND EPOC 6011 589.077.250 BY ROLAND ASKEW

@@ -1,0 +1,12 @@
+Star: LISTA 231
+Star class: S05
+Paris coordinates: 1369985456, -1963787, -11787
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HSAYYA (d dusty, craterized)
+- AKDHA (n thin atmosphere)
+
+Guide entries:
+A CLASS S05 WITH LITHIUM AND TWO PLANETS. SKINNYMON EPOC 6011
+622.291

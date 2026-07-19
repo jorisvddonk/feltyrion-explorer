@@ -1,0 +1,11 @@
+Star: VENK
+Star class: S01
+Paris coordinates: 4023952, -359210, -9260248
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- VENK-A (n thin atmosphere)
+- VENK-B (@ large, not consistent)
+- VENK-C (d dusty, craterized)
+- VENK-D (k thick atmosphere)
+  - VENK-D-S1 (d dusty, craterized)

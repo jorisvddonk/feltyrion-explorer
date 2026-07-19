@@ -1,0 +1,7 @@
+Planet: DYAME
+Starmap index: 15
+Paris coordinates: 2140268528, -2165691, -352139
+
+Guide entries:
+M01/P08 SMALL SOLID DUSTY CRATERIZED. GREEN COLOR, LARGE CRATERS. PRO       
+0.123.480 PRV 0.002.696.612 SKINNYMON 6011 791.657                          

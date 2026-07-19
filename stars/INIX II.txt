@@ -1,0 +1,29 @@
+Star: INIX II
+Star class: S00
+Paris coordinates: -1996327376, -87445, 1861867
+Bodies: 23 (9 planets, 14 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (f felisian)
+- Planet #7 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (i icy surface)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (i icy surface)
+- Planet #8 (d dusty, craterized)

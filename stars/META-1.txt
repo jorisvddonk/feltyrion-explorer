@@ -1,0 +1,18 @@
+Star: META-1
+Star class: S01
+Paris coordinates: 4053936, 4740501, -5784171
+Bodies: 12 (6 planets, 6 moons)
+
+System:
+- META-A (d dusty, craterized)
+- META-B (@ large, not consistent)
+- META-C (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

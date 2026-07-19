@@ -1,0 +1,6 @@
+Planet: DRAKO
+Starmap index: 04
+Paris coordinates: 3559632, 3619846, -947936
+
+Guide entries:
+NAMED BY MIGUEL MOURA EPOC 6011:588.832

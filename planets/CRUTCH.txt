@@ -1,0 +1,7 @@
+Planet: CRUTCH
+Starmap index: 05
+Paris coordinates: -18928, -70320, -32484
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, FAIR POLAR CAPS. SKINNYMON
+EPOC 60111 581.180

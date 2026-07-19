@@ -1,0 +1,3 @@
+Planet: GREYSTONE
+Starmap index: 01
+Paris coordinates: 698576, 1738899, -1654808

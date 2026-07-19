@@ -1,0 +1,13 @@
+Star: ES JALARJEM
+Star class: S00
+Paris coordinates: 2030120432, -1469151, 789745
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- RIMKATFHE (q quartz surface)
+- RYNDYLOA (r rocky, creased)
+
+Guide entries:
+S00 STAR WITH ONLY TWO PLANETS, NO FELISIAN. 2.62355208 BAL. M.             
+TEMP 10243 K RAD 14KR COOR 2030120432;-1469151;789745. SKINNYMON            
+6011 797.196                                                                

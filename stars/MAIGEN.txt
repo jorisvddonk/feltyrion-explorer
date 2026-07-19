@@ -1,0 +1,9 @@
+Star: MAIGEN
+Star class: S10
+Paris coordinates: 5740368, 9767192, -8094871
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S10 RUNAWAY WITHOUT ANY ORBITING BODIES.

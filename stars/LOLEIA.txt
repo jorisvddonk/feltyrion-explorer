@@ -1,0 +1,10 @@
+Star: LOLEIA
+Star class: S00
+Paris coordinates: -1995482736, 61504, 1689136
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LONELY S00 STAR LACKING PLANETS.                                          
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:653:348                             

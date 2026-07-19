@@ -1,0 +1,11 @@
+Star: TAMPT
+Star class: S06
+Paris coordinates: 2000243280, 1578049, 1998972529
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:589.452
+(S06) LI+
+COORDINATES = 2000243280, 1578049, 1998972529

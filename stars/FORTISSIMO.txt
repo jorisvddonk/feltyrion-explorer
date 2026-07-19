@@ -1,0 +1,28 @@
+Star: FORTISSIMO
+Star class: S00
+Paris coordinates: 3520688, 3890216, 2622488
+Bodies: 18 (11 planets, 7 moons)
+
+System:
+- YUFOAL (d dusty, craterized)
+- DRARONARC (k thick atmosphere)
+- GIPEAU (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- PERLA DEL CIELO (f felisian)
+  - GIOTTO (d dusty, craterized)
+  - SCZARI (d dusty, craterized)
+  - DRAGHI (n thin atmosphere)
+- COSTA D'ESPADES (f felisian)
+  - IKALIK (d dusty, craterized)
+  - ATAF (n thin atmosphere)
+- LAFATTA (@ large, not consistent)
+  - SEVOL (d dusty, craterized)
+- SULSH (d dusty, craterized)
+- HODICA (d dusty, craterized)
+- HOUKE (^ unstable)
+- SALARD (r rocky, creased)
+- RAEL (n thin atmosphere)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 11 PLANETS AND 7 MOONS, TWO
+FELISIAN WORLDS. SKINNYMON EPOC 6011 593.974

@@ -1,0 +1,20 @@
+Star: COLD GATE
+Star class: S00
+Paris coordinates: -394640, -22759, -214423
+Bodies: 9 (4 planets, 5 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (+ substellar object)
+- SKRALL (f felisian)
+  - DELPHINOS (d dusty, craterized)
+  - BOLTOR (d dusty, craterized)
+  - GEHK (^ unstable)
+- SONIA (f felisian)
+  - ACER (n thin atmosphere)
+  - EMBALMIS (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY NAAVIS,624:555.565
+ CLASS S00 STAR. 4 MAJOR BODIES AND 5 MINOR BODIES.                         
+(DISCOVERED BY SERAXIS. EPOC6011.338.451)                                   

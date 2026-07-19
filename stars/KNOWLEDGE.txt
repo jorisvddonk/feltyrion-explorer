@@ -1,0 +1,46 @@
+Star: KNOWLEDGE
+Star class: S00
+Paris coordinates: 4286768, 4944020, -232567
+Bodies: 31 (12 planets, 19 moons)
+
+System:
+- DUST DEVIL (n thin atmosphere)
+- TSUNAMI (@ large, not consistent)
+- PYRAMID (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- DREAM (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- CANOPY (f felisian)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (^ unstable)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+- Planet #9 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (f felisian)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (i icy surface)
+- Planet #11 (k thick atmosphere)
+  - Moon #0 (i icy surface)
+
+Guide entries:
+1:DISCOVERED EPOC 6011.621.269 BY AUSTIN SCOTT
+2:STAR HAS 12 PLANETS AND 19 MINOR BODIES.
+3:STAR IS CAPABLE OF SUSTAINING LIFE.
+LIFE FOUND ON FOURTH PLANET FROM STAR
+5:LIFE FOUND ON FIFTH PLANET FROM STAR
+6:FURTHER EXPLORATION OF KNOWLEDGE HAS BEEN DISCONTINUED ON...(7)
+7:EPOC 6011.621.280

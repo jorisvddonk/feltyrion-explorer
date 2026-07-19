@@ -1,0 +1,3 @@
+Planet: CLIAS DORULN
+Starmap index: 29
+Paris coordinates: 3273200, 3143550, 72071

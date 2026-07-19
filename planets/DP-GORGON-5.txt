@@ -1,0 +1,6 @@
+Planet: DP-GORGON-5
+Starmap index: 11
+Paris coordinates: 4148912, 4488377, -127177
+
+Guide entries:
+THIN ATMOSPHERE, NO LIFE

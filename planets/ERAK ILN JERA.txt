@@ -1,0 +1,3 @@
+Planet: ERAK ILN JERA
+Starmap index: 18
+Paris coordinates: 58819632, -33812924, 926872580

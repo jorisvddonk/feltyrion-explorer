@@ -1,0 +1,6 @@
+Star: ASKEW 147
+Star class: S02
+Paris coordinates: 10149168, -17647318, 17066384
+Bodies: 0 (0 planets, 0 moons)
+
+System:

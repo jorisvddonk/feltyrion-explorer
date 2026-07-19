@@ -1,0 +1,6 @@
+Planet: TALNAL 3
+Starmap index: 03
+Paris coordinates: 594640, 1021744, 94401
+
+Guide entries:
+ EQUATER FILLED WITH STORMS. POKECAT (EPOC 6011 996,405.)

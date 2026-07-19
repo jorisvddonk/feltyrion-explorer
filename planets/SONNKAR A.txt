@@ -1,0 +1,3 @@
+Planet: SONNKAR A
+Starmap index: 04
+Paris coordinates: -22675216, 619249, -9556300

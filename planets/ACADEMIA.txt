@@ -1,0 +1,6 @@
+Planet: ACADEMIA
+Starmap index: 05
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED SOUTH POLE / 0.6G -100C .02A / FLAT (BY NBOAR 6011 588.549)

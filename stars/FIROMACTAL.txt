@@ -1,0 +1,11 @@
+Star: FIROMACTAL
+Star class: S05
+Paris coordinates: 3828560, 4447754, -1052980
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+
+Guide entries:
+(DISCOVERED BY SHADOWCLAW, EPOC 6011:571.1.930)
+THIS IS A RATHER DULL SYSTEM.

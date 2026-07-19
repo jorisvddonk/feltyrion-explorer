@@ -1,0 +1,58 @@
+Star: MELTOS
+Star class: S04
+Paris coordinates: 381072, 1932089, -429498
+Bodies: 44 (8 planets, 36 moons)
+
+System:
+- DELPHI (d dusty, craterized)
+- DELPHI 2 (d dusty, craterized)
+- CITRIA (n thin atmosphere)
+  - PURE TERRA (n thin atmosphere)
+- NIMBUS LAND (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- TOROIDAL ECLIPSE (@ large, not consistent)
+  - SIDE CARD (n thin atmosphere)
+  - SQUELCHFREEZE (n thin atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (r rocky, creased)
+  - REGAL FRIGIDNESS (n thin atmosphere)
+  - FLECK BLOB (n thin atmosphere)
+  - Moon #9 (^ unstable)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (r rocky, creased)
+  - DREAMSCAPE PAINT (q quartz surface)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (n thin atmosphere)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (n thin atmosphere)
+- SMERMEPARA (d dusty, craterized)
+  - FUNCTIONARY (n thin atmosphere)
+- Planet #7 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (^ unstable)
+  - LIGHTPATCH (n thin atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - RUDIAK (n thin atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (i icy surface)
+
+Guide entries:
+ (DISCOVERED BY TGD)
+ I HAVE JUST ARIVED FROM THE PLIGHT SYSTEM. OOOOOO...NUCEULAR MASS!
+FURTHER NOTES:THE PREVIOUS STARDRIFTER LEFT 40 WORLDS UNAMED, CALLING       
+THE SYSTEM BORING(HMM...SKINNYMON MIGHT HAVE A FEW WORDS FOR HIM)           
+RYAN GJK E6011.789.238                                                      
+(17 THIN-ATS! I'LL BE CHECKING THEM OUT)                                    

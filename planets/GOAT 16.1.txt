@@ -1,0 +1,7 @@
+Planet: GOAT 16.1
+Starmap index: 49
+Paris coordinates: -401424, -59309, -558865
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED, BUT RATHER UNUSUAL APPEARANCE.
+SERPENS, 6011 665.623

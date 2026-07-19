@@ -1,0 +1,6 @@
+Star: FGS ESTHER
+Star class: S03
+Paris coordinates: 1412550000, 50000, -1412650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

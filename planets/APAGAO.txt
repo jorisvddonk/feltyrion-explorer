@@ -1,0 +1,3 @@
+Planet: APAGAO
+Starmap index: 01
+Paris coordinates: 577136, 125210, 990992

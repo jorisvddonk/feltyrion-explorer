@@ -1,0 +1,26 @@
+Star: ASKEW 136
+Star class: S04
+Paris coordinates: 8463824, -17122580, 15758770
+Bodies: 20 (9 planets, 11 moons)
+
+System:
+- ASKEW 136A (d dusty, craterized)
+- ASKEW 136B (d dusty, craterized)
+- ASKEW 136C (d dusty, craterized)
+- ASKEW 136D (r rocky, creased)
+- ASKEW 136E (d dusty, craterized)
+  - ASKEW 136E1 (d dusty, craterized)
+- ASKEW 136F (n thin atmosphere)
+  - ASKEW 136F1 (d dusty, craterized)
+- ASKEW 136G (@ large, not consistent)
+  - ASKEW 136G1 (r rocky, creased)
+  - ASKEW 136G2 (k thick atmosphere)
+  - ASKEW 136G3 (^ unstable)
+  - ASKEW 136G4 (r rocky, creased)
+  - ASKEW 136G5 (i icy surface)
+  - ASKEW 136G6 (q quartz surface)
+- ASKEW 136H (n thin atmosphere)
+  - ASKEW 136H1 (n thin atmosphere)
+- ASKEW 136I (i icy surface)
+  - ASKEW 136I1 (d dusty, craterized)
+  - ASKEW 136I2 (i icy surface)

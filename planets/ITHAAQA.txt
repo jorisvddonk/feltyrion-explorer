@@ -1,0 +1,7 @@
+Planet: ITHAAQA
+Starmap index: 01
+Paris coordinates: -2426384, 5306919, -7626568
+
+Guide entries:
+SUBSTELLAR GAS GIANT
+DISCOVERED BY KJ EPOC 6011:578.518

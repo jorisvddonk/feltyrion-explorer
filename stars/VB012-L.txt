@@ -1,0 +1,21 @@
+Star: VB012-L
+Star class: S00
+Paris coordinates: 822864, 5139184, -2328938
+Bodies: 15 (6 planets, 9 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - BEURENA (f felisian)

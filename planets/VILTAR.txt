@@ -1,0 +1,3 @@
+Planet: VILTAR
+Starmap index: 01
+Paris coordinates: 5796400, 4309349, 858423

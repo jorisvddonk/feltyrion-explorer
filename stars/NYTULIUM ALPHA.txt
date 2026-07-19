@@ -1,0 +1,31 @@
+Star: NYTULIUM ALPHA
+Star class: S03
+Paris coordinates: 3955696, 4340660, 183683
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- MARDAR ALPHA (k thick atmosphere)
+- MARDAR BETA (q quartz surface)
+- MARDAR DELTA (q quartz surface)
+  - MARDAR 3-1 (d dusty, craterized)
+  - MARDAR 3-2 (d dusty, craterized)
+- MARDAR GAMMA (n thin atmosphere)
+- MARDAR EPSILON (k thick atmosphere)
+  - MARDAR 5-1 (d dusty, craterized)
+- MARDAR ZETA (r rocky, creased)
+  - MARDAR 6-1 (d dusty, craterized)
+- MARDAR ETA (+ substellar object)
+  - MARDAR 7-1 (k thick atmosphere)
+  - MARDAR 7-2 (r rocky, creased)
+- MARDAR THETA (@ large, not consistent)
+  - MARDAR 8-1 (i icy surface)
+  - MARDAR 8-2 (r rocky, creased)
+  - MARDAR 8-3 (^ unstable)
+  - Moon #3 (n thin atmosphere)
+- Planet #8 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

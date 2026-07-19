@@ -1,0 +1,29 @@
+Star: LUTAR
+Star class: S01
+Paris coordinates: 270352, 5086437, 857022
+Bodies: 20 (5 planets, 15 moons)
+
+System:
+- PAUL (d dusty, craterized)
+- ATRAONIKS (k thick atmosphere)
+- DARTMOR (@ large, not consistent)
+  - ASTOR (r rocky, creased)
+  - LASTRADA (^ unstable)
+  - LORD (d dusty, craterized)
+  - ANDREI (^ unstable)
+  - LOREN (q quartz surface)
+  - OPALA (k thick atmosphere)
+  - GORO (n thin atmosphere)
+- ROWLING (@ large, not consistent)
+  - LUIS (n thin atmosphere)
+  - MOIRA (n thin atmosphere)
+  - FORAT (r rocky, creased)
+  - LEA (d dusty, craterized)
+  - HITCHKOK (k thick atmosphere)
+  - KORAL (^ unstable)
+  - GANDALF (n thin atmosphere)
+- KRIOS (n thin atmosphere)
+  - OPANISHAD (d dusty, craterized)
+
+Guide entries:
+INTRUDER 573.228.741

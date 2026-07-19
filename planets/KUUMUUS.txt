@@ -1,0 +1,3 @@
+Planet: KUUMUUS
+Starmap index: 06
+Paris coordinates: 4073200, 5702744, -580029

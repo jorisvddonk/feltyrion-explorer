@@ -1,0 +1,9 @@
+Star: AMOCO
+Star class: S06
+Paris coordinates: 245392, 4827412, -8034431
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR,DISCOVERED BY KJ EPOC 6011:577.147

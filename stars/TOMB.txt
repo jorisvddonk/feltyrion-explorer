@@ -1,0 +1,10 @@
+Star: TOMB
+Star class: S06
+Paris coordinates: 1887856, 4787917, -1596698
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERD BY RYLIE THOMAS, EPOC 6011:727.150.264                            
+UNSUITABLE FOR LITHIUM                                                      

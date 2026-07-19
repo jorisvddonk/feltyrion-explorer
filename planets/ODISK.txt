@@ -1,0 +1,7 @@
+Planet: ODISK
+Starmap index: 01
+Paris coordinates: 2111349008, -1253071, 513281
+
+Guide entries:
+P1/01 SMALL SOLID THIN ATMO FAIRLY BRIGHT MODERATE POLAR CAPS. PRO 0.       
+126.720 PRV 0.007.623.459 SKINNYMON 6011 793.199                            

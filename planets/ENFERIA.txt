@@ -1,0 +1,3 @@
+Planet: ENFERIA
+Starmap index: 03
+Paris coordinates: 990704, -354649, 1365744

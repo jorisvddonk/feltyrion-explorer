@@ -1,0 +1,8 @@
+Star: AS12220045
+Star class: S04
+Paris coordinates: 495984, 333855, 19563893
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- AS12220045A (@ large, not consistent)
+- AS12220045B (r rocky, creased)

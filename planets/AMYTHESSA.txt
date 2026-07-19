@@ -1,0 +1,3 @@
+Planet: AMYTHESSA
+Starmap index: 23
+Paris coordinates: 2508208, 3870789, -1004086

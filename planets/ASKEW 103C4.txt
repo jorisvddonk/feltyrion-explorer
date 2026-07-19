@@ -1,0 +1,6 @@
+Planet: ASKEW 103C4
+Starmap index: 08
+Paris coordinates: 2139952, -12054346, 9064463
+
+Guide entries:
+FOUND EPOC 6011 589.207.123 BY ROLAND ASKEW

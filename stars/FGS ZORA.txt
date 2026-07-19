@@ -1,0 +1,6 @@
+Star: FGS ZORA
+Star class: S07
+Paris coordinates: 1410450000, 50000, -1410550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

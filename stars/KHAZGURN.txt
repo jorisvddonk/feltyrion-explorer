@@ -1,0 +1,38 @@
+Star: KHAZGURN
+Star class: S00
+Paris coordinates: -722448, 5158928, -11032161
+Bodies: 28 (8 planets, 20 moons)
+
+System:
+- GURZ (r rocky, creased)
+- MURBASH (@ large, not consistent)
+- OGROB (n thin atmosphere)
+  - Moon #0 (^ unstable)
+- MURAG (d dusty, craterized)
+- LURAG (f felisian)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (n thin atmosphere)
+- Planet #6 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (f felisian)
+  - Moon #11 (@ large, not consistent)
+  - Moon #12 (@ large, not consistent)
+  - Moon #13 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+YELLOW STAR,HAS 8 PLANETS AND 20 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:579.731

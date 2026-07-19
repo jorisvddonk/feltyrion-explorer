@@ -1,0 +1,9 @@
+Star: EKYAY
+Star class: S02
+Paris coordinates: 332496, 30528419, 674907
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 632.901

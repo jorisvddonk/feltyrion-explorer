@@ -1,0 +1,14 @@
+Star: LOST PASSION
+Star class: S00
+Paris coordinates: 4255696, 5026031, -66654
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- EMBRYO (f felisian)

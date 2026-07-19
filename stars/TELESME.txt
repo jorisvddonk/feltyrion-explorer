@@ -1,0 +1,20 @@
+Star: TELESME
+Star class: S00
+Paris coordinates: 4831408, 4703641, -20912
+Bodies: 14 (5 planets, 9 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+- Planet #3 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+- CALIBAN (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

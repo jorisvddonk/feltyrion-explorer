@@ -1,0 +1,3 @@
+Planet: POISONED TWIN A
+Starmap index: 01
+Paris coordinates: -70772784, -692223, 54091794

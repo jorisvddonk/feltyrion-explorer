@@ -1,0 +1,42 @@
+Star: SOMEWHERE
+Star class: S03
+Paris coordinates: -1443216, 11223, 1866440
+Bodies: 31 (13 planets, 18 moons)
+
+System:
+- QUACKSALVER (+ substellar object)
+- PYROTECHNICS (@ large, not consistent)
+- INDICANT (@ large, not consistent)
+  - LAVER (r rocky, creased)
+  - PRIER (q quartz surface)
+  - BAR BQ (^ unstable)
+  - TUNICLE (^ unstable)
+  - HERONRY (d dusty, craterized)
+  - TESTUDINATE (d dusty, craterized)
+  - HELMINTH (q quartz surface)
+  - PENSTOCK (n thin atmosphere)
+  - EMULSOID (q quartz surface)
+- JERRY BUILT (k thick atmosphere)
+- EMIT (d dusty, craterized)
+- LYTTA (n thin atmosphere)
+  - SARCOMERE (d dusty, craterized)
+- BRUSQUE (q quartz surface)
+  - JORUM (d dusty, craterized)
+  - RUFFED GROUSE (d dusty, craterized)
+  - VALLATION (n thin atmosphere)
+- DIALLAGE (q quartz surface)
+  - MERL (^ unstable)
+  - POTENTILLA (d dusty, craterized)
+- CLOQUE (r rocky, creased)
+  - IN-DEPTH (d dusty, craterized)
+- QUA (d dusty, craterized)
+- IMBUE (d dusty, craterized)
+- TIRESOME (n thin atmosphere)
+- DEPRESSION (n thin atmosphere)
+  - BETRAYAL (i icy surface)
+  - DISBELIEF (d dusty, craterized)
+
+Guide entries:
+ A CLASS S00 SYSTEM WITH 13 PLANETS, 18 MOONS, NO FELISIAN WORLDS,
+THANKFULLY, BECAUSE I'M BEGINNING TO HATE SURFACE EXPEDITIONS.
+SKINNYMON EPOC 6011 569.235

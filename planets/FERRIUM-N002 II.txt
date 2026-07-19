@@ -1,0 +1,3 @@
+Planet: FERRIUM-N002 II
+Starmap index: 02
+Paris coordinates: 3428560, 4060293, -686548

@@ -1,0 +1,8 @@
+Star: COMON
+Star class: S10
+Paris coordinates: 95160656, 46400, 337165
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)

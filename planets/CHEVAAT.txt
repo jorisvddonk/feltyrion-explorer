@@ -1,0 +1,3 @@
+Planet: CHEVAAT
+Starmap index: 04
+Paris coordinates: -20644144, 870074, -11911533

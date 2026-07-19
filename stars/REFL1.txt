@@ -1,0 +1,6 @@
+Star: REFL1
+Star class: S06
+Paris coordinates: 2928560, 5041503, -208455
+Bodies: 0 (0 planets, 0 moons)
+
+System:

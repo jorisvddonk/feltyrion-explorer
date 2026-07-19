@@ -1,0 +1,8 @@
+Star: ASTRO PATH A58
+Star class: S10
+Paris coordinates: 5999408, 4211288, -33941534
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)

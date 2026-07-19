@@ -1,0 +1,8 @@
+Star: BLUE HYDRA
+Star class: S08
+Paris coordinates: 6617840, 4215165, -2585811
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- TANGERINE ORBIT (+ substellar object)
+- Planet #1 (@ large, not consistent)

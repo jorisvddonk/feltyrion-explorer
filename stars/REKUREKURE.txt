@@ -1,0 +1,22 @@
+Star: REKUREKURE
+Star class: S00
+Paris coordinates: -109004880, 25465560, -431324
+Bodies: 16 (8 planets, 8 moons)
+
+System:
+- GRUBY (@ large, not consistent)
+- ANDIMED (k thick atmosphere)
+- EGGSEGGSEGGS (f felisian)
+- HYPOLYT (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- GLOBUS (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- SNIKERS (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- RUPTOCOYA (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- TVIN (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

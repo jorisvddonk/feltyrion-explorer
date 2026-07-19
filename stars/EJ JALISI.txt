@@ -1,0 +1,10 @@
+Star: EJ JALISI
+Star class: S08
+Paris coordinates: 633193104, -9897986, 47490430
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FALSE S08, NO BODIES. 1.73628032 BAL. M.; TEMP 5779K; RAD 21.4 KR;          
+ COOR 633193104; -9897986; 47490430 SKINNYMON 6011.916.954                  

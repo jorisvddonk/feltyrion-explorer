@@ -1,0 +1,3 @@
+Planet: NARWIN-B
+Starmap index: 02
+Paris coordinates: -148912, 1540144, -3543794

@@ -1,0 +1,3 @@
+Planet: HIEDDY
+Starmap index: 02
+Paris coordinates: -107380592, 25021568, -2511344

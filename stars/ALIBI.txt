@@ -1,0 +1,11 @@
+Star: ALIBI
+Star class: S08
+Paris coordinates: 2550000, -29419, -2380940
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LABELED AS A S08., IT IS ONLY ONE STAR, APPEARS BLUISH. NO PLANETS.
+SKINNYMON EPOC 6011 565.713
+SKINNYMON EPOC 6011 565.709

@@ -1,0 +1,21 @@
+Star: SUENONASTREYA
+Star class: S09
+Paris coordinates: 5482832, 5821092, 328552
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- GRAPEFRUITHOME (+ substellar object)
+- MUDEDRYL (+ substellar object)
+- KOEGLOW (+ substellar object)
+  - FUGITIVE (f felisian)
+  - BAUFI (d dusty, craterized)
+  - GUOVEX (q quartz surface)
+  - GUEPI (r rocky, creased)
+- RUAKEE (d dusty, craterized)
+- HECLATA (d dusty, craterized)
+- ASENURE (d dusty, craterized)
+  - ULESITY (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S09 SYSTEM OF 6 PLANETS, 5 MOONS, ONE
+FELISIAN WORLD. SKINNYMON EPOC 6011 598.540

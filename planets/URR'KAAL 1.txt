@@ -1,0 +1,3 @@
+Planet: URR'KAAL 1
+Starmap index: 01
+Paris coordinates: 6439280, 8160862, -4947557

@@ -1,0 +1,10 @@
+Planet: BERLONG
+Starmap index: 08
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+ LIFELESS AND AS COLD AS THE VACUUM OF SPACE, BUT SOME INTERESTING GEO      
+WELL WORTH A VISIT TO SEE THE BREADLOAFES OF DOOM.                          
+PLANETARY INFO:                                                             
+1.148FG, -286 ABSOLUTE, 0.034ATMOSPHERE.                                    
+(SURVEYED BY 131, EPOC 6011:804:544)                                        

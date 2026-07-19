@@ -1,0 +1,15 @@
+Star: RIAANIUS
+Star class: S02
+Paris coordinates: 4197488, 4471488, -1372232
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- PRESIDO (n thin atmosphere)
+- JLJ-USP-4 (^ unstable)
+- RAVALOX (d dusty, craterized)
+- TRAVELLER (d dusty, craterized)
+- ROCK PLAINS (n thin atmosphere)
+- JLJ-SSO-1 (+ substellar object)
+
+Guide entries:
+NAMED BY JEREMY JOHNSON, EPOC 6011 - 592.776

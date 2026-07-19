@@ -1,0 +1,30 @@
+Star: SAUERKRAUT 1
+Star class: S00
+Paris coordinates: 625712, 20217, -47143
+Bodies: 19 (9 planets, 10 moons)
+
+System:
+- MOUDLERIS (d dusty, craterized)
+- PHONE 3 (n thin atmosphere)
+- WOP 6 (f felisian)
+  - RADIO (d dusty, craterized)
+  - STONE OF LEAVES (^ unstable)
+  - VROONG (d dusty, craterized)
+- WOP 7 (f felisian)
+- WOP 8 (f felisian)
+  - BONES (d dusty, craterized)
+  - SNAP (d dusty, craterized)
+  - SIYERP (^ unstable)
+- BIGOS (k thick atmosphere)
+  - PINKEY (d dusty, craterized)
+  - TEATSPHERE (^ unstable)
+- BEFSZTYK (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - DESTRUCTION (d dusty, craterized)
+  - LITTLE WORLD (d dusty, craterized)
+- NEVERHOOD (k thick atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.647.437. 9 PLANETS,
+10 MOONS.
+3 FELYSIAN WORLDS! YIPEE! NOTES BY MCWGOGS, EPOC 6011,647.456.

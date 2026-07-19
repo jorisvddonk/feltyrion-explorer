@@ -1,0 +1,6 @@
+Star: GHYOSEKERS
+Star class: S04
+Paris coordinates: 450000, 51750000, -550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

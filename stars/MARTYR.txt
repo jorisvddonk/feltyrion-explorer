@@ -1,0 +1,10 @@
+Star: MARTYR
+Star class: S06
+Paris coordinates: -1377136, 44560, -51911
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY VERDULUM, EPOC 6011:560.867
+GREAT REFUELING SPOT IN THE MIDDLE OF NOWHERE.

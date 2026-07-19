@@ -1,0 +1,10 @@
+Star: P2002A-LA
+Star class: S11
+Paris coordinates: 3414992, 5189610, -1467863
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- P2002A-LA1 (@ large, not consistent)
+- P2002A-LA2 (d dusty, craterized)
+- P2002A-LA3 (n thin atmosphere)
+  - P2002A-LA3A (i icy surface)

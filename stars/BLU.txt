@@ -1,0 +1,10 @@
+Star: BLU
+Star class: S07
+Paris coordinates: 4317840, 5176347, -243938
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.41
+ NOTHING HERE

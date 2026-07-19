@@ -1,0 +1,35 @@
+Star: BRONZARIA
+Star class: S08
+Paris coordinates: 3959632, 4609715, -1242819
+Bodies: 25 (5 planets, 20 moons)
+
+System:
+- ARTHUR (d dusty, craterized)
+- UTHER (+ substellar object)
+- BRONZARIA MINOR (* companion star)
+  - ECTOR (q quartz surface)
+  - KAY (n thin atmosphere)
+  - LAUNCELOT (d dusty, craterized)
+  - BERNLAD (r rocky, creased)
+  - EXCALIBUR (f felisian)
+  - Moon #5 (f felisian)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (^ unstable)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (^ unstable)
+  - Moon #17 (k thick atmosphere)
+  - Moon #18 (n thin atmosphere)
+- GALAHAD (d dusty, craterized)
+- GWYNEVERE (k thick atmosphere)
+  - ELAINE (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY BRUCE STERLING WOODCOCK, EPOC 6011:571.701
+MULTIPLE STAR SYSTEM WITH 5 PLANETS AND 20 MOONS

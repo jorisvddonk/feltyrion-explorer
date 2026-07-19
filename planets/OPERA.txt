@@ -1,0 +1,6 @@
+Planet: OPERA
+Starmap index: 01
+Paris coordinates: 412144, 28516, -525534
+
+Guide entries:
+MED SIZED OXYGEN ATMOSPHERE SURFACE MAINLY QUARTZ (KRUSTY 6011:599.174)

@@ -1,0 +1,8 @@
+Planet: EEAF
+Starmap index: 01
+Paris coordinates: -1187856, 195673, 1064757
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.429
+NOT EVEN REALLY A PLANET.
+A SOFLAPE!

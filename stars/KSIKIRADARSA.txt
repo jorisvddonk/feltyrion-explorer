@@ -1,0 +1,20 @@
+Star: KSIKIRADARSA
+Star class: S00
+Paris coordinates: 2040369680, -1613682, -623842
+Bodies: 9 (4 planets, 5 moons)
+
+System:
+- YSHOK (d dusty, craterized)
+- ONEPID (@ large, not consistent)
+- YLESKOL (n thin atmosphere)
+  - SOFHPUL (n thin atmosphere)
+- FRAINUT (+ substellar object)
+  - FHUTIR (n thin atmosphere)
+  - VESPILLONIS (f felisian)
+  - JIABAL (n thin atmosphere)
+  - PRAEMINISTRO (f felisian)
+
+Guide entries:
+S00 STAR 4 PLANETS, 5 MOONS 2 FELISIAN WORLDS. 1.02956605 BAL. M.           
+TEMP 5617 K RAD 25KR COOR 2040369680;-1613682;-623842; SKINNYMON            
+6011 796.558                                                                

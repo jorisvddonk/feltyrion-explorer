@@ -1,0 +1,13 @@
+Star: SNOOKER BALL
+Star class: S10
+Paris coordinates: -1021776, 5360925, -963062
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+
+Guide entries:
+A LARGE RUNAWAY STAR; ONE THEORY ABOUT IT IS THAT IT WAS
+A CUE BALL IN A GAME OF INTERSTELLAR SNOOKER.
+DISCOVERED BY KONNRAD. EPOCH 6011:560.736

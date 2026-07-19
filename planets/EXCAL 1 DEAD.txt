@@ -1,0 +1,3 @@
+Planet: EXCAL 1 DEAD
+Starmap index: 12
+Paris coordinates: -174288, 9638409, 793201

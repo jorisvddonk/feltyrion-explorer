@@ -1,0 +1,3 @@
+Planet: HANARIA
+Starmap index: 06
+Paris coordinates: -61852944, 29465986, 69518

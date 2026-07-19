@@ -1,0 +1,3 @@
+Planet: BARIM
+Starmap index: 05
+Paris coordinates: -243216, 61959, 568611

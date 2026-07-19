@@ -1,0 +1,9 @@
+Star: SPUR 21
+Star class: S06
+Paris coordinates: -58529744, 28447249, -123995
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+APPROACHING THE MCWGOGS CLUSTER.                                            

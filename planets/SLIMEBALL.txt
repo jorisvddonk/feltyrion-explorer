@@ -1,0 +1,3 @@
+Planet: SLIMEBALL
+Starmap index: 04
+Paris coordinates: 594640, 21744, 54910

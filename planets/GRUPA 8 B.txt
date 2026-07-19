@@ -1,0 +1,3 @@
+Planet: GRUPA 8 B
+Starmap index: 01
+Paris coordinates: -61332592, 29579358, 682926

@@ -1,0 +1,45 @@
+Star: KONNRAD'S FIRE
+Star class: S04
+Paris coordinates: 4048912, 4271060, -89414
+Bodies: 32 (9 planets, 23 moons)
+
+System:
+- OSPAS (@ large, not consistent)
+- HALLOP (@ large, not consistent)
+- RADE (k thick atmosphere)
+  - AWYE (^ unstable)
+- RILLON (@ large, not consistent)
+  - SCAL (d dusty, craterized)
+  - RAPPL (r rocky, creased)
+  - MOQUE (d dusty, craterized)
+  - ICKL (d dusty, craterized)
+  - HELK (k thick atmosphere)
+  - EXPA (n thin atmosphere)
+  - FURB (k thick atmosphere)
+  - URLON (n thin atmosphere)
+  - RUNO (d dusty, craterized)
+  - HIAS (q quartz surface)
+  - OTORB (r rocky, creased)
+  - GLETA (r rocky, creased)
+  - MATAZ (^ unstable)
+  - SEPAL (n thin atmosphere)
+- BARREN LANDFALL (d dusty, craterized)
+- OBSTRE (+ substellar object)
+  - VIPA (d dusty, craterized)
+  - RAWTU (@ large, not consistent)
+  - VANC (k thick atmosphere)
+  - YATTA (d dusty, craterized)
+  - SHARN (r rocky, creased)
+  - ECHIN (d dusty, craterized)
+  - PHLET (^ unstable)
+- TRAHY (n thin atmosphere)
+- DAFFA (d dusty, craterized)
+  - DAFFE (d dusty, craterized)
+- PERJA (n thin atmosphere)
+
+Guide entries:
+THE FIRST, WELCOMING AND WARMING STAR THAT DRIFTER KONNRAD
+TRAVELLED TO.
+DISCOVERED BY KONNRAD. EPOCH 6011:560.651
+FURTHER NOTES: A CLASS S04 SYSTEM WITH 9 PLANETS, 23 MOONS, NO
+FELISIAN WORLDS. SKINNYMON EPOC 6011 571.746

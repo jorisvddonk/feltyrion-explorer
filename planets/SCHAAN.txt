@@ -1,0 +1,3 @@
+Planet: SCHAAN
+Starmap index: 05
+Paris coordinates: 3770352, 4542875, -2364699

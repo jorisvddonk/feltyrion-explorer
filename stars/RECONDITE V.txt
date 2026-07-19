@@ -1,0 +1,6 @@
+Star: RECONDITE V
+Star class: S06
+Paris coordinates: 276650000, 52650000, -276750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

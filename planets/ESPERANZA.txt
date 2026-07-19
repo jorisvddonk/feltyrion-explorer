@@ -1,0 +1,3 @@
+Planet: ESPERANZA
+Starmap index: 04
+Paris coordinates: 4159632, 4436827, -1722935

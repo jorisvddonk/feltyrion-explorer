@@ -1,0 +1,6 @@
+Star: PITSTOP 8
+Star class: S06
+Paris coordinates: -54027472, -5169697, 47838051
+Bodies: 0 (0 planets, 0 moons)
+
+System:

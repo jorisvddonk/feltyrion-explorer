@@ -1,0 +1,3 @@
+Planet: KALA-D
+Starmap index: 04
+Paris coordinates: 3841456, -366310, -9972918

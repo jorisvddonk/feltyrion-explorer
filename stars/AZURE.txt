@@ -1,0 +1,35 @@
+Star: AZURE
+Star class: S08
+Paris coordinates: 3542128, 4319626, -23198
+Bodies: 21 (6 planets, 15 moons)
+
+System:
+- ZAPPHIRE (* companion star)
+- EBEND (d dusty, craterized)
+- ADGLA (n thin atmosphere)
+  - TYROO (d dusty, craterized)
+  - XATIO (d dusty, craterized)
+- DELBER (k thick atmosphere)
+  - NACKLE (d dusty, craterized)
+  - EGENER (d dusty, craterized)
+- COBALT (* companion star)
+  - EPIPHANY (f felisian)
+  - TEMOL (^ unstable)
+  - OOSPH (^ unstable)
+  - KIASCO (^ unstable)
+  - GAOED (r rocky, creased)
+  - OLEXPER (k thick atmosphere)
+  - LOEN (+ substellar object)
+  - STLIN (n thin atmosphere)
+  - FECTOR (d dusty, craterized)
+  - DONESI (^ unstable)
+  - OLYSE (d dusty, craterized)
+- HERMIT (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY KALMAN FARAGO IN 6011.560.769. THE BROWN ROCK OF OUTLYING
+HERMIT IS RIDDLED WITH STONES OF INTERESTING COLORS AND ROCK FORMATIONS,
+SOME OF WHICH WILL CHALLENGE EVEN THE HARDIEST MOUNTAINEERS.
+(NOTES BY KALMAN FARAGO 6011.560.769)
+FURTHER NOTES: A SYSTEM OF 3 STARS AND 19 ASSORTED WORLDS, ONE OF WHICH
+IS FELISIAN. SKINNYMON EPOC 6011 571.411

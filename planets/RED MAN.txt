@@ -1,0 +1,7 @@
+Planet: RED MAN
+Starmap index: 08
+Paris coordinates: 908208, 554963, 552389
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.297
+VERY BARON

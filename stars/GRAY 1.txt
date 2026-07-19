@@ -1,0 +1,9 @@
+Star: GRAY 1
+Star class: S06
+Paris coordinates: 5248912, 4847794, -1284999
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ LI+ SOURCE

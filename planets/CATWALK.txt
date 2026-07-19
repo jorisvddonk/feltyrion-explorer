@@ -1,0 +1,6 @@
+Planet: CATWALK
+Starmap index: 04
+Paris coordinates: 3477136, 5441968, -1705434
+
+Guide entries:
+DISCOVERED EPOC 6011 612.405.7XX BY SOLNEMAN AKA NILS LANDAUER.

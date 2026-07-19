@@ -1,0 +1,6 @@
+Star: REDEST LANOO
+Star class: S02
+Paris coordinates: 1450000, 51650000, -1550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

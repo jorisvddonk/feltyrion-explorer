@@ -1,0 +1,3 @@
+Planet: CORCOVA
+Starmap index: 16
+Paris coordinates: -73010640, -1598344, 56035429

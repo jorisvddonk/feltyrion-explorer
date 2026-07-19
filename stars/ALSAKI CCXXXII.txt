@@ -1,0 +1,8 @@
+Star: ALSAKI CCXXXII
+Star class: S10
+Paris coordinates: 14841040, 32430056, -7481112
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)

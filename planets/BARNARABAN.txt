@@ -1,0 +1,3 @@
+Planet: BARNARABAN
+Starmap index: 06
+Paris coordinates: 7010640, -7971256, 10079905

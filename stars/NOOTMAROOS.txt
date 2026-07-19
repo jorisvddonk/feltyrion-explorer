@@ -1,0 +1,9 @@
+Star: NOOTMAROOS
+Star class: S06
+Paris coordinates: -11322032, 21057443, -14112009
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. DISCOVERED BY NEUZD 6011 768:951                      

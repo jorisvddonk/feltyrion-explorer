@@ -1,0 +1,20 @@
+Star: TREMBLAY
+Star class: S00
+Paris coordinates: 2259632, 4341005, 236873
+Bodies: 14 (6 planets, 8 moons)
+
+System:
+- CHEESIE (^ unstable)
+- SILVIANA (q quartz surface)
+- HECATOY (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- MICKIE (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- SIMONICA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)

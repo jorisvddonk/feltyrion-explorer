@@ -1,0 +1,6 @@
+Planet: SKYGEM B4
+Starmap index: 13
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A NORMAL METHANE-TYPE GAS GIANT. AMWHERE 6011.584.920.

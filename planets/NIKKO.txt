@@ -1,0 +1,3 @@
+Planet: NIKKO
+Starmap index: 01
+Paris coordinates: 4744976, 3731526, 975618

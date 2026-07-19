@@ -1,0 +1,6 @@
+Star: NATALGWOU
+Star class: S07
+Paris coordinates: 1650000, 1550000, -1750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

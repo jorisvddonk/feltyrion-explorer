@@ -1,0 +1,10 @@
+Star: SOLITARY
+Star class: S08
+Paris coordinates: 973200, 5009829, 2327302
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LISTED AS S08, BUT THERE AR E NO COMPANIONS OR PLANETS.
+RICHARD SOLENSKY EPOC 6011-576.185.740

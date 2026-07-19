@@ -1,0 +1,31 @@
+Star: UMBER
+Star class: S00
+Paris coordinates: 4842128, 4434279, -1348838
+Bodies: 20 (6 planets, 14 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - BARROWLAND (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - THUNDER (f felisian)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+
+Guide entries:
+THE FOURTH PLANET HAS AT LEAST TWO MOONS SUPPORTING LIFE
+THESE ARE NAMED BARROWLAND AND THUNDER
+NOTES AND DISCOVERY : OGLA

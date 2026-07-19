@@ -1,0 +1,67 @@
+Star: ANDRAIS
+Star class: S09
+Paris coordinates: 1400114224, 1898999, 1399436359
+Bodies: 52 (6 planets, 46 moons)
+
+System:
+- ANDRAIS PRIMUS (^ unstable)
+- ANDRAIS SECUNDUS (@ large, not consistent)
+- ANDRAIS TRIACUS (+ substellar object)
+  - ANDRAIS TRIACUS PRIL (r rocky, creased)
+  - ANDRAIS TRIACUS DREA (q quartz surface)
+  - ANDRAIS TRIACUS TRIL (f felisian)
+  - ANDRAIS TRIACUS QUAL (r rocky, creased)
+  - ANDRAIS TRIACUS QUIN (q quartz surface)
+  - ANDRAIS TRIACUS SECT (@ large, not consistent)
+  - ANDRAIS TRIACUS SILP (f felisian)
+  - ANDRAIS TRIACUS OCTE (^ unstable)
+  - ANDRAIS TRIACUS NAHL (q quartz surface)
+  - ANDRAIS TRIACUS DAHL (@ large, not consistent)
+  - ANRDAIS TRIACUS PRAE (d dusty, craterized)
+  - ANDRAIS TRIACUS DALE (f felisian)
+- ANDRAIS QUADREX (+ substellar object)
+  - ANDRAIS QUADREX PRIL (k thick atmosphere)
+  - ANDRAIS QUADREX DREA (q quartz surface)
+  - ANDRAIS QUADREX TRIL (r rocky, creased)
+  - ANDRAIS QUADREX QUAL (^ unstable)
+  - ANDRAIS QUADREX QUIN (@ large, not consistent)
+  - ANDRAIS QUADREX SECT (n thin atmosphere)
+  - ANDRAIS QUADREX SILP (n thin atmosphere)
+  - ANDRAIS QUADREX OCTE (^ unstable)
+  - ANDRAIS QUADREX NAHL (q quartz surface)
+  - ANDRAIS QUADREX DAHL (n thin atmosphere)
+  - ANDRAIS QUADREX PRAE (d dusty, craterized)
+  - ANDRAIS QUADREX DALE (f felisian)
+  - ANDRAIS QUADREX TRAD (r rocky, creased)
+  - ANDRAIS QUADREX QALE (^ unstable)
+  - ANDRAIS QUADREX QUNE (d dusty, craterized)
+  - ANDRAIS QUADREX SENE (k thick atmosphere)
+- ANDRAIS QUINTUS (+ substellar object)
+  - ANDRAIS QUINTUS PRIL (r rocky, creased)
+  - ANDRAIS QUINTUS DREA (k thick atmosphere)
+  - ANDRAIS QUINTUS TRIL (k thick atmosphere)
+  - ANDRAIS QUINTUS QUAL (@ large, not consistent)
+  - ANDRAIS QUINTUS QUIN (d dusty, craterized)
+  - ANDRAIS QUINTUS SECT (f felisian)
+  - ANDRAIS QUINTUS SILP (d dusty, craterized)
+  - ANDRAIS QUINTUS OCTE (d dusty, craterized)
+  - ANDRAIS QUINTUS NAHL (@ large, not consistent)
+  - ANDRAIS QUINTUS DAHL (^ unstable)
+  - ANDRAIS QUINTUS PRAE (d dusty, craterized)
+  - ANDRAIS QUINTUS DALE (d dusty, craterized)
+  - ANDRAIS QUINTUS TRAD (r rocky, creased)
+- ANDRAIS SEXTANE (+ substellar object)
+  - ANDRAIS SEXTANE PRIL (f felisian)
+  - ANDRAIS SEXTANE DRAE (f felisian)
+  - ANDRAIS SEXTANE TRIL (@ large, not consistent)
+  - ANDRAIS SEXTANE QUAL (d dusty, craterized)
+  - ANDRAIS SEXTANE QUIN (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:612.110
+(S09) 6 PROTOPLANETS / 46 MINOR
+COORDINATES=1400114224, 1898999, 1399436359
+7 FELYSIAN MOONS IN THIS SYSTEM
+MOONS 3, 7, AND 12 OF PLANET 3 ARE ALL FELYSIAN
+THE 12TH MOON OF THE 4TH PLANET IS FELYSIAN AS IS MOON 6 OF PLANET 5
+THE FIRST AND SECOND MOONS OF PLANET 6 ARE BOTH FELYSIAN

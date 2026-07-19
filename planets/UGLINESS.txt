@@ -1,0 +1,3 @@
+Planet: UGLINESS
+Starmap index: 01
+Paris coordinates: 3959632, 4540688, -1516089

@@ -1,0 +1,6 @@
+Star: GEMINI B
+Star class: S08
+Paris coordinates: 17066000, 1828982, -469059
+Bodies: 0 (0 planets, 0 moons)
+
+System:

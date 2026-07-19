@@ -1,0 +1,3 @@
+Planet: SIMPLE
+Starmap index: 02
+Paris coordinates: -107335952, 25030477, -1780663

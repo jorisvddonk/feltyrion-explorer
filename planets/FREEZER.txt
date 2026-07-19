@@ -1,0 +1,3 @@
+Planet: FREEZER
+Starmap index: 09
+Paris coordinates: 4004272, 4632329, -729962

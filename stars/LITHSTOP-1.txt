@@ -1,0 +1,10 @@
+Star: LITHSTOP-1
+Star class: S06
+Paris coordinates: 4679984, 4040337, -1033466
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+'DISCOVERED 6011:609.151 BY JOHN DILICK'
+'SCOPE FOR FUEL HERE, JOURNEYING ONWARD (JOHN DILICK, 6011:609.151)

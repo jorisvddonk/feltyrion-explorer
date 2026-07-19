@@ -1,0 +1,9 @@
+Star: B EXPRESS 5
+Star class: S06
+Paris coordinates: -3687856, 760741, 3526790
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+25 MTPD OF GREAT LITHIUM!                                                   

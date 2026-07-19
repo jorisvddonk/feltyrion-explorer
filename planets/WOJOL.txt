@@ -1,0 +1,6 @@
+Planet: WOJOL
+Starmap index: 03
+Paris coordinates: 5507120, 5288421, -243775
+
+Guide entries:
+ DISCOVERED BY FOTIOS. EPOC 6011:609.430

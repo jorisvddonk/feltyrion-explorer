@@ -1,0 +1,25 @@
+Star: ASKEW 102
+Star class: S08
+Paris coordinates: 2545392, -12116486, -10361800
+Bodies: 16 (3 planets, 13 moons)
+
+System:
+- ASKEW 102A (n thin atmosphere)
+- ASKEW 102B (* companion star)
+  - ASKEW 102B1 (q quartz surface)
+  - ASKEW 102B2 (k thick atmosphere)
+- ASKEW 102C (* companion star)
+  - ASKEW 102C1 (^ unstable)
+  - ASKEW 102C2 (^ unstable)
+  - POLYBRIGHT (f felisian)
+  - ASKEW 102C4 (r rocky, creased)
+  - ASKEW 102C5 (+ substellar object)
+  - MA-WHEROWHERO (f felisian)
+  - ASKEW 102C7 (d dusty, craterized)
+  - ASKEW 102C8 (+ substellar object)
+  - ASKEW 102C9 (k thick atmosphere)
+  - ASKEW 102C10 (+ substellar object)
+  - Moon #10 (n thin atmosphere)
+
+Guide entries:
+3 SUNS, 2 FELISIAN, 1 QUARTZ WORLD

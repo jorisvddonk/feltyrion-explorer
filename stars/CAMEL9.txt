@@ -1,0 +1,6 @@
+Star: CAMEL9
+Star class: S06
+Paris coordinates: 4473200, 4428644, -1191852
+Bodies: 0 (0 planets, 0 moons)
+
+System:

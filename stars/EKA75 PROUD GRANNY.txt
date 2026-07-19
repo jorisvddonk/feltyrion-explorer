@@ -1,0 +1,57 @@
+Star: EKA75 PROUD GRANNY
+Star class: S00
+Paris coordinates: 156784, -15042, 351717
+Bodies: 43 (7 planets, 36 moons)
+
+System:
+- SOCKETS (d dusty, craterized)
+- Planet #1 (q quartz surface)
+- HAZY (n thin atmosphere)
+- INSANE (@ large, not consistent)
+  - POCKET LINT (q quartz surface)
+  - PAPER MACHE (r rocky, creased)
+  - DAMAGED BALL (d dusty, craterized)
+  - METAL (r rocky, creased)
+  - BUMP (d dusty, craterized)
+  - INSIGNIFICANT (n thin atmosphere)
+  - MOLDY CHEESE (r rocky, creased)
+  - DUSTY OLD MARBLE (k thick atmosphere)
+  - GOO (d dusty, craterized)
+  - SILVER TEAL (d dusty, craterized)
+  - SULFIRIC ACID (^ unstable)
+  - BEFUDDLED (k thick atmosphere)
+  - OLD GUM (d dusty, craterized)
+- ODD (+ substellar object)
+  - SWAMP (k thick atmosphere)
+  - MORE OLD GUM (d dusty, craterized)
+  - SMOOTH AND BUMPY (d dusty, craterized)
+  - COUGH (k thick atmosphere)
+  - STARE (k thick atmosphere)
+  - BLINDING (q quartz surface)
+  - EARTH AND AIR (k thick atmosphere)
+  - THIRST (f felisian)
+  - PLACIDITY (k thick atmosphere)
+  - MORE THIRST (f felisian)
+  - IMPOSTER (k thick atmosphere)
+  - THE REAL THING (@ large, not consistent)
+  - GLOW (d dusty, craterized)
+  - Moon #13 (d dusty, craterized)
+  - KRYPTONITE (d dusty, craterized)
+- OLDEST TRIPLET (r rocky, creased)
+  - MIDDLE TRIPLET (d dusty, craterized)
+  - YOUNGEST TRIPLET (n thin atmosphere)
+- FARAWAY HOPE (+ substellar object)
+  - TREASURED RUBY (k thick atmosphere)
+  - CURSE (k thick atmosphere)
+  - THE DARK TRUTH (n thin atmosphere)
+  - ANGST (^ unstable)
+  - THE BLESSED (f felisian)
+  - THE GRIM REAPER (r rocky, creased)
+
+Guide entries:
+AN S00 STAR WITH 7 PLANETS AND 36 MOONS.. QUITE A POPULOUS SYSTEM. --EKA
+OKAY, EVERYTHING'S LABELED AND COMMENTED ON. THE SYSTEM TURNED OUT TO BE
+PRETTY INTERESTING, HARBORING TWO PAIRS OF NEAR-IDENTICAL PLANETS, A
+VERY STRANGE BROWN DWARF, A TRIPLET OF CRATERED PLANETS ORBITING ONE
+ANOTHER, AND A FELISIAN MOON WITH TRANSPARENT TREES. CRUISE AROUND THE
+SYSTEM SOMETIME, YOU'LL LIKE IT. --EKA

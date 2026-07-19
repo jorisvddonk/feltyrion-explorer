@@ -1,0 +1,67 @@
+Star: PHILOSOPHY
+Star class: S00
+Paris coordinates: 3708208, 4049889, -2205765
+Bodies: 52 (11 planets, 41 moons)
+
+System:
+- CONFUCIUS (k thick atmosphere)
+- LAO TZE (r rocky, creased)
+- HELLAS (@ large, not consistent)
+  - THALES (q quartz surface)
+  - PYTHAGORAS (k thick atmosphere)
+  - ANAXIMANDER (n thin atmosphere)
+  - HERACLITUS (q quartz surface)
+  - PARMENIDES (r rocky, creased)
+  - ZENO (k thick atmosphere)
+  - EMPEDOCLES (d dusty, craterized)
+  - ANAXAGORAS (d dusty, craterized)
+  - PROTAGORAS (k thick atmosphere)
+  - SOCRATES (^ unstable)
+  - PLATO (n thin atmosphere)
+  - ARISTOTLE (k thick atmosphere)
+  - DEMOCRITUS (d dusty, craterized)
+  - EPICURUS (r rocky, creased)
+  - CARNEADES (n thin atmosphere)
+  - DIOGENES (d dusty, craterized)
+  - HIPPOCRATES (d dusty, craterized)
+- SEXTUS EMPIRICUS (d dusty, craterized)
+  - PLOTINUS (n thin atmosphere)
+- ST. AUGUSTINE (q quartz surface)
+  - ST. GREGORY OF NYSSA (^ unstable)
+  - ST. ANSELM (n thin atmosphere)
+  - ST. THOMAS AQUINAS (d dusty, craterized)
+- DUNS SCOTUS (n thin atmosphere)
+  - OCKHAM (d dusty, craterized)
+  - BURIDAN (n thin atmosphere)
+- GROSSETESTE (d dusty, craterized)
+- AVICENNA (d dusty, craterized)
+  - AVERROE (d dusty, craterized)
+- CARDANO (n thin atmosphere)
+- KANT (+ substellar object)
+  - BACON (@ large, not consistent)
+  - DESCARTES (^ unstable)
+  - HUME (i icy surface)
+  - SPINOZA (i icy surface)
+  - PASCAL (q quartz surface)
+  - LEIBNIZ (i icy surface)
+  - VICO (i icy surface)
+  - ROUSSEAU (i icy surface)
+  - MALEBRANCHE (i icy surface)
+  - DIDEROT (i icy surface)
+  - HEGEL (i icy surface)
+  - NIETZSCHE (i icy surface)
+  - SCHOPENHAUER (i icy surface)
+  - KIERKEGAARD (i icy surface)
+  - COMTE (i icy surface)
+- FREUD (@ large, not consistent)
+  - JUNG (n thin atmosphere)
+  - HEIDEGGER (n thin atmosphere)
+
+Guide entries:
+YELLOW DWARF WITH ELEVEN PLANETS. OXYGEN FOUND ON A FEW MOONS.
+HELLAS AND KANT HAVE MORE THAN TEN MOONS EACH.
+LIFEFORMS YET TO BE SEARCHED FOR.
+DISCOVERED BY RAGENDAL; 603.764.665
+END
+CAT
+EXIT

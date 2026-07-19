@@ -1,0 +1,3 @@
+Planet: HERSCHEL
+Starmap index: 01
+Paris coordinates: 3624624, 3854127, 838900

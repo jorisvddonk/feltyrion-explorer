@@ -1,0 +1,52 @@
+Star: VITADONNA
+Star class: S00
+Paris coordinates: 2777136, 4626086, -1230145
+Bodies: 39 (6 planets, 33 moons)
+
+System:
+- BAALZEBUB (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- CORONA AUREA (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (^ unstable)
+  - Moon #2 (f felisian)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (^ unstable)
+  - Moon #8 (^ unstable)
+  - Moon #9 (^ unstable)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (q quartz surface)
+  - ANGELA (d dusty, craterized)
+  - Moon #15 (^ unstable)
+  - CRYSTALIS (q quartz surface)
+  - SUNRISE (k thick atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - AGORA DIABOLIS (^ unstable)
+
+Guide entries:
+DISCOVERED BY NYQUIST ON 6011.569.556
+ P36 IS LOVELY IN THE SUNLIGHT, QUARTZ/OXYGEN ATMOSPHERE
+THIS SYSTEM HAS SEVERAL PLANETS WITH MANY MOONS POSSIBLE OXYGEN/WATE
+THE RINGS OF P5 (CORONA AUREA- CROWN OF GOLD) ARE SPECTACULAR
+THOUGHMOONS MAY HAVE LIFE, NO ORGANICS FOUND

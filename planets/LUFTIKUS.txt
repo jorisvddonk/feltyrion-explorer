@@ -1,0 +1,3 @@
+Planet: LUFTIKUS
+Starmap index: 09
+Paris coordinates: 1583920, -27673265, 361375

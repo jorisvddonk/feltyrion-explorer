@@ -1,0 +1,6 @@
+Planet: HAK'S ANVIL
+Starmap index: 01
+Paris coordinates: 1112144, -67571804, -1266956
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:490

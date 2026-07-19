@@ -1,0 +1,3 @@
+Planet: ASKEW 157C6
+Starmap index: 09
+Paris coordinates: 9163824, -13609398, 14800184

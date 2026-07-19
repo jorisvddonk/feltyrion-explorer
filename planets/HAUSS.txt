@@ -1,0 +1,3 @@
+Planet: HAUSS
+Starmap index: 05
+Paris coordinates: 2498576, 5228726, -3505735

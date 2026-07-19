@@ -1,0 +1,8 @@
+Planet: VULKAN
+Starmap index: 01
+Paris coordinates: 3966416, 3899706, -1028195
+
+Guide entries:
+PLANET DISCOVERED BY SEB PAT EPOC 6011:683.298                              
+HAS A VERY DEEP VALLEY SOME WHERE FAR EAST.                                 
+VERY LARGE MOUNTAIN FAR EAST.'(NOTES BY SEB PAT EPOC 6011:683.302)'         

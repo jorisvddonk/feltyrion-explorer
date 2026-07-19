@@ -1,0 +1,3 @@
+Planet: MORLA
+Starmap index: 07
+Paris coordinates: -122864, 281953, 1858744

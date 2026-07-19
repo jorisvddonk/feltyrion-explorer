@@ -1,0 +1,25 @@
+Star: SOLEN IV
+Star class: S00
+Paris coordinates: 21446160, 6389208, 40270646
+Bodies: 15 (6 planets, 9 moons)
+
+System:
+- TETZENE (q quartz surface)
+- NEONEERG (d dusty, craterized)
+- HULEON (f felisian)
+  - BANTANAN (d dusty, craterized)
+- PEING (@ large, not consistent)
+  - GEN (r rocky, creased)
+  - ENPUL (q quartz surface)
+  - PERARKK (k thick atmosphere)
+- LIVFUL (f felisian)
+  - EYEA (d dusty, craterized)
+  - PEARLEYENEY (d dusty, craterized)
+- BRAAR (q quartz surface)
+  - GENADAT (d dusty, craterized)
+  - PRIMER (^ unstable)
+  - BLATEON (d dusty, craterized)
+
+Guide entries:
+S00 STAR WITH 6 PLANETS AND 9 MOONS. 2 PLANETS ARE FELYSIAN.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:632:535

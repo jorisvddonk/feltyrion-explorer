@@ -1,0 +1,3 @@
+Planet: EDDIE-SOO-P03
+Starmap index: 03
+Paris coordinates: 3939280, 9043244, -2453294

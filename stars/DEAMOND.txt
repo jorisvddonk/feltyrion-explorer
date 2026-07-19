@@ -1,0 +1,11 @@
+Star: DEAMOND
+Star class: S11
+Paris coordinates: 3721776, 4227015, -1407043
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MORTIS (@ large, not consistent)
+
+Guide entries:
+HIGH RADIATION, BRIGHT PULSAR. DISCOVERED BY STARDRIFTER SHANE FERA
+EPOC 6011 . 562.338.833

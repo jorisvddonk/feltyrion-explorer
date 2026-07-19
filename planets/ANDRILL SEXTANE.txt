@@ -1,0 +1,3 @@
+Planet: ANDRILL SEXTANE
+Starmap index: 06
+Paris coordinates: 1399600656, 1744683, 1399115163

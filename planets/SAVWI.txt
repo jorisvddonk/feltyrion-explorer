@@ -1,0 +1,3 @@
+Planet: SAVWI
+Starmap index: 01
+Paris coordinates: 5276048, 5055692, 256778

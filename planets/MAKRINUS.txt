@@ -1,0 +1,6 @@
+Planet: MAKRINUS
+Starmap index: 11
+Paris coordinates: 974288, 1321067, -1251662
+
+Guide entries:
+ DISCOVERED BY FOTIOS. EPOC 6011:609.531

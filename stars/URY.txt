@@ -1,0 +1,6 @@
+Star: URY
+Star class: S06
+Paris coordinates: 2059632, -27155134, 472930
+Bodies: 0 (0 planets, 0 moons)
+
+System:

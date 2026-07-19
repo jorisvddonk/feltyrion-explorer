@@ -1,0 +1,16 @@
+Star: CARYN
+Star class: S00
+Paris coordinates: 4583920, 4900762, -2548445
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (+ substellar object)
+- Planet #2 (@ large, not consistent)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- DULCIS (f felisian)
+- PULCHERRIMA (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)

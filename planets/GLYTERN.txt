@@ -1,0 +1,8 @@
+Planet: GLYTERN
+Starmap index: 13
+Paris coordinates: 2100590128, -1965623, -11495
+
+Guide entries:
+M01//P06 SMALL SOLID DUSTY VERY WHITE REFLECTIVE WITH EQUALLY WHITE         
+REFLECTIVE LARGE CRATERS. PRO 0.112.320 PRV 0.002.269.432 SKINNYMON         
+6011 793.300                                                                

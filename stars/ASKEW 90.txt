@@ -1,0 +1,17 @@
+Star: ASKEW 90
+Star class: S11
+Paris coordinates: 10769520, -19005089, 17556771
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- ASKEW 90A (d dusty, craterized)
+- ASKEW 90B (d dusty, craterized)
+- ASKEW 90C (d dusty, craterized)
+- ASKEW 90D (d dusty, craterized)
+  - ASKEW 90D1 (i icy surface)
+- ASKEW 90E (@ large, not consistent)
+  - ASKEW 90E1 (i icy surface)
+  - ASKEW 90E2 (i icy surface)
+  - ASKEW 90E3 (i icy surface)
+  - ASKEW 90E4 (i icy surface)
+  - ASKEW 90E5 (i icy surface)

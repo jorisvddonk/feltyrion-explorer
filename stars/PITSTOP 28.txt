@@ -1,0 +1,6 @@
+Star: PITSTOP 28
+Star class: S06
+Paris coordinates: -60688, -189953, 977271587
+Bodies: 0 (0 planets, 0 moons)
+
+System:

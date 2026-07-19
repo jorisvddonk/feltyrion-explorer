@@ -1,0 +1,8 @@
+Planet: LORD SEED
+Starmap index: 03
+Paris coordinates: 1547152, 5021697, -3444539
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.749.463                           
+A GIANT, BRIGHT, RINGED, UNSTABLE BODY.                                     
+INITISL SCAN REVEALS 11 MOONS.                                              

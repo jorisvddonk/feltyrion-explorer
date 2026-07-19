@@ -1,0 +1,3 @@
+Planet: CRESNIA
+Starmap index: 01
+Paris coordinates: -61339376, 29356249, 130261

@@ -1,0 +1,6 @@
+Star: GFAL
+Star class: S07
+Paris coordinates: -2862480, -9839527, -1520525
+Bodies: 0 (0 planets, 0 moons)
+
+System:

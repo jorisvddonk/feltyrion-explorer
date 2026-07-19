@@ -1,0 +1,6 @@
+Star: SINGLE BOY
+Star class: S00
+Paris coordinates: -736432, 18147738, 1565332
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,7 @@
+Planet: TATOOINE
+Starmap index: 04
+Paris coordinates: 3628560, 4254023, -915798
+
+Guide entries:
+FOUNDED EPOC 6011, 678.982.163. 4TH PLANET OF RIZI.                         
+ORIGINALLY 1ST PLANET I EVER VISITED. (REZA, EPOC 6011, 678.982.217)        

@@ -1,0 +1,6 @@
+Star: PITSTOP 36
+Star class: S06
+Paris coordinates: -13232, -70027, 1642525829
+Bodies: 0 (0 planets, 0 moons)
+
+System:

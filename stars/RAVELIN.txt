@@ -1,0 +1,15 @@
+Star: RAVELIN
+Star class: S02
+Paris coordinates: 7465328, 5068211, -810767
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- RAVELIN I (+ substellar object)
+- RAVELIN II (+ substellar object)
+- RAVELIN III (d dusty, craterized)
+- RAVELIN IV (q quartz surface)
+- RAVELIN V (@ large, not consistent)
+
+Guide entries:
+A CLASS S02 SYSTEM CONSISTING OF 5 WORLDS. SKINNYMON EPOC 6011
+585.243

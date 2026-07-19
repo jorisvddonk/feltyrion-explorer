@@ -1,0 +1,30 @@
+Star: DIABLERO
+Star class: S03
+Paris coordinates: 3904272, 5465172, -666611
+Bodies: 21 (11 planets, 10 moons)
+
+System:
+- YAQUI (k thick atmosphere)
+- CHAPPRAL (+ substellar object)
+- CARLITO (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (i icy surface)
+  - Moon #0 (i icy surface)
+- Planet #9 (i icy surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (d dusty, craterized)
+
+Guide entries:
+ A RED GIANT CLASS STAR. DISCOVERED BY MRUQE; EPOC 6011-568.271

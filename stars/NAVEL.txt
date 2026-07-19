@@ -1,0 +1,32 @@
+Star: NAVEL
+Star class: S04
+Paris coordinates: 4174288, 4121365, -4526691
+Bodies: 23 (14 planets, 9 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (r rocky, creased)
+- Planet #9 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #11 (d dusty, craterized)
+- Planet #12 (n thin atmosphere)
+- Planet #13 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ ORANGE GIANT DISC BY SCAREDY-CAT, EPOC 6011.585.95123 ORBITING BODIES

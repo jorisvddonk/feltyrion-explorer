@@ -1,0 +1,3 @@
+Planet: AITYONIS
+Starmap index: 05
+Paris coordinates: 4762480, 4256213, -23545

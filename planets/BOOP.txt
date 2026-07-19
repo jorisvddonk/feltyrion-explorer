@@ -1,0 +1,6 @@
+Planet: BOOP
+Starmap index: 16
+Paris coordinates: 2801424, 3939203, -1655792
+
+Guide entries:
+ DISCOVERED BY CAPT. CARLOS, ON 6011.602.875.300. NOTHING INTERESTING.

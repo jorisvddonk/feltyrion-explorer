@@ -1,0 +1,6 @@
+Star: FUEL STATION DELTA
+Star class: S06
+Paris coordinates: -69414064, -1236682, 100565065
+Bodies: 0 (0 planets, 0 moons)
+
+System:

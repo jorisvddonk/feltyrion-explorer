@@ -1,0 +1,3 @@
+Planet: CLOUDED HORIZONS
+Starmap index: 21
+Paris coordinates: 3077136, 4447919, -1286006

@@ -1,0 +1,7 @@
+Planet: LIGHTING 3.4
+Starmap index: 09
+Paris coordinates: 36432, 33110, -633205
+
+Guide entries:
+SOMEWHAT BRIGHTER THAN 3.3, BUT NOTHING SPECIAL REALLY.
+SERPENS, 6011 665.369

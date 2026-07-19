@@ -1,0 +1,3 @@
+Planet: JUNO
+Starmap index: 03
+Paris coordinates: 4021776, 4797159, -1738140

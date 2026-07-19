@@ -1,0 +1,8 @@
+Star: ENSPRIS
+Star class: S10
+Paris coordinates: 3755696, 4439584, 668232
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GLANDATHAL (d dusty, craterized)
+- QUATRZ (q quartz surface)

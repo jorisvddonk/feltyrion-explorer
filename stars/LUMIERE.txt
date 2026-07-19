@@ -1,0 +1,39 @@
+Star: LUMIERE
+Star class: S00
+Paris coordinates: 2990704, 4745929, -613453
+Bodies: 27 (11 planets, 16 moons)
+
+System:
+- CASABLANCA (q quartz surface)
+- VIRGILIO (k thick atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (f felisian)
+  - Moon #2 (f felisian)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (^ unstable)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (f felisian)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+- Planet #3 (n thin atmosphere)
+- PHELYA (f felisian)
+- Planet #5 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #6 (f felisian)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- CHANDEMONE (r rocky, creased)
+  - LAMITAR (d dusty, craterized)
+  - GENO (d dusty, craterized)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+(SIGH) IVE DISCOVERED YET ANOTHER ABANDONED SYSTEM.WHY DO PEOPLE NAME
+STARS AND PLANETS THEN JUS LEAVE? YOU THINK THEY COULD FIND OUT A LITT
+LE SOMETHING ABOUT WHAT THEYVE DISCOVERED.ILL JUST BE THE SAVIOR THEN.
+-JOSE FREDRICO DELESANTES EL SEGUNDO

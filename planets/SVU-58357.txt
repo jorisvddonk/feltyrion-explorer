@@ -1,0 +1,3 @@
+Planet: SVU-58357
+Starmap index: 10
+Paris coordinates: 3290704, 4837570, -933229

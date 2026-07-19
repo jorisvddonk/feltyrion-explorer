@@ -1,0 +1,14 @@
+Star: BOTEQEER
+Star class: S03
+Paris coordinates: 5755696, 5283956, -1600035
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #3 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

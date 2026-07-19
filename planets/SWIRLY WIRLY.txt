@@ -1,0 +1,3 @@
+Planet: SWIRLY WIRLY
+Starmap index: 06
+Paris coordinates: 4466416, 5292609, -1437978

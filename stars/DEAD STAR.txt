@@ -1,0 +1,6 @@
+Star: DEAD STAR
+Star class: S06
+Paris coordinates: 4086768, 4311795, 80929
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: RADISHARD
+Starmap index: 10
+Paris coordinates: 4177136, 4758332, -2550808

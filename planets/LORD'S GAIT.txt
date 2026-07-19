@@ -1,0 +1,11 @@
+Planet: LORD'S GAIT
+Starmap index: 22
+Paris coordinates: 1547152, 5021697, -3444539
+
+Guide entries:
+DISCOVERD BY RYLIE THOMAS, EPOC 6011:727.751.832                            
+SMAL GREY MOON, HEAVY CLUSTERS OF CRATORS.                                  
+THE SOFT STEEP HILLS AROUND THE CRATORS CONTAIN A BRIGHT MINERAL            
+WHICH APPEARS TO SHIMMER AT A DISTANCE--QUITE A SIGHT.                      
+AWAT FROM THE CRATORS THE SURFACE IS QUITE FLAT                             
+(RT 6011:727.752.492)                                                       

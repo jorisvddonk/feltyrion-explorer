@@ -1,0 +1,3 @@
+Planet: DRARNIR ILN GRARN
+Starmap index: 01
+Paris coordinates: 58819632, -33812924, 926872580

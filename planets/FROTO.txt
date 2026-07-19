@@ -1,0 +1,6 @@
+Planet: FROTO
+Starmap index: 17
+Paris coordinates: 3473200, 4682739, -13129
+
+Guide entries:
+ FELISIAN MOON OF STAR SC63 DISC BY SCAREDY-CAT,EPOC 6011.587.923

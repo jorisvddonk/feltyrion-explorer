@@ -1,0 +1,3 @@
+Planet: MESMO
+Starmap index: 02
+Paris coordinates: 4214992, 4830216, -2254873

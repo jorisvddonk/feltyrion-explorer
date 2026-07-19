@@ -1,0 +1,6 @@
+Star: BLUE POINT
+Star class: S07
+Paris coordinates: -20759376, -5470648, 41628872
+Bodies: 0 (0 planets, 0 moons)
+
+System:

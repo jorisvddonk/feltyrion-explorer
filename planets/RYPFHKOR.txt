@@ -1,0 +1,7 @@
+Planet: RYPFHKOR
+Starmap index: 01
+Paris coordinates: 2037570768, -132625, -1685345
+
+Guide entries:
+P01/05 VERY LARGE SUBSTELLAR, WHITE COLOR WITH SLIGHT YELLOW AURA.          
+PRO 0.164.520 PRV 0.013.900.156 SKINNYMON 6011 796.822                      

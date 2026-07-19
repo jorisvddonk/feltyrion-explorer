@@ -1,0 +1,9 @@
+Star: BACULPHEEN
+Star class: S06
+Paris coordinates: 820787856, -302723, -820484991
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR LITHIUM SCOPING. (DISCOVERED BY NEUZD, 6011:814.578)     

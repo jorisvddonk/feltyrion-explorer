@@ -1,0 +1,7 @@
+Planet: VA JRIHARSIATE B
+Starmap index: 01
+Paris coordinates: 2033117584, -495491, -4272627
+
+Guide entries:
+P01/01 SOLE COMPANION STAR HAS 2 BODIES. PRV 0.123.856.080                  
+SKINNYMON 6011 796.406                                                      

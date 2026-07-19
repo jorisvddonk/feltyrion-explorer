@@ -1,0 +1,6 @@
+Star: PLEXUS
+Star class: S07
+Paris coordinates: 2404272, 4533521, 850979
+Bodies: 0 (0 planets, 0 moons)
+
+System:

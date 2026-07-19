@@ -1,0 +1,3 @@
+Planet: FIRSTIS
+Starmap index: 01
+Paris coordinates: -62039376, 29283139, 812295

@@ -1,0 +1,43 @@
+Star: LIFEEEEE
+Star class: S00
+Paris coordinates: 2488528, 2125774, 7523286
+Bodies: 32 (6 planets, 26 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (^ unstable)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (k thick atmosphere)
+- TEAR OF THE DRAGON (f felisian)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (f felisian)
+  - Moon #13 (r rocky, creased)
+  - Moon #14 (^ unstable)
+  - Moon #15 (r rocky, creased)
+  - Moon #16 (q quartz surface)
+  - Moon #17 (k thick atmosphere)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+THIS SYSTEM WAS KNOWN TO BE NAMED NOBODY'S HOME BUT FOR SOME REASONS        
+IT ISN'T ANYMORE.SOMEONE NAMED IT LIFEEEEE,INSTEAD.                         
+(NOTES BY NEUZD,6011 786:907)                                               

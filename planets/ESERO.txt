@@ -1,0 +1,7 @@
+Planet: ESERO
+Starmap index: 04
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M01/P03 SMALL SOLID THIN ATMO, GOOD BRIGHTNESS WITH GOOD POLAR CAPS.        
+PR0 0.247.680 PRV 0.0.817.976 SKINNYMON 6011 796.376                        

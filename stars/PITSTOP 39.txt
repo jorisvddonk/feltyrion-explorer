@@ -1,0 +1,8 @@
+Star: PITSTOP 39
+Star class: S05
+Paris coordinates: 274928, -84114, 1900456334
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PITSTOP 39A (r rocky, creased)
+- PITSTOP 39B (q quartz surface)

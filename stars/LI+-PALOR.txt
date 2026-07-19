@@ -1,0 +1,9 @@
+Star: LI+-PALOR
+Star class: S06
+Paris coordinates: 4273200, 4448925, -983204
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GRAY GIANT, GOOD LITHIUM DEPOSITS

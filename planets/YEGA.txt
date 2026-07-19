@@ -1,0 +1,3 @@
+Planet: YEGA
+Starmap index: 05
+Paris coordinates: 4786768, 5671191, -721540

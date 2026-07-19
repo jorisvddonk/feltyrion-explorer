@@ -1,0 +1,9 @@
+Star: NULLORB III
+Star class: S09
+Paris coordinates: -547152, 1124156, 2586757
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S09 WITH NO PLANETS. RYAN GJK E6011.803.391                              

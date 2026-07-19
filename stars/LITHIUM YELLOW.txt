@@ -1,0 +1,9 @@
+Star: LITHIUM YELLOW
+Star class: S00
+Paris coordinates: 23873456, 5948225, 2804081
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ NO PLANETES HERE... GO HOME

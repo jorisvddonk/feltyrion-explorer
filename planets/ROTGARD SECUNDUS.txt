@@ -1,0 +1,6 @@
+Planet: ROTGARD SECUNDUS
+Starmap index: 18
+Paris coordinates: 4348912, 4223012, -412744
+
+Guide entries:
+PLANET DISCOVERED BY E.SIRAVEGNA ON EPOC 6011564.663

@@ -1,0 +1,14 @@
+Star: YUI
+Star class: S04
+Paris coordinates: 5556784, 7053610, -4938331
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- YMA (k thick atmosphere)
+- MUKA (@ large, not consistent)
+- IMA (k thick atmosphere)
+  - ARKA (n thin atmosphere)
+  - MAKA (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.202

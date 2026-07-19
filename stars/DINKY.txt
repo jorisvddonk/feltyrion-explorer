@@ -1,0 +1,9 @@
+Star: DINKY
+Star class: S07
+Paris coordinates: 3366416, 4532527, -456539
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED EPOC 6011:674.230 BY DFARAN LENIARC)

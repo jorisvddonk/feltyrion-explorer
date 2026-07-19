@@ -1,0 +1,6 @@
+Planet: COLD
+Starmap index: 48
+Paris coordinates: -72824208, -13935588, 55276606
+
+Guide entries:
+ICE (MEGAGUN)

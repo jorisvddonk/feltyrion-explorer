@@ -1,0 +1,49 @@
+Star: MARIA
+Star class: S00
+Paris coordinates: 2708208, 4423615, -1185378
+Bodies: 39 (7 planets, 32 moons)
+
+System:
+- VOICE (r rocky, creased)
+- ACCENT (r rocky, creased)
+- ACE (d dusty, craterized)
+- PREPARATION (d dusty, craterized)
+- MARY (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (f felisian)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (^ unstable)
+  - Moon #6 (f felisian)
+  - Moon #7 (^ unstable)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (d dusty, craterized)
+- BISCOT (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (^ unstable)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (n thin atmosphere)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (f felisian)
+- PAYDAY (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+THIS STAR IS DEDICATED TO MARIA MAGUIRE
+'FIND OUT WHAT YOU CAN'

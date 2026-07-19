@@ -1,0 +1,7 @@
+Planet: ULCOR
+Starmap index: 12
+Paris coordinates: -1108208, -712825, -246456
+
+Guide entries:
+MOON OF DARPOLAR. SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.
+NYTAR, EPOC 6011:611.944

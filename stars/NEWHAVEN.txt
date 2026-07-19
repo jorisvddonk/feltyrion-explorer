@@ -1,0 +1,28 @@
+Star: NEWHAVEN
+Star class: S00
+Paris coordinates: 2173200, 2163851, 1078175
+Bodies: 22 (5 planets, 17 moons)
+
+System:
+- GRANGE (r rocky, creased)
+- RYGNIS (+ substellar object)
+- DARKNOK (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - RIMA (f felisian)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (d dusty, craterized)
+- ERION (f felisian)
+  - BARIN (d dusty, craterized)
+  - TIMJU (n thin atmosphere)
+  - ISON (n thin atmosphere)
+- LUSH (f felisian)

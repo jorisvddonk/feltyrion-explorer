@@ -1,0 +1,7 @@
+Star: AS12272227
+Star class: S01
+Paris coordinates: 50748240, 160333, 1991490173
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- AS12272227A (r rocky, creased)

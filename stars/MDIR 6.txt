@@ -1,0 +1,9 @@
+Star: MDIR 6
+Star class: S06
+Paris coordinates: 963568, 43099111, 36623
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+MORE LITHUIM HERE.                                                          

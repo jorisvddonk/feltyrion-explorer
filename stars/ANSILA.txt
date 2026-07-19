@@ -1,0 +1,6 @@
+Star: ANSILA
+Star class: S06
+Paris coordinates: 2864240, 2388214, 7636919
+Bodies: 0 (0 planets, 0 moons)
+
+System:

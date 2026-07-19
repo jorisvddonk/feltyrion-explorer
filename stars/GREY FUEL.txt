@@ -1,0 +1,6 @@
+Star: GREY FUEL
+Star class: S06
+Paris coordinates: 4931408, 4854377, -136562
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: MANIRVA
+Starmap index: 01
+Paris coordinates: 614992, 78560, 1298060

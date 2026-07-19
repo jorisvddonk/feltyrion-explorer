@@ -1,0 +1,45 @@
+Star: ETHANION
+Star class: S01
+Paris coordinates: 3135344, 4250969, 31832
+Bodies: 35 (11 planets, 24 moons)
+
+System:
+- STOGLOL (+ substellar object)
+- GASAND (+ substellar object)
+- CASMANO (r rocky, creased)
+  - LALTA (n thin atmosphere)
+  - SAPHIK (d dusty, craterized)
+- NESKAVA (k thick atmosphere)
+- RORRIK (@ large, not consistent)
+- TONKTONEK (+ substellar object)
+  - SHEKINAH (f felisian)
+  - LOKRAN (@ large, not consistent)
+  - COPHRE (k thick atmosphere)
+  - KASTRON (^ unstable)
+- ASLAC (n thin atmosphere)
+  - AFRION (d dusty, craterized)
+  - EGHAT (d dusty, craterized)
+- ZORG (q quartz surface)
+- BRESU (n thin atmosphere)
+- FAHUM (i icy surface)
+  - KAKOR (n thin atmosphere)
+- BRASSAR (+ substellar object)
+  - RIGAH (d dusty, craterized)
+  - VIGATUL (k thick atmosphere)
+  - OKOTIBE (i icy surface)
+  - JAPORE (i icy surface)
+  - GEDAF (i icy surface)
+  - HUGIB (i icy surface)
+  - TENAX (i icy surface)
+  - DOMUA (i icy surface)
+  - SCHEG (i icy surface)
+  - THRIM (i icy surface)
+  - PHREY (i icy surface)
+  - CHOVO (i icy surface)
+  - QUILA (i icy surface)
+  - BADOC (i icy surface)
+  - OJOMIR (i icy surface)
+
+Guide entries:
+FURTHER NOTES: A CLASS S01 SYSTEM OF 11 PLANETS AND 24 MOONS, ONE
+FELISIAN WORLD. SKINNYMON EPOC 6011 598.815

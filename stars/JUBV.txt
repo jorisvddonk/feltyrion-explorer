@@ -1,0 +1,8 @@
+Star: JUBV
+Star class: S10
+Paris coordinates: -2562480, -10358316, -1899664
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- POHII (k thick atmosphere)
+- ERI (k thick atmosphere)

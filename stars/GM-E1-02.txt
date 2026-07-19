@@ -1,0 +1,6 @@
+Star: GM-E1-02
+Star class: S07
+Paris coordinates: 2750000, 1650000, -2850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

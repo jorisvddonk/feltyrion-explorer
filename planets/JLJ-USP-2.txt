@@ -1,0 +1,7 @@
+Planet: JLJ-USP-2
+Starmap index: 12
+Paris coordinates: 4066416, 4419160, -988413
+
+Guide entries:
+(U)N(S)TABLE (P)LANET, UNABLE TO LAND ON!
+JEREMY JOHNSON, EPOC 6011 - 592.730'S

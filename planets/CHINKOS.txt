@@ -1,0 +1,3 @@
+Planet: CHINKOS
+Starmap index: 02
+Paris coordinates: 4124624, 5257711, 354740

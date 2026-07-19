@@ -1,0 +1,10 @@
+Star: DESSO
+Star class: S06
+Paris coordinates: 2146925328, 1624014, 1300484926
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY DODO C. SNOTTS - 6011:578.360
+(S06) LI+

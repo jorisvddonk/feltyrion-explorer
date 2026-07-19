@@ -1,0 +1,3 @@
+Planet: PRISAO ESTELAR
+Starmap index: 01
+Paris coordinates: 5155696, 4627943, -741144

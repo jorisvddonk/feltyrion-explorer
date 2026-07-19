@@ -1,0 +1,3 @@
+Planet: WADAVIE
+Starmap index: 07
+Paris coordinates: 1656784, 4198096, -1143538

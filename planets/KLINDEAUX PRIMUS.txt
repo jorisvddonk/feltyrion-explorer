@@ -1,0 +1,3 @@
+Planet: KLINDEAUX PRIMUS
+Starmap index: 01
+Paris coordinates: 2147371600, 1054315, 1909573915

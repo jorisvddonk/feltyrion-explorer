@@ -1,0 +1,7 @@
+Planet: KARNING
+Starmap index: 13
+Paris coordinates: 288944, 1046300, -3765986
+
+Guide entries:
+DISCOVERED EPOC 6012 060.854
+ANOTHER WRONG MOON IN MY SEARCH

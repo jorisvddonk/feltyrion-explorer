@@ -1,0 +1,10 @@
+Star: SELIL
+Star class: S06
+Paris coordinates: -100486704, -60253596, -128652
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR SCOPING
+DISCOVERED BY SHAM COURTNEY, 6011:594.591

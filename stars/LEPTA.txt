@@ -1,0 +1,8 @@
+Star: LEPTA
+Star class: S05
+Paris coordinates: 1759632, 5074183, 860417
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LAKTOS (@ large, not consistent)
+- MULONAR (r rocky, creased)

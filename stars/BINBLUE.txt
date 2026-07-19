@@ -1,0 +1,22 @@
+Star: BINBLUE
+Star class: S08
+Paris coordinates: -43376, 4332103, 37107834
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- PURATAN (r rocky, creased)
+- APOCELATE (n thin atmosphere)
+- BINBLUE B (* companion star)
+  - MOBERDIAL (^ unstable)
+  - METALLICS (d dusty, craterized)
+  - DENABLU (f felisian)
+  - ETALECOPA (n thin atmosphere)
+- PINKISH (k thick atmosphere)
+  - ORINYE (d dusty, craterized)
+- DIMGERN (n thin atmosphere)
+  - GREPELO (d dusty, craterized)
+  - PEGRLO (d dusty, craterized)
+
+Guide entries:
+BINARY SYSTEM WITH TWO VERY LIGHT BLUE STARS, 4 PLANETS, AND 7 MOONS
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:628:960

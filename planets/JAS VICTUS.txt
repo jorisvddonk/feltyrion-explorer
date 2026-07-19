@@ -1,0 +1,6 @@
+Planet: JAS VICTUS
+Starmap index: 03
+Paris coordinates: 5544976, 4364947, 115791
+
+Guide entries:
+DISCOVERED BY ORTEGA, EPOCH 6011:621.649

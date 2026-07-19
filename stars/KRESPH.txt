@@ -1,0 +1,10 @@
+Star: KRESPH
+Star class: S03
+Paris coordinates: 4886768, 4502840, -792512
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DORCIND (r rocky, creased)
+
+Guide entries:
+DISCOVERED IN EPOCH 6011:621.702 BY ORTEGA.

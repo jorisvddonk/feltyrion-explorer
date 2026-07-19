@@ -1,0 +1,33 @@
+Star: DISTO
+Star class: S04
+Paris coordinates: 363568, 122957, 460932
+Bodies: 27 (8 planets, 19 moons)
+
+System:
+- EMERALD'S EYE (r rocky, creased)
+- CROON (q quartz surface)
+- BLUE MARS (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- SJUN (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (f felisian)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (d dusty, craterized)
+- RUDMO (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- TUNDROME (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- MONOTH (r rocky, creased)
+  - SULPHUS (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- FROS (i icy surface)
+  - Moon #0 (i icy surface)
+  - CRATOR (d dusty, craterized)

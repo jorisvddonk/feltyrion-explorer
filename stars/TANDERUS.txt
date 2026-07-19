@@ -1,0 +1,9 @@
+Star: TANDERUS
+Star class: S06
+Paris coordinates: 3759632, 4375620, -1297103
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: A LITHIUM BEARING STAR. SKINNYMON EPOC 6011 570.945

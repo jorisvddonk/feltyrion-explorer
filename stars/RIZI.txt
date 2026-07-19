@@ -1,0 +1,31 @@
+Star: RIZI
+Star class: S04
+Paris coordinates: 3628560, 4254023, -915798
+Bodies: 21 (6 planets, 15 moons)
+
+System:
+- SEMI KOMA (n thin atmosphere)
+- EYE OF HORUS (+ substellar object)
+- ROSEBEAD (@ large, not consistent)
+  - DISNEY (d dusty, craterized)
+  - MAGMAR (^ unstable)
+  - GOLDILOX (q quartz surface)
+  - KOMA (n thin atmosphere)
+  - GOLDILOX 2 (q quartz surface)
+  - KOMA 2 (n thin atmosphere)
+  - BARET (q quartz surface)
+  - GOLDILOX 3 (d dusty, craterized)
+  - HIGHLANDS (q quartz surface)
+  - KOMA 3 (n thin atmosphere)
+- TATOOINE (d dusty, craterized)
+  - AKIN (n thin atmosphere)
+- WHITEY (d dusty, craterized)
+  - GOBLYN (n thin atmosphere)
+- BLACKLANDS (f felisian)
+  - TURANZA (d dusty, craterized)
+  - ENTU (d dusty, craterized)
+  - SOA (d dusty, craterized)
+
+Guide entries:
+ FOUNDED BY REZA EPOC 6011, 678.970.521                                     
+6 PLANETS, SOME BREATHABLE PLANETS/MOONS. (REZA, EPOC 6011, 678.979.293)    

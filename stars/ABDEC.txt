@@ -1,0 +1,9 @@
+Star: ABDEC
+Star class: S06
+Paris coordinates: -663568, 52491012, -30188
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CONVENIENT PLACE TO STOP FOR FUEL THIS FAR OUT (TWOTWOS, 6012:247.163)

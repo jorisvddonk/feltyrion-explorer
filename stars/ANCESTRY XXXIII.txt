@@ -1,0 +1,9 @@
+Star: ANCESTRY XXXIII
+Star class: S10
+Paris coordinates: -1426131824, 1861456, 1434942912
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S10 WITH NO PLANETS. RYAN GJK E6011.785.82.0                             

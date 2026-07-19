@@ -1,0 +1,9 @@
+Star: PALPATINE
+Star class: S08
+Paris coordinates: 2494640, 4026202, -1796825
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ NO PLANETS IN HERE

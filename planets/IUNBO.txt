@@ -1,0 +1,3 @@
+Planet: IUNBO
+Starmap index: 23
+Paris coordinates: -314992, -16059700, -1548818

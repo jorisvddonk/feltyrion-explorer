@@ -1,0 +1,12 @@
+Star: ISTOAS
+Star class: S10
+Paris coordinates: 2146681360, 1254766, 900137406
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ISTOAS PRIME (@ large, not consistent)
+- ISTOAS SECUNDUS (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:785.835
+(S10) 2 PLANETS / 0 MINOR

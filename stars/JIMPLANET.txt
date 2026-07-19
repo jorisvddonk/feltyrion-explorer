@@ -1,0 +1,6 @@
+Star: JIMPLANET
+Star class: S06
+Paris coordinates: 3528560, 4522694, -785781
+Bodies: 0 (0 planets, 0 moons)
+
+System:

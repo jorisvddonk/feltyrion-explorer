@@ -1,0 +1,7 @@
+Star: ANCESTRY XIII
+Star class: S07
+Paris coordinates: -1419343632, 988662, 1433382118
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GLOBULE-1 (+ substellar object)

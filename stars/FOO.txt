@@ -1,0 +1,23 @@
+Star: FOO
+Star class: S08
+Paris coordinates: 276048, 4630197, 5098758
+Bodies: 14 (4 planets, 10 moons)
+
+System:
+- DESERT (n thin atmosphere)
+- BAR (* companion star)
+- FOOBAR (@ large, not consistent)
+  - PROBABLY LIKE HELL (^ unstable)
+  - P-SOOP (k thick atmosphere)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (k thick atmosphere)
+
+Guide entries:
+(DISCOVERED 6011:571.352 BY SHADOWCLAW)

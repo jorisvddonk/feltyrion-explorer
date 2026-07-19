@@ -1,0 +1,19 @@
+Star: ASTRO PATH A33
+Star class: S09
+Paris coordinates: 7057200, 4796262, -20244620
+Bodies: 13 (3 planets, 10 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (n thin atmosphere)

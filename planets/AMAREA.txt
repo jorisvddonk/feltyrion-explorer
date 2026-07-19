@@ -1,0 +1,7 @@
+Planet: AMAREA
+Starmap index: 06
+Paris coordinates: 3559632, 3619846, -947936
+
+Guide entries:
+DISCOVERED BY MIGUEL MOURA EPOC 6011:588.833
+THERE IS LIFE!BIRDS...

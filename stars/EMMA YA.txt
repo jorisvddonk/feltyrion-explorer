@@ -1,0 +1,10 @@
+Star: EMMA YA
+Star class: S06
+Paris coordinates: 3129648, 4755058, -4219207
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: S06 STAR, SUITABLE FOR SCOPING. SKINNYMON EPOC 6011
+569.929

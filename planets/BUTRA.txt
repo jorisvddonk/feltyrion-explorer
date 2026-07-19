@@ -1,0 +1,6 @@
+Planet: BUTRA
+Starmap index: 02
+Paris coordinates: 3290704, 5637570, -892839
+
+Guide entries:
+MED SIZED THICK ATMOSPHERE FULLY COVERED IN CLOUDS (KRUSTY 6011:596.546)

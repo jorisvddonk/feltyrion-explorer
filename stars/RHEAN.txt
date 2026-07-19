@@ -1,0 +1,11 @@
+Star: RHEAN
+Star class: S05
+Paris coordinates: 4574288, 7137787, -4893775
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- REKA (n thin atmosphere)
+- STOLO (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.197

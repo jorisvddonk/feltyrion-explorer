@@ -1,0 +1,6 @@
+Planet: MEKK
+Starmap index: 13
+Paris coordinates: 4142128, 4782625, -641787
+
+Guide entries:
+UNSTABLE SURFACE(RAPTORJEDI EPOC 6011 605.147)

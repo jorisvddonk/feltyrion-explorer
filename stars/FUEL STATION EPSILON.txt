@@ -1,0 +1,6 @@
+Star: FUEL STATION EPSILON
+Star class: S06
+Paris coordinates: -70184912, -1167185, 132045958
+Bodies: 0 (0 planets, 0 moons)
+
+System:

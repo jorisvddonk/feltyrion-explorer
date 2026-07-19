@@ -1,0 +1,38 @@
+Star: BEAUTY AND THE BEAST
+Star class: S00
+Paris coordinates: -1170352, -263451, 180140
+Bodies: 29 (10 planets, 19 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- THE BEAUTY (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #7 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- THE BEAST (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ PLANET O7, THE BEAUTY, HAS MANY AREAS COVERED WITH TREES

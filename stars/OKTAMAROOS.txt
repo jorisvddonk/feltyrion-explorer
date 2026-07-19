@@ -1,0 +1,9 @@
+Star: OKTAMAROOS
+Star class: S06
+Paris coordinates: 1370352, 62614802, -204606
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. DISCOVERED BY NEUZD, 6011:798.830                     

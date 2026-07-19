@@ -1,0 +1,49 @@
+Star: GREASYKIDSTUFF
+Star class: S08
+Paris coordinates: 4187856, 4758060, -3857377
+Bodies: 35 (7 planets, 28 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- DUBBLE-YU (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - MAXANDKATE (f felisian)
+  - Moon #2 (^ unstable)
+- EFF (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (q quartz surface)
+- EMM (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (+ substellar object)
+  - HOVA (f felisian)
+  - BELINDA (f felisian)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (^ unstable)
+- Planet #5 (d dusty, craterized)
+- YUU (* companion star)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - PATRICK (f felisian)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (+ substellar object)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (@ large, not consistent)
+
+Guide entries:
+S08 STAR WITH 4 COMPANIONS
+FOUND BY RICHARD SOLENSKY EPOC 6011:566-340-728
+4 FELISIAN PLANETS IN SYSTEM
+R02/03, R05/05, R06/05, R04/07
+NAMED FOR A REALLY COOL RADIO SHOW
+CHECK IT OUT AT WWW.WFMU.ORG/GKS

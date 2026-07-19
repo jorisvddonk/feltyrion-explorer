@@ -1,0 +1,22 @@
+Star: GABOL
+Star class: S04
+Paris coordinates: 3717168, -357866, -9332558
+Bodies: 16 (7 planets, 9 moons)
+
+System:
+- GABOL-A (n thin atmosphere)
+- GABOL-B (n thin atmosphere)
+- GABOL-C (@ large, not consistent)
+  - GABOL-C-S1 (n thin atmosphere)
+  - GABOL-C-S2 (n thin atmosphere)
+  - GABOL-C-S3 (k thick atmosphere)
+  - GABOL-C-S4 (k thick atmosphere)
+- GABOL-D (d dusty, craterized)
+  - GABOL-D-S1 (d dusty, craterized)
+- GABOL-E (n thin atmosphere)
+- GABOL-F (n thin atmosphere)
+  - GABOL-F-S1 (d dusty, craterized)
+  - GABOL-F-S2 (d dusty, craterized)
+- GABOL-G (q quartz surface)
+  - GABOL-G-S1 (d dusty, craterized)
+  - GABOL-G-S2 (d dusty, craterized)

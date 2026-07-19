@@ -1,0 +1,3 @@
+Planet: WTOUTPOSTPLANET
+Starmap index: 04
+Paris coordinates: -26835184, 3915457, -12828912

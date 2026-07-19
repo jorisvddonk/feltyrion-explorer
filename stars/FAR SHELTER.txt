@@ -1,0 +1,10 @@
+Star: FAR SHELTER
+Star class: S06
+Paris coordinates: -456784, -67829391, 265953
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A NICE SUPPLY OF LITHIUM IF YOU ARE AS FAR FROM HOME AS I AM NOW.
+ NOTES BY JAFO EPOC 6011:577:305.

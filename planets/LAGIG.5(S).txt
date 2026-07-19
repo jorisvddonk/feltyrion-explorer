@@ -1,0 +1,3 @@
+Planet: LAGIG.5(S)
+Starmap index: 05
+Paris coordinates: 1377136, 5474191, 421310

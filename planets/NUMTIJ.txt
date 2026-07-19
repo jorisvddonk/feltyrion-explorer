@@ -1,0 +1,8 @@
+Planet: NUMTIJ
+Starmap index: 06
+Paris coordinates: 633440592, -10656950, 50122346
+
+Guide entries:
+M01/P04 A PALE GREENISH REFLECTIVITY TO A DUSTY WORLD WITH LARGE            
+CRATERS WITH BARELY DETECTABLE RAYS. PRO 0.226.440; PRV 0.003.200.959       
+SKINNYMON 6011 893.150                                                      

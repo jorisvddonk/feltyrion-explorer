@@ -1,0 +1,3 @@
+Planet: ASKEW 94L2
+Starmap index: 41
+Paris coordinates: 11000592, -19136819, 17086009

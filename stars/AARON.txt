@@ -1,0 +1,9 @@
+Star: AARON
+Star class: S03
+Paris coordinates: 3083920, 4448212, -1126274
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY SIRKING, EPOC 6011.687                                   

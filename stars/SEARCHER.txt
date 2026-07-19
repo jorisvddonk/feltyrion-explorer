@@ -1,0 +1,11 @@
+Star: SEARCHER
+Star class: S00
+Paris coordinates: 2263568, 5263563, -1485699
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CASTOFF (@ large, not consistent)
+- FAILED (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MURRMURR EPOC 6011:608.499.889

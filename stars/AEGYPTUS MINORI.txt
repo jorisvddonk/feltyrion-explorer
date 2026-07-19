@@ -1,0 +1,12 @@
+Star: AEGYPTUS MINORI
+Star class: S00
+Paris coordinates: 3683920, 4421661, -1714035
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LUXORIS (q quartz surface)
+
+Guide entries:
+THIS STAR HAS A SINGLE PLANET NAMED LUXORIS
+SO NAMED BECAUSE OF PYRAMID-LIKE FORMATIONS EQUIDISTANT FROM
+EACH OTHER.

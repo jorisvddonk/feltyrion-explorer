@@ -1,0 +1,3 @@
+Planet: JASUH
+Starmap index: 05
+Paris coordinates: -600336, 1926450, -4140651

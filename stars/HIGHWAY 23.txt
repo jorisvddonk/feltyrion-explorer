@@ -1,0 +1,13 @@
+Star: HIGHWAY 23
+Star class: S11
+Paris coordinates: -15225040, -4868587, 24365204
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)

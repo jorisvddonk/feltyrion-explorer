@@ -1,0 +1,6 @@
+Planet: LUVIANOR
+Starmap index: 03
+Paris coordinates: 4551760, 4429306, 1490521
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.681.407 -                               

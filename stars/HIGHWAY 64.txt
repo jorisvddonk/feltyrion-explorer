@@ -1,0 +1,6 @@
+Star: HIGHWAY 64
+Star class: S10
+Paris coordinates: 350000, 1444008, -157648
+Bodies: 0 (0 planets, 0 moons)
+
+System:

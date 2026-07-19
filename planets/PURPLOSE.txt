@@ -1,0 +1,3 @@
+Planet: PURPLOSE
+Starmap index: 04
+Paris coordinates: -61432592, 29503545, 839249

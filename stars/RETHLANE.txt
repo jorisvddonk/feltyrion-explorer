@@ -1,0 +1,11 @@
+Star: RETHLANE
+Star class: S06
+Paris coordinates: 2147466544, 815779, 1758463283
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:585.693
+(S06) L+
+COORDINATES = 2147466544,815779,1758463283

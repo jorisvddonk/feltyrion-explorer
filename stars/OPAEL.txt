@@ -1,0 +1,10 @@
+Star: OPAEL
+Star class: S00
+Paris coordinates: 1446064, 819346, 444100
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (d dusty, craterized)
+  - MASC (n thin atmosphere)

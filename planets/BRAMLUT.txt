@@ -1,0 +1,3 @@
+Planet: BRAMLUT
+Starmap index: 02
+Paris coordinates: 3866416, 4913508, -773355

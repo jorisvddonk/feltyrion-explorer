@@ -1,0 +1,10 @@
+Star: LITHIO VI
+Star class: S06
+Paris coordinates: 26584688, 6281600, 45052035
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S06 STAR THAT EMITS LITHIUM.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:633:734

@@ -1,0 +1,6 @@
+Planet: PERINGTON
+Starmap index: 10
+Paris coordinates: 3405360, 5347404, -3994355
+
+Guide entries:
+DISCOVERED BY CAPT. LUTHER ON EPOC:6011:661.26

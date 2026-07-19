@@ -1,0 +1,8 @@
+Star: FRED
+Star class: S09
+Paris coordinates: 4273200, 4548925, -919130
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (+ substellar object)

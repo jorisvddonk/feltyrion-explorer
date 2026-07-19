@@ -1,0 +1,9 @@
+Star: FEWL 1
+Star class: S06
+Paris coordinates: 4166416, 4022099, -1301973
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FIRST GRAY GIANT STAR DISCOVERED BY ERIDANI ON 6011.816.361                 

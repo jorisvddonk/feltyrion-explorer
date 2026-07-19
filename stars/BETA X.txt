@@ -1,0 +1,54 @@
+Star: BETA X
+Star class: S03
+Paris coordinates: 191792, 393743, -1607331
+Bodies: 43 (15 planets, 28 moons)
+
+System:
+- RUNGS (d dusty, craterized)
+- SIRWL (@ large, not consistent)
+- DIMESS (n thin atmosphere)
+  - DESOGET (d dusty, craterized)
+  - DEYE (n thin atmosphere)
+- SELLO (+ substellar object)
+  - JEGSTE (d dusty, craterized)
+  - COCONEE (d dusty, craterized)
+  - RUMELETEN (r rocky, creased)
+  - PLEAR (r rocky, creased)
+  - GERNAIN (d dusty, craterized)
+  - PEARLUE (k thick atmosphere)
+- LLONE (d dusty, craterized)
+- DOUEK (n thin atmosphere)
+  - PYREDIAL (^ unstable)
+  - TRIK (d dusty, craterized)
+- GELNON (n thin atmosphere)
+- DISTELIM (n thin atmosphere)
+  - BERLYE (d dusty, craterized)
+- MOTTIN (r rocky, creased)
+  - YENNEN (d dusty, craterized)
+- TENIOS (d dusty, craterized)
+  - SPARKSI (d dusty, craterized)
+- COLISM (@ large, not consistent)
+  - YEMIN (n thin atmosphere)
+  - FRENZID (d dusty, craterized)
+  - CETERLES (i icy surface)
+- COLLED (q quartz surface)
+- LUMENPE (r rocky, creased)
+- SNOCOLO (q quartz surface)
+- PERDISTA (@ large, not consistent)
+  - PATTI (k thick atmosphere)
+  - THENILEN (i icy surface)
+  - JILEN (i icy surface)
+  - CHIDIEL (i icy surface)
+  - DOTEY (n thin atmosphere)
+  - DERLEIN (i icy surface)
+  - OTELAS (i icy surface)
+  - CYENSI (i icy surface)
+  - AREGOB (i icy surface)
+  - IONIYE (i icy surface)
+  - UNILIP (i icy surface)
+  - ORILEKEN (i icy surface)
+
+Guide entries:
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:621:195
+ADDITIONAL NOTES: STAR IS AN S03 WITH 15 PLANETS AND 28 MOONS.
+SADLY, NO FELYSIAN WORLDS.

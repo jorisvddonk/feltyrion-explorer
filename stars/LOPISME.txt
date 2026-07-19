@@ -1,0 +1,6 @@
+Star: LOPISME
+Star class: S07
+Paris coordinates: 5750000, 750000, -5850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

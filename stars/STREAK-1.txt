@@ -1,0 +1,12 @@
+Star: STREAK-1
+Star class: S10
+Paris coordinates: 4779984, 5593547, -880678
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FIRE ESCAPE (q quartz surface)
+
+Guide entries:
+EVEN THOUGH THE COMPUTER MIGHT SAY THAT S10 STARS ARE SUITABLE FOR
+PLANETS, I HAVE FOUND THIS ONE TO HAVE 1 PLANET IN ITS ORBIT.
+(JUS,6011.578.788)

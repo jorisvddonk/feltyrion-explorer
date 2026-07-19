@@ -1,0 +1,13 @@
+Star: DHAAKLIS
+Star class: S02
+Paris coordinates: 1221776, 30469986, 1131986
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- STREYAPAR (n thin atmosphere)
+- TRISEY (n thin atmosphere)
+- FENFH (@ large, not consistent)
+- FENVEN (@ large, not consistent)
+- HSYLEY (d dusty, craterized)
+- YAKRE (d dusty, craterized)
+- KREAYYL (d dusty, craterized)

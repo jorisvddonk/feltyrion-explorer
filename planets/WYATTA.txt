@@ -1,0 +1,3 @@
+Planet: WYATTA
+Starmap index: 04
+Paris coordinates: 1767504, 5026307, -2737367

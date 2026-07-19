@@ -1,0 +1,10 @@
+Star: THIMBEL I
+Star class: S05
+Paris coordinates: 26722544, 6517883, 45254190
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S05 STAR OF LITTLE NOTE.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:783

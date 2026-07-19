@@ -1,0 +1,6 @@
+Star: NOT HERE
+Star class: S06
+Paris coordinates: -57094224, 199269, 43046540
+Bodies: 0 (0 planets, 0 moons)
+
+System:

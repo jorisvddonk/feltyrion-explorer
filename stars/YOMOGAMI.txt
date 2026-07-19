@@ -1,0 +1,10 @@
+Star: YOMOGAMI
+Star class: S06
+Paris coordinates: 105360, -66375585, -663681
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ IT'S A S06 CLASS UNSUITABLE FOR REFUELLING (NOTES BY JAFO EPOC 6011:
+(579.119)

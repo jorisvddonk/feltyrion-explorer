@@ -1,0 +1,8 @@
+Planet: FOSSE
+Starmap index: 70
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+ FOSSED DISCOVERED BY MISTRAL, EPOC 6011.797.808                            
+SMALL ICY MOON, PRESUMABLY HAS NO LIFE                                      
+(NOTES BY MISTRAL, EPOC 6011.797.808)                                       

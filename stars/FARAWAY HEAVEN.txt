@@ -1,0 +1,30 @@
+Star: FARAWAY HEAVEN
+Star class: S00
+Paris coordinates: 2099011568, -659653, -980629
+Bodies: 24 (10 planets, 14 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (^ unstable)
+- FW DREAM (f felisian)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (i icy surface)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (i icy surface)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)

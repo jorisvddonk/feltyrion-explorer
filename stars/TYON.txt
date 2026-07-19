@@ -1,0 +1,6 @@
+Star: TYON
+Star class: S06
+Paris coordinates: 8246064, 5339377, -6421441
+Bodies: 0 (0 planets, 0 moons)
+
+System:

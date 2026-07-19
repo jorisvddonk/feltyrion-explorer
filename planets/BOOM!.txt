@@ -1,0 +1,3 @@
+Planet: BOOM!
+Starmap index: 02
+Paris coordinates: -70979568, -748790, 53950431

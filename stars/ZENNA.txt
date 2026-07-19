@@ -1,0 +1,15 @@
+Star: ZENNA
+Star class: S11
+Paris coordinates: 3059632, 5632348, -554450
+Bodies: 6 (5 planets, 1 moons)
+
+System:
+- OOL'REI (n thin atmosphere)
+- GALLA (d dusty, craterized)
+- POPCORN (d dusty, craterized)
+  - ICEBRICK (i icy surface)
+- SKRIT (d dusty, craterized)
+- SOLGA (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.187

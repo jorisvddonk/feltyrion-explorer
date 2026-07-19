@@ -1,0 +1,6 @@
+Star: NAZERV OOU
+Star class: S00
+Paris coordinates: 1350000, 51850000, -1450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

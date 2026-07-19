@@ -1,0 +1,33 @@
+Star: EISHIEJARJEM
+Star class: S00
+Paris coordinates: 780585168, -2058199, 143641
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- HLEVAISAS (r rocky, creased)
+- USJALARJE (@ large, not consistent)
+- EUETALISIS (k thick atmosphere)
+  - JRIKARJIM (n thin atmosphere)
+- EXINANLO (f felisian)
+  - EISOMJARJE (d dusty, craterized)
+  - USIRISIM (n thin atmosphere)
+  - EUDMATEARSI (d dusty, craterized)
+- VAMEVARI (+ substellar object)
+  - KARSESIART (n thin atmosphere)
+  - USERIORO (k thick atmosphere)
+  - ARKIRJART (r rocky, creased)
+  - KSIADALSIS (q quartz surface)
+  - TALSIDE (^ unstable)
+  - HLISADARSI (d dusty, craterized)
+  - VAJEAMARSI (d dusty, craterized)
+  - PRAEGREDIOR (f felisian)
+  - KARSOIARJE (q quartz surface)
+  - VALJARJI (^ unstable)
+  - ORJARSI (^ unstable)
+- AJIURJARDE (k thick atmosphere)
+  - ODIATEIH (n thin atmosphere)
+
+Guide entries:
+CLASS S00 SYSTEM OF 6 PLANETS, 16 MOONS. 2 FELISIAN WORLDS.
+1.18414378 BAL. M.; TEMP 6139 K.; RAD 22 KR; COOR 780585168;
+-2058199; 143641 SKINNYMON 6011.941.982

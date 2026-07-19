@@ -1,0 +1,8 @@
+Planet: TRIUN
+Starmap index: 02
+Paris coordinates: 4924624, 4489659, -461091
+
+Guide entries:
+SECOND 'PLANET' OF THE TRIATURN SYSTEM. IT HAS 2 'MOONS'. IT'S ACTUALLY     
+A STAR, NOT A PLANET.                                                       
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:712.0.917)                             

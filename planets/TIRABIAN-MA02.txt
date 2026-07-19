@@ -1,0 +1,6 @@
+Planet: TIRABIAN-MA02
+Starmap index: 02
+Paris coordinates: 5455696, 4398585, -1344889
+
+Guide entries:
+UNEXPLORED. -ORTEGA, EPOCH 6011.621.700

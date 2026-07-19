@@ -1,0 +1,10 @@
+Star: CARREA
+Star class: S06
+Paris coordinates: -1438192, 4830566, -3515328
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:575.446

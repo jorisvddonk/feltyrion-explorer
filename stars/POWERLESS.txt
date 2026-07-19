@@ -1,0 +1,6 @@
+Star: POWERLESS
+Star class: S06
+Paris coordinates: 3897488, 4924932, -1082120
+Bodies: 0 (0 planets, 0 moons)
+
+System:

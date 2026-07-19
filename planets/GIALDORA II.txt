@@ -1,0 +1,3 @@
+Planet: GIALDORA II
+Starmap index: 02
+Paris coordinates: 3473200, 4782739, 43271

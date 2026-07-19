@@ -1,0 +1,6 @@
+Star: OUTER CHARGER
+Star class: S06
+Paris coordinates: -644976, 6146615, -4894863
+Bodies: 0 (0 planets, 0 moons)
+
+System:

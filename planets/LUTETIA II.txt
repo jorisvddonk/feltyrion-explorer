@@ -1,0 +1,3 @@
+Planet: LUTETIA II
+Starmap index: 13
+Paris coordinates: -21079728, -5503307, 40686823

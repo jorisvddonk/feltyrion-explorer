@@ -1,0 +1,9 @@
+Star: ION
+Star class: S06
+Paris coordinates: 4018928, 4289397, -3820926
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NAMED BY DEREK YEUNG 6011 581.33.150

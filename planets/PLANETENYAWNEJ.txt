@@ -1,0 +1,3 @@
+Planet: PLANETENYAWNEJ
+Starmap index: 04
+Paris coordinates: 1828560, 7610451, 948905

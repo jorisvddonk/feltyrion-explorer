@@ -1,0 +1,10 @@
+Star: CLOCKWORK ORANGE
+Star class: S04
+Paris coordinates: 5162480, 4492639, -425772
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GIANT, LONELY ORANGE STAR...
+CALEB, 6011:567.914

@@ -1,0 +1,3 @@
+Planet: GOUL DRAAN
+Starmap index: 24
+Paris coordinates: -387728, 331391, 626160721

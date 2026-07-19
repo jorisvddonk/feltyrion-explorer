@@ -1,0 +1,9 @@
+Star: KROPOTKIN
+Star class: S06
+Paris coordinates: 4579984, 4437351, -910313
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.269

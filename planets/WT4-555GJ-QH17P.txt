@@ -1,0 +1,3 @@
+Planet: WT4-555GJ-QH17P
+Starmap index: 12
+Paris coordinates: 3290704, 4837570, -933229

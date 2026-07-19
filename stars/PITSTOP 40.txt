@@ -1,0 +1,8 @@
+Star: PITSTOP 40
+Star class: S05
+Paris coordinates: 184912, 5956, 1986074436
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PITSTOP 40A (r rocky, creased)
+- PITSTOP 40B (r rocky, creased)

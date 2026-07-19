@@ -1,0 +1,6 @@
+Planet: FYA
+Starmap index: 17
+Paris coordinates: 974288, -67378933, -1309413
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:584:404

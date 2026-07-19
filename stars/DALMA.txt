@@ -1,0 +1,27 @@
+Star: DALMA
+Star class: S09
+Paris coordinates: 4397488, 4379550, -1527000
+Bodies: 17 (4 planets, 13 moons)
+
+System:
+- SUTERNACE (@ large, not consistent)
+- EPTIC (^ unstable)
+- ARS (@ large, not consistent)
+  - SMELF (n thin atmosphere)
+  - DRUMB (d dusty, craterized)
+  - FRIRF (k thick atmosphere)
+  - CRASK (n thin atmosphere)
+  - TRYK (d dusty, craterized)
+  - FRULD (^ unstable)
+  - VEZYUK (q quartz surface)
+  - TAGIAN (d dusty, craterized)
+  - LADIAN (n thin atmosphere)
+  - GITAIN (n thin atmosphere)
+  - WABUUK (r rocky, creased)
+  - HASEON (q quartz surface)
+- FALPON (d dusty, craterized)
+  - BAYBOT (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S09 SYSTEM OF 4 PLANETS AND 13 MOONS. NOPE,
+NOTHING FELISIAN, NOT A SPECK. SORRY! SKINNYMON EPOC 6011 592.763

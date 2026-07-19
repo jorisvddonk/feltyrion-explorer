@@ -1,0 +1,40 @@
+Star: HALKAHR
+Star class: S00
+Paris coordinates: 2990704, 1545929, -553777
+Bodies: 30 (12 planets, 18 moons)
+
+System:
+- FORDARIS (@ large, not consistent)
+- KUDAHL (r rocky, creased)
+- BALDORAK (f felisian)
+- BRUTAHR (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- FELBRAN (f felisian)
+  - BURNAHL (^ unstable)
+- Planet #6 (+ substellar object)
+  - Moon #0 (i icy surface)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - RITSKY (f felisian)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (r rocky, creased)
+  - FELAQUA (f felisian)
+  - Moon #12 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (r rocky, creased)
+- Planet #9 (d dusty, craterized)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #11 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:584.348.402
+CLASS S00. (BJS)

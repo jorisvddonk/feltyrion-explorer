@@ -1,0 +1,3 @@
+Planet: EKATERINA
+Starmap index: 13
+Paris coordinates: 3579984, 4607492, 169632

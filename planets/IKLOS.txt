@@ -1,0 +1,7 @@
+Planet: IKLOS
+Starmap index: 12
+Paris coordinates: 2140833520, -2641384, 1001352
+
+Guide entries:
+M02/P06 SMALL DUSTY LARGE CRATERS TURN GREEN COLORS WHITE WITH RAYS.        
+PRO 0.189.720 PRV 0.004.090.549 SKINNYMON 6011 791.492                      

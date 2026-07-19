@@ -1,0 +1,3 @@
+Planet: TESAL 3
+Starmap index: 03
+Paris coordinates: 110558800, 2821237, -80852784

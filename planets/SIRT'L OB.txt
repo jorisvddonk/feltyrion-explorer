@@ -1,0 +1,3 @@
+Planet: SIRT'L OB
+Starmap index: 08
+Paris coordinates: -1862480, -12887279, -2575254

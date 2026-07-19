@@ -1,0 +1,6 @@
+Planet: BLADE FIELDS
+Starmap index: 06
+Paris coordinates: 2452848, 6151009, -358039
+
+Guide entries:
+ NIL WITTHANEYE 6011 666.538.335 APPROX

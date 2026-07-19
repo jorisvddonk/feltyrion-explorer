@@ -1,0 +1,7 @@
+Planet: AURIMICA
+Starmap index: 06
+Paris coordinates: -670352, 535653, -403983
+
+Guide entries:
+DISCOVERED BY LOGAN WALKER, EPOC 6011.612.822
+IMPOSSIBLE TO LAND ON

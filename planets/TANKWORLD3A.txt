@@ -1,0 +1,3 @@
+Planet: TANKWORLD3A
+Starmap index: 03
+Paris coordinates: 6244976, 6921378, -565403

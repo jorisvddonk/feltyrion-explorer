@@ -1,0 +1,3 @@
+Planet: GULASCH
+Starmap index: 08
+Paris coordinates: 4366416, 4339783, -1219192

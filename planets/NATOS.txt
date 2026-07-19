@@ -1,0 +1,3 @@
+Planet: NATOS
+Starmap index: 07
+Paris coordinates: 1323536, 2117778, 6972572

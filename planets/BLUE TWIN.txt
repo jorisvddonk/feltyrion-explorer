@@ -1,0 +1,6 @@
+Planet: BLUE TWIN
+Starmap index: 05
+Paris coordinates: 4866416, 4334985, -1779783
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 563.20.722

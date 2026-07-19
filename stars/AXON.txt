@@ -1,0 +1,15 @@
+Star: AXON
+Star class: S00
+Paris coordinates: 271440, 6335982, -2700286
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- VOORD (r rocky, creased)
+- KARN (n thin atmosphere)
+- FELIS GRIS (f felisian)
+  - DIANUS (n thin atmosphere)
+  - BOLUS (d dusty, craterized)
+- LEPUS VERDE (f felisian)
+- MYRKA (n thin atmosphere)
+  - BLUE MIDGET (n thin atmosphere)
+  - WHITE MIDGET (d dusty, craterized)

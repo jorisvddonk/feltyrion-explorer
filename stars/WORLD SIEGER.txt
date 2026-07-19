@@ -1,0 +1,7 @@
+Star: WORLD SIEGER
+Star class: S10
+Paris coordinates: 3052848, 4243317, -846214
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PIT OF END (+ substellar object)

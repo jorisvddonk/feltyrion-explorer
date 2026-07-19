@@ -1,0 +1,13 @@
+Star: ANTIPODES INCOGNITO
+Star class: S11
+Paris coordinates: 2141206384, -1103101, -960429
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FAWAA (n thin atmosphere)
+
+Guide entries:
+ S11 STAR OVER 50 L.Y. FROM LISTA 308. PROBABLY NOT TO BE                   
+RECORDED AS EXTANT. HAS ONE LONE PLANET, THIN ATMO.                         
+1.06654513 BAL. M. TEMP 109483 K RAD 31000-38000 KR COR                     
+2141206384;-1103101;-960429 SKINNYMON EPOC 6011 791.341                     

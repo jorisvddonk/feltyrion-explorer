@@ -1,0 +1,13 @@
+Star: MUNCH
+Star class: S00
+Paris coordinates: 4824624, 3836514, -419305
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+- CAKE (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

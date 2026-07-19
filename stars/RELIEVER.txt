@@ -1,0 +1,20 @@
+Star: RELIEVER
+Star class: S00
+Paris coordinates: -25712, -154450, -327558
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- RACHILLA (@ large, not consistent)
+- SWARM (r rocky, creased)
+- SELDOM (d dusty, craterized)
+- RAISE (k thick atmosphere)
+  - GAPE (d dusty, craterized)
+- VERITY (f felisian)
+  - TILT (n thin atmosphere)
+  - HYALINE (d dusty, craterized)
+- FALSEHOOD (f felisian)
+- POSY (k thick atmosphere)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 7 PLANETS AND 3 MOONS, TWO FELISIAN WORLDS.
+SKINNYMON EPOC 6011 581.171

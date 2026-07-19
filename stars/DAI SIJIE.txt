@@ -1,0 +1,9 @@
+Star: DAI SIJIE
+Star class: S07
+Paris coordinates: 256784, 74201, 62198
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.343

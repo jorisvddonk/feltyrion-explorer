@@ -1,0 +1,6 @@
+Star: GRANNY
+Star class: S06
+Paris coordinates: -38116752, 1444289, 30432392
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,11 @@
+Star: BLUEK
+Star class: S07
+Paris coordinates: -1994744880, 121633, 1270993
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- WHYEL (+ substellar object)
+
+Guide entries:
+S07 WITH ONLY ONE PLANET, WHYEL, THE USUAL SUBSTELLAR OBJECT.               
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:652:737                             

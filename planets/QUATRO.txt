@@ -1,0 +1,6 @@
+Planet: QUATRO
+Starmap index: 04
+Paris coordinates: 656784, 3257779, -309914
+
+Guide entries:
+ DISCOVERED BY SHADOW151 6011.633.973                                       

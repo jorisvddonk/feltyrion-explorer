@@ -1,0 +1,19 @@
+Star: ASKEW 35
+Star class: S03
+Paris coordinates: 11865584, -18961787, 17976433
+Bodies: 13 (9 planets, 4 moons)
+
+System:
+- ASKEW 35A (n thin atmosphere)
+- ASKEW 35B (@ large, not consistent)
+- KELLEGAR (^ unstable)
+  - ASKEW 35C1 (n thin atmosphere)
+- ASKEW 35D (d dusty, craterized)
+- FARADAY (k thick atmosphere)
+  - ASKEW 35E1 (d dusty, craterized)
+  - ASKEW 35E2 (d dusty, craterized)
+- ASKEW 35F (d dusty, craterized)
+- ASKEW 35G (n thin atmosphere)
+- SCHELLASEL (q quartz surface)
+- ASKEW 35I (r rocky, creased)
+  - ASKEW 35I1 (n thin atmosphere)

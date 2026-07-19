@@ -1,0 +1,16 @@
+Star: GLADIOLAS
+Star class: S00
+Paris coordinates: 3208208, 5136752, -1642150
+Bodies: 10 (4 planets, 6 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (q quartz surface)
+- Planet #2 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- HYPERTRILL (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)

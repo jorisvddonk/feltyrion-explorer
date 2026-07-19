@@ -1,0 +1,22 @@
+Star: YANDANG
+Star class: S01
+Paris coordinates: 2146669776, 1827509, 2000728165
+Bodies: 11 (7 planets, 4 moons)
+
+System:
+- YANDANG PRIMUS (n thin atmosphere)
+- YANDANG SECUNDUS (d dusty, craterized)
+- YANDANG TRIACUS (n thin atmosphere)
+- YANDANG QUADEX (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- YANDANG SEXTANE (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- YANDANG SEPTUS (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:587.735
+7 PLANETS / 4 MINOR
+COORDINATES = 2146669776, 1827509, 2000728165

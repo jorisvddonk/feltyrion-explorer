@@ -1,0 +1,3 @@
+Planet: KETYON-C
+Starmap index: 03
+Paris coordinates: 3686096, -82057, -9247365

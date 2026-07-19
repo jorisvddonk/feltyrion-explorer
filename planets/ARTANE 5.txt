@@ -1,0 +1,6 @@
+Planet: ARTANE 5
+Starmap index: 05
+Paris coordinates: 4421776, 3901041, -2079375
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011.586.157

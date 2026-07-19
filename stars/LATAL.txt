@@ -1,0 +1,11 @@
+Star: LATAL
+Star class: S00
+Paris coordinates: -25712, -854450, -220160
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GOX I (+ substellar object)
+- GOX II (@ large, not consistent)
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.324

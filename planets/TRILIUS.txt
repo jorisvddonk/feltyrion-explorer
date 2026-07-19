@@ -1,0 +1,6 @@
+Planet: TRILIUS
+Starmap index: 05
+Paris coordinates: 5252848, 4172558, -2953297
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.281)

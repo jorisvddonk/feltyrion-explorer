@@ -1,0 +1,7 @@
+Planet: MYRODE
+Starmap index: 01
+Paris coordinates: 2130850352, -1636894, 447026
+
+Guide entries:
+P01/06 SMALL SOLID THIN ATMO FAIRLY LIGHT GOOD POLAR CAPS. PRO 0.186        
+.840 PRV 0.007.193.182 SKINNYMON 6011 791.730                               

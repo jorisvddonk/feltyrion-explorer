@@ -1,0 +1,10 @@
+Star: SUNITA
+Star class: S05
+Paris coordinates: 4097488, 4732993, -1280501
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KISSINGNOTES (k thick atmosphere)
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING DISCOVERED BY R.CLEAR 6011:594.183

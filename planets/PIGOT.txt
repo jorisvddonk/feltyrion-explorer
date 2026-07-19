@@ -1,0 +1,6 @@
+Planet: PIGOT
+Starmap index: 01
+Paris coordinates: 5262480, 4336210, -502049
+
+Guide entries:
+ DISCOVERED BY SAREK BLUES, EPOC 565.925

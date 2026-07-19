@@ -1,0 +1,12 @@
+Star: CULHITUL
+Star class: S08
+Paris coordinates: 633530960, -9956007, 47575089
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (* companion star)
+
+Guide entries:
+S08 STAR WITH ONE COMPANION ONLY. 0.37401351 BAL. M.; TEMP 2202K; RAD       
+ 29.2 KR; COOR 633530960; -9956007; 47575089 SKINNYMON 6011.916.952         
+RETURN EXPEDITION 6012 060.191 06 TYPE PRIMARY, P01 AT 2.96 DYAMS.

@@ -1,0 +1,9 @@
+Planet: ROTRITIN II
+Starmap index: 11
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.524.518                              
+MOON IS STILL IN THE DEVELOPMENT PHASE, AND IS COLLING DOWN.                
+ROTRITIN IS PARTICULARLY CLEAR FROM ORBIT.                                  
+(NEURONWAKE 6011 802.524.608)                                               

@@ -1,0 +1,9 @@
+Planet: JUL-PRANDI
+Starmap index: 02
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.685.297 -                               
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.                             
+ MOONS: 0.                                                                  
+THIS PLANET HAS A STRANGE GREEN TRANSPARENT SURFACE. TAKE A LOOK.           

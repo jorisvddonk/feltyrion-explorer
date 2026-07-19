@@ -1,0 +1,3 @@
+Planet: DO NOT LAND!
+Starmap index: 11
+Paris coordinates: 574288, 535718, -933464

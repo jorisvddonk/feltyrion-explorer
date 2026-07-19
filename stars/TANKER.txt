@@ -1,0 +1,8 @@
+Star: TANKER
+Star class: S05
+Paris coordinates: 7531408, 4184239, -2630488
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (n thin atmosphere)

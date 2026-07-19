@@ -1,0 +1,10 @@
+Star: COREVIEW
+Star class: S08
+Paris coordinates: -1050000, 52174761, 1266609
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PSEUDO-S08 WITH NO PLANETS. NOT PART OF THE GRID, APPARENTLY.             
+RYAN GJK E6011.789.590                                                      

@@ -1,0 +1,3 @@
+Planet: KASSYA
+Starmap index: 13
+Paris coordinates: 9870096, 18689224, -31714944

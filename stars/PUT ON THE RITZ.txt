@@ -1,0 +1,11 @@
+Star: PUT ON THE RITZ
+Star class: S00
+Paris coordinates: 797728560, 19829282, -795030910
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- NO SPATS OR COLLARS (r rocky, creased)
+- STICKS OR UMBRELLAS (r rocky, creased)
+- MILLIONDOLLARTROOPER (f felisian)
+  - SMART TIDBITS (d dusty, craterized)
+  - DAY CUT-AWAY COATS (n thin atmosphere)

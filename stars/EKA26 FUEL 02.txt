@@ -1,0 +1,9 @@
+Star: EKA26 FUEL 02
+Star class: S06
+Paris coordinates: -72130992, -760600, 54059750
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A GREY GIANT. THERE IS AVAILABLE LITHIUM HERE. --EKA

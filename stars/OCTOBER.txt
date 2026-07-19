@@ -1,0 +1,7 @@
+Star: OCTOBER
+Star class: S07
+Paris coordinates: 4004272, 4232329, -774173
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OPULAR (+ substellar object)

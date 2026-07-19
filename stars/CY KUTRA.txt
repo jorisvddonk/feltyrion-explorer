@@ -1,0 +1,6 @@
+Star: CY KUTRA
+Star class: S04
+Paris coordinates: 450000, 52150000, -550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

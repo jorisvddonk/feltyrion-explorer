@@ -1,0 +1,10 @@
+Star: ESSO
+Star class: S06
+Paris coordinates: 2514992, 4443928, -605468
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SO6 STAR WITH LITHIUM
+DISCOVERED BY RICHARD SOLENSKY EPOC 6011-564.360.390

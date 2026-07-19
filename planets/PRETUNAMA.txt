@@ -1,0 +1,3 @@
+Planet: PRETUNAMA
+Starmap index: 08
+Paris coordinates: 1259632, 7660150, 1378735

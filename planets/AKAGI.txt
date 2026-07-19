@@ -1,0 +1,8 @@
+Planet: AKAGI
+Starmap index: 46
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+AKAGI DISCOVERED BY MISTRAL EPOC 6011.797.806                               
+PLANET IS RAINY, HILLY, AND COVERED WITH TREES AND BUSHES                   
+ (NOTES BY MISTRAL EPOC 6011.797.806)                                       

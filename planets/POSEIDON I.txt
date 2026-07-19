@@ -1,0 +1,3 @@
+Planet: POSEIDON I
+Starmap index: 01
+Paris coordinates: 6073200, 5011030, -2735168

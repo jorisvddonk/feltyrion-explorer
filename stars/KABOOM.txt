@@ -1,0 +1,11 @@
+Star: KABOOM
+Star class: S08
+Paris coordinates: -62239376, 30372097, 988333
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KABOOM B (* companion star)
+
+Guide entries:
+CLASS S08 SYSTEM DISCOVERED BY MCWGOGS, EPOC 6011.645.307.
+ONE COMPANION STAR, NO PLANETS.

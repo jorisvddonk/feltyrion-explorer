@@ -1,0 +1,6 @@
+Planet: ISQUARZILIA
+Starmap index: 09
+Paris coordinates: 3857872, 5537093, -7120928
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.689.258 -                                

@@ -1,0 +1,14 @@
+Star: BELEFONTE
+Star class: S00
+Paris coordinates: 4059632, 5133879, -1330382
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- BEL 1 (n thin atmosphere)
+- BEL 2 (k thick atmosphere)
+- BEL 3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- NEW AUSTRA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

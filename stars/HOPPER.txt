@@ -1,0 +1,9 @@
+Star: HOPPER
+Star class: S06
+Paris coordinates: 2025712, 4666774, -1326670
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THIS STAR IS SCOPABLE.                                                      

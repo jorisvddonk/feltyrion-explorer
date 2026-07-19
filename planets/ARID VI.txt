@@ -1,0 +1,3 @@
+Planet: ARID VI
+Starmap index: 06
+Paris coordinates: 6048912, 5024188, -2079836

@@ -1,0 +1,13 @@
+Star: AS12241735
+Star class: S08
+Paris coordinates: -1036176, 6649295, 25076939
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- AS12241735A (n thin atmosphere)
+- AS12241735B (* companion star)
+  - AS12241735B1 (n thin atmosphere)
+  - AS12241735B2 (+ substellar object)
+- AS12241735C (* companion star)
+- AS12241735D (k thick atmosphere)
+  - AS12241735D1 (^ unstable)

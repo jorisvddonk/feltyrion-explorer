@@ -1,0 +1,6 @@
+Star: PAYNEMAROOS
+Star class: S06
+Paris coordinates: 18257456, 38193242, -8193218
+Bodies: 0 (0 planets, 0 moons)
+
+System:

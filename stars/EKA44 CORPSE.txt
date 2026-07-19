@@ -1,0 +1,9 @@
+Star: EKA44 CORPSE
+Star class: S05
+Paris coordinates: -263568, 121446, -354221
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BROWN DWARF STAR. NO PLANETS. --EKA

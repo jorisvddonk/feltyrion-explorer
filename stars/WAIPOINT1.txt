@@ -1,0 +1,33 @@
+Star: WAIPOINT1
+Star class: S03
+Paris coordinates: 4011056, 5199534, -373190
+Bodies: 24 (9 planets, 15 moons)
+
+System:
+- OMNICLOPE (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (^ unstable)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- NOMAD (i icy surface)
+  - NOMADIMOON (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+
+Guide entries:
+SET UP AS A NAVIGATION WAYPOINT DEEPER INTO GALAXY BY PROF.CALLAHAN

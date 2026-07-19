@@ -1,0 +1,8 @@
+Star: KIINAAJI
+Star class: S02
+Paris coordinates: 4762480, 5356213, 79361
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- KIINAAJIEFEED (d dusty, craterized)
+- KIINAAJI FAZ (k thick atmosphere)

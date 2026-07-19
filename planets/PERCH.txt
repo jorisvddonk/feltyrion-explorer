@@ -1,0 +1,3 @@
+Planet: PERCH
+Starmap index: 05
+Paris coordinates: -106260240, 26101077, -2357903

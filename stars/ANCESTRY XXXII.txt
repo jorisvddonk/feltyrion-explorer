@@ -1,0 +1,9 @@
+Star: ANCESTRY XXXII
+Star class: S07
+Paris coordinates: -1424273616, 1954846, 1434567598
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S07 WITH NO PLANETS. RYAN GJK E6011.786.81                               

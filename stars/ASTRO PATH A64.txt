@@ -1,0 +1,8 @@
+Star: ASTRO PATH A64
+Star class: S09
+Paris coordinates: 5338352, 4054497, -36739886
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)

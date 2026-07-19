@@ -1,0 +1,6 @@
+Star: EMPTY QUARTER
+Star class: S06
+Paris coordinates: 4917840, 5192172, -880421
+Bodies: 0 (0 planets, 0 moons)
+
+System:

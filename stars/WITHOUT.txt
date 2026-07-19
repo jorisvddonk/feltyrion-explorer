@@ -1,0 +1,10 @@
+Star: WITHOUT
+Star class: S00
+Paris coordinates: 5914736, 11437861, -27138261
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A S00 CLASS STAR WITHOUT ANY BODIES WHATSOEVER.
+NAMED JOHN WINTER 6011 583.440.325

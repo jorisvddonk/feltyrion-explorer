@@ -1,0 +1,3 @@
+Planet: GENERATOR
+Starmap index: 06
+Paris coordinates: -380456432, -1452490, 53753546

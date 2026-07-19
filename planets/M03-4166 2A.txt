@@ -1,0 +1,3 @@
+Planet: M03-4166 2A
+Starmap index: 28
+Paris coordinates: -39147824, 1444615, 31691197

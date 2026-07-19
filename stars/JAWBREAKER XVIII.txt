@@ -1,0 +1,6 @@
+Star: JAWBREAKER XVIII
+Star class: S05
+Paris coordinates: -107642736, 25045067, -1870049
+Bodies: 0 (0 planets, 0 moons)
+
+System:

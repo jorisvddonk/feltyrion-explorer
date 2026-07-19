@@ -1,0 +1,9 @@
+Star: DEPOT2
+Star class: S06
+Paris coordinates: 4617840, 4849796, -572610
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ LITHIUM SCOPING AVALIABLE (EDWARD SEAGER EPOCE 6011: 609.261)

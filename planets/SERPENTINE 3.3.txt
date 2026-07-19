@@ -1,0 +1,7 @@
+Planet: SERPENTINE 3.3
+Starmap index: 13
+Paris coordinates: 218928, 369094, -5434
+
+Guide entries:
+SMALL, SOLID, DUSTY, NOT MANY FEATURES, GREY APPEARANCE.
+SERPENS, 6011 665.935

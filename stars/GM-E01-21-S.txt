@@ -1,0 +1,32 @@
+Star: GM-E01-21-S
+Star class: S01
+Paris coordinates: 7381072, 49723708, -7479516
+Bodies: 19 (7 planets, 12 moons)
+
+System:
+- HAPTICS (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+- G-GUARDIAN (q quartz surface)
+  - G-LITTLE-GUARDIAN (d dusty, craterized)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (n thin atmosphere)
+
+Guide entries:
+ THIS STAR IS SLIGHTLY AWAY FROM THE GRID, AND *GUESS WHAT*. YEAH.
+THERE'S A PLANET HERE!
+IT REALLY SEEMS LIKE ANYTHING PERFECTLY ON THE GRID CAN'T HAVE
+MAJOR BODIES AT ALL. HOW ODD!
+(NOTES BY MEGA, EPOC 6012 254.261)

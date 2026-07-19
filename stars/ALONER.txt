@@ -1,0 +1,6 @@
+Star: ALONER
+Star class: S00
+Paris coordinates: 2456784, 5322578, -1939775
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,16 @@
+Star: FIRST-ZERO
+Star class: S00
+Paris coordinates: 3236432, 4900864, -3865708
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- FOB (k thick atmosphere)
+- NEXT (q quartz surface)
+- DUN (k thick atmosphere)
+  - MONTE (n thin atmosphere)
+  - TREPAN (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: CLASS 00 STAR NAMED BY UNKNOWN STARDRIFTER, BUT
+SYSTEM UNEXPLORED UNTIL I GOT TO IT. HEE, HEE. 3 PLANETS, 2 MOONS.
+ALL MINE. SKINNYMON EPOC 6011 569.602

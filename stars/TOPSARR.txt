@@ -1,0 +1,11 @@
+Star: TOPSARR
+Star class: S01
+Paris coordinates: 1921776, 1444011, 357045
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- TOPRATO (n thin atmosphere)
+- TOPOGREN (@ large, not consistent)
+- TOPOGROFF (n thin atmosphere)
+  - BORE (d dusty, craterized)
+- Planet #3 (n thin atmosphere)

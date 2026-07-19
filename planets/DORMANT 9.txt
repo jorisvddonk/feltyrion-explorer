@@ -1,0 +1,7 @@
+Planet: DORMANT 9
+Starmap index: 09
+Paris coordinates: -3013904, 10333783, -2573808
+
+Guide entries:
+ DEAD, ROCKY CREATERIZED, NO ATMOSPHERE.
+(STARGAZER. EPOC 6011; 585.842.576)

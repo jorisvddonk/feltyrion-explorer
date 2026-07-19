@@ -1,0 +1,3 @@
+Planet: MICKEY
+Starmap index: 14
+Paris coordinates: 487856, 49102, -230101

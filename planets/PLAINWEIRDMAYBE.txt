@@ -1,0 +1,3 @@
+Planet: PLAINWEIRDMAYBE
+Starmap index: 03
+Paris coordinates: -66547920, 29022158, -758166

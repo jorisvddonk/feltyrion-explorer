@@ -1,0 +1,10 @@
+Star: EKA72 SLOPPY KILLER
+Star class: S07
+Paris coordinates: -263568, 21446, -319080
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SURIVER (+ substellar object)
+
+Guide entries:
+THIS BLUE DWARF IN THE VICINITY OF 0,0,0 HAS A PLANET. --EKA

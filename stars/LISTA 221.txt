@@ -1,0 +1,9 @@
+Star: LISTA 221
+Star class: S05
+Paris coordinates: 1270024464, -1973584, -53696
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S05, NO PLANETS, BUT LITHIUM. SKINNYMON EPOC R011 622.204

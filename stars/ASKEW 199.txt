@@ -1,0 +1,9 @@
+Star: ASKEW 199
+Star class: S08
+Paris coordinates: 5226384, -2258277, 5152754
+Bodies: 3 (1 planets, 2 moons)
+
+System:
+- ASKEW 199A (* companion star)
+  - PERSES GORGON (f felisian)
+  - ASKEW 199A2 (n thin atmosphere)

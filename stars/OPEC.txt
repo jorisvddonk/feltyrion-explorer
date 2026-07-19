@@ -1,0 +1,15 @@
+Star: OPEC
+Star class: S00
+Paris coordinates: 356784, -397137, 45728
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- GAS GIANT (@ large, not consistent)
+
+Guide entries:
+ STAR DISCOVERED BY MICHAEL MCNAMARA.
+ ONE GAS PLANET ORBITS THIS STAR.
+THE PLANET HAS RINGS.
+ THE PLANET IS UNEXPLORABLE.
+ (STAR DISCOVERED BY MICHAEL MCNAMARA EPOC 6011:662.751)

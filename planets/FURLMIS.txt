@@ -1,0 +1,3 @@
+Planet: FURLMIS
+Starmap index: 11
+Paris coordinates: -87856, 69100, -95029

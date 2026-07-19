@@ -1,0 +1,6 @@
+Planet: THINE
+Starmap index: 17
+Paris coordinates: -287856, -2237, 68657
+
+Guide entries:
+MOON DISCOVERED BY BJS EPOC 6011:583.991

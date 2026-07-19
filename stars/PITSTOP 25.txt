@@ -1,0 +1,6 @@
+Star: PITSTOP 25
+Star class: S06
+Paris coordinates: -243472, -29781, 796598413
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: IUEWY
+Star class: S06
+Paris coordinates: 70352, -31354467, 1137145
+Bodies: 0 (0 planets, 0 moons)
+
+System:

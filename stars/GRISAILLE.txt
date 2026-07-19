@@ -1,0 +1,6 @@
+Star: GRISAILLE
+Star class: S06
+Paris coordinates: 3070352, 4346159, -1684178
+Bodies: 0 (0 planets, 0 moons)
+
+System:

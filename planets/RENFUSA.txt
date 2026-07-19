@@ -1,0 +1,3 @@
+Planet: RENFUSA
+Starmap index: 17
+Paris coordinates: 2206448, 4739621, -6617273

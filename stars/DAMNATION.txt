@@ -1,0 +1,13 @@
+Star: DAMNATION
+Star class: S07
+Paris coordinates: -72041712, -1381056, 55128174
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- YBRIS (+ substellar object)
+
+Guide entries:
+FEEL THE PULL OF HUGE FORCES, NEAR THIS TINY GUY
+DAMNED NEVER LIVES ALONE
+BUT WITH VERY LITTLE COMPANY
+CATALOGED BY STARSTRIDER

@@ -1,0 +1,3 @@
+Planet: WHITE ANGEL
+Starmap index: 02
+Paris coordinates: 363568, 105380, 678168

@@ -1,0 +1,17 @@
+Star: JAFL
+Star class: S03
+Paris coordinates: 1399069584, 1329335, 1399689351
+Bodies: 6 (5 planets, 1 moons)
+
+System:
+- JAFL PRIMUS (n thin atmosphere)
+- JAFL SECUNDUS (@ large, not consistent)
+- JAFL TRIACUS (d dusty, craterized)
+- JAFL QUADREX (d dusty, craterized)
+  - JAFL QUADREX LUNA (d dusty, craterized)
+- JAFL QUINTUS (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:600.568
+(SO3) 5 PLANETS / 1 MINOR
+COORDINATES = 1399069584, 1329335, 1399689351

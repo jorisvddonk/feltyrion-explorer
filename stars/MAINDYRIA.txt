@@ -1,0 +1,10 @@
+Star: MAINDYRIA
+Star class: S06
+Paris coordinates: 1600403856, 1534278, 54689334
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.715
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

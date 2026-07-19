@@ -1,0 +1,6 @@
+Planet: NAZARUS
+Starmap index: 03
+Paris coordinates: 11376304, -19389667, 17396435
+
+Guide entries:
+FOUND EPOC 6011 586.234.560 BY ROLAND ASKEW

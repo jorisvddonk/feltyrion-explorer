@@ -1,0 +1,7 @@
+Planet: KRALON I
+Starmap index: 01
+Paris coordinates: 3794640, -66477082, -3060554
+
+Guide entries:
+A BLUE-GREEN DEADWORLD WITH LARGE SHALLOW CRATERS.
+(SCHMERM 6011 593.659)

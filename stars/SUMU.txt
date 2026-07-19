@@ -1,0 +1,29 @@
+Star: SUMU
+Star class: S00
+Paris coordinates: 3328560, 4728964, -571556
+Bodies: 23 (12 planets, 11 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (^ unstable)
+  - Moon #0 (^ unstable)
+- Planet #6 (n thin atmosphere)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (i icy surface)
+- Planet #11 (k thick atmosphere)
+  - Moon #0 (i icy surface)

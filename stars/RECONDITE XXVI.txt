@@ -1,0 +1,6 @@
+Star: RECONDITE XXVI
+Star class: S06
+Paris coordinates: 1340750000, 1750000, -1340850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

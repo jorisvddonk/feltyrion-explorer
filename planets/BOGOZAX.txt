@@ -1,0 +1,3 @@
+Planet: BOGOZAX
+Starmap index: 22
+Paris coordinates: 81072, -77486, -118953

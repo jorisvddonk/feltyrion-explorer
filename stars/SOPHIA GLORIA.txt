@@ -1,0 +1,6 @@
+Star: SOPHIA GLORIA
+Star class: S10
+Paris coordinates: 3421776, 4325800, -1028438
+Bodies: 0 (0 planets, 0 moons)
+
+System:

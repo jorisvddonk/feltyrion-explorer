@@ -1,0 +1,8 @@
+Planet: SLUST
+Starmap index: 10
+Paris coordinates: 2140364592, -691520, 1231760
+
+Guide entries:
+M1/P05 SMALL SOLID DUSTY. GREY BLUEISH COLOR. FAIR REFLECTIVITY WITH        
+LARGE CRATERS SAME WAY. PRO 0.290.160 PRV 0.002.207.917 SKINNYMON 6011      
+791.562                                                                     

@@ -1,0 +1,7 @@
+Planet: TUMAD
+Starmap index: 10
+Paris coordinates: 3408208, 420650, -1856116
+
+Guide entries:
+CLOUDY; GREEN/GREY.
+CLEAR ATMOSPHERE MAKES GETTING LOST LESS OF A PROBLEM

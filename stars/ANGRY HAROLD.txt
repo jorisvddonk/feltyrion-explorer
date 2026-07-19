@@ -1,0 +1,6 @@
+Star: ANGRY HAROLD
+Star class: S10
+Paris coordinates: -321776, 456147, -1745175
+Bodies: 0 (0 planets, 0 moons)
+
+System:

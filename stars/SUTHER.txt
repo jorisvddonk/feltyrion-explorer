@@ -1,0 +1,12 @@
+Star: SUTHER
+Star class: S10
+Paris coordinates: 6316080, 6026683, -8178955
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BRADBURY (r rocky, creased)
+- MONTAG (q quartz surface)
+
+Guide entries:
+A RUNAWAY WITH TWO ORBITING PLANETS.
+(DISCOVERED AND NOTED UPON ON 6011:625.877 BY N5CORP)

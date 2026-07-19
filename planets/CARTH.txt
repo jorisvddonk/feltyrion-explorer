@@ -1,0 +1,3 @@
+Planet: CARTH
+Starmap index: 01
+Paris coordinates: 4055696, 5346452, 377776

@@ -1,0 +1,8 @@
+Star: BIG BLUE
+Star class: S01
+Paris coordinates: 4969264, 4680100, 168760
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- ICECAP2 (n thin atmosphere)

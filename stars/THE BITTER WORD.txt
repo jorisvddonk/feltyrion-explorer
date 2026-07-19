@@ -1,0 +1,8 @@
+Star: THE BITTER WORD
+Star class: S11
+Paris coordinates: 4686768, 5139542, -612703
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)

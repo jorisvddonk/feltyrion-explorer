@@ -1,0 +1,9 @@
+Star: GREY FOOL 01
+Star class: S06
+Paris coordinates: 11963824, 12495669, 12219836
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERD BY DAWIWO, EPOCH 6011:768.480                                

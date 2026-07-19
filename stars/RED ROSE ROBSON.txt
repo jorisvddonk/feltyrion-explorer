@@ -1,0 +1,6 @@
+Star: RED ROSE ROBSON
+Star class: S10
+Paris coordinates: 3266416, 5134407, -191071
+Bodies: 0 (0 planets, 0 moons)
+
+System:

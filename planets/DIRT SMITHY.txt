@@ -1,0 +1,6 @@
+Planet: DIRT SMITHY
+Starmap index: 05
+Paris coordinates: 11314160, -19380914, 17626244
+
+Guide entries:
+FOUND EPOC 6011 587.348.300 BY ROLAND ASKEW

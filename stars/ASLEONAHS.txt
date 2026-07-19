@@ -1,0 +1,9 @@
+Star: ASLEONAHS
+Star class: S06
+Paris coordinates: 1594640, -67400947, -867779
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:402

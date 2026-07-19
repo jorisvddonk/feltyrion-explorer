@@ -1,0 +1,26 @@
+Star: KSIADALISAS
+Star class: S01
+Paris coordinates: 2140364592, -691520, 1231760
+Bodies: 14 (7 planets, 7 moons)
+
+System:
+- FHROIJ (r rocky, creased)
+- THRYIT (n thin atmosphere)
+- HRUAN (n thin atmosphere)
+- FENISFH (k thick atmosphere)
+  - DRYNUR (d dusty, craterized)
+  - ISTRACK (d dusty, craterized)
+- SPROECK (r rocky, creased)
+  - SLUST (d dusty, craterized)
+- KLETH (n thin atmosphere)
+  - MAHIN (d dusty, craterized)
+  - RENTH (n thin atmosphere)
+- VUCKYST (k thick atmosphere)
+  - KROTHIL (d dusty, craterized)
+  - YDEMES (d dusty, craterized)
+
+Guide entries:
+CLASS S01 STAR WITH 7 PLANETS AND 7 MOONS. FIRST THE GOOD NEWS,             
+ALL THE WORLDS ARE SOLID, NOT INCONSISTENT OR UNSTABLE. THE BAD             
+NEWS IS NONE ARE FELISIAN. 80.28929138 BAL. M. TEMP 90648 K RAD             
+22 KR. COR 2140364592; -691520; 1231760 SKINNYMON 6011 791.565              

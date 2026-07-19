@@ -1,0 +1,6 @@
+Planet: GURZ
+Starmap index: 01
+Paris coordinates: -722448, 5158928, -11032161
+
+Guide entries:
+SMALL ROCKY AIRLESS PLANET'DISCOVERED BY KJ EPOC 6011:579.732

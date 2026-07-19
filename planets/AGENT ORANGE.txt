@@ -1,0 +1,6 @@
+Planet: AGENT ORANGE
+Starmap index: 02
+Paris coordinates: 2563568, 4504467, -1834688
+
+Guide entries:
+DISCOVERED BY ADAM DALY (TACOFERNANDEZ), E6011:664.603

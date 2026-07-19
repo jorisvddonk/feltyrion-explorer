@@ -1,0 +1,7 @@
+Planet: SANBORN
+Starmap index: 26
+Paris coordinates: -4872112, -75428596, -2064196
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:583.290
+ FELISIAN MOON. THE THIRD IN THIS SYSTEM.

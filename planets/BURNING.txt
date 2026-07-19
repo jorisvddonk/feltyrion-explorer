@@ -1,0 +1,6 @@
+Planet: BURNING
+Starmap index: 02
+Paris coordinates: 11052016, -19359857, 17958827
+
+Guide entries:
+FOUND EPOC 6011 586.949.30 BY ROLAND ASKEW

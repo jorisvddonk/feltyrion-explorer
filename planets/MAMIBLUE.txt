@@ -1,0 +1,6 @@
+Planet: MAMIBLUE
+Starmap index: 02
+Paris coordinates: 5262480, 4336210, -502049
+
+Guide entries:
+ DISCOVERED BY SAREK BLUES, EPOC 565.925

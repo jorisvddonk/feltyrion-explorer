@@ -1,0 +1,3 @@
+Planet: AS12271719I2
+Starmap index: 44
+Paris coordinates: 50372528, 27904, 1991278048

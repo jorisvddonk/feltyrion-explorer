@@ -1,0 +1,9 @@
+Star: B EXPRESS 20 STATION
+Star class: S06
+Paris coordinates: -72137776, -853011, 53728442
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S06 STAR IN CLOSE PROXIMITY TO EKA 1.                                    

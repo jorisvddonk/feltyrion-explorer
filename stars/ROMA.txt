@@ -1,0 +1,35 @@
+Star: ROMA
+Star class: S00
+Paris coordinates: 3828560, 4747754, -1135269
+Bodies: 24 (11 planets, 13 moons)
+
+System:
+- ROMA 1.0 (n thin atmosphere)
+- ROMA-2.0 (d dusty, craterized)
+- ROMA-3 (@ large, not consistent)
+  - ROMA-3.1 (f felisian)
+  - ROMA 3.2 (d dusty, craterized)
+  - ROMA-3.3 (r rocky, creased)
+  - ROMA 3.3 (r rocky, creased)
+  - Moon #4 (n thin atmosphere)
+  - ROMA 3.1 (k thick atmosphere)
+- ROMA 4.0 (k thick atmosphere)
+  - ROMA 4.2 (n thin atmosphere)
+  - ROMA 4.1 (d dusty, craterized)
+- ROMA 5.0 (k thick atmosphere)
+  - ROMA 5.1 (n thin atmosphere)
+- ROMA 6.0 (r rocky, creased)
+  - ROMA-6.1 (d dusty, craterized)
+- ROMA 7.0 (n thin atmosphere)
+  - ROMA 7.1 (d dusty, craterized)
+- ROMA 8.0 (d dusty, craterized)
+- ROMA-9.0 (^ unstable)
+  - ROMA 9.1 (n thin atmosphere)
+- ROMA-10.0 (k thick atmosphere)
+  - ROMA 10.1: EUROPA 2 (i icy surface)
+- ROMA 11.0 (d dusty, craterized)
+
+Guide entries:
+CLASS 00 STAR WITH 11 PLANETS AND 13 MOONS. 1ST MOON OF 3RD PLANET IS FEL
+ISIAN AND HAS FELISIAN FAUNA AND FLORA. OTHER PLANETS AND MOONS APPEAR UN
+INHABITABLE. (NAMMYUNG 6011.561.184)

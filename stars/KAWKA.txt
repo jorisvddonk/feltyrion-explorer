@@ -1,0 +1,8 @@
+Star: KAWKA
+Star class: S02
+Paris coordinates: -61308304, 30026433, -4287
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CAPRIMULGUS (k thick atmosphere)
+- CARDUELIS (q quartz surface)

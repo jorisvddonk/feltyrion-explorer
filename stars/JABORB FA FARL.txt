@@ -1,0 +1,37 @@
+Star: JABORB FA FARL
+Star class: S03
+Paris coordinates: 59195344, -33661137, 926861759
+Bodies: 28 (13 planets, 15 moons)
+
+System:
+- INDRENE FA FARL (k thick atmosphere)
+- GUREIK FA FARL (@ large, not consistent)
+- HURERH FA FARL (+ substellar object)
+  - FALLAFEIL (f felisian)
+  - VURUNNAS FA ERTUR (^ unstable)
+  - VURUNNAS ILN VRURM (^ unstable)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (r rocky, creased)
+  - OUTHERH ILN PRIRUHL (k thick atmosphere)
+  - JUREDRE FA IRDENIEN (@ large, not consistent)
+  - Moon #8 (n thin atmosphere)
+  - THERIEN ILN GRAAR (k thick atmosphere)
+  - HREUHGIN ILN XETHE (k thick atmosphere)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (r rocky, creased)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (r rocky, creased)
+- SERXENG FA GLORTRE (q quartz surface)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+- Planet #11 (r rocky, creased)
+- VURRUNIA ILN XRERTH (^ unstable)
+
+Guide entries:
+ROLAND JAMES (6011 601.254)

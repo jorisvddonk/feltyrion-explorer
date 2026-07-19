@@ -1,0 +1,19 @@
+Star: CAETANO1
+Star class: S00
+Paris coordinates: 3832496, 4646036, -2821847
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- FILHOS (f felisian)
+- NETOS (f felisian)
+  - Moon #0 (d dusty, craterized)
+- BISNETOS (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY CLOVIS CHARLANTI IN 6011:602.20
+HAVE HERE 2 PLANETS WITH WILD LIFE.

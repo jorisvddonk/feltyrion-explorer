@@ -1,0 +1,3 @@
+Planet: IFFREC
+Starmap index: 04
+Paris coordinates: 5376048, 4356588, 151894

@@ -1,0 +1,6 @@
+Star: RECONDITE XVIII
+Star class: S06
+Paris coordinates: 970550000, 18750000, -970650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

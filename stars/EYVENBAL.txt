@@ -1,0 +1,6 @@
+Star: EYVENBAL
+Star class: S02
+Paris coordinates: 150000, -5150000, -250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

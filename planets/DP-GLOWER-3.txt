@@ -1,0 +1,6 @@
+Planet: DP-GLOWER-3
+Starmap index: 03
+Paris coordinates: 4035344, 4484112, -905031
+
+Guide entries:
+DEAD PLANET, THIN ATMOSPHERE

@@ -1,0 +1,3 @@
+Planet: SPONH
+Starmap index: 02
+Paris coordinates: -105657392, 25872251, -859369

@@ -1,0 +1,11 @@
+Star: SNR KILLINGTON
+Star class: S05
+Paris coordinates: -21620688, -76459, 15637485
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OEDIPUS (r rocky, creased)
+
+Guide entries:
+ STAR WITH ONLY ONE PLANET, WHICH IS YET TO BE EXPLORED.                    
+DISCOVERED BY ELHAM EPOC 6011.722.985.81X.                                  

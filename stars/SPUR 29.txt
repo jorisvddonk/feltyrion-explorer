@@ -1,0 +1,9 @@
+Star: SPUR 29
+Star class: S06
+Paris coordinates: -99879920, 26140895, -276013
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE.                                                               

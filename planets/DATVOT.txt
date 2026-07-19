@@ -1,0 +1,7 @@
+Planet: DATVOT
+Starmap index: 02
+Paris coordinates: 2028686512, 3015167, 208047
+
+Guide entries:
+P02/04 VERY LARGE SUBSTELLAR, YELLOW COLOR. PRO 0.123.120 PRV 0.024.        
+830.878 SKINNYMON 6011 797.187                                              

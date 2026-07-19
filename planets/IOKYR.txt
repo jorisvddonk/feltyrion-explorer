@@ -1,0 +1,8 @@
+Planet: IOKYR
+Starmap index: 07
+Paris coordinates: 2090751600, -1867804, -44748
+
+Guide entries:
+M01/P03 MEDIUM SIZED INTERNALLY HOT UNSTABLE SURFACE. MOSTLY BROWN WITH     
+ SOME YELLOW SPOTS. PRO 0.300.249 PRV 0.001.841.467 SKINNYMON 6011          
+793.754                                                                     

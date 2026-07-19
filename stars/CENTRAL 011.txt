@@ -1,0 +1,9 @@
+Star: CENTRAL 011
+Star class: S06
+Paris coordinates: 2425712, 31107678, -1763982
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ON TO THE ALSAKI CLUSTER!                                                   

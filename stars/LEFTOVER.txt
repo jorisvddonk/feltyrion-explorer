@@ -1,0 +1,16 @@
+Star: LEFTOVER
+Star class: S02
+Paris coordinates: 476464, 4809928, -8432985
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (@ large, not consistent)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (q quartz surface)
+- Planet #5 (n thin atmosphere)
+
+Guide entries:
+WHITE DWARF,HAS 6 PLANETS
+DISCOVERED BY KJ EPOC 6011:577.311

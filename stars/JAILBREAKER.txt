@@ -1,0 +1,6 @@
+Star: JAILBREAKER
+Star class: S10
+Paris coordinates: -39409968, 1328585, 32176675
+Bodies: 0 (0 planets, 0 moons)
+
+System:

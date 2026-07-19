@@ -1,0 +1,19 @@
+Star: DHULCRON
+Star class: S01
+Paris coordinates: -801424, -65898, -243734
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- LOTAROC (d dusty, craterized)
+- GHOSTROC (r rocky, creased)
+- QUARTOC (q quartz surface)
+  - HOLZ (d dusty, craterized)
+- FOGAROS (k thick atmosphere)
+  - GRAVLO (d dusty, craterized)
+  - GRAVLIS (d dusty, craterized)
+- WIGHTROC (d dusty, craterized)
+- MURKIMOS (k thick atmosphere)
+  - DARKMOON (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY NYTAR, EPOC 6011:611.531

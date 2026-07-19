@@ -1,0 +1,3 @@
+Planet: XARVARC D5
+Starmap index: 10
+Paris coordinates: 4773200, 4651613, -1520195

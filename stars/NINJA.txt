@@ -1,0 +1,13 @@
+Star: NINJA
+Star class: S10
+Paris coordinates: -61915088, 29975142, 159290
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GALLINULA (n thin atmosphere)
+- JB 72 (+ substellar object)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.638.029 CLASS S10 RUNAWAY STAR
+TWO PLANETS P01-THIN ATMOSPHRERE, P02-SUBSTELLAR OBJECT.
+NOTES BY MCWGOGS EPOC 6011.638.029.

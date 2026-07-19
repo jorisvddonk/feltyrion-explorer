@@ -1,0 +1,6 @@
+Planet: MOLTAN
+Starmap index: 01
+Paris coordinates: 2501424, 4364880, -1388893
+
+Guide entries:
+PLANET DISCOVERED BY SEB PAT, EPOC 6011, 683.478                            

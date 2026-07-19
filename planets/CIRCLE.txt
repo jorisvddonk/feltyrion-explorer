@@ -1,0 +1,3 @@
+Planet: CIRCLE
+Starmap index: 08
+Paris coordinates: 1804272, 2199504, 1419721

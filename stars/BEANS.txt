@@ -1,0 +1,14 @@
+Star: BEANS
+Star class: S00
+Paris coordinates: -787856, 9238348, 585517
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- TATOR (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)

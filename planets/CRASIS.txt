@@ -1,0 +1,3 @@
+Planet: CRASIS
+Starmap index: 03
+Paris coordinates: -106760240, 26118119, -1836609

@@ -1,0 +1,6 @@
+Star: IAAS
+Star class: S04
+Paris coordinates: 8350000, -50000, -8450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

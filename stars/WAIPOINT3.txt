@@ -1,0 +1,11 @@
+Star: WAIPOINT3
+Star class: S08
+Paris coordinates: 5069264, 5252333, 127751
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+
+Guide entries:
+YET ANOTHER DEEP WAYPOINT BY PROF. CALLAHAN. HAS 2 QUARTZ PLANETS.

@@ -1,0 +1,3 @@
+Planet: POIGULAT
+Starmap index: 14
+Paris coordinates: 9870096, 18689224, -31714944

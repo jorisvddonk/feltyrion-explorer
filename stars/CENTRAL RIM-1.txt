@@ -1,0 +1,29 @@
+Star: CENTRAL RIM-1
+Star class: S09
+Paris coordinates: -1426188272, 705347, 1439547187
+Bodies: 23 (3 planets, 20 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (+ substellar object)
+- Planet #2 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (^ unstable)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - FELISIAN CR1-1 (f felisian)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (f felisian)
+  - Moon #12 (r rocky, creased)
+  - Moon #13 (^ unstable)
+  - Moon #14 (@ large, not consistent)
+  - Moon #15 (q quartz surface)
+  - Moon #16 (d dusty, craterized)
+  - Moon #17 (^ unstable)
+  - Moon #18 (f felisian)
+  - Moon #19 (k thick atmosphere)

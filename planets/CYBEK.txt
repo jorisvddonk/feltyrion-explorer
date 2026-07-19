@@ -1,0 +1,7 @@
+Planet: CYBEK
+Starmap index: 13
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M01/P03 MEDIUM SIZE, INTERNALLY HOT, UNSTABLE. VERY GLOWING. PR0 0.244.     
+080 PRV 0.001.939.317 SKINNYMON 6011 791.91                                 

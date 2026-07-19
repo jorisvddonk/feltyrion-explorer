@@ -1,0 +1,3 @@
+Planet: MANDRAKE
+Starmap index: 01
+Paris coordinates: 3063568, 4028950, -2269590

@@ -1,0 +1,3 @@
+Planet: LARA02
+Starmap index: 56
+Paris coordinates: 4146064, 4893991, -2244689

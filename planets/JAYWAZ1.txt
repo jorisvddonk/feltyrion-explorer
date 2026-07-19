@@ -1,0 +1,6 @@
+Planet: JAYWAZ1
+Starmap index: 01
+Paris coordinates: -543216, -1292957, 861708
+
+Guide entries:
+SMALL, NO ATMOSPHERE. CRATORISED.

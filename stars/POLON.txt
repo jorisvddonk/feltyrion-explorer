@@ -1,0 +1,6 @@
+Star: POLON
+Star class: S08
+Paris coordinates: 1263568, -269560, -241250
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Planet: NAARNA
+Starmap index: 22
+Paris coordinates: 394640, 52221424, 264344
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, PRETTY MUCH DARK WITH A FAIR POLAR CAPS
+AND A FEW LIGHT AREAS NOTED. SKINNYMON EPOC 6011 602.695
+FURTHER NOTES:VERY DIM SURFACE, LOW REFECTIVITY. RYAN GJK E6011.788.        
+.975                                                                        

@@ -1,0 +1,7 @@
+Planet: DEMYK
+Starmap index: 11
+Paris coordinates: 2060398160, -1842327, 78233
+
+Guide entries:
+M02/P05 SMALL SOLID THIN ATMO FAIRLY BRIGHT, FAIR POLAR CAPS. PRO 0.        
+253.440 PRV 0.004.998.140 SKINNYMON 6011 796.149                            

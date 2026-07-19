@@ -1,0 +1,37 @@
+Star: ASKEW 85
+Star class: S01
+Paris coordinates: 10945232, -19339777, 17862369
+Bodies: 28 (8 planets, 20 moons)
+
+System:
+- ASKEW 85A (q quartz surface)
+- ASKEW 85B (+ substellar object)
+- ASKEW 85C (k thick atmosphere)
+  - ASKEW 85C1 (d dusty, craterized)
+  - ASKEW 85C2 (n thin atmosphere)
+- ASKEW 85D (r rocky, creased)
+- LEVELING ROD (f felisian)
+  - ASKEW 85E1 (n thin atmosphere)
+  - ASKEW 85E2 (^ unstable)
+- ASKEW 85F (n thin atmosphere)
+  - ASKEW 85F1 (d dusty, craterized)
+  - ASKEW 85F2 (d dusty, craterized)
+- ASKEW 85G (r rocky, creased)
+  - ASKEW 85G1 (d dusty, craterized)
+- ASKEW 85H (@ large, not consistent)
+  - ASKEW 85H1 (r rocky, creased)
+  - ASKEW 85H2 (n thin atmosphere)
+  - ASKEW 85H3 (d dusty, craterized)
+  - ASKEW 85H4 (q quartz surface)
+  - ASKEW 85H5 (q quartz surface)
+  - ASKEW 85H6 (i icy surface)
+  - ASKEW 85H7 (d dusty, craterized)
+  - ASKEW 85H8 (r rocky, creased)
+  - ASKEW 85H9 (r rocky, creased)
+  - ASKEW 85H10 (k thick atmosphere)
+  - ASKEW 85H11 (n thin atmosphere)
+  - ASKEW 85H12 (^ unstable)
+  - ASKEW 85H13 (n thin atmosphere)
+
+Guide entries:
+3 QUARTZ, 1 FELISIAN WORLD

@@ -1,0 +1,44 @@
+Star: MAD MAGAZINE
+Star class: S00
+Paris coordinates: 257872, 4330231, -3480811
+Bodies: 33 (10 planets, 23 moons)
+
+System:
+- BILL GAINES (r rocky, creased)
+- HARVEY KURTZMANN (d dusty, craterized)
+- ALFRED E NEUMAN (+ substellar object)
+  - AL FELDSTEIN (f felisian)
+  - PAUL COKER (d dusty, craterized)
+  - DON MARTIN (d dusty, craterized)
+  - WALLACE WOOD (^ unstable)
+  - GEORGE WOODBRIDGE (k thick atmosphere)
+  - JACK RICKARD (^ unstable)
+  - DICK DE BARTOLO (^ unstable)
+  - JOE ORLANDO (k thick atmosphere)
+  - STAN HART (f felisian)
+  - NICK MEGLIN (^ unstable)
+  - JOHN FICARRA (@ large, not consistent)
+  - ARNIE KOGEN (k thick atmosphere)
+  - LARRY SIEGEL (d dusty, craterized)
+  - BOB CLARKE (d dusty, craterized)
+  - GARY BELKIN (^ unstable)
+- NORMAN MINGO (^ unstable)
+  - TOM KOCH (d dusty, craterized)
+- BILL ELDER (@ large, not consistent)
+  - KELLY FREAS (k thick atmosphere)
+  - BASIL WOLVERTON (d dusty, craterized)
+  - JOHN PUTNAM (d dusty, craterized)
+- FRANK JACOBS (d dusty, craterized)
+- JACK DAVIS (d dusty, craterized)
+- MORT DRUCKER (n thin atmosphere)
+  - PHIL HAHN (^ unstable)
+- DAVE BERG (d dusty, craterized)
+  - SY REIT (n thin atmosphere)
+- AL JAFFEE (i icy surface)
+  - ANTONIO PROHIAS (d dusty, craterized)
+  - SERGIO ARAGONES (^ unstable)
+
+Guide entries:
+S00 SYSTEM FOUND BY RICHARD SOLENSKY EPOC 6011-574.981.200
+ALL PLANETS NAMED AFTER PEOPLE ASSOCIATED WITH THE MAGAZINE
+1ST MOON OF 3RD PLANET IS FELISIAN

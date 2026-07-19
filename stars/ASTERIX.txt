@@ -1,0 +1,37 @@
+Star: ASTERIX
+Star class: S00
+Paris coordinates: 360720, 349749, -1539326
+Bodies: 25 (11 planets, 14 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- DOGMATIX (q quartz surface)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+- OBELIX THE GAUL (@ large, not consistent)
+  - IDEFIX (f felisian)
+  - GETAFIX (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (^ unstable)
+  - Moon #5 (^ unstable)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (r rocky, creased)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (^ unstable)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (i icy surface)
+
+Guide entries:
+S00 SYSTEM FOUND BY RICHARD SOLENSKY EPOC 6011-583.189.860
+OBJECTS IN SYSTEM NAMED AFTER ASTERIX THE GAUL AND OTHER CHARACTERS IN
+THAT COMIC. MOONS 1 (IDEFIX) AND 2 (GETAFIX) OF PLANET 5...
+(OBELIX THE GAUL - SOMEBODY USED OBELIX ALREADY) ARE FELISIAN

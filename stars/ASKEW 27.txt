@@ -1,0 +1,7 @@
+Star: ASKEW 27
+Star class: S03
+Paris coordinates: 10876304, -19448790, 17946904
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MONITOR 2 (k thick atmosphere)

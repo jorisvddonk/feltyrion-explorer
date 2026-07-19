@@ -1,0 +1,10 @@
+Star: CANDELA
+Star class: S00
+Paris coordinates: 3686768, 4616273, 375875
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FOUND BY COPRA JOR-EL, SHANTIC TRAVELLER IN EPOC6011/630.356.610
+SOLITARY YELLOW STAR, SADLY WIHTOUT BODIES...

@@ -1,0 +1,3 @@
+Planet: MAYLOR
+Starmap index: 01
+Paris coordinates: 3159632, 4649345, -651088

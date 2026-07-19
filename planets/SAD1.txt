@@ -1,0 +1,3 @@
+Planet: SAD1
+Starmap index: 01
+Paris coordinates: 4128560, 4803885, -1390327

@@ -1,0 +1,8 @@
+Planet: LIJSAYSA
+Starmap index: 10
+Paris coordinates: 2052562480, 532725, 204773
+
+Guide entries:
+M06/P03 SMALL SOLID DUSTY, HAS A BRIGHT WHITE REFLECTIVITY WITH             
+LARGE CRATERS HAVING PURPLISH RAYS. PRO 0.140.400 PRV 0.006.076.880         
+SKINNYMON 6011 795.976                                                      

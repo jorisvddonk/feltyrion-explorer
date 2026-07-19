@@ -1,0 +1,3 @@
+Planet: JB 65
+Starmap index: 05
+Paris coordinates: -61921872, 30034719, 15299

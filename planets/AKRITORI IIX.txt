@@ -1,0 +1,7 @@
+Planet: AKRITORI IIX
+Starmap index: 29
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.537.758                              
+DID NOT LAND. STANDARD MOON. (NEURONWAKE 6011 802.537.785)                  

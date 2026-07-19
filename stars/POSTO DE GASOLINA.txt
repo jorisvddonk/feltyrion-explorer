@@ -1,0 +1,6 @@
+Star: POSTO DE GASOLINA
+Star class: S06
+Paris coordinates: 6469264, 5056815, -1222128
+Bodies: 0 (0 planets, 0 moons)
+
+System:

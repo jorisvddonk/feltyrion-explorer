@@ -1,0 +1,48 @@
+Star: REDIPLE
+Star class: S08
+Paris coordinates: -332496, 438827, -582436
+Bodies: 36 (7 planets, 29 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (* companion star)
+  - Moon #0 (d dusty, craterized)
+- Planet #2 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (+ substellar object)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (^ unstable)
+- Planet #3 (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (^ unstable)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (q quartz surface)
+- Planet #4 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (@ large, not consistent)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (^ unstable)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #6 (d dusty, craterized)
+
+Guide entries:
+STAR(S) DISCOVERED BY JEFF KEMP EPOC 6011:623:966)
+S08 SYSTEM, CONSISTING OF RED STARS. 5 STARS, INCLUDING THE MAIN ONE.
+SO, THIS MEANS THERE ARE 3 PLANETS AND 29 MOONS, BUT NONE ARE FELYSIAN
+(ADD. NOTES BY JEFF KEMP EPOC 6011:645:769)

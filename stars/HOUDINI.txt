@@ -1,0 +1,10 @@
+Star: HOUDINI
+Star class: S10
+Paris coordinates: 2325712, 4064684, -1710261
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SHACKLE (d dusty, craterized)
+
+Guide entries:
+ RUNAWAY STAR WITH A PLANET! WOW. PITY IT'S A BORING ONE.

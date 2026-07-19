@@ -1,0 +1,6 @@
+Star: SKINNISPHERE
+Star class: S08
+Paris coordinates: 1550000, 54050000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

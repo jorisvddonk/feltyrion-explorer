@@ -1,0 +1,3 @@
+Planet: RY
+Starmap index: 05
+Paris coordinates: -494640, 30520235, -71665

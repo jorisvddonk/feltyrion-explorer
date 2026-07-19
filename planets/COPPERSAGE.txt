@@ -1,0 +1,6 @@
+Planet: COPPERSAGE
+Starmap index: 02
+Paris coordinates: 3442128, 4530971, 167077
+
+Guide entries:
+ BARRON AND LIFELESS.

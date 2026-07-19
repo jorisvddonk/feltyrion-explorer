@@ -1,0 +1,3 @@
+Planet: ORBERTHIORON
+Starmap index: 65
+Paris coordinates: 58795344, -33712659, 927379101

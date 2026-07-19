@@ -1,0 +1,12 @@
+Star: LISTA 52
+Star class: S05
+Paris coordinates: 6782832, 5118985, -955008
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PLAID (n thin atmosphere)
+- STAID (n thin atmosphere)
+
+Guide entries:
+ A CLASS S05 SYSTEM WITH 2 PLANETS AND LITHIUM
+SKINNYMON EPOC 6011 584.779

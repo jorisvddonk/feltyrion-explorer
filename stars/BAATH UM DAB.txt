@@ -1,0 +1,6 @@
+Star: BAATH UM DAB
+Star class: S01
+Paris coordinates: 450000, 51650000, -550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

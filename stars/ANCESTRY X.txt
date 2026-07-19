@@ -1,0 +1,6 @@
+Star: ANCESTRY X
+Star class: S10
+Paris coordinates: -1415674704, 332352, 1429819856
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: LUMACRI
+Starmap index: 09
+Paris coordinates: 9870096, 18689224, -31714944

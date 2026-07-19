@@ -1,0 +1,18 @@
+Star: ENTURUS
+Star class: S00
+Paris coordinates: -81072, 126100, 301856
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (q quartz surface)
+- Planet #2 (f felisian)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- NARTURON (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY LOGAN WALKER, EPOC 6011.612.738
+THE THIRD PLANET, ARRIA, CONTAINS LIFE

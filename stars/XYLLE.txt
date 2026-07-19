@@ -1,0 +1,21 @@
+Star: XYLLE
+Star class: S03
+Paris coordinates: 1399207440, 1527592, 1399913464
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- XYLLE PRIMUS (d dusty, craterized)
+- XYLLE SECUNDUS (d dusty, craterized)
+- XYLLE TRIACUS (d dusty, craterized)
+- XYLLE QUADREX (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- XYLLE QUINTUS (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- XYLLE SEXTANE (^ unstable)
+  - Moon #0 (d dusty, craterized)
+- XYLLE SEPTUS (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:592.425
+(S03) 7 PLANETS / 3 MINOR
+COORDINATES = 1399207440, 1527592, 1399913464

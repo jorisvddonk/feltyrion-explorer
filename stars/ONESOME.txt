@@ -1,0 +1,9 @@
+Star: ONESOME
+Star class: S00
+Paris coordinates: 418928, -2243, -176807
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISC. BY SCAREDY-CAT EPOC 6011.583.521. NO ORBITING BODIES.

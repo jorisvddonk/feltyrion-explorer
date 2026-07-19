@@ -1,0 +1,32 @@
+Star: ANYWHERE
+Star class: S00
+Paris coordinates: -64835440, 29718498, 1969366
+Bodies: 23 (8 planets, 15 moons)
+
+System:
+- JOYPAD (d dusty, craterized)
+- FREAK (@ large, not consistent)
+- MBTP 23 (d dusty, craterized)
+  - SOMETHING (n thin atmosphere)
+- CHEAP (k thick atmosphere)
+  - FIGHT (n thin atmosphere)
+  - FOOL (d dusty, craterized)
+- LONG (d dusty, craterized)
+- JB 115 (+ substellar object)
+  - JELLY (^ unstable)
+  - HOWL (^ unstable)
+  - QUEENEY (q quartz surface)
+  - LIQUID (f felisian)
+  - DZIWACZKA (k thick atmosphere)
+  - CELSIUS (^ unstable)
+  - HYEHYEHYE (k thick atmosphere)
+  - OYT (k thick atmosphere)
+  - SCREAM (d dusty, craterized)
+- LONGERBOW (k thick atmosphere)
+  - FUNGUS (d dusty, craterized)
+  - FASTFOOD (d dusty, craterized)
+- BRAIN (d dusty, craterized)
+  - GOOD (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY MCWGOGS, EPOC 6011.645.385 CLASS S00 8 PLANETS 15 MOONS

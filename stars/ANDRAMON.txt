@@ -1,0 +1,13 @@
+Star: ANDRAMON
+Star class: S02
+Paris coordinates: 3252848, 4375194, -1151718
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- CALIOPESUGO (d dusty, craterized)
+- NUOVA LUNA (r rocky, creased)
+- PLANET 4 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY DASTARDLIKE. WHITE STAR. IT HAS ONLY THREE PLANETS.
+ THEY ARE ALL 'LUNAR' BODIES, CRATERIZED AND WITH NO ATMOSPHERE.

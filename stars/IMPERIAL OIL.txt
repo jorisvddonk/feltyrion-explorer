@@ -1,0 +1,6 @@
+Star: IMPERIAL OIL
+Star class: S06
+Paris coordinates: -19345808, -5411365, 40861116
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,10 @@
+Star: FICTIA A
+Star class: S06
+Paris coordinates: 3266416, 4634407, -228368
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY NEURONWAKE EPOC 6011 802.540.979                         
+THIS STAR, AND ANY OTHER FICTIA STARS, CANNOT ALLOW LITHIUM SCOPING.        

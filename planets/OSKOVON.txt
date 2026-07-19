@@ -1,0 +1,7 @@
+Planet: OSKOVON
+Starmap index: 13
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M10/P03 LARGE NOT CONSISTENT GREY WITH DARK BANDS AND BRIGHT STORMS         
+PRO 0.218.520 PRV 0.006.644.880 SKINNYMON 795.104                           

@@ -1,0 +1,8 @@
+Planet: FLOYD
+Starmap index: 35
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.812                                    
+A HOT, UNSTABLE MOON                                                        
+(NOTES BY MISTRAL, EPOC 6011.797.813)                                       

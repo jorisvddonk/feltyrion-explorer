@@ -1,0 +1,10 @@
+Star: STROOMF
+Star class: S07
+Paris coordinates: 825712, -24867, -127109
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- STROOMFET (+ substellar object)
+
+Guide entries:
+DISCOVERED EPOC 6011:572.315 BY F.WISARD. HAS 1 PLANET.

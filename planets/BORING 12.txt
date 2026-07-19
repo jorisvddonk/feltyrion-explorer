@@ -1,0 +1,3 @@
+Planet: BORING 12
+Starmap index: 32
+Paris coordinates: -61584016, 29782048, -184920

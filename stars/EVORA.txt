@@ -1,0 +1,35 @@
+Star: EVORA
+Star class: S00
+Paris coordinates: 456784, 5761371, 165059
+Bodies: 24 (9 planets, 15 moons)
+
+System:
+- EVORA 1 (n thin atmosphere)
+- EVORA 2 (@ large, not consistent)
+- EVORA 3 (d dusty, craterized)
+  - EVORA 3.1 (d dusty, craterized)
+- EVORA 4 (+ substellar object)
+  - EVORA 4.1 (^ unstable)
+  - EVORA 4.2 (d dusty, craterized)
+  - EVORA 4.3 (d dusty, craterized)
+  - EVORA 4.4 (r rocky, creased)
+  - EVORA 4.5 (f felisian)
+  - EVORA 4.6 (k thick atmosphere)
+  - EVORA 4.7 (r rocky, creased)
+  - EVORA 4.8 (n thin atmosphere)
+- EVORA 5 (f felisian)
+  - EVORA 5.1 (^ unstable)
+  - EVORA 5.2 (n thin atmosphere)
+- EVORA 6 (f felisian)
+  - EVORA 6.1 (^ unstable)
+  - EVORA 6.2 (d dusty, craterized)
+  - EVORA 6.3 (d dusty, craterized)
+- EVORA 7 (+ substellar object)
+- EVORA 8 (d dusty, craterized)
+- EVORA 9 (i icy surface)
+  - EVORA 9.1 (d dusty, craterized)
+
+Guide entries:
+ A SYSTEM WITH 9 PLANETS AND 15 MINOR BODIES. THE EVORA STAR IS A
+G2V-TYPE DWARF STAR, POSSIBLY SUPPORTING PLANETS WITH LIFEFORMS.
+(STARGAZER. EPOC 6011:604:949)

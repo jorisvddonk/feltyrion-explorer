@@ -1,0 +1,3 @@
+Planet: MANY MOONS
+Starmap index: 06
+Paris coordinates: 2804272, 4333223, 378476

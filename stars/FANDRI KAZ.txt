@@ -1,0 +1,11 @@
+Star: FANDRI KAZ
+Star class: S05
+Paris coordinates: 5786768, 5225532, -1672311
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- HOJEM (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)

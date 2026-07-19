@@ -1,0 +1,3 @@
+Planet: FELEEM
+Starmap index: 03
+Paris coordinates: 26353616, 6245766, 45265113

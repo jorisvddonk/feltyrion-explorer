@@ -1,0 +1,13 @@
+Star: FARWAY
+Star class: S00
+Paris coordinates: -3127472, 448997, -3067933
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- SOMETHINK PINK (k thick atmosphere)
+- LAURAPALMERTOMKINSON (n thin atmosphere)
+- HAIRCUTTIE ZORK (f felisian)
+
+Guide entries:
+DISCOVERED BY R.CLEAR EPOC 6011:567.99
+ONLY HAS 3 PLANETS BUT HAIRCUTTIE ZORK IS FELISIAN

@@ -1,0 +1,26 @@
+Star: ALSAKI CCXIII
+Star class: S09
+Paris coordinates: 15899248, 32323427, -7148385
+Bodies: 20 (7 planets, 13 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (+ substellar object)
+- Planet #2 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (f felisian)
+  - Moon #3 (r rocky, creased)
+- Planet #3 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (^ unstable)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)

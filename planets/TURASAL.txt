@@ -1,0 +1,3 @@
+Planet: TURASAL
+Starmap index: 06
+Paris coordinates: -85008, 1143030, 1966563

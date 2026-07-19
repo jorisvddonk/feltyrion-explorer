@@ -1,0 +1,3 @@
+Planet: GONZOILA 2
+Starmap index: 02
+Paris coordinates: -932496, 32557, 870

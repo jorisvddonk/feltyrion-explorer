@@ -1,0 +1,22 @@
+Star: BRIDT
+Star class: S03
+Paris coordinates: 1399138512, 1893666, 1399922610
+Bodies: 11 (8 planets, 3 moons)
+
+System:
+- BRIDT PRIMUS (k thick atmosphere)
+- BRIDT SEDUNDUS (@ large, not consistent)
+- BRIDT TRIACUS (d dusty, craterized)
+- BRIDT QUADREX (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- BRIDT QUINTUS (n thin atmosphere)
+- BRIDT SEXTANE (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- BRIDT SEPTUS (r rocky, creased)
+- BRIDT OCTILLE (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS 6011.600:479
+(SO3) 8 PLANETS / 3 MINOR
+COORDINATES = 1399138512, 1893666, 1399922610

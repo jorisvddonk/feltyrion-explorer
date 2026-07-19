@@ -1,0 +1,6 @@
+Planet: PHLEBIAN
+Starmap index: 03
+Paris coordinates: 2760304, -12707569, 9635909
+
+Guide entries:
+FOUND EPOC 6011 589.490.000 BY ROLAND ASKEW

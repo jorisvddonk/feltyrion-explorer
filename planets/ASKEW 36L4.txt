@@ -1,0 +1,3 @@
+Planet: ASKEW 36L4
+Starmap index: 23
+Paris coordinates: 11827728, -18981101, 17961597

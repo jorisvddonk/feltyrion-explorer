@@ -1,0 +1,3 @@
+Planet: ASKEW 19D2
+Starmap index: 14
+Paris coordinates: 9975632, 8195351, 8947026

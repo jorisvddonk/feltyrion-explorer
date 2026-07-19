@@ -1,0 +1,8 @@
+Planet: PEKUALI
+Starmap index: 03
+Paris coordinates: 2029806864, -1864014, 355778
+
+Guide entries:
+P03/07 MEDIUM SIZE THICK ATMO, OLIVE DRAB CLOUD COVER WITH DARK             
+BANDS, TURBID WITH NO ACTIVITY VISIBLE. PRO 0.293.040 PRV 0.029.109.        
+896 SKINNYMON 6011 797.358                                                  

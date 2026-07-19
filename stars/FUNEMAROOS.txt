@@ -1,0 +1,9 @@
+Star: FUNEMAROOS
+Star class: S06
+Paris coordinates: 9952592, 18947183, -31105565
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. DISCOVERED BY NEUZD, 6011 786:914                     

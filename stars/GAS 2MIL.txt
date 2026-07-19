@@ -1,0 +1,9 @@
+Star: GAS 2MIL
+Star class: S06
+Paris coordinates: 200540912, 48113, 79024
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A 'GAS STATION' FOR TRAVELLERS IN THE X=2 MILLION RANGE.

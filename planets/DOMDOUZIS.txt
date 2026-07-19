@@ -1,0 +1,6 @@
+Planet: DOMDOUZIS
+Starmap index: 02
+Paris coordinates: 1174288, 1494814, -1510983
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.257

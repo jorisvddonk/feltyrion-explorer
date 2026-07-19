@@ -1,0 +1,12 @@
+Star: LOENE
+Star class: S00
+Paris coordinates: 26471120, 6428255, 44500059
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PEREPLE (q quartz surface)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER, A S00 STAR WITH ONLY ONE PLANET, PEREPLE,
+A QUARTZ WORLD.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:778

@@ -1,0 +1,3 @@
+Planet: SYBIR 9
+Starmap index: 32
+Paris coordinates: -61270448, 30091829, 306909

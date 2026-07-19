@@ -1,0 +1,13 @@
+Star: EKA15
+Star class: S02
+Paris coordinates: -71286352, -680202, 53796648
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- BOMBARDED PINK (d dusty, craterized)
+- SHINING FOREST (q quartz surface)
+- DOTTED GREEN (q quartz surface)
+- MURKY BROWN (n thin atmosphere)
+- ROUGH GREEN (r rocky, creased)
+- BATTERED GREY (d dusty, craterized)
+- HORRID GREENHOUSE (k thick atmosphere)

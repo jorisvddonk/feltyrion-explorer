@@ -1,0 +1,8 @@
+Planet: TAYLA
+Starmap index: 01
+Paris coordinates: 4504272, 4730261, -1221398
+
+Guide entries:
+BLADE TRAIN3R 6011 705;156                                                  
+DENSE,COVERED WITH CLOUDS, UNABLE TO LAND                                   
+DEBRIS RING SURROUNDS PLANET, GIVING IT A BEAUTY OF IT'S OWN                

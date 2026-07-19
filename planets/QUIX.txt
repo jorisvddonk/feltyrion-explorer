@@ -1,0 +1,3 @@
+Planet: QUIX
+Starmap index: 08
+Paris coordinates: 501424, 661296, 647374

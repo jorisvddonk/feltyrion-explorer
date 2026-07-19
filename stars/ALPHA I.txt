@@ -1,0 +1,24 @@
+Star: ALPHA I
+Star class: S00
+Paris coordinates: -432496, 537632, -221677
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (n thin atmosphere)
+- OI (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+A S00 SYSTEM WITH 7 PLANETS AND 6 MOONS. ONE FELYSIAN, THE THIRD.
+PLANET, NAMED OI.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:645:413

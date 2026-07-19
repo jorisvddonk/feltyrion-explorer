@@ -1,0 +1,9 @@
+Star: KALIRA
+Star class: S06
+Paris coordinates: 5674288, 7839909, -6208764
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 605.489 (SUITABLE FOR SCOPE)

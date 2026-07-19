@@ -1,0 +1,17 @@
+Star: KRELLAS
+Star class: S11
+Paris coordinates: 2156784, 4994504, -1835391
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (i icy surface)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (i icy surface)
+  - Moon #1 (i icy surface)
+
+Guide entries:
+1.PULSAR WITH 4 PLANETS AND 3 MOONS
+2.DISCOVERED BY KJ EPOC 6011:574.651

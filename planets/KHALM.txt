@@ -1,0 +1,3 @@
+Planet: KHALM
+Starmap index: 43
+Paris coordinates: 81072, -77486, -118953

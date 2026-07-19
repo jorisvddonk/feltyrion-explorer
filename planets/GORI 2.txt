@@ -1,0 +1,3 @@
+Planet: GORI 2
+Starmap index: 02
+Paris coordinates: 5870352, 8152104, -4645931

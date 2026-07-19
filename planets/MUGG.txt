@@ -1,0 +1,3 @@
+Planet: MUGG
+Starmap index: 02
+Paris coordinates: 2632496, 5972588, -1555296

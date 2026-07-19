@@ -1,0 +1,9 @@
+Star: LISTA 199
+Star class: S06
+Paris coordinates: 1050470064, -1986086, -47198
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+OASIS OF LITHIUM. SKINNYMON EPOC 6011 621.965

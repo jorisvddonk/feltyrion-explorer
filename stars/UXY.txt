@@ -1,0 +1,8 @@
+Star: UXY
+Star class: S05
+Paris coordinates: 1456784, -21673561, -896585
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- NERRE (q quartz surface)
+- KLECKS (q quartz surface)

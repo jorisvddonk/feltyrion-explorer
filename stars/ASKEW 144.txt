@@ -1,0 +1,29 @@
+Star: ASKEW 144
+Star class: S03
+Paris coordinates: 10324880, -18318396, 17337844
+Bodies: 23 (15 planets, 8 moons)
+
+System:
+- ASKEW 144A (+ substellar object)
+- ASKEW 144B (q quartz surface)
+- ASKEW 144C (n thin atmosphere)
+  - ASKEW 144C1 (d dusty, craterized)
+- ASKEW 144D (n thin atmosphere)
+  - ASKEW 144D1 (d dusty, craterized)
+- ASKEW 144E (k thick atmosphere)
+  - ASKEW 144E1 (d dusty, craterized)
+- ASKEW 144F (d dusty, craterized)
+  - ASKEW 144F1 (d dusty, craterized)
+- ASKEW 144G (k thick atmosphere)
+  - ASKEW 144G1 (n thin atmosphere)
+- ASKEW 144H (k thick atmosphere)
+- ASKEW 144I (i icy surface)
+- ASKEW 144J (r rocky, creased)
+  - ASKEW 144J1 (d dusty, craterized)
+- ASKEW 144K (n thin atmosphere)
+- ASKEW 144L (i icy surface)
+  - ASKEW 144L1 (d dusty, craterized)
+  - ASKEW 144L2 (d dusty, craterized)
+- ASKEW 144M (d dusty, craterized)
+- ASKEW 144N (i icy surface)
+- ASKEW 144O (d dusty, craterized)

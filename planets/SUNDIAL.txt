@@ -1,0 +1,7 @@
+Planet: SUNDIAL
+Starmap index: 02
+Paris coordinates: -12144, 272689, 285737
+
+Guide entries:
+ SO NAMED FOR THE FEATURE AT 195.10:15.61
+(NOTE BY DFARAN L'ENIARC EPOC 6011:674.258)

@@ -1,0 +1,8 @@
+Star: BIGGUN
+Star class: S01
+Paris coordinates: 7527472, 6422736, -1012052
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (n thin atmosphere)

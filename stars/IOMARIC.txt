@@ -1,0 +1,10 @@
+Star: IOMARIC
+Star class: S06
+Paris coordinates: 351095728, 1602523, 55441873
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:789.386
+(S06)REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

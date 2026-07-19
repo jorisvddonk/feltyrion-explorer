@@ -1,0 +1,8 @@
+Planet: JAIMU
+Starmap index: 10
+Paris coordinates: 2140268528, -2165691, -352139
+
+Guide entries:
+M02/P03 SMALL SOLID THIN ATMO MODERATE DARKNESS FAIR POLAR CAPS A           
+COUPLE LIGHT SPOTS. PRO 0.224.640 PRV 0.004.048.414 SKINNYMON 6011 791.     
+650                                                                         

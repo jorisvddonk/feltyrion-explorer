@@ -1,0 +1,3 @@
+Planet: MELON ALPHA
+Starmap index: 03
+Paris coordinates: -106002032, 25938069, -1334651

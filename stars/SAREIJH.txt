@@ -1,0 +1,8 @@
+Star: SAREIJH
+Star class: S10
+Paris coordinates: 4911056, 4861916, -1319283
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SAREIJH 1 (+ substellar object)
+- SAREIJH 2 (+ substellar object)

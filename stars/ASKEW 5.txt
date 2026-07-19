@@ -1,0 +1,6 @@
+Star: ASKEW 5
+Star class: S06
+Paris coordinates: 1653936, 6180511, -3383836
+Bodies: 0 (0 planets, 0 moons)
+
+System:

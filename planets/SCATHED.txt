@@ -1,0 +1,3 @@
+Planet: SCATHED
+Starmap index: 14
+Paris coordinates: 5086768, 5035065, -926113

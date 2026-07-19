@@ -1,0 +1,6 @@
+Planet: GS-GORGON-2
+Starmap index: 02
+Paris coordinates: 4148912, 4488377, -127177
+
+Guide entries:
+GAS GIANT, NO LIFE

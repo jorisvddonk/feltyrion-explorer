@@ -1,0 +1,6 @@
+Star: ASHS IAAYAK
+Star class: S08
+Paris coordinates: 9550000, 50000, -9650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

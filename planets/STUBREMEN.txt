@@ -1,0 +1,3 @@
+Planet: STUBREMEN
+Starmap index: 14
+Paris coordinates: 514992, 473485, 1377492

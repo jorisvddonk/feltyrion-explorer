@@ -1,0 +1,6 @@
+Star: SABRE
+Star class: S05
+Paris coordinates: 3850000, 7050000, -3950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

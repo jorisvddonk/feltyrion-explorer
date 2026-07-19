@@ -1,0 +1,8 @@
+Star: WEEEE
+Star class: S01
+Paris coordinates: -107235952, 25038811, -1889025
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- REKUREKURE IV (d dusty, craterized)
+- SNIKERS II (n thin atmosphere)

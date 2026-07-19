@@ -1,0 +1,11 @@
+Star: JEI EKARJEM
+Star class: S00
+Paris coordinates: 2070212400, -1874050, 758862
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- EMIJION (r rocky, creased)
+
+Guide entries:
+S00 STAR WITH ONE PLANET ONLY. 1.62580824 TEMP 7520 K RAD 18 KR             
+COOR 2070212400;-1874060;758862 SKINNYMON 6011 794.942                      

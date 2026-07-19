@@ -1,0 +1,3 @@
+Planet: KEVLAR-C
+Starmap index: 04
+Paris coordinates: 2661808, -678997, -7638597

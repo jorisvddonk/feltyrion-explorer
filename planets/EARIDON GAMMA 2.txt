@@ -1,0 +1,3 @@
+Planet: EARIDON GAMMA 2
+Starmap index: 06
+Paris coordinates: 99064688, 1346115, 54624595

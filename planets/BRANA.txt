@@ -1,0 +1,3 @@
+Planet: BRANA
+Starmap index: 09
+Paris coordinates: 4297488, 4541055, -1442103

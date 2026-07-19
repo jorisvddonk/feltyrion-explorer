@@ -1,0 +1,10 @@
+Star: RICTUS
+Star class: S05
+Paris coordinates: 4414992, 5140367, -2507740
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- PALL (d dusty, craterized)
+- NOTCH (q quartz surface)
+- LYRE (f felisian)
+  - SHRILL (i icy surface)

@@ -1,0 +1,8 @@
+Planet: FELAMSON
+Starmap index: 01
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+ PLANET DISCOVERED BY NEURONWAKE EPOC 6011 802.488                          
+THE ICE REGION AT 162.51 IS NOTABLE, AND I HAVE DECIDED TO CALL IT          
+'RUNNER'S BREEZE' (NEURONWAKE 6011 802.488)                                 

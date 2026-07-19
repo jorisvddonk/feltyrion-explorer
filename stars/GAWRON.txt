@@ -1,0 +1,11 @@
+Star: GAWRON
+Star class: S05
+Paris coordinates: -61439376, 29616264, 272524
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CHLORIS (d dusty, craterized)
+- CICONIA (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY MCWGOGS EP0C 6011.636.905. TWO PLANETS. CLASS S05 STAR.

@@ -1,0 +1,6 @@
+Planet: ARLETTA
+Starmap index: 01
+Paris coordinates: 2601424, 4843702, -1427000
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-569.885

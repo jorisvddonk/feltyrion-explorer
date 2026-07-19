@@ -1,0 +1,3 @@
+Planet: FELIPE
+Starmap index: 01
+Paris coordinates: 2512144, 3989701, -2674709

@@ -1,0 +1,8 @@
+Planet: YLIRISFHK
+Starmap index: 03
+Paris coordinates: 2132663920, -1770074, -569834
+
+Guide entries:
+P03/03 MEDIUM SIZE THICK ATMO, BROWNISH COLOR WITH ONE DARK BAND IN         
+SOUTH, VERY LARGE BRIGHT DISTURBANCES. PRO 0.257.040 PRV 0.022.865.         
+566 SKINNYMON 6011 797.440                                                  

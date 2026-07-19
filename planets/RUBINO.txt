@@ -1,0 +1,3 @@
+Planet: RUBINO
+Starmap index: 27
+Paris coordinates: 3473200, 4782739, 43271

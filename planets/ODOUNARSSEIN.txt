@@ -1,0 +1,3 @@
+Planet: ODOUNARSSEIN
+Starmap index: 64
+Paris coordinates: 58795344, -33712659, 927379101

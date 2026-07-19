@@ -1,0 +1,3 @@
+Planet: PINGTAI1
+Starmap index: 04
+Paris coordinates: -5951760, -575445, 210422

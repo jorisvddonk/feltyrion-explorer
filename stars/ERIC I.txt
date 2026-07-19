@@ -1,0 +1,11 @@
+Star: ERIC I
+Star class: S00
+Paris coordinates: -1132496, 330467, 265328
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ROSIE (d dusty, craterized)
+
+Guide entries:
+UNUSUAL STAR AS IT ONLY HAS ONE SMALL PLANET ORBITING IT.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:621:293

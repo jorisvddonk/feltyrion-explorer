@@ -1,0 +1,6 @@
+Planet: FELQUATIC
+Starmap index: 03
+Paris coordinates: -625712, 586454, 274347
+
+Guide entries:
+ DISCOVERED BY GINJA NINJA ON EPOC 6011. PLANET ON FIRST SERVAY WET

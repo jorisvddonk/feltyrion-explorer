@@ -1,0 +1,8 @@
+Star: NIBWOV
+Star class: S09
+Paris coordinates: 956784, 2143767, -542507
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)

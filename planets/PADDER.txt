@@ -1,0 +1,6 @@
+Planet: PADDER
+Starmap index: 32
+Paris coordinates: 3873200, 5739766, -376082
+
+Guide entries:
+MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

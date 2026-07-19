@@ -1,0 +1,13 @@
+Star: BION
+Star class: S05
+Paris coordinates: -430320, 4822685, -8124032
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)
+
+Guide entries:
+BROWN DWARF,IT HAS 2 PLANETS
+DISCOVERED BY KJ EPOC 6011:578.103
+LITHIUM FUEL

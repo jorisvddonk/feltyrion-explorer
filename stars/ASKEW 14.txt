@@ -1,0 +1,8 @@
+Star: ASKEW 14
+Star class: S03
+Paris coordinates: 9837776, 8435999, 8868022
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASKEW 14A (d dusty, craterized)
+- ALERWX (q quartz surface)

@@ -1,0 +1,3 @@
+Planet: JARAFI
+Starmap index: 05
+Paris coordinates: 1924624, 7368157, 2472677

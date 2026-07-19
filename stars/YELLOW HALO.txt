@@ -1,0 +1,35 @@
+Star: YELLOW HALO
+Star class: S00
+Paris coordinates: 4470352, 4627919, -3319077
+Bodies: 25 (8 planets, 17 moons)
+
+System:
+- BLUE RINGER (k thick atmosphere)
+- EERIE GREEN (q quartz surface)
+- PURPLE SPORE (f felisian)
+- BLUE DEEP IV (f felisian)
+- SURSTELLER (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (f felisian)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (^ unstable)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (i icy surface)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY LEXUS- EPOC 6011.841.171.216 - TYPE S00                      
+ SYSTEM HAS MANY INTERESTING PLANETS AND MOONS -LEXUS 6011.841.247          

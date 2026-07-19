@@ -1,0 +1,6 @@
+Star: YELLOW LONER
+Star class: S00
+Paris coordinates: 850000, 179837, -673795
+Bodies: 0 (0 planets, 0 moons)
+
+System:

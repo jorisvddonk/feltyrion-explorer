@@ -1,0 +1,6 @@
+Planet: VNADJYR
+Starmap index: 09
+Paris coordinates: -43216, 244374, 677040
+
+Guide entries:
+ FOUND BY PONTUS OTTOSSON EPOC 6011 609.502.400

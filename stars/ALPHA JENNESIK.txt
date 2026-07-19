@@ -1,0 +1,6 @@
+Star: ALPHA JENNESIK
+Star class: S07
+Paris coordinates: 8415248, -17060107, 16675297
+Bodies: 0 (0 planets, 0 moons)
+
+System:

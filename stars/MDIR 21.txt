@@ -1,0 +1,9 @@
+Star: MDIR 21
+Star class: S06
+Paris coordinates: 2925712, 10060504, -2337660
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE.                                                               

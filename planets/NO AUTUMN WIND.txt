@@ -1,0 +1,9 @@
+Planet: NO AUTUMN WIND
+Starmap index: 02
+Paris coordinates: 797477136, 19952973, -795620547
+
+Guide entries:
+THICK 15 ATM ATMOSPHERE SURFACE.                                            
+HAS A DISTINCT BAND AND TWO NASTY STORMS VISIBLE FROM ORBIT AT THE          
+MOMENT. SURFACE IS DISMAL, BLUISH, AND HOT ENOUGH TO BOIL WATER AND         
+SCORCH YOUR TAIL. RYAN GJK E6011;810,125                                    

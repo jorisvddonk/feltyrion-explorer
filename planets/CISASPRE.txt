@@ -1,0 +1,7 @@
+Planet: CISASPRE
+Starmap index: 02
+Paris coordinates: 2061763152, -1905797, 540779
+
+Guide entries:
+P02/02 SMALL SOLID THIN ATMO. FAIRLY DARK WITH SLIGHT POLAR CAPS.           
+PR0 0.302.760 PRV 0.026.601.740 SKINNYMON 6011 795.209                      

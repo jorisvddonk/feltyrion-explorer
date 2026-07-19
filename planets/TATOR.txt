@@ -1,0 +1,3 @@
+Planet: TATOR
+Starmap index: 04
+Paris coordinates: -787856, 9238348, 585517

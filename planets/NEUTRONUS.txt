@@ -1,0 +1,3 @@
+Planet: NEUTRONUS
+Starmap index: 01
+Paris coordinates: 3924624, 4582492, 478346

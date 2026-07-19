@@ -1,0 +1,7 @@
+Planet: NASIJI
+Starmap index: 04
+Paris coordinates: 2061228144, -1654027, 3059941
+
+Guide entries:
+M01/P03 SMALL SOLID DUSTY LARGE CRATERS, REFLECTIVE, GREEN COLOR. PRO       
+0.284.040 PRV 0.0.673.061 SKINNYMON 6011 796.70                             

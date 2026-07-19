@@ -1,0 +1,16 @@
+Star: PINGON1STARWT
+Star class: S00
+Paris coordinates: 381072, 6932089, -432586
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (k thick atmosphere)
+- PINGON1PLANETWT (f felisian)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #6 (r rocky, creased)

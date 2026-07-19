@@ -1,0 +1,6 @@
+Planet: GP-GLOWER-1
+Starmap index: 06
+Paris coordinates: 4035344, 4484112, -905031
+
+Guide entries:
+GAS PLANET, THICK ATMOSPHERE, LOW VISIBILITY, CATION ADVISED

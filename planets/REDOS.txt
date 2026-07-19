@@ -1,0 +1,7 @@
+Planet: REDOS
+Starmap index: 03
+Paris coordinates: 81072, 422514, -144867
+
+Guide entries:
+ (DISCOVERED BY FAUST. EPOC:6011:834.98.)                                   
+THERE ARE SOME INTERESTING RED MINERALS SCATTERED AROUND THE SURFACE.       

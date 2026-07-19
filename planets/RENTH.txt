@@ -1,0 +1,8 @@
+Planet: RENTH
+Starmap index: 12
+Paris coordinates: 2140364592, -691520, 1231760
+
+Guide entries:
+M02/P06 SMALL SOLID THIN ATMO. BRIGHTER THAN KLETH WITH FAIR POLAR CAPS     
+AND SEVERAL LIGHT AREAS SEEN. PRO 0.350.280 PRV 0.002.862.275 SKINNYMON     
+6011 791.563                                                                

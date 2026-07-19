@@ -1,0 +1,3 @@
+Planet: SECOND STOP OVER
+Starmap index: 01
+Paris coordinates: 3835344, 5033056, -634651

@@ -1,0 +1,10 @@
+Star: OMALLEY
+Star class: S06
+Paris coordinates: 2147061200, 746604, 199256092
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.826
+(S06) LI+ STAR

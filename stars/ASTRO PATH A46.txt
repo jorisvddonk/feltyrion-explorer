@@ -1,0 +1,27 @@
+Star: ASTRO PATH A46
+Star class: S00
+Paris coordinates: 6014736, 4453365, -27312558
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (f felisian)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (q quartz surface)
+  - Moon #16 (r rocky, creased)
+- Planet #3 (@ large, not consistent)

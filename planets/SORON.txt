@@ -1,0 +1,6 @@
+Planet: SORON
+Starmap index: 01
+Paris coordinates: 4066416, 5645367, -1158831
+
+Guide entries:
+SMALL DUSTY CARTERIZED NO ATMOSPHERE (KRUSTY 601.602.203)

@@ -1,0 +1,8 @@
+Planet: SOFHPUL
+Starmap index: 05
+Paris coordinates: 2040369680, -1613682, -623842
+
+Guide entries:
+M01/P03 SMALL, SOLID THIN ATMO. A BIT BRIGHTER THAN YLESKOL, WITH           
+GOOD POLAR CAPS. PRO 0.213.120 PRV 0.002.518.221 SKINNYMON 6011             
+796.553                                                                     

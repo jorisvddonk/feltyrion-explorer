@@ -1,0 +1,10 @@
+Star: MONTOYA
+Star class: S06
+Paris coordinates: 871440, 4940780, -3263870
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM FUEL STAR
+DISCOVERED BY KJ EPOC 6011:575.235

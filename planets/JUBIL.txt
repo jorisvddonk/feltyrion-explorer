@@ -1,0 +1,8 @@
+Planet: JUBIL
+Starmap index: 52
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.809                                    
+PLANET IS DARK, ROCKY, AND DEVOID OF LIFE                                   
+ (NOTES BY MISTRAL, EPOC 6011.797.809)                                      

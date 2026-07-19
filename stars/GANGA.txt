@@ -1,0 +1,11 @@
+Star: GANGA
+Star class: S05
+Paris coordinates: 3673200, 4371914, -362360
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GANGA I (n thin atmosphere)
+- GANGA II (k thick atmosphere)
+
+Guide entries:
+FUEL STAR

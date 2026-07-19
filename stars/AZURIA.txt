@@ -1,0 +1,39 @@
+Star: AZURIA
+Star class: S01
+Paris coordinates: 4648912, 5743891, -726921
+Bodies: 29 (12 planets, 17 moons)
+
+System:
+- BURNDT (r rocky, creased)
+- PHYZER (@ large, not consistent)
+- VIXEN (k thick atmosphere)
+  - GHEED (d dusty, craterized)
+  - TOR (d dusty, craterized)
+- NIBBLE (q quartz surface)
+  - PELTED (d dusty, craterized)
+- HYDRA (f felisian)
+- BITTER (r rocky, creased)
+  - FURON (^ unstable)
+  - CRINKLE (d dusty, craterized)
+- CHRONA (k thick atmosphere)
+- DOS (n thin atmosphere)
+- SIDEON (+ substellar object)
+  - SCRAPE (i icy surface)
+  - BEATRICE (d dusty, craterized)
+  - PARKES (q quartz surface)
+  - POLEN (i icy surface)
+  - SKRAFEN (i icy surface)
+  - FREJAN (i icy surface)
+  - SKAAFIA (i icy surface)
+  - BOLDON (i icy surface)
+- DRASCOR (r rocky, creased)
+  - DEAKIN (d dusty, craterized)
+  - SIMMER (^ unstable)
+- ROGUE (d dusty, craterized)
+- JALABAR (r rocky, creased)
+  - ZINE (d dusty, craterized)
+  - GEORGIA (^ unstable)
+
+Guide entries:
+BLUE GIANT. SYSTEM HAS 12 PLANETS AND 17 MINOR BODIES.
+HYDRA;5TH PLANET IS FELISIAN WORLD (KRUSTY 6011:596.511)

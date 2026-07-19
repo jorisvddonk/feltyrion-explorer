@@ -1,0 +1,3 @@
+Planet: FINSTE
+Starmap index: 16
+Paris coordinates: 701424, -12131, 445745

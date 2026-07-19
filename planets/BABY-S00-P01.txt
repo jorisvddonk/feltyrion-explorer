@@ -1,0 +1,3 @@
+Planet: BABY-S00-P01
+Starmap index: 01
+Paris coordinates: 2374288, 9142597, -2907554

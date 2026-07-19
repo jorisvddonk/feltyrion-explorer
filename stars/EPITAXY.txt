@@ -1,0 +1,13 @@
+Star: EPITAXY
+Star class: S02
+Paris coordinates: 3907120, 1841243, 1452000
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- EPITAXY I (n thin atmosphere)
+- EPITAXY II (@ large, not consistent)
+- EPITAXY III (d dusty, craterized)
+
+Guide entries:
+A CLASS S02 SYSTEM WITH 3 PLANETS
+SKINNYMON EPOC 6011 585.571

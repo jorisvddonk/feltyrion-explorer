@@ -1,0 +1,3 @@
+Planet: 10-11
+Starmap index: 03
+Paris coordinates: -737520, 5031334, 5347062

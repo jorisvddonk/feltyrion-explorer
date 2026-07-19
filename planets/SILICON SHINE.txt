@@ -1,0 +1,6 @@
+Planet: SILICON SHINE
+Starmap index: 01
+Paris coordinates: 3366416, 4232527, -498413
+
+Guide entries:
+DISCOVERER ALEXX, EPOC 6011:602.455.

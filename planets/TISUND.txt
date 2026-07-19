@@ -1,0 +1,7 @@
+Planet: TISUND
+Starmap index: 01
+Paris coordinates: -1870352, 664017, 795152
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.575
+A DUSTY NOT VERY WHOLESOME PLANET...

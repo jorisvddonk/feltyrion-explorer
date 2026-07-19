@@ -1,0 +1,7 @@
+Planet: YLOSOPE
+Starmap index: 03
+Paris coordinates: 2132257136, -1922174, -556654
+
+Guide entries:
+M01/P01 ORBITS COMPANION STAR B. VERY LARGE SUBSTELLAR, ORANGE COLOR.       
+PRO 0.081.280 PRV 0.0.099.117 SKINNYMON 6011 797.373                        

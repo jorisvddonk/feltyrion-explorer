@@ -1,0 +1,10 @@
+Star: ZETA ABYSSALIS
+Star class: S05
+Paris coordinates: 7298832, -16764526, 14912992
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ZETA ABYSSALIS 1 (r rocky, creased)
+- ZETA ABYSSALIS 2 (q quartz surface)
+- ZETA ABYSSALIS 3 (r rocky, creased)
+  - ZETA ABYSSALIS 3A (i icy surface)

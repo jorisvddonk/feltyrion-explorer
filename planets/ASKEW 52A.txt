@@ -1,0 +1,3 @@
+Planet: ASKEW 52A
+Starmap index: 01
+Paris coordinates: 10969520, -19066055, 17224999

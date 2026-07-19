@@ -1,0 +1,3 @@
+Planet: CACELO
+Starmap index: 03
+Paris coordinates: 4324624, 6232930, 128489

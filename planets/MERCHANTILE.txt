@@ -1,0 +1,6 @@
+Planet: MERCHANTILE
+Starmap index: 04
+Paris coordinates: 2760304, -12707569, 9635909
+
+Guide entries:
+FOUND EPOC 6011 589.494.000 BY ROLAND ASKEW

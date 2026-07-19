@@ -1,0 +1,3 @@
+Planet: HERBASCIA
+Starmap index: 06
+Paris coordinates: 4593552, 4407812, -103205

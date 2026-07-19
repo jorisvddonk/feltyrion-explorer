@@ -1,0 +1,3 @@
+Planet: HORGON 4
+Starmap index: 04
+Paris coordinates: -21676304, 428532, -6787271

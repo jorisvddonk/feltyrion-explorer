@@ -1,0 +1,3 @@
+Planet: ANOPOLIS
+Starmap index: 04
+Paris coordinates: -914992, 7027761, -920784

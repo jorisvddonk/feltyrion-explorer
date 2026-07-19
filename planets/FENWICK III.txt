@@ -1,0 +1,3 @@
+Planet: FENWICK III
+Starmap index: 03
+Paris coordinates: 4470352, 4327919, -3283633

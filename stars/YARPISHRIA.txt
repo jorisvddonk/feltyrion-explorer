@@ -1,0 +1,10 @@
+Star: YARPISHRIA
+Star class: S07
+Paris coordinates: 4421776, 6101041, -2124173
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY MATTHIUS HOOD EPOCH 6011 658.671.622
+ SINGLE BLUE DWARF SUN, NO PLANETS

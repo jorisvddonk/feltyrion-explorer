@@ -1,0 +1,6 @@
+Planet: SUN HIDER
+Starmap index: 01
+Paris coordinates: 3008208, 4283926, -1464016
+
+Guide entries:
+ DISCOVERED BY TIM MACE EPOC 6011 - 584.534.430

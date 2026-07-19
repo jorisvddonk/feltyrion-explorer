@@ -1,0 +1,6 @@
+Planet: LITTLE BROTHER
+Starmap index: 03
+Paris coordinates: 3008208, 5683926, -1431904
+
+Guide entries:
+(STAR DISCOVERED BY RYAN BURY, EPOC 6011:558.289)

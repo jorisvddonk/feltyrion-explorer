@@ -1,0 +1,6 @@
+Star: FGS FELICITY
+Star class: S00
+Paris coordinates: 1412450000, 50000, -1412550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: FRONTIER STATION
+Star class: S06
+Paris coordinates: -1417416496, 831455, 1432949935
+Bodies: 0 (0 planets, 0 moons)
+
+System:

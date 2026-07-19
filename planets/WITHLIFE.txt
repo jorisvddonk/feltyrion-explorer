@@ -1,0 +1,3 @@
+Planet: WITHLIFE
+Starmap index: 02
+Paris coordinates: 5720688, 4838292, 388146

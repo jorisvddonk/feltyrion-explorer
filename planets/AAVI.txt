@@ -1,0 +1,3 @@
+Planet: AAVI
+Starmap index: 01
+Paris coordinates: -398576, 1138327, 1488572

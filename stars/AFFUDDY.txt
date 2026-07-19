@@ -1,0 +1,9 @@
+Star: AFFUDDY
+Star class: S07
+Paris coordinates: 950000, 2187002, -757274
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S07 WITH NO PLANETS. RYAN GJK E6011.789.503                              

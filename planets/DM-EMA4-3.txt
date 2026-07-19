@@ -1,0 +1,6 @@
+Planet: DM-EMA4-3
+Starmap index: 21
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+ DEAD MOON, NO ATMOSPHERE

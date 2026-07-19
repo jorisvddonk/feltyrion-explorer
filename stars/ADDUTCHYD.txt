@@ -1,0 +1,6 @@
+Star: ADDUTCHYD
+Star class: S01
+Paris coordinates: 750000, 39650000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,7 @@
+Planet: SANTA
+Starmap index: 03
+Paris coordinates: -112144, 651192, 480098
+
+Guide entries:
+(DISCOVERED BY ANNIJA. EPOC:6011:834.155.)                                  
+A BEAUTIFUL SKYSIGHT.                                                       

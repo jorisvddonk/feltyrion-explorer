@@ -1,0 +1,8 @@
+Planet: GRONDOR
+Starmap index: 01
+Paris coordinates: -912144, 1341360, 1272711
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.742
+A MEDIUM PLANET.
+KIND OF BARON.

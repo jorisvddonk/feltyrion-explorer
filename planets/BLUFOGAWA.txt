@@ -1,0 +1,6 @@
+Planet: BLUFOGAWA
+Starmap index: 01
+Paris coordinates: 4401424, 4420713, -3243772
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.372)

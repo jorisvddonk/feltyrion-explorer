@@ -1,0 +1,3 @@
+Planet: SVICU 9
+Starmap index: 16
+Paris coordinates: -61439376, 29916264, 239760

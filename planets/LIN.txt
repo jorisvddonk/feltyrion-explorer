@@ -1,0 +1,3 @@
+Planet: LIN
+Starmap index: 02
+Paris coordinates: -1066416, -15118279, -1666279

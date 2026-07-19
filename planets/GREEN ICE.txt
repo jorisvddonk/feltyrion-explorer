@@ -1,0 +1,3 @@
+Planet: GREEN ICE
+Starmap index: 06
+Paris coordinates: 4469264, 4387862, 683077

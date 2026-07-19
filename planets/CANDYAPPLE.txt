@@ -1,0 +1,3 @@
+Planet: CANDYAPPLE
+Starmap index: 04
+Paris coordinates: 5800336, 6162999, -854981

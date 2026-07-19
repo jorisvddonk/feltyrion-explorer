@@ -1,0 +1,39 @@
+Star: BENSALEM
+Star class: S08
+Paris coordinates: 2206448, 4739621, -6617273
+Bodies: 27 (6 planets, 21 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (* companion star)
+- BENSALEM V (* companion star)
+  - JALAK (f felisian)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (^ unstable)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (^ unstable)
+  - RENFUSA (f felisian)
+  - Moon #10 (@ large, not consistent)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (d dusty, craterized)
+  - ATRI (f felisian)
+  - VACRA (f felisian)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (+ substellar object)
+  - Moon #17 (n thin atmosphere)
+  - Moon #18 (q quartz surface)
+  - Moon #19 (d dusty, craterized)
+- Planet #5 (^ unstable)
+
+Guide entries:
+S08 STAR, 'PLANETS' 4,5 ARE STARS
+FOUND BY RICHARD SOLENSKY EPOC 6011-570.491.700
+4 FELISIAN PLANETS ORBITING STAR IN P05 POSITION
+THEY ARE AT R01, R10, R14, AND R15

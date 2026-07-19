@@ -1,0 +1,7 @@
+Star: STELLAR ANCESTRY
+Star class: S07
+Paris coordinates: -1159844720, -14324, 1177775164
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PORCELAIN SCORCH (+ substellar object)

@@ -1,0 +1,12 @@
+Star: NULLNESS
+Star class: S00
+Paris coordinates: 2959632, 4184278, -481770
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DAZE (+ substellar object)
+- BOLO (@ large, not consistent)
+
+Guide entries:
+A MEDIUM SIZED YELLOW STAR WITH TWO ORBITING INCONSISTENT PLANETS.
+(NOTED UPON BY N5CORP ON 6011:627.514)

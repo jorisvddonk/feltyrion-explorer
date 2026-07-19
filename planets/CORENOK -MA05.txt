@@ -1,0 +1,6 @@
+Planet: CORENOK -MA05
+Starmap index: 05
+Paris coordinates: 5455696, 4398585, -1344889
+
+Guide entries:
+A PLANET OF NO PARTICULAR INTEREST. -ORTEGA, EPOCH 6011:621.646

@@ -1,0 +1,3 @@
+Planet: ZOZ C
+Starmap index: 01
+Paris coordinates: 850768, 78338, 68952500

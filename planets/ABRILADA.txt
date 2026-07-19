@@ -1,0 +1,6 @@
+Planet: ABRILADA
+Starmap index: 08
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 246.66 / 0.2G -160C 0A / PITCH BLACK (BY NBOAR 6011 588.525)

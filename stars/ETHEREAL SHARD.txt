@@ -1,0 +1,22 @@
+Star: ETHEREAL SHARD
+Star class: S00
+Paris coordinates: -525712, 133043, 25099
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (q quartz surface)
+- BLUE MISTS (k thick atmosphere)
+  - GREEN SHERE (d dusty, craterized)
+  - YELLOW SHERE (d dusty, craterized)
+- MISTCRAGS (k thick atmosphere)
+- ICE ROCK (r rocky, creased)
+- DECEPTION (q quartz surface)
+  - BLUE-GREEN SHERE (d dusty, craterized)
+
+Guide entries:
+A SYSTEM WITH BEAUTIFUL SIGHTS ON ITS PLANETS.
+THERE ARE ALSO A FEW MORE BARREN SIGHTS ON CERTAIN PLANETS.
+LIKE A MIX OF HEAVEN AND HELL.
+NOTES BY JUS EPOC 6011.578.455
+STAR DISCOVERED BY JUS EPOC 6011.578.262

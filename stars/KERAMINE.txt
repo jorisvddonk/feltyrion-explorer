@@ -1,0 +1,55 @@
+Star: KERAMINE
+Star class: S01
+Paris coordinates: -36432, -1290440, 1061497
+Bodies: 43 (14 planets, 29 moons)
+
+System:
+- KERAMINE1 (+ substellar object)
+- KERAMINE2 (k thick atmosphere)
+- KERAMINE3 (d dusty, craterized)
+  - KERAMINE3-1 (^ unstable)
+- KERAMINE4 (k thick atmosphere)
+  - KERAMINE4-1 (d dusty, craterized)
+  - KERAMINE4-2 (d dusty, craterized)
+- KERAMINE5 (d dusty, craterized)
+  - KERAMINE5-1 (^ unstable)
+- KERAMINE6 (n thin atmosphere)
+- KERAMINE7 (@ large, not consistent)
+  - KERAMINE7-1 (^ unstable)
+  - KERAMINE7-2 (d dusty, craterized)
+  - KERAMINE7-3 (k thick atmosphere)
+  - KERAMINE7-4 (n thin atmosphere)
+  - KERAMINE7-5 (n thin atmosphere)
+  - KERAMINE7-6 (r rocky, creased)
+  - KERAMINE7-7 (k thick atmosphere)
+  - KERAMINE7-8 (n thin atmosphere)
+  - KERAMINE7-9 (k thick atmosphere)
+  - KERAMINE7-10 (k thick atmosphere)
+  - KERAMINE7-11 (n thin atmosphere)
+  - KERAMINE7-12 (k thick atmosphere)
+  - KERAMINE7-13 (q quartz surface)
+  - KERAMINE7-14 (k thick atmosphere)
+  - KERAMINE7-15 (d dusty, craterized)
+  - KERAMINE7-16 (r rocky, creased)
+  - KERAMINE7-17 (i icy surface)
+- KERAMINE8 (r rocky, creased)
+  - KERAMINE8-1 (d dusty, craterized)
+- KERAMINE9 (k thick atmosphere)
+  - KERAMINE9-1 (^ unstable)
+- KERAMINE10 (k thick atmosphere)
+  - KERAMINE10-1 (n thin atmosphere)
+- KERAMINE11 (r rocky, creased)
+  - KERAMINE11-1 (d dusty, craterized)
+- KERAMINE12 (q quartz surface)
+- KERAMINE13 (r rocky, creased)
+- KERAMINE14 (+ substellar object)
+  - KERAMINE14-1 (n thin atmosphere)
+  - KERAMINE14-2 (n thin atmosphere)
+  - KERAMINE14-3 (i icy surface)
+  - KERAMINE14-4 (i icy surface)
+
+Guide entries:
+S01 STAR SYSTEM WITH 14 PLANETS AND 29 MINOR BODIES.
+DISCOVERED BY AIRCON 6011.612.635.175
+EACH MOON THAT HAS A THICK ATMOSPHERE SEEMS TO SHARE THE SAME TERRAIN
+AT EACH LQ-000.060 THERE IS A SHARP RIDGE DOWN ONE SIDE. OFTEN NORTH.

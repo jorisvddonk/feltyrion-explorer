@@ -1,0 +1,9 @@
+Star: FAMSOL
+Star class: S08
+Paris coordinates: 5179984, 4724194, -1491412
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.475                               

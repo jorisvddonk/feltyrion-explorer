@@ -1,0 +1,3 @@
+Planet: SHUCINDRE
+Starmap index: 01
+Paris coordinates: -156784, 37190, -85076

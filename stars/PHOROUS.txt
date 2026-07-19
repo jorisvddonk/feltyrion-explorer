@@ -1,0 +1,13 @@
+Star: PHOROUS
+Star class: S00
+Paris coordinates: 4390704, 5394299, -2041809
+Bodies: 7 (6 planets, 1 moons)
+
+System:
+- CAUSALIDAD (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+- TIBURON (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+- Planet #5 (f felisian)

@@ -1,0 +1,13 @@
+Star: TOWER 28
+Star class: S11
+Paris coordinates: 1535344, 1235740, 1580253
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.497                               

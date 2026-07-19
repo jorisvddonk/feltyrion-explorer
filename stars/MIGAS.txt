@@ -1,0 +1,6 @@
+Star: MIGAS
+Star class: S06
+Paris coordinates: 4850000, 7004320, -4712138
+Bodies: 0 (0 planets, 0 moons)
+
+System:

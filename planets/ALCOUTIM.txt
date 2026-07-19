@@ -1,0 +1,6 @@
+Planet: ALCOUTIM
+Starmap index: 02
+Paris coordinates: 4873200, 4885727, -1391831
+
+Guide entries:
+LANDED 303.60 / 1.1G 70C .4A / NICE ROCKS (BYNBOAR 6011 588.807)

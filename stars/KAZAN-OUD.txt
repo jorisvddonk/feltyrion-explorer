@@ -1,0 +1,10 @@
+Star: KAZAN-OUD
+Star class: S06
+Paris coordinates: -371440, 1448346, 3083014
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:575.298
+UNSUITABLE FOR LI+ SCOPING

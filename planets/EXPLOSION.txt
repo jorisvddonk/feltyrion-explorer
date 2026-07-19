@@ -1,0 +1,3 @@
+Planet: EXPLOSION
+Starmap index: 04
+Paris coordinates: -71893136, -756602, 53977080

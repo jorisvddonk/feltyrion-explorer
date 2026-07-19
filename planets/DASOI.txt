@@ -1,0 +1,3 @@
+Planet: DASOI
+Starmap index: 02
+Paris coordinates: 2131226064, -1582473, 462983

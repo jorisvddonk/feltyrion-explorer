@@ -1,0 +1,6 @@
+Planet: HIROS
+Starmap index: 02
+Paris coordinates: 528560, 785668, 2181784
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.002.976)

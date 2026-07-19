@@ -1,0 +1,3 @@
+Planet: CRICKET
+Starmap index: 02
+Paris coordinates: 3959632, 4309715, -1270753

@@ -1,0 +1,3 @@
+Planet: YORKE
+Starmap index: 10
+Paris coordinates: 3824624, 5929346, 628416

@@ -1,0 +1,11 @@
+Star: SIGMA DULLIS
+Star class: S02
+Paris coordinates: 4459632, 6049965, -1947067
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MARIYUZ (@ large, not consistent)
+
+Guide entries:
+ STAR DISCOVERED BY MATTHIUS HOOD AT EPOCH 6011 658.671.320
+ ONE PLANET ONLY

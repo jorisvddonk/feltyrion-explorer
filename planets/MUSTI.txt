@@ -1,0 +1,3 @@
+Planet: MUSTI
+Starmap index: 41
+Paris coordinates: 5658544, 4943265, 798068

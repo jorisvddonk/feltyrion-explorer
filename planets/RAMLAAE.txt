@@ -1,0 +1,3 @@
+Planet: RAMLAAE
+Starmap index: 01
+Paris coordinates: 3204272, 4732925, 16061

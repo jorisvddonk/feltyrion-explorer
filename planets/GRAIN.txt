@@ -1,0 +1,6 @@
+Planet: GRAIN
+Starmap index: 01
+Paris coordinates: 2708208, 5523615, -1144671
+
+Guide entries:
+ SMALL PLANET WITH LARGE CRATERS. DISCOVERED BY MRUQE; EPOC 6011-568.595

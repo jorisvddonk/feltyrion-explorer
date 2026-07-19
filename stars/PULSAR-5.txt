@@ -1,0 +1,10 @@
+Star: PULSAR-5
+Star class: S11
+Paris coordinates: 1667504, 4213447, -2437192
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- PULSAR-5-A (d dusty, craterized)
+- PULSAR-5-B (d dusty, craterized)
+- PULSAR-5-C (d dusty, craterized)
+- PULSAR-5-D (d dusty, craterized)

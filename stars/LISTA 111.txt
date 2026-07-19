@@ -1,0 +1,9 @@
+Star: LISTA 111
+Star class: S05
+Paris coordinates: 50287280, -1975515, 197581
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A LONELY S05 WITH LI+. SKINNYMON EPOC 6011 607.254

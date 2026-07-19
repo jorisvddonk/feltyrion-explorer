@@ -1,0 +1,3 @@
+Planet: FELIS GRIS
+Starmap index: 03
+Paris coordinates: 271440, 6335982, -2700286

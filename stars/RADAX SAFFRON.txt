@@ -1,0 +1,8 @@
+Star: RADAX SAFFRON
+Star class: S03
+Paris coordinates: -39761392, 1546378, 31461496
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DISTORTION SHIFT (k thick atmosphere)
+- DOFFLER CHARGE (k thick atmosphere)

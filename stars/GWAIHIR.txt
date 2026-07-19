@@ -1,0 +1,10 @@
+Star: GWAIHIR
+Star class: S10
+Paris coordinates: -12476720, -98694, -2450538
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GWAIHIR I (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:594.397

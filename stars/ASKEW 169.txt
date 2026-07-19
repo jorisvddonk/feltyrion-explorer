@@ -1,0 +1,7 @@
+Star: ASKEW 169
+Star class: S07
+Paris coordinates: 6766000, -7372091, 9568314
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ASKEW 169A (+ substellar object)

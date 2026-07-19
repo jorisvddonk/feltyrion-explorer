@@ -1,0 +1,11 @@
+Planet: EREBOS
+Starmap index: 01
+Paris coordinates: 3604272, 4832627, -412972
+
+Guide entries:
+FIRST PLANET OF HANDEN2 SYSTEM, NO MOONS.                                   
+DENSE ATMOSPHERE, HIGH TEMPERATURE AND PRESSURE. WEAK GRAVITY.              
+SURFACE DARKENED BY PERMANENT COVER OF CLOUDS.                              
+NEARBY SUN VISIBLE NONETHELESS AS BIG DISC.                                 
+IRREGULAR TERRAIN WITH SCATTERED ROCKY OUTCROPPINGS.                        
+(JAVIER, 6011:685.941)                                                      

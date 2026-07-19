@@ -1,0 +1,3 @@
+Planet: AS12241741D5
+Starmap index: 13
+Paris coordinates: -1029392, 6925129, 25350908

@@ -1,0 +1,18 @@
+Star: EKA43 BURNING BRIGHT
+Star class: S02
+Paris coordinates: -432496, -96682, -427855
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- SIZZLING HOT (d dusty, craterized)
+- SHINING PURE (+ substellar object)
+- JADED (k thick atmosphere)
+- CORRUPTED GLOW (n thin atmosphere)
+- JADED MARBLE (k thick atmosphere)
+- GLOWING GLOBE (+ substellar object)
+- EMERALD SHINE (d dusty, craterized)
+
+Guide entries:
+WHITE DWARF WITH 7 PLANETS AND NO MOONS. THIS MAY JUST BE ME SINCE I
+HAVEN'T VISITED WHITE DWARVES IN A WHILE, BUT IT SEEMS TO BE A RATHER
+LARGE AMOUNT OF PLANETS FOR SUCH A STAR. --EKA

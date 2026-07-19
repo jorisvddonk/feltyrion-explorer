@@ -1,0 +1,3 @@
+Planet: CRASHPAD
+Starmap index: 18
+Paris coordinates: 4855696, 4327844, -667718

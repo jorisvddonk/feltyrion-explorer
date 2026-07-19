@@ -1,0 +1,3 @@
+Planet: CRAETERN ILN GRARN
+Starmap index: 04
+Paris coordinates: 58819632, -33812924, 926872580

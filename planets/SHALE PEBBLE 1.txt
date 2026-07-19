@@ -1,0 +1,3 @@
+Planet: SHALE PEBBLE 1
+Starmap index: 23
+Paris coordinates: 3077136, 4447919, -1286006

@@ -1,0 +1,3 @@
+Planet: ASKEW 101D
+Starmap index: 04
+Paris coordinates: 2276464, -11958858, -10407518

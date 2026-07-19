@@ -1,0 +1,25 @@
+Star: MELAS
+Star class: S03
+Paris coordinates: 4097488, 4932993, -1274598
+Bodies: 19 (11 planets, 8 moons)
+
+System:
+- SUBMELAS (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- ANTIMERL (r rocky, creased)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+- Planet #8 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)

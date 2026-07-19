@@ -1,0 +1,7 @@
+Planet: PHAHR
+Starmap index: 09
+Paris coordinates: -1108208, -712825, -246456
+
+Guide entries:
+MEDIUM, QUARTZ SURFACE, OXYGEN ATMOSPHERE.
+NYTAR, EPOC 6011:612.214

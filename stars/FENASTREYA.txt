@@ -1,0 +1,30 @@
+Star: FENASTREYA
+Star class: S01
+Paris coordinates: 5169264, 4083567, -202229
+Bodies: 17 (8 planets, 9 moons)
+
+System:
+- YAPODR (d dusty, craterized)
+- DRAGONT (d dusty, craterized)
+- FONIAH (d dusty, craterized)
+  - CYTOS (n thin atmosphere)
+- TUSKIRTOID (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - ERTIOW (d dusty, craterized)
+- SHERTUL (d dusty, craterized)
+  - KLORT (d dusty, craterized)
+- LULUNA (n thin atmosphere)
+  - QYVEK (^ unstable)
+  - VIGUN (d dusty, craterized)
+- WYSITH (n thin atmosphere)
+  - FATAN (d dusty, craterized)
+  - NIKAP (d dusty, craterized)
+- ITEKEO (n thin atmosphere)
+  - UBUF (d dusty, craterized)
+
+Guide entries:
+A CLASS S01 SYSTEM OF 8 PLANETS, 9 MOONS, (WHO AM I KIDDING 10 OUT
+OF 17 WORLDS ARE DUSTY/CRATERIZED.) NO FELISIAN ANYTHING. THIS IS
+THE ARMPIT OF THE GALAXY. SKINNYMON EPOC 6011 595.688
+ FURTHER NOTES: QUICK!!!! GO TO LISTA 84 NEARBY, FUEL UP AND GET
+AWAY AS FAST AS YOUR STARDRIFTER WILL TAKE YOU. THAT'S MY PLAN!

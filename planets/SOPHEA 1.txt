@@ -1,0 +1,6 @@
+Planet: SOPHEA 1
+Starmap index: 01
+Paris coordinates: 294640, 502336, 354802
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.1056.419)

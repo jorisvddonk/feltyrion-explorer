@@ -1,0 +1,6 @@
+Star: BIG BLUE ORB
+Star class: S01
+Paris coordinates: 1550000, 57250000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

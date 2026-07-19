@@ -1,0 +1,9 @@
+Star: LISTA 130
+Star class: S06
+Paris coordinates: 359970928, -1910781, 589641
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL HERE. SKINNYMON EPOC 6011 607.439

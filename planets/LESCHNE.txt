@@ -1,0 +1,3 @@
+Planet: LESCHNE
+Starmap index: 29
+Paris coordinates: 1670352, -20147273, -251169

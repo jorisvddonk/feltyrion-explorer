@@ -1,0 +1,8 @@
+Planet: OMIRAL
+Starmap index: 05
+Paris coordinates: 633440592, -10656950, 50122346
+
+Guide entries:
+M01/P03 SMALL AND DUSTY WITH BRIGHT GREEN REFLECTIVITY AND DARK CRATERS     
+WITH BRIGHTER RAYS. PRO 0.174.960; PRV 0.003.014.695 SKINNYMON 6011         
+893.148                                                                     

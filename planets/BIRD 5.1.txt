@@ -1,0 +1,6 @@
+Planet: BIRD 5.1
+Starmap index: 10
+Paris coordinates: -363568, -28395, -268008
+
+Guide entries:
+SMALL, HEAVILY CRATERIZED ROCK. SERPENS, 6011 665.407

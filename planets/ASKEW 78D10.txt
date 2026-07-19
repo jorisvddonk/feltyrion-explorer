@@ -1,0 +1,6 @@
+Planet: ASKEW 78D10
+Starmap index: 16
+Paris coordinates: 11727728, -19112154, 18047770
+
+Guide entries:
+FOUND EPOC 6011 588.110.200 BY ROLAND ASKEW

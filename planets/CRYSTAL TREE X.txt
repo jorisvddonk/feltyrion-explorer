@@ -1,0 +1,3 @@
+Planet: CRYSTAL TREE X
+Starmap index: 03
+Paris coordinates: -776048, 4351251, -4442859

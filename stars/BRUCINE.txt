@@ -1,0 +1,12 @@
+Star: BRUCINE
+Star class: S02
+Paris coordinates: 4143216, -69678, -4404773
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- NUX VOMICA (n thin atmosphere)
+- BURBOT (@ large, not consistent)
+
+Guide entries:
+A CLASS S02 WHITE DWARF WITH 2 PLANETS, NO MOONS
+AND NO NIGHT CLUBS. SKINNYMON EPOC 6011 565.714

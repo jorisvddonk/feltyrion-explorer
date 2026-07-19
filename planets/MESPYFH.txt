@@ -1,0 +1,10 @@
+Planet: MESPYFH
+Starmap index: 02
+Paris coordinates: 2140833520, -2641384, 1001352
+
+Guide entries:
+P02/06 MEDIUM SIZE THICK ATMO CLOUD COVER. PURPLE NORTH HEMI WITH           
+LIGHT BAND AND STORMS IN SOUTH. PRO 0.092.160 PRV 0.019.676.225             
+SKINNYMON 6011 791.437                                                      
+ADD NOTE: HAS SMALL TENUOUS DEBRIS RING                                     
+791.438                                                                     

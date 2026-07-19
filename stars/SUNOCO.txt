@@ -1,0 +1,6 @@
+Star: SUNOCO
+Star class: S06
+Paris coordinates: 4052848, 4246901, -1734919
+Bodies: 0 (0 planets, 0 moons)
+
+System:

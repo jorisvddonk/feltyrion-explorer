@@ -1,0 +1,3 @@
+Planet: AUSEKLIS
+Starmap index: 04
+Paris coordinates: -260720, 824133, 1771081

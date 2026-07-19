@@ -1,0 +1,6 @@
+Star: GAS STAR2
+Star class: S06
+Paris coordinates: -49935280, -50128049, -49446089
+Bodies: 0 (0 planets, 0 moons)
+
+System:

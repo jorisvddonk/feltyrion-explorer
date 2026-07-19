@@ -1,0 +1,3 @@
+Planet: GREEN ICE WORLD
+Starmap index: 64
+Paris coordinates: 3942128, 4305316, -442144

@@ -1,0 +1,7 @@
+Planet: FHIJILI
+Starmap index: 08
+Paris coordinates: 2054927472, 1424347, -408821
+
+Guide entries:
+M01/P03 SMALL SOLID DUSTY, LARGE CRATERS VERY GREEN REFLECTIVITY.           
+PRO 0.176.400 PRV 0.004.430.983 SKINNYMON 6011 795.813                      

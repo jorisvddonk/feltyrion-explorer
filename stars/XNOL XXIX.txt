@@ -1,0 +1,6 @@
+Star: XNOL XXIX
+Star class: S06
+Paris coordinates: -4834256, 6724539, -1839788
+Bodies: 0 (0 planets, 0 moons)
+
+System:

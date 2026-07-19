@@ -1,0 +1,3 @@
+Planet: DAEMONICA
+Starmap index: 07
+Paris coordinates: 4276048, 2046733, 1291565

@@ -1,0 +1,12 @@
+Star: SHELDRAKE
+Star class: S02
+Paris coordinates: 6496400, 5043090, 165690
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- SHELDRAKE II (r rocky, creased)
+- SHELDRAKE III (d dusty, craterized)
+
+Guide entries:
+ A CLASS S02 SYSTEM WITH 3 WORLDS. SKINNYMON EPOC 6011585.314

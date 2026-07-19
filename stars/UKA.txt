@@ -1,0 +1,11 @@
+Star: UKA
+Star class: S05
+Paris coordinates: 2181072, 6434179, -2221629
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- VIM (d dusty, craterized)
+- N'RAR (n thin atmosphere)
+
+Guide entries:
+SYSTEM EXPLORED AND DISCOVERED BY RAPTORJEDI EPOC 6011 605.187

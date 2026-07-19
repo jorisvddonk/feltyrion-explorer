@@ -1,0 +1,17 @@
+Star: AMY
+Star class: S11
+Paris coordinates: -705360, 1025027, 1439547
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- ILAMTA (d dusty, craterized)
+- DELOREAN (n thin atmosphere)
+- CALABELLA (d dusty, craterized)
+- BEIDERMAN (d dusty, craterized)
+  - WOLF (n thin atmosphere)
+
+Guide entries:
+A BEAUTIFUL SMALL PULSAR, DISCOVERED BY BELCH, EPOC 6011:607:823
+ALMOST ALL OF THE SYSTEM'S PLANETS SHOW SIGNS OF CRATERISATION
+THIS SUGGESTS THE PULSAR HAS PULLED MANY COMETS, ETC INTO THE SYSTEM
+ALL THE PLANETS ARE SMALL IN SIZE AND ARE SOLID AND DUSTY ON THE SURFACE

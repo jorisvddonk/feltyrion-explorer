@@ -1,0 +1,3 @@
+Planet: WERDABOX
+Starmap index: 01
+Paris coordinates: -1428500752, 655066, 1437150602

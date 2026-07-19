@@ -1,0 +1,7 @@
+Planet: GRA-ALFANO
+Starmap index: 53
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.684.518 -                                
+ THERE IS A VERY DEEP ABYSS IN 64.1:63.-32 -                                

@@ -1,0 +1,9 @@
+Star: TOWER 16
+Star class: S11
+Paris coordinates: 1297488, 1120131, 1472522
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.496                               

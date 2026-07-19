@@ -1,0 +1,10 @@
+Star: EZY
+Star class: S05
+Paris coordinates: 1359632, 815385, 1290195
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STATION                                                                
+(DISCOVERED BY GEEKOFDEATH 6011:711.720)                                    

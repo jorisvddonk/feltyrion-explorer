@@ -1,0 +1,3 @@
+Planet: SWIMMING
+Starmap index: 04
+Paris coordinates: 4962480, 5674426, -191700

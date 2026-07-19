@@ -1,0 +1,6 @@
+Planet: FALCONCREST
+Starmap index: 08
+Paris coordinates: 2108208, 4934064, -601836
+
+Guide entries:
+DISCOVERED BY MRUQE; 6011-569.902

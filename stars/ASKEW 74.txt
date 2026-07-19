@@ -1,0 +1,38 @@
+Star: ASKEW 74
+Star class: S01
+Paris coordinates: 11052016, -19059857, 17952287
+Bodies: 29 (7 planets, 22 moons)
+
+System:
+- ASKEW 74A (+ substellar object)
+- ASKEW 74B (d dusty, craterized)
+- ASKEW 74C (r rocky, creased)
+  - ASKEW 74C1 (d dusty, craterized)
+  - ASKEW 74C2 (d dusty, craterized)
+- ASKEW 74D (q quartz surface)
+  - ASKEW 74D1 (^ unstable)
+  - ASKEW 74D2 (d dusty, craterized)
+- ASKEW 74E (@ large, not consistent)
+  - ASKEW 74E1 (n thin atmosphere)
+  - ASKEW 74E2 (^ unstable)
+  - ASKEW 74E3 (r rocky, creased)
+  - ASKEW 74E4 (k thick atmosphere)
+  - ASKEW 74E5 (n thin atmosphere)
+  - ASKEW 74E6 (q quartz surface)
+  - ASKEW 74E7 (k thick atmosphere)
+  - ASKEW 74E8 (n thin atmosphere)
+  - ASKEW 74E9 (k thick atmosphere)
+  - ASKEW 74E10 (d dusty, craterized)
+  - ASKEW 74E11 (d dusty, craterized)
+  - ASKEW 74E12 (^ unstable)
+  - ASKEW 74E13 (r rocky, creased)
+  - DALIA (f felisian)
+  - ASKEW 74E15 (n thin atmosphere)
+  - ASKEW 74E16 (k thick atmosphere)
+  - ASKEW 74E17 (n thin atmosphere)
+  - ASKEW 74E18 (n thin atmosphere)
+- ASKEW 74F (d dusty, craterized)
+- ASKEW 74G (q quartz surface)
+
+Guide entries:
+3 QUARTZ AND 1 FELISIAN WORLD

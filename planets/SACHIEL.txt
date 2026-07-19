@@ -1,0 +1,6 @@
+Planet: SACHIEL
+Starmap index: 09
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+ DEAD MOON, NO ATMOSPHERE

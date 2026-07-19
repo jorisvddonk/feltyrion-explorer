@@ -1,0 +1,6 @@
+Star: OUTER RUN WIND
+Star class: S10
+Paris coordinates: -1027472, 5805997, -5135362
+Bodies: 0 (0 planets, 0 moons)
+
+System:

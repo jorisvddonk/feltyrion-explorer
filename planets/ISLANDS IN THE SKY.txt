@@ -1,0 +1,3 @@
+Planet: ISLANDS IN THE SKY
+Starmap index: 04
+Paris coordinates: 3687856, 5881647, -3357485

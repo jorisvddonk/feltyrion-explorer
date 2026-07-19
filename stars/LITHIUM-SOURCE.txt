@@ -1,0 +1,10 @@
+Star: LITHIUM-SOURCE
+Star class: S06
+Paris coordinates: 3766416, 4929610, -655105
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY MAERK GEISSMANN , EPOC 6011:605.201
+AS ITS NAME SAYS - IT'S A LITHIUM-SOURCE.

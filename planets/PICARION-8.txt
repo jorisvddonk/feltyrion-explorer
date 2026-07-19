@@ -1,0 +1,7 @@
+Planet: PICARION-8
+Starmap index: 08
+Paris coordinates: 4462480, 4394429, 359285
+
+Guide entries:
+DISTANT PLANET WITH OXYGEN ATMOSPHERE, VERY COLD                            
+THERE ARE STRANGE PURPLE MOUNTAINS                                          

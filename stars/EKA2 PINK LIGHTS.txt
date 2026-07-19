@@ -1,0 +1,16 @@
+Star: EKA2 PINK LIGHTS
+Star class: S08
+Paris coordinates: -71737776, -612728, 53298332
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (* companion star)
+- PINK OUTCAST (* companion star)
+  - THE MINIPINK (+ substellar object)
+  - BURNT PINK (r rocky, creased)
+- THE RINGED MINIPINK (+ substellar object)
+  - SICKLY PINK (@ large, not consistent)
+- ROTTING CORPSE (r rocky, creased)
+  - MAGGOT (d dusty, craterized)
+  - DYING HOPE (n thin atmosphere)
+- SHINING OUTCAST (q quartz surface)

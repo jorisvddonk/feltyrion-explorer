@@ -1,0 +1,7 @@
+Planet: CYID
+Starmap index: 53
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M11/P10 SMALL SOLID ICY VIOLET COLOR WITH PURPLE GROOVING. PRO 0.169.200    
+PRV 0.003.855.267 SKINNYMON 6011 792.249                                    

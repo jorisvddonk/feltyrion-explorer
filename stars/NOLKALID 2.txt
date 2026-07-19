@@ -1,0 +1,8 @@
+Star: NOLKALID 2
+Star class: S02
+Paris coordinates: 784880, 16047, 190657359
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- NOLKALID 2 1 (+ substellar object)
+- NOLKALID 2 2 (d dusty, craterized)

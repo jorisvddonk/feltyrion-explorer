@@ -1,0 +1,6 @@
+Planet: FYORA
+Starmap index: 01
+Paris coordinates: 5665328, 4477163, 1057889
+
+Guide entries:
+ A PLANET OF QUARTZ AND NO ATMOSPHERE. -ORTEGA, EPOCH 6011:621.693

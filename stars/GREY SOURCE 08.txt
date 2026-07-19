@@ -1,0 +1,6 @@
+Star: GREY SOURCE 08
+Star class: S06
+Paris coordinates: 22877808, 49794397, -11336947
+Bodies: 0 (0 planets, 0 moons)
+
+System:

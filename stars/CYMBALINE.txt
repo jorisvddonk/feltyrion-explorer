@@ -1,0 +1,13 @@
+Star: CYMBALINE
+Star class: S00
+Paris coordinates: 381072, 32089, -423081
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (f felisian)
+- TALONS CLAW (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- TYCHO (d dusty, craterized)
+  - LAFAYETTE (^ unstable)

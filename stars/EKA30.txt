@@ -1,0 +1,52 @@
+Star: EKA30
+Star class: S00
+Paris coordinates: -71486352, -762585, 54070193
+Bodies: 39 (9 planets, 30 moons)
+
+System:
+- GLOWING ORB (q quartz surface)
+- LONE GIANT (+ substellar object)
+- ILL WIND (f felisian)
+  - NUCLEAR EXPLOSION (d dusty, craterized)
+  - SHATTERED EMERALD (d dusty, craterized)
+- OCEAN OF TERROR (f felisian)
+- GREEN METAL (@ large, not consistent)
+  - CONTRASTING FATE (^ unstable)
+  - MIMIC (r rocky, creased)
+  - BRIGHT MOLD (d dusty, craterized)
+  - PITEOUS BEAUTY (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (^ unstable)
+- Planet #5 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (^ unstable)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (@ large, not consistent)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (^ unstable)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (k thick atmosphere)
+  - Moon #15 (n thin atmosphere)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+ THIS IS AN S00 STAR WITH 9 PLANET-LIKE BODIES AND 30 MOONS. --EKA
+I HAVE DECIDED TO GO BACK TO THE FELISIAN AREA OF THE GALAXY BECAUSE
+THIS AREA IS SPARSE IN STARS OF OTHERS. IF AND WHEN I COME BACK, I WILL
+CONTINUE MY WORK AT THIS SYSTEM IF I REMEMBER TO AND IF NOBODY FINISHES
+LABELLING IT BY THAT TIME. --EKA

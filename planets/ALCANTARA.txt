@@ -1,0 +1,6 @@
+Planet: ALCANTARA
+Starmap index: 13
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 164.75 / 0.7G -170C 32A / CLOUDS (BY NBOAR 6011 588.562)

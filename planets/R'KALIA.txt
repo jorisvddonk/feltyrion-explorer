@@ -1,0 +1,6 @@
+Planet: R'KALIA
+Starmap index: 05
+Paris coordinates: 1770352, 4945881, -410751
+
+Guide entries:
+ DISCOVERED BY MRUQE; EPOC 6011-570.475

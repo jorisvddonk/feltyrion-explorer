@@ -1,0 +1,20 @@
+Star: DANCERS
+Star class: S08
+Paris coordinates: -532496, 436737, -363337
+Bodies: 9 (3 planets, 6 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (f felisian)
+- Planet #1 (* companion star)
+  - Moon #0 (r rocky, creased)
+- Planet #2 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY ASHNOD 663.282
+MANY MAN STARS MAKE UP THIS SYSTEM ALL THE MOONS HAVE ATMOSPHERES.
+THE 'PLANETS' ARE ALL STARS.

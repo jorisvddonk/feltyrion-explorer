@@ -1,0 +1,3 @@
+Planet: DALB-101 I
+Starmap index: 01
+Paris coordinates: 3773200, 4846237, -462749

@@ -1,0 +1,6 @@
+Planet: FULLAISLE
+Starmap index: 03
+Paris coordinates: 570352, -17743, 592279
+
+Guide entries:
+FELISIAN PLANET.(HUMI,EPOC:6011.563.489)

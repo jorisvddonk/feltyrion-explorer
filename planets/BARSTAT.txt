@@ -1,0 +1,9 @@
+Planet: BARSTAT
+Starmap index: 01
+Paris coordinates: 1387856, 611504, -1116805
+
+Guide entries:
+NAMED BY BEN, EPOC 6011 793:297:370                                         
+BARREN WORLD. PATCHES OF POSSIBLY ICE OR SNOW ON THE SURFACE.               
+CONFIRMED, LANDING WAS ON DAY SIDE. PLANET IS INHERENTLY DARK DUE TO        
+CLOUD COVER.                                                                

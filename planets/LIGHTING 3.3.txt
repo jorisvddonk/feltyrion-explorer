@@ -1,0 +1,6 @@
+Planet: LIGHTING 3.3
+Starmap index: 08
+Paris coordinates: 36432, 33110, -633205
+
+Guide entries:
+SMALL, THIN ATMOSPHERE, VERY DARK. SERPENS, 6011 665.369

@@ -1,0 +1,7 @@
+Planet: OMIDYKRE
+Starmap index: 01
+Paris coordinates: 2060873872, -1780546, 127470
+
+Guide entries:
+P01/05 MEDIUM SIZED ROCKY SCARRED, LARGE CRATERS, FAIRLY ROUGH. PRO         
+0.138.600 PRV 0.010.640 SKINNYMON 6011 796.38                               

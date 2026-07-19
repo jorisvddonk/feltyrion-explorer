@@ -1,0 +1,9 @@
+Star: WAYPOINT KILO
+Star class: S02
+Paris coordinates: -21998160, -19995834, -400036222
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED 6011:576,110 BY SHADOWCLAW)

@@ -1,0 +1,7 @@
+Planet: FUPI
+Starmap index: 13
+Paris coordinates: 81072, -77486, -118953
+
+Guide entries:
+AIRLESS. 0.18 GRAVITY. GREEN AND BROWN WITH QUARTZ DEPOSITS.
+(SCHMERM 6011 579.658)

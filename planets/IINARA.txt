@@ -1,0 +1,6 @@
+Planet: IINARA
+Starmap index: 05
+Paris coordinates: 1170352, 1373898, -11566
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.332

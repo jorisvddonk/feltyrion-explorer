@@ -1,0 +1,29 @@
+Star: HOPE I
+Star class: S00
+Paris coordinates: 8067088, 6822211, 4701176
+Bodies: 23 (3 planets, 20 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- SECOND SUN (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - AQUATUTICIS (f felisian)
+  - MUSTHERA (k thick atmosphere)
+  - CRATERON (d dusty, craterized)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (@ large, not consistent)
+  - CREDUS I (k thick atmosphere)
+  - GASMAN (k thick atmosphere)
+  - PRETTY IN PINK (k thick atmosphere)
+  - CRESUN I (d dusty, craterized)
+  - Moon #14 (^ unstable)
+  - NOBODY HOME (d dusty, craterized)
+  - CRYSTALIA (q quartz surface)
+  - Moon #17 (d dusty, craterized)
+  - Moon #18 (d dusty, craterized)
+  - TINY FELISIA (f felisian)

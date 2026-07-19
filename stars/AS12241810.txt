@@ -1,0 +1,12 @@
+Star: AS12241810
+Star class: S08
+Paris coordinates: -853680, 7535162, 25961518
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- AS12241810A (d dusty, craterized)
+- AS12241810B (* companion star)
+- AS12241810C (+ substellar object)
+  - AS12241810C1 (@ large, not consistent)
+  - JANCKI (f felisian)
+- AS12241810D (k thick atmosphere)

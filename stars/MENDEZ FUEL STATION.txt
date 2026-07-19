@@ -1,0 +1,6 @@
+Star: MENDEZ FUEL STATION
+Star class: S06
+Paris coordinates: -19990448, -5563827, 40966492
+Bodies: 0 (0 planets, 0 moons)
+
+System:

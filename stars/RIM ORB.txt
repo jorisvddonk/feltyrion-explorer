@@ -1,0 +1,10 @@
+Star: RIM ORB
+Star class: S05
+Paris coordinates: -1408398992, 260298, 1422988218
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BROWN DWARF, NO PLANETS...LOCATION? GALACTIC EDGE. NAMED AND                
+DISCOVERED BY RYAN GJK E6011.781.450                                        

@@ -1,0 +1,9 @@
+Star: NSF 02
+Star class: S06
+Paris coordinates: 3648912, 4532863, 257811
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+26 MTPD EST

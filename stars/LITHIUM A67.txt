@@ -1,0 +1,6 @@
+Star: LITHIUM A67
+Star class: S06
+Paris coordinates: 5073360, 3832152, -38293998
+Bodies: 0 (0 planets, 0 moons)
+
+System:

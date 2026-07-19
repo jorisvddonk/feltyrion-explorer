@@ -1,0 +1,3 @@
+Planet: WILLOWIN
+Starmap index: 07
+Paris coordinates: 501424, 661296, 647374

@@ -1,0 +1,7 @@
+Star: PLASMA
+Star class: S10
+Paris coordinates: 1118928, 1267004, -859596
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)

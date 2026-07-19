@@ -1,0 +1,6 @@
+Planet: THE MOUND
+Starmap index: 03
+Paris coordinates: 1776048, 6136152, 3590978
+
+Guide entries:
+DISCOVERED BY SHADOW151 6011.597.864

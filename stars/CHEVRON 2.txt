@@ -1,0 +1,9 @@
+Star: CHEVRON 2
+Star class: S06
+Paris coordinates: 5173200, 4530193, -1742258
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY JIMMY GENDRON, EPOC 6011:567.87.622

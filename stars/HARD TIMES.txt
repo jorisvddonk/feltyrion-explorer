@@ -1,0 +1,33 @@
+Star: HARD TIMES
+Star class: S03
+Paris coordinates: -236432, 411650, 1252183
+Bodies: 27 (10 planets, 17 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - CUCHULAINN (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

@@ -1,0 +1,6 @@
+Star: NLG'7286
+Star class: S08
+Paris coordinates: 2912144, 5332376, -3099987
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,18 @@
+Star: MINGEOS
+Star class: S00
+Paris coordinates: 74288, 149145, -633450
+Bodies: 12 (8 planets, 4 moons)
+
+System:
+- RAGATE (r rocky, creased)
+- WELLNOSS (r rocky, creased)
+- TRI ENDAL (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- QUAD ENDRAL (f felisian)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- HEX ENDAL (q quartz surface)
+- SEPT ENDAL (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- OCTO ENDAL (i icy surface)

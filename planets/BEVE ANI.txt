@@ -1,0 +1,6 @@
+Planet: BEVE ANI
+Starmap index: 09
+Paris coordinates: 4889616, 4398910, 1313447
+
+Guide entries:
+SURVEYED BY EDEANP 6011.617.985.777

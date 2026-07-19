@@ -1,0 +1,15 @@
+Star: LLAMA
+Star class: S11
+Paris coordinates: 5567504, 5805982, -6324991
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- RIMPOCHE (n thin atmosphere)
+- GYATSO (n thin atmosphere)
+- STRANGER (d dusty, craterized)
+  - TRADUUN (i icy surface)
+
+Guide entries:
+A TINY PULSAR, NOT MUCH ELSE. ORBITED BY THREE PLANETS WITH NO MINOR
+BODIES.
+(DISCOVERY, NOTES, AND NAME BY N5CORP ON 6011:624.903)

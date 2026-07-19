@@ -1,0 +1,3 @@
+Planet: SHEEMA 2
+Starmap index: 02
+Paris coordinates: 5956784, 8165851, -5435792

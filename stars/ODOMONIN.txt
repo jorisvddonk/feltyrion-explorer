@@ -1,0 +1,11 @@
+Star: ODOMONIN
+Star class: S08
+Paris coordinates: 1625712, 62325869, -922019
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LWAWFT (* companion star)
+
+Guide entries:
+S08 SYSTEM WITH ONLY ONE COMPANION STAR AND NO OTHER BODIES. BOTH STARS     
+GLOW OF A PALE RED, PINKISH LIGHT. (DISCOVERED BY NEUZD, 6011:789.950)      

@@ -1,0 +1,6 @@
+Star: ALSAKI CCXIX
+Star class: S10
+Paris coordinates: 15054608, 32148231, -7034385
+Bodies: 0 (0 planets, 0 moons)
+
+System:

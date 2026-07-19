@@ -1,0 +1,11 @@
+Star: FS 0001
+Star class: S06
+Paris coordinates: 4086768, 4411795, 74056
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FUEL STAR
+AMWHERE 6011.571.924
+1.FUEL STAR

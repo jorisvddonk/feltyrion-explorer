@@ -1,0 +1,3 @@
+Planet: BERUK
+Starmap index: 21
+Paris coordinates: 11558800, -19461295, 17911789

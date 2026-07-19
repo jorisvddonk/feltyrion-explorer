@@ -1,0 +1,28 @@
+Star: SYPH
+Star class: S00
+Paris coordinates: -408208, 3940299, -1032829
+Bodies: 19 (10 planets, 9 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - MALINE (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (n thin atmosphere)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (@ large, not consistent)
+- Planet #7 (r rocky, creased)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY SHAM COURTNEY, 6011:593.382

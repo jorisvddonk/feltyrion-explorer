@@ -1,0 +1,14 @@
+Star: VIOS
+Star class: S02
+Paris coordinates: -601424, -78140, -425711
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- PIKAROS (@ large, not consistent)
+- MAGENQUAR (q quartz surface)
+- GRENRAUK (r rocky, creased)
+- LIMERAUK (r rocky, creased)
+- GEMRING (q quartz surface)
+
+Guide entries:
+DISCOVERED BY NYTAR, EPOC 6011:611.696

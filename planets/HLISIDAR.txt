@@ -1,0 +1,8 @@
+Planet: HLISIDAR
+Starmap index: 04
+Paris coordinates: 2132663920, -1770074, -569834
+
+Guide entries:
+M01/P03 SMALL SOLID DUSTY, MODERATE SIZE CRATERS, FAIRLY BRIGHT LIGHT       
+GREEN REFLECTIVITY. PAR 0.162.360 PRV 0.002.444.407 SKINNYMON 6011          
+797.440                                                                     

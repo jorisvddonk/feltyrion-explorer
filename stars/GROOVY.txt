@@ -1,0 +1,27 @@
+Star: GROOVY
+Star class: S00
+Paris coordinates: -61852944, 29865986, -44470
+Bodies: 21 (8 planets, 13 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)
+- Planet #2 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (f felisian)
+- ECLIPSE A (d dusty, craterized)
+  - ECLIPSE B (n thin atmosphere)
+- Planet #4 (^ unstable)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #6 (n thin atmosphere)
+- Planet #7 (d dusty, craterized)

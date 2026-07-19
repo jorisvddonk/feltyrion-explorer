@@ -1,0 +1,8 @@
+Star: NAPHTHA
+Star class: S11
+Paris coordinates: 2052848, 4204453, 7080
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ESTERASE (d dusty, craterized)
+- TOLAN (n thin atmosphere)

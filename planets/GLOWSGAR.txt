@@ -1,0 +1,3 @@
+Planet: GLOWSGAR
+Starmap index: 03
+Paris coordinates: -136432, 229546, 862523

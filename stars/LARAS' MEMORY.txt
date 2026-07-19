@@ -1,0 +1,30 @@
+Star: LARAS' MEMORY
+Star class: S08
+Paris coordinates: -485008, 1322727, 2464057
+Bodies: 20 (4 planets, 16 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- ASHRON'S MEMORY (* companion star)
+- Planet #2 (* companion star)
+  - FINAL RESTING PLACE (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (^ unstable)
+  - Moon #5 (^ unstable)
+  - Moon #6 (@ large, not consistent)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (@ large, not consistent)
+  - Moon #14 (f felisian)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+
+Guide entries:
+THIS STAR WAS NAMED AFTER LARAS, A FELLOW STAR DRIFTER AND
+FRIEND WHO LOST HER LIFE TO A LITHIUM EATER.

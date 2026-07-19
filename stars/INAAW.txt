@@ -1,0 +1,10 @@
+Star: INAAW
+Star class: S06
+Paris coordinates: -1029648, 548240, 2272061
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:574.349
+SOURCE OF LI+ IONS

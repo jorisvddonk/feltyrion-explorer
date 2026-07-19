@@ -1,0 +1,3 @@
+Planet: KR6-E555KL-7
+Starmap index: 13
+Paris coordinates: 3290704, 4837570, -933229

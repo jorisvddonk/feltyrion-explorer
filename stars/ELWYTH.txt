@@ -1,0 +1,14 @@
+Star: ELWYTH
+Star class: S00
+Paris coordinates: 5028560, 5841207, -2327894
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.848

@@ -1,0 +1,6 @@
+Star: BETA DENGIS
+Star class: S07
+Paris coordinates: 4152848, 5218786, -2045890
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: PENGUIN I
+Starmap index: 06
+Paris coordinates: 65328, 7120873, 6832267

@@ -1,0 +1,10 @@
+Star: SOMBA
+Star class: S00
+Paris coordinates: 3470352, 4125558, -2108445
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011.561.224
+NO PLANETS ORBITING AROUND THIS STAR.

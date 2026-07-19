@@ -1,0 +1,7 @@
+Planet: VERFA
+Starmap index: 20
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M07/P05 SMALL SOLID THIN ATMO. VERY BRIGHT WITH NICE BRIGHT POLAR CAPS,     
+PRO 0.107.640 PRV 0.006.968.060 SKINNYMON 6011 791.361                      

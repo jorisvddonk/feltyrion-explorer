@@ -1,0 +1,6 @@
+Planet: BRITTLEBANE
+Starmap index: 01
+Paris coordinates: 3442128, 4530971, 167077
+
+Guide entries:
+ GAS GIANT.

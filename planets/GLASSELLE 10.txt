@@ -1,0 +1,3 @@
+Planet: GLASSELLE 10
+Starmap index: 10
+Paris coordinates: 2100464176, 1223044, 54811604

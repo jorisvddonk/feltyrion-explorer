@@ -1,0 +1,3 @@
+Planet: ORIOLUS
+Starmap index: 19
+Paris coordinates: -61501520, 29941691, 642079

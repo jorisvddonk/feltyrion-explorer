@@ -1,0 +1,14 @@
+Star: MEDUSA
+Star class: S08
+Paris coordinates: 2018928, 1964914, -1734179
+Bodies: 3 (1 planets, 2 moons)
+
+System:
+- Planet #0 (* companion star)
+  - PERSUS (n thin atmosphere)
+  - HYDRON (k thick atmosphere)
+
+Guide entries:
+ TWO STARS, ORBITING IN CLOSE PROXIMITY TO EACHOTHER, NO PLANETS
+DETECTED, BUT THE TWO STARS GIVE SOME INCREDIBLE LIGHTSHOW.
+GOOD PHOTO OPERTUNITY. (STARGAZER. EPOC 6011:596:903)

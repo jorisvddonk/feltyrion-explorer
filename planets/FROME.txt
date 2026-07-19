@@ -1,0 +1,8 @@
+Planet: FROME
+Starmap index: 17
+Paris coordinates: 808208, 1178550, 752685
+
+Guide entries:
+MOON OF FRAOT. BOTH ARE ATLEAST 0.43 LIGHTYEARS FROM THEIR SUN, MAKING      
+THE SUN LOOK ALMOST, BUT NOT QUITE, LIKE A DOT IN THE SKY.                  
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.983.790)                           

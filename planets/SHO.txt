@@ -1,0 +1,3 @@
+Planet: SHO
+Starmap index: 17
+Paris coordinates: 759632, -29653883, 1894601

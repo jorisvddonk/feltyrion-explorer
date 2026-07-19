@@ -1,0 +1,7 @@
+Planet: OPUKE
+Starmap index: 28
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M13/P07 SMALL SOLID THIN ATMO. FAIRLY BRIGHT SLIGHT POLAR CAPS. PRO 0.      
+176.760 PRV 0.007.590.635 SKINNYMON 6011 792.10                             

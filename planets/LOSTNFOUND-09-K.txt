@@ -1,0 +1,3 @@
+Planet: LOSTNFOUND-09-K
+Starmap index: 29
+Paris coordinates: 3479984, 3304507, 183089

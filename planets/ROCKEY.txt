@@ -1,0 +1,6 @@
+Planet: ROCKEY
+Starmap index: 20
+Paris coordinates: 143216, 72699, -337506
+
+Guide entries:
+ DISCOVERED BY SHADOW151 EPOC 6011.599.162 MOUNTIANIOUS THUS THE NAME

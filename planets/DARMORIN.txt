@@ -1,0 +1,11 @@
+Planet: DARMORIN
+Starmap index: 03
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+PLANET DISCOVERED BY NEURONWAKE EPOC 6011 802.489.491                       
+EXTREMELY ROUGH SURFACE, MOUNTAINOUS, EASY TO GET LOST IN. CRATERS          
+ARE INTERESTING IN SOME AREAS, AND MAKE LARGE CRATER WALLS.                 
+(NEURONWAKE 6011 802.489.971)                                               
+PLANET HAS MANY MOONS. . .                                                  
+(NEURONWAKE 6011 802.490)                                                   

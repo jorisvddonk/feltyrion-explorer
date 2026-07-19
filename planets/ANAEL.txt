@@ -1,0 +1,6 @@
+Planet: ANAEL
+Starmap index: 06
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+DEAD MOON, NO ATMOSPHERE

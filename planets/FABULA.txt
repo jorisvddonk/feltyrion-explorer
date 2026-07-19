@@ -1,0 +1,6 @@
+Planet: FABULA
+Starmap index: 01
+Paris coordinates: -21671856, 17940608, 37942520
+
+Guide entries:
+ LARGE, NOT CONSISTANT, NICE ORBITAL RING (SCAREDY-CAT, 6011.589.761)

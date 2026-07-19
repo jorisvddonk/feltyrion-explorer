@@ -1,0 +1,3 @@
+Planet: REM C 3
+Starmap index: 11
+Paris coordinates: 467504, 3945992, -1215803

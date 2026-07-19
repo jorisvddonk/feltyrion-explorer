@@ -1,0 +1,3 @@
+Planet: TELOS
+Starmap index: 03
+Paris coordinates: 2956784, 5439576, -2418075

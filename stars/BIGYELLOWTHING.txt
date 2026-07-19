@@ -1,0 +1,52 @@
+Star: BIGYELLOWTHING
+Star class: S00
+Paris coordinates: -61125808, 29740310, 724290
+Bodies: 42 (9 planets, 33 moons)
+
+System:
+- WASTED (d dusty, craterized)
+- GORGOROTH (n thin atmosphere)
+- BARNABA (f felisian)
+  - HASEK (d dusty, craterized)
+- QUARTALIS (q quartz surface)
+  - SHUGAR (d dusty, craterized)
+- JB 117 (+ substellar object)
+  - CHOOY (q quartz surface)
+  - NEROS (d dusty, craterized)
+  - FONGEY (k thick atmosphere)
+  - FOOM (d dusty, craterized)
+  - HELGA (@ large, not consistent)
+  - MICROWAVE (^ unstable)
+  - SZANIEC (r rocky, creased)
+  - WOP 5 (k thick atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - SHLYVA (k thick atmosphere)
+  - DRNO (@ large, not consistent)
+  - NIEZYT (@ large, not consistent)
+  - OLD CHEASE (d dusty, craterized)
+  - SHNIKERS (^ unstable)
+  - PLASTUS (d dusty, craterized)
+  - YOVER (@ large, not consistent)
+  - BENLADIN (q quartz surface)
+  - MESS (d dusty, craterized)
+- GIEVAP (k thick atmosphere)
+- BIGGREYTHING (@ large, not consistent)
+  - MEDIUMGREENTHING (k thick atmosphere)
+  - KASHANKA (k thick atmosphere)
+  - OWIEC (^ unstable)
+  - FELYRATIS (f felisian)
+  - BRZYDAL (^ unstable)
+  - HEFAJSTOS (k thick atmosphere)
+  - SALCESOON (d dusty, craterized)
+  - BULLFROG (k thick atmosphere)
+  - HAMSTER (k thick atmosphere)
+  - KAC (r rocky, creased)
+  - KARSKI (n thin atmosphere)
+  - ARAFAT (n thin atmosphere)
+- MR HAMSTER (d dusty, craterized)
+  - BANG (d dusty, craterized)
+- BIGROUNDSTONE (r rocky, creased)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.656.402. CLASS S00 STAR
+9 PLANETS, 33 MOONS

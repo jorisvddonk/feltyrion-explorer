@@ -1,0 +1,6 @@
+Star: LONE SUN
+Star class: S00
+Paris coordinates: -701424, -6483, -300588
+Bodies: 0 (0 planets, 0 moons)
+
+System:

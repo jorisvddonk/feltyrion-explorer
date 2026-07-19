@@ -1,0 +1,6 @@
+Planet: IMBROGEN V-A
+Starmap index: 08
+Paris coordinates: 2268592, 5848899, -7008251
+
+Guide entries:
+DISCOVERED BY TIANCRIS -EPOC 6011.691.632 -                                 

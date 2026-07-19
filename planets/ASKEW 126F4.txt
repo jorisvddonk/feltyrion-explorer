@@ -1,0 +1,3 @@
+Planet: ASKEW 126F4
+Starmap index: 56
+Paris coordinates: 5179568, -15162902, 12055564

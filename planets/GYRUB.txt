@@ -1,0 +1,3 @@
+Planet: GYRUB
+Starmap index: 09
+Paris coordinates: 4369264, 4800882, 566404

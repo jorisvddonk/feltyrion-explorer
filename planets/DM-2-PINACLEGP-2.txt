@@ -1,0 +1,6 @@
+Planet: DM-2-PINACLEGP-2
+Starmap index: 16
+Paris coordinates: 3804272, 4498014, -620206
+
+Guide entries:
+UNEXPLORED, QUARTZ SURFACE, OXYGEN ATMOSPHERE, ASSUMED DEAD

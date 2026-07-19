@@ -1,0 +1,42 @@
+Star: GLIESEN
+Star class: S00
+Paris coordinates: -999742544, -1308, 1419595540
+Bodies: 28 (10 planets, 18 moons)
+
+System:
+- GLIESEN I (k thick atmosphere)
+- GLIESEN II (@ large, not consistent)
+- GLIESEN III (k thick atmosphere)
+- MACHRA (f felisian)
+- GLIESEN V (r rocky, creased)
+  - GLIESEN V A (n thin atmosphere)
+  - GLIESEN V B (d dusty, craterized)
+- GLIESEN VI (d dusty, craterized)
+- GLIESEN VII (n thin atmosphere)
+  - GLIESEN VII A (i icy surface)
+- GLIESEN VIII (k thick atmosphere)
+  - GLIESEN VIII A (n thin atmosphere)
+- GLIESEN IX (@ large, not consistent)
+  - GLIESEN IX A (d dusty, craterized)
+  - GLIESEN IX B (i icy surface)
+  - GLIESEN IX C (i icy surface)
+  - GLIESEN IX D (i icy surface)
+  - GLIESEN IX E (i icy surface)
+  - GLIESEN IX F (i icy surface)
+  - GLIESEN IX G (d dusty, craterized)
+  - GLIESEN IX H (i icy surface)
+  - GLIESEN IX I (i icy surface)
+  - GLIESEN IX J (i icy surface)
+  - GLIESEN IX K (i icy surface)
+  - GLIESEN IX L (i icy surface)
+  - Moon #12 (i icy surface)
+  - GLIESEN IX N (i icy surface)
+- GLIESEN X (d dusty, craterized)
+
+Guide entries:
+I SEEM TO HAVE HIT A WALL TRYING TO REACH THE PERIPHERY OF THE GALAXY,
+AS THE STARDRIFTER'S TARGETING COMPUTER WILL NOT ACCEPT A FULL 8-DIGIT
+PARSIS COORDINATE WHEN THERE IS A NEGATIVE SIGN INVOLVED. SO, I CAME
+AS FAR AS I COULD, AND FINALLY FOUND THIS LONELY S00 STAR.
+THERE'S 10 PLANETS HERE, THE FOURTH BEING A FELYSIAN WORLD.
+(SCHMERM 6011 597.862)

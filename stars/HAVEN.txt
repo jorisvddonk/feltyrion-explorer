@@ -1,0 +1,28 @@
+Star: HAVEN
+Star class: S00
+Paris coordinates: 3452848, 4714008, -1406861
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (q quartz surface)
+- HAVEN-3 (f felisian)
+- HAVEN-4 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- HAVEN-5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- HAVEN-7 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (i icy surface)
+
+Guide entries:
+CLASS 00 SYSTEM WITH 9 PLANETS. HAVEN-3, 4, 5 AND 7 ARE ABONDONED FELI-
+SIAN COLONIES.
+DISCOVERD BY NAMMYUNG, 6011.561

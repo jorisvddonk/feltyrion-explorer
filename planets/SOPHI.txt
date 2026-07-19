@@ -1,0 +1,6 @@
+Planet: SOPHI
+Starmap index: 54
+Paris coordinates: 4955696, 4635983, -633493
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.124)

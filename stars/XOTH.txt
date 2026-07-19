@@ -1,0 +1,8 @@
+Star: XOTH
+Star class: S02
+Paris coordinates: 3966416, 4399706, -1036671
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- XOTH1 (r rocky, creased)
+- XOTH2 (d dusty, craterized)

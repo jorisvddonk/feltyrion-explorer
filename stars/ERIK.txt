@@ -1,0 +1,10 @@
+Star: ERIK
+Star class: S10
+Paris coordinates: 3097488, 4492685, -339391
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN ANCIENT RUN-AWAY WITH NO ORBITING BODIES.
+(N5CORP ON 6011:627.442)

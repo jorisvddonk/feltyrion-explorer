@@ -1,0 +1,6 @@
+Star: DALAMUTE
+Star class: S01
+Paris coordinates: 1650000, 44950000, -1750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

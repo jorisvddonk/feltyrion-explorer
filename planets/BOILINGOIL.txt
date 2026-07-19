@@ -1,0 +1,3 @@
+Planet: BOILINGOIL
+Starmap index: 04
+Paris coordinates: -106002032, 25938069, -1334651

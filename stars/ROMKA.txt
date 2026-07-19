@@ -1,0 +1,16 @@
+Star: ROMKA
+Star class: S00
+Paris coordinates: -106991312, 25050762, -1632866
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- ARKARRIS JOTA (q quartz surface)
+- SPUNDRZ (r rocky, creased)
+- REMONT (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- TUNDERA (f felisian)
+  - Moon #0 (d dusty, craterized)
+- YASNOSH (d dusty, craterized)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

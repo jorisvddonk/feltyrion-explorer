@@ -1,0 +1,9 @@
+Star: NO! 002
+Star class: S06
+Paris coordinates: -30310032, -19917332, -699539676
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO FUEL HERE. (SHADOWCLAW 6011:581.799)

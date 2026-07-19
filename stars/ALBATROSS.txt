@@ -1,0 +1,11 @@
+Star: ALBATROSS
+Star class: S07
+Paris coordinates: 3359632, 4445485, -941508
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+
+Guide entries:
+NO PLANETS BUT BEAUTIFUL SUBSTELLAR. REAL TWO-BODIES-PROBLEM I SAY.         
+FROM WINDETTA WITH LOVE - 697.161                                           

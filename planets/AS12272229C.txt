@@ -1,0 +1,3 @@
+Planet: AS12272229C
+Starmap index: 03
+Paris coordinates: 50351504, -211629, 1980373283

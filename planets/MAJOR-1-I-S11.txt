@@ -1,0 +1,3 @@
+Planet: MAJOR-1-I-S11
+Starmap index: 32
+Paris coordinates: 4285008, 4736436, -6124845

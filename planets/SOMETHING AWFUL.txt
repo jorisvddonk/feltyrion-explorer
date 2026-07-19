@@ -1,0 +1,3 @@
+Planet: SOMETHING AWFUL
+Starmap index: 09
+Paris coordinates: 4517840, 4625313, -517790

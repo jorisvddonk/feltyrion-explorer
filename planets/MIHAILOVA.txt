@@ -1,0 +1,3 @@
+Planet: MIHAILOVA
+Starmap index: 05
+Paris coordinates: 3579984, 4607492, 169632

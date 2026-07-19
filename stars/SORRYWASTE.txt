@@ -1,0 +1,6 @@
+Star: SORRYWASTE
+Star class: S06
+Paris coordinates: 2970352, 4648819, -1792099
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,11 @@
+Star: PARESI
+Star class: S01
+Paris coordinates: -398576, 1138327, 1488572
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- AAVI (q quartz surface)
+- ESTI (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:569:5

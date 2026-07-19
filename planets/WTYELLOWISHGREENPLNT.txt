@@ -1,0 +1,3 @@
+Planet: WTYELLOWISHGREENPLNT
+Starmap index: 05
+Paris coordinates: -32884432, 5098143, -15438858

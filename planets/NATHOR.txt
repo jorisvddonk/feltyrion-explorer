@@ -1,0 +1,3 @@
+Planet: NATHOR
+Starmap index: 01
+Paris coordinates: -746064, 220521, -957699

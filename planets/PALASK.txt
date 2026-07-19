@@ -1,0 +1,3 @@
+Planet: PALASK
+Starmap index: 08
+Paris coordinates: 2521776, 4915370, -175857

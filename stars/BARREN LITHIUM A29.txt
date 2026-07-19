@@ -1,0 +1,6 @@
+Star: BARREN LITHIUM A29
+Star class: S06
+Paris coordinates: 6860048, 4821490, -17868362
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Planet: ODFHNOJAME
+Starmap index: 03
+Paris coordinates: 2052562480, 532725, 204773
+
+Guide entries:
+P03/04 LARGE, NOT CONSISTENT, RED REFLECTIVITY WITH DARKER BANDS,           
+ HAS SMALL BRIGHT STORMS, DEBRIS RING IS DULLY REFLECTIVE AND               
+MODERATE SIZE. PRO 0.208.080 PRV 0.048.046.448 SKINNYMON 6011               
+795.973                                                                     

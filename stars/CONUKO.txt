@@ -1,0 +1,34 @@
+Star: CONUKO
+Star class: S00
+Paris coordinates: 263568, 840889, 676453
+Bodies: 22 (7 planets, 15 moons)
+
+System:
+- MERCUTI (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (f felisian)
+- Planet #3 (f felisian)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (f felisian)
+  - Moon #9 (f felisian)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (^ unstable)
+- Planet #6 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+EXPLORATION HALTED AT EPOC 6011 584.43.490 DUE TO LOW FUEL. WILL RETURN
+-PROF.CALLAHAN
+NEARBY AREA ALMOST COMPLETELY UNEXPLORED DUE TO OBSCURE LOCATION.
+FOR EZ REFERENCE, PAR IS 263575,840895,676451. HAPPY DRIFTING!

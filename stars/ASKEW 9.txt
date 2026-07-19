@@ -1,0 +1,10 @@
+Star: ASKEW 9
+Star class: S05
+Paris coordinates: 4751760, 2171682, 1257539
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ASKEW 9A (d dusty, craterized)
+- ASKEW 9B (d dusty, craterized)
+- ASKEW 9C (n thin atmosphere)
+  - ASKEW 9C1 (d dusty, craterized)

@@ -1,0 +1,15 @@
+Star: TUGAR
+Star class: S05
+Paris coordinates: 4490704, 4735203, -2066666
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- SLURM (r rocky, creased)
+- WURM (q quartz surface)
+- YURRM (q quartz surface)
+  - MURRM (d dusty, craterized)
+  - IRRM (i icy surface)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.149

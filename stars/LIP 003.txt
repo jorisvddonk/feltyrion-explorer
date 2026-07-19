@@ -1,0 +1,9 @@
+Star: LIP 003
+Star class: S06
+Paris coordinates: 4324624, 4432930, 94268
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR REFUELING (BRIAN KWAN, EPOC 6011:565.42)

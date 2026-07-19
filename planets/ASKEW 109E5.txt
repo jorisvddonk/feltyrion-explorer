@@ -1,0 +1,6 @@
+Planet: ASKEW 109E5
+Starmap index: 38
+Paris coordinates: 1902096, -12067422, 8947965
+
+Guide entries:
+FOUND EPOC 6011 588.967.190 BY ROLAND ASKEW

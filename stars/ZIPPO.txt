@@ -1,0 +1,6 @@
+Star: ZIPPO
+Star class: S06
+Paris coordinates: 4435344, 5255151, -1297248
+Bodies: 0 (0 planets, 0 moons)
+
+System:

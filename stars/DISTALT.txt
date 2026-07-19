@@ -1,0 +1,10 @@
+Star: DISTALT
+Star class: S06
+Paris coordinates: 1200380240, 1377488, 55252600
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.954
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

@@ -1,0 +1,33 @@
+Star: BILLESTA
+Star class: S08
+Paris coordinates: 501424, 261296, 648165
+Bodies: 22 (3 planets, 19 moons)
+
+System:
+- TEDOGA (* companion star)
+  - ENGLISH PRINCESS (q quartz surface)
+- STALLYN (^ unstable)
+- RUFUSA (@ large, not consistent)
+  - NAPOLEON (n thin atmosphere)
+  - BILLIKIDA (k thick atmosphere)
+  - SOCRATESA (d dusty, craterized)
+  - FREUDIA (n thin atmosphere)
+  - BEETHOVEN (k thick atmosphere)
+  - JOANARC (n thin atmosphere)
+  - LINCOLN (n thin atmosphere)
+  - KHAN (q quartz surface)
+  - DENOMOLOS (^ unstable)
+  - REAPER (k thick atmosphere)
+  - STATION I (d dusty, craterized)
+  - STATION II (k thick atmosphere)
+  - BILLESTA EVEL (n thin atmosphere)
+  - TEDOGA EVEL (d dusty, craterized)
+  - BILLESTA ROBO (^ unstable)
+  - TEDOGA ROBO (q quartz surface)
+  - MISSY (q quartz surface)
+  - DAN SIMAS (n thin atmosphere)
+
+Guide entries:
+A MULTIPLE STAR SYSTEM. 1ST PLANET TEDOGA IS NOT ACTUALLY A PLANET...
+TEDOGA IS THE COMPANION STAR
+BELCH, EPOC 6011:607:899

@@ -1,0 +1,14 @@
+Star: GWARG
+Star class: S05
+Paris coordinates: 3766416, 4529610, -656879
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- GWARG 1 (d dusty, craterized)
+- GWARG 2 (@ large, not consistent)
+- GWARG 3 (^ unstable)
+
+Guide entries:
+A CLASS S05 BROWN DWARF. I WENT HERE JUST TO REFUEL, BUT SURE ENOUGH,       
+IT HAS THREE PLANETS. I'M NOT CERTAIN IF I'LL GET TO EXPLORING THEM,        
+THOUGH. PERHAPS LATER... SERPENS, 6011 789.436                              

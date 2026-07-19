@@ -1,0 +1,45 @@
+Star: NOBII'IRET
+Star class: S04
+Paris coordinates: -656340688, 116143, -496575757
+Bodies: 35 (11 planets, 24 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (^ unstable)
+  - Moon #0 (d dusty, craterized)
+- NOBII'IRET 7 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (^ unstable)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (i icy surface)
+  - Moon #12 (i icy surface)
+  - Moon #13 (q quartz surface)
+  - Moon #14 (q quartz surface)
+  - DASHOR (f felisian)
+  - Moon #16 (r rocky, creased)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (r rocky, creased)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+S04; 11 PLANETS, 24 MINORS
+DISCOVERED BY SYFEN (6011:602.641)

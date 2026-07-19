@@ -1,0 +1,6 @@
+Planet: PARNIA III
+Starmap index: 03
+Paris coordinates: 2846064, 3921160, -1026430
+
+Guide entries:
+PLANET SUITABLE FOR LIFE (JOHN DILICK, 6011:609.153)

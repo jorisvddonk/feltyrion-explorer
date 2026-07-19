@@ -1,0 +1,6 @@
+Star: UNION 76
+Star class: S06
+Paris coordinates: -1189616, 4842327, -4929114
+Bodies: 0 (0 planets, 0 moons)
+
+System:

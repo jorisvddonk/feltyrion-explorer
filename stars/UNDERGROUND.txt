@@ -1,0 +1,9 @@
+Star: UNDERGROUND
+Star class: S04
+Paris coordinates: 7616752, 6906472, 275625
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LONE S04 STAR. NO PLANET IT SEEMS.

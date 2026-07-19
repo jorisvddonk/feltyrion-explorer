@@ -1,0 +1,3 @@
+Planet: HERAT
+Starmap index: 05
+Paris coordinates: 1285008, -226261, -3127493

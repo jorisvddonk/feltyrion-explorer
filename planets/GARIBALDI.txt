@@ -1,0 +1,3 @@
+Planet: GARIBALDI
+Starmap index: 05
+Paris coordinates: 2659632, 5047014, -45246

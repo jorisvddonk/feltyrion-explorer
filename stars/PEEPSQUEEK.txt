@@ -1,0 +1,9 @@
+Star: PEEPSQUEEK
+Star class: S02
+Paris coordinates: -105939888, 25925472, -1497120
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- BLUE HEAVEN (@ large, not consistent)
+- GAS SWAMP (@ large, not consistent)
+- NUKEBURGER (k thick atmosphere)

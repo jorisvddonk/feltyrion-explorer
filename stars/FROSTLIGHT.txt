@@ -1,0 +1,9 @@
+Star: FROSTLIGHT
+Star class: S07
+Paris coordinates: 2132496, 4007520, -1036725
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED AND NAMED BY JSONE.BLUE DWARF WITH NO PLANETS.

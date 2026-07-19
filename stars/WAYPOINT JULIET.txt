@@ -1,0 +1,13 @@
+Star: WAYPOINT JULIET
+Star class: S08
+Paris coordinates: -21767664, -20022887, -350089203
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- ROMEO (* companion star)
+  - ENDLESS DEEPS (k thick atmosphere)
+  - SHADES OF GREEN (k thick atmosphere)
+- SECOND ROMEO (* companion star)
+
+Guide entries:
+(DISCOVERED BY SHADOWCLAW 6011:575:479)

@@ -1,0 +1,3 @@
+Planet: NIGHT-SET VIEW
+Starmap index: 02
+Paris coordinates: -669264, 4270901, -4231048

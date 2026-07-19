@@ -1,0 +1,6 @@
+Star: B EXPRESS 8
+Star class: S06
+Paris coordinates: 7550000, 150000, -7650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,31 @@
+Star: ARGELY
+Star class: S00
+Paris coordinates: 3407120, 6208420, 1867930
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- EVERDAWN (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- SUBECLIPSE (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (r rocky, creased)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (q quartz surface)
+  - Moon #16 (r rocky, creased)
+- BOREA (d dusty, craterized)
+  - WAVY POOL (d dusty, craterized)
+
+Guide entries:
+DISCOVERED EPOC 6012 060.110

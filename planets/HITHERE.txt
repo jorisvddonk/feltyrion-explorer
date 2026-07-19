@@ -1,0 +1,3 @@
+Planet: HITHERE
+Starmap index: 42
+Paris coordinates: -62139376, 29684697, 1110989

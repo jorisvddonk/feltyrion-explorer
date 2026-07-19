@@ -1,0 +1,3 @@
+Planet: P-IX
+Starmap index: 09
+Paris coordinates: 4817840, 4667690, -817526

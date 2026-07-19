@@ -1,0 +1,6 @@
+Star: NO GO HERE-S00
+Star class: S00
+Paris coordinates: 2450000, 9163415, -2284508
+Bodies: 0 (0 planets, 0 moons)
+
+System:

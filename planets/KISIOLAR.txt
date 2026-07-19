@@ -1,0 +1,8 @@
+Planet: KISIOLAR
+Starmap index: 03
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+P03/06 MEDIUM SIZE THICK ATMO, CLOUD COVER APPEARS TO BE A DULL             
+MAGENTA, VERY LARGE STORMS. PRO 0.110.520 PRV 0.050.170.420 SKINNYMON       
+6011 797.280                                                                

@@ -1,0 +1,13 @@
+Star: ASKEW 142
+Star class: S02
+Paris coordinates: 9949168, -18098952, 17237040
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- ASKEW 142A (r rocky, creased)
+- ASKEW 142B (d dusty, craterized)
+- ASKEW 142C (n thin atmosphere)
+- ASKEW 142D (d dusty, craterized)
+- ASKEW 142E (+ substellar object)
+- ASKEW 142F (q quartz surface)
+- ASKEW 142G (d dusty, craterized)

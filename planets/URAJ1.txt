@@ -1,0 +1,6 @@
+Planet: URAJ1
+Starmap index: 01
+Paris coordinates: -322864, -1258071, 1903070
+
+Guide entries:
+MEDIUM, QUARTZ SURFACE. OXYGEN ATMOSPHERE.

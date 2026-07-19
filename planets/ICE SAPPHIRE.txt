@@ -1,0 +1,3 @@
+Planet: ICE SAPPHIRE
+Starmap index: 03
+Paris coordinates: -218928, 144011, 138941

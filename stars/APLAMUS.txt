@@ -1,0 +1,6 @@
+Star: APLAMUS
+Star class: S03
+Paris coordinates: 750000, 50950000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

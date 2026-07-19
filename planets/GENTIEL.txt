@@ -1,0 +1,6 @@
+Planet: GENTIEL
+Starmap index: 47
+Paris coordinates: 11669520, -19273131, 16728031
+
+Guide entries:
+FOUND BY ROLAND (EPOC 6011 585.796.000)

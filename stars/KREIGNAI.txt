@@ -1,0 +1,10 @@
+Star: KREIGNAI
+Star class: S06
+Paris coordinates: 2140725072, 1325314, 54699858
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:781.991
+REFUELED HERE ON MY WAY TO THE OUTER RIM - DODO C. SNOTTS

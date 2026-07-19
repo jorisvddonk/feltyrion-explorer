@@ -1,0 +1,3 @@
+Planet: TIKONOV
+Starmap index: 04
+Paris coordinates: 446064, 140246, 1406798

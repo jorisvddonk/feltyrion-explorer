@@ -1,0 +1,6 @@
+Planet: HOPEL
+Starmap index: 04
+Paris coordinates: 5946064, 5256373, -4034547
+
+Guide entries:
+PLANET DISCOVERED BY MURRMURR EPOC 6011:608.502

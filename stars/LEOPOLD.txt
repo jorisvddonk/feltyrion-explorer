@@ -1,0 +1,25 @@
+Star: LEOPOLD
+Star class: S00
+Paris coordinates: -29648, -1258023, 1474796
+Bodies: 16 (4 planets, 12 moons)
+
+System:
+- LEOPOLD1 (q quartz surface)
+- LEOPOLD2 (q quartz surface)
+- LEOPOLD3 (+ substellar object)
+  - LEOFELISIA (f felisian)
+  - LEOPOLD3-2 (r rocky, creased)
+  - LEOPOLD3-3 (d dusty, craterized)
+  - LEOFELIRIA (f felisian)
+  - LEOPOLD3-5 (k thick atmosphere)
+  - LEOPOLD3-6 (k thick atmosphere)
+  - LEOPOLD3-7 (q quartz surface)
+  - LEOFELT (f felisian)
+  - LEOPOLD3-9 (r rocky, creased)
+  - LEOPOLD3-10 (n thin atmosphere)
+- LEOFELFOR (f felisian)
+  - LEOFELFOR-1 (d dusty, craterized)
+  - LEOFELFOR-2 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY AIRCON

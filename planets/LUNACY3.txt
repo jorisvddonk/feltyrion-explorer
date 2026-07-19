@@ -1,0 +1,3 @@
+Planet: LUNACY3
+Starmap index: 28
+Paris coordinates: 3055696, 4879869, 1258058

@@ -1,0 +1,3 @@
+Planet: ROZ
+Starmap index: 01
+Paris coordinates: 3570352, 6740459, -2423724

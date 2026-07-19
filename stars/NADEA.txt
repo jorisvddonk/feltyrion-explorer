@@ -1,0 +1,11 @@
+Star: NADEA
+Star class: S00
+Paris coordinates: 4059632, 5188757, -1594800
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+
+Guide entries:
+STAR DISCOVERED SOEREN BOJESEN, EPOC 6011:572.643.
+ONE LONELYEMPTY PLANET IN ORBIT.

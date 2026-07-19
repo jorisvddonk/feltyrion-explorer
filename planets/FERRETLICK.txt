@@ -1,0 +1,3 @@
+Planet: FERRETLICK
+Starmap index: 34
+Paris coordinates: 5386352, -15380264, 12260302

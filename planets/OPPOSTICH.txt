@@ -1,0 +1,3 @@
+Planet: OPPOSTICH
+Starmap index: 11
+Paris coordinates: 563568, 437608, 261632

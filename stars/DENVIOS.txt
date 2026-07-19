@@ -1,0 +1,34 @@
+Star: DENVIOS
+Star class: S00
+Paris coordinates: 3059632, 4436884, -383501
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (^ unstable)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+  - Moon #3 (d dusty, craterized)
+  - DABLOK (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - GLASS BALL (k thick atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (^ unstable)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (^ unstable)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (^ unstable)
+  - Moon #15 (q quartz surface)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ FOUND BY COPRA JOR-EL, SHANTIC TRAVELLER, ON EPOC 6011/630.352.100
+SYSTEM SEEMS PROMISING, REVEALING ONLY NO OR THIN ATMOSPHERE BODIES.
+NOTES MADE ON SEPARATE BODIES WITH INTERESTING FEATURES.
+DABLOK

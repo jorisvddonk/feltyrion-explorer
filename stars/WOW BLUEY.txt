@@ -1,0 +1,8 @@
+Star: WOW BLUEY
+Star class: S08
+Paris coordinates: 28764496, 6119217, 5150406
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (+ substellar object)

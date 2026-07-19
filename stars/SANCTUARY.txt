@@ -1,0 +1,26 @@
+Star: SANCTUARY
+Star class: S00
+Paris coordinates: 46087568, 13128339, -635122313
+Bodies: 13 (10 planets, 3 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (+ substellar object)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+- HARBOUR (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+- OCULAR (q quartz surface)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (k thick atmosphere)
+- Planet #9 (r rocky, creased)
+
+Guide entries:
+10 PLANETS, ONE FELISIAN, AND 3 MINOR BODIES.                               
+I'VE BEEN LEFT HERE IN THIS DISTANT PART OF THE GALAXY BY A WORMHOLE        
+I ENTERED ACCIDENTALLY. NOW I MUST MAKE THIS PLACE MY HOME, AND             
+EXPLORE IT THE BEST I CAN.                                                  
+EXPLORED BY NEV, 6011:812.80)                                               

@@ -1,0 +1,3 @@
+Planet: KORELLA-B
+Starmap index: 02
+Paris coordinates: 2952176, -481196, -10426488

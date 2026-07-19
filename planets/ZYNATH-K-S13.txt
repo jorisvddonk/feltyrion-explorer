@@ -1,0 +1,3 @@
+Planet: ZYNATH-K-S13
+Starmap index: 44
+Paris coordinates: 2838608, -355266, -11118826

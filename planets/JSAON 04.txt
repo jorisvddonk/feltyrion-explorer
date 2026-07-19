@@ -1,0 +1,3 @@
+Planet: JSAON 04
+Starmap index: 03
+Paris coordinates: -2777136, 1207559, 1299859

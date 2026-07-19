@@ -1,0 +1,3 @@
+Planet: FORSINDA
+Starmap index: 17
+Paris coordinates: 53637104, 1620549, -44618361

@@ -1,0 +1,13 @@
+Star: ASTRO PATH A88
+Star class: S09
+Paris coordinates: 3494128, 3582219, -49222729
+Bodies: 7 (3 planets, 4 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)

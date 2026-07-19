@@ -1,0 +1,11 @@
+Star: PROUDHON
+Star class: S02
+Paris coordinates: 4779984, 4393547, -902205
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.269

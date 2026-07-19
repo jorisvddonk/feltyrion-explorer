@@ -1,0 +1,6 @@
+Star: STALIN
+Star class: S06
+Paris coordinates: 4169264, 5339675, 867244
+Bodies: 0 (0 planets, 0 moons)
+
+System:

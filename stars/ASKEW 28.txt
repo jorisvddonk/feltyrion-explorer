@@ -1,0 +1,24 @@
+Star: ASKEW 28
+Star class: S11
+Paris coordinates: 11383088, -19493067, 17650489
+Bodies: 18 (4 planets, 14 moons)
+
+System:
+- ASKEW 28A (@ large, not consistent)
+- ASKEW 28B (@ large, not consistent)
+- ASKEW 28C (d dusty, craterized)
+- ASKEW 28D (@ large, not consistent)
+  - INCUBUS (i icy surface)
+  - ASKEW 28D2 (d dusty, craterized)
+  - ASKEW 28D3 (n thin atmosphere)
+  - POPULOPOLOUS (i icy surface)
+  - GALLAGARIKA (i icy surface)
+  - ASKEW 28D6 (d dusty, craterized)
+  - ASKEW 28D7 (r rocky, creased)
+  - DELENTERIANG (i icy surface)
+  - YEHEMITHEN (i icy surface)
+  - ASKEW 28D10 (d dusty, craterized)
+  - ASKEW 28D11 (i icy surface)
+  - SENISEHI (k thick atmosphere)
+  - ASKEW 28D13 (i icy surface)
+  - CARSYSIGEN (i icy surface)

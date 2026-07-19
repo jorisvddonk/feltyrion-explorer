@@ -1,0 +1,3 @@
+Planet: MBTP 17
+Starmap index: 04
+Paris coordinates: -61270448, 30091829, 306909

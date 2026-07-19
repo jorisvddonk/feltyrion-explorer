@@ -1,0 +1,7 @@
+Planet: TIKME
+Starmap index: 11
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M02/P03 SMALL DUSTY CRATERIZED. LIGHT GREEN WITH FEW LARGE CRATERS. PRO     
+0.100.800 CRV 0.000.783.823 SKINNYMON 6011 791.351                          

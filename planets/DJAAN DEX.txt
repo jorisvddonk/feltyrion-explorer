@@ -1,0 +1,3 @@
+Planet: DJAAN DEX
+Starmap index: 10
+Paris coordinates: 1399462800, 1661128, 1398855512

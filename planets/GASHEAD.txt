@@ -1,0 +1,8 @@
+Planet: GASHEAD
+Starmap index: 02
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.528                                    
+THE ATMOSPHERE OF THIS GIANT CREATES SOME INTERESTING BLUISH WAVY           
+PATTERNS WITH FEW STORMS.                                                   

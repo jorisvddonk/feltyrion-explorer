@@ -1,0 +1,3 @@
+Planet: CRITCHLOCH'S RUN
+Starmap index: 10
+Paris coordinates: 2935344, 4530986, 217285

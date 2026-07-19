@@ -1,0 +1,15 @@
+Star: NORMALITY
+Star class: S00
+Paris coordinates: 3728560, 3416425, -988306
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- BEAR BLUE (f felisian)
+
+Guide entries:
+DISCOVERED BY PICHERITY, EPOC 6011 683.396                                  

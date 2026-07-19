@@ -1,0 +1,3 @@
+Planet: KAREVA-G
+Starmap index: 07
+Paris coordinates: 4072528, -279706, -10247530

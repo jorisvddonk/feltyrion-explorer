@@ -1,0 +1,3 @@
+Planet: ASKEW 149H
+Starmap index: 08
+Paris coordinates: 9766672, -16905766, 16253158

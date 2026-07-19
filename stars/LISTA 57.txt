@@ -1,0 +1,9 @@
+Star: LISTA 57
+Star class: S06
+Paris coordinates: 3978896, 2028624, 3751813
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S06 LITHIUM STAR. SKINNYMON EPOC 6011 585.599

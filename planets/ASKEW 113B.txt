@@ -1,0 +1,3 @@
+Planet: ASKEW 113B
+Starmap index: 02
+Paris coordinates: 2108880, -12112843, 9146746

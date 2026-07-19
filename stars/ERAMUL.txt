@@ -1,0 +1,6 @@
+Star: ERAMUL?
+Star class: S08
+Paris coordinates: 3177136, 4291473, -1594029
+Bodies: 0 (0 planets, 0 moons)
+
+System:

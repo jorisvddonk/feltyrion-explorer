@@ -1,0 +1,7 @@
+Star: NINES
+Star class: S05
+Paris coordinates: 1621776, 2073868, 679135
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- NINETEENS (r rocky, creased)

@@ -1,0 +1,3 @@
+Planet: IRANON
+Starmap index: 03
+Paris coordinates: -1666416, 405906, -1094497

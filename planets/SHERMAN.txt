@@ -1,0 +1,3 @@
+Planet: SHERMAN
+Starmap index: 09
+Paris coordinates: 1632496, 642452, -638716

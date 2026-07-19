@@ -1,0 +1,3 @@
+Planet: VALLU 13
+Starmap index: 13
+Paris coordinates: 51550608, 1048480, 54943506

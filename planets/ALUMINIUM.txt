@@ -1,0 +1,7 @@
+Planet: ALUMINIUM
+Starmap index: 05
+Paris coordinates: 4473200, 5028644, -1182231
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 566.39.890
+NO COMMENT...

@@ -1,0 +1,7 @@
+Planet: DHLUTOU
+Starmap index: 01
+Paris coordinates: 2081802352, -1452624, 162496
+
+Guide entries:
+P01/04 SMALL SOLID THIN ATMO FAIRLY DARK WITH FAIR POLAR CAPS. PRO 0.       
+080.280 PRV 0.010.868.949 SKINNYMON 6011 793.825                            

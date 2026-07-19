@@ -1,0 +1,15 @@
+Star: RADAGAST
+Star class: S05
+Paris coordinates: 1670352, 1452727, -253444
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- RADAFAR (k thick atmosphere)
+- RADAFRAM (n thin atmosphere)
+- RADASPOTTER (d dusty, craterized)
+  - RIDLARN (i icy surface)
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:584.208
+SMALL, WEAK BROWN DWARF STAR. HAS 3 PLANETS, EST.(NOTES BY BJS 584.20
+8)

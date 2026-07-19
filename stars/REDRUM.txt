@@ -1,0 +1,8 @@
+Star: REDRUM
+Star class: S03
+Paris coordinates: 4270352, -66484572, -2916396
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (@ large, not consistent)

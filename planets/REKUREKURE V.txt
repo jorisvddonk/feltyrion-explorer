@@ -1,0 +1,3 @@
+Planet: REKUREKURE V
+Starmap index: 03
+Paris coordinates: -107098096, 25040487, -1901769

@@ -1,0 +1,6 @@
+Planet: SURCAST-EYMO
+Starmap index: 05
+Paris coordinates: 3094640, 5065016, -2343905
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:797.707)               

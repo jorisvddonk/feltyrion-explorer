@@ -1,0 +1,11 @@
+Star: TINIYTA
+Star class: S05
+Paris coordinates: -912144, 1341360, 1272711
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GRONDOR (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.742
+A 1 BODY SYSTEM

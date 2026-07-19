@@ -1,0 +1,11 @@
+Star: YARI
+Star class: S10
+Paris coordinates: 83248, 4836998, -7734801
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+
+Guide entries:
+RUNAWAY STAR-HAS 1 PLANET
+DISCOVERED BY KJ EPOC 6011:578.105

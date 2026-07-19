@@ -1,0 +1,35 @@
+Star: TREASURY
+Star class: S00
+Paris coordinates: 3648912, 4732863, 353992
+Bodies: 25 (9 planets, 16 moons)
+
+System:
+- JEWEL (q quartz surface)
+- GEODESY (k thick atmosphere)
+- SCAMANDER (d dusty, craterized)
+  - MENDERES (d dusty, craterized)
+- NODDY (d dusty, craterized)
+- FARAGO'S CLAIM (f felisian)
+  - FARAGO'S ROCK (d dusty, craterized)
+- HEXANE (@ large, not consistent)
+  - NEMEA (n thin atmosphere)
+  - SHAMO (n thin atmosphere)
+- PASTORAL (f felisian)
+  - FARAGO'S PEBBLE (d dusty, craterized)
+  - FARAGO'S STONE (d dusty, craterized)
+  - FARAGO'S JUNK ROCK (d dusty, craterized)
+- COLD PEARL (i icy surface)
+  - GREEN EGGS (d dusty, craterized)
+  - HAM (d dusty, craterized)
+- TREASURER (+ substellar object)
+  - GARNET (f felisian)
+  - MALM (d dusty, craterized)
+  - EMERALD (i icy surface)
+  - DIAMOND (i icy surface)
+  - JADE (i icy surface)
+  - DIOPTASE (i icy surface)
+  - Moon #6 (i icy surface)
+
+Guide entries:
+DISCOVERED BY KALMAN FARAGO ON 6011.560.771. HAS NO LESS THAN 3
+PLANETS WITH MULTICELLULAR LIFE PLUS ONE PLANET OF TOURISTIC INTEREST

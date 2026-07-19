@@ -1,0 +1,3 @@
+Planet: ICE PLANET
+Starmap index: 09
+Paris coordinates: 3716752, 4366451, 4158316

@@ -1,0 +1,3 @@
+Planet: DUOR
+Starmap index: 04
+Paris coordinates: -720688, 4781410, -5232889

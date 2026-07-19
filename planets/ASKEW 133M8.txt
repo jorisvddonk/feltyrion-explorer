@@ -1,0 +1,3 @@
+Planet: ASKEW 133M8
+Starmap index: 35
+Paris coordinates: 7529904, -16768105, 14609241

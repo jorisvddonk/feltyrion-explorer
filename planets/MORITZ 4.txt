@@ -1,0 +1,6 @@
+Planet: MORITZ 4
+Starmap index: 04
+Paris coordinates: 3252848, 4365390, -954754
+
+Guide entries:
+DISCOVERED BY SAMUEL MORITZ EPOC 6011 577.477.740

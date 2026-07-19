@@ -1,0 +1,7 @@
+Planet: NOVA GAIA
+Starmap index: 06
+Paris coordinates: 4293552, 4257950, 277464
+
+Guide entries:
+ DISCOVERED EPOC 6011.573.228
+ A STORMY, FELISIAN PLANET, COVERED IN FOREST.

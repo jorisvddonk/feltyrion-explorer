@@ -1,0 +1,3 @@
+Planet: ISTOAS PRIME
+Starmap index: 01
+Paris coordinates: 2146681360, 1254766, 900137406

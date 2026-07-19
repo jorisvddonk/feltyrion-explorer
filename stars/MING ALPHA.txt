@@ -1,0 +1,21 @@
+Star: MING ALPHA
+Star class: S08
+Paris coordinates: -1604272, 7386891, -1484699
+Bodies: 12 (3 planets, 9 moons)
+
+System:
+- SINCLAIR (q quartz surface)
+- MING BETA (* companion star)
+  - SPECTRA (+ substellar object)
+  - MONGO (f felisian)
+- MING GAMMA (* companion star)
+  - BRUN SALETE (n thin atmosphere)
+  - TANG 2 (+ substellar object)
+  - TANG 1 (+ substellar object)
+  - SCHMUTZBRAUN (n thin atmosphere)
+  - PLANET X (n thin atmosphere)
+  - MARRON CUARZO (q quartz surface)
+  - Y'DLOG (d dusty, craterized)
+
+Guide entries:
+DISCOVERED ON OR BEFORE EOPC 6011:572:825 BY GARY!

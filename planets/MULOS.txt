@@ -1,0 +1,7 @@
+Planet: MULOS
+Starmap index: 09
+Paris coordinates: 2605360, 5998140, -3142515
+
+Guide entries:
+FOUND BY MIKE HEITZ EPOC:6011:659.897
+(NOTES BY MIKE HEITZ EPOC:6011:695.897)

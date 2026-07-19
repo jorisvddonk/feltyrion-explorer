@@ -1,0 +1,8 @@
+Star: BLUE STRIKE
+Star class: S01
+Paris coordinates: 83920, 1474185, 1891748
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- REAMOHURIERATE (n thin atmosphere)
+- TINTS (+ substellar object)

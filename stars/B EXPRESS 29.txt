@@ -1,0 +1,9 @@
+Star: B EXPRESS 29
+Star class: S06
+Paris coordinates: -131950928, 1955720, 99247797
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

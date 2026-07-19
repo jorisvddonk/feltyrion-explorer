@@ -1,0 +1,3 @@
+Planet: BEGGE
+Starmap index: 48
+Paris coordinates: 1983920, -25155371, 68899

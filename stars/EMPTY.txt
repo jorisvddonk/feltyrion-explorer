@@ -1,0 +1,10 @@
+Star: EMPTY
+Star class: S00
+Paris coordinates: 2931408, 6222148, 1891299
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.50.760
+COMPLETELY EMPTY

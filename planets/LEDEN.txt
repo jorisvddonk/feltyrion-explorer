@@ -1,0 +1,6 @@
+Planet: LEDEN
+Starmap index: 35
+Paris coordinates: 570352, -17743, 592279
+
+Guide entries:
+LARGE BOWL CRATER EAST OF 21,46 (HUMI,EPOC:6011.563.479)

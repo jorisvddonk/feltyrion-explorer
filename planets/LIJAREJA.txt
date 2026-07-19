@@ -1,0 +1,6 @@
+Planet: LIJAREJA
+Starmap index: 02
+Paris coordinates: 1812144, 5358949, -2049157
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.687.443                                  

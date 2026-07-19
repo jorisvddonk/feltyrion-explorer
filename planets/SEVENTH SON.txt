@@ -1,0 +1,3 @@
+Planet: SEVENTH SON
+Starmap index: 07
+Paris coordinates: 5131408, 4786922, -285255

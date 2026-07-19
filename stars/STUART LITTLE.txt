@@ -1,0 +1,11 @@
+Star: STUART LITTLE
+Star class: S02
+Paris coordinates: 3959632, 4309715, -1270753
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- MATTHEW (@ large, not consistent)
+- CRICKET (k thick atmosphere)
+- Planet #2 (d dusty, craterized)
+- COCKYLULU (d dusty, craterized)
+- Planet #4 (+ substellar object)

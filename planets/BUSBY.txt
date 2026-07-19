@@ -1,0 +1,6 @@
+Planet: BUSBY
+Starmap index: 08
+Paris coordinates: 3290704, 5637570, -892839
+
+Guide entries:
+MED SIZED SOLID THICK ATMOSPHERE CLOUDY. (KRUSTY 6011:596.627)

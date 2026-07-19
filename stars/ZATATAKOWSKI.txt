@@ -1,0 +1,10 @@
+Star: ZATATAKOWSKI
+Star class: S00
+Paris coordinates: 3170352, 4039313, -1817825
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ASH (k thick atmosphere)
+
+Guide entries:
+YELLOW DWARF WITH ONLY ONE PLANET, ASH.

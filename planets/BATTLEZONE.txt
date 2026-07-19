@@ -1,0 +1,3 @@
+Planet: BATTLEZONE
+Starmap index: 03
+Paris coordinates: 1974288, 3727656, -2263043

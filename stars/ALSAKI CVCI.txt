@@ -1,0 +1,9 @@
+Star: ALSAKI CVCI
+Star class: S01
+Paris coordinates: 15323536, 32066473, -7071527
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (d dusty, craterized)

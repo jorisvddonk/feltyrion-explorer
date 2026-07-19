@@ -1,0 +1,6 @@
+Star: HIGHWAY 7
+Star class: S05
+Paris coordinates: -19234000, -5356428, 35603602
+Bodies: 0 (0 planets, 0 moons)
+
+System:

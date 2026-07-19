@@ -1,0 +1,11 @@
+Star: RIF
+Star class: S00
+Paris coordinates: 10020016, 5025279, -13635352
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY CRYOCAT, EPOC 6011:683.598                                   
+ NOTE BY CRYOCAT; THIS SYSTEM SEEMS TO ONLY CONSIST OF THE STAR, PLANETS    
+DO NOT EXIST HERE.                                                          

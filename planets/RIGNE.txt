@@ -1,0 +1,9 @@
+Planet: RIGNE
+Starmap index: 10
+Paris coordinates: 808208, 1178550, 752685
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NOT TO MENTION MOON OF      
+HIDROXY, THE FOURTH PLANET. IT DOESN'T SEEM LIKE I'LL FIND MUCH HERE...     
+NOPE, NOTHING MUCH HERE.                                                    
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.980.612)                           

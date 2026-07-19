@@ -1,0 +1,9 @@
+Star: GRIS
+Star class: S06
+Paris coordinates: 46394352, 13074281, -634973543
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GOOD FOR FUEL. (EXPLORED BY NEV, 6011:812.80)                               

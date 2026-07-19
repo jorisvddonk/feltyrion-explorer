@@ -1,0 +1,17 @@
+Star: TRILUMI
+Star class: S08
+Paris coordinates: -1332496, 128377, 402960
+Bodies: 5 (2 planets, 3 moons)
+
+System:
+- TRILUMI-1 (* companion star)
+  - TRILUMI-1-1 (k thick atmosphere)
+  - TRILUMI-1-2 (k thick atmosphere)
+- TRILUMI-2 (* companion star)
+  - TRILUMI-2-1 (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BU JUS EPOC 6011.578.517
+A BEAUTIFUL MULTI-SYSTEM CONSISTING OF 3 STARS, 2 OF WHICH HAVE THEIR
+OWN PLANETS IN THEIR ORBIT.
+NOTES BY JUS EPOC 6011.578.517

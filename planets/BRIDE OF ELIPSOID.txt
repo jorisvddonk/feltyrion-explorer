@@ -1,0 +1,3 @@
+Planet: BRIDE OF ELIPSOID
+Starmap index: 01
+Paris coordinates: -873200, 6200198, -2287990

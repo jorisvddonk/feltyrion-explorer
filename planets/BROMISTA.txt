@@ -1,0 +1,7 @@
+Planet: BROMISTA
+Starmap index: 04
+Paris coordinates: 3573200, 4697591, -248579
+
+Guide entries:
+DISCOVERED BY LEOW AT E:6011:579.148.870
+LANDING IMPOSSIBLE.

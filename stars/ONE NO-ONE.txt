@@ -1,0 +1,9 @@
+Star: ONE NO-ONE
+Star class: S00
+Paris coordinates: 3650000, 5049404, -3434796
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS 0 STAR WITH NO PLANETS DISCOVERED BY RCLEAR 6011:597.946

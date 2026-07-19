@@ -1,0 +1,3 @@
+Planet: PLATANYS
+Starmap index: 04
+Paris coordinates: 3177136, 4238663, -1370334

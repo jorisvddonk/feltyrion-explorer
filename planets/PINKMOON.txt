@@ -1,0 +1,3 @@
+Planet: PINKMOON
+Starmap index: 16
+Paris coordinates: -694640, 75151, 152742

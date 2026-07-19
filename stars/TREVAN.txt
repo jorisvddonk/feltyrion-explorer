@@ -1,0 +1,28 @@
+Star: TREVAN
+Star class: S04
+Paris coordinates: -930320, 5331445, -7445233
+Bodies: 18 (9 planets, 9 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- HYSAN (n thin atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #8 (d dusty, craterized)
+
+Guide entries:
+ORANGE STAR-HAS 9 PLANETS AND 9 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:578.360

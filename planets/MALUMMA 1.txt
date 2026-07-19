@@ -1,0 +1,6 @@
+Planet: MALUMMA 1
+Starmap index: 01
+Paris coordinates: 3773200, 6127206, -221070
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.998.658)

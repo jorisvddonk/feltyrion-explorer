@@ -1,0 +1,29 @@
+Star: PINACLE
+Star class: S01
+Paris coordinates: 3804272, 4498014, -620206
+Bodies: 20 (10 planets, 10 moons)
+
+System:
+- GP-PINACLE-1 (k thick atmosphere)
+- GS-PINACLE-1 (+ substellar object)
+- DP-PINACLE-1 (r rocky, creased)
+- HIEGHT (f felisian)
+  - DM-1-HEIGHT (d dusty, craterized)
+  - DM-2-HEIGHT (d dusty, craterized)
+  - DM-3-HEIGHT (d dusty, craterized)
+- DP-PINACLE-2 (r rocky, creased)
+  - DM-1-PINACLEDP-2 (d dusty, craterized)
+- GP-PINACLE-2 (@ large, not consistent)
+  - DM-1-PINACLEGP-2 (n thin atmosphere)
+  - DM-2-PINACLEGP-2 (q quartz surface)
+  - DM-3-PINACLEGP-2 (n thin atmosphere)
+  - UM-1-PINACLEGP-2 (^ unstable)
+  - GM-1-PINACLEGP-2 (k thick atmosphere)
+- DP-PINACLE-3 (n thin atmosphere)
+- DP-PINACLE-4 (d dusty, craterized)
+- DP-PINACLE-5 (q quartz surface)
+  - DM-1-PINACLEDP-5 (d dusty, craterized)
+- DP-PINACLE-6 (d dusty, craterized)
+
+Guide entries:
+BLUE GIANT, ONE INHABITABLE PLANET

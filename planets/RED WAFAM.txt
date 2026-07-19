@@ -1,0 +1,3 @@
+Planet: RED WAFAM
+Starmap index: 02
+Paris coordinates: 5717840, 5225891, -1689187

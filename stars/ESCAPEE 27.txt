@@ -1,0 +1,11 @@
+Star: ESCAPEE 27
+Star class: S10
+Paris coordinates: -846064, 1159573, -745235
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY M. MARSHALL AT PARSIS -845672, 1159274, -744086
+EPOC 6011 584 743.
+END REPORT, M. MARSHALL.

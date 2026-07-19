@@ -1,0 +1,3 @@
+Planet: SILENCE
+Starmap index: 05
+Paris coordinates: 3521776, 4359539, -1148567

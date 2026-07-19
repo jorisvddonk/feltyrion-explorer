@@ -1,0 +1,11 @@
+Star: SARAMALIS
+Star class: S04
+Paris coordinates: 2140051024, -1663238, 728234
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KANIM (n thin atmosphere)
+
+Guide entries:
+A CLASS S04 STAR WITH ONE PLANET. 74.64914520 BAL. M. TEMP 101563 K         
+RAD 54-59 KR COR 2140051024;-1663238; 728234 SKINNYMON 6011 591.579         

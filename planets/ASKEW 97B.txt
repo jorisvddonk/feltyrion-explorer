@@ -1,0 +1,6 @@
+Planet: ASKEW 97B
+Starmap index: 02
+Paris coordinates: 11338448, -19306542, 17130096
+
+Guide entries:
+FOUND EPOC 6011 588.437.650 BY ROLAND ASKEW

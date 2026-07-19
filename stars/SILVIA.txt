@@ -1,0 +1,29 @@
+Star: SILVIA
+Star class: S00
+Paris coordinates: 4004272, 4432329, -752067
+Bodies: 18 (5 planets, 13 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- DIAMANTE (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- MELAVERDE (q quartz surface)
+- Planet #4 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (k thick atmosphere)
+  - PLATT (f felisian)
+  - Moon #10 (d dusty, craterized)
+
+Guide entries:
+S00 STAR WITH PLANETARY SISTEM DISCOVERED BY KROMEBOY 6011 570859122
+SILVIA IS THE NAME OF THE DISCOVERER GIRLFRIEND
+MELAVERDE IS A GOOD CHOICE FOR A VACATION

@@ -1,0 +1,14 @@
+Star: ASTRO PATH A72
+Star class: S02
+Paris coordinates: 4963728, 3607010, -40930954
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (+ substellar object)
+- Planet #3 (+ substellar object)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (q quartz surface)
+- Planet #7 (d dusty, craterized)

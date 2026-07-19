@@ -1,0 +1,7 @@
+Planet: CASNE
+Starmap index: 30
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M10/P08 MEDIUM SIZE INTERNALLY HOT, YELLOW-BROWN WITH A WARM GLOW. PRO      
+0.283.320 PRV 0.003.738.256 SKINNYMON 6011 797.110                          

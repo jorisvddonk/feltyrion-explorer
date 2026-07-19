@@ -1,0 +1,6 @@
+Planet: VERAZ
+Starmap index: 08
+Paris coordinates: 3955696, 6200472, 411097
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.998.773)

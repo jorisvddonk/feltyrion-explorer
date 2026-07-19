@@ -1,0 +1,6 @@
+Star: NEBBECAYGUN
+Star class: S03
+Paris coordinates: 750000, 51550000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

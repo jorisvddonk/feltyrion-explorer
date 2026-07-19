@@ -1,0 +1,3 @@
+Planet: THE DEATH STAR
+Starmap index: 07
+Paris coordinates: 8642800, 6833678, 4604110

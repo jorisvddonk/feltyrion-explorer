@@ -1,0 +1,9 @@
+Star: LISTA 108
+Star class: S06
+Paris coordinates: 5524624, 4546389, -1030383
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A LITHIUM FRIENDLY ENVIRONMENT. SKINNYMON EPOC 6011 605.97

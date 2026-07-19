@@ -1,0 +1,3 @@
+Planet: SERGEIOV D9
+Starmap index: 30
+Paris coordinates: -72317424, -1376064, 54932106

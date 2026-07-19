@@ -1,0 +1,6 @@
+Planet: YENSEK
+Starmap index: 13
+Paris coordinates: 10762736, -19034762, 17197592
+
+Guide entries:
+FOUND EPOC 6011 586.305.400 BY ROLAND ASKEW

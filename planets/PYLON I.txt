@@ -1,0 +1,6 @@
+Planet: PYLON I
+Starmap index: 01
+Paris coordinates: 4170352, -66267901, -3045501
+
+Guide entries:
+GREEN THINWORLD, BATHED IN RADIATION. (SCHMERM 6011 593.728)

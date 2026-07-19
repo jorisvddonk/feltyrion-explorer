@@ -1,0 +1,3 @@
+Planet: HELGEDAD
+Starmap index: 08
+Paris coordinates: 3921776, 4663420, -1624678

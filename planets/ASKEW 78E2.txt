@@ -1,0 +1,6 @@
+Planet: ASKEW 78E2
+Starmap index: 23
+Paris coordinates: 11727728, -19112154, 18047770
+
+Guide entries:
+FOUND EPOC 6011 588.110.470 BY ROLAND ASKEW

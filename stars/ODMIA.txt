@@ -1,0 +1,12 @@
+Star: ODMIA
+Star class: S00
+Paris coordinates: 2131794992, -2146705, 1407
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HLUKU (@ large, not consistent)
+- APHLUKA (q quartz surface)
+
+Guide entries:
+S00 STAR WITH 2 ONLY PLANETS. 1.96476341 BAL. M. TEMP 8467 K RAD 16KR       
+COOR 2131794992;2146705;1407; SKINNYMON 6011 797.370                        

@@ -1,0 +1,3 @@
+Planet: LEAVES
+Starmap index: 01
+Paris coordinates: 9257456, 7645071, 1068426

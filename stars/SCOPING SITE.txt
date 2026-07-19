@@ -1,0 +1,10 @@
+Star: SCOPING SITE
+Star class: S06
+Paris coordinates: 2563568, 4604467, -1848402
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS 6 STAR SUITABLE FOR LITHIUM SCOPING. HAS NO PLANETS.
+DISCOVERED BY TIM MACE EPOC 6011 - 584.553.802

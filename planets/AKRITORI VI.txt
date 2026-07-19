@@ -1,0 +1,10 @@
+Planet: AKRITORI VI
+Starmap index: 27
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.536.469                              
+FULL CLOUD COVER CAN BE SEEN EVEN FROM ORBITAL DISTANCE.                    
+ATMOSPHERE IS THICK, UP TO 51 ATM'S AND BEYOND. SURFACE IS MADE UP          
+OF ROLLING HILLS, BUT ATMOSPHERE OBSCURES FULL VISIBILITY.                  
+(NEURONWAKE 6011 802.537.575)                                               

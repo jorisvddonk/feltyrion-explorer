@@ -1,0 +1,38 @@
+Star: RYDULUS
+Star class: S00
+Paris coordinates: -1108208, -712825, -246456
+Bodies: 27 (9 planets, 18 moons)
+
+System:
+- BROWTAN (n thin atmosphere)
+- FALTEESE (d dusty, craterized)
+- GULTEESE (d dusty, craterized)
+  - VIONA (n thin atmosphere)
+- LIMEREENG (d dusty, craterized)
+  - VOLROC (^ unstable)
+- DARPOLAR (n thin atmosphere)
+  - ULCOR (d dusty, craterized)
+  - DALCOR (d dusty, craterized)
+- BLYSPHERE (+ substellar object)
+  - FOULSTORM (k thick atmosphere)
+  - DISIRIC (d dusty, craterized)
+  - DETHBAND (@ large, not consistent)
+  - WALTIA (f felisian)
+  - GALPOLAR (n thin atmosphere)
+  - DARKBAND (k thick atmosphere)
+  - RHAEN (f felisian)
+  - DUOBAND (k thick atmosphere)
+  - TALPOLAR (n thin atmosphere)
+  - PLAEOC (r rocky, creased)
+  - VIARAE (f felisian)
+- PARLAKI (q quartz surface)
+  - AYSLASH (i icy surface)
+- BIZARRE (d dusty, craterized)
+- PHAHR (q quartz surface)
+  - NIGHTWALK (n thin atmosphere)
+  - BORACO (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY NYTAR, EPOC 6011:611.912
+CLASS S00 STAR WITH 9 PLANETS AND 18 MOONS.
+3 OF THE MOONS ARE FELISIAN, AND ALL ORBIT BLYSPHERE.

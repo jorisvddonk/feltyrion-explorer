@@ -1,0 +1,6 @@
+Star: OLD GRAY MARE
+Star class: S06
+Paris coordinates: 4359632, 4268513, -1690925
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,10 @@
+Star: GASTAR XIII
+Star class: S06
+Paris coordinates: 808208, 978550, 727736
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED BY THE GREAT DEMENTO)
+OUTPUT: 25 MTPD EST.

@@ -1,0 +1,3 @@
+Planet: MEBE
+Starmap index: 19
+Paris coordinates: 32496, -31155479, 1002557

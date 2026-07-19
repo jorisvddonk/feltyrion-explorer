@@ -1,0 +1,3 @@
+Planet: FABE
+Starmap index: 07
+Paris coordinates: 2056784, 6465841, -1650892

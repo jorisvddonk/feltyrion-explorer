@@ -1,0 +1,10 @@
+Star: LISTA 20
+Star class: S06
+Paris coordinates: 10777808, 4679409, 713131
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM, GOOD. NO LITHIUM BAD. HERE LITHIUM.
+SKINNYMON EPOC 6011 569.593

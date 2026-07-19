@@ -1,0 +1,3 @@
+Planet: VALYX-B
+Starmap index: 02
+Paris coordinates: 2916080, -262885, -4753549

@@ -1,0 +1,6 @@
+Star: GEETOO-27
+Star class: S07
+Paris coordinates: 5855024, 5913330, -11135879
+Bodies: 0 (0 planets, 0 moons)
+
+System:

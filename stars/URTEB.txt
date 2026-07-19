@@ -1,0 +1,6 @@
+Star: URTEB
+Star class: S07
+Paris coordinates: 2652848, -23710177, -622791
+Bodies: 0 (0 planets, 0 moons)
+
+System:

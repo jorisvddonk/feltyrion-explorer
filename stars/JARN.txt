@@ -1,0 +1,43 @@
+Star: JARN
+Star class: S08
+Paris coordinates: 4469264, 5265950, 494019
+Bodies: 33 (5 planets, 28 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (* companion star)
+  - Moon #0 (f felisian)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (^ unstable)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (r rocky, creased)
+- Planet #3 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (f felisian)
+  - Moon #7 (+ substellar object)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (@ large, not consistent)
+  - Moon #10 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (@ large, not consistent)
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.41.390
+NOT EPLORED YET

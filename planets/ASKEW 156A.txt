@@ -1,0 +1,3 @@
+Planet: ASKEW 156A
+Starmap index: 01
+Paris coordinates: 9446320, -14367096, 15555436

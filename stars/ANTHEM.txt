@@ -1,0 +1,39 @@
+Star: ANTHEM
+Star class: S03
+Paris coordinates: 4166416, 4803058, -1088856
+Bodies: 29 (7 planets, 22 moons)
+
+System:
+- VERHA (n thin atmosphere)
+- ABOTA (d dusty, craterized)
+- OUGLA (n thin atmosphere)
+  - OSPHONI (d dusty, craterized)
+  - TUGOF (d dusty, craterized)
+- PANDEM (d dusty, craterized)
+- JOKE OF THE GODS (f felisian)
+  - EPRES (n thin atmosphere)
+  - KIDIKI (d dusty, craterized)
+- BEZA (+ substellar object)
+  - DINESS (r rocky, creased)
+  - UDSTO (k thick atmosphere)
+  - DENCA (q quartz surface)
+  - ECORU (n thin atmosphere)
+  - IGH (^ unstable)
+  - NOOLIN (k thick atmosphere)
+  - IGNAL (d dusty, craterized)
+  - GOOGAI (q quartz surface)
+  - DEIST (f felisian)
+  - OLIG (@ large, not consistent)
+  - SELEN (d dusty, craterized)
+  - GODSPLAY (f felisian)
+  - ENJA (q quartz surface)
+  - TOSC (d dusty, craterized)
+  - PUND (d dusty, craterized)
+  - CHETO (k thick atmosphere)
+- HETLAN (r rocky, creased)
+  - ONSVEN (^ unstable)
+  - ESOTER (n thin atmosphere)
+
+Guide entries:
+A CLASS S03 SYSTEM WITH 7 PLANETS, 22 MOONS, 3 FELISIAN WORLDS.
+SKINNYMON EPOC 6011 570.732

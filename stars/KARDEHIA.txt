@@ -1,0 +1,22 @@
+Star: KARDEHIA
+Star class: S00
+Paris coordinates: -1234256, 8842443, -5406227
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (@ large, not consistent)
+- MOREHIA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #4 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (^ unstable)
+  - Moon #0 (^ unstable)
+- Planet #6 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY TIANCRIS -EPOC 6011.691.799 -                                 

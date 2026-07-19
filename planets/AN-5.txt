@@ -1,0 +1,3 @@
+Planet: AN-5
+Starmap index: 10
+Paris coordinates: 5121776, 4075066, -2797361

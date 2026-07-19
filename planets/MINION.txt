@@ -1,0 +1,3 @@
+Planet: MINION
+Starmap index: 24
+Paris coordinates: 70352, 945533, 1134813

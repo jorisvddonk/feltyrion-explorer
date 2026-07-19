@@ -1,0 +1,3 @@
+Planet: GRAVITAS
+Starmap index: 01
+Paris coordinates: -290704, 762293, -1939788

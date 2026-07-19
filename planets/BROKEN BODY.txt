@@ -1,0 +1,3 @@
+Planet: BROKEN BODY
+Starmap index: 07
+Paris coordinates: -70672784, -709242, 53954850

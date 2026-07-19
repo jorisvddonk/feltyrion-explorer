@@ -1,0 +1,7 @@
+Planet: GIEX
+Starmap index: 04
+Paris coordinates: 785008, 4963289, -2548483
+
+Guide entries:
+RINGED
+DISCOVERED BT KJ EPOC 6011:575.162

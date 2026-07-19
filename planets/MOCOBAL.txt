@@ -1,0 +1,3 @@
+Planet: MOCOBAL
+Starmap index: 01
+Paris coordinates: 3721776, 4327015, -1399718

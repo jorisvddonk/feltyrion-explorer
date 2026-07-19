@@ -1,0 +1,6 @@
+Star: UTRAX
+Star class: S06
+Paris coordinates: 881072, -19003739, -943971
+Bodies: 0 (0 planets, 0 moons)
+
+System:

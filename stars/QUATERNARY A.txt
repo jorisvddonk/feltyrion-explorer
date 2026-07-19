@@ -1,0 +1,55 @@
+Star: QUATERNARY A
+Star class: S08
+Paris coordinates: 4193552, 4028711, 290780
+Bodies: 43 (6 planets, 37 moons)
+
+System:
+- QUATERNARY B (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- QUATERNARY C (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (^ unstable)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (^ unstable)
+  - FOURSON (f felisian)
+  - QUAD (f felisian)
+  - TETRA (f felisian)
+  - Moon #15 (^ unstable)
+  - Moon #16 (d dusty, craterized)
+  - Moon #17 (n thin atmosphere)
+  - Moon #18 (k thick atmosphere)
+- QUATERNARY D (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - DEETHREE (f felisian)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (^ unstable)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+
+Guide entries:
+4 STAR SYSTEM DISCOVERED 6011.564.775.176 BY JEREMY HUSSELL
+PLANETS 1, 3, AND 4 ARE ACTUALLY COMPANION STARS.
+BESIDES THEM, THERE ARE 3 PLANETS AND 37 MOONS,
+OF WHICH 19 ORBIT QUATERNARY C AND 13 ORBIT PLANET 5.

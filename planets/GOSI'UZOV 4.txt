@@ -1,0 +1,3 @@
+Planet: GOSI'UZOV 4
+Starmap index: 04
+Paris coordinates: -729454288, 639775, -580611177

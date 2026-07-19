@@ -1,0 +1,20 @@
+Star: HANAARAST
+Star class: S00
+Paris coordinates: 1053936, 4524978, -2738928
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- YEYORK (+ substellar object)
+- CHUBULL (n thin atmosphere)
+- ANIMALIX (f felisian)
+  - RALMER (n thin atmosphere)
+  - HENDUL (n thin atmosphere)
+  - CEPWEG (n thin atmosphere)
+- TEMOUS (k thick atmosphere)
+  - PAKEA (d dusty, craterized)
+  - CULEA (n thin atmosphere)
+- KUFBUK (n thin atmosphere)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 5 PLANETS, 5 MOONS, ONE
+FELISIAN WORLD. SKINNYMON EPOC 6011 598.458

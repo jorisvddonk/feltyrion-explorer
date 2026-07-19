@@ -1,0 +1,6 @@
+Star: DAQAVUDIS
+Star class: S01
+Paris coordinates: 850000, 50750000, -950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

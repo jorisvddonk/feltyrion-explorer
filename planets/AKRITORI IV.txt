@@ -1,0 +1,7 @@
+Planet: AKRITORI IV
+Starmap index: 25
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWKAE EPOC 6011 802.535.58                               
+DID NOT LAND. NORMAL MOON. (NEURONWAKE 6011 802.535.82)                     

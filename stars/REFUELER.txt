@@ -1,0 +1,6 @@
+Star: REFUELER
+Star class: S06
+Paris coordinates: 2990704, 3845929, -572093
+Bodies: 0 (0 planets, 0 moons)
+
+System:

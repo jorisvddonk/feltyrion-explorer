@@ -1,0 +1,6 @@
+Planet: LIHACO
+Starmap index: 02
+Paris coordinates: -12144, 172689, 359639
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.424

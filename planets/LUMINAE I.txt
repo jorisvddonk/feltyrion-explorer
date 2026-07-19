@@ -1,0 +1,3 @@
+Planet: LUMINAE I
+Starmap index: 01
+Paris coordinates: 3052848, 4436380, -1038398

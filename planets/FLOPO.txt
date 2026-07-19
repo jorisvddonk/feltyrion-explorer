@@ -1,0 +1,7 @@
+Planet: FLOPO
+Starmap index: 24
+Paris coordinates: 3879984, 4316450, -249386
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE. COMPLETELY DARK. SKINNYMON EPOC 6011
+592.842

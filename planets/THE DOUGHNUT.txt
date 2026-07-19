@@ -1,0 +1,3 @@
+Planet: THE DOUGHNUT
+Starmap index: 01
+Paris coordinates: 1156784, 770021, -743789

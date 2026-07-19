@@ -1,0 +1,3 @@
+Planet: MARKSLAND
+Starmap index: 03
+Paris coordinates: 1601424, 1341910, -484972

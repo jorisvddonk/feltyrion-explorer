@@ -1,0 +1,7 @@
+Planet: HAPTICS
+Starmap index: 01
+Paris coordinates: 7381072, 49723708, -7479516
+
+Guide entries:
+NOTHING TOO INTERESTING ON THIS PLANET.
+(NOTES BY MEGA, EPOC 6012 254.261)

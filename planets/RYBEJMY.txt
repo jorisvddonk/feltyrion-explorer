@@ -1,0 +1,7 @@
+Planet: RYBEJMY
+Starmap index: 01
+Paris coordinates: 2141033520, -2063295, 879601
+
+Guide entries:
+PO1/03 MEDIUM SIZED, QUARTZ SURFACE, OXYGEN ATMO. MOSTLY RED WITH           
+GREYISH BLOTCHES. PRO 0.161.280 PRV 0.025.166.502                           

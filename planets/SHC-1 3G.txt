@@ -1,0 +1,7 @@
+Planet: SHC-1 3G
+Starmap index: 18
+Paris coordinates: -26583376, -15647682, -1001175282
+
+Guide entries:
+THERE IS AN INTERESTING TALL PYRAMID AT 235.60.
+(SHADOWCLAW 6011:600.824)

@@ -1,0 +1,6 @@
+Star: ETHANOL
+Star class: S06
+Paris coordinates: -1779984, 7456349, -1811504
+Bodies: 0 (0 planets, 0 moons)
+
+System:

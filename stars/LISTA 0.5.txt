@@ -1,0 +1,6 @@
+Star: LISTA 0.5
+Star class: S06
+Paris coordinates: 550000, 52550000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

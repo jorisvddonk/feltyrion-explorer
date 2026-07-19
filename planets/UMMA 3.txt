@@ -1,0 +1,3 @@
+Planet: UMMA 3
+Starmap index: 03
+Paris coordinates: 5425712, 8286779, -4787371

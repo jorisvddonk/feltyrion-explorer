@@ -1,0 +1,3 @@
+Planet: GRIMNEBULIN PRIME
+Starmap index: 01
+Paris coordinates: 2935344, 4530986, 217285

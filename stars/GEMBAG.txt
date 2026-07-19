@@ -1,0 +1,20 @@
+Star: GEMBAG
+Star class: S08
+Paris coordinates: -2152848, 4081414, 244661
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #1 (* companion star)
+  - Moon #0 (r rocky, creased)
+- Planet #2 (k thick atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+- Planet #4 (r rocky, creased)
+
+Guide entries:
+ STAR DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.312

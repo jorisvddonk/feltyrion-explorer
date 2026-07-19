@@ -1,0 +1,11 @@
+Star: BACK
+Star class: S00
+Paris coordinates: 14670608, -868160, 9766916
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HELLHOLE (d dusty, craterized)
+- SHADOWLANDS (k thick atmosphere)
+
+Guide entries:
+DISTANT CLASS 0 STAR, WHICH APPEARS TO BE RINGED. (HERBIE, 6011.597.693)

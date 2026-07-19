@@ -1,0 +1,30 @@
+Star: ACKANDUA
+Star class: S00
+Paris coordinates: 3311056, 5428793, 329445
+Bodies: 20 (12 planets, 8 moons)
+
+System:
+- DEFYCT (n thin atmosphere)
+- REUJUH (k thick atmosphere)
+- YAWN (f felisian)
+  - FARKOR (n thin atmosphere)
+- DIMBUTO (r rocky, creased)
+  - HARVA (d dusty, craterized)
+- SLUDRI (d dusty, craterized)
+- MUHEFT (r rocky, creased)
+  - TIJUCH (d dusty, craterized)
+- MOWKOR (k thick atmosphere)
+- FETHOR (d dusty, craterized)
+  - GATH (^ unstable)
+- AMPERSOA (r rocky, creased)
+  - URAAT (d dusty, craterized)
+  - IBLEN (d dusty, craterized)
+- DOROHE (q quartz surface)
+  - LADOH (d dusty, craterized)
+- JEBLIM (n thin atmosphere)
+  - TAFAU (d dusty, craterized)
+- SOCRAW (+ substellar object)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 12 PLANETS AND 8 MOONS. ONE
+FELISIAN WORLD. SKINNYMON EPOC 6011 594.996

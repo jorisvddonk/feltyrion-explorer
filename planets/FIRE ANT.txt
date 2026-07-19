@@ -1,0 +1,3 @@
+Planet: FIRE ANT
+Starmap index: 02
+Paris coordinates: 3263568, 6640613, -2224383

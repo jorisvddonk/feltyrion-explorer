@@ -1,0 +1,58 @@
+Star: HALLOWEEN
+Star class: S04
+Paris coordinates: 4613904, 4279877, 1160764
+Bodies: 37 (9 planets, 28 moons)
+
+System:
+- GREMLIN (k thick atmosphere)
+- VAMPIRE (@ large, not consistent)
+- GOBLIN (n thin atmosphere)
+- BEELZEBUB (@ large, not consistent)
+  - FRANKENSTEIN (r rocky, creased)
+  - FRIDAY 13TH (q quartz surface)
+  - HAUNTED HILL (f felisian)
+  - POLTERGEIST (d dusty, craterized)
+  - BODY SNATCHER (q quartz surface)
+  - OMEN (q quartz surface)
+  - LEPUS NIGHT (f felisian)
+  - LIVING DEAD (k thick atmosphere)
+  - PLAN NINE (d dusty, craterized)
+  - DRACULA (n thin atmosphere)
+  - MUMMY (k thick atmosphere)
+  - WOLF MAN (q quartz surface)
+  - JEKYLL HYDE (n thin atmosphere)
+  - ORLAC'S HANDS (d dusty, craterized)
+- SKELETON (d dusty, craterized)
+  - OPERA PHANTOM (d dusty, craterized)
+- GHOUL (@ large, not consistent)
+  - ELM NIGHTMARE (f felisian)
+  - SILENT LAMBS (k thick atmosphere)
+  - CALIGURI (r rocky, creased)
+  - EXORCIST (n thin atmosphere)
+  - CHILD'S PLAY (^ unstable)
+  - PHANTASM (q quartz surface)
+  - NOSFERATU (n thin atmosphere)
+  - HELLRAISER (d dusty, craterized)
+  - GODZILLA (k thick atmosphere)
+  - SHINING (d dusty, craterized)
+  - ALIEN (n thin atmosphere)
+- WARLOCK (n thin atmosphere)
+- ZOMBIE (d dusty, craterized)
+  - GOLEM (d dusty, craterized)
+- GARGOYLE (q quartz surface)
+  - CRYPT TALES (d dusty, craterized)
+
+Guide entries:
+PER STANDARD DESCRIPTION, 'YOU WILL RARELY FIND LIFE-BEARING PLANETS
+AROUND THESE' AS A MATTER OF FACT, I ONLY FOUND LIFE-BEARING MOONS.
+THESE ARE DESCRIBED ON THE MAIN SCREEN AS FELSIAN. MOON 3/4 I SAW
+SOMETHING IN THE AIR (PHOTOGRAPHED IT). MOON 7/4I AGAIN SAW THINGS
+IN THE AIR. ALSO RABBIT-LIKE CREATURES ON THE GROUND. ONE OF WHICH I
+WAS ABLE TO PHOTOGRAPH - THESE PICTURES ARE BEING SUBMITTED TO
+NOCTIS ONLINE GALLERY. MOON 1/6 HAS SOME PLANT LIFE. I APOLOGIZE FOR
+THE NAMES OF THE WORLDS...BUT IN THE WORDS OF ONE OF THE SUBJECTS
+NAMED, 'ALL WORK AND NO PLAY MAKE JACK A DULL BOY.'
+SYSTEM EXPLORED BY SKINNYMON EPOC 6011 562.688
+FURTHER NOTES: ONE OF THE EARLIEST SYSTEMS I EXPLORED, A CLASS S04
+WITH 9 PLANETS AND 28 MOONS. IT'S GOOD TO SEE MY OLD 'HAUNTS' AGAIN.
+SKINNYMON EPOC 6011 594.207

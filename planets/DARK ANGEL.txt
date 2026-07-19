@@ -1,0 +1,3 @@
+Planet: DARK ANGEL
+Starmap index: 08
+Paris coordinates: 363568, 105380, 678168

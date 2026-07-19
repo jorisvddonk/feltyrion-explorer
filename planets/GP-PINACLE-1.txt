@@ -1,0 +1,6 @@
+Planet: GP-PINACLE-1
+Starmap index: 01
+Paris coordinates: 3804272, 4498014, -620206
+
+Guide entries:
+GAS PLANET, THICK ATMOSPHERE, LOW VISIBILITY, CAUTION ADVISED

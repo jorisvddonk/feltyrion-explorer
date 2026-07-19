@@ -1,0 +1,6 @@
+Planet: LOW WAY 2
+Starmap index: 02
+Paris coordinates: 3659632, 4327550, -1239332
+
+Guide entries:
+ NOTHING TO SEE ON THIS PLANET!

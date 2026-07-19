@@ -1,0 +1,10 @@
+Star: FREEP
+Star class: S06
+Paris coordinates: -163568, 102358, -429910
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ZAP MORTON, EPOC 6011:566.286
+NO PLANETS. CAN SCOPE FOR LITHIUM.

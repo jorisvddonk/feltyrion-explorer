@@ -1,0 +1,33 @@
+Star: ASKEW 95
+Star class: S08
+Paris coordinates: 10724880, -18971815, 16962523
+Bodies: 24 (4 planets, 20 moons)
+
+System:
+- ASKEW 95A (* companion star)
+  - ASKEW 95A1 (d dusty, craterized)
+- ASKEW 95B (* companion star)
+  - MAYFLOWER LOW (f felisian)
+  - ASKEW 95B2 (+ substellar object)
+- ASKEW 95C (* companion star)
+  - ASKEW 95C1 (n thin atmosphere)
+  - ASKEW 95C2 (r rocky, creased)
+  - ASKEW 95C3 (@ large, not consistent)
+  - ASKEW 95C4 (d dusty, craterized)
+  - ASKEW 95C5 (d dusty, craterized)
+  - ASKEW 95C6 (d dusty, craterized)
+  - ASKEW 95C7 (k thick atmosphere)
+  - ASKEW 95C8 (^ unstable)
+  - ASKEW 95C9 (q quartz surface)
+  - ASKEW 95C10 (n thin atmosphere)
+  - ASKEW 95C11 (k thick atmosphere)
+  - ASKEW 95C12 (d dusty, craterized)
+  - ASKEW 95C13 (+ substellar object)
+  - ASKEW 95C14 (q quartz surface)
+  - ASKEW 95C15 (k thick atmosphere)
+- ASKEW 95D (* companion star)
+  - ASKEW 95D1 (^ unstable)
+  - ASKEW 95D2 (^ unstable)
+
+Guide entries:
+4 COMPANION STARS, ALL WITH PLANETS. 1 FELISIAN, WORLD, MANY OTHERS.

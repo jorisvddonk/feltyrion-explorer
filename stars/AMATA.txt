@@ -1,0 +1,37 @@
+Star: AMATA
+Star class: S00
+Paris coordinates: 518928, 12088, -250421
+Bodies: 24 (9 planets, 15 moons)
+
+System:
+- HOLOZOK (d dusty, craterized)
+- WIREPHOTO (r rocky, creased)
+- GROUPER (r rocky, creased)
+- FEED (+ substellar object)
+  - SENSATION (k thick atmosphere)
+  - CAVETTO (k thick atmosphere)
+  - BARB (^ unstable)
+  - INDEX (n thin atmosphere)
+  - COMPASS (q quartz surface)
+  - SECTOR (k thick atmosphere)
+  - HOROLOGY (r rocky, creased)
+- IMMUNE (q quartz surface)
+- LOCKOM (f felisian)
+  - OPTIC (d dusty, craterized)
+  - TIMBER (d dusty, craterized)
+  - HEARING (d dusty, craterized)
+- HALOPHILE (n thin atmosphere)
+  - BION (n thin atmosphere)
+- PIPE (r rocky, creased)
+  - SWAB (n thin atmosphere)
+- SPINE (q quartz surface)
+  - MOLOK (d dusty, craterized)
+  - FILLET (d dusty, craterized)
+  - REAGENT (d dusty, craterized)
+
+Guide entries:
+ A CLASS 00 STAR WITH A FELISIAN PLANET (LOCKOM)
+AMWHERE 6011.572.94
+FURTHER NOTES:WELL, THERE WAS MOR HERE THAN ONE FELISIAN PLANET, PILGRIM
+WE HAVE 9 PLANETS, 15 MOONS, ONE FELISIAN WORLD. THAT'S ALL I HAVE TO
+REPOSRT. SKINNYMON EPOC M6011 580.665

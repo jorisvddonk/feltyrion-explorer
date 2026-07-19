@@ -1,0 +1,12 @@
+Star: ARMONIKOS
+Star class: S00
+Paris coordinates: 112144, 140438, -263757
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+- APHELION (f felisian)

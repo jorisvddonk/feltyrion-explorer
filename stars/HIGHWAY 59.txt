@@ -1,0 +1,6 @@
+Star: HIGHWAY 59
+Star class: S02
+Paris coordinates: 294640, 2402336, 458740
+Bodies: 0 (0 planets, 0 moons)
+
+System:

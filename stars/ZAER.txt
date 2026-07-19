@@ -1,0 +1,26 @@
+Star: ZAER
+Star class: S00
+Paris coordinates: 1301754800, 1878378, 54869474
+Bodies: 16 (7 planets, 9 moons)
+
+System:
+- ZAER PRIME (n thin atmosphere)
+- ZAER 2 (d dusty, craterized)
+- ZAER 3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- ZAER 4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- ZAER 5 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- ZAER 6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- ZAER 7 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY DODO C. SNOTTS - 6014:788.785
+(S00) - 7PLANETS / 9 MINOR

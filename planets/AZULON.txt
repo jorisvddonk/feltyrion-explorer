@@ -1,0 +1,3 @@
+Planet: AZULON
+Starmap index: 03
+Paris coordinates: -144436272, -2806823, 108553125

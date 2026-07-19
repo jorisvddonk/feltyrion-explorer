@@ -1,0 +1,7 @@
+Planet: RECEPTION
+Starmap index: 01
+Paris coordinates: 10798832, 13238215, 11429699
+
+Guide entries:
+ORBITS A PULSAR AND BRINGS MEMORIES OF TALLCHILD. NO LIFE DETECTED.         
+(NOTES BY DAWIWO, EPOCH 6011:768.491)                                       

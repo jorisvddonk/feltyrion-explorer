@@ -1,0 +1,8 @@
+Planet: CAJDIR
+Starmap index: 02
+Paris coordinates: 2082626640, -917079, -1091847
+
+Guide entries:
+P02/04 MEDIUM SIZED THICK ATMO RED COLOR TO CLOUDS WITH DARK BAND LIKE      
+MARKING AND BRIGHT STORMS. PRO 0.289.440 PRV 0.049.087.612 SKINNYMON        
+6011 793.784                                                                

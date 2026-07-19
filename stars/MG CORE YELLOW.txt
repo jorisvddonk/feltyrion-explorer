@@ -1,0 +1,6 @@
+Star: MG CORE YELLOW
+Star class: S00
+Paris coordinates: -362480, 4325557, -4077937
+Bodies: 0 (0 planets, 0 moons)
+
+System:

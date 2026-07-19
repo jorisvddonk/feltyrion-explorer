@@ -1,0 +1,3 @@
+Planet: ENERGON
+Starmap index: 01
+Paris coordinates: 5876048, 5541237, -493927

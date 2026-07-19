@@ -1,0 +1,39 @@
+Star: YUINCA
+Star class: S00
+Paris coordinates: -12144, -27311, 376371
+Bodies: 30 (12 planets, 18 moons)
+
+System:
+- YUINCA I (@ large, not consistent)
+- YUINCA II (r rocky, creased)
+- TREN (f felisian)
+- TEAPEL (f felisian)
+  - YUINCA IV A (n thin atmosphere)
+- YUINCA V (k thick atmosphere)
+  - YUINCA V A (d dusty, craterized)
+  - YUINCA V B (n thin atmosphere)
+- ASTEN (f felisian)
+  - YUINCA VI B (^ unstable)
+- YUINCA B (+ substellar object)
+  - YUINCA B I (i icy surface)
+  - YUINCA B II (q quartz surface)
+  - YUINCA B III (q quartz surface)
+  - YUINCA B IV (q quartz surface)
+  - YUINCA B V (k thick atmosphere)
+  - YUINCA B VI (k thick atmosphere)
+  - YUINCA B VII (k thick atmosphere)
+  - HERAINA (f felisian)
+  - YUINCA B IX (q quartz surface)
+  - YUINCA B X (n thin atmosphere)
+  - YUINCA B XI (r rocky, creased)
+  - OATIUCE (f felisian)
+  - YUINCA B XIII (n thin atmosphere)
+- YUINCA VIII (n thin atmosphere)
+- YUINCA IX (r rocky, creased)
+- YUINCA X (d dusty, craterized)
+- YUINCA XI (k thick atmosphere)
+  - YUINCA XI A (n thin atmosphere)
+- YUINCA XII (n thin atmosphere)
+
+Guide entries:
+ A CLASS 00 STAR WITH 30 MAJOR BODIES.

@@ -1,0 +1,3 @@
+Planet: CRISTATA
+Starmap index: 14
+Paris coordinates: -61370448, 29437512, 475820

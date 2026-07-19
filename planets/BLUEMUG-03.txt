@@ -1,0 +1,3 @@
+Planet: BLUEMUG-03
+Starmap index: 03
+Paris coordinates: 2270352, 5687361, -930884

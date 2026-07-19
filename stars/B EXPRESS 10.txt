@@ -1,0 +1,12 @@
+Star: B EXPRESS 10
+Star class: S06
+Paris coordinates: -11232496, -162684, 10463846
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+WELOCME BACK TO THE LINE, WE ARE NOW HEADING TOWARDS THE NEXT               
+NAMED-STAR CLUSTER, ABOUT 1500 AWAY(YOU KNOW, YOU COULD JUST                
+GO THERE DIRECTLY FROM HERE-IT WOULD CONSUME ABOUT 35 GRAMS OF              
+FUEL)                                                                       

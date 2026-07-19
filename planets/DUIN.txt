@@ -1,0 +1,7 @@
+Planet: DUIN
+Starmap index: 21
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M06/P07 SMALL ICY. LIGHT BLUE AND VERY REFLECTIVE WITH WHITE GROOVING.      
+PRO 0.084.600 PRV 0.004.716.115 SKINNYMON 6011 792.7                        

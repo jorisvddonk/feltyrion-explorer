@@ -1,0 +1,11 @@
+Star: SEVEN-7 EXTRA SPLASH
+Star class: S07
+Paris coordinates: 8300336, 4959123, -3440871
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DANDOK (+ substellar object)
+
+Guide entries:
+A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011
+605.105

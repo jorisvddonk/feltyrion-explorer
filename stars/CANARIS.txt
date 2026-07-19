@@ -1,0 +1,13 @@
+Star: CANARIS
+Star class: S00
+Paris coordinates: 4459632, 4223749, -1788536
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- MARBLE 2 (@ large, not consistent)
+- H2O (f felisian)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (^ unstable)

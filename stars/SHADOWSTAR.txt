@@ -1,0 +1,31 @@
+Star: SHADOWSTAR
+Star class: S00
+Paris coordinates: 4173200, 4174602, -869194
+Bodies: 22 (8 planets, 14 moons)
+
+System:
+- STARBALL (d dusty, craterized)
+- GASHEAD (@ large, not consistent)
+- GIANT RAISIN (@ large, not consistent)
+  - STREKA (d dusty, craterized)
+  - STRULKA (d dusty, craterized)
+  - HOMELAND (f felisian)
+  - SHODAR (r rocky, creased)
+  - QUARTZER (q quartz surface)
+  - AKANDSO (q quartz surface)
+  - ANWAR (n thin atmosphere)
+  - CRATERROCK (d dusty, craterized)
+- SHARFOV (n thin atmosphere)
+  - BLACKROCK (n thin atmosphere)
+- LYSTRA (f felisian)
+  - GALACONSTRA (d dusty, craterized)
+  - BLACKLIGHT (n thin atmosphere)
+- NAMA (d dusty, craterized)
+  - HAMA (d dusty, craterized)
+- GELIDIA (f felisian)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.527                                    

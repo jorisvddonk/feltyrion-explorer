@@ -1,0 +1,3 @@
+Planet: ASKEW 43A
+Starmap index: 01
+Paris coordinates: 11752016, -19443448, 17324166

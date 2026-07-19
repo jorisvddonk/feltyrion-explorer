@@ -1,0 +1,6 @@
+Planet: NACHT
+Starmap index: 02
+Paris coordinates: 3966416, 3899706, -1028195
+
+Guide entries:
+PLANET DISCOVERED BY SEB PAT EPOC 6011:683.302                              

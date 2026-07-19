@@ -1,0 +1,9 @@
+Star: LISTA 68
+Star class: S06
+Paris coordinates: 3521776, 4559539, -1140378
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM STOP. SKINNYMON EPOC 6011 593.15

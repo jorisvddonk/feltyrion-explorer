@@ -1,0 +1,9 @@
+Star: CIBVS LITHI
+Star class: S06
+Paris coordinates: 4659632, 4115032, -2159086
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ SOURCE. INNOMINANDUS EPOC 6011:723.813.306                              

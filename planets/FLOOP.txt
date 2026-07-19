@@ -1,0 +1,3 @@
+Planet: FLOOP
+Starmap index: 01
+Paris coordinates: 263568, -3297, 572181

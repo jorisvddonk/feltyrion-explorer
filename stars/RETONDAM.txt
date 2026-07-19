@@ -1,0 +1,6 @@
+Star: RETONDAM
+Star class: S02
+Paris coordinates: 1350000, 52050000, -1450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

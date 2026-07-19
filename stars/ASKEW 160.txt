@@ -1,0 +1,6 @@
+Star: ASKEW 160
+Star class: S00
+Paris coordinates: 8660976, -12153755, 13433119
+Bodies: 0 (0 planets, 0 moons)
+
+System:

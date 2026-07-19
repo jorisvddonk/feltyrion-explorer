@@ -1,0 +1,7 @@
+Planet: ROCKY OPAL
+Starmap index: 04
+Paris coordinates: 2594640, 4276362, -1859682
+
+Guide entries:
+ NO ATMOSPHERE
+DISCOVERED BY ROSS MILES 6011:575.327

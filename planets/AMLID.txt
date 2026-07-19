@@ -1,0 +1,3 @@
+Planet: AMLID
+Starmap index: 01
+Paris coordinates: -107335952, 24959881, -1997831

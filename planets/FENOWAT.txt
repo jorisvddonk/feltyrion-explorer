@@ -1,0 +1,3 @@
+Planet: FENOWAT
+Starmap index: 19
+Paris coordinates: -72824208, -13935588, 55276606

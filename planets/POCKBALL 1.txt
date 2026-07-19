@@ -1,0 +1,6 @@
+Planet: POCKBALL 1
+Starmap index: 02
+Paris coordinates: 4844976, 5439587, 810360
+
+Guide entries:
+DISCOVERED BY PROF.CALLAHAN

@@ -1,0 +1,6 @@
+Star: BRAVA
+Star class: S10
+Paris coordinates: 577136, 10448236, 1187889
+Bodies: 0 (0 planets, 0 moons)
+
+System:

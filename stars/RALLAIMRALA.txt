@@ -1,0 +1,27 @@
+Star: RALLAIMRALA
+Star class: S08
+Paris coordinates: 470352, -472659, 722038
+Bodies: 21 (7 planets, 14 moons)
+
+System:
+- MULLAHNRAH (q quartz surface)
+- GRALNARMHRAH (k thick atmosphere)
+- DREINAREAKRA (f felisian)
+- UYRGRANA (r rocky, creased)
+  - IKRANA (d dusty, craterized)
+- HREBROAH (d dusty, craterized)
+- RYRAMALIADRAN (* companion star)
+  - YURDRAN (r rocky, creased)
+  - GARGABRAN (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - SHREABRAK (d dusty, craterized)
+  - ORAVRABUSHEV (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (q quartz surface)
+- IRADRASTAV (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (+ substellar object)
+  - Moon #2 (^ unstable)
+  - Moon #3 (q quartz surface)

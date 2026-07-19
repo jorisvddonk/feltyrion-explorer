@@ -1,0 +1,12 @@
+Star: UMSAAD
+Star class: S10
+Paris coordinates: -1776048, 4847969, -3436734
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- UMSAADA (n thin atmosphere)
+- DEYOS (@ large, not consistent)
+
+Guide entries:
+RUNAWAY STAR,IT HAS 2 PLANETS
+DISCOVERED BY KJ EPOC 6011:576.597

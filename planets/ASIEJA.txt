@@ -1,0 +1,8 @@
+Planet: ASIEJA
+Starmap index: 01
+Paris coordinates: 634478448, -11024256, 49376256
+
+Guide entries:
+P01 SMALL, THIN ATMOSPEHERE, SOMEWHAT DARK REFLECTIVITY. A FEW LIGHT        
+SPOTS NOTED. GOOD POLAR CAPS.PRO 0.155.880; PRV 0.006.059.312               
+ SKINNYMON 6011 893.59                                                      

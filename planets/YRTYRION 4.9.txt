@@ -1,0 +1,7 @@
+Planet: YRTYRION 4.9
+Starmap index: 20
+Paris coordinates: 5473200, 5334019, -2191107
+
+Guide entries:
+ ROCKY, CREASED; NO ATMOSPHERE; NO INTEREST.
+ (STARGAZER. EPOC; 6011; 584.204)

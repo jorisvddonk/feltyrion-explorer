@@ -1,0 +1,32 @@
+Star: LUMEEA
+Star class: S03
+Paris coordinates: 3348240, -260838, -9137523
+Bodies: 26 (10 planets, 16 moons)
+
+System:
+- LUMEEA-A (k thick atmosphere)
+- LUMEEA-B (d dusty, craterized)
+- LUMEEA-C (r rocky, creased)
+- LUMEEA-D (@ large, not consistent)
+  - LUMEEA-D-S1 (r rocky, creased)
+  - LUMEEA-D-S2 (q quartz surface)
+  - LUMEEA-D-S3 (d dusty, craterized)
+  - LUMEEA-D-S4 (q quartz surface)
+- LUMEEA-E (n thin atmosphere)
+  - LUMEEA-E-S1 (d dusty, craterized)
+  - LUMEEA-E-S2 (^ unstable)
+- LUMEEA-F (d dusty, craterized)
+  - LUMEEA-F-S1 (d dusty, craterized)
+- LUMEEA-G (q quartz surface)
+  - LUMEEA-G-S1 (n thin atmosphere)
+- LUMEEA-H (q quartz surface)
+  - LUMEEA-H-S1 (d dusty, craterized)
+  - LUMEEA-H-S2 (d dusty, craterized)
+- LUMEEA-I (@ large, not consistent)
+  - LUMEEA-I-S1 (d dusty, craterized)
+  - LUMEEA-I-S2 (r rocky, creased)
+  - LUMEEA-I-S3 (i icy surface)
+  - LUMEEA-I-S4 (i icy surface)
+- LUMEEA-J (k thick atmosphere)
+  - LUMEEA-J-S1 (d dusty, craterized)
+  - LUMEEA-J-S2 (d dusty, craterized)

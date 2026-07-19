@@ -1,0 +1,3 @@
+Planet: ARAKAN
+Starmap index: 03
+Paris coordinates: 30736, 6403444, -4831508

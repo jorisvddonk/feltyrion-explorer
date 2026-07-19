@@ -1,0 +1,3 @@
+Planet: ALPORIS FELISIAN
+Starmap index: 03
+Paris coordinates: -72186352, 49633539, 54695819

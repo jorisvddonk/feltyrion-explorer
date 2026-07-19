@@ -1,0 +1,3 @@
+Planet: ZUNA II
+Starmap index: 02
+Paris coordinates: 9675376, 5043750, -13745597

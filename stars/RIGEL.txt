@@ -1,0 +1,22 @@
+Star: RIGEL
+Star class: S08
+Paris coordinates: 4821776, 4604922, -2453236
+Bodies: 7 (3 planets, 4 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (* companion star)
+  - Moon #0 (q quartz surface)
+- Planet #2 (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - CORONAE (f felisian)
+  - Moon #2 (@ large, not consistent)
+
+Guide entries:
+STAR DISCOVERED BY OBLIVIATOR, EPOC 6011:595.640
+SYSTEM SURVEY REVEALS MULTIPLE (COMPANION) STARS, POSSIBLE MULTI-SYSTEM.
+NO PLANETS APPEAR TO EXIST, ONLY MOONS WHICH ARE NEAR THE STARS.
+(NOTES BY OBLIVIATOR, EPOC 6011:595.642)
+ ADDENDUM BY KALLIOPE, 6011.617.763-
+ THIRD MOON OF THIRD LESSER STAR IS FELISIAN, ACCORDING TO READOUTS.
+ I HAVE CALLED THIS WORLD 'CORONAE', RIGEL BEING THE STAR OF THIS CROWN.

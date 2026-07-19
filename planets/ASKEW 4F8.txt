@@ -1,0 +1,3 @@
+Planet: ASKEW 4F8
+Starmap index: 24
+Paris coordinates: 2067504, 5563906, -2988222

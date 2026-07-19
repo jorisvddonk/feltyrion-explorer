@@ -1,0 +1,7 @@
+Planet: CRESCENT ROCK
+Starmap index: 07
+Paris coordinates: 908208, 554963, 552389
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.297
+NOTHING SPECIAL TO SEE.

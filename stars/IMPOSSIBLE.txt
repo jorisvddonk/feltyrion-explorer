@@ -1,0 +1,32 @@
+Star: IMPOSSIBLE
+Star class: S01
+Paris coordinates: 3973200, 4221255, -548021
+Bodies: 21 (6 planets, 15 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- SHOCK (+ substellar object)
+  - SURPRISE (f felisian)
+  - Moon #1 (k thick atmosphere)
+  - HEART ATTACK (f felisian)
+  - Moon #3 (n thin atmosphere)
+  - LONGSHOT (f felisian)
+  - Moon #5 (^ unstable)
+  - Moon #6 (@ large, not consistent)
+  - Moon #7 (^ unstable)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (^ unstable)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED 6011.564.760.500 BY JEREMY HUSSELL
+BLUE GIANT WITH 6 PLANETS AND 15 MOONS, 14 OF WHICH ARE AROUND THE 5TH
+PLANET. 3 OF THESE MOONS SUPPORT LIFE!

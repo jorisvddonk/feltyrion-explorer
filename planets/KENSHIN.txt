@@ -1,0 +1,3 @@
+Planet: KENSHIN
+Starmap index: 04
+Paris coordinates: 3383920, 4684937, -1432007

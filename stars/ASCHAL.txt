@@ -1,0 +1,25 @@
+Star: ASCHAL
+Star class: S01
+Paris coordinates: 3459632, 4462483, -956745
+Bodies: 13 (10 planets, 3 moons)
+
+System:
+- TOLITS (r rocky, creased)
+- USOK (^ unstable)
+- GINTO (n thin atmosphere)
+- SABLAY (n thin atmosphere)
+- APO (q quartz surface)
+- BAGWIS (^ unstable)
+- BINOY (f felisian)
+- YELO (i icy surface)
+- BATO (d dusty, craterized)
+  - BASYO (n thin atmosphere)
+- SABLAY II (n thin atmosphere)
+  - MINI-SABLAY (d dusty, craterized)
+  - MINI-SABLAY II (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ZK306 EPOC 6011.667.354.364
+SYSTEM HAS 10 PLANETS AND 3 MINOR BODIES.
+SYSTEM HAS ONE HABITABLE PLANET. THE SEVENTH PLANET, BINOY.
+ZK306 EPOC 6011.667.430.189

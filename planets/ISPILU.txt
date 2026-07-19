@@ -1,0 +1,3 @@
+Planet: ISPILU
+Starmap index: 03
+Paris coordinates: 1229648, 4810891, -2287914

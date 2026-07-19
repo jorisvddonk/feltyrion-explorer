@@ -1,0 +1,3 @@
+Planet: LAND OF THE DEAD
+Starmap index: 04
+Paris coordinates: 2242128, 5736045, 1350858

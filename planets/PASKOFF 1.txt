@@ -1,0 +1,6 @@
+Planet: PASKOFF 1
+Starmap index: 01
+Paris coordinates: 5017840, 4316655, -930532
+
+Guide entries:
+INHOSPITABLE TO LIFE.

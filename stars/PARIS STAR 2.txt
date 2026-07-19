@@ -1,0 +1,31 @@
+Star: PARIS STAR 2
+Star class: S00
+Paris coordinates: -71548496, -1370419, 54190767
+Bodies: 25 (11 planets, 14 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (^ unstable)
+  - Moon #5 (^ unstable)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (r rocky, creased)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (^ unstable)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (i icy surface)

@@ -1,0 +1,3 @@
+Planet: BRAX
+Starmap index: 28
+Paris coordinates: 229648, 4412683, -1287031

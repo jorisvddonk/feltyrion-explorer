@@ -1,0 +1,3 @@
+Planet: CASANDRA
+Starmap index: 22
+Paris coordinates: -214992, 3342390, -1564787

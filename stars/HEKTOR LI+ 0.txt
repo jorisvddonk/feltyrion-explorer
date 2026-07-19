@@ -1,0 +1,6 @@
+Star: HEKTOR /LI+ 0
+Star class: S06
+Paris coordinates: 4373200, 4723248, -1102054
+Bodies: 0 (0 planets, 0 moons)
+
+System:

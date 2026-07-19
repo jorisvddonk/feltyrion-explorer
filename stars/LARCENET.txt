@@ -1,0 +1,45 @@
+Star: LARCENET
+Star class: S00
+Paris coordinates: 625712, 120217, 3812
+Bodies: 36 (11 planets, 25 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+- Planet #5 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (^ unstable)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (^ unstable)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (^ unstable)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #8 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.344

@@ -1,0 +1,38 @@
+Star: ASKEW 78
+Star class: S08
+Paris coordinates: 11727728, -19112154, 18047770
+Bodies: 29 (5 planets, 24 moons)
+
+System:
+- ASKEW 78A (r rocky, creased)
+- ASKEW 78B (* companion star)
+- ASKEW 78C (d dusty, craterized)
+  - ASKEW 78C1 (d dusty, craterized)
+- ASKEW 78D (* companion star)
+  - ASKEW 78D1 (q quartz surface)
+  - ASKEW 78D2 (k thick atmosphere)
+  - ASKEW 78D3 (@ large, not consistent)
+  - ASKEW 78D4 (q quartz surface)
+  - ASKEW 78D5 (q quartz surface)
+  - ASKEW 78D6 (d dusty, craterized)
+  - ASKEW 78D7 (@ large, not consistent)
+  - ASKEW 78D8 (q quartz surface)
+  - ASKEW 78D9 (r rocky, creased)
+  - ASKEW 78D10 (q quartz surface)
+  - ASKEW 78D11 (@ large, not consistent)
+  - ASKEW 78D12 (d dusty, craterized)
+  - ASKEW 78D13 (n thin atmosphere)
+  - ASKEW 78D14 (@ large, not consistent)
+  - ASKEW 78D15 (^ unstable)
+- ASKEW 78E (* companion star)
+  - ASKEW 78E1 (k thick atmosphere)
+  - ASKEW 78E2 (q quartz surface)
+  - ASKEW 78E3 (@ large, not consistent)
+  - ASKEW 78E4 (+ substellar object)
+  - ASKEW 78E5 (n thin atmosphere)
+  - ASKEW 78E6 (^ unstable)
+  - ASKEW 78E7 (@ large, not consistent)
+  - ASKEW 78E8 (q quartz surface)
+
+Guide entries:
+5 STARS, 7 QUARTZ WORLDS

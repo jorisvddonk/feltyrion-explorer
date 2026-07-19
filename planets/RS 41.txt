@@ -1,0 +1,3 @@
+Planet: RS 4/1
+Starmap index: 14
+Paris coordinates: 2683920, 4230319, -693965

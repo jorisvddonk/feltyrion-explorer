@@ -1,0 +1,6 @@
+Star: HOTRHEZ HAK
+Star class: S10
+Paris coordinates: 1050000, 50850000, -1150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

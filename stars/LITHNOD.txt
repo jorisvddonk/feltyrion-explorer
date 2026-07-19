@@ -1,0 +1,10 @@
+Star: LITHNOD
+Star class: S06
+Paris coordinates: -1997416656, -6792, 1646728
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A S06 STAR THAT IS SUITABLE FOR SCOPING. 24 MTPD.                          
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:652:633                             

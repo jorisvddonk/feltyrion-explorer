@@ -1,0 +1,14 @@
+Star: REYVAIR
+Star class: S00
+Paris coordinates: 4476048, 4348525, 1082091
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+
+Guide entries:
+ DISAPPOINTING, BUT BEARABLE AFTER THE BIKRU SURVEY.
+ NO LIFEBEARING WORLDS FOUND.
+SURVEYED BY EDEANP 6011.618.1.608 - 3P,0M NO LIFE

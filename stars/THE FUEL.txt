@@ -1,0 +1,6 @@
+Star: THE FUEL
+Star class: S06
+Paris coordinates: 4166416, 5103058, -1123869
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: DUNGA
+Starmap index: 01
+Paris coordinates: 3628560, 4654023, -897767

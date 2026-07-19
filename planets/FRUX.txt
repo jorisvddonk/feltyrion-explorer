@@ -1,0 +1,7 @@
+Planet: FRUX
+Starmap index: 21
+Paris coordinates: -3251760, -55767, -2466093
+
+Guide entries:
+MAYIS 15/03; FELISIAN
+COLD; SPARSE PLANT LIFE

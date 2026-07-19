@@ -1,0 +1,11 @@
+Star: TOWER 06
+Star class: S11
+Paris coordinates: 12715248, 12446508, 12480275
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.494                               

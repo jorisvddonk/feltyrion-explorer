@@ -1,0 +1,3 @@
+Planet: ELEIA
+Starmap index: 03
+Paris coordinates: 3821776, 4429682, -1462658

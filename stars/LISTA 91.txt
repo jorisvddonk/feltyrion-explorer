@@ -1,0 +1,9 @@
+Star: LISTA 91
+Star class: S06
+Paris coordinates: 3752848, 4441158, -1717445
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ BURP! SKINNYMON EPOC 6011 596.558

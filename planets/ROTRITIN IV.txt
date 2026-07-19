@@ -1,0 +1,8 @@
+Planet: ROTRITIN IV
+Starmap index: 13
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.527.385                              
+DID NOT LAND. NO NOTABLE FEATURES FROM ORBIT, SAVE FOR LARGE                
+CRATERS. (NEURONWAKE 6011 802.527)                                          

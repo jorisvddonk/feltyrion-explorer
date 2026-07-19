@@ -1,0 +1,13 @@
+Star: LYORAN
+Star class: S00
+Paris coordinates: 1399131728, 1568007, 1399499959
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LYORAN PRIMUS (n thin atmosphere)
+- LYORAN SECUNDUS (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:592.321
+2 PLANETS / 0 MINOR
+COORDINATES = 1399131728, 1568007, 1399499959

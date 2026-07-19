@@ -1,0 +1,6 @@
+Star: XNOL XXIII
+Star class: S06
+Paris coordinates: 2581072, 12505517, -2673924
+Bodies: 0 (0 planets, 0 moons)
+
+System:

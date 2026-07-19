@@ -1,0 +1,8 @@
+Planet: RAVEIL
+Starmap index: 08
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+M01/P06 MEDIUM SIZE, UNSTABLE, INTERNALLY HOT, HAS A NICE YELLOW PALLOR     
+TO GO WITH THE YELLOW GLOWING. PRO 0.152.640 PRV 0.0.869.567 SKINNYMON      
+6011 797.283                                                                

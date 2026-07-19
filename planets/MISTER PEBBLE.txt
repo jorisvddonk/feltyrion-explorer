@@ -1,0 +1,7 @@
+Planet: MISTER PEBBLE
+Starmap index: 25
+Paris coordinates: 3959632, 5309715, -1265022
+
+Guide entries:
+ GREYBROWN FLAT SURFACE
+ SECONDMOON OF OMENSOR

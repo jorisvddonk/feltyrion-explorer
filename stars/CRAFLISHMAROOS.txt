@@ -1,0 +1,6 @@
+Star: CRAFLISHMAROOS
+Star class: S06
+Paris coordinates: 450000, 51050000, -550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

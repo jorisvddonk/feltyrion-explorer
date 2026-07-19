@@ -1,0 +1,7 @@
+Planet: TELMAK
+Starmap index: 03
+Paris coordinates: -72824208, -13935588, 55276606
+
+Guide entries:
+ THIS IS *NOT* A GAS PLANET!
+(DISCOVERED BY MEGAGUN)

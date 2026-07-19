@@ -1,0 +1,3 @@
+Planet: DELESCAR
+Starmap index: 03
+Paris coordinates: 2739280, 4319060, -1223981

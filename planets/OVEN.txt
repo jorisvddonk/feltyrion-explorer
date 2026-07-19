@@ -1,0 +1,3 @@
+Planet: OVEN
+Starmap index: 33
+Paris coordinates: 3890704, 4320850, -1439499

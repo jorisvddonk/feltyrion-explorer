@@ -1,0 +1,7 @@
+Planet: SERPENTINE 4.2
+Starmap index: 15
+Paris coordinates: 218928, 369094, -5434
+
+Guide entries:
+SMALL, SOLID, DUSTY, GREEN COLOUR, ONE HUGE CRATER.
+SERPENS, 6011 665.937

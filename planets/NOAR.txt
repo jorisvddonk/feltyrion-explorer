@@ -1,0 +1,3 @@
+Planet: NOAR
+Starmap index: 01
+Paris coordinates: 4442128, 4248589, -942984

@@ -1,0 +1,6 @@
+Star: LEBULCAPUL
+Star class: S09
+Paris coordinates: 1350000, 51450000, -1450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

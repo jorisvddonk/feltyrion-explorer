@@ -1,0 +1,3 @@
+Planet: DIABOLIC
+Starmap index: 03
+Paris coordinates: 4755696, 4489030, -548211

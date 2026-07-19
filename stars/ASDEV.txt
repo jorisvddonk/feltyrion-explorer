@@ -1,0 +1,10 @@
+Star: ASDEV
+Star class: S06
+Paris coordinates: 1825712, 5011857, -1246317
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+1.DISCOVERED BY KJ EPOC 6011:574.482
+2.FUEL STAR

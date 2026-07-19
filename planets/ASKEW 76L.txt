@@ -1,0 +1,6 @@
+Planet: ASKEW 76L
+Starmap index: 12
+Paris coordinates: 11352016, -19280074, 17907404
+
+Guide entries:
+FOUND EPOC 6011 588.107.400 BY ROLAND ASKEW

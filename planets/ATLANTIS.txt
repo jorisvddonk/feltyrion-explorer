@@ -1,0 +1,6 @@
+Planet: ATLANTIS
+Starmap index: 01
+Paris coordinates: 3814992, 4409913, -1856513
+
+Guide entries:
+AVG. TEMP: +159 C

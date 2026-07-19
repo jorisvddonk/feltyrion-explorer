@@ -1,0 +1,3 @@
+Planet: SUNDANCE
+Starmap index: 02
+Paris coordinates: 2677136, 4584941, -930369

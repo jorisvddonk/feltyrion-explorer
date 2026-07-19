@@ -1,0 +1,6 @@
+Planet: ROTGARD
+Starmap index: 17
+Paris coordinates: 4348912, 4223012, -412744
+
+Guide entries:
+ MOON DISCOVERED BY E.SIRAVEGNA ON EPOC 6011:564.663

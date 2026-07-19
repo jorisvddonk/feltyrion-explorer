@@ -1,0 +1,3 @@
+Planet: GORONH
+Starmap index: 05
+Paris coordinates: 4158544, 4648509, 2112777

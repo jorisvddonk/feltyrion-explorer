@@ -1,0 +1,6 @@
+Star: KOLM
+Star class: S00
+Paris coordinates: -156784, -62810, -35112
+Bodies: 0 (0 planets, 0 moons)
+
+System:

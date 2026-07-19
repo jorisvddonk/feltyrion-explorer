@@ -1,0 +1,31 @@
+Star: GAMMA JENAN
+Star class: S00
+Paris coordinates: 4966416, 6018883, -1864728
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- CARGOLIOUS TWIN (r rocky, creased)
+- CARGOLIOUS (r rocky, creased)
+- BIGBOY (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - CRATMOON (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (r rocky, creased)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (q quartz surface)
+  - Moon #16 (r rocky, creased)
+- STACCATO (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ STAR DISCOVERED BY MATTHIUS HOOD AT EPOCH 6011 TRIADS 658.669.13

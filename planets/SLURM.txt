@@ -1,0 +1,3 @@
+Planet: SLURM
+Starmap index: 01
+Paris coordinates: 4490704, 4735203, -2066666

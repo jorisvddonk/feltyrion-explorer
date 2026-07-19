@@ -1,0 +1,3 @@
+Planet: ROVOI
+Starmap index: 18
+Paris coordinates: 587856, 70599, -335898

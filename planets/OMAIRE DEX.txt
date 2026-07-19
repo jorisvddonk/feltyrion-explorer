@@ -1,0 +1,3 @@
+Planet: OMAIRE DEX
+Starmap index: 10
+Paris coordinates: 2146527632, 1285701, 1100108981

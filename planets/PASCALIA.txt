@@ -1,0 +1,3 @@
+Planet: PASCALIA
+Starmap index: 01
+Paris coordinates: 2914992, 5064231, -923148

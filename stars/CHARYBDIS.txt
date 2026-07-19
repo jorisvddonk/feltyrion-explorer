@@ -1,0 +1,9 @@
+Star: CHARYBDIS
+Star class: S07
+Paris coordinates: 1778224, 4274111, -4041802
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ BLUE DWARF DISC BY SCAREDY-CAT, EPOC 6011.584.234

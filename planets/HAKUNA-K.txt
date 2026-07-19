@@ -1,0 +1,3 @@
+Planet: HAKUNA-K
+Starmap index: 11
+Paris coordinates: 264656, 999491, -3130269

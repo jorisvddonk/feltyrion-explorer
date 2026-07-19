@@ -1,0 +1,14 @@
+Star: AS01030146
+Star class: S08
+Paris coordinates: 51892208, 516323, 1981207427
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- AS01030146A (* companion star)
+  - AS01030146A1 (k thick atmosphere)
+  - AS01030146A2 (d dusty, craterized)
+- AS01030146B (q quartz surface)
+- AS01030146C (q quartz surface)
+
+Guide entries:
+NO HABITABLE PLANETS.

@@ -1,0 +1,6 @@
+Star: SC 05
+Star class: S03
+Paris coordinates: -3727472, -94891, -2484434
+Bodies: 0 (0 planets, 0 moons)
+
+System:

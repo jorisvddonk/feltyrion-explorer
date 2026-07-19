@@ -1,0 +1,13 @@
+Star: ASKEW 51
+Star class: S03
+Paris coordinates: 11376304, -19389667, 17396435
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ASKEW 51A (n thin atmosphere)
+- ASKEW 51B (d dusty, craterized)
+- NAZARUS (q quartz surface)
+  - ASKEW 51C1 (n thin atmosphere)
+
+Guide entries:
+1 QUARTZ WORLD

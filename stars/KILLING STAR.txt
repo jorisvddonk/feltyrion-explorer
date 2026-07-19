@@ -1,0 +1,22 @@
+Star: KILLING STAR
+Star class: S11
+Paris coordinates: 1698576, 2677692, -2724758
+Bodies: 9 (3 planets, 6 moons)
+
+System:
+- PULSAR COMPANION 1 (d dusty, craterized)
+- PULSAR COMPANION 2 (n thin atmosphere)
+- PULSAR COMPANION 3 (@ large, not consistent)
+  - PULSAR COMPANION 3.1 (k thick atmosphere)
+  - PULSAR COMPANION 3.2 (i icy surface)
+  - PULSAR COMPANION 3.3 (d dusty, craterized)
+  - PULSAR COMPANION 3.4 (k thick atmosphere)
+  - PULSAR COMPANION 3.5 (i icy surface)
+  - PULSAR COMPANION 3.6 (q quartz surface)
+
+Guide entries:
+ A TINY. SPINNING NEUTRON STAR, CREATING LEATHAL JET-PULSES OF
+HIGH-SPEED PARTICLES.
+THE STAR - IF SUCH CAN BE CALLED - HAS SUPRISINGLY 9 WORLDS.
+THAT'S 3 PLANETS, AND 6 MINOR BODIES.
+(STARGAZER. EPOC 6011:597:870)

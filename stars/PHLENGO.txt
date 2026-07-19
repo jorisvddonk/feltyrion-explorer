@@ -1,0 +1,44 @@
+Star: PHLENGO
+Star class: S08
+Paris coordinates: 1600572784, 2148138, 54617322
+Bodies: 34 (6 planets, 28 moons)
+
+System:
+- PHLENGO ALPHA (* companion star)
+  - PHLENGO ALPHA PRIME (f felisian)
+- PHLENGO BETA (* companion star)
+  - PHLENGO BETA PRIME (f felisian)
+  - PHLENGO BETA 2 (@ large, not consistent)
+- PHLENGO PRIME (q quartz surface)
+- PHLENGO GAMMA (* companion star)
+  - PHLENGO GAMMA PRIME (^ unstable)
+  - PHLENGO GAMMA 2 (n thin atmosphere)
+  - PHLENGO GAMMA 3 (@ large, not consistent)
+  - PHLENGO GAMMA 4 (+ substellar object)
+  - PHLENGO GAMMA 5 (^ unstable)
+  - PHLENGO GAMMA 6 (@ large, not consistent)
+  - PHLENGO GAMMA 7 (n thin atmosphere)
+  - PHLENGO GAMMA 8 (q quartz surface)
+  - PHLENGO GAMMA 9 (d dusty, craterized)
+  - PHLENGO GAMMA 10 (q quartz surface)
+  - PHLENGO GAMMA 11 (r rocky, creased)
+- PHLENGO EPSILON (* companion star)
+  - PHLENGO EPSILON 1 (+ substellar object)
+  - PHLENGO EPSILON 2 (d dusty, craterized)
+  - PHLENGO EPSILON 3 (+ substellar object)
+  - PHLENGO EPSILON 4 (r rocky, creased)
+  - PHLENGO EPSILON 5 (k thick atmosphere)
+  - PHLENGO EPSILON 6 (+ substellar object)
+  - PHLENGO EPSILON 7 (q quartz surface)
+  - PHLENGO EPSILON 8 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (+ substellar object)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (+ substellar object)
+  - Moon #12 (f felisian)
+- PHLENGO 2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY DODO C. SNOTTS ON MY QUEST TO THE OUTER RIM
+(S08) 5 STARS

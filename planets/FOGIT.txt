@@ -1,0 +1,3 @@
+Planet: FOGIT
+Starmap index: 01
+Paris coordinates: -2348912, -10777678, -1546836

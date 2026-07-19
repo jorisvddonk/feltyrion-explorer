@@ -1,0 +1,7 @@
+Planet: JENUVO
+Starmap index: 05
+Paris coordinates: 81072, -77486, -118953
+
+Guide entries:
+CLOUD BANDS AND STORMS CAN BE SEEN ON THIS GAS GIANT'S SURFACE.
+(SCHMERM 6011 579.659)

@@ -1,0 +1,8 @@
+Star: BAST
+Star class: S00
+Paris coordinates: 4279984, 4842790, -324486
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FINNEUS (d dusty, craterized)
+- SHEBA (d dusty, craterized)

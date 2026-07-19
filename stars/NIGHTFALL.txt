@@ -1,0 +1,48 @@
+Star: NIGHTFALL
+Star class: S08
+Paris coordinates: 4163568, 4304169, -3430689
+Bodies: 36 (7 planets, 29 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (* companion star)
+- Planet #2 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (f felisian)
+  - Moon #2 (r rocky, creased)
+- Planet #3 (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (f felisian)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (^ unstable)
+  - Moon #7 (@ large, not consistent)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (* companion star)
+- Planet #6 (* companion star)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (+ substellar object)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (i icy surface)
+  - Moon #10 (@ large, not consistent)
+  - Moon #11 (+ substellar object)
+  - Moon #12 (+ substellar object)
+  - Moon #13 (f felisian)
+  - Moon #14 (q quartz surface)
+  - Moon #15 (d dusty, craterized)
+  - Moon #16 (k thick atmosphere)
+
+Guide entries:
+S08 SATR-TOTAL OF 6 STARS IN SYSTEM (PRIMARY AND 5 COMPANIONS)
+COMPANIONS IN ORBITS 1,2,4,6,7 - 6 AND 7 ARE VERY DISTANT
+3 FELISIAN BODIES-MOONS 1,2 OF 3RD PLANET AND MOON 5 OF 4TH PLANET
+FOUND BY RICHARD SOLENSKY EPOC 6011-565.392.801

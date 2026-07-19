@@ -1,0 +1,6 @@
+Planet: HOTODA
+Starmap index: 32
+Paris coordinates: -4872112, -75428596, -2064196
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:583.292

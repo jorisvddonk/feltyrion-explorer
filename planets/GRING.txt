@@ -1,0 +1,7 @@
+Planet: GRING
+Starmap index: 02
+Paris coordinates: 3538192, 5043669, 1774051
+
+Guide entries:
+DISCOVERED DY KROMEBOY 6011 572.375
+A BALL OF ROCK IN THE SPACE

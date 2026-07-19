@@ -1,0 +1,6 @@
+Star: GLAUCENE II
+Star class: S06
+Paris coordinates: 3790704, 4311018, -1352149
+Bodies: 0 (0 planets, 0 moons)
+
+System:

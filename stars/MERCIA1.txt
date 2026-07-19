@@ -1,0 +1,38 @@
+Star: MERCIA1
+Star class: S00
+Paris coordinates: 3870352, 4636279, -2652638
+Bodies: 29 (12 planets, 17 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (q quartz surface)
+- ANYA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (r rocky, creased)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (i icy surface)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+- Planet #11 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:602.16

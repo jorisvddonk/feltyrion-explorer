@@ -1,0 +1,3 @@
+Planet: ASKEW 180A
+Starmap index: 01
+Paris coordinates: 4041040, -372068, 3374470

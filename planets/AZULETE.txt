@@ -1,0 +1,10 @@
+Planet: AZULETE
+Starmap index: 04
+Paris coordinates: 4459632, 4949965, -2023422
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.747 -                               
+ A NICE PLANET WITH INTERESETING LANDSCAPES AND ANIMALS.                    
+ NOTE BY TIANCRIS - EPOC 6011.680.750 -                                     
+ INTERESTING MOUNTAIN IN 0:65 -36,-26.                                      
+ A REGION WITH MANY FROZEN LAKES: 209:066.                                  

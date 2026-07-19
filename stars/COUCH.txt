@@ -1,0 +1,27 @@
+Star: COUCH
+Star class: S11
+Paris coordinates: -625712, 1137800, 123585
+Bodies: 17 (4 planets, 13 moons)
+
+System:
+- WICKER (@ large, not consistent)
+- FEAR AND LOATHING (d dusty, craterized)
+- INSIPID (@ large, not consistent)
+  - HINTERLAND (k thick atmosphere)
+  - ESSION (d dusty, craterized)
+  - LIVID (q quartz surface)
+  - DECEMVIR (k thick atmosphere)
+  - GRUE (i icy surface)
+  - HRUE (i icy surface)
+  - UP AND OUT (q quartz surface)
+  - FRUE (i icy surface)
+- PAX (@ large, not consistent)
+  - UMIAK (k thick atmosphere)
+  - OSCAR ACOSTA (q quartz surface)
+  - TINDALL (i icy surface)
+  - MENDEL (i icy surface)
+  - CINDER (i icy surface)
+
+Guide entries:
+A TINY PULSARISH OBJECT, ORBITED BY 4 PLANETS AND 13 MINOR BODIES.
+(SYSTEM DISCOVERED BY N5CORP 6011:617.798)

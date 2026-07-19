@@ -1,0 +1,3 @@
+Planet: GLORBERON B
+Starmap index: 13
+Paris coordinates: -118928, 136846, 52177

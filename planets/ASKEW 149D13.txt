@@ -1,0 +1,3 @@
+Planet: ASKEW 149D13
+Starmap index: 24
+Paris coordinates: 9766672, -16905766, 16253158

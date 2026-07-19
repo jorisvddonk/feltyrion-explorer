@@ -1,0 +1,3 @@
+Planet: GLAURUNG
+Starmap index: 02
+Paris coordinates: 5062480, 4312834, -451139

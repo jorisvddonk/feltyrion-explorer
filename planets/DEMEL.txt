@@ -1,0 +1,3 @@
+Planet: DEMEL
+Starmap index: 02
+Paris coordinates: 5376048, 4356588, 151894

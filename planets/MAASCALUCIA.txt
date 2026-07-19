@@ -1,0 +1,3 @@
+Planet: MAASCALUCIA
+Starmap index: 10
+Paris coordinates: 7677136, 5246450, -5900906

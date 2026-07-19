@@ -1,0 +1,6 @@
+Star: MYANDRIS
+Star class: S07
+Paris coordinates: 5651760, 4340057, 428034
+Bodies: 0 (0 planets, 0 moons)
+
+System:

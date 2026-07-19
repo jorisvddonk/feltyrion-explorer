@@ -1,0 +1,16 @@
+Star: DROAG
+Star class: S02
+Paris coordinates: 1399276368, 1959115, 1399893499
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- DROAG PRIMUS (k thick atmosphere)
+- DROAG SECUNDUS (d dusty, craterized)
+- DROAG TRIACUS (@ large, not consistent)
+- DROAG QUADREX (n thin atmosphere)
+- DROAG QUINTUS (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:600.505
+(SO2) 5 PLANETS / 0 MINOR
+COORDINATES = 1399276368, 1959115, 1399893499

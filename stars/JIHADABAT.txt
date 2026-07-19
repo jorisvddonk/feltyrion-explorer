@@ -1,0 +1,6 @@
+Star: JIHADABAT
+Star class: S09
+Paris coordinates: 4159632, 4536827, -1723714
+Bodies: 0 (0 planets, 0 moons)
+
+System:

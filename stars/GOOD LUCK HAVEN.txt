@@ -1,0 +1,10 @@
+Star: GOOD LUCK HAVEN
+Star class: S06
+Paris coordinates: 3777136, 4014201, -2037888
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SCOPE! SCOPE! SCOPE!
+(EPOC 6011 577.104.700)

@@ -1,0 +1,3 @@
+Planet: LHOHO
+Starmap index: 01
+Paris coordinates: 27759216, 43352599, -11614385

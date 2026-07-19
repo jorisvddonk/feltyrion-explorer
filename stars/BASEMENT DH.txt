@@ -1,0 +1,9 @@
+Star: BASEMENT DH
+Star class: S06
+Paris coordinates: 2601424, 4143702, -1541090
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY NICOLAI MEYER EPOC 6011 693.500.600                          

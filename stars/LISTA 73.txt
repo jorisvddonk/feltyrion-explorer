@@ -1,0 +1,13 @@
+Star: LISTA 73
+Star class: S05
+Paris coordinates: 6251760, 4998259, -201338
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- CECEND (r rocky, creased)
+- CALLEGE (r rocky, creased)
+- EDIGIAN (q quartz surface)
+
+Guide entries:
+A CLASS S05 SYSTEM WITH LITHIUM AND 3 PLANETS FOR SIGHT SEEING- IF
+YOU CAN;) SKINNYMON EPOC 6011 593.707

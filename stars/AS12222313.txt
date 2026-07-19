@@ -1,0 +1,6 @@
+Star: AS12222313
+Star class: S08
+Paris coordinates: 1381328, 1306219, 21652048
+Bodies: 0 (0 planets, 0 moons)
+
+System:

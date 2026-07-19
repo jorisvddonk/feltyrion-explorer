@@ -1,0 +1,6 @@
+Star: REFUEL +1 D
+Star class: S06
+Paris coordinates: -701424, 893517, -307360
+Bodies: 0 (0 planets, 0 moons)
+
+System:

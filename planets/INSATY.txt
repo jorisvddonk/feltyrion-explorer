@@ -1,0 +1,7 @@
+Planet: INSATY
+Starmap index: 22
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M02/P08 MEDIUM SIZE ROCKY VERY ROUGH, VERY SCARRED, DARK GREY. PRO          
+0.230.400 PRV 0.0.868.299 SKINNYMON 6011 797.102                            

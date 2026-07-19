@@ -1,0 +1,6 @@
+Planet: SPECTER
+Starmap index: 01
+Paris coordinates: 3935344, 4524120, -786596
+
+Guide entries:
+ DISCOVERED BY SHADOWSTAR, EPOC 6011:604.109

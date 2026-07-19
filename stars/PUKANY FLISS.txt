@@ -1,0 +1,10 @@
+Star: PUKANY FLISS
+Star class: S08
+Paris coordinates: 2190704, 3511912, 257550
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- PUKANY SISS (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)

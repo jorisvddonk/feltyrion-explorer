@@ -1,0 +1,17 @@
+Star: NYARLATHOTEP
+Star class: S00
+Paris coordinates: -194640, 6822325, -323763
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- R'LYEH (r rocky, creased)
+- AZATHOTH (q quartz surface)
+- SHUB-NIGGURATH (f felisian)
+  - WATLEY (d dusty, craterized)
+  - WILBYR (n thin atmosphere)
+  - HOOVE (d dusty, craterized)
+- YAANEK (f felisian)
+  - CYAEGHA (d dusty, craterized)
+- YUGGOTH (f felisian)
+  - LOVECRAFT (d dusty, craterized)
+  - DERLITH (d dusty, craterized)

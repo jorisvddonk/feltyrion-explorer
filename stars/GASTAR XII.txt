@@ -1,0 +1,10 @@
+Star: GASTAR XII
+Star class: S06
+Paris coordinates: 346064, 942335, 1477917
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED BY THE GREAT DEMENTO)
+ OUTPUT: 24 MTPD EST.

@@ -1,0 +1,3 @@
+Planet: ASKEW 163C5
+Starmap index: 20
+Paris coordinates: 7851344, -10291278, 11707487

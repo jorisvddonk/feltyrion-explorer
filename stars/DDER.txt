@@ -1,0 +1,38 @@
+Star: DDER
+Star class: S03
+Paris coordinates: 1167504, 4637930, -1874955
+Bodies: 29 (8 planets, 21 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- BAOBAB (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (k thick atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (n thin atmosphere)
+
+Guide entries:
+ S03 DISC BY SCAREDY-CAT, EPOC 6011.588.893

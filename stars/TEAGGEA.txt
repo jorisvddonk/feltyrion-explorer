@@ -1,0 +1,9 @@
+Star: TEAGGEA
+Star class: S07
+Paris coordinates: 4390704, 5294299, -1968720
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 647.511 (NO PLANETS)

@@ -1,0 +1,3 @@
+Planet: HAQIZEEM
+Starmap index: 03
+Paris coordinates: 5269264, 4948634, -244399

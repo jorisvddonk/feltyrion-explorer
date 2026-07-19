@@ -1,0 +1,3 @@
+Planet: PIRI'DOTH
+Starmap index: 21
+Paris coordinates: 48579728, 324247, 1979970535

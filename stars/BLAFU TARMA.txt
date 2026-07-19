@@ -1,0 +1,6 @@
+Star: BLAFU TARMA
+Star class: S00
+Paris coordinates: 1250000, 50950000, -1350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

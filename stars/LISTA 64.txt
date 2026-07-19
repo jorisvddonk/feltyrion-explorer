@@ -1,0 +1,9 @@
+Star: LISTA 64
+Star class: S06
+Paris coordinates: 3263568, 4312529, -2511501
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE. SKINNYMON EPOC 6011 592.504

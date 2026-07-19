@@ -1,0 +1,3 @@
+Planet: SEPT ENDAL
+Starmap index: 07
+Paris coordinates: 74288, 149145, -633450

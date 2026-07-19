@@ -1,0 +1,6 @@
+Star: SGANIA QAL
+Star class: S01
+Paris coordinates: 650000, 51650000, -750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

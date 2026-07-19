@@ -1,0 +1,9 @@
+Star: SOLARIA
+Star class: S00
+Paris coordinates: 3446064, 4608620, -1626855
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- BANDAOS (k thick atmosphere)
+- TERRA CRATEA (n thin atmosphere)
+- BLANVACI (d dusty, craterized)

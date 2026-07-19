@@ -1,0 +1,6 @@
+Star: LOUNLIJ
+Star class: S03
+Paris coordinates: -107235952, 24992122, -2065522
+Bodies: 0 (0 planets, 0 moons)
+
+System:

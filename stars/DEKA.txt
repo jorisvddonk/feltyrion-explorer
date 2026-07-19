@@ -1,0 +1,11 @@
+Star: DEKA
+Star class: S05
+Paris coordinates: 546064, 938156, 1328283
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GLA (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+
+Guide entries:
+(DISCOVERED BY THE GREAT DEMENTO)

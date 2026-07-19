@@ -1,0 +1,11 @@
+Star: TYRTOR
+Star class: S06
+Paris coordinates: 4048912, 5371060, -63210
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A NORMAL S06 STAR, STOPPING HERE TO FEFUEL FROM OUR ADVENTURE AT
+DRAKHNATORIA.
+(STARGAZER. EPOC 6011; 585.425.500)

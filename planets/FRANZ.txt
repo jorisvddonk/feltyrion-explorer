@@ -1,0 +1,6 @@
+Planet: FRANZ
+Starmap index: 09
+Paris coordinates: 3277136, 4429407, -1460385
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.56.612

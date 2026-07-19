@@ -1,0 +1,7 @@
+Planet: PAJHA
+Starmap index: 02
+Paris coordinates: 2061228144, -1654027, 3059941
+
+Guide entries:
+P02/03 SMALL SOLID THIN ATMO, FAIR BRIGHTNESS, GOOD POLAR CAPS. PRO         
+0.142.560 PRV 0.024.557.246 SKINNYMON 6011 796.69                           

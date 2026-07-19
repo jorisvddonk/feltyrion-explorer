@@ -1,0 +1,3 @@
+Planet: RENDO
+Starmap index: 04
+Paris coordinates: 81072, 6022514, -199175

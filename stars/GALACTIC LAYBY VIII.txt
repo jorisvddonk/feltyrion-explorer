@@ -1,0 +1,10 @@
+Star: GALACTIC LAYBY VIII
+Star class: S06
+Paris coordinates: -1425280400, 2312937, 1435184921
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S06. 21 MTPD OF LITHIUM AVAILABLE. RYAN GJK E6011                        
+785.336                                                                     

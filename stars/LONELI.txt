@@ -1,0 +1,10 @@
+Star: LONELI
+Star class: S01
+Paris coordinates: 26415760, 6387591, 45109119
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S01 STAR WITH NO PLANETS.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:647:42

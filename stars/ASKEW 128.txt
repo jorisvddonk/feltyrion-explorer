@@ -1,0 +1,14 @@
+Star: ASKEW 128
+Star class: S04
+Paris coordinates: 5593136, -15577888, 12456506
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- ASKEW 128A (d dusty, craterized)
+- ASKEW 128B (+ substellar object)
+- ASKEW 128C (@ large, not consistent)
+  - ASKEW 128C1 (n thin atmosphere)
+- ASKEW 128D (q quartz surface)
+  - ASKEW 128D1 (n thin atmosphere)
+  - ASKEW 128D2 (n thin atmosphere)
+  - ASKEW 128D3 (n thin atmosphere)

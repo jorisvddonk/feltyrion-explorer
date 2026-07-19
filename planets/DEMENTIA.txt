@@ -1,0 +1,6 @@
+Planet: DEMENTIA
+Starmap index: 01
+Paris coordinates: 3066416, 5164474, -234173
+
+Guide entries:
+A BARREN PLANET DISCOVERED BY MRUQE; EPOC 6011-570.591

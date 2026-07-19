@@ -1,0 +1,31 @@
+Star: ANCESTRY XXI
+Star class: S03
+Paris coordinates: -1425091120, 1038855, 1436371991
+Bodies: 22 (8 planets, 14 moons)
+
+System:
+- PRIME RINGS (q quartz surface)
+- Planet #1 (r rocky, creased)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- TINGE-PINK (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (^ unstable)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - PIECE OF PEAT (f felisian)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+
+Guide entries:
+S03 WITH A LIFE-BEARING FELISIAN. RYAN GJK E6011.783.281                    

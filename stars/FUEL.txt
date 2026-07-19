@@ -1,0 +1,10 @@
+Star: FUEL
+Star class: S06
+Paris coordinates: 2570352, 4504679, -1124147
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THIS SYSTEMIS A SUITABLE FUEL SOURCE
+ DISCOVERED BY NYQUIST ON 6011.569.554

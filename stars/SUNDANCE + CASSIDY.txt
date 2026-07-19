@@ -1,0 +1,12 @@
+Star: SUNDANCE + CASSIDY
+Star class: S08
+Paris coordinates: 2677136, 4584941, -930369
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- B CASSIDY (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- SUNDANCE (* companion star)
+- NEW AFRICA (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

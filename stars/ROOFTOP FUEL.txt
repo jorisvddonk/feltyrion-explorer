@@ -1,0 +1,9 @@
+Star: ROOFTOP FUEL
+Star class: S06
+Paris coordinates: -1008208, 62717928, -357704
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. RYAN GJK E6011.789.833                                        

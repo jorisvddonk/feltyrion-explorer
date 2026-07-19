@@ -1,0 +1,3 @@
+Planet: ADELIAN-ZHANMUSHI AI
+Starmap index: 03
+Paris coordinates: 1259632, 7660150, 1378735

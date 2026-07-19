@@ -1,0 +1,10 @@
+Star: JETME
+Star class: S06
+Paris coordinates: -43216, -355626, 677323
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM FOUND HERE.
+AIRCON 607.906.550

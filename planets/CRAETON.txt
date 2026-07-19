@@ -1,0 +1,8 @@
+Planet: CRAETON
+Starmap index: 06
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+PLANET DISCOVERED BY NEURONWAKE EPOC 6011 802.490.867                       
+QUARTZ SURFACE IS SLIGHTLY JAGGED AND CAUSES OPRESSIVE GLARE, MAKING        
+IT EASY TO GET LOST. (NEURONWAKE 6011 802.491)                              

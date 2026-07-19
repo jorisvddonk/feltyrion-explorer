@@ -1,0 +1,6 @@
+Planet: LX94
+Starmap index: 03
+Paris coordinates: 2997488, 4723118, -140904
+
+Guide entries:
+ COLD, WHITH NO LIFE, VERY COLD,GRAVITY IS VERY STRONG

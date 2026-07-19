@@ -1,0 +1,6 @@
+Planet: FRUMNA
+Starmap index: 01
+Paris coordinates: 3128560, 5035234, -318965
+
+Guide entries:
+NAMED BY XILOSCIENT (EPOC 6011:571.680)

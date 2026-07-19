@@ -1,0 +1,9 @@
+Planet: VERDANT OUTPOST
+Starmap index: 05
+Paris coordinates: -1415916496, 1345498, 1431436650
+
+Guide entries:
+350,66-FIRST LANDING, THICK SHRUBLAND DOMINATED BY SEVERAL                  
+HILL FORMATIONS, HOPPERS SEEN.                                              
+A FEW MORE LANDINGS MADE-GENERALLY COOL TERRAIN WITH A                      
+SUBSTANTIAL AMOUNT OF FLORA AND FAUNA.RYAN GJK E6011.782,132                

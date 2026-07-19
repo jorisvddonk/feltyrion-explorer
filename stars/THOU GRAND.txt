@@ -1,0 +1,10 @@
+Star: THOU GRAND
+Star class: S01
+Paris coordinates: -1456784, 623435, 1264789
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DIFFUSESPREAD (n thin atmosphere)
+
+Guide entries:
+(RELATIVELY)SMALL AND WARM S01. RYAN GJK E6011.803.218                      

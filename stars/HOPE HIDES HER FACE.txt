@@ -1,0 +1,26 @@
+Star: HOPE HIDES HER FACE
+Star class: S00
+Paris coordinates: 4417840, 4500830, -376139
+Bodies: 20 (10 planets, 10 moons)
+
+System:
+- HELGOTH (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- GRUNEWALD (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)

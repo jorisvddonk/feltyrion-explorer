@@ -1,0 +1,12 @@
+Star: ASTRO PATH A14
+Star class: S00
+Paris coordinates: 4251088, 4707682, -8100278
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

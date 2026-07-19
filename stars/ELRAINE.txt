@@ -1,0 +1,9 @@
+Star: ELRAINE
+Star class: S00
+Paris coordinates: 3811056, 707894, -212149
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- FENHOME (f felisian)

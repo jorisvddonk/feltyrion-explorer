@@ -1,0 +1,11 @@
+Star: GLAMRILL
+Star class: S06
+Paris coordinates: 2146688432, 1995459, 1899462931
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011.587:690
+S(06) LI+
+COORDINATES = 2146688432, 1995459, 1899462931

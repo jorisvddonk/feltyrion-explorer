@@ -1,0 +1,8 @@
+Planet: TYSHRU
+Starmap index: 05
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M02/P03 SMALL SOLID THIN ATMO, REASONABLY GOOD BRIGHTNESS, GOOD POLAR       
+CAPS. LIGHT MARKINGS NOTABLE. PRO 0.141.120 PRV 0.001.632.693 SKINNYMON     
+6011 796.376                                                                

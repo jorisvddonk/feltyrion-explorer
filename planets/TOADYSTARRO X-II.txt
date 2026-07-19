@@ -1,0 +1,3 @@
+Planet: TOADYSTARRO X-II
+Starmap index: 10
+Paris coordinates: 3314992, 4584534, -1424016

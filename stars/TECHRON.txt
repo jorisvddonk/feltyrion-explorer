@@ -1,0 +1,9 @@
+Star: TECHRON
+Star class: S06
+Paris coordinates: 456784, 161371, 118442
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FUEL...NOT MUCH ELSE. (NOTES BY PHEENER 6011:597.589)

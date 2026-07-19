@@ -1,0 +1,3 @@
+Planet: MYST
+Starmap index: 20
+Paris coordinates: 3766416, 4629610, -721972

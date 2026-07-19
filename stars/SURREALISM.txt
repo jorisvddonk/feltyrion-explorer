@@ -1,0 +1,17 @@
+Star: SURREALISM
+Star class: S00
+Paris coordinates: 4473200, 5028644, -1182231
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- CHESS (d dusty, craterized)
+- MENOX (d dusty, craterized)
+- SVANKMAJER (f felisian)
+  - Moon #0 (n thin atmosphere)
+- DARKNESS (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- ALUMINIUM (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY R.CLEAR EPOC 6011:564.319

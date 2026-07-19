@@ -1,0 +1,26 @@
+Star: ASTUMA
+Star class: S00
+Paris coordinates: 1828560, 6110451, 902855
+Bodies: 20 (12 planets, 8 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- ORMUS (k thick atmosphere)
+- NEW ZENZA (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- HOGORA (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #11 (+ substellar object)

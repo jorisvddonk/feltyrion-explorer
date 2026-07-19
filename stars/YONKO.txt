@@ -1,0 +1,10 @@
+Star: YONKO
+Star class: S00
+Paris coordinates: 43216, 294196, -338795
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LONSAR (@ large, not consistent)
+
+Guide entries:
+DISCOVERED 6011:572.394.300

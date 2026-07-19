@@ -1,0 +1,12 @@
+Star: BIG HEAD
+Star class: S03
+Paris coordinates: 3959632, 4709715, -1320889
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- PETER GABRIEL (+ substellar object)
+- NO REPLY AT ALL (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

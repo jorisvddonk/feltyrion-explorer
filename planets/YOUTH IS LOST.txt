@@ -1,0 +1,3 @@
+Planet: YOUTH IS LOST
+Starmap index: 12
+Paris coordinates: 3714992, 5004837, -1766171

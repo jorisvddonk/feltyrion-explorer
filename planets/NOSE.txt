@@ -1,0 +1,8 @@
+Planet: NOSE
+Starmap index: 01
+Paris coordinates: 4435344, 4755151, -1301265
+
+Guide entries:
+ EPOC 6011 686.360.87 PLANET DISCOVERED BY INSANE.                          
+THIS PLANETIS AN EXTREMELY DARK SMALL PLANET. IT IS DOTTED WITH TINY        
+PYRAMIDS. I HAVE SEEN NO LIFE SO FAR.                                       

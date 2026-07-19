@@ -1,0 +1,3 @@
+Planet: ASKEW 59A
+Starmap index: 01
+Paris coordinates: 10976304, -19358322, 17808074

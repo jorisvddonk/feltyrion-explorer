@@ -1,0 +1,11 @@
+Star: BLUEPIN
+Star class: S07
+Paris coordinates: 4177136, 4458332, -2548681
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- RED ANGEL (+ substellar object)
+
+Guide entries:
+ 1 LARGE GAS PLANET; AT LEAST A GOOD VIEW FROM OUTSIDE.                     
+INNOMINANDUS EPOC 6011:723.757.16                                           

@@ -1,0 +1,7 @@
+Planet: STREKA
+Starmap index: 09
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.528                                    
+FOUND AN AREA OF FLAT PLAINS AT 168.58.                                     

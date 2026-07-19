@@ -1,0 +1,3 @@
+Planet: SOFFY
+Starmap index: 01
+Paris coordinates: -5338864, 3517267, -9544493

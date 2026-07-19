@@ -1,0 +1,9 @@
+Planet: THEK
+Starmap index: 01
+Paris coordinates: 808208, 1178550, 752685
+
+Guide entries:
+A PLANET WITH A THICK ATMOSPHERE. THE TERRAIN IS A BIT... DIFFERENT IS      
+THE ONLY WORD THAT CAN EXPLAIN IT. PRETTY LOW GRAVITY FOR SUCH AN           
+ATMOSPHERE, THOUGH, AT 0.620 FG'S.                                          
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.938.126)                           

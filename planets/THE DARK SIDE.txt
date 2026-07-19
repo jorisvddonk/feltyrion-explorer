@@ -1,0 +1,3 @@
+Planet: THE DARK SIDE
+Starmap index: 20
+Paris coordinates: -9464912, 329770, -10628299

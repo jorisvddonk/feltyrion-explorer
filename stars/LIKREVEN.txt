@@ -1,0 +1,11 @@
+Star: LIKREVEN
+Star class: S05
+Paris coordinates: 2300336, 31294640, 2576776
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- LIKRE (r rocky, creased)
+- LIKVEN (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 633.741

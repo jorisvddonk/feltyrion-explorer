@@ -1,0 +1,3 @@
+Planet: LOCTAR SLOW
+Starmap index: 02
+Paris coordinates: -1425028976, 1134799, 1436089535

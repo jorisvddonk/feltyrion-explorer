@@ -1,0 +1,10 @@
+Star: MDIR 15 ANTICRASIA S
+Star class: S06
+Paris coordinates: -439280, 23676652, -946822
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NEAR THIS STAR LIES THE S00 TEMP, HOME OF ANTICRASIA. RYAN GJK E6011.       
+789.993                                                                     

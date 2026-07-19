@@ -1,0 +1,11 @@
+Star: FODDEO
+Star class: S02
+Paris coordinates: 1399407440, 1633761, 1399698993
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:592.340
+(S02) NO PLANETS OR MOONS
+COORDINATES = 1399407440, 1633761, 1399698993

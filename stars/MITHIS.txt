@@ -1,0 +1,11 @@
+Star: MITHIS
+Star class: S00
+Paris coordinates: 5582832, 4343485, 228435
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GRAMFELL (r rocky, creased)
+
+Guide entries:
+ ANOTHER SADLY BARE POTENTIAL LIFEBEARING SYSTEM.
+ NOTES BY KALLIOPE (NOTED AFTER THE FACT, 617.765, E 6011)

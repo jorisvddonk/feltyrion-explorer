@@ -1,0 +1,14 @@
+Star: SOLOMONA
+Star class: S00
+Paris coordinates: 4269264, 4235814, 777589
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (+ substellar object)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+
+Guide entries:
+SURVEYED BY EDEANP 617.983.864

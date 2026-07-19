@@ -1,0 +1,8 @@
+Planet: SAKFHARE
+Starmap index: 01
+Paris coordinates: 2069274544, -1807205, 1405355
+
+Guide entries:
+P01/07 MEDIUM SIZE, ROCKY DULL GREEN APPEARANCE WITH LARGE CRATERS.         
+SMALL DEBRIS RING. PRO 0.166.680 PRV 0.011.524.939 SKINNYMON 6011           
+794.931                                                                     

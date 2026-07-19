@@ -1,0 +1,9 @@
+Star: FUTTERMAN
+Star class: S06
+Paris coordinates: 3159632, 5049345, -738505
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PLACE TO SCOPE LITHIUM

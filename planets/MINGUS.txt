@@ -1,0 +1,7 @@
+Planet: MINGUS
+Starmap index: 01
+Paris coordinates: 456784, 1061371, 144659
+
+Guide entries:
+BURNING PLANET FOUND ORBITING FUNKLE.MIKE HEITZ
+EPOC:6011:659.901

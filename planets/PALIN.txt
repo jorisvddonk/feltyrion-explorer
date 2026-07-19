@@ -1,0 +1,6 @@
+Planet: PALIN
+Starmap index: 27
+Paris coordinates: 270352, -413563, 863710
+
+Guide entries:
+ QUATRTZ PLANET WITH OXYGEN ATMOSPHERE AND NO NATIVE LIFEFORMS.

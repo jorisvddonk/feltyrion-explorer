@@ -1,0 +1,24 @@
+Star: ETTER-SET
+Star class: S00
+Paris coordinates: 5486768, 4730587, -1323516
+Bodies: 15 (8 planets, 7 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (r rocky, creased)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (i icy surface)
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.475                               

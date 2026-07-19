@@ -1,0 +1,6 @@
+Star: ANODAUNSUDAI
+Star class: S11
+Paris coordinates: 3170352, 4639313, -1832998
+Bodies: 0 (0 planets, 0 moons)
+
+System:

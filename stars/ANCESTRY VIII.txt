@@ -1,0 +1,8 @@
+Star: ANCESTRY VIII
+Star class: S11
+Paris coordinates: -1413981488, 792738, 1427720978
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)

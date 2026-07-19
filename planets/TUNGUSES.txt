@@ -1,0 +1,3 @@
+Planet: TUNGUSES
+Starmap index: 01
+Paris coordinates: -290413616, -1404408, 54909941

@@ -1,0 +1,6 @@
+Planet: RS 1
+Starmap index: 01
+Paris coordinates: 2683920, 4230319, -693965
+
+Guide entries:
+DISCOVERER ALEXX, EPOC 6011:602.459.

@@ -1,0 +1,23 @@
+Star: HIGHSON
+Star class: S00
+Paris coordinates: -32496, 39402, -688968
+Bodies: 13 (8 planets, 5 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (@ large, not consistent)
+- HIGHSON 3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+- Planet #4 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY JUSTIN HIGH ON 588.785.130
+NOTES BY JUSTIN HIGH (588.789.165

@@ -1,0 +1,6 @@
+Star: LITH07
+Star class: S06
+Paris coordinates: 2209296, -463664, -4437410
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: RAMEIRA
+Star class: S06
+Paris coordinates: -37527472, 2023114, 31372427
+Bodies: 0 (0 planets, 0 moons)
+
+System:

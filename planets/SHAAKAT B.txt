@@ -1,0 +1,3 @@
+Planet: SHAAKAT B
+Starmap index: 02
+Paris coordinates: -821044528, -1225144, -679819292

@@ -1,0 +1,3 @@
+Planet: LARIKNARIK 3G
+Starmap index: 13
+Paris coordinates: -25176144, -19970420, -449611016

@@ -1,0 +1,6 @@
+Planet: CHAOS EMERALD
+Starmap index: 02
+Paris coordinates: 2839280, 4519379, -1356700
+
+Guide entries:
+ DISCOVERED BY ADAM DALY (TACOFERNANDEZ), E6011:664.604

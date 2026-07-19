@@ -1,0 +1,27 @@
+Star: WAYNESCOLONYSTAR
+Star class: S00
+Paris coordinates: -32884432, 5098143, -15438858
+Bodies: 21 (9 planets, 12 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- WTGREENGLOWHOLEPLNT (k thick atmosphere)
+- WAYNESCOLONYPLANET1 (f felisian)
+- WAYNESCOLONY2 (f felisian)
+  - WTBLOODMOON (n thin atmosphere)
+  - WTGOLDMOON (^ unstable)
+- WTYELLOWISHGREENPLNT (k thick atmosphere)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - WAYNEMOONGAMA (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - WAYNESBRIGHTPLANET (d dusty, craterized)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (^ unstable)
+- WAYNESCLOUDYPLANET (k thick atmosphere)
+  - WAYNESGREENDUSTYMOON (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+- WTSYELLOWPLANET9 (q quartz surface)
+  - Moon #0 (d dusty, craterized)

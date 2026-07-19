@@ -1,0 +1,18 @@
+Star: AJIASEHAVIT
+Star class: S00
+Paris coordinates: 2091903024, -1729241, -163145
+Bodies: 7 (6 planets, 1 moons)
+
+System:
+- VIJUJAD (k thick atmosphere)
+- PSOCIL (r rocky, creased)
+- FHNOIL (d dusty, craterized)
+- VANIDICI (f felisian)
+- KOPRIHIJ (d dusty, craterized)
+  - KOLYAS (d dusty, craterized)
+- CTENO (^ unstable)
+
+Guide entries:
+S00 STAR WITH 6 PLANETS, 1 MOON, 1 FELISIAN WORLD. 2.50050592               
+BAL. M. TEMP 9929 K RD 20KR COOR 2100527984;-2233309;411027;                
+SKINNYMON 6011 793.609                                                      

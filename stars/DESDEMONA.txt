@@ -1,0 +1,20 @@
+Star: DESDEMONA
+Star class: S00
+Paris coordinates: 4266416, 4655884, -1181596
+Bodies: 14 (6 planets, 8 moons)
+
+System:
+- Planet #0 (^ unstable)
+- MOUNTANIA (q quartz surface)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- FISHBALL (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)

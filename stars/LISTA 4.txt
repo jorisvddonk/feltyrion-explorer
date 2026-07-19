@@ -1,0 +1,9 @@
+Star: LISTA 4
+Star class: S06
+Paris coordinates: 1656784, -1904, -1129246
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SKINNYMON EPOC 6011 565.712

@@ -1,0 +1,22 @@
+Star: TRI-POLERI
+Star class: S08
+Paris coordinates: 2401424, 5017129, -1285587
+Bodies: 12 (4 planets, 8 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (q quartz surface)
+- Planet #2 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+  - Moon #2 (+ substellar object)
+  - Moon #3 (r rocky, creased)
+
+Guide entries:
+1.4 PLANETS,8 MOONS
+2.DISCOVERED BY KJ EPOC 6011:574.612

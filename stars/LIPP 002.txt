@@ -1,0 +1,9 @@
+Star: LIPP 002
+Star class: S06
+Paris coordinates: 3979984, 4443407, -24154
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOT SUITABLE FOR REFUELING (BRIAN KWAN, EPOC 6011:564.958)

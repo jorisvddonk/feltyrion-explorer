@@ -1,0 +1,27 @@
+Star: BENNY MAJOR
+Star class: S08
+Paris coordinates: 3121776, 4855657, -847391
+Bodies: 21 (5 planets, 16 moons)
+
+System:
+- DISTURBED (k thick atmosphere)
+- BENNY MEDIUM (* companion star)
+  - KITCH VIOLET (@ large, not consistent)
+  - FALSE COLOURS (f felisian)
+- BENNY MINOR (* companion star)
+  - STRANGE FLARES (@ large, not consistent)
+  - STUPIFIED (k thick atmosphere)
+  - ORIGIN OF SIMMETRY (@ large, not consistent)
+  - SMALLPOX (r rocky, creased)
+  - ETERNAL GLORY (+ substellar object)
+  - PIECE OF EMERALD (d dusty, craterized)
+  - WAVE PANIC (@ large, not consistent)
+  - MISUNDERSTOOD (f felisian)
+  - BUT WHY? (q quartz surface)
+  - APPEARANCE CHEATS (f felisian)
+- CLEARLY NOT ALIVE (n thin atmosphere)
+  - CURLS (d dusty, craterized)
+  - GREAT BALL OF FIRE (^ unstable)
+- BROWN SUGAR (n thin atmosphere)
+  - ABSTRAKT ALGEBRA (d dusty, craterized)
+  - REPLAY (n thin atmosphere)

@@ -1,0 +1,3 @@
+Planet: DEVERO 1
+Starmap index: 01
+Paris coordinates: -149872, 387877, 626138799

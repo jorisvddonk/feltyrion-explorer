@@ -1,0 +1,8 @@
+Planet: COIJASY
+Starmap index: 06
+Paris coordinates: 2090751600, -1867804, -44748
+
+Guide entries:
+P06/06 MEREDIUM SIZE, SOLID, THICK ATMO. GREEN CLOUF COVER WITH DARK        
+BANDS AND BIG BRIGHT STORMS. PRO 0.122.760 PRV 0.417.205.760                
+SKINNYMON 6011 793.760                                                      

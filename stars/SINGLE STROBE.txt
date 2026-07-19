@@ -1,0 +1,6 @@
+Star: SINGLE STROBE
+Star class: S02
+Paris coordinates: 3552848, 4433415, -1419005
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,11 @@
+Star: TRECHEROUS LIGHT
+Star class: S00
+Paris coordinates: 3490704, 4419378, -1073553
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GLOWING ROCKS     N. (q quartz surface)
+- EMERALD MOUNDS (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY BLAKE B. EPOC 6011 564.186.233 HIS FIRST DISCOVERY...

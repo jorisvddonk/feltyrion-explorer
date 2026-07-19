@@ -1,0 +1,7 @@
+Planet: THOTOY
+Starmap index: 07
+Paris coordinates: 2052562480, 532725, 204773
+
+Guide entries:
+M03/P03 SMALL SOLID THIN ATMO MODERATELY BRIGHT, GOOD POLAR CAPS.           
+PRO 0. 160.560 PRV 0.004.931.488 SKINNYMON 6011 795.975                     

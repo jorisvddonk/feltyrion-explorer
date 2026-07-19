@@ -1,0 +1,3 @@
+Planet: FLORIS
+Starmap index: 05
+Paris coordinates: 4369264, 4800882, 566404

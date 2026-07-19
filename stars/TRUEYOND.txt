@@ -1,0 +1,9 @@
+Star: TRUEYOND
+Star class: S06
+Paris coordinates: -1422448, 5179532, -10334398
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR,DISCOVERED BY KJ EPOC 6011:579.701

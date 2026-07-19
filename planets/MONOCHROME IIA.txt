@@ -1,0 +1,8 @@
+Planet: MONOCHROME IIA
+Starmap index: 01
+Paris coordinates: 5193552, 5076463, -664616
+
+Guide entries:
+BLADE TRAIN3R 6011 705.165                                                  
+UTTERLY DEVOID OF ANY INTERESTING FEATURES, GRAV +- 0.3 NORMAL              
+CORRECTION: HAS SINGLE RING, MILDLY INTERESTING.                            

@@ -1,0 +1,6 @@
+Star: ALSAKI CCXV
+Star class: S01
+Paris coordinates: 15761392, 32439303, -7429617
+Bodies: 0 (0 planets, 0 moons)
+
+System:

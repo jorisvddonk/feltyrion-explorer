@@ -1,0 +1,15 @@
+Star: DUDSTAR1
+Star class: S00
+Paris coordinates: 5042128, 5211588, -1515986
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+- Planet #3 (d dusty, craterized)
+
+Guide entries:
+ I DON'T KNOW WHO HAD DISCOVERED THIS SYSTEM.                               
+ I'M HERE IN EPOC 6011.681.683 -                                            
+ NOTES BY TIANCRIS.                                                         

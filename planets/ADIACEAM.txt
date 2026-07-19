@@ -1,0 +1,8 @@
+Planet: ADIACEAM
+Starmap index: 02
+Paris coordinates: 2030806864, -2529132, -706012
+
+Guide entries:
+P02/02 MEDIUM SIZE THICK ATMO, TURBID GREY CLOUD COVER WITH ACTIVITY        
+MOSTLY IN THE NORTH. PRO 0.358.120 PRV 0.023.351.032 SKINNYMON 6011         
+797.198                                                                     

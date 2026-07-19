@@ -1,0 +1,26 @@
+Star: LUMINAIRE
+Star class: S00
+Paris coordinates: 5435344, 4348285, -2310302
+Bodies: 20 (3 planets, 17 moons)
+
+System:
+- ERELA (@ large, not consistent)
+- GREEN SILICON (q quartz surface)
+- Planet #2 (+ substellar object)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (f felisian)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (f felisian)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (f felisian)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (n thin atmosphere)
+  - Moon #14 (@ large, not consistent)
+  - Moon #15 (@ large, not consistent)
+  - Moon #16 (^ unstable)

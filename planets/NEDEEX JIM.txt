@@ -1,0 +1,3 @@
+Planet: NEDEEX JIM
+Starmap index: 03
+Paris coordinates: 4969264, 4980100, 258356

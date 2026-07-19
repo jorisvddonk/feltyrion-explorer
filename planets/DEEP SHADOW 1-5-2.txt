@@ -1,0 +1,3 @@
+Planet: DEEP SHADOW 1-5-2
+Starmap index: 12
+Paris coordinates: 1096176, 108005, -1499570283

@@ -1,0 +1,3 @@
+Planet: GLOBUS NOCTIC FORIS
+Starmap index: 10
+Paris coordinates: -694640, 75151, 152742

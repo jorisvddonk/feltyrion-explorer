@@ -1,0 +1,3 @@
+Planet: ASKEW 127E
+Starmap index: 05
+Paris coordinates: 5386352, -15380264, 12260302

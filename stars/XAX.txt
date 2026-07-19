@@ -1,0 +1,17 @@
+Star: XAX
+Star class: S08
+Paris coordinates: 1502152496, 1542970, 55461322
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- XAX PRIME (k thick atmosphere)
+- XAX 2 (q quartz surface)
+- XAX 3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- XAX 4 (r rocky, creased)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.720
+(S08) - NO COMPANION STARS / 4 PLANETS / 3 MINOR

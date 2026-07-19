@@ -1,0 +1,11 @@
+Planet: EARLY ICEBALL
+Starmap index: 26
+Paris coordinates: 3773200, 4027206, -299920
+
+Guide entries:
+SMALL, ICY, BARELY DETECTABLE ATMOSPHERE(BUT YES, THERE IS ONE),            
+ NO CRATERS(NO LARGE ONES ANYWAY). MY FIRST SUCH WORLD. MAYBE               
+LANDING AT A CRACK WILL TELL ME MORE.                                       
+UNFORTUNATELY, INITIAL LANDINGS REVEAL THAT THE WHOLE GLOBE IS              
+PROBABLY AS SMOOTH AS...WELL, ICE.                                          
+NAMED AND DISCOVERED BY RYAN GJK, EPOC 6011.778                             

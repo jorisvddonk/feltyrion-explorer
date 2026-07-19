@@ -1,0 +1,6 @@
+Planet: ASKEW 85A
+Starmap index: 01
+Paris coordinates: 10945232, -19339777, 17862369
+
+Guide entries:
+FOUND EPOC 6011 588.327.400 BY ROLAND ASKEW

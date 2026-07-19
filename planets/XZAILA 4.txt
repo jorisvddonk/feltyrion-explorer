@@ -1,0 +1,6 @@
+Planet: XZAILA 4
+Starmap index: 04
+Paris coordinates: 474288, 1433309, -840236
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.1052.691)

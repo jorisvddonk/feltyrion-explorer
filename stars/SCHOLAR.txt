@@ -1,0 +1,61 @@
+Star: SCHOLAR
+Star class: S00
+Paris coordinates: 4655696, 4329115, -291333
+Bodies: 49 (12 planets, 37 moons)
+
+System:
+- SCLA (^ unstable)
+- OLDFER (r rocky, creased)
+- NEURI (d dusty, craterized)
+- VEDIS (r rocky, creased)
+  - HOAT (n thin atmosphere)
+- ISSAR (d dusty, craterized)
+- BEFO (+ substellar object)
+- MISCREANT (f felisian)
+  - AUDA (d dusty, craterized)
+  - DYTUN (d dusty, craterized)
+  - RORBOA (d dusty, craterized)
+- UMPF (@ large, not consistent)
+  - ZOST (k thick atmosphere)
+  - LESEA (^ unstable)
+  - ROWBLA (i icy surface)
+  - PRIP (^ unstable)
+  - CROUTIC (q quartz surface)
+  - LESSYS (k thick atmosphere)
+  - HOWDO (n thin atmosphere)
+  - TREPIDATION (f felisian)
+  - DWINAR (d dusty, craterized)
+  - REFIG (n thin atmosphere)
+  - MATAY (n thin atmosphere)
+  - CIDAT (r rocky, creased)
+  - ONTHEK (r rocky, creased)
+- ROSEK (k thick atmosphere)
+- ERMION (@ large, not consistent)
+  - LATON (^ unstable)
+- RUTEC (@ large, not consistent)
+  - TERVA (k thick atmosphere)
+  - PITSO (k thick atmosphere)
+  - CINAM (i icy surface)
+  - IGDRA (^ unstable)
+  - OUTIF (i icy surface)
+  - DADOAN (i icy surface)
+  - RUSPEX (i icy surface)
+  - SODIC (i icy surface)
+  - IDAH (i icy surface)
+  - TAZOC (i icy surface)
+  - FUSIO (i icy surface)
+  - MOBUK (i icy surface)
+  - EXECRA (i icy surface)
+  - SUFFE (i icy surface)
+  - MOLECO (i icy surface)
+  - RIONCA (i icy surface)
+  - OBOL (i icy surface)
+- DOBO (+ substellar object)
+  - DUNKEL (f felisian)
+  - KOJEN (k thick atmosphere)
+
+Guide entries:
+LIFE ON AT LEAST THE FIRST MOON OF THE TWELFTH PLANET : DUNKEL
+DISCOVERY AND NOTES : OGLA
+FURTHER NOTES: A CLASS S00 SYSTEM OF 12 PLANETS, 37 MOONS, 3 FELISIAN
+WORLDS. SKINNYMON EPOC 6011 574.867

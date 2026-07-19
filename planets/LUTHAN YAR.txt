@@ -1,0 +1,7 @@
+Planet: LUTHAN YAR
+Starmap index: 12
+Paris coordinates: -663568, -208988, 6842
+
+Guide entries:
+MOON DISCOVERED BY BJS EPOC 6011:584.3
+FELYSIAN MOON--SUPPORTS LIFE.

@@ -1,0 +1,3 @@
+Planet: PINIR
+Starmap index: 02
+Paris coordinates: 612144, 399853, -785670

@@ -1,0 +1,6 @@
+Star: WOODROW WILSON
+Star class: S06
+Paris coordinates: 1373200, 5038193, 1970685
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Planet: ABANDONO
+Starmap index: 10
+Paris coordinates: 3679984, 4810478, -21448
+
+Guide entries:
+DISCOVERED BY LEOW AT EPOCH 6011.579.209.930

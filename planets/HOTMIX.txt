@@ -1,0 +1,3 @@
+Planet: HOTMIX
+Starmap index: 01
+Paris coordinates: 2674288, 4335112, -3133073

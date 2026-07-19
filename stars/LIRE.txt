@@ -1,0 +1,9 @@
+Star: LIRE
+Star class: S06
+Paris coordinates: -1173200, -567258, -1925357
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR REFUELING

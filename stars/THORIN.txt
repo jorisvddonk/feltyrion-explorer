@@ -1,0 +1,10 @@
+Star: THORIN
+Star class: S01
+Paris coordinates: 5778224, 8159776, -7947620
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A VERY LARGE, BLUE GIANT STAR, HIGH RADIATION. NO ORBITING BODIES.
+(DISCOVERED AND NAMED BY N5CORP ON 6011:625.925)

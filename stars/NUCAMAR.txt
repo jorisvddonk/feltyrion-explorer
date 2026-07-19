@@ -1,0 +1,14 @@
+Star: NUCAMAR
+Star class: S08
+Paris coordinates: 634954160, -10366552, 49352756
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (* companion star)
+
+Guide entries:
+ S08 SYSTEM WITH TWO COMPANION STARS ONLY. 0.79399312 BAL. M.; TEMP         
+3379K; RAD 28.1 KR; COOR 634954160; -10366552; 49352756 SKINNYMON           
+6011.916.858                                                                
+RETURN EXPEDITION 6012 060.133 08 TYPE, P02 27.86 DYAMS.

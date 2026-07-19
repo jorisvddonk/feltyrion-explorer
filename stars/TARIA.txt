@@ -1,0 +1,16 @@
+Star: TARIA
+Star class: S00
+Paris coordinates: 1047152, 3482904, -3009819
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- TARIA 1 (n thin atmosphere)
+- TARIA 2 (r rocky, creased)
+- TARIA 3 (n thin atmosphere)
+  - TARIA 3.1 (n thin atmosphere)
+  - TARIA 3.2 (n thin atmosphere)
+
+Guide entries:
+ A G2V-TYPE STAR, NOT TO DIFFERENT FROM SOL AND ALPHA CENTAURI A.
+THE STAR HAS 5 WORLDS, THAT'S 3 PLANETS AND 2 MINOR BODIES.
+(STARGAZER. EPOC 6011:597:871)

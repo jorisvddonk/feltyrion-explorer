@@ -1,0 +1,6 @@
+Planet: HOLMAN4
+Starmap index: 04
+Paris coordinates: -305360, -1036478, 1027323
+
+Guide entries:
+BARREN PLANET WITH THIN ATMOSPHERE. MOSTLY FLAT LANDSCAPE.

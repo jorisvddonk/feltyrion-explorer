@@ -1,0 +1,3 @@
+Planet: MUKA
+Starmap index: 02
+Paris coordinates: 5556784, 7053610, -4938331

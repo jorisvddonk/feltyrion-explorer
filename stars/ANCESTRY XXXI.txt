@@ -1,0 +1,17 @@
+Star: ANCESTRY XXXI
+Star class: S02
+Paris coordinates: -1424942544, 1846416, 1435007840
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- HUGE YET TINY? (+ substellar object)
+- WEIGHTED PURPLE (@ large, not consistent)
+- TINY YET HUGE? (+ substellar object)
+- HORIZON'S PENUMBRA (n thin atmosphere)
+- SIERRA NADIR (n thin atmosphere)
+- BLUE ERASER (@ large, not consistent)
+- WORN PINNACLES (d dusty, craterized)
+
+Guide entries:
+S02, SEVEN PLANETS(TWO SUBSTELLAR!), NO MOONS. RYAN GJK                     
+EPOC 6011.784.922                                                           

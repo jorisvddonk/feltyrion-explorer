@@ -1,0 +1,12 @@
+Star: LISTA 50
+Star class: S05
+Paris coordinates: 6582832, 5105271, -744690
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- EPIDEMIC (n thin atmosphere)
+- PERDU (d dusty, craterized)
+
+Guide entries:
+ YET ANOTHER S05 LITHIUM SYATEM WITH 2 PLANETS. SKINNYMON EPOC 6011
+584.680

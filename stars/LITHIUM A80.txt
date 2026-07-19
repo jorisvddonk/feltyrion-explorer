@@ -1,0 +1,6 @@
+Star: LITHIUM A80
+Star class: S05
+Paris coordinates: 4344464, 3688871, -45109154
+Bodies: 0 (0 planets, 0 moons)
+
+System:

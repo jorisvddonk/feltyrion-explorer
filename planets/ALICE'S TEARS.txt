@@ -1,0 +1,3 @@
+Planet: ALICE'S TEARS
+Starmap index: 01
+Paris coordinates: 3697488, 4416870, -865835

@@ -1,0 +1,29 @@
+Star: SKONNOS
+Star class: S00
+Paris coordinates: 753936, 5628283, -2542346
+Bodies: 23 (10 planets, 13 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- MONDAS (f felisian)
+  - LUNAIOUS (d dusty, craterized)
+  - VOGA (^ unstable)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (r rocky, creased)
+- Planet #6 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #7 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (r rocky, creased)
+- Planet #8 (i icy surface)
+- Planet #9 (r rocky, creased)

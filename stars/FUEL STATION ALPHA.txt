@@ -1,0 +1,6 @@
+Star: FUEL STATION ALPHA
+Star class: S06
+Paris coordinates: 377136, 426980, 1198786
+Bodies: 0 (0 planets, 0 moons)
+
+System:

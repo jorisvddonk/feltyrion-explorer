@@ -1,0 +1,16 @@
+Star: WARANAS
+Star class: S00
+Paris coordinates: 4077136, 4486435, -2291692
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- CHAPOI (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- TUCKI (f felisian)
+  - Moon #0 (d dusty, craterized)
+- IGUANA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.56.920

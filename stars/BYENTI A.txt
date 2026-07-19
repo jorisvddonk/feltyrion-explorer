@@ -1,0 +1,16 @@
+Star: BYENTI A
+Star class: S08
+Paris coordinates: -1996709872, 7885, 1308189
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- BYENTI B (* companion star)
+  - YIEKNA (+ substellar object)
+  - OPLETIK (r rocky, creased)
+- YEKTEN (r rocky, creased)
+
+Guide entries:
+A BINARY S08 SYSTEM, OF WHAT APPEARS TO BE S00-ISH STARS. 2 PLANETS,        
+2 MOONS. ONE OF THE PLANETS IS, OF COURSE, A COMPANION STAR. SADLY,         
+NO FELYSIAN PLANETS.                                                        
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:652:714                             

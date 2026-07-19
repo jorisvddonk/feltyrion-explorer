@@ -1,0 +1,3 @@
+Planet: XANTHYA-D-S2
+Starmap index: 10
+Paris coordinates: 922864, 3162771, -2336095

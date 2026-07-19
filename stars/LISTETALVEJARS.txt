@@ -1,0 +1,20 @@
+Star: LISTETALVEJARS
+Star class: S00
+Paris coordinates: 2069274544, -1807205, 1405355
+Bodies: 9 (7 planets, 2 moons)
+
+System:
+- SAKFHARE (r rocky, creased)
+- SUVOISI (r rocky, creased)
+- CUIJIASE (k thick atmosphere)
+- CYSHISI (n thin atmosphere)
+  - FHOYAT (d dusty, craterized)
+- AEGERRIME (f felisian)
+- GUBEANI (d dusty, craterized)
+- SOTAPA (r rocky, creased)
+  - TEVIAS (n thin atmosphere)
+
+Guide entries:
+S00 SYSTEM 7 PLANETS 2 MOONS ONE FELISIAN WORLD. 1.17613721                 
+BAL. M. TEMP 6113 K RAD 21KR COOR 2069274544;-1807205;1405355               
+SKINNYMON 6011 794.937                                                      

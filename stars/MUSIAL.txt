@@ -1,0 +1,27 @@
+Star: MUSIAL
+Star class: S03
+Paris coordinates: 723952, 3821710, -5996200
+Bodies: 17 (5 planets, 12 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - MUSIAL V E (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+
+Guide entries:
+S03 STAR DISCOVERED BY RICHARD SOLENSKY EPOC 6011-573.508.700
+5TH MOON OF 5TH PLANET IS FELISIAN

@@ -1,0 +1,3 @@
+Planet: ASKEW 125H5
+Starmap index: 29
+Paris coordinates: 4972784, -14963659, 11837379

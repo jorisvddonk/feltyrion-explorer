@@ -1,0 +1,6 @@
+Planet: HOTTIS
+Starmap index: 01
+Paris coordinates: 3766416, 4329610, -657766
+
+Guide entries:
+DISCOVERED BY ACHARYA DAS, QUITE HOT SURFACE

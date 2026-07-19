@@ -1,0 +1,3 @@
+Planet: ULIZAN
+Starmap index: 22
+Paris coordinates: -474288, -31859501, 1067415

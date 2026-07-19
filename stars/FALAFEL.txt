@@ -1,0 +1,10 @@
+Star: FALAFEL
+Star class: S07
+Paris coordinates: 118928, 154763, 56859
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A BLUE S07 STAR ABOUT 11LY FROM FELYSIA. HAS NO PLANETS.
+(DISCOVERED BY SCHMERM 6011 582.589)

@@ -1,0 +1,6 @@
+Star: LONE STAR
+Star class: S00
+Paris coordinates: 1477136, 3464936, 324241
+Bodies: 0 (0 planets, 0 moons)
+
+System:

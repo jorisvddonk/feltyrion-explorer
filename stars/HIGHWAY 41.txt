@@ -1,0 +1,29 @@
+Star: HIGHWAY 41
+Star class: S00
+Paris coordinates: -9520016, -3590438, 13280052
+Bodies: 23 (5 planets, 18 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (f felisian)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (f felisian)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (^ unstable)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (k thick atmosphere)
+  - Moon #15 (n thin atmosphere)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)

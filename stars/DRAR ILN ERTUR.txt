@@ -1,0 +1,13 @@
+Star: DRAR ILN ERTUR
+Star class: S02
+Paris coordinates: 58888560, -33898881, 926862335
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (r rocky, creased)
+
+Guide entries:
+ROLAND ASKEW (6011 601.254)

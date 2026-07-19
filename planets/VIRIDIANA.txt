@@ -1,0 +1,7 @@
+Planet: VIRIDIANA
+Starmap index: 03
+Paris coordinates: 2935344, 4630986, 272990
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.890 -                               
+ A NOT CONSISTENT PLANET WITH A LOT OF MOONS.                               

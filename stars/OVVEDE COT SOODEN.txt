@@ -1,0 +1,6 @@
+Star: OVVEDE COT SOODEN
+Star class: S08
+Paris coordinates: 750000, 52050000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: PINK BEAUTY
+Starmap index: 01
+Paris coordinates: 4362480, 4519787, 426900

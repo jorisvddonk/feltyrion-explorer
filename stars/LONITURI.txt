@@ -1,0 +1,6 @@
+Star: LONITURI
+Star class: S00
+Paris coordinates: 3859632, 3454480, -1178467
+Bodies: 0 (0 planets, 0 moons)
+
+System:

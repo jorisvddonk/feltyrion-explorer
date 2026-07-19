@@ -1,0 +1,11 @@
+Star: SOLISSIMA
+Star class: S00
+Paris coordinates: 5796400, 4309349, 858423
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- VILTAR (q quartz surface)
+- QUYTHMES (+ substellar object)
+- TERRA VIRDE (f felisian)
+- DEL KIMINSTH (f felisian)
+- TELO (d dusty, craterized)

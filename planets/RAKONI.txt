@@ -1,0 +1,3 @@
+Planet: RAKONI
+Starmap index: 01
+Paris coordinates: -61939376, 29523124, 672688

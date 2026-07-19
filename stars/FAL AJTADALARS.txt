@@ -1,0 +1,23 @@
+Star: FAL AJTADALARS
+Star class: S00
+Paris coordinates: 2052562480, 532725, 204773
+Bodies: 11 (4 planets, 7 moons)
+
+System:
+- OKOCEVANU (q quartz surface)
+- ANATLICA (q quartz surface)
+- ODFHNOJAME (@ large, not consistent)
+  - YLFHRIJAJI (q quartz surface)
+  - YTESYA (k thick atmosphere)
+  - THOTOY (n thin atmosphere)
+  - VNIRFH (r rocky, creased)
+  - AJISYH (n thin atmosphere)
+  - LIJSAYSA (d dusty, craterized)
+- UPAMORARE (q quartz surface)
+  - UDOKARE (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 STAR WITH 6 PLANETS, 7 MOONS- 4 QUARTZ WORLDS                   
+(POOR SUBSTITUTE FOR THE 0 FELISIAN WORLDS, I AGREE.)                       
+1.49327207 BAL. M. TEMP 7120 K RAD 19KR COOR 2052562480;532725;             
+204773; SKINNYMON 6011 795.979                                              

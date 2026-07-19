@@ -1,0 +1,8 @@
+Planet: CRAETON I
+Starmap index: 20
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.531.330                              
+DID NOT LAND. A USUAL MOON WITH DUSTY SURFACE.                              
+(NEURONWAKE 6011 802.531.398)                                               

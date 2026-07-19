@@ -1,0 +1,7 @@
+Planet: SERPENTINE 4.3
+Starmap index: 16
+Paris coordinates: 218928, 369094, -5434
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, VERY DARK. I DIDN'T BOTHER TO
+LAND. SERPENS, 6011 665.937

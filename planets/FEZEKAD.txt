@@ -1,0 +1,3 @@
+Planet: FEZEKAD
+Starmap index: 02
+Paris coordinates: 6262480, 5136125, -1647648

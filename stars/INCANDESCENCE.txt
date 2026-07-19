@@ -1,0 +1,8 @@
+Star: INCANDESCENCE
+Star class: S11
+Paris coordinates: 1363568, 694931, -392299
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- M JACKSON (n thin atmosphere)
+- AUSTERITY (d dusty, craterized)

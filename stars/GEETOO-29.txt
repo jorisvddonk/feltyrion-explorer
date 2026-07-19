@@ -1,0 +1,15 @@
+Star: GEETOO-29
+Star class: S00
+Paris coordinates: 5941456, 5941169, -12115456
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (+ substellar object)
+- BLUE KAHNDRI (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)

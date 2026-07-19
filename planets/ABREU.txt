@@ -1,0 +1,6 @@
+Planet: ABREU
+Starmap index: 04
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 85.29 / 1.0G -14C .2A /QUARTZ.BLACK(BY NBOAR 6011 588.483)

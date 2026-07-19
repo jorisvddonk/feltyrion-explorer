@@ -1,0 +1,6 @@
+Star: BOWLANCEMAROOS
+Star class: S06
+Paris coordinates: 1450000, 50950000, -1550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

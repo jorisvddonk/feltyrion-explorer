@@ -1,0 +1,6 @@
+Planet: VWSTPHA 4
+Starmap index: 04
+Paris coordinates: 4955696, 4635983, -633493
+
+Guide entries:
+DISCOVERD BY POKECET(6012.000.72)

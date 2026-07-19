@@ -1,0 +1,3 @@
+Planet: XANTHYA-B
+Starmap index: 02
+Paris coordinates: 922864, 3162771, -2336095

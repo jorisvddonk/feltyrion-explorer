@@ -1,0 +1,26 @@
+Star: SAIYUKI MAX
+Star class: S00
+Paris coordinates: 337520, 6196594, -4796848
+Bodies: 11 (7 planets, 4 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (^ unstable)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ NO LIFE HERE
+YET...
+AHHH!!!!
+MAYBE SOMEDAY LIFE SHALL BE FOUND
+I WONDER HOW FAR OUT I AM
+MAYBE I'M CLOSE TO THE EDGE ALREADY
+I'LL NEVER KNOW UNTIL THE BOSS TELLS ME...

@@ -1,0 +1,6 @@
+Star: FUEL 3
+Star class: S06
+Paris coordinates: 2064656, 5529027, -4845140
+Bodies: 0 (0 planets, 0 moons)
+
+System:

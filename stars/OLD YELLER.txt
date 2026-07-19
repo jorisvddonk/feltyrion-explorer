@@ -1,0 +1,47 @@
+Star: OLD YELLER
+Star class: S00
+Paris coordinates: 5190704, 5528316, -2752182
+Bodies: 35 (8 planets, 27 moons)
+
+System:
+- PUMPKIN HEAVEN (n thin atmosphere)
+- GREEN MARBLE (@ large, not consistent)
+- VENOM (@ large, not consistent)
+  - BRIE (d dusty, craterized)
+  - TOUCH O' GRAY (k thick atmosphere)
+  - MAJESTIC (k thick atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - NIGHTSHADE (k thick atmosphere)
+  - DULLROCK (k thick atmosphere)
+  - AZUL (k thick atmosphere)
+- KIMLY (f felisian)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - OLIVE PIT (n thin atmosphere)
+- PRAIRIE (n thin atmosphere)
+  - PRAIRIE MOON (n thin atmosphere)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (d dusty, craterized)
+  - DARKSIDE (d dusty, craterized)
+  - Moon #11 (^ unstable)
+  - Moon #12 (f felisian)
+  - SANDY FLATS (i icy surface)
+- JADE ROCK (r rocky, creased)
+
+Guide entries:
+STAR DISCOVERED BY CHRIS DONOVAN, EPOC 6011:572.921.
+THE 4TH PLANET SHOWS SIGNS OF LIFE (BIRDS).
+WHILE SWIMMING, I NOTED A BURST OF LIGHT FROM THE HORIZON.
+(NOTES BY CHRIS DONOVAN, EPOC 6011:572.922)

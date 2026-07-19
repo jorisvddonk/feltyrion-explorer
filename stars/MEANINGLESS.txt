@@ -1,0 +1,10 @@
+Star: MEANINGLESS
+Star class: S05
+Paris coordinates: 1866416, 1939481, 1181093
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BOX OF BORING (d dusty, craterized)
+
+Guide entries:
+STAR FOUND BY DR. WORM, EPOC 6011: 659.719

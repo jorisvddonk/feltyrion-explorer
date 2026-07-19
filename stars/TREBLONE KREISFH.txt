@@ -1,0 +1,10 @@
+Star: TREBLONE KREISFH
+Star class: S08
+Paris coordinates: 11525712, 287974, -10939739
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PSEUDO-CLASS S08 SYSTEM WITH NO COMPANION STARS, NO PLANETS
+SKINNYMON EPOC 6011 603.125

@@ -1,0 +1,10 @@
+Planet: DARMATRIN
+Starmap index: 08
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+MOON DISCOVERED BY NEURONWAKE EPOC 6011 802.522                             
+VERY LARGE CRATERS SCAATTERED THROUGHOUT. MOST NOTABLE ARE IS THE           
+TWIN CRATER, ESPECIALLY THE CONCENTRIC SECTION AROUND 315.22. I HAVE        
+DECIDED TO CALL THAT REGION THE 'SOLEMN ABYSS'. (NEURONWAKE 6011            
+802. 253)                                                                   

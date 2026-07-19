@@ -1,0 +1,22 @@
+Star: AS12221207
+Star class: S01
+Paris coordinates: 1516336, 545041, 19859002
+Bodies: 16 (4 planets, 12 moons)
+
+System:
+- AS12221207A (+ substellar object)
+- AS12221207B (@ large, not consistent)
+- AS12221207C (@ large, not consistent)
+  - ASFALON (f felisian)
+  - AS12221207C3 (n thin atmosphere)
+  - AS12221207C0 (r rocky, creased)
+  - AS12221207C4 (n thin atmosphere)
+  - AS12221207C5 (n thin atmosphere)
+  - AS12221207C6 (q quartz surface)
+  - AS12221207C7 (d dusty, craterized)
+  - AS12221207C8 (d dusty, craterized)
+  - AS12221207C9 (d dusty, craterized)
+  - AS12221207C10 (r rocky, creased)
+  - AS12221207C11 (n thin atmosphere)
+- AS12221207D (k thick atmosphere)
+  - AS12221207D1 (d dusty, craterized)

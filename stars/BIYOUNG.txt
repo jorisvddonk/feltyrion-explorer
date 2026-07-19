@@ -1,0 +1,23 @@
+Star: BIYOUNG
+Star class: S08
+Paris coordinates: 5009808, 4830465, 39078705
+Bodies: 12 (4 planets, 8 moons)
+
+System:
+- PIDIST (d dusty, craterized)
+- BEBLE (k thick atmosphere)
+- BIYOUNG B (* companion star)
+  - REDFIRE (^ unstable)
+  - GLOBO (+ substellar object)
+  - OTIFDESLA (f felisian)
+  - CYWI (r rocky, creased)
+  - THINK (k thick atmosphere)
+  - PINKED (@ large, not consistent)
+- WRINKL (k thick atmosphere)
+  - NOCGRE (d dusty, craterized)
+  - GREDIM (n thin atmosphere)
+
+Guide entries:
+A S08 SYSTEM CONSISTING OF WHAT APPEAR TO BE S09 TYPE STARS. 1
+COMPANION STAR. 3 PLANETS. 8 MOONS.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:630:359

@@ -1,0 +1,13 @@
+Star: STABILITY
+Star class: S02
+Paris coordinates: 4466416, 5292609, -1437978
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (^ unstable)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+- Planet #4 (q quartz surface)
+- SWIRLY WIRLY (^ unstable)
+- Planet #6 (r rocky, creased)

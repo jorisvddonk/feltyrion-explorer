@@ -1,0 +1,7 @@
+Star: MINOA G/0
+Star class: S11
+Paris coordinates: 4173200, 4584233, -667350
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MINOA G/1 (n thin atmosphere)

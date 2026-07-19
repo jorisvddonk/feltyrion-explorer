@@ -1,0 +1,3 @@
+Planet: SERIELX 2
+Starmap index: 02
+Paris coordinates: -39654608, 1428421, 31856803

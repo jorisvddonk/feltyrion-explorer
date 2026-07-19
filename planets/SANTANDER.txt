@@ -1,0 +1,3 @@
+Planet: SANTANDER
+Starmap index: 06
+Paris coordinates: 3821776, 4429682, -1462658

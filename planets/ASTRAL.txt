@@ -1,0 +1,7 @@
+Planet: ASTRAL
+Starmap index: 01
+Paris coordinates: -1781744, 5302539, -7731256
+
+Guide entries:
+SUBSTELLAR GAS GIANT-RINGED
+DISCOVERED BY KJ EPOC 6011:578.447

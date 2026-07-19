@@ -1,0 +1,6 @@
+Planet: MALKINAR
+Starmap index: 06
+Paris coordinates: 11038448, -19251310, 17477204
+
+Guide entries:
+FOUND EPOC 6011 586.780.000 BY ROLAND ASKEW

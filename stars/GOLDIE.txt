@@ -1,0 +1,9 @@
+Star: GOLDIE
+Star class: S00
+Paris coordinates: 3328560, 5628964, -535686
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YELLOW STAR MED SIZED. NO PLANETS BY KRUSTY. 6011.596.159

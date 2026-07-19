@@ -1,0 +1,8 @@
+Planet: PANLATO 2
+Starmap index: 02
+Paris coordinates: -282832, 1095865, -5377112
+
+Guide entries:
+SMALL, SOLID, THIN AMOSPHERE. FAIRLY BRIGHT SURFACE, GREY WITH A            
+GREENISH TINT. DOWN THERE, IT'S ACTUALLY NOT THAT DARK.                     
+SERPENS, 6011 787.588                                                       

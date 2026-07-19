@@ -1,0 +1,3 @@
+Planet: BLUE EMMENTHAL
+Starmap index: 02
+Paris coordinates: 3752848, 4041158, -1634916

@@ -1,0 +1,3 @@
+Planet: AS01042152P1
+Starmap index: 67
+Paris coordinates: 54591120, 440076, 1982299900

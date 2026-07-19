@@ -1,0 +1,10 @@
+Planet: UBIQUE
+Starmap index: 08
+Paris coordinates: 3259632, 4697415, -785262
+
+Guide entries:
+FIRST MOON OF BOTTLE. NAMED BY STARDRIFTER UNKNOWN.                         
+UNINTERESTING WORLD WITH VERY THIN ATMOSPHERE.                              
+HOWEVER IT IS DARKER THAN BOTTLE, WHICH HAS A BREATHABLE ATMOSPHERE.        
+PERHAPS THE ELEMENTS COMPOSING UBIQUE'S ATMOSPHERE ARE LESS TRANSPARENT     
+(JAVIER, 6011:685.960)                                                      

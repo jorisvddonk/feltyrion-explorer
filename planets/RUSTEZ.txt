@@ -1,0 +1,3 @@
+Planet: RUSTEZ
+Starmap index: 19
+Paris coordinates: -61584016, 29782048, -184920

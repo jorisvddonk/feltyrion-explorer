@@ -1,0 +1,3 @@
+Planet: YELLOW FIRE
+Starmap index: 07
+Paris coordinates: -71593136, -672408, 53770643

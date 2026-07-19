@@ -1,0 +1,3 @@
+Planet: ASKEW 16B
+Starmap index: 02
+Paris coordinates: 9993136, 8520056, 8018881

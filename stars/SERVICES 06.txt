@@ -1,0 +1,10 @@
+Star: SERVICES 06
+Star class: S06
+Paris coordinates: -19449616, -20025567, -150593795
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED 6011:573.948 BY SHADOWCLAW)
+YOU CAN SCOPE FOR FUEL HERE. (SHADOWCLAW)

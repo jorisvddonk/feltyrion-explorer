@@ -1,0 +1,3 @@
+Planet: NEEDLESS
+Starmap index: 12
+Paris coordinates: -62139376, 29684697, 1110989

@@ -1,0 +1,3 @@
+Planet: ASKEW 32A
+Starmap index: 01
+Paris coordinates: 11658800, -19309869, 17985113

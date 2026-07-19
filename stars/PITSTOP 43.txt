@@ -1,0 +1,6 @@
+Star: PITSTOP 43
+Star class: S06
+Paris coordinates: -28744976, 2136231, 23194506
+Bodies: 0 (0 planets, 0 moons)
+
+System:

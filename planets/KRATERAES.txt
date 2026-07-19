@@ -1,0 +1,3 @@
+Planet: KRATERAES
+Starmap index: 01
+Paris coordinates: -61808304, 29569120, 567616

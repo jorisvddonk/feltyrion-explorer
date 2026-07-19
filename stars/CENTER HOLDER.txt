@@ -1,0 +1,6 @@
+Star: CENTER HOLDER
+Star class: S06
+Paris coordinates: 683450000, 23350000, -683550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: TIME
+Starmap index: 01
+Paris coordinates: 339280, 101762, 1148923

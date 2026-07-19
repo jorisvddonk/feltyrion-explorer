@@ -1,0 +1,3 @@
+Planet: ARYX OMEGA DELTA
+Starmap index: 01
+Paris coordinates: 3290704, 4837570, -933229

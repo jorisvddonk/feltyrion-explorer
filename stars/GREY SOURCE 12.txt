@@ -1,0 +1,6 @@
+Star: GREY SOURCE 12
+Star class: S06
+Paris coordinates: 24663152, 50708271, -10247745
+Bodies: 0 (0 planets, 0 moons)
+
+System:

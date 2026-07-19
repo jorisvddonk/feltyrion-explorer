@@ -1,0 +1,9 @@
+Star: POE
+Star class: S11
+Paris coordinates: 3131408, 4623621, 1755683
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+'DESOLATE YET ALL UNDAUNTED...' (TACKAT 6011:562.949)

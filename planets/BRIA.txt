@@ -1,0 +1,3 @@
+Planet: BRIA
+Starmap index: 02
+Paris coordinates: 532496, 240661, 581056

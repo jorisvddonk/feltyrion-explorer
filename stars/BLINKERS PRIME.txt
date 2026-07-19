@@ -1,0 +1,7 @@
+Star: BLINKERS PRIME
+Star class: S01
+Paris coordinates: 3452848, 4614008, -1438335
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BLINKERS (+ substellar object)

@@ -1,0 +1,3 @@
+Planet: ALTEC BANTUM
+Starmap index: 08
+Paris coordinates: 7060976, -16780024, 15078704

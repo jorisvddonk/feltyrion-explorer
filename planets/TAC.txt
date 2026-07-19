@@ -1,0 +1,3 @@
+Planet: TAC
+Starmap index: 01
+Paris coordinates: 3059632, 136884, -329833

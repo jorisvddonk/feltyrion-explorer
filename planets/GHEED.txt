@@ -1,0 +1,3 @@
+Planet: GHEED
+Starmap index: 13
+Paris coordinates: 4648912, 5743891, -726921

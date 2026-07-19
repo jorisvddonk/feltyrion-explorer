@@ -1,0 +1,3 @@
+Planet: BULITIS TWEE
+Starmap index: 03
+Paris coordinates: 2759632, 4119210, -264154

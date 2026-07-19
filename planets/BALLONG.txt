@@ -1,0 +1,3 @@
+Planet: BALLONG
+Starmap index: 19
+Paris coordinates: 5658544, 4943265, 798068

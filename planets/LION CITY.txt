@@ -1,0 +1,3 @@
+Planet: LION CITY
+Starmap index: 03
+Paris coordinates: -24912560, -17163490, 38675244

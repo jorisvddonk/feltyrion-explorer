@@ -1,0 +1,12 @@
+Star: DWARVEN MINER
+Star class: S05
+Paris coordinates: 5476048, 23857484, 90620
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (@ large, not consistent)
+
+Guide entries:
+THOUGH A BROWN DWARF RATHER THAN A GREY GIANT, IT IS SUITABLE
+FOR SCOPING (NOTE BY FARAGO, 6011.582.775)

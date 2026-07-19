@@ -1,0 +1,3 @@
+Planet: ACCENT
+Starmap index: 02
+Paris coordinates: 2708208, 4423615, -1185378

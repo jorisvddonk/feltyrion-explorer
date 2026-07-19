@@ -1,0 +1,9 @@
+Star: GENOSIS
+Star class: S11
+Paris coordinates: 4217840, 4551864, -231461
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- GENOSIS PRIME (d dusty, craterized)
+- LABELLOS (d dusty, craterized)
+- MORDALOS (d dusty, craterized)

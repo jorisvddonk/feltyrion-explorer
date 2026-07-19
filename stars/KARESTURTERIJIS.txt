@@ -1,0 +1,23 @@
+Star: KARESTURTERIJIS
+Star class: S00
+Paris coordinates: 2037570768, -132625, -1685345
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- RYPFHKOR (+ substellar object)
+- TAFHIC (n thin atmosphere)
+- DERUJIK (@ large, not consistent)
+  - CYPURIN (q quartz surface)
+  - TESIMOS (k thick atmosphere)
+  - LIBAKIJI (d dusty, craterized)
+  - NOFHIJ (n thin atmosphere)
+  - RIULIR (r rocky, creased)
+  - KIVAHLIS (^ unstable)
+  - RYNOJ (r rocky, creased)
+- CHELES (f felisian)
+- DFHJOLI (@ large, not consistent)
+
+Guide entries:
+S00 WITH 5 PLANETS, 7 MOONS, ONE FELISIAN WORLD. 1.21585453                 
+BAL. M/ TEMP 6244 K RAD 20KR COOR 2037570768;-132625;-1685345               
+SKINNYMON 6011 796.851                                                      

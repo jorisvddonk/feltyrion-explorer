@@ -1,0 +1,6 @@
+Planet: HOTROCK
+Starmap index: 01
+Paris coordinates: 5517840, 4407998, -1529357
+
+Guide entries:
+ PLANET 1 AROUND S01 - REDDISH SKY, DARK BLUE SURFACE

@@ -1,0 +1,3 @@
+Planet: VOMULEIR
+Starmap index: 31
+Paris coordinates: 767504, 8315857, -1670814

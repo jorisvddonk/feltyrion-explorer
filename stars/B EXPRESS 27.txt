@@ -1,0 +1,9 @@
+Star: B EXPRESS 27
+Star class: S06
+Paris coordinates: -116469520, 1326810, 88441461
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+EDIBLE LITIUM.                                                              

@@ -1,0 +1,11 @@
+Star: MIO
+Star class: S10
+Paris coordinates: -1888528, 5288815, -8036947
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- AO (@ large, not consistent)
+
+Guide entries:
+RUNAWAY STAR,HAS 1 PLANET
+DISCOVERED BY KJ EPOC 6011:579.395

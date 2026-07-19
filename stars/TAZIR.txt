@@ -1,0 +1,15 @@
+Star: TAZIR
+Star class: S00
+Paris coordinates: 4868176, 13657481, 4132873
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- SUBRA (k thick atmosphere)
+- BRITTE (q quartz surface)
+- TESTRA (n thin atmosphere)
+  - SATTEL (^ unstable)
+
+Guide entries:
+S00 SYSTEM DISCOVERED BY MURRMURR EPOC 6011:608.156
+SYSTEM HAS 3 PLANETS, AND ONE MINOR BODY.
+(NOTES BY MURRMURR EPOC 6011:608.156)

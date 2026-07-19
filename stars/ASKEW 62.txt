@@ -1,0 +1,6 @@
+Star: ASKEW 62
+Star class: S04
+Paris coordinates: 11152016, -19371799, 17878813
+Bodies: 0 (0 planets, 0 moons)
+
+System:

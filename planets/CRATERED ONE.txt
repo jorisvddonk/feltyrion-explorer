@@ -1,0 +1,3 @@
+Planet: CRATERED ONE
+Starmap index: 08
+Paris coordinates: 3408208, 4220650, -1855031

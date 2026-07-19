@@ -1,0 +1,3 @@
+Planet: ASKEW 56C1
+Starmap index: 13
+Paris coordinates: 10976304, -19240498, 17578568

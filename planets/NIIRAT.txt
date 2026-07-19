@@ -1,0 +1,7 @@
+Planet: NIIRAT
+Starmap index: 02
+Paris coordinates: -1418775760, -1892221, -1273979677
+
+Guide entries:
+LAVHETAN 02; SMALL, SOLID, THIN ATMOSPHERE
+COLD, DARK GREY, JAGGED

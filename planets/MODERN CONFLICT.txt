@@ -1,0 +1,3 @@
+Planet: MODERN CONFLICT
+Starmap index: 02
+Paris coordinates: -71837776, -597799, 53406694

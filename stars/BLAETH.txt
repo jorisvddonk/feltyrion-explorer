@@ -1,0 +1,17 @@
+Star: BLAETH
+Star class: S11
+Paris coordinates: 3963568, 4820590, -3218725
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- FLICKER (n thin atmosphere)
+- MILLER'S THUMB (@ large, not consistent)
+- CUNAXA (@ large, not consistent)
+  - BALATA (k thick atmosphere)
+  - SURYLIN (k thick atmosphere)
+  - LIMACINE (q quartz surface)
+
+Guide entries:
+FURTHER NOTES: ONLY THE CLASS S11 STAR AND THE FIRST PLANET WERE NAMED
+THE ORIGINAL EXPLORER OF THIS SYSTEM. HOWEVER, THERE ARE 3 PLANETS AND
+3 MOONS AND I GOT TO DISCOVER THE REST. SKINNYMON EPOC 6011 569.600

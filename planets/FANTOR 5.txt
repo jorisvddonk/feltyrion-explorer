@@ -1,0 +1,3 @@
+Planet: FANTOR 5
+Starmap index: 05
+Paris coordinates: 1811056, 560418, 1826936

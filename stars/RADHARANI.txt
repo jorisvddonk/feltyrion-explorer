@@ -1,0 +1,41 @@
+Star: RADHARANI
+Star class: S04
+Paris coordinates: 4035344, 4284112, -888600
+Bodies: 32 (14 planets, 18 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- NAVADVIP (n thin atmosphere)
+- Planet #2 (+ substellar object)
+  - Moon #0 (q quartz surface)
+- Planet #3 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #9 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #10 (r rocky, creased)
+- Planet #11 (d dusty, craterized)
+- Planet #12 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #13 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+
+Guide entries:
+ DISCOVERED BY HARIDAS, EPOC 6011, 14 PLANET AND 18 SMALL BODIES

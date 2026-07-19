@@ -1,0 +1,6 @@
+Star: SYGHEM ABBAN
+Star class: S11
+Paris coordinates: 750000, 51050000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

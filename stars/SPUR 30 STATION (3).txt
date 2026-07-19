@@ -1,0 +1,9 @@
+Star: SPUR 30 STATION (3)
+Star class: S06
+Paris coordinates: -107953456, 25536886, -303498
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. RYAN GJK E6011.792.673                                        

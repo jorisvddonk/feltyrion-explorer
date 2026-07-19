@@ -1,0 +1,7 @@
+Planet: LESSER 3.1
+Starmap index: 06
+Paris coordinates: 263568, 396703, 562792
+
+Guide entries:
+SMALL, SOLID, ICY, NO ATMOSPHERE. I YOU WANT TO READ MORE, SEE
+'LESSER 3'. SERPENS, 6011 665.931

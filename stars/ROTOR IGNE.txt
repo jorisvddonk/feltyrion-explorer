@@ -1,0 +1,34 @@
+Star: ROTOR IGNE
+Star class: S08
+Paris coordinates: 3866416, 4813508, -735695
+Bodies: 23 (4 planets, 19 moons)
+
+System:
+- ELDMA (n thin atmosphere)
+- BESC (d dusty, craterized)
+- ARPSIG (n thin atmosphere)
+- SORGHUM FEMALE (* companion star)
+  - LIFIC (r rocky, creased)
+  - TROBE (d dusty, craterized)
+  - LUEJ (d dusty, craterized)
+  - UPERN (k thick atmosphere)
+  - DUST BALL (f felisian)
+  - MASSAN (^ unstable)
+  - TLOB (^ unstable)
+  - IDDU (n thin atmosphere)
+  - KORSHI (q quartz surface)
+  - OPHEL (^ unstable)
+  - VUNCU (r rocky, creased)
+  - SESLU (q quartz surface)
+  - LUIDOR (q quartz surface)
+  - PAISL (d dusty, craterized)
+  - ALATOR (q quartz surface)
+  - IAT (+ substellar object)
+  - MOROC (r rocky, creased)
+  - ROSDE (q quartz surface)
+  - ILVE (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES:A CLASS S08 SYSTEM WITH TWO STARS, AND 22 WORLDS.
+THE ONE FELISIAN WORLD IS A DISAPPOINTMENT. SKINNYMON EPOC 6011
+572.889

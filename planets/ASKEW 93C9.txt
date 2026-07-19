@@ -1,0 +1,6 @@
+Planet: ASKEW 93C9
+Starmap index: 20
+Paris coordinates: 10793808, -18875421, 16913063
+
+Guide entries:
+FOUND EPOC 6011 588.371.580 BY ROLAND ASKEW

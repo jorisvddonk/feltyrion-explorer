@@ -1,0 +1,17 @@
+Star: NAROG
+Star class: S00
+Paris coordinates: 130736, 4845542, -4931651
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+
+Guide entries:
+YELLOW STAR,HAS 4 PLANETS AND 2 MOONS
+DISCOVERED BY KJ EPOC 6011:575.936
+THERE ARE NO LIFE-BEARING PLANETS IN THIS SYSTEM

@@ -1,0 +1,10 @@
+Star: SEVEN-6
+Star class: S07
+Paris coordinates: 7862480, 4941909, -3095738
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KHAKHA (+ substellar object)
+
+Guide entries:
+A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011 605.104

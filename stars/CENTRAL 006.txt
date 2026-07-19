@@ -1,0 +1,6 @@
+Star: CENTRAL 006
+Star class: S06
+Paris coordinates: -14525040, 22037580, 23929210
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: CHURK
+Star class: S10
+Paris coordinates: 2070352, 132126, -660551
+Bodies: 0 (0 planets, 0 moons)
+
+System:

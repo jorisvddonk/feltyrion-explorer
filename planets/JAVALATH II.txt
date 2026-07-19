@@ -1,0 +1,3 @@
+Planet: JAVALATH II
+Starmap index: 02
+Paris coordinates: 4979984, 4913850, -1102867

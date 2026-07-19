@@ -1,0 +1,12 @@
+Star: LUTHIEN
+Star class: S06
+Paris coordinates: 425712, 34229, 248688
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ CLASS 6STAR; LARGE, VERRY WEAK, VERRY COLD; GREY DWARV STAR
+NO MAJOR BODIES
+LI+IONES: 25 MTPD
+(HALBWOLF, STARDRIFTER; EPOC 6011-561.424.043)

@@ -1,0 +1,7 @@
+Star: BRACKIS
+Star class: S07
+Paris coordinates: 1648912, 5048663, 2363682
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LETHIS (+ substellar object)

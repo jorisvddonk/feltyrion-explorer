@@ -1,0 +1,3 @@
+Planet: ANTIOCH ALPHA
+Starmap index: 03
+Paris coordinates: -1028560, 5036066, -1527193

@@ -1,0 +1,3 @@
+Planet: KASTRO V
+Starmap index: 05
+Paris coordinates: 3594640, -66246329, -2851929

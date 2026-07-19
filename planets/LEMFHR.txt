@@ -1,0 +1,7 @@
+Planet: LEMFHR
+Starmap index: 40
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M05/P09 SMALL SOLID ICY. RED COLOR WITH MOSTLY DARK GROOVING. PRO           
+0.265.680 PRV 0.003.485.333 SKINNYMON 6011 797.168                          

@@ -1,0 +1,44 @@
+Star: KRETAH
+Star class: S09
+Paris coordinates: 974288, -67378933, -1309413
+Bodies: 34 (8 planets, 26 moons)
+
+System:
+- TRASAFH (@ large, not consistent)
+- LITRAYASA (+ substellar object)
+- DHATRA (d dusty, craterized)
+- TRISKRE (d dusty, craterized)
+- YLDASAIA (d dusty, craterized)
+- PARFHSTREYA (+ substellar object)
+  - FRENKEYL (@ large, not consistent)
+  - HSIAYA (d dusty, craterized)
+  - TRISFENIS (^ unstable)
+  - EYSA (d dusty, craterized)
+  - FENDHA (n thin atmosphere)
+  - TREASSA (k thick atmosphere)
+  - ASKIDO (d dusty, craterized)
+  - NAXAKRETRA (k thick atmosphere)
+  - FYA (d dusty, craterized)
+  - REAISIS (k thick atmosphere)
+  - ANDNA (@ large, not consistent)
+  - AKAND (d dusty, craterized)
+  - VICRES (r rocky, creased)
+  - RESEY (k thick atmosphere)
+  - CARXACRIS (d dusty, craterized)
+  - NALLIMA (n thin atmosphere)
+  - REACRIS (f felisian)
+  - BALYA (@ large, not consistent)
+  - SAKRE (k thick atmosphere)
+  - TREONA (d dusty, craterized)
+- DOCAR (+ substellar object)
+  - FENNI (@ large, not consistent)
+  - TRISVI (i icy surface)
+  - NATRACK (^ unstable)
+- RIAVIC (+ substellar object)
+  - NAIAXA (q quartz surface)
+  - VENHSA (k thick atmosphere)
+  - REAMO (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:584:402
+ MOON 17 OF SIXTH PLANET IS A FELISIAN WORLD.

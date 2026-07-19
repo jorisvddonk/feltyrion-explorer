@@ -1,0 +1,7 @@
+Planet: WOT
+Starmap index: 14
+Paris coordinates: 1566416, 449930, 1557757
+
+Guide entries:
+A MOON OF GEI THAT YOU CAN'T LAND ON. IT'S TOO GEOLOGICALLY ACTIVE.         
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.647.72)                            

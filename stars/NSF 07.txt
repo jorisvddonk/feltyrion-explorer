@@ -1,0 +1,9 @@
+Star: NSF 07
+Star class: S06
+Paris coordinates: -100260080, 717630, -45113579
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+24 MTPD EST

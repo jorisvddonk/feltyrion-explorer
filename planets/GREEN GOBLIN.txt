@@ -1,0 +1,3 @@
+Planet: GREEN GOBLIN
+Starmap index: 02
+Paris coordinates: -71899920, -587551, 53664334

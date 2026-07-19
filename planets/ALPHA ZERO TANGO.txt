@@ -1,0 +1,6 @@
+Planet: ALPHA ZERO TANGO
+Starmap index: 09
+Paris coordinates: -230344592, -1360030, 54971502
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.574.445

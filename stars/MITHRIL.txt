@@ -1,0 +1,10 @@
+Star: MITHRIL
+Star class: S06
+Paris coordinates: 2077136, 4941035, -475338
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ZAP MORTON, EPOC 6011:566.282
+NO PLANETS. CAN SCOPE FOR LITHIUM.

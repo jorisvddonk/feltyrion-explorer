@@ -1,0 +1,3 @@
+Planet: KINGDOM 3
+Starmap index: 03
+Paris coordinates: 1989614896, 57592, 450504

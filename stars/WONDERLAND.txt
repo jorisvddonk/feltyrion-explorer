@@ -1,0 +1,9 @@
+Star: WONDERLAND
+Star class: S05
+Paris coordinates: 7658544, 5089103, -1392297
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- CLOUGH (r rocky, creased)
+- FRANGIBLE (r rocky, creased)
+- EL DORADO (f felisian)

@@ -1,0 +1,3 @@
+Planet: JEWEL B
+Starmap index: 02
+Paris coordinates: 3521776, 4859539, -1128094

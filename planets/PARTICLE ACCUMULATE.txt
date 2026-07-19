@@ -1,0 +1,3 @@
+Planet: PARTICLE ACCUMULATE
+Starmap index: 03
+Paris coordinates: 3328560, 3928964, -618003

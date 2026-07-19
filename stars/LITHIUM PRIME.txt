@@ -1,0 +1,11 @@
+Star: LITHIUM PRIME
+Star class: S06
+Paris coordinates: 3583920, 4209420, -1565308
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY SEBASTIAN PATTERSON EPPOC 6011:683.206                        
+THIS STAR PRODUCES VERY HIGH AMOUNTS OF LITHIUM.                            
+'(NOTE BY SEB PAT EPOC 6011:683.302)'                                       

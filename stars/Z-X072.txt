@@ -1,0 +1,9 @@
+Star: Z-X072
+Star class: S07
+Paris coordinates: -1405347568, 36493, 1420902653
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S07 PULSAR, NO PLANETS. 18LY FROM STAR'S END. (SCHMERM 6011 600.393)

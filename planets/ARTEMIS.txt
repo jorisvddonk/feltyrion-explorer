@@ -1,0 +1,6 @@
+Planet: ARTEMIS
+Starmap index: 03
+Paris coordinates: 3459632, 4395682, -759830
+
+Guide entries:
+DISCOVERED BY BRIAN KWAN, EPOC 6011:564.958

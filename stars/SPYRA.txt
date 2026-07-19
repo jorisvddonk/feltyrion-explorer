@@ -1,0 +1,25 @@
+Star: SPYRA
+Star class: S00
+Paris coordinates: 4279984, 4628393, -549462
+Bodies: 19 (10 planets, 9 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- HELLINOID (d dusty, craterized)
+- YOUNG SUNNY (f felisian)
+  - Moon #0 (d dusty, craterized)
+- AUTUMN (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- EPHESTUS (^ unstable)
+- STARDUST (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+  - HELGHAN (^ unstable)
+- Planet #8 (r rocky, creased)
+- VERTIA (k thick atmosphere)
+  - TIDUSIA (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

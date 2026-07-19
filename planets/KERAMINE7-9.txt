@@ -1,0 +1,6 @@
+Planet: KERAMINE7-9
+Starmap index: 27
+Paris coordinates: -36432, -1290440, 1061497
+
+Guide entries:
+MEDIUM, THICK ATMOSPHERE. COMPLETE CLOUD COVER.

@@ -1,0 +1,3 @@
+Planet: FLAMING STUFFING
+Starmap index: 02
+Paris coordinates: 2446064, 4329519, -551480

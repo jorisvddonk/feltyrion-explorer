@@ -1,0 +1,3 @@
+Planet: ANCIENT CLOUD
+Starmap index: 01
+Paris coordinates: -1406454352, 14465, 1421845137

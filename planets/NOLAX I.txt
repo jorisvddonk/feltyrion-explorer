@@ -1,0 +1,6 @@
+Planet: NOLAX I
+Starmap index: 03
+Paris coordinates: 805360, -1114399, -1330089
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.344

@@ -1,0 +1,7 @@
+Star: SENGIR
+Star class: S10
+Paris coordinates: 3390704, 4278474, -1003565
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)

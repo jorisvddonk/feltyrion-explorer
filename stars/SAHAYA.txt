@@ -1,0 +1,10 @@
+Star: SAHAYA
+Star class: S06
+Paris coordinates: 3677136, 5323457, -1848970
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOUR LOCAL S06 STAR, GREAT IF YOU'RE LOW ON LITHIUM ETC.
+(NAMED AND DISCOVERED BY N5CORP ON 6011:624.752)

@@ -1,0 +1,16 @@
+Star: TRIGUN
+Star class: S08
+Paris coordinates: -232656, 4223940, 36079181
+Bodies: 6 (2 planets, 4 moons)
+
+System:
+- TRIGUN B (* companion star)
+  - GRETEA (r rocky, creased)
+  - HOEEN (k thick atmosphere)
+- TRIGUN C (* companion star)
+  - MOLTENMA (^ unstable)
+  - SUB (+ substellar object)
+
+Guide entries:
+TRINARY SYSTEM, COMPRISED OF 3 ORANGE STARS. 4 MOONS.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:628:276

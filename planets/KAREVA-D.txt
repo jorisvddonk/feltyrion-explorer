@@ -1,0 +1,3 @@
+Planet: KAREVA-D
+Starmap index: 04
+Paris coordinates: 4072528, -279706, -10247530

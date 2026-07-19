@@ -1,0 +1,3 @@
+Planet: CRATERROCK
+Starmap index: 16
+Paris coordinates: 4173200, 4174602, -869194

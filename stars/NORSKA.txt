@@ -1,0 +1,24 @@
+Star: NORSKA
+Star class: S00
+Paris coordinates: 14757456, 8159489, -4721068
+Bodies: 18 (9 planets, 9 moons)
+
+System:
+- VANIR (@ large, not consistent)
+- AESIR (k thick atmosphere)
+- LOKILIE (d dusty, craterized)
+- HOELLE (k thick atmosphere)
+  - BLOD (d dusty, craterized)
+  - BLUT (d dusty, craterized)
+- RATATORSK (@ large, not consistent)
+  - ANGRBODA (r rocky, creased)
+- HIMMEL (q quartz surface)
+  - LYS (^ unstable)
+  - SMAART (d dusty, craterized)
+  - MORD (d dusty, craterized)
+- RAGNAROEK (d dusty, craterized)
+  - FUFNIR (n thin atmosphere)
+- DYCK (r rocky, creased)
+- ROED (q quartz surface)
+  - Moon #0 (i icy surface)
+  - WEIT (d dusty, craterized)

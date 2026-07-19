@@ -1,0 +1,3 @@
+Planet: ROK
+Starmap index: 25
+Paris coordinates: 670352, 437173, 502845

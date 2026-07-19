@@ -1,0 +1,3 @@
+Planet: AQUAMARINE
+Starmap index: 17
+Paris coordinates: 3966416, 4366334, -852728

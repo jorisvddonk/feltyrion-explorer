@@ -1,0 +1,10 @@
+Star: GROAK
+Star class: S06
+Paris coordinates: 4373200, 4747211, -850301
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: DISCOVERED BY UNKNOW STARDRIFTER. LITHIUM HERE.
+SKINNYMON EPOC 6011 569.511

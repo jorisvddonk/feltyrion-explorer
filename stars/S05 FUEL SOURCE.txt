@@ -1,0 +1,6 @@
+Star: S05 FUEL SOURCE
+Star class: S05
+Paris coordinates: 4900336, 4448666, 65701
+Bodies: 0 (0 planets, 0 moons)
+
+System:

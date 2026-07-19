@@ -1,0 +1,3 @@
+Planet: ASKEW 2A
+Starmap index: 01
+Paris coordinates: 3101424, 5244598, -1989427

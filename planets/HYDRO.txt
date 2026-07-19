@@ -1,0 +1,3 @@
+Planet: HYDRO
+Starmap index: 08
+Paris coordinates: -2582832, -6847123, -3094735

@@ -1,0 +1,6 @@
+Star: GEFFAR
+Star class: S00
+Paris coordinates: 3956784, 6835716, -3367723
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: PROTUS
+Star class: S10
+Paris coordinates: 1329648, 3832069, -2374152
+Bodies: 0 (0 planets, 0 moons)
+
+System:

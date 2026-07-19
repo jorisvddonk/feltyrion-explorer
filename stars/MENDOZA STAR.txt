@@ -1,0 +1,6 @@
+Star: MENDOZA STAR
+Star class: S06
+Paris coordinates: 56784, 249130, 513660
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: SU 12
+Star class: S06
+Paris coordinates: -100235280, -44972849, 591287
+Bodies: 0 (0 planets, 0 moons)
+
+System:

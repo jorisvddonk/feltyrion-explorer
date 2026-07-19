@@ -1,0 +1,3 @@
+Planet: ZAER 5
+Starmap index: 05
+Paris coordinates: 1301754800, 1878378, 54869474

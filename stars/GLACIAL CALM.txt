@@ -1,0 +1,11 @@
+Star: GLACIAL CALM
+Star class: S01
+Paris coordinates: 4135344, 4644104, -936740
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A BLUE GIANT. (DISCOVERED BY GERAINT EPOC 6001)                             
+THE STARS SURFACE PULSES ONCE EVERY THREE SECONDS.                          
+SYSTEM IS OTHERWISE DEVOID OF LIFE (GERAINT EPOC 6011)                      

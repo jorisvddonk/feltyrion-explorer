@@ -1,0 +1,3 @@
+Planet: WTPLANETC/OLIFE
+Starmap index: 06
+Paris coordinates: 1697488, 7636254, 1076365

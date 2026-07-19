@@ -1,0 +1,9 @@
+Star: FUEL TANGO
+Star class: S06
+Paris coordinates: -230413520, -1378694, 54760387
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.574.448

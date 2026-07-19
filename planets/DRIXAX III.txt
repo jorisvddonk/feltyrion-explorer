@@ -1,0 +1,8 @@
+Planet: DRIXAX III
+Starmap index: 16
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.529.622                              
+MOON IS STILL DEVELOPING, IN COOLDOWN STATE.                                
+(NEURONWAKE 6011 802.529.740)                                               

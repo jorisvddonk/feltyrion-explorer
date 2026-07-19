@@ -1,0 +1,6 @@
+Star: USHA
+Star class: S06
+Paris coordinates: -1242128, -15161706, -2002414
+Bodies: 0 (0 planets, 0 moons)
+
+System:

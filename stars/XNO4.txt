@@ -1,0 +1,9 @@
+Star: XNO4
+Star class: S06
+Paris coordinates: 4166416, 4303058, -1074192
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOT A DROP OF LITHIUM HERE.

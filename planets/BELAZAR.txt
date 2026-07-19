@@ -1,0 +1,6 @@
+Planet: BELAZAR
+Starmap index: 27
+Paris coordinates: 11331664, -19103394, 16761200
+
+Guide entries:
+FOUND EPOC 6011 586.179.850 BY ROLAND ASKEW

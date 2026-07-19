@@ -1,0 +1,10 @@
+Star: SHIMA
+Star class: S00
+Paris coordinates: 2152848, 2023860, -131715
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FOUND BY NORDWALL EPOC 572.577.835
+THIS STAR HAS NO PLANETS.

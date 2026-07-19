@@ -1,0 +1,23 @@
+Star: FAL ESTADALIDE
+Star class: S00
+Paris coordinates: 2054927472, 1424347, -408821
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- OPLEJA (r rocky, creased)
+- JARHUDI (k thick atmosphere)
+- HAPSIJA (d dusty, craterized)
+  - FHIJILI (d dusty, craterized)
+- PULVERULENTUS (f felisian)
+  - ACANU (d dusty, craterized)
+  - IKTONO (n thin atmosphere)
+  - YAMVAL (d dusty, craterized)
+- AKTAJE (d dusty, craterized)
+- USVASE (d dusty, craterized)
+  - OCTUJI (d dusty, craterized)
+- OJVALI (d dusty, craterized)
+
+Guide entries:
+ S00 STAR WITH 7 PLANETS 5 MOONS, ONE FELISIAN WORLD.                       
+1.71924269 BAL. M. TEMP 7795 K RAD 16KR COOR 2054927472;                    
+1424347; -408821 SKINNYMON 6011 795.901                                     

@@ -1,0 +1,3 @@
+Planet: MOTHRAY
+Starmap index: 04
+Paris coordinates: -663568, -208988, 6842

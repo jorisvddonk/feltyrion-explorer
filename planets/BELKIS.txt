@@ -1,0 +1,3 @@
+Planet: BELKIS
+Starmap index: 04
+Paris coordinates: -487856, 526426, 372277

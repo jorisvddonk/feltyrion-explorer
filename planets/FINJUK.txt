@@ -1,0 +1,3 @@
+Planet: FINJUK
+Starmap index: 12
+Paris coordinates: 3666416, 4676784, -623993

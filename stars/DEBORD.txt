@@ -1,0 +1,9 @@
+Star: DEBORD
+Star class: S10
+Paris coordinates: 4442128, 4448589, -937788
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.270

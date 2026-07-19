@@ -1,0 +1,11 @@
+Star: IKANA
+Star class: S00
+Paris coordinates: 652848, -5103, 1376576
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- IALA (r rocky, creased)
+
+Guide entries:
+ S00-TYPE STAR WITH ONLY ONE PLANET - UNHABITABLE.
+ ALBOREN, EPOC 6011

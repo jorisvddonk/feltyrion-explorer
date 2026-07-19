@@ -1,0 +1,3 @@
+Planet: JELLY-I
+Starmap index: 01
+Paris coordinates: -61877232, 29332744, 538440

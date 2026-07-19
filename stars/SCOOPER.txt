@@ -1,0 +1,6 @@
+Star: SCOOPER
+Star class: S06
+Paris coordinates: 1752848, 5060015, 491945
+Bodies: 0 (0 planets, 0 moons)
+
+System:

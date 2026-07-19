@@ -1,0 +1,3 @@
+Planet: WAYNESFRECKLEDPLANET
+Starmap index: 05
+Paris coordinates: -33046576, 5075331, -15095044

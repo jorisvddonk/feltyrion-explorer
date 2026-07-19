@@ -1,0 +1,7 @@
+Planet: KROTHIL
+Starmap index: 13
+Paris coordinates: 2140364592, -691520, 1231760
+
+Guide entries:
+M01/P07 SMALL SOLID DUSTY, MANY LARGE CRATERS, GREY REFLECTIVITY. PRO       
+0.202.680 PRV 0.001.422.294 SKINNYMON 6011 791.564                          

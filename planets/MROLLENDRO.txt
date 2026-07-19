@@ -1,0 +1,3 @@
+Planet: MROLLENDRO
+Starmap index: 19
+Paris coordinates: -39147824, 1444615, 31691197

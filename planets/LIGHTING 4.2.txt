@@ -1,0 +1,6 @@
+Planet: LIGHTING 4.2
+Starmap index: 11
+Paris coordinates: 36432, 33110, -633205
+
+Guide entries:
+SMALL, CRATERIZED... VEEERY TYPICAL. SERPENS, 6011 665.369

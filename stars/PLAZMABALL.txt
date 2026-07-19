@@ -1,0 +1,28 @@
+Star: PLAZMABALL
+Star class: S00
+Paris coordinates: -106715600, 25121868, -1371160
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- ARKARRIS ETA (q quartz surface)
+- BUMPEE (d dusty, craterized)
+- JAWBREAKER V (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- SUTARN (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (f felisian)
+  - Moon #8 (^ unstable)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (f felisian)
+  - Moon #12 (n thin atmosphere)
+- ARKARRIS THETA (q quartz surface)
+- KLOZET (d dusty, craterized)
+  - Moon #0 (^ unstable)

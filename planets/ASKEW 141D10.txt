@@ -1,0 +1,3 @@
+Planet: ASKEW 141D10
+Starmap index: 19
+Paris coordinates: 9880240, -17876553, 17045541

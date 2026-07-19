@@ -1,0 +1,8 @@
+Planet: JEWEL OF DECEIT
+Starmap index: 12
+Paris coordinates: 2501424, 4364880, -1388893
+
+Guide entries:
+MOON DISCOVERED BY SEB PAT EPOC 6011:683.565                                
+IF YOU PLAN ON EXPLORING THIS MOON, DON'T LAND IN A DARK SPOT.              
+'(NOTE BY SEB PAT EPOC 6011:683.565)'                                       

@@ -1,0 +1,32 @@
+Star: YASMER
+Star class: S00
+Paris coordinates: 378224, 1252914, -2610252
+Bodies: 26 (5 planets, 21 moons)
+
+System:
+- YASMER I (d dusty, craterized)
+- YASMER II (n thin atmosphere)
+- YASMER III (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (d dusty, craterized)
+- YASMER IV (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (k thick atmosphere)
+- YASMER V (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)

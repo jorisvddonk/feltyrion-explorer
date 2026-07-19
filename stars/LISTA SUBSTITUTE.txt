@@ -1,0 +1,11 @@
+Star: LISTA SUBSTITUTE
+Star class: S06
+Paris coordinates: 2029206864, 2422628, 921908
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S06 LITHIM FILLERUPSKI. 2.56871343 BAL. M. TEMP 310 K                 
+LI+ 25 MTPD COOR 2029206864242868;921908; SKINNYMON 6011                    
+797.180                                                                     

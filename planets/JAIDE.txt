@@ -1,0 +1,6 @@
+Planet: JAIDE
+Starmap index: 04
+Paris coordinates: -439280, 76652, -903531
+
+Guide entries:
+ DISCOVERED BY SEPHORIS ON EPOC 6011:682.497                                

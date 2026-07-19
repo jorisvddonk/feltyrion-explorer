@@ -1,0 +1,3 @@
+Planet: MO6-4812 1
+Starmap index: 02
+Paris coordinates: -39141040, 1343825, 32123584

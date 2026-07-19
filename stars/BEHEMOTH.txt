@@ -1,0 +1,15 @@
+Star: BEHEMOTH
+Star class: S02
+Paris coordinates: 2156784, 4346165, -1616885
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+
+Guide entries:
+HUGE WHITE STAR.
+EXTREMELY HIGH RADIATION LEVELS
+FOUND BY P. PIHLAJANIEMI EPOC 6011.572.650.230
+ CONTAINS 3 PLANETS WITH NO INTREST

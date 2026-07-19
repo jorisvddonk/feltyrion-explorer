@@ -1,0 +1,17 @@
+Star: RUBUHRLIS
+Star class: S03
+Paris coordinates: 634154160, -11058310, 50011242
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- ERTHULIJ (+ substellar object)
+- SOLABESIS (@ large, not consistent)
+- PURLIJIEL (@ large, not consistent)
+  - MESED (n thin atmosphere)
+  - COMDIAT (n thin atmosphere)
+  - MELEANIJ (q quartz surface)
+
+Guide entries:
+A CLASS S03 SYSTEM WITH 3 PLANETS, 3 MOONS, NO FELISIAN WORLDS.             
+6.42354679 BAL. M.; TEMP 5673 K; RAD 1.6 KR; COOR 634154160;                
+-11058310;50011242 SKINNYMON 6011 893.118                                   

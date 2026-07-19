@@ -1,0 +1,3 @@
+Planet: TANKWORLD8-05
+Starmap index: 05
+Paris coordinates: 6713904, 7537506, -983514

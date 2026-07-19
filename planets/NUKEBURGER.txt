@@ -1,0 +1,3 @@
+Planet: NUKEBURGER
+Starmap index: 03
+Paris coordinates: -105939888, 25925472, -1497120

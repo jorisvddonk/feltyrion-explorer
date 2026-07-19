@@ -1,0 +1,13 @@
+Star: JRISESJARS
+Star class: S00
+Paris coordinates: 2101052272, -1953876, -623076
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASAINYCE (k thick atmosphere)
+- INIUITIDY (@ large, not consistent)
+
+Guide entries:
+S00 SYSTEM OF 2 RINGED PLANETS, NOT FELISIAN, NO MOONS. 1.67925525          
+BAL. M. TEMP 7678 K RAD 17KR COOR 2101052272; -1953876; -623076             
+SKINNYMON 6011 793.281                                                      

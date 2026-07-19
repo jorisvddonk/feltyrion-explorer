@@ -1,0 +1,6 @@
+Planet: VLUPLA 4
+Starmap index: 04
+Paris coordinates: 1239280, 1087133, 251512
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.996.450)

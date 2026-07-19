@@ -1,0 +1,6 @@
+Star: FGS LORENA
+Star class: S09
+Paris coordinates: 1411850000, 50000, -1411950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,10 @@
+Star: TRAGLOSS
+Star class: S06
+Paris coordinates: 2000409968, 1469820, 55033164
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.080
+REFUELED HERE ON MY WAY TO THE OUTER RIM - DODO C. SNOTTS

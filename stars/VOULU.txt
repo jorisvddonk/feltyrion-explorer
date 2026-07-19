@@ -1,0 +1,10 @@
+Star: VOULU
+Star class: S10
+Paris coordinates: -225712, 1125558, -268129
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ANOTHER RUN AWAY STAR, NOT MUCH ELSE TO NOTE UPON.
+(DISCOVERED AND NOTED UPON BY N5CORP ON 6011:617.816)

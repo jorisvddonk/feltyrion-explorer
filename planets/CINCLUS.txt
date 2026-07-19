@@ -1,0 +1,3 @@
+Planet: CINCLUS
+Starmap index: 08
+Paris coordinates: -61921872, 30034719, 15299

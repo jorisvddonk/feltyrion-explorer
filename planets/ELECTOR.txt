@@ -1,0 +1,6 @@
+Planet: ELECTOR
+Starmap index: 02
+Paris coordinates: 670352, 437173, 502845
+
+Guide entries:
+ SWEET.

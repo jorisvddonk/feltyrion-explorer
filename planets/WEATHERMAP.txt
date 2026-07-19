@@ -1,0 +1,3 @@
+Planet: WEATHERMAP
+Starmap index: 03
+Paris coordinates: -12144, 272689, 285737

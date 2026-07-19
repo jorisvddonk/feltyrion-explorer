@@ -1,0 +1,10 @@
+Star: FUEL 30
+Star class: S06
+Paris coordinates: -618928, -27326, 579909
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.431
+WELL.. NOBODY IS PERFECT...

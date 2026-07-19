@@ -1,0 +1,8 @@
+Star: LIGHTHOUSE
+Star class: S04
+Paris coordinates: 3904272, 4365172, -679394
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SHARD (d dusty, craterized)
+- MORNING HAZE (q quartz surface)

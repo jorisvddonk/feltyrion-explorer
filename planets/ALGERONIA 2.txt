@@ -1,0 +1,3 @@
+Planet: ALGERONIA 2
+Starmap index: 02
+Paris coordinates: 3781072, 5219529, -3829061

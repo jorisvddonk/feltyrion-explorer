@@ -1,0 +1,3 @@
+Planet: POMPEY
+Starmap index: 07
+Paris coordinates: -290704, 762293, -1939788

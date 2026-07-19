@@ -1,0 +1,9 @@
+Star: POSTER
+Star class: S02
+Paris coordinates: 735344, 5093662, 2409548
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+INTRUDER 6011:573.396.80

@@ -1,0 +1,9 @@
+Star: Y'RIMA
+Star class: S02
+Paris coordinates: 2964656, 8228519, -5939938
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 605.660(HAS NO PLANETS)

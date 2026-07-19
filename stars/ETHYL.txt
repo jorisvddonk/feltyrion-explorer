@@ -1,0 +1,6 @@
+Star: ETHYL
+Star class: S06
+Paris coordinates: 4852848, 4423564, -2774764
+Bodies: 0 (0 planets, 0 moons)
+
+System:

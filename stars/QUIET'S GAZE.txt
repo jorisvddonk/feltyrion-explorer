@@ -1,0 +1,19 @@
+Star: QUIET'S GAZE
+Star class: S08
+Paris coordinates: 3659632, 4427550, -1201496
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- QUIET'S DARLING (* companion star)
+- QUIET'S REFUGE (k thick atmosphere)
+- QUIET'S ENVY (* companion star)
+  - QUIET'S REVENGE (d dusty, craterized)
+  - QUIET'S SECRET (d dusty, craterized)
+
+Guide entries:
+DISCOVERD BY RYLIE THOMAS, EPOC 611:727.146.300                             
+SYSTEM INCLUDES A TOTAL OF 6 BODIES: INCLUDING 2 SUNS                       
+INVESTIGATION COMPLETE (EPOC 6011:727,148,716) 2 SUNS, 2 MOONS              
+AND ONE ATMOSHPERIC PLANET                                                  
+AS THE NAME IMPLIES, A QUAD-STAR SYSTEM.                                    
+NAMED AND DISCOVERED BY RYAN GJK EPOC 6011.777.936                          

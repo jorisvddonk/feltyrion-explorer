@@ -1,0 +1,11 @@
+Star: JRI KIREL
+Star class: S08
+Paris coordinates: 635098800, -10560559, 49774637
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ SUPPOSED TO BE S08 BUT NO BODIES. 1.05068445 BAL. M.; TEMP 3973K;          
+RAD 24.4 KR; COOR 635098800; -10560559; 49774637 SKINNYMON                  
+6011.916.860                                                                

@@ -1,0 +1,6 @@
+Star: HIGHWAY 20
+Star class: S05
+Paris coordinates: -16035760, -4901421, 26452686
+Bodies: 0 (0 planets, 0 moons)
+
+System:

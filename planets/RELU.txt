@@ -1,0 +1,3 @@
+Planet: RELU
+Starmap index: 06
+Paris coordinates: 1314992, -28085909, 665371

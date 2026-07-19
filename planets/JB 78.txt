@@ -1,0 +1,3 @@
+Planet: JB 78
+Starmap index: 04
+Paris coordinates: -61439376, 29916264, 239760

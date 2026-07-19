@@ -1,0 +1,9 @@
+Star: SHC-4
+Star class: S06
+Paris coordinates: -26176592, -15711387, -1001157227
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOU CANNOT SCOPE THIS STAR. (SHADOWCLAW 6011:600.893)

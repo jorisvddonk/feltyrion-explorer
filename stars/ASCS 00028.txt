@@ -1,0 +1,7 @@
+Star: ASCS 00028
+Star class: S00
+Paris coordinates: -118928, 36846, -9517
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)

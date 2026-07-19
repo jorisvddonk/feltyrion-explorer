@@ -1,0 +1,22 @@
+Star: RENIET
+Star class: S00
+Paris coordinates: -1418337904, -1953670, -1274313078
+Bodies: 12 (8 planets, 4 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- SEVAATSUT (f felisian)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (i icy surface)
+
+Guide entries:
+S00; 8 PLANETS, 4 MINORS
+DISCOVERED BY SYFEN (6011:604.529)

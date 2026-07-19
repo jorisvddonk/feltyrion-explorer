@@ -1,0 +1,3 @@
+Planet: ANAXIMANDER
+Starmap index: 14
+Paris coordinates: 3708208, 4049889, -2205765

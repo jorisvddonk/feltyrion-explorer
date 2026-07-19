@@ -1,0 +1,6 @@
+Planet: XALSA VA
+Starmap index: 15
+Paris coordinates: 3036016, -12924584, 9835578
+
+Guide entries:
+FOUND EPOC 6011 589.562.950 BY ROLAND ASKEW

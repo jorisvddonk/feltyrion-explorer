@@ -1,0 +1,3 @@
+Planet: HYACINTA IV
+Starmap index: 04
+Paris coordinates: 778224, 1277695, -2953247

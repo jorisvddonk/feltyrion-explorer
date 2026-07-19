@@ -1,0 +1,10 @@
+Star: NULIOR
+Star class: S06
+Paris coordinates: 250352240, 1487086, 54951077
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS:6014:789.399
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

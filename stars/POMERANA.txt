@@ -1,0 +1,19 @@
+Star: POMERANA
+Star class: S00
+Paris coordinates: 3751088, 5827367, -7611043
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- POMERANA I (d dusty, craterized)
+- POMERANA II (k thick atmosphere)
+- POMERANA III (q quartz surface)
+  - POMERANA III-A (^ unstable)
+- POMERANA IV (r rocky, creased)
+- POMERANA V (r rocky, creased)
+  - POMERANA V-A (n thin atmosphere)
+  - POMERANA V-B (d dusty, craterized)
+- POMERANA VI (d dusty, craterized)
+- POMERANA VII (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.627 -                                

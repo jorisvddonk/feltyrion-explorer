@@ -1,0 +1,3 @@
+Planet: EARLDIN
+Starmap index: 54
+Paris coordinates: 4276048, 2046733, 1291565

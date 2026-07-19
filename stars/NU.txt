@@ -1,0 +1,30 @@
+Star: NU
+Star class: S00
+Paris coordinates: -414992, 1138211, -1321849
+Bodies: 18 (8 planets, 10 moons)
+
+System:
+- NU NAMIL (+ substellar object)
+- Planet #1 (q quartz surface)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- NU SANIT (f felisian)
+- Planet #7 (i icy surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+NU IS A YELLOW STAR WITH A GOOD NUMBER OF PLANETS AND MANY MOONS. A UNIQUE
+FEATURE IS THAT IT APPEARS TO BE DEVELOPING A SISTER STAR... THE FIRST
+PLANET BEING A LARGE, BRIGHT NON-CONSISTANT BODY THAT LOOKS LIKE A SECOND
+STAR. (ATO EPOC 6011.610.936.185)

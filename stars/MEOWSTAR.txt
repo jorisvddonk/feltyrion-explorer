@@ -1,0 +1,11 @@
+Star: MEOWSTAR
+Star class: S05
+Paris coordinates: 3728560, 4316425, -919982
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)

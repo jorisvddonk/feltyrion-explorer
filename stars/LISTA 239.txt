@@ -1,0 +1,13 @@
+Star: LISTA 239
+Star class: S05
+Paris coordinates: 1450269392, -1918525, -50141
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- ASALKH (n thin atmosphere)
+- ASKHA (n thin atmosphere)
+- LIFH (@ large, not consistent)
+
+Guide entries:
+CLASS S05 STAR WITH 3 PLANETS. HAS LITHIUM. SKINNYMON EPOC 6011
+622.297

@@ -1,0 +1,3 @@
+Planet: CEZZIAN
+Starmap index: 05
+Paris coordinates: 3463568, 5096107, -2664694

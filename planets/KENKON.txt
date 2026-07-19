@@ -1,0 +1,3 @@
+Planet: KENKON
+Starmap index: 03
+Paris coordinates: -107404880, 24973547, -1984549

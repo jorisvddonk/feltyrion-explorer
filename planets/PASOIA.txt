@@ -1,0 +1,6 @@
+Planet: PASOIA
+Starmap index: 05
+Paris coordinates: -72010640, -1390290, 54985678
+
+Guide entries:
+CATALOGUED 6011.564.852.810 BY JEREMY HUSSELL.

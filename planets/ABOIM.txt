@@ -1,0 +1,6 @@
+Planet: ABOIM
+Starmap index: 01
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 114.82 - 1.2G 65C 36A - (BY NBOAR 6011 588.342)

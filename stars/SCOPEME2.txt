@@ -1,0 +1,6 @@
+Star: SCOPEME2
+Star class: S06
+Paris coordinates: 335344, 922622, 2777488
+Bodies: 0 (0 planets, 0 moons)
+
+System:

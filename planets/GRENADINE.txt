@@ -1,0 +1,7 @@
+Planet: GRENADINE
+Starmap index: 02
+Paris coordinates: 112144, 40438, -249045
+
+Guide entries:
+SMALL, ROCKY, HAS POLAR ICE CAPS AND A THIN ATMOSPHERE.
+(SCHMERM 6011 582.509)

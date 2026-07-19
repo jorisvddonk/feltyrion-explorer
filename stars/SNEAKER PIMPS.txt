@@ -1,0 +1,16 @@
+Star: SNEAKER PIMPS
+Star class: S00
+Paris coordinates: 4055696, 4146452, 352242
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- TESKO SUICIDE (k thick atmosphere)
+- 6 UNDERGROUND (k thick atmosphere)
+- SPIN SPIN SUGAR (k thick atmosphere)
+  - LUCIANO (^ unstable)
+  - VISAGE (d dusty, craterized)
+- POST MODERN SLEEZE (f felisian)
+- LOW FIVE (n thin atmosphere)
+
+Guide entries:
+CLASS 0 PLANET, DISCOVERED BY RCLEAR 6011:598.24

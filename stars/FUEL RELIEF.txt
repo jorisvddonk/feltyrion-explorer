@@ -1,0 +1,10 @@
+Star: FUEL RELIEF
+Star class: S06
+Paris coordinates: -21238192, -85970, 16121273
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AT LONG LAST, AN S06 WITH LITHIUM!                                          
+DISCOVERED BY ELHAM EPOC 722.985.44X.                                       

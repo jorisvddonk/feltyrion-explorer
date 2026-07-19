@@ -1,0 +1,6 @@
+Star: NIL
+Star class: S06
+Paris coordinates: 4273200, 4848925, -989052
+Bodies: 0 (0 planets, 0 moons)
+
+System:

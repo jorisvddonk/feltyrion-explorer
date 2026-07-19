@@ -1,0 +1,6 @@
+Planet: DASRY2
+Starmap index: 02
+Paris coordinates: 917840, -2069638, 3110664
+
+Guide entries:
+MEDIUM, THICK ATMOSPHERE WITH RING SYSTEM.

@@ -1,0 +1,3 @@
+Planet: LUCY-3
+Starmap index: 03
+Paris coordinates: -946064, -156848, -609785

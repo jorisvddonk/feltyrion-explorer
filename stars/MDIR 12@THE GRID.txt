@@ -1,0 +1,6 @@
+Star: MDIR 12@THE GRID
+Star class: S06
+Paris coordinates: 1150000, 27550000, -1250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: SILVIANA
+Starmap index: 02
+Paris coordinates: 2259632, 4341005, 236873

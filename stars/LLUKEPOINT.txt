@@ -1,0 +1,9 @@
+Star: LLUKEPOINT
+Star class: S00
+Paris coordinates: -129648, 35701, 1371216
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED EPOC 6011:565.837.370 BY FRANCOIS WISARD. NO PLANET

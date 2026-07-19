@@ -1,0 +1,3 @@
+Planet: KARUBY-J
+Starmap index: 10
+Paris coordinates: 264656, 434473, -3302103

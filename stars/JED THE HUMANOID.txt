@@ -1,0 +1,26 @@
+Star: JED THE HUMANOID
+Star class: S01
+Paris coordinates: 3821776, 4829682, -1482257
+Bodies: 20 (4 planets, 16 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- ORB (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (^ unstable)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (q quartz surface)

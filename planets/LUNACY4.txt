@@ -1,0 +1,3 @@
+Planet: LUNACY4
+Starmap index: 33
+Paris coordinates: 3055696, 4879869, 1258058

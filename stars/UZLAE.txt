@@ -1,0 +1,29 @@
+Star: UZLAE
+Star class: S03
+Paris coordinates: 5873200, 4131687, -2403194
+Bodies: 20 (7 planets, 13 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- OZAITE (q quartz surface)
+- FLARVIS (r rocky, creased)
+- XIRIRI (d dusty, craterized)
+  - ZACRIRI (n thin atmosphere)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+- Planet #6 (^ unstable)
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.847)

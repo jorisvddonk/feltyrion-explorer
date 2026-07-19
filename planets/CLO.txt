@@ -1,0 +1,6 @@
+Planet: CLO
+Starmap index: 01
+Paris coordinates: 1032496, 1105728, -4557
+
+Guide entries:
+ORBITS CLOSE TO STAR,HIGH RAIDIATION.POKECAT(EP6011.996.535)

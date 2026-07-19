@@ -1,0 +1,9 @@
+Star: SPUR 8
+Star class: S06
+Paris coordinates: -17244560, 9444932, -1611295
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

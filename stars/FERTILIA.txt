@@ -1,0 +1,25 @@
+Star: FERTILIA
+Star class: S00
+Paris coordinates: 4193552, 1728711, 281299
+Bodies: 19 (9 planets, 10 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- THE GLOW (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #7 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

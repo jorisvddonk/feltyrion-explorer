@@ -1,0 +1,6 @@
+Planet: DELARIO
+Starmap index: 03
+Paris coordinates: 3290704, 5637570, -892839
+
+Guide entries:
+SMALL SOLID DUSTY WITH NO ATMOSPHERE (KRUSTY 6011:596.546)

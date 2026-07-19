@@ -1,0 +1,3 @@
+Planet: ROUGHLY
+Starmap index: 22
+Paris coordinates: 2568176, 4269415, 6430277

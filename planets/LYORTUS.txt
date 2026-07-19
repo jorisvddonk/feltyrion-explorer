@@ -1,0 +1,3 @@
+Planet: LYORTUS
+Starmap index: 01
+Paris coordinates: 718928, 940751, -542586

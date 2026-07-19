@@ -1,0 +1,6 @@
+Planet: ORPHALIS
+Starmap index: 02
+Paris coordinates: 3066416, 5164474, -234173
+
+Guide entries:
+DISCOVRED BY MRUQE; EPOV 6011-570.591

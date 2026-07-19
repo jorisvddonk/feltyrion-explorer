@@ -1,0 +1,28 @@
+Star: TWIBIL
+Star class: S08
+Paris coordinates: 23046832, 8324243, 48448356
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (^ unstable)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (@ large, not consistent)
+  - DEBORIL (f felisian)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (q quartz surface)
+  - Moon #13 (^ unstable)
+  - RENGLE (f felisian)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)

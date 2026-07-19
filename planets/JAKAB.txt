@@ -1,0 +1,3 @@
+Planet: JAKAB
+Starmap index: 06
+Paris coordinates: 2721776, -23948225, -404417

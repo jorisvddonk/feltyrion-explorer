@@ -1,0 +1,3 @@
+Planet: MAYIS 04
+Starmap index: 04
+Paris coordinates: -3251760, -55767, -2466093

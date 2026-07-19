@@ -1,0 +1,6 @@
+Star: AISHE
+Star class: S05
+Paris coordinates: -201424, 128450, -729400
+Bodies: 0 (0 planets, 0 moons)
+
+System:

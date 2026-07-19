@@ -1,0 +1,11 @@
+Star: AS12240035
+Star class: S08
+Paris coordinates: -749744, 5604404, 24103110
+Bodies: 5 (2 planets, 3 moons)
+
+System:
+- AS12240035A (* companion star)
+  - AS12240035A1 (k thick atmosphere)
+- AS12240035B (* companion star)
+  - FYTHARI (f felisian)
+  - AS12240035B2 (d dusty, craterized)

@@ -1,0 +1,3 @@
+Planet: LUNOR
+Starmap index: 06
+Paris coordinates: -1342128, 7759850, -2085923

@@ -1,0 +1,6 @@
+Star: MONOS
+Star class: S00
+Paris coordinates: 7185680, 6632847, 735708
+Bodies: 0 (0 planets, 0 moons)
+
+System:

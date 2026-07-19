@@ -1,0 +1,3 @@
+Planet: TRANGOVE
+Starmap index: 02
+Paris coordinates: 5876048, 4961068, -246579

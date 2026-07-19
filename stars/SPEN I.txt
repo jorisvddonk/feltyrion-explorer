@@ -1,0 +1,10 @@
+Star: SPEN I
+Star class: S10
+Paris coordinates: 26653616, 6592630, 45050465
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 STAR OF LITTLE NOTE. NOTHING HERE.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:264

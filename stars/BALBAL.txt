@@ -1,0 +1,6 @@
+Star: BALBAL
+Star class: S08
+Paris coordinates: 9250000, 50000, -9350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: HIGHWAY 44
+Star class: S05
+Paris coordinates: -7526800, -2778185, 10981963
+Bodies: 0 (0 planets, 0 moons)
+
+System:

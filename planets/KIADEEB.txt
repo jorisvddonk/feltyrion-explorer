@@ -1,0 +1,3 @@
+Planet: KIADEEB
+Starmap index: 04
+Paris coordinates: 4700336, 5332862, 183252

@@ -1,0 +1,8 @@
+Planet: HARBOUR
+Starmap index: 05
+Paris coordinates: 46087568, 13128339, -635122313
+
+Guide entries:
+(EXPLORED BY NEV, 6011:812.81)                                              
+THE ONLY FELISIAN WORLD IN THE SYSTEM. IT HAS TWO DUSTY, CRATERIZED         
+MOONS, AND A BEUTIFUL BLUE AND YELLOW RING STRUCTURE.                       

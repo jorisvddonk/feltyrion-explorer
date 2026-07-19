@@ -1,0 +1,3 @@
+Planet: BOBTAR
+Starmap index: 05
+Paris coordinates: 877136, 1820469, 925219

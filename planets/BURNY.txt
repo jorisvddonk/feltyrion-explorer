@@ -1,0 +1,3 @@
+Planet: BURNY
+Starmap index: 09
+Paris coordinates: 2821776, 4685513, -444062

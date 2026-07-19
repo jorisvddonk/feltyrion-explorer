@@ -1,0 +1,8 @@
+Planet: ASUVIK
+Starmap index: 10
+Paris coordinates: 2060873872, -1780546, 127470
+
+Guide entries:
+M01/P05 SMALL SOLID DUSTY VERY LARGE RAYED CRATERS ON A REFLECTIVE          
+GREEN SURFACE. PRO 0.081.720 PRV 0.001.457.688                              
+SKINNYMON 6011 796.49                                                       

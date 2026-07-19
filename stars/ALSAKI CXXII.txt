@@ -1,0 +1,7 @@
+Star: ALSAKI CXXII
+Star class: S07
+Paris coordinates: 14596400, 32246674, -7919530
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)

@@ -1,0 +1,3 @@
+Planet: SHC-3 8
+Starmap index: 08
+Paris coordinates: -27248368, -15847229, -1002309845

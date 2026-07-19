@@ -1,0 +1,6 @@
+Planet: LORN
+Starmap index: 50
+Paris coordinates: -890704, 333652, -1384376
+
+Guide entries:
+ THIS MOON IS INHABITED

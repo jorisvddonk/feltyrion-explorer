@@ -1,0 +1,9 @@
+Star: CHARPRO
+Star class: S07
+Paris coordinates: 4052848, 5346901, -1793103
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 647.511 (NO PLANETS)

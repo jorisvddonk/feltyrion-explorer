@@ -1,0 +1,37 @@
+Star: RIO
+Star class: S03
+Paris coordinates: 652848, 5094897, 1459881
+Bodies: 28 (15 planets, 13 moons)
+
+System:
+- GEROSAT (d dusty, craterized)
+- KUATELAOR (n thin atmosphere)
+- POSTERIX (r rocky, creased)
+  - KOUN (d dusty, craterized)
+- LOTIOH (r rocky, creased)
+  - THIRD (d dusty, craterized)
+  - KRESON (d dusty, craterized)
+- KLOI (n thin atmosphere)
+  - KORSAT (d dusty, craterized)
+- DIFOSFAT (@ large, not consistent)
+  - MAGNEZIUM (k thick atmosphere)
+- LESLI (@ large, not consistent)
+  - JOE'S PLACE (q quartz surface)
+  - LOKI (d dusty, craterized)
+  - KOLAR (q quartz surface)
+  - MANGAL (n thin atmosphere)
+- TERRA (k thick atmosphere)
+- Planet #8 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (i icy surface)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #12 (n thin atmosphere)
+- Planet #13 (r rocky, creased)
+- Planet #14 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+INTRUDER 6011:573.392.677

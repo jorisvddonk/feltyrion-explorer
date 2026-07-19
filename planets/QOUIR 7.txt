@@ -1,0 +1,7 @@
+Planet: QOUIR 7
+Starmap index: 07
+Paris coordinates: 2108208, 1634064, -606358
+
+Guide entries:
+ THIS FAR-WORLD IS A LARGE GAS-GIANT, WITH SOME MOONS.
+(STARGAZER. EPOC 6011:596:898)

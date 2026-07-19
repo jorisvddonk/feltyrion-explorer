@@ -1,0 +1,6 @@
+Planet: SKYGEM VII A
+Starmap index: 51
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A CRATERED MOON. AMWHERE 6011.585.76

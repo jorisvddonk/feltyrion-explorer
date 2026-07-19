@@ -1,0 +1,19 @@
+Star: ASKEW 110
+Star class: S04
+Paris coordinates: 1764240, -12070066, 8872006
+Bodies: 13 (6 planets, 7 moons)
+
+System:
+- ASKEW 110A (^ unstable)
+- ASKEW 110B (d dusty, craterized)
+- ASKEW 110C (@ large, not consistent)
+  - ASKEW 110C1 (n thin atmosphere)
+  - ASKEW 110C2 (n thin atmosphere)
+  - ASKEW 110C3 (k thick atmosphere)
+  - ASKEW 110C4 (d dusty, craterized)
+  - ASKEW 110C5 (q quartz surface)
+  - ASKEW 110C6 (d dusty, craterized)
+- ASKEW 110D (@ large, not consistent)
+- ASKEW 110E (d dusty, craterized)
+  - ASKEW 110E1 (d dusty, craterized)
+- ASKEW 110F (d dusty, craterized)

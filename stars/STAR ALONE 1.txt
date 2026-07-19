@@ -1,0 +1,6 @@
+Star: STAR ALONE 1
+Star class: S00
+Paris coordinates: -243216, 9561959, 571290
+Bodies: 0 (0 planets, 0 moons)
+
+System:

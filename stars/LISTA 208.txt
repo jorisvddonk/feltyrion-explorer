@@ -1,0 +1,10 @@
+Star: LISTA 208
+Star class: S06
+Paris coordinates: 1140354672, -1808416, -36784
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. SKINNYMON EPOC 6011 622.50
+LITHIUM HERE. SKINNYMON EPOC 6011 623.775

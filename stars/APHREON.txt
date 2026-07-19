@@ -1,0 +1,19 @@
+Star: APHREON
+Star class: S08
+Paris coordinates: 11019600, 102584, -1066214
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- ZHYTHUD (k thick atmosphere)
+- PYMISH (d dusty, craterized)
+- YOLFAK (d dusty, craterized)
+- TASPES (d dusty, craterized)
+  - YULSAR (d dusty, craterized)
+- AWANATZ (k thick atmosphere)
+- EURMIS (r rocky, creased)
+  - OSPUG (^ unstable)
+  - RILLIAC (d dusty, craterized)
+
+Guide entries:
+A PEUDO-S08 CLASS STAR WITH NO COMPANION STARS, ONLY 6 PLANETS,
+3 MOONS, NO FELISIAN WORLDS. SKINNYMON EPOC 6011 602.782

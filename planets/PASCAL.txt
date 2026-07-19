@@ -1,0 +1,3 @@
+Planet: PASCAL
+Starmap index: 40
+Paris coordinates: 3708208, 4049889, -2205765

@@ -1,0 +1,6 @@
+Star: GREENLEE
+Star class: S11
+Paris coordinates: -350000, 9624921, 559660
+Bodies: 0 (0 planets, 0 moons)
+
+System:

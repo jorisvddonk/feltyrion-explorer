@@ -1,0 +1,7 @@
+Planet: RYNDYLOA
+Starmap index: 02
+Paris coordinates: 2030120432, -1469151, 789745
+
+Guide entries:
+P02/02 MEDIUM SIZED ROCKY, ROUGH, A FEW CRATERS, GREY COLOR. PRO            
+0.150.480 PRV 0.021.415.154 SKINNYMON 6011 797.196                          

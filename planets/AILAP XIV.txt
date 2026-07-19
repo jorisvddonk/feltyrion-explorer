@@ -1,0 +1,3 @@
+Planet: AILAP XIV
+Starmap index: 20
+Paris coordinates: 14316752, 7867680, -6513449

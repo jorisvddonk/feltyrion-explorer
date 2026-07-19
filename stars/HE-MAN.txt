@@ -1,0 +1,6 @@
+Star: HE-MAN
+Star class: S06
+Paris coordinates: 3959632, 4909715, -1345957
+Bodies: 0 (0 planets, 0 moons)
+
+System:

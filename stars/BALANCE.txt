@@ -1,0 +1,39 @@
+Star: BALANCE
+Star class: S00
+Paris coordinates: 4566416, 4645435, -1534444
+Bodies: 28 (12 planets, 16 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)
+- BLUE DREAM (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- HAZE (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)
+- Planet #6 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #11 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+FOUND BYJOVEWOLF
+A YELLOW STAR WITH MANY PLANETS AND MOONS
+3RD PLANET CHRISTEND BLUE DREAM

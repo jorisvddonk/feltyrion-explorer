@@ -1,0 +1,6 @@
+Star: LAMBDA DENGIS
+Star class: S07
+Paris coordinates: 4183920, 5251796, -2142812
+Bodies: 0 (0 planets, 0 moons)
+
+System:

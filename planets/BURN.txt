@@ -1,0 +1,3 @@
+Planet: BURN
+Starmap index: 46
+Paris coordinates: 377136, 935675, 1401841

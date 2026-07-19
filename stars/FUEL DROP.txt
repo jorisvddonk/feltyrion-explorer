@@ -1,0 +1,6 @@
+Star: FUEL DROP
+Star class: S06
+Paris coordinates: 5151760, 15087508, 939430
+Bodies: 0 (0 planets, 0 moons)
+
+System:

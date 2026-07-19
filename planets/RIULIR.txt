@@ -1,0 +1,7 @@
+Planet: RIULIR
+Starmap index: 10
+Paris coordinates: 2037570768, -132625, -1685345
+
+Guide entries:
+M05/P03 MEDIUM SIZED ROCKY SCARRED, LARGE CRATERS ON ROUGH GREEN. PRO       
+0.093.960 PRV 0.003.768.740 SKINNYMON 6022 796.849                          

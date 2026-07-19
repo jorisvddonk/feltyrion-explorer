@@ -1,0 +1,3 @@
+Planet: ORANGE FIRE
+Starmap index: 06
+Paris coordinates: -71593136, -672408, 53770643

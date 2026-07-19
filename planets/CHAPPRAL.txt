@@ -1,0 +1,6 @@
+Planet: CHAPPRAL
+Starmap index: 02
+Paris coordinates: 3904272, 5465172, -666611
+
+Guide entries:
+ OBJECTDISCOVERED BY MRUQE; EPOC 6011-568.271

@@ -1,0 +1,3 @@
+Planet: PC7-GR2867K
+Starmap index: 19
+Paris coordinates: 3290704, 4837570, -933229

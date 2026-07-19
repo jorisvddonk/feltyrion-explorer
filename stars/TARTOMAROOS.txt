@@ -1,0 +1,9 @@
+Star: TARTOMAROOS
+Star class: S06
+Paris coordinates: 821050000, -467580, -820856508
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.578)                   

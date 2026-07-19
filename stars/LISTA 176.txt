@@ -1,0 +1,13 @@
+Star: LISTA 176
+Star class: S05
+Paris coordinates: 820363568, -1915534, -127590
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- AYDHATRE (q quartz surface)
+- KRESAISKRE (r rocky, creased)
+- YLYLFEN (n thin atmosphere)
+
+Guide entries:
+A CLASS S05 WITH LITHIUM AND 3 WORLDS IN THE SYSTEM. SKINNYMON EPOC
+6011 621.871

@@ -1,0 +1,3 @@
+Planet: ASKEW 190C3
+Starmap index: 06
+Paris coordinates: 3659632, 4527550, -1163661

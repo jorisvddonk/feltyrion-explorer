@@ -1,0 +1,10 @@
+Star: SPUR 23 STATION (2)
+Star class: S06
+Paris coordinates: -61846160, 29678084, 267184
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SCOPABLE STAR LOCATED NEAR A CLUSTER OF STARS NAMED BY MCWGOGS.             
+RYAN GJK E6011.792.249                                                      

@@ -1,0 +1,6 @@
+Star: MUTERLIVIYA
+Star class: S05
+Paris coordinates: 250000, 50950000, -350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

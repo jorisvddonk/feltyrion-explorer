@@ -1,0 +1,8 @@
+Planet: BLACKLIGHT
+Starmap index: 19
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.601                                    
+ROCKY WORLD NAMED FOR THE REGION OF DARKNESS WHICH PERVADES THE             
+COORDINATES 0,9.                                                            

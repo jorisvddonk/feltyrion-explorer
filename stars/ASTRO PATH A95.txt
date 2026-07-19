@@ -1,0 +1,6 @@
+Star: ASTRO PATH A95
+Star class: S07
+Paris coordinates: 2850576, 3673172, -52933535
+Bodies: 0 (0 planets, 0 moons)
+
+System:

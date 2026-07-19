@@ -1,0 +1,3 @@
+Planet: CRACKY
+Starmap index: 06
+Paris coordinates: 2394640, 4207114, -1644127

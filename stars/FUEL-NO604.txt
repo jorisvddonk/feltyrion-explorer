@@ -1,0 +1,10 @@
+Star: FUEL-NO604
+Star class: S06
+Paris coordinates: 6651760, 4614084, -596667
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FUEL STAR
+ DISC. BY NYQUIST 6011.569.597.161

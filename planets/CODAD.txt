@@ -1,0 +1,8 @@
+Planet: CODAD
+Starmap index: 04
+Paris coordinates: 634309520, -10801615, 49308989
+
+Guide entries:
+P04 SMALL SOLID THIN ATMOSPHERE. DULL BROWNISH REFLECTIVITY WITH GOOD       
+POLAR CAPS AND LIGHT AREAS DETECTED. PRO 0.136.440; PRV 0.114.701.664       
+SKINNYMON 6011 893.126                                                      

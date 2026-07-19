@@ -1,0 +1,7 @@
+Planet: NOLOVI
+Starmap index: 02
+Paris coordinates: -2521776, 537093, 306363
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.945 -                                
+MEDIUM SIZE. ROCKY. CREASED. NO ATMOSPHERE.                                 

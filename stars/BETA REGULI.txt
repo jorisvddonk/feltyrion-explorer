@@ -1,0 +1,10 @@
+Star: BETA REGULI
+Star class: S00
+Paris coordinates: 6378224, 6966591, -8418025
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SHARDILIA (r rocky, creased)
+
+Guide entries:
+NAMED BY JOHN WINTER 6011 583.333.758

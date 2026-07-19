@@ -1,0 +1,3 @@
+Planet: NOLKALID 2 1
+Starmap index: 01
+Paris coordinates: 784880, 16047, 190657359

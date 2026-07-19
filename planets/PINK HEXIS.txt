@@ -1,0 +1,3 @@
+Planet: PINK HEXIS
+Starmap index: 02
+Paris coordinates: 181072, 246421, -345421

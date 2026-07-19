@@ -1,0 +1,7 @@
+Star: AS12222305
+Star class: S08
+Paris coordinates: 1812400, 720487, 21223818
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- AS12222305A (+ substellar object)

@@ -1,0 +1,16 @@
+Star: PINK CORONIS
+Star class: S08
+Paris coordinates: -72724208, -1193191, 55085629
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- PINK CORONIS A (* companion star)
+  - GREEN BLANDOS (r rocky, creased)
+  - LUNA GIALLO (+ substellar object)
+- GREENBAND (k thick atmosphere)
+- PLAIN PLANETIA (n thin atmosphere)
+- GREENRING CRATERO (d dusty, craterized)
+- PINK CORONIS B (* companion star)
+  - ORANGE FLAME (^ unstable)
+  - LIQUID GOLD (+ substellar object)
+  - YELLOW CRATER (d dusty, craterized)

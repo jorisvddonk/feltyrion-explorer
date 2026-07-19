@@ -1,0 +1,11 @@
+Star: OAKENSHIELD
+Star class: S05
+Paris coordinates: 3321776, 4323134, -1004416
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY BUD J. SMOKER EPOCH 6011:583.207

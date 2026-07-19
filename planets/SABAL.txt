@@ -1,0 +1,7 @@
+Planet: SABAL
+Starmap index: 19
+Paris coordinates: -3596400, -81554, -2905806
+
+Guide entries:
+GOVIN 09/05; FELISIAN
+COLD; PREDOMINATELY GRASSLANDS WITH SHRUBS

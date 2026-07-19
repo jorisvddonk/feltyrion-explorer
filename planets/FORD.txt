@@ -1,0 +1,6 @@
+Planet: FORD
+Starmap index: 04
+Paris coordinates: -2804272, 1731080, -323512
+
+Guide entries:
+ DISCOVERED BY SEAN MCCOY AKA CLASSICO

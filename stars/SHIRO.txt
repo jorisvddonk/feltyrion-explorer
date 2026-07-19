@@ -1,0 +1,14 @@
+Star: SHIRO
+Star class: S02
+Paris coordinates: 3283920, 6172695, -1224010
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- KELZAR (k thick atmosphere)
+- CYAN (q quartz surface)
+- INVARARITY (q quartz surface)
+- NOCTIS (n thin atmosphere)
+- STREAK (k thick atmosphere)
+
+Guide entries:
+WHITE DWARF STAR. (KRUSTY 6011:600.974)

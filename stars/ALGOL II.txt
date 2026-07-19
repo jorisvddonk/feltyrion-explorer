@@ -1,0 +1,12 @@
+Star: ALGOL II
+Star class: S00
+Paris coordinates: 3190704, 4427738, -730295
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PARMA (q quartz surface)
+- ZELAN (r rocky, creased)
+
+Guide entries:
+A MEDIUM SIZED YELLOW STAR WITH TWO ORBITING PLANETS, BOTH ARE LIFELESS.
+(N5CORP ON 6011:627.515)

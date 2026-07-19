@@ -1,0 +1,10 @@
+Star: ASKEW 11
+Star class: S11
+Paris coordinates: 9999920, 8270296, 8404486
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- ASKEW 11A (n thin atmosphere)
+- ASKEW 11B (n thin atmosphere)
+- ASKEW 11C (d dusty, craterized)
+- ASKEW 11D (d dusty, craterized)

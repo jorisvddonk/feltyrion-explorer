@@ -1,0 +1,6 @@
+Star: SOVERYALONE
+Star class: S00
+Paris coordinates: 56784, 47947, 284303
+Bodies: 0 (0 planets, 0 moons)
+
+System:

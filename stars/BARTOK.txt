@@ -1,0 +1,16 @@
+Star: BARTOK
+Star class: S00
+Paris coordinates: 770352, 2831847, 587839
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- LIFEY (f felisian)
+- Planet #4 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:583.825

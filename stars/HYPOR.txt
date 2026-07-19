@@ -1,0 +1,19 @@
+Star: HYPOR
+Star class: S08
+Paris coordinates: 494640, 971584, 178777
+Bodies: 13 (4 planets, 9 moons)
+
+System:
+- BRONGT (* companion star)
+- BRONGT 2 (* companion star)
+- Planet #2 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+- Planet #3 (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (^ unstable)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)

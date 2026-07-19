@@ -1,0 +1,11 @@
+Star: IAMARUS
+Star class: S06
+Paris coordinates: 2146976656, 681605, 1651093557
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:585.683
+(S06) L+
+COORDINATES = 2146976654,681750,1651093422

@@ -1,0 +1,3 @@
+Planet: COO'LAH
+Starmap index: 08
+Paris coordinates: 3274288, 7682286, -3768411

@@ -1,0 +1,9 @@
+Star: FUEL-E9.1
+Star class: S06
+Paris coordinates: -27621232, -16768979, -1000319563
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THERE'S FUEL HERE. (SHADOWCLAW 6011:581.880)

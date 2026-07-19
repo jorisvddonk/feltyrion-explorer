@@ -1,0 +1,6 @@
+Planet: CANARIUS
+Starmap index: 02
+Paris coordinates: 412144, 28516, -525534
+
+Guide entries:
+ SUB STELLAR OBJECT GAS GIANT (KRUSTY 6011:599.196)

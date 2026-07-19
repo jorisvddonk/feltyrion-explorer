@@ -1,0 +1,6 @@
+Planet: BEAUX YEUX
+Starmap index: 06
+Paris coordinates: 1785008, 4284189, -3592315
+
+Guide entries:
+ DISC BY SCAREDY-CAT, EPOC6011.584.234

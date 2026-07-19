@@ -1,0 +1,9 @@
+Star: USCOMAROOS
+Star class: S06
+Paris coordinates: 100181072, -1141363, -100225180
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.550)                   

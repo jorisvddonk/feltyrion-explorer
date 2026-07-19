@@ -1,0 +1,3 @@
+Planet: SPLENDOR
+Starmap index: 04
+Paris coordinates: 4283920, 4264038, -2340212

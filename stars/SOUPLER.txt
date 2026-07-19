@@ -1,0 +1,31 @@
+Star: SOUPLER
+Star class: S00
+Paris coordinates: 3655696, 5093605, 729351
+Bodies: 19 (9 planets, 10 moons)
+
+System:
+- WALLONE (@ large, not consistent)
+- PRALINE (@ large, not consistent)
+- JACKAND (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+- PYJEANS (k thick atmosphere)
+  - AKESIKO (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- ODDISHE (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- KILTRIA (k thick atmosphere)
+- WLEEZER (k thick atmosphere)
+- SORNFSH (@ large, not consistent)
+  - UNSSELI (^ unstable)
+  - MIRLETE (f felisian)
+- CUTPILE (d dusty, craterized)
+
+Guide entries:
+CLASS 00 STAR WITH A GOOD NUMBER OF PLANETS SHARING MANY RINGS BETWEEN
+THEM. TWO PLANETS AND ONE MOON WITH LIFE AS I'M AWARE; I HAVEN'T
+CHECKED EVERYTHING. I LEAVE NAMING THE REMAINING BODIES HERE TO OTHER
+STARDRIFTERS, IF THEY SO CHOOSE. (TWOTWOS, 6012:231.187)

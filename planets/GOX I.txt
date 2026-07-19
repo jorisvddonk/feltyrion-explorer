@@ -1,0 +1,6 @@
+Planet: GOX I
+Starmap index: 01
+Paris coordinates: -25712, -854450, -220160
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.324

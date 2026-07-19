@@ -1,0 +1,6 @@
+Star: CPN V
+Star class: S06
+Paris coordinates: -107573808, 24997971, -1860553
+Bodies: 0 (0 planets, 0 moons)
+
+System:

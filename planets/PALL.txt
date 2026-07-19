@@ -1,0 +1,6 @@
+Planet: PALL
+Starmap index: 01
+Paris coordinates: 4414992, 5140367, -2507740
+
+Guide entries:
+ FIRST PLANET OF RICTUS. YOUR USUAL CRATERIZED DUSTBALL. BY ATTACKRAT

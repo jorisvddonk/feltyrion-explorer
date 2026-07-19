@@ -1,0 +1,3 @@
+Planet: ASKEW 168M6
+Starmap index: 46
+Paris coordinates: 7010640, -7971256, 10079905

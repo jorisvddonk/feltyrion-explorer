@@ -1,0 +1,6 @@
+Star: PITSTOP
+Star class: S06
+Paris coordinates: 11158800, -19128180, 18266944
+Bodies: 0 (0 planets, 0 moons)
+
+System:

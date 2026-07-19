@@ -1,0 +1,9 @@
+Star: AS12291215
+Star class: S00
+Paris coordinates: 48272944, 259360, 1980056672
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM HAS NO PLANETS.

@@ -1,0 +1,6 @@
+Star: SINGLE TEAR
+Star class: S06
+Paris coordinates: -618928, -69227326, 505906
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Star: MR-BEAR
+Star class: S05
+Paris coordinates: -194640, 222325, -412945
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.514                               

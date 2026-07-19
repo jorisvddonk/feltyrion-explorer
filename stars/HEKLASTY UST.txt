@@ -1,0 +1,6 @@
+Star: HEKLASTY UST
+Star class: S04
+Paris coordinates: 350000, 28250000, -450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

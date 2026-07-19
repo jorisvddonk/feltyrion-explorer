@@ -1,0 +1,9 @@
+Star: SPUR 12
+Star class: S06
+Paris coordinates: -39075888, 13848458, -2884276
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+MORE LI+ HERE.                                                              

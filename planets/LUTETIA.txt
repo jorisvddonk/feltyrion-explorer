@@ -1,0 +1,3 @@
+Planet: LUTETIA
+Starmap index: 04
+Paris coordinates: -20704016, -5543059, 40810650

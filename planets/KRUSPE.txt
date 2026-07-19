@@ -1,0 +1,3 @@
+Planet: KRUSPE
+Starmap index: 17
+Paris coordinates: 4273200, 3965722, -767003

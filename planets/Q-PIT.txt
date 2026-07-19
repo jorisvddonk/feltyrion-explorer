@@ -1,0 +1,8 @@
+Planet: Q-PIT
+Starmap index: 01
+Paris coordinates: -3146064, 1029459, 1369649
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.575
+A LOVELY QUARTZ PLANET.
+IT'S OK I SUPPOSE.

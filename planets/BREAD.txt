@@ -1,0 +1,3 @@
+Planet: BREAD
+Starmap index: 01
+Paris coordinates: 3155696, 4823363, 1066660

@@ -1,0 +1,22 @@
+Star: DURAINU
+Star class: S00
+Paris coordinates: 2056784, 6465841, -1650892
+Bodies: 12 (6 planets, 6 moons)
+
+System:
+- CORNEES (d dusty, craterized)
+- AAFRANLI (d dusty, craterized)
+- NOOMRODNETON (f felisian)
+  - FABE (d dusty, craterized)
+  - MODASIO (d dusty, craterized)
+- GOAHTRAMD (n thin atmosphere)
+- SENDECA-IRPO (@ large, not consistent)
+  - BYSJYL (d dusty, craterized)
+  - EKKADAS (n thin atmosphere)
+  - SHOO-RATAYDEMI (r rocky, creased)
+- NARARFUDARN (q quartz surface)
+  - QOSS-ILEK (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY NEUZD, 6011 779:282. 6 PLANETS AND 6 MOONS. PLANET N.3 IS     
+FELISIAN, SIX WORLDS ARE DUSTY, CRATERIZED.                                 

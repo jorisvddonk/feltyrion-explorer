@@ -1,0 +1,3 @@
+Planet: ALEIE
+Starmap index: 02
+Paris coordinates: 570352, 82257, 668065

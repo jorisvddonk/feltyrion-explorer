@@ -1,0 +1,3 @@
+Planet: GREEN SPHERE
+Starmap index: 08
+Paris coordinates: 3942128, 4305316, -442144

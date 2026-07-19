@@ -1,0 +1,3 @@
+Planet: LIBRA-K-S1
+Starmap index: 37
+Paris coordinates: 2587856, 4207324, -2338295

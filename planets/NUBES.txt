@@ -1,0 +1,7 @@
+Planet: NUBES
+Starmap index: 05
+Paris coordinates: 3259632, 4697415, -785262
+
+Guide entries:
+ FIFTH PLANET OF AMATERASU SYSTEM. A GAS GIANT WITH ELEVEN MOONS.           
+(JAVIER, 6011:685.961)                                                      

@@ -1,0 +1,9 @@
+Star: MERIT32000
+Star class: S06
+Paris coordinates: 32944144, 32097577, -333111
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: LI+ ION EMITTING S06. (NEUZD, 6011:798.849)                  

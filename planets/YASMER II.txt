@@ -1,0 +1,3 @@
+Planet: YASMER II
+Starmap index: 02
+Paris coordinates: 378224, 1252914, -2610252

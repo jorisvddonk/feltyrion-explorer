@@ -1,0 +1,3 @@
+Planet: NLG'1004 10A
+Starmap index: 24
+Paris coordinates: 2353936, 5345300, -4116543

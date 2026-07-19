@@ -1,0 +1,6 @@
+Planet: GLORBERON N
+Starmap index: 25
+Paris coordinates: -118928, 136846, 52177
+
+Guide entries:
+SMALL, THIN ATMOSPHERE, POLAR CAPS. (SCHMERM 6011 582.599)

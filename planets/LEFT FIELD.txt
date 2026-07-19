@@ -1,0 +1,3 @@
+Planet: LEFT FIELD
+Starmap index: 09
+Paris coordinates: -174288, 9638409, 793201

@@ -1,0 +1,3 @@
+Planet: ETHERAL
+Starmap index: 01
+Paris coordinates: -743216, 1049718, 1167826

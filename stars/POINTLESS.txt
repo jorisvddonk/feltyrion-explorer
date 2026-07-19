@@ -1,0 +1,7 @@
+Star: POINTLESS
+Star class: S00
+Paris coordinates: -425712, -2785, -67787
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)

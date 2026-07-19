@@ -1,0 +1,6 @@
+Star: M04-7165N
+Star class: S08
+Paris coordinates: -39078896, 1459118, 31673766
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,30 @@
+Star: BIKRU
+Star class: S00
+Paris coordinates: 4276048, 4341552, 1134378
+Bodies: 18 (7 planets, 11 moons)
+
+System:
+- FUROU (d dusty, craterized)
+- Planet #1 (+ substellar object)
+- ZHABRIY (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (^ unstable)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (d dusty, craterized)
+  - ZHIVEI (f felisian)
+  - PATHAS (f felisian)
+- COVALTOS (f felisian)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #5 (k thick atmosphere)
+- Planet #6 (d dusty, craterized)
+
+Guide entries:
+ ONE WORLD, COVALT0S, CONFIRMED AS LIFEBEARING SO FAR.
+ 349.66 -- CITADEL COAST. NAMED FOR TOWER-LIKE GEOLOGIC STRUCTURES.
+ FOUR CONFIRMED LIFE-BEARING PLANETS AND/OR MOONS.
+ EARMARKED AS A POSSIBLE RECORD.

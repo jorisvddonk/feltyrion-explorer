@@ -1,0 +1,3 @@
+Planet: 7TH SCROLL
+Starmap index: 07
+Paris coordinates: 2456784, 3449420, -2122039

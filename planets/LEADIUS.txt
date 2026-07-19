@@ -1,0 +1,3 @@
+Planet: LEADIUS
+Starmap index: 04
+Paris coordinates: 3335344, 4102025, -194226

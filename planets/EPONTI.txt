@@ -1,0 +1,8 @@
+Planet: EPONTI
+Starmap index: 36
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M01/P09 LARGE, NOT CONSISTENT CLOUD COVER IS A PUPLISH/BROWN COLOR,         
+WITH MANY BRIGHT STORMS. PRO 0.086.840 PRV 0.0.652.635 SKINNYMON 6011       
+797.166                                                                     

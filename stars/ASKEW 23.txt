@@ -1,0 +1,6 @@
+Star: ASKEW 23
+Star class: S07
+Paris coordinates: 12465584, -20030927, 17640901
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: LITHIUM A54
+Star class: S05
+Paris coordinates: 6040112, 4454930, -31576917
+Bodies: 0 (0 planets, 0 moons)
+
+System:

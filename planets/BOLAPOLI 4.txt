@@ -1,0 +1,3 @@
+Planet: BOLAPOLI 4
+Starmap index: 04
+Paris coordinates: 6458544, 4745807, -225388

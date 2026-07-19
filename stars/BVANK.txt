@@ -1,0 +1,6 @@
+Star: BVANK
+Star class: S06
+Paris coordinates: 4276048, 5541552, 1098399
+Bodies: 0 (0 planets, 0 moons)
+
+System:

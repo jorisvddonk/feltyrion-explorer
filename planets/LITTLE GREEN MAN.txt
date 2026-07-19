@@ -1,0 +1,3 @@
+Planet: LITTLE GREEN MAN
+Starmap index: 11
+Paris coordinates: 3252848, 5675194, -1215611

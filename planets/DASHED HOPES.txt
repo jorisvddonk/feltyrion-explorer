@@ -1,0 +1,9 @@
+Planet: DASHED HOPES
+Starmap index: 03
+Paris coordinates: 4504272, 4730261, -1221398
+
+Guide entries:
+BLADE TRAIN3R 6011 705;159                                                  
+NO LIFEFORMS ON PLANET                                                      
+GRAVITY APPROXIMATELY NORMAL, VERY THIN ATMOSPHERE                          
+SURFACE COVERED IN VARIOUS CRYSTALS, BUT NOTHING OF REAL INTEREST           

@@ -1,0 +1,6 @@
+Star: HAPPYJOY
+Star class: S07
+Paris coordinates: 8878896, 6074897, -1242509
+Bodies: 0 (0 planets, 0 moons)
+
+System:

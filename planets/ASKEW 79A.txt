@@ -1,0 +1,3 @@
+Planet: ASKEW 79A
+Starmap index: 01
+Paris coordinates: 11552016, -19489626, 17676794

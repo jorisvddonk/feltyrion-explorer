@@ -1,0 +1,13 @@
+Star: KRIKMEK
+Star class: S02
+Paris coordinates: 1170352, -88754, 161361
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- ROKTOOKRU (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+- Planet #3 (@ large, not consistent)
+
+Guide entries:
+DISCOVERED EPOC 6011:572.315 BY F. WISARD

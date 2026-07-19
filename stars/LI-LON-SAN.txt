@@ -1,0 +1,6 @@
+Star: LI-LON-SAN
+Star class: S06
+Paris coordinates: 225712, -11720687, 378541
+Bodies: 0 (0 planets, 0 moons)
+
+System:

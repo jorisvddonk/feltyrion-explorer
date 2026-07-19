@@ -1,0 +1,10 @@
+Star: LITHFUEL 2
+Star class: S06
+Paris coordinates: -1477136, 220973, -31835
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY NYTAR, EPOC 6011:612.217
+CLASS S06 STAR - FUEL SOURCE.

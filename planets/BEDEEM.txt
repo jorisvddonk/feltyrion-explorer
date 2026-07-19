@@ -1,0 +1,6 @@
+Planet: BEDEEM
+Starmap index: 06
+Paris coordinates: 5652848, 5347777, -3430170
+
+Guide entries:
+ MEANS PILLAR IN GAMMA GLYPH. DISCOVERED WITH GEETOO-5 IN 6011.629.842

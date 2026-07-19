@@ -1,0 +1,3 @@
+Planet: MINDO'S SPINDLETOP
+Starmap index: 07
+Paris coordinates: 3717840, 4160522, 265975

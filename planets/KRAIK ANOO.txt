@@ -1,0 +1,3 @@
+Planet: KRAIK ANOO
+Starmap index: 05
+Paris coordinates: 492880, 5929765, -5699210

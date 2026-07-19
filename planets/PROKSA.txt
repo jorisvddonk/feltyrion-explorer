@@ -1,0 +1,3 @@
+Planet: PROKSA
+Starmap index: 04
+Paris coordinates: 3866416, 4913508, -773355

@@ -1,0 +1,7 @@
+Planet: URTYK
+Starmap index: 06
+Paris coordinates: 2061228144, -1654027, 3059941
+
+Guide entries:
+M03/P03 SMALL SOLID THIN ATMO, MILDLY DARK WITH FAIR POLAR CAPS. PRO        
+0.085.320 PRV 0.002.865.291 SKINNYMON 6011 796.70                           

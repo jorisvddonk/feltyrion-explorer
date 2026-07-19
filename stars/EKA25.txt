@@ -1,0 +1,15 @@
+Star: EKA25
+Star class: S03
+Paris coordinates: -71930992, -664206, 53968492
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- CLINGING FOR WARMTH (n thin atmosphere)
+- SHINING SULFUR (k thick atmosphere)
+- PINK HAZE (k thick atmosphere)
+  - WANNABE (^ unstable)
+  - LIGHT YELLOW (d dusty, craterized)
+
+Guide entries:
+RED GIANT WITH 5 BODIES.
+--EKA

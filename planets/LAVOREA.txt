@@ -1,0 +1,3 @@
+Planet: LAVOREA
+Starmap index: 19
+Paris coordinates: -61470448, 29652124, 500292

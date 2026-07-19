@@ -1,0 +1,7 @@
+Star: AS12232325
+Star class: S08
+Paris coordinates: -349744, 4633106, 23572092
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- AS12232325A (q quartz surface)

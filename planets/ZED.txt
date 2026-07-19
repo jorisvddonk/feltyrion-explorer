@@ -1,0 +1,3 @@
+Planet: ZED
+Starmap index: 19
+Paris coordinates: 9975632, 8195351, 8947026

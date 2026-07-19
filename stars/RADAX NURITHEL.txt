@@ -1,0 +1,10 @@
+Star: RADAX NURITHEL
+Star class: S05
+Paris coordinates: -39661392, 1575915, 31477743
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- RADAX NURITHEL 1 (d dusty, craterized)
+- RADAX NURITHEL 2 (n thin atmosphere)
+- RADAX NURITHEL 3 (r rocky, creased)
+  - RADAX NURITHEL 3A (n thin atmosphere)

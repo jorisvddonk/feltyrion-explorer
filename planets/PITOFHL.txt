@@ -1,0 +1,7 @@
+Planet: PITOFHL
+Starmap index: 13
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+M06/P06 SMALL SOLID THIN ATMO. FAIRLY DARK WITH GOOD POLAR CAPS. PRO        
+0.197.200 PRV 0.004.951.840 SKINNYMON 6011 797.285                          

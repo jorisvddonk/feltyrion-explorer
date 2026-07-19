@@ -1,0 +1,9 @@
+Star: DOC
+Star class: S07
+Paris coordinates: 2677136, -115059, -907956
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ (DISCOVERED BY TGD)

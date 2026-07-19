@@ -1,0 +1,12 @@
+Star: AXEGREEN
+Star class: S00
+Paris coordinates: -539280, 138733, -749729
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- VERDENA (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)

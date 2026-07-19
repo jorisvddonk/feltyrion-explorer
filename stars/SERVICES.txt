@@ -1,0 +1,9 @@
+Star: SERVICES
+Star class: S06
+Paris coordinates: 2773200, 5281245, 653143
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED 6011.571.76.300 BY SHADOWCLAW)

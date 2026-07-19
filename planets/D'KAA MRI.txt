@@ -1,0 +1,3 @@
+Planet: D'KAA MRI
+Starmap index: 31
+Paris coordinates: 4860720, 8320240, -6249233

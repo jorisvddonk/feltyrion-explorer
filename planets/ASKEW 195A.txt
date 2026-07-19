@@ -1,0 +1,3 @@
+Planet: ASKEW 195A
+Starmap index: 01
+Paris coordinates: 7689200, -9846196, 11968208

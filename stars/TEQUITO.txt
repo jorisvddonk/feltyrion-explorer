@@ -1,0 +1,39 @@
+Star: TEQUITO
+Star class: S00
+Paris coordinates: -2889616, 433096, -3216949
+Bodies: 30 (11 planets, 19 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (f felisian)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (q quartz surface)
+- DREICH (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+ S00 STAR, 28 PLANETS, 4 PLANET IS FELISIAN.                                

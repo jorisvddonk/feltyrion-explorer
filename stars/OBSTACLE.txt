@@ -1,0 +1,46 @@
+Star: OBSTACLE
+Star class: S00
+Paris coordinates: 4517840, 4425313, -473575
+Bodies: 35 (7 planets, 28 moons)
+
+System:
+- FLUTIC (n thin atmosphere)
+- VOLVUN (n thin atmosphere)
+- CHEW BALL II (+ substellar object)
+  - GORDIAN (n thin atmosphere)
+  - ONVEX (q quartz surface)
+  - BLEAU (k thick atmosphere)
+  - CYCLOPS (^ unstable)
+  - ARELI (r rocky, creased)
+  - CODEX (f felisian)
+  - ERCIN (d dusty, craterized)
+  - PIFFLE (k thick atmosphere)
+  - AUT-AUT (f felisian)
+  - INGLO (d dusty, craterized)
+  - PREHE (d dusty, craterized)
+  - BETWEEN THE FLARES (n thin atmosphere)
+  - SCARPET (k thick atmosphere)
+  - TICIN (q quartz surface)
+  - UNIF (k thick atmosphere)
+  - GNOSEH (n thin atmosphere)
+  - DIOME (@ large, not consistent)
+  - BLUE HEAT (f felisian)
+- ERNOST (@ large, not consistent)
+  - UNEXPECTED (k thick atmosphere)
+  - RANDOM VARIABLE (f felisian)
+  - CHRONICLE (f felisian)
+  - LUNT (^ unstable)
+  - CIMIN (k thick atmosphere)
+  - LYGEN (n thin atmosphere)
+  - IMPAU (d dusty, craterized)
+- CLAS (n thin atmosphere)
+  - URLIS (d dusty, craterized)
+- DUSTBIN (d dusty, craterized)
+  - AMILTO (n thin atmosphere)
+- QUAZAN (r rocky, creased)
+  - RAPHIT (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM WITH 7 PLANETS AND 28 MOONS. THERE
+ARE 5 FELISIAN WORLDS, THOUGH A FEW ARE DISAPPOINTING. SKINNYMON EPOC
+6011 574.86

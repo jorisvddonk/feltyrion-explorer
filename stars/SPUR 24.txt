@@ -1,0 +1,9 @@
+Star: SPUR 24
+Star class: S06
+Paris coordinates: -64531504, 29451806, 73970
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE. MMM.                                                              

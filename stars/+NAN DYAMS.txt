@@ -1,0 +1,11 @@
+Star: +NAN DYAMS
+Star class: S11
+Paris coordinates: 635154160, -10292333, 48991067
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ CLASS S11 STAR WITH NO BODIES. FELISIAN NAVAL RESEARCH SITE.               
+1.07904339; TEMP 110335K; RAD 364203 KR; COOR 635154160; -10292333;         
+48991067 SKINNYMON 6011.916.865                                             

@@ -1,0 +1,6 @@
+Planet: NABUCO
+Starmap index: 10
+Paris coordinates: -280275088, -1411417, 54856035
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.576.808

@@ -1,0 +1,38 @@
+Star: VIPER
+Star class: S01
+Paris coordinates: -525712, 233043, 78714
+Bodies: 25 (5 planets, 20 moons)
+
+System:
+- VIPER 1 (q quartz surface)
+- VIPER 2 (r rocky, creased)
+- VIPER 3 (+ substellar object)
+  - VIPER 3.1 (n thin atmosphere)
+  - VIPER 3.2 (f felisian)
+  - VIPER 3.3 (d dusty, craterized)
+  - VIPER 3.4 (n thin atmosphere)
+  - VIPER 3.5 (k thick atmosphere)
+  - VIPER 3.6 (^ unstable)
+  - VIPER 3.7 (k thick atmosphere)
+  - VIPER 3.8 (f felisian)
+  - VIPER 3.9 (f felisian)
+  - VIPER 3.10 (^ unstable)
+  - VIPER 3.11 (k thick atmosphere)
+  - VIPER 3.12 (k thick atmosphere)
+  - VIPER 3.13 (@ large, not consistent)
+- VIPER 4 (r rocky, creased)
+  - VIPER 4.1 (d dusty, craterized)
+- VIPER 5 (+ substellar object)
+  - VIPER 5.1 (@ large, not consistent)
+  - VIPER 5.2 (d dusty, craterized)
+  - VIPER 5.3 (n thin atmosphere)
+  - VIPER 5.4 (d dusty, craterized)
+  - VIPER 5.5 (d dusty, craterized)
+  - VIPER 5.6 (r rocky, creased)
+
+Guide entries:
+ I WISHED TO NAME IT 'SNAKE', BUT THIS LABEL WAS ALREADY IN USE...
+ANYWAY, IT'S A BLUE GIANT STAR WITH FIVE PLAETS AND 20 MOONS, AND IT'S
+NOT LIKELY THAT THE MOONS ARE SPREAD AMONG ALL THE PLANETS... YES, YET
+ANOTHER MINI-SYSTEM IS PROBABLY LURKING OUT THERE. WELL, TIME TO MOVE ON
+. SERPENS, 6011 665.684

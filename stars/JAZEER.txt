@@ -1,0 +1,10 @@
+Star: JAZEER
+Star class: S00
+Paris coordinates: -223536, 4833707, -7929626
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YELLOW STAR-NO PLANETS
+DISCOVERED BY KJ EPOC 6011:578.100

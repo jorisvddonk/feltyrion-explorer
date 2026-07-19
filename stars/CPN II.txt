@@ -1,0 +1,6 @@
+Star: CPN II
+Star class: S06
+Paris coordinates: -108411664, 25739853, -1359591
+Bodies: 0 (0 planets, 0 moons)
+
+System:

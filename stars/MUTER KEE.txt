@@ -1,0 +1,6 @@
+Star: MUTER KEE
+Star class: S05
+Paris coordinates: 1250000, 52150000, -1350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

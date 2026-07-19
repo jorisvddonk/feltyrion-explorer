@@ -1,0 +1,3 @@
+Planet: TALIM YUSAG
+Starmap index: 01
+Paris coordinates: 5965744, 6008246, -12736624

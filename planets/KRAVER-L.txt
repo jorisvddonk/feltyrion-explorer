@@ -1,0 +1,3 @@
+Planet: KRAVER-L
+Starmap index: 12
+Paris coordinates: 3421104, -457417, -10795963

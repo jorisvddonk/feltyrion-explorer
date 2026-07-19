@@ -1,0 +1,6 @@
+Star: SKT 2
+Star class: S06
+Paris coordinates: 970352, 432993, 239305
+Bodies: 0 (0 planets, 0 moons)
+
+System:

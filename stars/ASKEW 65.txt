@@ -1,0 +1,46 @@
+Star: ASKEW 65
+Star class: S01
+Paris coordinates: 11052016, -19159857, 17954467
+Bodies: 37 (13 planets, 24 moons)
+
+System:
+- ASKEW 65A (k thick atmosphere)
+- ASKEW 65B (+ substellar object)
+- ASKEW 65C (q quartz surface)
+  - ASKEW 65C1 (d dusty, craterized)
+  - ASKEW 65C2 (d dusty, craterized)
+  - ASKEW 65C3 (d dusty, craterized)
+- ASKEW 65D (+ substellar object)
+  - ASKEW 65D1 (k thick atmosphere)
+  - JADEL (f felisian)
+  - ASKEW 65D3 (d dusty, craterized)
+  - ASKEW 65D4 (d dusty, craterized)
+  - ASTERID (@ large, not consistent)
+  - ASKEW 65D6 (k thick atmosphere)
+  - ASKEW 65D7 (r rocky, creased)
+  - ASKEW 65D8 (^ unstable)
+  - JADIVJ (f felisian)
+  - ASKEW 65D10 (q quartz surface)
+  - ASKEW 65D11 (r rocky, creased)
+  - ASKEW 65D12 (d dusty, craterized)
+  - ASKEW 65D13 (^ unstable)
+  - ASKEW 65D14 (d dusty, craterized)
+- ASKEW 65E (r rocky, creased)
+  - ASKEW 65E1 (^ unstable)
+  - ASKEW 65E2 (d dusty, craterized)
+- ASKEW 65F (d dusty, craterized)
+  - ASKEW 65F1 (d dusty, craterized)
+- ASKEW 65G (d dusty, craterized)
+- ASKEW 65H (k thick atmosphere)
+- ASKEW 65I (i icy surface)
+- ASKEW 65J (i icy surface)
+  - ASKEW 65J1 (d dusty, craterized)
+  - ASKEW 65J2 (d dusty, craterized)
+- ASKEW 65K (d dusty, craterized)
+- ASKEW 65L (k thick atmosphere)
+  - ASKEW 65L1 (d dusty, craterized)
+  - ASKEW 65L2 (d dusty, craterized)
+- ASKEW 65M (q quartz surface)
+
+Guide entries:
+3 QUARTZ, 2 FELISIAN WORLDS

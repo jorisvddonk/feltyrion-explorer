@@ -1,0 +1,3 @@
+Planet: OLEMOE
+Starmap index: 10
+Paris coordinates: -72010640, -1390290, 54985678

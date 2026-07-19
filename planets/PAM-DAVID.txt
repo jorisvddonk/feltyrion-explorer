@@ -1,0 +1,10 @@
+Planet: PAM-DAVID
+Starmap index: 01
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.685.297 -                               
+ SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.                            
+MOONS: 0.                                                                   
+ PLACES TO VISIT:                                                           
+349.71:67.-27                                                               

@@ -1,0 +1,6 @@
+Star: LUNURIOUS
+Star class: S03
+Paris coordinates: 3070352, 4634807, -1844017
+Bodies: 0 (0 planets, 0 moons)
+
+System:

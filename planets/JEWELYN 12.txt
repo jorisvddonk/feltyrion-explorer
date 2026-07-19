@@ -1,0 +1,3 @@
+Planet: JEWELYN 12
+Starmap index: 12
+Paris coordinates: 1200680240, 1120703, 55238951

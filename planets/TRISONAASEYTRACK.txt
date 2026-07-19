@@ -1,0 +1,3 @@
+Planet: TRISONAASEYTRACK
+Starmap index: 01
+Paris coordinates: 2017840, 30737529, 1974557

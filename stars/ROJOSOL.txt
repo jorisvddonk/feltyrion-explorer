@@ -1,0 +1,28 @@
+Star: ROJOSOL
+Star class: S04
+Paris coordinates: -325712, 361387, -164300
+Bodies: 15 (8 planets, 7 moons)
+
+System:
+- SOMNESOL (r rocky, creased)
+- ROJOSOL II (@ large, not consistent)
+- ROJOSOL III (n thin atmosphere)
+  - EROTALLETH (d dusty, craterized)
+- MOONRINGER (q quartz surface)
+  - ROJOSOL IV 1 (n thin atmosphere)
+- ROJOSOL V (+ substellar object)
+  - INFERIS (^ unstable)
+  - ARREDO (q quartz surface)
+- BLINDAN (n thin atmosphere)
+  - INDESIA (d dusty, craterized)
+- LITSPOT (n thin atmosphere)
+  - GOLDROCK (d dusty, craterized)
+- AMIELLO (d dusty, craterized)
+  - AMIELLETTE (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY RAZORWINGS18 (566.364.215 E6011)
+NAMED AFTER THE SPANISH FOR 'RED SUN'. S04 ORANGE GIANT WITH 8 MAJOR
+BODIES, 7 MINOR BODIES. NO LIFE FOUND. BODIES ARE EITHER LACKING
+ATMOSPHERE, SUBSTELLAR GIANTS, OR QUARTZ ROCKS WITH OXYGEN ATMOSPHERE.
+GALATIC COORDINATES -325176;360808;-164130.

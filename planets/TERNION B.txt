@@ -1,0 +1,7 @@
+Planet: TERNION B
+Starmap index: 01
+Paris coordinates: 45874000, 13259263, -635467729
+
+Guide entries:
+SECOND STAR IN TRINARY SYSTEM. NO PLANETS ORBIT THIS STAR.                  
+(EXPLORED BY NEV, 6011:812.151)                                             

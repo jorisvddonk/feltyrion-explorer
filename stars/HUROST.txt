@@ -1,0 +1,10 @@
+Star: HUROST
+Star class: S06
+Paris coordinates: 2147091696, 1174155, 249178491
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.584
+(S06) LI+

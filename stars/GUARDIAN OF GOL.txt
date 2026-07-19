@@ -1,0 +1,9 @@
+Star: GUARDIAN OF GOL
+Star class: S01
+Paris coordinates: 9006032, 835175, 81728
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- ENDLESS HORIZON (q quartz surface)
+- Planet #2 (r rocky, creased)

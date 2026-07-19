@@ -1,0 +1,28 @@
+Star: AURON
+Star class: S00
+Paris coordinates: 3290704, 5637570, -892839
+Bodies: 19 (9 planets, 10 moons)
+
+System:
+- INFERNUS (+ substellar object)
+- BUTRA (k thick atmosphere)
+- DELARIO (d dusty, craterized)
+  - DELARIANTE (n thin atmosphere)
+- FURTILL (f felisian)
+  - KORDON (n thin atmosphere)
+- MAHNYA (f felisian)
+  - MINEA (n thin atmosphere)
+  - BRI (d dusty, craterized)
+- CLIFT (n thin atmosphere)
+  - HAMERON (d dusty, craterized)
+  - TEAR (d dusty, craterized)
+- KERMIT (@ large, not consistent)
+  - BURGUNDY (k thick atmosphere)
+  - CHANTELLE (f felisian)
+  - BANDO (k thick atmosphere)
+  - CREMORNE (k thick atmosphere)
+- BUSBY (k thick atmosphere)
+- LONE (r rocky, creased)
+
+Guide entries:
+MEDIUM SIZED YELLOW STAR. (KRUSTY 6011:596.546)

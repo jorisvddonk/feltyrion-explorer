@@ -1,0 +1,7 @@
+Planet: BUJOA
+Starmap index: 02
+Paris coordinates: 1939280, 5034008, -439811
+
+Guide entries:
+1.SMALL,ROCKY,AIRLESS PLANET
+2.DISCOVERED BY KJ EPOC 6011:574.638

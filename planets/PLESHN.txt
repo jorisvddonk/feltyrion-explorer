@@ -1,0 +1,3 @@
+Planet: PLESHN
+Starmap index: 03
+Paris coordinates: -106433104, 25524817, -762163

@@ -1,0 +1,3 @@
+Planet: N'MAMENAK
+Starmap index: 03
+Paris coordinates: 3078224, 7621881, -5338929

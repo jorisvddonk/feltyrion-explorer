@@ -1,0 +1,6 @@
+Star: CHOCOLATE STAR
+Star class: S05
+Paris coordinates: -19276880, -5399549, 41029776
+Bodies: 0 (0 planets, 0 moons)
+
+System:

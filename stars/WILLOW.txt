@@ -1,0 +1,10 @@
+Star: WILLOW
+Star class: S06
+Paris coordinates: 4104272, 5030559, -914575
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: LITHIUM HERE. DISCOVERER UNKNOWN.
+SKINNYMON EPOC 6011 569.511

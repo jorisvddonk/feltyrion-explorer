@@ -1,0 +1,6 @@
+Star: KEENTZIMU
+Star class: S09
+Paris coordinates: 550000, 51550000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

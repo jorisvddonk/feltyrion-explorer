@@ -1,0 +1,3 @@
+Planet: GALTHERG C
+Starmap index: 06
+Paris coordinates: 4928560, 5278806, -2232144

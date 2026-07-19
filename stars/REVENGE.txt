@@ -1,0 +1,7 @@
+Star: REVENGE
+Star class: S00
+Paris coordinates: 4879984, 4646309, -1152062
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LARSON (+ substellar object)

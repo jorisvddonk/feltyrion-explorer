@@ -1,0 +1,6 @@
+Star: PSI DENGIS
+Star class: S10
+Paris coordinates: 3946064, 5398171, -2140461
+Bodies: 0 (0 planets, 0 moons)
+
+System:

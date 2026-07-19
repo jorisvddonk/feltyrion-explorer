@@ -1,0 +1,11 @@
+Star: ARIA
+Star class: S01
+Paris coordinates: 2970352, 4448819, -1726659
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FALLEN ICON (q quartz surface)
+- MYTH (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY JILANTY EPOC6011 569.76

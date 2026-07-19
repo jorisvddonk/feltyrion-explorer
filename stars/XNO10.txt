@@ -1,0 +1,9 @@
+Star: XNO10
+Star class: S06
+Paris coordinates: 3483920, 4397178, -1516481
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOT GOOD SCOPING HERE. SKINNYMON EPOC 6011 570.975

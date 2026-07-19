@@ -1,0 +1,8 @@
+Star: GRINDERIA
+Star class: S03
+Paris coordinates: 4235344, 3935168, -1142622
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GRINDERIA 1 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)

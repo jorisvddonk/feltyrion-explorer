@@ -1,0 +1,30 @@
+Star: NAVRIA
+Star class: S00
+Paris coordinates: 3955696, 5000472, 437976
+Bodies: 20 (6 planets, 14 moons)
+
+System:
+- NABRODINE (d dusty, craterized)
+- UMBRIA (d dusty, craterized)
+- GANAIA (@ large, not consistent)
+  - POX (d dusty, craterized)
+  - MANGLE (d dusty, craterized)
+  - MIDA (d dusty, craterized)
+  - REYANA (k thick atmosphere)
+  - RAUNASIA (q quartz surface)
+  - VAZHNI (k thick atmosphere)
+  - NEDA (n thin atmosphere)
+  - ELIAZIA (k thick atmosphere)
+  - NEBRIS (d dusty, craterized)
+  - FOCALA (q quartz surface)
+  - BESHIA (d dusty, craterized)
+- BASTIAN (@ large, not consistent)
+  - PENTARIS (f felisian)
+  - TAGARIA (d dusty, craterized)
+  - GARASHUZL (f felisian)
+- SHARDIZA (d dusty, craterized)
+- MASHANIA (d dusty, craterized)
+
+Guide entries:
+ FOUND NO EVIDENCE OF FELYSIAN CONTACT WITH THIS SYSTEM. HAVE TAKEN
+THE LIBERTY TO NAME THE PLANETS HEREIN.

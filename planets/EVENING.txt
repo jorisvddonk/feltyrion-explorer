@@ -1,0 +1,3 @@
+Planet: EVENING
+Starmap index: 02
+Paris coordinates: 3555696, 4747547, 558041

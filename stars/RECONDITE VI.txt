@@ -1,0 +1,6 @@
+Star: RECONDITE VI
+Star class: S06
+Paris coordinates: 340150000, 41250000, -340250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

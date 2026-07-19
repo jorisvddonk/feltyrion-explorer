@@ -1,0 +1,6 @@
+Star: ASTRO PATH A93
+Star class: S08
+Paris coordinates: 3070928, 3558500, -51879352
+Bodies: 0 (0 planets, 0 moons)
+
+System:

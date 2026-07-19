@@ -1,0 +1,3 @@
+Planet: COLETER
+Starmap index: 04
+Paris coordinates: -525712, 9857792, 238874

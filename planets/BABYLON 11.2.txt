@@ -1,0 +1,7 @@
+Planet: BABYLON 11.2
+Starmap index: 22
+Paris coordinates: 453936, 4600516, -2135969
+
+Guide entries:
+ SAME AS THE FIRST 'MOON' OF BABYLON 11. ICY, NO ATMOSPHERE.
+(STARGAZER. EPOC 6011:600:370)

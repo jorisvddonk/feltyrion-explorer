@@ -1,0 +1,3 @@
+Planet: HELATI
+Starmap index: 09
+Paris coordinates: 257040, 3635948, 23276965

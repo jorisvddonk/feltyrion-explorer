@@ -1,0 +1,8 @@
+Star: ASKEW 17
+Star class: S02
+Paris coordinates: 9886352, 8917680, 7690464
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASKEW 17A (n thin atmosphere)
+- ASKEW 17B (@ large, not consistent)

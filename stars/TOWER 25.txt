@@ -1,0 +1,9 @@
+Star: TOWER 25
+Star class: S11
+Paris coordinates: 959632, 1425516, 1706426
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWI, EPOCH 6011:768.497                               

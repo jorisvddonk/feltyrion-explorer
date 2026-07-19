@@ -1,0 +1,7 @@
+Planet: SPECTRALIA
+Starmap index: 04
+Paris coordinates: 2132496, 4107520, -1134734
+
+Guide entries:
+DISCOVERED BY NICOLAI MEYER EPOC 693.496.760                                
+MANY TREES, VERY COLORFUL WORLD                                             

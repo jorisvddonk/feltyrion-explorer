@@ -1,0 +1,25 @@
+Star: AEVIL
+Star class: S04
+Paris coordinates: -1891376, 5175084, -10129805
+Bodies: 15 (7 planets, 8 moons)
+
+System:
+- HOND (r rocky, creased)
+- ULAM (k thick atmosphere)
+- ELOF (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (k thick atmosphere)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ORANGE STAR,HAS 7 PLANETS AND 8 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:579.558

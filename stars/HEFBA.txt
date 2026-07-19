@@ -1,0 +1,6 @@
+Star: HEFBA
+Star class: S07
+Paris coordinates: 4776048, 5351212, 877463
+Bodies: 0 (0 planets, 0 moons)
+
+System:

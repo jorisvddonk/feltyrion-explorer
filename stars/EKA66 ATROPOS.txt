@@ -1,0 +1,51 @@
+Star: EKA66 ATROPOS
+Star class: S08
+Paris coordinates: 1083920, 265528, 967600
+Bodies: 24 (5 planets, 19 moons)
+
+System:
+- EKA66 CLOTHO (* companion star)
+- EKA66 LACHESIS (* companion star)
+  - Moon #0 (n thin atmosphere)
+- EKA66 SURPRISE (* companion star)
+  - Moon #0 (@ large, not consistent)
+- EKA66 RIDICULOUS (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (q quartz surface)
+- Planet #4 (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (f felisian)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (+ substellar object)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (d dusty, craterized)
+
+Guide entries:
+A MULTIPLE SYSTEM WITH THREE STARS, ALL GREY GIANTS. IT HAS A BUNCH OF
+PLANETS AND MOONS, AS WELL. NO LITHIUM HERE. --EKA
+THIS SYSTEM IS GOING TO BE HELLISH TO EXPLORE, I JUST FOUND THAT
+ONE OF THE PLANETS IS OVER 1000 DYAMS AWAY FROM THE STARS. WHAT
+A FREAKISH SYSTEM.. --EKA
+WELL WHAT DO YOU KNOW, THERE'S A FOURTH STAR IN THE SYSTEM. IT'S
+FAR AWAY FROM THE OTHER 3, AND IS A BLUE DWARF (IF I'M NOT
+MISTAKEN) WHILE THE OTHERS ARE GREY GIANTS. --EKA
+DEAR LORD, THERE'S A FIFTH PLANET THAT'S OVER 9000 DYAMS AWAY!!
+I'LL TRY TO REACH IT BUT I DON'T REALLY THINK I'LL HAVE THE
+PATIENCE. MAYBE I'LL LOG OFF AND LEAVE IT ON AUTO-PILOT WHILE
+I SLEEP, THOUGH I'M NOT SURE WHETHER OR NOT THAT FEATURE WORKS.
+ANYHOO, I'M GOING TO ATTEMT THE CLOSER PLANET (1000 DYAMS)
+FIRST. --EKA
+ NOPE, NO AUTOPILOT AVAILABLE (DAMN YOU FOTTIFOH!! LOL). THIS IS
+GOING TO BE A LOOOONG RIDE.. --EKA
+ANNNND.. THE PLANET THAT WAS 1000 DYAMS AWAY TURNED OUT TO BE A
+FIFTH STAR. THIS SYSTEM WOULD BE ENTHRALLING IF TRAVEL WASN'T SO
+LONG. --EKA

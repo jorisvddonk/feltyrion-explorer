@@ -1,0 +1,17 @@
+Star: ISOTOPE
+Star class: S02
+Paris coordinates: 4237104, 2139746, 4794659
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- ISOTOPE I (d dusty, craterized)
+- ISOTOPE II (q quartz surface)
+- ISOTOPE III (n thin atmosphere)
+- ISOTOPE IV (q quartz surface)
+- ISOTOPE V (q quartz surface)
+- ISOTOPE VI (@ large, not consistent)
+- ISOTOPE VII (n thin atmosphere)
+- ISOTOPE VIII (d dusty, craterized)
+
+Guide entries:
+A CLASS S02 SYSTEM WITH 8 PLANETS. SKINNYMON EPOC 6011 585.842

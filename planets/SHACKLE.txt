@@ -1,0 +1,3 @@
+Planet: SHACKLE
+Starmap index: 01
+Paris coordinates: 2325712, 4064684, -1710261

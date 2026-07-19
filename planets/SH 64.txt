@@ -1,0 +1,3 @@
+Planet: SH 6/4
+Starmap index: 31
+Paris coordinates: 3366416, 4232527, -498413

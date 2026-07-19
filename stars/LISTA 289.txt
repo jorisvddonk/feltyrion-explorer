@@ -1,0 +1,12 @@
+Star: LISTA 289
+Star class: S05
+Paris coordinates: 1950029712, -2066476, 261092
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- UORCAND (d dusty, craterized)
+- AOTHOSK (@ large, not consistent)
+- LYCRARD (d dusty, craterized)
+
+Guide entries:
+A CLASS S05 WITH 3 PLANETS AND LITHIUM. SKINNYMON EPOC 6011 623.688

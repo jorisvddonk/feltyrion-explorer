@@ -1,0 +1,23 @@
+Star: LAIN'S NAVI
+Star class: S08
+Paris coordinates: 3708208, 4249889, -2171700
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- Planet #0 (* companion star)
+  - CRYSTAL RED (q quartz surface)
+  - Moon #1 (@ large, not consistent)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- IMBLIND (* companion star)
+  - CROLE (d dusty, craterized)
+  - CRYSTAL GREEN (q quartz surface)
+  - FELICIA 9 (f felisian)
+- Planet #4 (^ unstable)
+
+Guide entries:
+FOUND STAR NO LITHIUM BUT FOUND A FEL PLANET WITH LIFE
+NAMED PLANET FELICIA 9...ANIMAL LIFE CONFIRMED
+POSSIBLE CIVILIZATION FOUND. SEE UFO SIGHTING
+EPOCH 6011 645-425-122

@@ -1,0 +1,17 @@
+Star: ANCESTRY XXVIII
+Star class: S02
+Paris coordinates: -1425811472, 822943, 1435793455
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (r rocky, creased)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (@ large, not consistent)
+
+Guide entries:
+S02, 6 PLANETS(1 QUARTZ, 2 THIN-AT, 1 THICK-AT).                            
+RYAN GJK E6011.783.716                                                      

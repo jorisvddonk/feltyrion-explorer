@@ -1,0 +1,3 @@
+Planet: ASKEW 13B
+Starmap index: 02
+Paris coordinates: 9793136, 8261854, 8231802

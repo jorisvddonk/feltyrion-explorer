@@ -1,0 +1,6 @@
+Planet: PYROS
+Starmap index: 11
+Paris coordinates: 3901424, -66380183, -2847415
+
+Guide entries:
+AN ORANGE HELLWORLD TOO UNSTABLE TO LAND ON. (SCHMERM 6011 592.966)

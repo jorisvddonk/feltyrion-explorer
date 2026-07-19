@@ -1,0 +1,25 @@
+Star: SERACUS
+Star class: S00
+Paris coordinates: 5576048, 4858380, 29991
+Bodies: 15 (5 planets, 10 moons)
+
+System:
+- LOCA (@ large, not consistent)
+- SINE (@ large, not consistent)
+- PETTYMYS (@ large, not consistent)
+  - FIREICE (^ unstable)
+  - TEMUIS (d dusty, craterized)
+  - DESAR (n thin atmosphere)
+  - GROWL (r rocky, creased)
+  - SERI (^ unstable)
+- VIISAS (f felisian)
+  - RUUTU (d dusty, craterized)
+  - INKUBI (d dusty, craterized)
+- OLOVI (f felisian)
+  - MAINEN (d dusty, craterized)
+  - KAUHU (d dusty, craterized)
+  - JUUSTO (d dusty, craterized)
+
+Guide entries:
+CLASS 0 PLANET FOUND BY PIETARI SEPPAENEN EPOC 6011:604.571
+15 SATELLITES: 5 PLANETS, 10 MINOR BODIES.

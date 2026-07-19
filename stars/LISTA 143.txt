@@ -1,0 +1,9 @@
+Star: LISTA 143
+Star class: S06
+Paris coordinates: 490271792, -1957524, -131590
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL TIME FOR BONZO! SKINNYMON EPOC 6011 607.449

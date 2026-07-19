@@ -1,0 +1,6 @@
+Planet: SANDHILL
+Starmap index: 07
+Paris coordinates: 3663568, 4179686, -2879759
+
+Guide entries:
+ HILLY AND QUITE ROCKY.

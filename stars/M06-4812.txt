@@ -1,0 +1,25 @@
+Star: M06-4812
+Star class: S08
+Paris coordinates: -39141040, 1343825, 32123584
+Bodies: 16 (5 planets, 11 moons)
+
+System:
+- M06-4812 A (* companion star)
+  - M06-4812 A1 (+ substellar object)
+- MO6-4812 1 (q quartz surface)
+- M06-4812 B (* companion star)
+  - M06-4812 B1 (@ large, not consistent)
+  - M06-4812 B2 (d dusty, craterized)
+  - M06-4812 B3 (k thick atmosphere)
+  - BROBORIAL (f felisian)
+  - M06-4812 B5 (q quartz surface)
+  - M06-4812 B6 (n thin atmosphere)
+- M06-4812 C (* companion star)
+  - M06-4812 C1 (@ large, not consistent)
+  - DENTRINITONUS (f felisian)
+  - M06-4812 C3 (d dusty, craterized)
+- M06-4812 2 (n thin atmosphere)
+  - M06-4812 2A (d dusty, craterized)
+
+Guide entries:
+ROLAND ASKEW (EPOC 6011 597.576)

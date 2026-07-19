@@ -1,0 +1,6 @@
+Planet: NOMMOS A
+Starmap index: 16
+Paris coordinates: 3625712, -66300682, -2983002
+
+Guide entries:
+DARK BLUE THINWORLD, SMALL. (SCHMERM 6011 593.793)

@@ -1,0 +1,6 @@
+Planet: VIRGO
+Starmap index: 05
+Paris coordinates: 4293552, 4257950, 277464
+
+Guide entries:
+ DISCOVERED EPOC 6011.573.228 BY JOSEPH HILL

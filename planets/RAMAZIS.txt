@@ -1,0 +1,3 @@
+Planet: RAMAZIS
+Starmap index: 05
+Paris coordinates: -61977232, 29976018, 671734

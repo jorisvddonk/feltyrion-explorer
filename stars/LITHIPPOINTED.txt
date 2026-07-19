@@ -1,0 +1,10 @@
+Star: LITHIPPOINTED
+Star class: S06
+Paris coordinates: -21044976, -132757, 15580832
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ELHAM EPOC 6011.722.984.9XX. CLASS 6 STAR, NO                 
+LITHIUM.                                                                    

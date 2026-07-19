@@ -1,0 +1,10 @@
+Star: NOGAS3
+Star class: S06
+Paris coordinates: 3782832, 5033628, 2077374
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 572.155
+NO LITHIUM

@@ -1,0 +1,6 @@
+Star: J.M. OCTANE SPRINGS
+Star class: S06
+Paris coordinates: -19076880, -5635375, 40837025
+Bodies: 0 (0 planets, 0 moons)
+
+System:

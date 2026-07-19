@@ -1,0 +1,14 @@
+Star: HANDEN2
+Star class: S00
+Paris coordinates: 3604272, 4832627, -412972
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- EREBOS (k thick atmosphere)
+- VASTITAS (d dusty, craterized)
+- ICKYHOK (f felisian)
+
+Guide entries:
+YELLOW STAR WITH THREE PLANETS AND NO MOONS. DISCOVERER UNKNOWN.            
+THE MOST DISTANT PLANET, ICKYHOK, HARBOURS LIFE.                            
+(JAVIER, 6011:685.952)                                                      

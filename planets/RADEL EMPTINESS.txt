@@ -1,0 +1,3 @@
+Planet: RADEL EMPTINESS
+Starmap index: 01
+Paris coordinates: -39623536, 1598313, 31505959

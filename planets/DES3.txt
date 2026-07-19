@@ -1,0 +1,7 @@
+Planet: DES3
+Starmap index: 03
+Paris coordinates: 36432, 433110, -621435
+
+Guide entries:
+IT IS IMPOSSIBLE TO LAND ON THIS PLANET
+(NOTES BY CHRIS MARSH, EPOC 6011:566.619)

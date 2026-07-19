@@ -1,0 +1,3 @@
+Planet: ASKEW 182A1
+Starmap index: 04
+Paris coordinates: 3551760, 333345, 2308899

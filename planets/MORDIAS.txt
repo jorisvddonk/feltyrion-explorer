@@ -1,0 +1,3 @@
+Planet: MORDIAS
+Starmap index: 14
+Paris coordinates: 4855696, 4327844, -667718

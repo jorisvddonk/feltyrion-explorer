@@ -1,0 +1,11 @@
+Star: MER DE NOMS
+Star class: S11
+Paris coordinates: 3670352, 5426447, -2451059
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- THE HOLLOW (d dusty, craterized)
+
+Guide entries:
+A TINY PULSAR-ISH OBJECT, NOT THE IDEAL PICNIC SPOT. UNSAFE TOO.
+(NAMED AND DISCOVERED ON 6011:624.838, BY N5CORP)

@@ -1,0 +1,3 @@
+Planet: SMALIDES
+Starmap index: 14
+Paris coordinates: -61132592, 29530985, 540729

@@ -1,0 +1,6 @@
+Star: FGS OPHELIA
+Star class: S02
+Paris coordinates: 1411550000, 50000, -1411650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Star: GLOSSSHINE
+Star class: S08
+Paris coordinates: -24298992, -17560935, 38949019
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A PLANETLESS S08. RYAN GJK E6011.788.802                                    

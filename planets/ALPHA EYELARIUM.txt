@@ -1,0 +1,3 @@
+Planet: ALPHA EYELARIUM
+Starmap index: 01
+Paris coordinates: 1187856, 100068510, -905330

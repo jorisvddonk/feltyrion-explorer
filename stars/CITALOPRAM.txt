@@ -1,0 +1,11 @@
+Star: CITALOPRAM
+Star class: S10
+Paris coordinates: 1074288, -67776523, -1340315
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- AIMIRALL (n thin atmosphere)
+- PRODES (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:494

@@ -1,0 +1,3 @@
+Planet: VIDARA 4
+Starmap index: 04
+Paris coordinates: -7335344, -13180723, 4292289

@@ -1,0 +1,3 @@
+Planet: ASSUN
+Starmap index: 13
+Paris coordinates: 4159632, 4436827, -1722935

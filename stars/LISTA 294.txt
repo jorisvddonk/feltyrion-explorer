@@ -1,0 +1,9 @@
+Star: LISTA 294
+Star class: S05
+Paris coordinates: 2001042704, -1865556, 283740
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S05, NO PLANETS, BUT LITHIUM. SKINNYMON EPOC 6011 623.691

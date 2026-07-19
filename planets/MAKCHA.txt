@@ -1,0 +1,3 @@
+Planet: MAKCHA
+Starmap index: 39
+Paris coordinates: 4146064, 4893991, -2244689

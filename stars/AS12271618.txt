@@ -1,0 +1,16 @@
+Star: AS12271618
+Star class: S00
+Paris coordinates: 49858960, -62046, 1990919714
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- AS12271618A (r rocky, creased)
+- AS12271618B (d dusty, craterized)
+- AS12271618C (r rocky, creased)
+- NTRALIFA (f felisian)
+  - AS12271618D1 (d dusty, craterized)
+  - AS12271618D2 (d dusty, craterized)
+- AS12271618E (d dusty, craterized)
+- AS12271618F (n thin atmosphere)
+  - AS12271618F1 (^ unstable)
+  - AS12271618F2 (d dusty, craterized)

@@ -1,0 +1,3 @@
+Planet: MIDWAY
+Starmap index: 02
+Paris coordinates: 11658800, -19375646, 17868620

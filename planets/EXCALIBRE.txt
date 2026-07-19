@@ -1,0 +1,3 @@
+Planet: EXCALIBRE
+Starmap index: 03
+Paris coordinates: -174288, 9638409, 793201

@@ -1,0 +1,10 @@
+Star: LISTA 38
+Star class: S05
+Paris coordinates: 4604272, 4597418, -1445868
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ LITHIUM SCOPABLE. NO PLANETS.
+SKINNYMON EPOC 6011 584.669

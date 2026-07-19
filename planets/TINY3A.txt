@@ -1,0 +1,3 @@
+Planet: TINY3A
+Starmap index: 04
+Paris coordinates: 4266416, 4555884, -1153667

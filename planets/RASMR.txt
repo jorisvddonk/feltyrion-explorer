@@ -1,0 +1,8 @@
+Planet: RASMR
+Starmap index: 12
+Paris coordinates: 634216304, -10847893, 49858171
+
+Guide entries:
+M04/P05 SMALL AND CRATERIZED WITH DUSTY GREEN REFLECTIVITY. LARGE           
+CRATERS AND LIGHTER TONE RAYS. PRO 0.107.280; PRV 0.002.860.917             
+SKINNYMON 6011 893.69                                                       

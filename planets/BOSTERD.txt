@@ -1,0 +1,3 @@
+Planet: BOSTERD
+Starmap index: 01
+Paris coordinates: 4190704, 4843563, -1729734

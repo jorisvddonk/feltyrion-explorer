@@ -1,0 +1,7 @@
+Planet: GRELYA
+Starmap index: 01
+Paris coordinates: -1683920, 239528, -131961
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.943 -                                
+SMALL. SOLID. DUSTY. CRATERIZED. NO ATMOSPHERE.                             

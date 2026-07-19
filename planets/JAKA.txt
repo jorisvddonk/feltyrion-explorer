@@ -1,0 +1,8 @@
+Planet: JAKA
+Starmap index: 04
+Paris coordinates: 2759632, 5219210, -341691
+
+Guide entries:
+DISCOVERED 6011.719.440 BY CEREBUS                                          
+A PLEASANT WORLD, ONLY AVIAN LIFE SEEN                                      
+FURTHER EXPLORATION PLANNED AT A LATER DATE                                 

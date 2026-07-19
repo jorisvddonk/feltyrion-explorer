@@ -1,0 +1,6 @@
+Planet: BITTER
+Starmap index: 06
+Paris coordinates: 4648912, 5743891, -726921
+
+Guide entries:
+ ROCKY CREASED AND NO ATMOSPHERE (KRUSTY 6011:596.540)

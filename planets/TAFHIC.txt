@@ -1,0 +1,7 @@
+Planet: TAFHIC
+Starmap index: 02
+Paris coordinates: 2037570768, -132625, -1685345
+
+Guide entries:
+P02/05 SMALL SOLID, THIN ATMO, QUITE DARK, SLIGHT POLAR CAPS. PRO 0.        
+207.720 PRV 0.024.151.960 SKINNYMON 6011 796.822                            

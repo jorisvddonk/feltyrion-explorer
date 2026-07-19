@@ -1,0 +1,3 @@
+Planet: DIONESE 3
+Starmap index: 03
+Paris coordinates: 2147256592, 1306897, 600539937

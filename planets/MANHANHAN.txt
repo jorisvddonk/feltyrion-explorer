@@ -1,0 +1,3 @@
+Planet: MANHANHAN
+Starmap index: 01
+Paris coordinates: 4589616, 3976815, 1601700

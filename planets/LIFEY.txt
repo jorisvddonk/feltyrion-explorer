@@ -1,0 +1,6 @@
+Planet: LIFEY
+Starmap index: 04
+Paris coordinates: 770352, 2831847, 587839
+
+Guide entries:
+FELYSIAN PLANET DISCOVERED BY BJS EPOC 6011:583.868

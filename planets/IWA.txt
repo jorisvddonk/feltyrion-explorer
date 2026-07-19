@@ -1,0 +1,6 @@
+Planet: IWA
+Starmap index: 05
+Paris coordinates: 3552848, 6145109, -1343871
+
+Guide entries:
+SMALL SOLID DUSTY CRATERIZED (KRUSTY 6011:596.997)

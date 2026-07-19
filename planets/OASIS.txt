@@ -1,0 +1,3 @@
+Planet: OASIS
+Starmap index: 03
+Paris coordinates: 4877136, 4743462, -3053809

@@ -1,0 +1,3 @@
+Planet: VILKONEN
+Starmap index: 02
+Paris coordinates: 14464240, 9025215, -3731651

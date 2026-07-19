@@ -1,0 +1,15 @@
+Star: SYLLAB
+Star class: S04
+Paris coordinates: 4297488, 4541055, -1442103
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- CAERUL (k thick atmosphere)
+- ANAXON (q quartz surface)
+- AUSSIEJA (r rocky, creased)
+- VERIDIA (d dusty, craterized)
+- CANTABER (r rocky, creased)
+  - CRAENU (^ unstable)
+  - GENAUNUS (n thin atmosphere)
+- SACHOIR (r rocky, creased)
+  - BRANA (d dusty, craterized)

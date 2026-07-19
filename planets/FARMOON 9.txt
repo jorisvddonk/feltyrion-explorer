@@ -1,0 +1,6 @@
+Planet: FARMOON 9
+Starmap index: 28
+Paris coordinates: 4173200, 5584233, -640733
+
+Guide entries:
+ NOTHING TO SEE HERE. (STARGAZER. EPOC 6011; 585.345)

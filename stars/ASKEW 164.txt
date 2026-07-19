@@ -1,0 +1,8 @@
+Star: ASKEW 164
+Star class: S08
+Paris coordinates: 7675632, -9921843, 11384282
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASKEW 164A (k thick atmosphere)
+- ASKEW 164B (* companion star)

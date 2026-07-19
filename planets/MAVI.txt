@@ -1,0 +1,6 @@
+Planet: MAVI
+Starmap index: 03
+Paris coordinates: 5594640, -64060639, -4847695
+
+Guide entries:
+FELISIAN; BLUE/GREEN

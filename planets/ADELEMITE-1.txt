@@ -1,0 +1,6 @@
+Planet: ADELEMITE-1
+Starmap index: 01
+Paris coordinates: 4617840, 4649796, -645240
+
+Guide entries:
+NO ATHMOSPHERE, BARREN BORING WORLD

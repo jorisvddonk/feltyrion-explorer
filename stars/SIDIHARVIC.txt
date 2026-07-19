@@ -1,0 +1,37 @@
+Star: SIDIHARVIC
+Star class: S09
+Paris coordinates: 634216304, -10847893, 49858171
+Bodies: 26 (5 planets, 21 moons)
+
+System:
+- TIMOKMIK (@ large, not consistent)
+- DHTAODUN (@ large, not consistent)
+- RIMYEKUR (+ substellar object)
+  - LIHCUL (^ unstable)
+  - MOAJIS (r rocky, creased)
+  - ARCUL (^ unstable)
+- SEPIJ (d dusty, craterized)
+- DODEMSEM (+ substellar object)
+  - LIFKAR (r rocky, creased)
+  - SHORFHKODAL (q quartz surface)
+  - KURBIJ (n thin atmosphere)
+  - RASMR (d dusty, craterized)
+  - KERFHBIK (n thin atmosphere)
+  - DIBUFHS (d dusty, craterized)
+  - VATITAL (@ large, not consistent)
+  - CEUTA (d dusty, craterized)
+  - MIBAK (d dusty, craterized)
+  - MINUR (d dusty, craterized)
+  - TOCELIS (n thin atmosphere)
+  - VIUSK (k thick atmosphere)
+  - GHADON (q quartz surface)
+  - BAEPS (n thin atmosphere)
+  - TEHN (d dusty, craterized)
+  - SAIK (d dusty, craterized)
+  - LOICA (k thick atmosphere)
+  - RHYV (d dusty, craterized)
+
+Guide entries:
+S09 CLASS SYSTEM WITH 5 PLANETS, 21 MOONS, NO FELISIAN WORLDS.              
+0.58802754 BAL. M.; TEMP 2729 K; RAD 63.2 KR; COOR 634216304;               
+-10847893;49858171 SKINNYMON 6011 893.76                                    

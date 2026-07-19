@@ -1,0 +1,20 @@
+Star: DARRIGO
+Star class: S00
+Paris coordinates: -118928, 236846, -17202
+Bodies: 11 (7 planets, 4 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #5 (d dusty, craterized)
+- NATHAN (f felisian)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+(DISCOVERED BY NATHAN DARRIGO, 6011:613.358.700). ONE FELISIAN WORLD.

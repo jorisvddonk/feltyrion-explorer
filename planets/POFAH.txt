@@ -1,0 +1,6 @@
+Planet: POFAH
+Starmap index: 31
+Paris coordinates: 908208, 554963, 552389
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.697

@@ -1,0 +1,7 @@
+Planet: TOS 7.1
+Starmap index: 15
+Paris coordinates: 4373200, 5223248, -1089557
+
+Guide entries:
+ A DUSTY LITTLE ROCK IN SPACE, NOTHING TO SEE HERE.
+ (STARGAZER. EPOC 6011; 584.141.700)

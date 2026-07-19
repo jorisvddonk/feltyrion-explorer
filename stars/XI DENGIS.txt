@@ -1,0 +1,6 @@
+Star: XI DENGIS
+Star class: S08
+Paris coordinates: 4152848, 5418786, -2143247
+Bodies: 0 (0 planets, 0 moons)
+
+System:

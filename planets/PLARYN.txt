@@ -1,0 +1,7 @@
+Planet: PLARYN
+Starmap index: 19
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M02/P06 SMALL SOLID THIN ATMO, QUITE BRIGHT WITH LITTLE POLAR CAPS.         
+PRO 0.289.440 PRV 0.005.566.474 SKINNYMON 6011 797.99                       

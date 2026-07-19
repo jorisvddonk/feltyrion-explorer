@@ -1,0 +1,6 @@
+Star: JOHN FENWICK
+Star class: S06
+Paris coordinates: 636432, 394296, -1348229
+Bodies: 0 (0 planets, 0 moons)
+
+System:

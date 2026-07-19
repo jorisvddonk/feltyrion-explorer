@@ -1,0 +1,9 @@
+Star: SCOBOMAROOS
+Star class: S06
+Paris coordinates: 580456784, -483270, -579899622
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.569)                   

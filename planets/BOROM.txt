@@ -1,0 +1,3 @@
+Planet: BOROM
+Starmap index: 02
+Paris coordinates: 3421776, 3825800, -1077268

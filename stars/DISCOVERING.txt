@@ -1,0 +1,13 @@
+Star: DISCOVERING
+Star class: S00
+Paris coordinates: -218928, 344011, 55419
+Bodies: 7 (3 planets, 4 moons)
+
+System:
+- HOW LONLY (n thin atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)

@@ -1,0 +1,3 @@
+Planet: HYPOLUCEA
+Starmap index: 14
+Paris coordinates: -61501520, 29941691, 642079

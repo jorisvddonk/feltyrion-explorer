@@ -1,0 +1,8 @@
+Star: MENDOZA V
+Star class: S00
+Paris coordinates: -19070096, -5643873, 41206859
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)

@@ -1,0 +1,3 @@
+Planet: SPEKLE
+Starmap index: 02
+Paris coordinates: 2152848, 5035234, 135677

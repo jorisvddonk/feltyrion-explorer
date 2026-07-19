@@ -1,0 +1,7 @@
+Planet: BALPIP
+Starmap index: 06
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+P06/12 SMALL SOLID THIN ATMO QUITE DARK, VERY SLIGHT POLAR CAPS.            
+PRO 0.265.320 PRV 0.146.979.760 SKINNYMON 6011 797.99                       

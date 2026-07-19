@@ -1,0 +1,23 @@
+Star: CISCOSIS
+Star class: S11
+Paris coordinates: 4831408, 4803641, -36528
+Bodies: 13 (4 planets, 9 moons)
+
+System:
+- VIHR (n thin atmosphere)
+- KAASIAN (@ large, not consistent)
+- TUMT (n thin atmosphere)
+- DISES (@ large, not consistent)
+  - MAUNU (q quartz surface)
+  - NALLI (d dusty, craterized)
+  - MAHMI (q quartz surface)
+  - JAINEN (i icy surface)
+  - NAIR (i icy surface)
+  - GLIT (i icy surface)
+  - CAIR (i icy surface)
+  - KAUNU (d dusty, craterized)
+  - NANKI (i icy surface)
+
+Guide entries:
+PULSAR FOUND BY PIETARI SEPPAENEN, EPOC 6011:604.521.
+13 SATELLITES, 4 MAJOR, 9 MINOR.

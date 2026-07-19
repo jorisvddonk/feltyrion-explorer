@@ -1,0 +1,3 @@
+Planet: PEARL PLACE
+Starmap index: 30
+Paris coordinates: 570352, -17743, 592279

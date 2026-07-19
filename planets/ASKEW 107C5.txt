@@ -1,0 +1,3 @@
+Planet: ASKEW 107C5
+Starmap index: 08
+Paris coordinates: 1871024, -12055815, 9183677

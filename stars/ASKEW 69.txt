@@ -1,0 +1,41 @@
+Star: ASKEW 69
+Star class: S03
+Paris coordinates: 10876304, -19048790, 17868166
+Bodies: 32 (15 planets, 17 moons)
+
+System:
+- ASKEW 69A (r rocky, creased)
+- ASKEW 69B (k thick atmosphere)
+- ASKEW 69C (n thin atmosphere)
+  - ASKEW 69C1 (d dusty, craterized)
+  - ASKEW 69C2 (d dusty, craterized)
+- ASKEW 69D (q quartz surface)
+  - ASKEW 69D1 (d dusty, craterized)
+- ASKEW 69E (@ large, not consistent)
+  - ASKEW 69E1 (n thin atmosphere)
+  - ASKEW 69E2 (^ unstable)
+- ASKEW 69F (d dusty, craterized)
+- ASKEW 69G (n thin atmosphere)
+  - ASKEW 69G1 (d dusty, craterized)
+  - ASKEW 69G2 (n thin atmosphere)
+- ASKEW 69H (k thick atmosphere)
+  - ASKEW 69H1 (d dusty, craterized)
+- ASKEW 69I (k thick atmosphere)
+  - ASKEW 69I1 (^ unstable)
+- ASKEW 69J (@ large, not consistent)
+  - ASKEW 69J1 (^ unstable)
+  - ASKEW 69J2 (n thin atmosphere)
+- ASKEW 69K (d dusty, craterized)
+- ASKEW 69L (+ substellar object)
+  - ASKEW 69L1 (k thick atmosphere)
+  - ASKEW 69K2 (i icy surface)
+  - ASKEW 69K3 (i icy surface)
+  - ASKEW 69K4 (i icy surface)
+  - ASKEW 69K5 (i icy surface)
+  - ASKEW 69K6 (i icy surface)
+- ASKEW 69M (d dusty, craterized)
+- ASKEW 69N (d dusty, craterized)
+- ASKEW 69O (d dusty, craterized)
+
+Guide entries:
+1 QUARTZ WORLD

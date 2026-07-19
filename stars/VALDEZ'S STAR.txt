@@ -1,0 +1,10 @@
+Star: VALDEZ'S STAR
+Star class: S06
+Paris coordinates: 2601424, 3943702, -1517513
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY CAPT. CARLOS ON 6011.602.876.153. CAPABLE OF
+FUELING STARDRIFTERS.

@@ -1,0 +1,10 @@
+Star: HEPHAEOS
+Star class: S06
+Paris coordinates: 2147286512, 1541622, 700812518
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:786.914
+(S06) LI+

@@ -1,0 +1,3 @@
+Planet: OPOS
+Starmap index: 02
+Paris coordinates: 4952848, 5223912, -2686282

@@ -1,0 +1,10 @@
+Star: CPN 16
+Star class: S06
+Paris coordinates: -62128656, 29740284, -172400
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM FUEL STATION DISCOVERED BY MCWGOGS, EPOC 6011.645.211.
+HAPPY DRIFTING!

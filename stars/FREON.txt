@@ -1,0 +1,25 @@
+Star: FREON
+Star class: S00
+Paris coordinates: 2821776, 4685513, -444062
+Bodies: 16 (3 planets, 13 moons)
+
+System:
+- FELIX (@ large, not consistent)
+- TATU (k thick atmosphere)
+- LEON (@ large, not consistent)
+  - LILI (n thin atmosphere)
+  - CROFT (n thin atmosphere)
+  - APACHE (q quartz surface)
+  - VESUVIJ (^ unstable)
+  - PERUZZI (k thick atmosphere)
+  - BURNY (k thick atmosphere)
+  - TODD (n thin atmosphere)
+  - BROWN (k thick atmosphere)
+  - CRATER (d dusty, craterized)
+  - KEIKO (d dusty, craterized)
+  - ETNA (^ unstable)
+  - JARG (d dusty, craterized)
+  - LONNY (^ unstable)
+
+Guide entries:
+INTRUDER 6011:572.550.331

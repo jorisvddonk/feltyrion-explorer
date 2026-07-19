@@ -1,0 +1,9 @@
+Star: ZINDABAD
+Star class: S04
+Paris coordinates: 4579984, 4237351, -899023
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.269

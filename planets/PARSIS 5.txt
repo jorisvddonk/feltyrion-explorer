@@ -1,0 +1,6 @@
+Planet: PARSIS 5
+Starmap index: 05
+Paris coordinates: 2952848, 6448045, -840503
+
+Guide entries:
+ DUSTY, CRATERISED. NOTHING TO SEE HERE. (STARGAZER. EPOC 6011:495)

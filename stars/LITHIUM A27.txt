@@ -1,0 +1,6 @@
+Star: LITHIUM A27
+Star class: S06
+Paris coordinates: 6549328, 4782719, -16079008
+Bodies: 0 (0 planets, 0 moons)
+
+System:

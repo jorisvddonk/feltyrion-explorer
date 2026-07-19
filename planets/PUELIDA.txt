@@ -1,0 +1,3 @@
+Planet: PUELIDA
+Starmap index: 19
+Paris coordinates: -314992, -16059700, -1548818

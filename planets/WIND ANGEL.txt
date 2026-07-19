@@ -1,0 +1,6 @@
+Planet: WIND ANGEL
+Starmap index: 06
+Paris coordinates: 363568, 105380, 678168
+
+Guide entries:
+ NAMED BY PICHERITY, EPOC 6011 683.397                                      

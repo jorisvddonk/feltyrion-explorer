@@ -1,0 +1,20 @@
+Star: XZOR
+Star class: S01
+Paris coordinates: -36432, 455799, 848018
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (+ substellar object)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (r rocky, creased)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.845

@@ -1,0 +1,7 @@
+Planet: IONA
+Starmap index: 02
+Paris coordinates: 2132496, 5007520, -1099311
+
+Guide entries:
+1.HEAVILY CRATERED AIRLESS PLANET
+2.DISCOVERED BY KJ EPOC 6011:574.287

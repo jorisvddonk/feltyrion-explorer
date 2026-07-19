@@ -1,0 +1,6 @@
+Planet: ROTATIVA-1
+Starmap index: 01
+Paris coordinates: 2432496, 4960346, -1369595
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.687.398 -                                

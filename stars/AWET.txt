@@ -1,0 +1,15 @@
+Star: AWET
+Star class: S00
+Paris coordinates: 1921776, 5644011, 440921
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- AWET.1(S) (k thick atmosphere)
+- AWET.2(!) (+ substellar object)
+- AWET.3(F) (f felisian)
+- AWET.4(S) (k thick atmosphere)
+  - AWET.4.1(S) (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED BY YAYO (ROBERTO CORREZZOLA), E.6011:686.15.              
+(Y, E.6011:686.16).                                                         

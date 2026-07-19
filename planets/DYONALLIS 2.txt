@@ -1,0 +1,3 @@
+Planet: DYONALLIS 2
+Starmap index: 02
+Paris coordinates: 201035312, 1486577, 55212486

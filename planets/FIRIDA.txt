@@ -1,0 +1,7 @@
+Planet: FIRIDA
+Starmap index: 14
+Paris coordinates: 3408208, 420650, -1856116
+
+Guide entries:
+CLOUDY; GREY/BROWN
+LOW-G, THICK BROWN ATMOSPHERE OBSCURING THE STAR

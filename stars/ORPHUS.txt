@@ -1,0 +1,8 @@
+Star: ORPHUS
+Star class: S00
+Paris coordinates: 594640, 6221744, 116255
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- SUBORPHUS (+ substellar object)

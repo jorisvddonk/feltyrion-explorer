@@ -1,0 +1,3 @@
+Planet: XAX 2
+Starmap index: 02
+Paris coordinates: 1502152496, 1542970, 55461322

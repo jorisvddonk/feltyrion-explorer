@@ -1,0 +1,3 @@
+Planet: ASGARD
+Starmap index: 08
+Paris coordinates: 4004272, 4632329, -729962

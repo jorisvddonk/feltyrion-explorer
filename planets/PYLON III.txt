@@ -1,0 +1,7 @@
+Planet: PYLON III
+Starmap index: 03
+Paris coordinates: 4170352, -66267901, -3045501
+
+Guide entries:
+A GREEN DEADWORLD WITH A CLOSELY-ORBITING MOON.
+(SCHMERM 6011 593.728)

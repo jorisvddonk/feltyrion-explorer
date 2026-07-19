@@ -1,0 +1,3 @@
+Planet: SEABERG
+Starmap index: 28
+Paris coordinates: 3952848, 5179972, -1848799

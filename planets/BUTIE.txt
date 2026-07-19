@@ -1,0 +1,3 @@
+Planet: BUTIE
+Starmap index: 01
+Paris coordinates: 3635344, 4313073, -529975

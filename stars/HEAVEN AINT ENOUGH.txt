@@ -1,0 +1,9 @@
+Star: HEAVEN AINT ENOUGH
+Star class: S04
+Paris coordinates: 21625968, 5906963, 2201148
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- DARKLESS (k thick atmosphere)
+- Planet #1 (@ large, not consistent)
+- KIVA WHITE (q quartz surface)

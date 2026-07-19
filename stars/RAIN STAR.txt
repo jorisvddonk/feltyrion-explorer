@@ -1,0 +1,9 @@
+Star: RAIN STAR
+Star class: S05
+Paris coordinates: -250421648, -1402159, 55016324
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.576.297

@@ -1,0 +1,6 @@
+Planet: BLIND IO
+Starmap index: 03
+Paris coordinates: 4293552, 4257950, 277464
+
+Guide entries:
+ DISCOVERED EPOC 6011.573.227 BY JOSEPH HILL.

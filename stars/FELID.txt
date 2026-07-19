@@ -1,0 +1,15 @@
+Star: FELID
+Star class: S00
+Paris coordinates: -325712, 31538, -48985
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- NAME (@ large, not consistent)
+- PICK (n thin atmosphere)
+- UT CREDO (f felisian)
+  - RAIMENT (d dusty, craterized)
+- SHARK (r rocky, creased)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 4 PLANETS AND 1 MOON, ONE FELISIAN WORLD.
+SKINNYMON EPOC 6011 580.737

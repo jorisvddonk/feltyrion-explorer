@@ -1,0 +1,3 @@
+Planet: PEENUT
+Starmap index: 01
+Paris coordinates: -107367024, 24913242, -1652146

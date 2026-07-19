@@ -1,0 +1,9 @@
+Star: ALSAKI CCIIX
+Star class: S11
+Paris coordinates: 15568176, 32197623, -6766981
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)

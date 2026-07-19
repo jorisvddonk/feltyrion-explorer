@@ -1,0 +1,8 @@
+Star: ASTRO PATH A61
+Star class: S00
+Paris coordinates: 5665488, 4037730, -35487242
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)

@@ -1,0 +1,6 @@
+Planet: GRABEN
+Starmap index: 01
+Paris coordinates: 3377136, 4858630, -1777198
+
+Guide entries:
+ PLANET DISCOVERED BY DORIAN EPOC 6011:609.356

@@ -1,0 +1,3 @@
+Planet: GMUSE
+Starmap index: 05
+Paris coordinates: 2721776, -23948225, -404417

@@ -1,0 +1,10 @@
+Star: REST STOP
+Star class: S06
+Paris coordinates: 4793552, 4697362, -321579
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR, NEXT 18 L.Y.S
+DISCOVERED BY NERD, EPOC 6011:600.622.725

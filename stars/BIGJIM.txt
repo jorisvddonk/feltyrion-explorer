@@ -1,0 +1,6 @@
+Star: BIGJIM
+Star class: S01
+Paris coordinates: 3818928, 6260735, -3560794
+Bodies: 0 (0 planets, 0 moons)
+
+System:

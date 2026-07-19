@@ -1,0 +1,7 @@
+Planet: REFHK
+Starmap index: 50
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M08/P10 SMALL SOLID ICY MEDIUM GREEN WITH MOTTLING AND DARK GROOVING        
+PRO 0.243.0 PRV 0.003.252.837                                               

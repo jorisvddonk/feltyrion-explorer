@@ -1,0 +1,6 @@
+Planet: FARLANDOR
+Starmap index: 04
+Paris coordinates: 2642128, 1521735, 883346
+
+Guide entries:
+FELYSIAN PLANET DISCOVERED BY BJS EPOC 6011:583.903

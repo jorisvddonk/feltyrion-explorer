@@ -1,0 +1,8 @@
+Planet: LIFHYM
+Starmap index: 09
+Paris coordinates: 2060873872, -1780546, 127470
+
+Guide entries:
+M02/P04 SMALL SOLID THIN ATMO, FIRLY BRIGHT, GOOD POLAR CAPS, WHAT I        
+WOULD HAVE EXPECTED FROM PLANET 2. PRO 0.179.280 PRV 0.004.569.784          
+SKINNYMON 6011 596.43                                                       

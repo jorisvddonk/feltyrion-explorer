@@ -1,0 +1,44 @@
+Star: ASKEW 73
+Star class: S00
+Paris coordinates: 11114160, -19128369, 17805737
+Bodies: 35 (11 planets, 24 moons)
+
+System:
+- ASKEW 73A (k thick atmosphere)
+- ASKEW 73B (r rocky, creased)
+- ASKEW 73C (d dusty, craterized)
+  - ASKEW 73C1 (n thin atmosphere)
+- ASKEW 73D (+ substellar object)
+  - ASKEW 73D1 (n thin atmosphere)
+  - ASKEW 73D2 (k thick atmosphere)
+  - WHIRI-NGA (f felisian)
+  - ASKEW 73D5 (@ large, not consistent)
+  - Moon #4 (d dusty, craterized)
+  - ASKEW 73D6 (d dusty, craterized)
+  - ASKEW 73D7 (k thick atmosphere)
+  - ASKEW 73D8 (k thick atmosphere)
+  - ASKEW 73D9 (d dusty, craterized)
+  - ASKEW 73D10 (r rocky, creased)
+- VENICI WONG (f felisian)
+- ASKEW 73F (n thin atmosphere)
+  - ASKEW 73F1 (d dusty, craterized)
+- ASKEW 73G (r rocky, creased)
+- ASKEW 73H (r rocky, creased)
+  - ASKEW 73H1 (^ unstable)
+- ASKEW 73I (i icy surface)
+  - ASKEW 73I1 (n thin atmosphere)
+- ASKEW 73J (@ large, not consistent)
+  - ASKEW 73J1 (r rocky, creased)
+  - ASKEW 73J2 (n thin atmosphere)
+  - ASKEW 73J3 (^ unstable)
+  - ASKEW 73J4 (i icy surface)
+  - ASKEW 73J5 (i icy surface)
+  - ASKEW 73J6 (i icy surface)
+  - ASKEW 73J7 (i icy surface)
+  - ASKEW 73J8 (i icy surface)
+  - ASKEW 73J9 (i icy surface)
+- ASKEW 73K (d dusty, craterized)
+  - ASKEW 73K1 (n thin atmosphere)
+
+Guide entries:
+2 FELISIAN WORLDS

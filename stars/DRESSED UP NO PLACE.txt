@@ -1,0 +1,6 @@
+Star: DRESSED UP NO PLACE
+Star class: S00
+Paris coordinates: -932496, -568957, 275471
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: RECALL
+Starmap index: 02
+Paris coordinates: 2669264, 2239373, 2256637

@@ -1,0 +1,3 @@
+Planet: SERGEIOV J2
+Starmap index: 59
+Paris coordinates: -72317424, -1376064, 54932106

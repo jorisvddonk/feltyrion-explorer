@@ -1,0 +1,3 @@
+Planet: LANERIS
+Starmap index: 14
+Paris coordinates: -61439376, 29916264, 239760

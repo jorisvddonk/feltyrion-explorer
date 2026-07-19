@@ -1,0 +1,3 @@
+Planet: JAWBREAKER XIII
+Starmap index: 05
+Paris coordinates: -107335952, 24959881, -1997831

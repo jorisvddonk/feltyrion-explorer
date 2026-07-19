@@ -1,0 +1,10 @@
+Star: JURON
+Star class: S06
+Paris coordinates: 2801424, 4939203, -1747265
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:874.877

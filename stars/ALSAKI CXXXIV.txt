@@ -1,0 +1,8 @@
+Star: ALSAKI CXXXIV
+Star class: S11
+Paris coordinates: 16168176, 31980009, -7324719
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)

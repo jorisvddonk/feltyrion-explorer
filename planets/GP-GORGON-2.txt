@@ -1,0 +1,6 @@
+Planet: GP-GORGON-2
+Starmap index: 08
+Paris coordinates: 4148912, 4488377, -127177
+
+Guide entries:
+GAS PLANET, THICK ATMOSPHERE, NO LIFE

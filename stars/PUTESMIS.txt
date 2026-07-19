@@ -1,0 +1,6 @@
+Star: PUTESMIS
+Star class: S08
+Paris coordinates: 1450000, 52050000, -1550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

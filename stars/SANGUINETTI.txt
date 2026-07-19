@@ -1,0 +1,21 @@
+Star: SANGUINETTI
+Star class: S08
+Paris coordinates: 4511056, 4278635, -949563
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (^ unstable)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (* companion star)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (f felisian)
+  - Moon #2 (q quartz surface)
+- Planet #4 (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.270

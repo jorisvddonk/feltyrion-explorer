@@ -1,0 +1,9 @@
+Star: MDIR 9
+Star class: S06
+Paris coordinates: 518928, 33612088, -219840
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE. MMMM!                                                             

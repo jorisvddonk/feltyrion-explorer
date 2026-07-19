@@ -1,0 +1,7 @@
+Planet: QUARTOC
+Starmap index: 03
+Paris coordinates: -801424, -65898, -243734
+
+Guide entries:
+MEDIUM-SIZE PLANET WITH SOME QUARTZ ON THE SURFACE.
+NYTAR, EPOC 6011:611.531

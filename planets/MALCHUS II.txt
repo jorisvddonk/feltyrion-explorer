@@ -1,0 +1,3 @@
+Planet: MALCHUS II
+Starmap index: 02
+Paris coordinates: 2756784, 5198992, -2172505

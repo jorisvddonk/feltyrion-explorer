@@ -1,0 +1,6 @@
+Planet: ABRABANEL
+Starmap index: 02
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+GASEOUS. LIGHT GREEN / DARK BROWN (BY NBOAR 6011 588.343)

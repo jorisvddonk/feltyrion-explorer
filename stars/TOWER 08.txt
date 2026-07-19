@@ -1,0 +1,14 @@
+Star: TOWER 08
+Star class: S11
+Paris coordinates: 12801680, 12424835, 11460563
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (i icy surface)
+
+Guide entries:
+STAR DISCOVERD BY DAWIWO, EPOCH 6011:768.494                                

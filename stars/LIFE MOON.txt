@@ -1,0 +1,30 @@
+Star: LIFE MOON
+Star class: S04
+Paris coordinates: 4209968, 4265947, 3246571
+Bodies: 24 (6 planets, 18 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (q quartz surface)
+- Planet #3 (+ substellar object)
+  - LIFE MOON 1 (f felisian)
+  - Moon #1 (f felisian)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (f felisian)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (r rocky, creased)
+  - Moon #14 (k thick atmosphere)
+- Planet #4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

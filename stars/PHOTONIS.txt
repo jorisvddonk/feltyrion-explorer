@@ -1,0 +1,23 @@
+Star: PHOTONIS
+Star class: S11
+Paris coordinates: 2839280, 4519379, -1356700
+Bodies: 14 (4 planets, 10 moons)
+
+System:
+- DELIANI (d dusty, craterized)
+- CHAOS EMERALD (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (i icy surface)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+
+Guide entries:
+DISCOVERED BY ADAM DALY (TACOFERNANDEZ), E6011:644.604

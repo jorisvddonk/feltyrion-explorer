@@ -1,0 +1,8 @@
+Planet: ODIN
+Starmap index: 58
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+ODIN DISCOVERED BY MISTRAL, EPOC 6011.797.808                               
+YET ANOTHER SMALL, DUSTY, CRATERIZED MOON                                   
+(NOTES BY MISTRAL, EPOC 6011.797.808)                                       

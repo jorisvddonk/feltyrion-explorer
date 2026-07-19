@@ -1,0 +1,3 @@
+Planet: LULUBEL
+Starmap index: 09
+Paris coordinates: -108435952, 25590221, -633099

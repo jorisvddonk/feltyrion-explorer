@@ -1,0 +1,3 @@
+Planet: CASIUN SOL
+Starmap index: 07
+Paris coordinates: 3346064, 4310710, -1469769

@@ -1,0 +1,19 @@
+Star: BADHUMOR
+Star class: S00
+Paris coordinates: -60819024, 30074513, 831429
+Bodies: 9 (4 planets, 5 moons)
+
+System:
+- HATEYOU (q quartz surface)
+- KILLYOU (n thin atmosphere)
+- IWANNADIE (f felisian)
+  - MY ANGER (d dusty, craterized)
+  - MY MIND (d dusty, craterized)
+  - MY SELF (d dusty, craterized)
+- DIE (f felisian)
+  - RIPUAPART (n thin atmosphere)
+  - MY PAIN (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY MCWGOGS, EPOC 6011.645.210. 4 PLANETS, WITH 5 MOONS.
+CLASS S00 YELLOW STAR, ABOUT 1.8 BAL. MASS. TWO PLANETS ARE FELYSIANS

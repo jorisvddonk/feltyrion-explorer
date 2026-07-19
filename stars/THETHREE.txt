@@ -1,0 +1,14 @@
+Star: THETHREE
+Star class: S00
+Paris coordinates: -1527472, 1334960, -4712388
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- THETHREE 1 (k thick atmosphere)
+- THETHREE 2 (d dusty, craterized)
+- THETHREE 3 (f felisian)
+
+Guide entries:
+A CLASS S00 YELLOW STAR HOSTING A RATHER SMALL PLANETARY SYSTEM             
+CONSISTING OF THREE CELESTIAL BODIES. NO MOONS HERE.                        
+SERPENS, 6011 787.614                                                       

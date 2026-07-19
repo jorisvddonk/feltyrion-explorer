@@ -1,0 +1,16 @@
+Star: RADAX ERIN
+Star class: S11
+Paris coordinates: -39623536, 1498313, 31452219
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- RADAX ERIN 1 (n thin atmosphere)
+- RADAX ERIN 2 (d dusty, craterized)
+- RADAX ERIN 3 (n thin atmosphere)
+- RADAX ERIN 4 (@ large, not consistent)
+  - RADAX ERIN 4A (i icy surface)
+  - RADAX ERIN 4B (i icy surface)
+  - RADAX ERIN 4C (q quartz surface)
+  - RADAX ERIN 4D (d dusty, craterized)
+- RADAX ERIN 5 (d dusty, craterized)
+  - RADAX ERIN 5A (i icy surface)

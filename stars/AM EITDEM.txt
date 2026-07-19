@@ -1,0 +1,12 @@
+Star: AM EITDEM
+Star class: S00
+Paris coordinates: 2061342800, -1762612, -110948
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- TOJEJU (q quartz surface)
+- TEBOJ (r rocky, creased)
+
+Guide entries:
+S00 WITH ONLY 2 PLANETS. 2.31173635 BAL. M. TEMP 9436 K RAD 16 KR           
+COOR 2061342800;-1762612;-110948 SKINNYMON 6011 795.208                     

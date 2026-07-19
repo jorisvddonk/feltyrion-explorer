@@ -1,0 +1,29 @@
+Star: SOLARITY
+Star class: S00
+Paris coordinates: -232496, -77019, -427705
+Bodies: 16 (10 planets, 6 moons)
+
+System:
+- SOLARITY 1 (k thick atmosphere)
+- SOLARITY 2 (k thick atmosphere)
+- SOLARITY 3 (f felisian)
+  - SOLARITY 3.1 (^ unstable)
+- SOLARITY 4 (f felisian)
+  - SOLARITY 4.1 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- SOLARITY 5 (d dusty, craterized)
+- SOLARITY 6 (d dusty, craterized)
+  - SOLARITY 6.1 (d dusty, craterized)
+- SOLARITY 7 (n thin atmosphere)
+- SOLARITY 8 (q quartz surface)
+  - SOLARITY 8.1 (n thin atmosphere)
+  - SOLARITY 8.2 (n thin atmosphere)
+- SOLARITY 9 (k thick atmosphere)
+- SOLARITY 10 (d dusty, craterized)
+
+Guide entries:
+ A NICE CLASS S00 STAR. HAS TEN PLANETS AND SIX MOONS. AT LEAST I
+WON'T HAVE TO EXPLORE THOUSANDS OF ICEBALLS ORBITING A GAS GIANT :)
+SERPENS, 6011 665.668
+ IT TURNED OUT TO BE A TRULY INTERESTING SYSTEM, BE SURE TO CHECK IT
+OUT! SERPENS, 6011 665.672

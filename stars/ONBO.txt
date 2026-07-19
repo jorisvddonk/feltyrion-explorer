@@ -1,0 +1,6 @@
+Star: ONBO
+Star class: S06
+Paris coordinates: 1983920, -25055371, 6819
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: ZETA DENGIS
+Star class: S00
+Paris coordinates: 4014992, 5320064, -2135424
+Bodies: 0 (0 planets, 0 moons)
+
+System:

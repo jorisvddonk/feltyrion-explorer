@@ -1,0 +1,7 @@
+Planet: COLUMBUS
+Starmap index: 03
+Paris coordinates: 1323536, 2117778, 6972572
+
+Guide entries:
+(DISCOVERED BY ANNIJA AND ELTONS.EPOC:6011:834.166.)                        
+COVERED BY WAST OCEANS AND BEAUTIFUL LIFEFORMS.                             

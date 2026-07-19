@@ -1,0 +1,6 @@
+Star: UNAVENHORON
+Star class: S07
+Paris coordinates: -325712, 131538, -30885
+Bodies: 0 (0 planets, 0 moons)
+
+System:

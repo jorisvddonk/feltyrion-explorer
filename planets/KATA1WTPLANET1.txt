@@ -1,0 +1,3 @@
+Planet: KATA1WTPLANET1
+Starmap index: 05
+Paris coordinates: 260720, 7135737, -1327107

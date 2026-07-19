@@ -1,0 +1,20 @@
+Star: VANESIA
+Star class: S00
+Paris coordinates: 3666416, 4731653, -785554
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- GOLDEN (@ large, not consistent)
+- MOUSE BIRD (r rocky, creased)
+- FOGBOW (f felisian)
+  - ROCKBALL (d dusty, craterized)
+- HUGEYE (d dusty, craterized)
+- TWO EYES (k thick atmosphere)
+  - PIECEWORK (d dusty, craterized)
+  - OCARINA (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 5 PLANETS AND 3 MOONS, ONE
+FELISIAN WORLD, MOSTLY NAMED (EXCEPT FOR PLANET 2 AND THE 2 MOONS OF
+PLANET 5) BUT ENTIRELY UNCOMMENTED ON. IT DOESN'T TAKE MUCH TO GUESS
+WHY I CAME HERE. HEE, HEE... SKINNYMON EPOC 6011 574.949

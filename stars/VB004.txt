@@ -1,0 +1,8 @@
+Star: VB004
+Star class: S01
+Paris coordinates: 2952848, 4448045, -894343
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- VB004-1 (r rocky, creased)
+- VB004-2 (+ substellar object)

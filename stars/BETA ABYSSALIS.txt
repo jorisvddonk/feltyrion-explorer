@@ -1,0 +1,24 @@
+Star: BETA ABYSSALIS
+Star class: S03
+Paris coordinates: 7160976, -16776440, 14959150
+Bodies: 18 (8 planets, 10 moons)
+
+System:
+- BETA ABYSSALIS 1 (r rocky, creased)
+- BETA ABYSSALIS 2 (+ substellar object)
+- BETA ABYSSALIS 3 (k thick atmosphere)
+- BETA ABYSSALIS 4 (k thick atmosphere)
+  - BETA ABYSSALIS 4A (n thin atmosphere)
+  - BETA ABYSSALIS 4B (^ unstable)
+- BETA ABYSSALIS 5 (r rocky, creased)
+- BETA ABYSSALIS 6 (@ large, not consistent)
+  - BETA ABYSSALIS 6A (d dusty, craterized)
+  - BETA ABYSSALIS 6B (q quartz surface)
+  - BETA ABYSSALIS 6C (n thin atmosphere)
+  - BETA ABYSSALIS 6D (k thick atmosphere)
+  - BETA ABYSSALIS 6E (d dusty, craterized)
+  - BETA ABYSSALIS 6F (n thin atmosphere)
+- BETA ABYSSALIS 7 (n thin atmosphere)
+  - BETA ABYSSALIS 7A (i icy surface)
+- BETA ABYSSALIS 8 (d dusty, craterized)
+  - BETA ABYSSALIS 8A (n thin atmosphere)

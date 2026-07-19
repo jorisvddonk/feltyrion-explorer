@@ -1,0 +1,8 @@
+Planet: ITRE
+Starmap index: 07
+Paris coordinates: 2140833520, -2641384, 1001352
+
+Guide entries:
+M01/P03 SMALL SOLID DUSTY CRATERIZED. SLIGHT PURPLE HINT FOR COLOR,         
+A FEW LARGE CRATERS. PRO 0.190.800 PRV 0.001.246.839 SKINNYMON 6011         
+791.440                                                                     

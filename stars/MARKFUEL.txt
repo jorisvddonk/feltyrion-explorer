@@ -1,0 +1,9 @@
+Star: MARKFUEL
+Star class: S06
+Paris coordinates: 9750000, 9962221, -9623778
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ S06 DISC BY SCAREDY-CAT, EPOC 6011.586.425

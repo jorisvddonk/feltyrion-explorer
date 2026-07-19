@@ -1,0 +1,6 @@
+Planet: SUBSTELLAR OBJECT 5B
+Starmap index: 05
+Paris coordinates: 2146064, 2235789, -296096
+
+Guide entries:
+CATALOGUED 6011.565.186.800 BY JEREMY HUSSELL.

@@ -1,0 +1,12 @@
+Star: NOSTASIS
+Star class: S03
+Paris coordinates: 634178448, -10858061, 49707715
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S03 STAR WITH NO PLANETS OR MOONS. HAD TO INCLUDE THIS              
+IN ORDER TO KEEP FROM TARGETING IT, AS IT IS ONLY 5.92 LY FROM              
+LISTA 309! 1.73990977 BAL. M.; TEMP 2534 K; RAD 3.1 KR; COOR                
+634178448;-10858061;49707715 SKINNYMON 6011 893.138                         

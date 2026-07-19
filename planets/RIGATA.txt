@@ -1,0 +1,3 @@
+Planet: RIGATA
+Starmap index: 01
+Paris coordinates: 3635344, 4413073, -437495

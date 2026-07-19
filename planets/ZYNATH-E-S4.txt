@@ -1,0 +1,3 @@
+Planet: ZYNATH-E-S4
+Starmap index: 19
+Paris coordinates: 2838608, -355266, -11118826

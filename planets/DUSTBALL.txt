@@ -1,0 +1,3 @@
+Planet: DUSTBALL
+Starmap index: 01
+Paris coordinates: 3908208, 4533788, -2386804

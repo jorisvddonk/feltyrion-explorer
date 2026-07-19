@@ -1,0 +1,3 @@
+Planet: LOA
+Starmap index: 51
+Paris coordinates: -314992, -16059700, -1548818

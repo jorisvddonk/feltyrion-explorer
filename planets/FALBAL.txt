@@ -1,0 +1,3 @@
+Planet: FALBAL
+Starmap index: 26
+Paris coordinates: 1708208, -171588, -197336

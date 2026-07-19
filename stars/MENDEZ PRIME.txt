@@ -1,0 +1,38 @@
+Star: MENDEZ PRIME
+Star class: S08
+Paris coordinates: -19904016, -5654995, 40012174
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- Planet #0 (* companion star)
+  - TIRET I (f felisian)
+- Planet #1 (* companion star)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+- Planet #2 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (^ unstable)
+  - Moon #2 (^ unstable)
+  - Moon #3 (+ substellar object)
+  - Moon #4 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (* companion star)
+- Planet #5 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+
+Guide entries:
+CAPITAL OF THE MENDEZ SECTOR OF THE MENDOZA EMPIRE.                         
+HOME TO THE PLANET TIRET I.                                                 
+(DISCOVERED BY EMPEROR JAIME MENDOZA E6011 691.160.180)                     
+(MENDOZA EMPIRE FLASH NEWS! E6011:692.58)                                   
+DISCOVERIES ON MENDEZ PRIME:'ON THE DISCOVERIES MADE, WE ONLY               
+FOUND OUT THE THE TIRET 1 IS THE ONLY PLANET CAPABLE OF                     
+SUPPORING LIFE HERE IN THIS SYSTEM. EMPEROR JAIME MENDOZA                   
+REPORTING.'                                                                 

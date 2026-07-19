@@ -1,0 +1,9 @@
+Star: UCKLIMAROOS
+Star class: S06
+Paris coordinates: 56784, 347947, 291092
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (NOTES BY NEUZD, 6011:801.841)                        

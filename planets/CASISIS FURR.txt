@@ -1,0 +1,3 @@
+Planet: CASISIS FURR
+Starmap index: 05
+Paris coordinates: 3573200, 4864228, -41934

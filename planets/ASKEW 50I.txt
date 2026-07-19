@@ -1,0 +1,3 @@
+Planet: ASKEW 50I
+Starmap index: 09
+Paris coordinates: 11307376, -19271272, 17252434

@@ -1,0 +1,6 @@
+Star: LITHIUM A40
+Star class: S06
+Paris coordinates: 6644720, 4619885, -24203381
+Bodies: 0 (0 planets, 0 moons)
+
+System:

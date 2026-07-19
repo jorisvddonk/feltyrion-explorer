@@ -1,0 +1,8 @@
+Star: NUMBER 18
+Star class: S05
+Paris coordinates: -622864, 28231, 2472121
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)

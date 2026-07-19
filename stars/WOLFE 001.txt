@@ -1,0 +1,6 @@
+Star: WOLFE 001
+Star class: S11
+Paris coordinates: 3446064, 4408620, -1594079
+Bodies: 0 (0 planets, 0 moons)
+
+System:

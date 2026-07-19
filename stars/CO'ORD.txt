@@ -1,0 +1,6 @@
+Star: CO'ORD
+Star class: S05
+Paris coordinates: 3450000, 7035072, -3236102
+Bodies: 0 (0 planets, 0 moons)
+
+System:

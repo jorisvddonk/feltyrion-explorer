@@ -1,0 +1,15 @@
+Star: ANCESTRY XXV
+Star class: S02
+Paris coordinates: -1424943632, 762987, 1438818491
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- TERNPYLE (n thin atmosphere)
+- ELEP (@ large, not consistent)
+- NIMOOM (d dusty, craterized)
+- SEENL (d dusty, craterized)
+- DUSCRANATICS (d dusty, craterized)
+
+Guide entries:
+1 GAS GIANT, 1 THIN-AT, 3 CRATERISED PLANETS.RYAN GJK E6011.783.            
+540                                                                         

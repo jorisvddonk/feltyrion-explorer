@@ -1,0 +1,6 @@
+Star: FARBEACON II
+Star class: S07
+Paris coordinates: 1000450000, 18050000, -1000550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

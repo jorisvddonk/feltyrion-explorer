@@ -1,0 +1,10 @@
+Star: LIT 3
+Star class: S05
+Paris coordinates: -470352, 40152, -642044
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ BROWN DWARF, LOW MASS, SUBSTELLAR OBJECT. NO PLANETS, BUT SUITABLE FOR
+REFUELLING. SERPENS, 6011 665.682

@@ -1,0 +1,3 @@
+Planet: PURPLE RAIN
+Starmap index: 10
+Paris coordinates: 3942128, 4305316, -442144

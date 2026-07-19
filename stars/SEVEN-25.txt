@@ -1,0 +1,9 @@
+Star: SEVEN-25
+Star class: S07
+Paris coordinates: 14371024, 7306026, -3253083
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S07 STAR. NO PLANETS. SKINNYMON EPOC 6011 605.119

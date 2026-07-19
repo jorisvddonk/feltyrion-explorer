@@ -1,0 +1,15 @@
+Star: LISTA 309
+Star class: S05
+Paris coordinates: 634178448, -10958061, 49770571
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ARFHALISEKIS (@ large, not consistent)
+
+Guide entries:
+ FIRST STAR VISITED IN THIS NEW SECTOR. HOPEFULLY THIS TIME WILL BE         
+IN RANGE FOR DEPARTMENT OF ASTROCARTOGRAPHY TO MAP. A CLASS S05             
+STAR THAT WAS CONVENIENT. HAS ONE PLANET. LITHIUM IS AVAILABLE.             
+(WHY ELSE WOULD I NAME IT LISTA?). 0.07712686 BAL. M.; TEMP 1394K;          
+LI 11.8 MTPD; RAD 46.6 KR; COOR 634178448;-10958061;49770571.               
+SKINNYMON 6011 892.849                                                      

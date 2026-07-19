@@ -1,0 +1,3 @@
+Planet: QUINDII PRIME
+Starmap index: 01
+Paris coordinates: 1400957584, 903522, 54505154

@@ -1,0 +1,7 @@
+Planet: VARACYLNIA 11.6
+Starmap index: 44
+Paris coordinates: 2459632, 7706073, -15349
+
+Guide entries:
+ICY, NO ATMOSPHERE, SMALL, SOLID, BORING.
+(STARGAZER. EPOC 6011:609:533)

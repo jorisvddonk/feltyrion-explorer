@@ -1,0 +1,11 @@
+Star: LISTA 34
+Star class: S05
+Paris coordinates: 3473200, 5723268, -240337
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- HOTHE (k thick atmosphere)
+
+Guide entries:
+A CLASS S05 SYSTEM WITH ONE PLANET. USEFUL FOR SCOPING. SKINNYMON
+EPOC 6011 576.506

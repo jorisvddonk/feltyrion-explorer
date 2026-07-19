@@ -1,0 +1,7 @@
+Planet: SESFHAL
+Starmap index: 10
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M07/P03 SMALL SOLID THIN ATMO, SLIGHTLY BRIGHT, GOOD POLAR CAPS. PRO        
+0.181.080 PRV 0.004.931.001 SKINNYMON 6011 796.380                          

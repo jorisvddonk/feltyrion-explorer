@@ -1,0 +1,3 @@
+Planet: CZEKOLADA
+Starmap index: 03
+Paris coordinates: -107511664, 25038638, -2285110

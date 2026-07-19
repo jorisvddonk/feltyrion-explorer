@@ -1,0 +1,6 @@
+Star: JRITNIHKI
+Star class: S11
+Paris coordinates: 1250000, 51450000, -1350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

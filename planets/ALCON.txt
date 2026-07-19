@@ -1,0 +1,6 @@
+Planet: ALCON
+Starmap index: 05
+Paris coordinates: -139280, -13526, -1005398
+
+Guide entries:
+PLANET FOUND BY (MEZURASHII EPOC 6011:608.892)

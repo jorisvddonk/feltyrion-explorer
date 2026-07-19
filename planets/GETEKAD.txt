@@ -1,0 +1,3 @@
+Planet: GETEKAD
+Starmap index: 37
+Paris coordinates: 5779984, 5242109, -2033366

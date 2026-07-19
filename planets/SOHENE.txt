@@ -1,0 +1,8 @@
+Planet: SOHENE
+Starmap index: 02
+Paris coordinates: -120016, 5320411, 4043507
+
+Guide entries:
+P02/04 MEDIUM SIZE, THICK ATMO, COVERED BY CLOUDS. VERY LIGHT               
+REFLECTIVITY WITH TRACES OF BANDING. PRO 0.209.880 PRV 0.012.745.269        
+SKINNYMON EPOC 6011 791.269                                                 

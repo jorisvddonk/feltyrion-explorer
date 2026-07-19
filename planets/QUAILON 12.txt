@@ -1,0 +1,3 @@
+Planet: QUAILON 12
+Starmap index: 12
+Paris coordinates: 2147326192, 1238995, 200793891

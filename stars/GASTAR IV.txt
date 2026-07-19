@@ -1,0 +1,9 @@
+Star: GASTAR IV
+Star class: S06
+Paris coordinates: -125712, 220802, -335767
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FULING STATION COURTESY OF THE GREAT DEMENTO. YOU'RE WELCOME.

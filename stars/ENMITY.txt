@@ -1,0 +1,11 @@
+Star: ENMITY
+Star class: S00
+Paris coordinates: -61970448, 30449471, 1036231
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HOARSE (n thin atmosphere)
+- WINDY WORLD (k thick atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS. EPOC 6011.645.309. TWO PLANETS. S00 STAR.

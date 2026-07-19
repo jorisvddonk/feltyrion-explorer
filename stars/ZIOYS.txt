@@ -1,0 +1,11 @@
+Star: ZIOYS
+Star class: S00
+Paris coordinates: 4401424, 4420713, -3243772
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BLUFOGAWA (@ large, not consistent)
+- ZIOIUM (q quartz surface)
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.001.372)

@@ -1,0 +1,20 @@
+Star: BETA JENNESIK
+Star class: S01
+Paris coordinates: 8446320, -17055484, 16662102
+Bodies: 14 (8 planets, 6 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (^ unstable)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #7 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

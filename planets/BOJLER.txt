@@ -1,0 +1,3 @@
+Planet: BOJLER
+Starmap index: 05
+Paris coordinates: -107335952, 25030477, -1780663

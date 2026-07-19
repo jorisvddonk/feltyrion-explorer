@@ -1,0 +1,11 @@
+Star: DOZIS
+Star class: S10
+Paris coordinates: 4762480, 4341476, -242178
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- EINZ (@ large, not consistent)
+
+Guide entries:
+S10 CLASS RUNAWAY STAR. SUPRISINGLY SUPPORTS A SINGLE PLANET.               
+(DISCOVERED BY SERAXIS. EPOC 6011, 679.446.140)                             

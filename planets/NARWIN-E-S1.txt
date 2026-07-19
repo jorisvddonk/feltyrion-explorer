@@ -1,0 +1,3 @@
+Planet: NARWIN-E-S1
+Starmap index: 20
+Paris coordinates: -148912, 1540144, -3543794

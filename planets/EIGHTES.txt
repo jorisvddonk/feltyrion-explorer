@@ -1,0 +1,3 @@
+Planet: EIGHTES
+Starmap index: 08
+Paris coordinates: -62039376, 29283139, 812295

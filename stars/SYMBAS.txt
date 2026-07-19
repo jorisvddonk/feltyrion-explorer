@@ -1,0 +1,34 @@
+Star: SYMBAS
+Star class: S01
+Paris coordinates: 3879984, 4316450, -249386
+Bodies: 24 (12 planets, 12 moons)
+
+System:
+- XADOS (k thick atmosphere)
+- HEKTO (d dusty, craterized)
+- CANCHE (n thin atmosphere)
+- AXTAM (k thick atmosphere)
+  - ORDAR (d dusty, craterized)
+  - YMAS (d dusty, craterized)
+- MOOXO (n thin atmosphere)
+- DOGHES (n thin atmosphere)
+  - NOSKEP (d dusty, craterized)
+  - SORMOL (d dusty, craterized)
+- REFT (n thin atmosphere)
+- MOGHA (d dusty, craterized)
+  - PANTE (d dusty, craterized)
+- LEPIRT (k thick atmosphere)
+  - TENK (d dusty, craterized)
+- VYSTIAG (r rocky, creased)
+  - DARD (n thin atmosphere)
+  - ARDAAL (d dusty, craterized)
+- YECH (n thin atmosphere)
+  - PIRT (n thin atmosphere)
+  - TELF (n thin atmosphere)
+- SHURANT (r rocky, creased)
+  - OBUNG (d dusty, craterized)
+  - FLOPO (n thin atmosphere)
+
+Guide entries:
+A CLASS S01 SYSTEM OF 12 PLANETS AND 12 MOONS. NO FELISIAN WORLDS IN
+THIS MOTLEY CREW. SKINNYMON EPOC 6011 592.842

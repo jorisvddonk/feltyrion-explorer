@@ -1,0 +1,10 @@
+Star: HOMELESS
+Star class: S00
+Paris coordinates: 2877136, 5340737, -1305790
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+EXP BY SUNFIRE
+NO MAJOR BODIES

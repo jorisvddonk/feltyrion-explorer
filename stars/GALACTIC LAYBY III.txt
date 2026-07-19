@@ -1,0 +1,9 @@
+Star: GALACTIC LAYBY III
+Star class: S05
+Paris coordinates: -1425684336, 949947, 1437292715
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LONE S05, SOME LITHIUM. RYAN GJK E6011.783.289                              

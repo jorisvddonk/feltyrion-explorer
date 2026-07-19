@@ -1,0 +1,3 @@
+Planet: NOMMOS
+Starmap index: 06
+Paris coordinates: 3625712, -66300682, -2983002

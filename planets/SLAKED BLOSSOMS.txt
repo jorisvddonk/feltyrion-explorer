@@ -1,0 +1,3 @@
+Planet: SLAKED BLOSSOMS
+Starmap index: 32
+Paris coordinates: 4259632, 4644350, -1647122

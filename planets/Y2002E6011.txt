@@ -1,0 +1,3 @@
+Planet: Y2002E6011
+Starmap index: 14
+Paris coordinates: 574288, 535718, -933464

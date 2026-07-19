@@ -1,0 +1,6 @@
+Star: GRINTAGRIOUS
+Star class: S07
+Paris coordinates: 2777136, 3826086, -1180999
+Bodies: 0 (0 planets, 0 moons)
+
+System:

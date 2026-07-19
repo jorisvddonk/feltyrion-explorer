@@ -1,0 +1,3 @@
+Planet: LEAVE
+Starmap index: 13
+Paris coordinates: -64152944, 29709638, 2323690

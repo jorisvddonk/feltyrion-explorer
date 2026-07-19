@@ -1,0 +1,3 @@
+Planet: LOUREIRO
+Starmap index: 02
+Paris coordinates: 4121776, 5030897, -1849493

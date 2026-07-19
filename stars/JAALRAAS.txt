@@ -1,0 +1,11 @@
+Star: JAALRAAS
+Star class: S06
+Paris coordinates: 2146625712, 1416552, 1949996856
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERD BY DODO C. SNOTTS - 6011:587.694
+(S06) LI+
+COORDINATES - 2146625716, 1416552, 1949996856

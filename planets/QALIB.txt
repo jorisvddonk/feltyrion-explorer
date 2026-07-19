@@ -1,0 +1,6 @@
+Planet: QALIB
+Starmap index: 01
+Paris coordinates: 3363568, 4338782, -2645725
+
+Guide entries:
+ A SEEMINGLY NON-DESCRIPT QUARTZ PLANET.                                    

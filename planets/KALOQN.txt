@@ -1,0 +1,3 @@
+Planet: KALOQN
+Starmap index: 17
+Paris coordinates: 3066416, 4264474, -181197

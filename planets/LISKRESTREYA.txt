@@ -1,0 +1,3 @@
+Planet: LISKRESTREYA
+Starmap index: 02
+Paris coordinates: 1942128, 30770082, 1650258

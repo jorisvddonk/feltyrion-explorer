@@ -1,0 +1,30 @@
+Star: FRONTIER
+Star class: S00
+Paris coordinates: 3277136, 4429407, -1460385
+Bodies: 20 (9 planets, 11 moons)
+
+System:
+- BRUMUS (k thick atmosphere)
+- THE DEN (d dusty, craterized)
+- AURUS 2 (d dusty, craterized)
+- AURUS (+ substellar object)
+  - HEAVY MELDER (d dusty, craterized)
+  - DESSLAR (^ unstable)
+  - SARSHA (f felisian)
+  - WILDSTAR (d dusty, craterized)
+  - NOVA (n thin atmosphere)
+  - PROMESIUM (q quartz surface)
+  - VENTURE (d dusty, craterized)
+- OKITA (r rocky, creased)
+  - SADO (d dusty, craterized)
+  - ANALYZER (d dusty, craterized)
+- EMERALDAS (q quartz surface)
+- TOCHIRO (k thick atmosphere)
+- FRONZ (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- FRANZ (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY DASTARDLIKE. YELLOW STAR WITH 9 PLANETS AND 11 MOONS.
+THIS SYSTEM NAMES ARE A HOMAGE TO A FAMOUS JAPANESE COMICS AUTHOR.

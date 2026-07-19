@@ -1,0 +1,31 @@
+Star: FULMIRENS
+Star class: S03
+Paris coordinates: 2501424, 5264880, -1367090
+Bodies: 22 (11 planets, 11 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- GRADOPIA (+ substellar object)
+- Planet #4 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (f felisian)
+  - Moon #4 (f felisian)
+  - Moon #5 (f felisian)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (k thick atmosphere)
+- Planet #10 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ THIS BEAUTIFUL STAR HAS 22 PLANETS, 11 MINOR BODIES AND 11 PLANETS         

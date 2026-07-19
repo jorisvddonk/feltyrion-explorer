@@ -1,0 +1,10 @@
+Star: STOVEHOSE
+Star class: S10
+Paris coordinates: -1477136, 60020973, -42435
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DIMBULGE (n thin atmosphere)
+
+Guide entries:
+AN S10 WITH ONE PLANET. WHITISH APPEARNCE. RYAN GJK E6011.789.829           

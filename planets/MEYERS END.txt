@@ -1,0 +1,3 @@
+Planet: MEYERS END
+Starmap index: 14
+Paris coordinates: 2570352, 4004679, -1213630

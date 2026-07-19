@@ -1,0 +1,17 @@
+Star: AJTARSI
+Star class: S01
+Paris coordinates: 2119615760, -1721227, -30011
+Bodies: 6 (5 planets, 1 moons)
+
+System:
+- LIJTA FHOSK (+ substellar object)
+- BIRGFHOS (d dusty, craterized)
+- TEJHAD (r rocky, creased)
+- POTCUOJ (d dusty, craterized)
+- RYSKOUN (d dusty, craterized)
+  - BODAUS (d dusty, craterized)
+
+Guide entries:
+S01 SYSTTEM 5 PLANETS, 1 MOON, NO FELISIAN. 94.69422150 BAL. M. TEMP        
+101158 K RAD 19KR COOR 2119615760;-1721227;=30011 SKINNYMON 6011 792.       
+258                                                                         

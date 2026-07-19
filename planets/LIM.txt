@@ -1,0 +1,7 @@
+Planet: LIM
+Starmap index: 13
+Paris coordinates: 708048, 4444727, 37468260
+
+Guide entries:
+GAS GIANT, IS A MOON, VERY BRIGHT GREEN COLOR, NO RINGS.
+(NOTES BY JEFF KEMP EPOC 6011:630:88)

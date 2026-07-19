@@ -1,0 +1,3 @@
+Planet: RICHARD
+Starmap index: 09
+Paris coordinates: 2359632, 5058003, 162880

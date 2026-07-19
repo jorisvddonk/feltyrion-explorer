@@ -1,0 +1,3 @@
+Planet: YUTZ
+Starmap index: 37
+Paris coordinates: 418928, 97757, -145485

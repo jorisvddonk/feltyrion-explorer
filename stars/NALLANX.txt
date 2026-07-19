@@ -1,0 +1,11 @@
+Star: NALLANX
+Star class: S06
+Paris coordinates: 1499329424, 1038030, 1500163422
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:589.909
+(S06) LI+
+COORDINATES = 1499329424, 1038030, 1500163422

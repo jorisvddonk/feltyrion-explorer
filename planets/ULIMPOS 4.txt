@@ -1,0 +1,6 @@
+Planet: ULIMPOS 4
+Starmap index: 04
+Paris coordinates: 5100336, 4495542, -136525
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.999.970)

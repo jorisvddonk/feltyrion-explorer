@@ -1,0 +1,3 @@
+Planet: MONGREY
+Starmap index: 17
+Paris coordinates: 1485008, 4177919, -3294996

@@ -1,0 +1,10 @@
+Star: ASKEW 116
+Star class: S08
+Paris coordinates: 2522448, -12551255, 9480527
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ASKEW 116A (+ substellar object)
+- ASKEW 116B (* companion star)
+  - ASKEW 116B1 (d dusty, craterized)
+- ASKEW 116C (^ unstable)

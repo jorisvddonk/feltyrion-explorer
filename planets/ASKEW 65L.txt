@@ -1,0 +1,3 @@
+Planet: ASKEW 65L
+Starmap index: 12
+Paris coordinates: 11052016, -19159857, 17954467

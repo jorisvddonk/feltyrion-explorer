@@ -1,0 +1,3 @@
+Planet: ALFONIA BETA
+Starmap index: 02
+Paris coordinates: 2763568, 5188046, -2004236

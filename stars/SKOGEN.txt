@@ -1,0 +1,11 @@
+Star: SKOGEN
+Star class: S00
+Paris coordinates: 3421776, 3825800, -1077268
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- SHANDAN (q quartz surface)
+- BOROM (+ substellar object)
+- NIFILHEIM (f felisian)
+- RHODOS (f felisian)
+- BLACK EYE (d dusty, craterized)

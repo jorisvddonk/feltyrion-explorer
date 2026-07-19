@@ -1,0 +1,3 @@
+Planet: LYRURUS
+Starmap index: 16
+Paris coordinates: -61270448, 30091829, 306909

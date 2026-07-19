@@ -1,0 +1,3 @@
+Planet: TREALON QUINTUS
+Starmap index: 05
+Paris coordinates: 2147038896, 1468044, 1301267292

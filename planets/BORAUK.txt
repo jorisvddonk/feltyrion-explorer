@@ -1,0 +1,7 @@
+Planet: BORAUK
+Starmap index: 01
+Paris coordinates: -1183920, -285851, -658429
+
+Guide entries:
+MEDIUM, ROCKY PLANET WITH NO ATMOSPHERE.
+NYTAR, EPOC 6011:611.789

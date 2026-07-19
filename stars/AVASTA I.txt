@@ -1,0 +1,16 @@
+Star: AVASTA I
+Star class: S00
+Paris coordinates: 26315760, 6575944, 45184823
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- BLIRL (@ large, not consistent)
+- PIRL (@ large, not consistent)
+- BIZA (n thin atmosphere)
+  - UNTER (d dusty, craterized)
+- BRITAST (f felisian)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S00 STAR WITH 4 PLANETS AND 1 MOON.
+1 FELYSIAN.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:633:807

@@ -1,0 +1,11 @@
+Star: PARENTH
+Star class: S08
+Paris coordinates: 634154160, -9758310, 50059810
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A FALSE S08 STAR, NO BODIES, LOCATED 5.27 L.Y. FROM PARENTHSIS.             
+1.87493253 BAL. M.; TEMP 5781K; RAD 20.8 KR; COOR 634154160; -9758310;      
+; 50059810 SKINNYMON 6011.916.948                                           

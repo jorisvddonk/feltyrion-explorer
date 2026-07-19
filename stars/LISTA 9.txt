@@ -1,0 +1,10 @@
+Star: LISTA 9
+Star class: S06
+Paris coordinates: 5366416, 4261260, -2294659
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM: BREAKFAST OF STARDRIFTERS (THE SHIPS, NOT THE XPOLORERS)
+SKINNYMON EPOC 6011 567.0

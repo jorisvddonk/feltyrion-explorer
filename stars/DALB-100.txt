@@ -1,0 +1,11 @@
+Star: DALB-100
+Star class: S05
+Paris coordinates: 3417840, 4918145, 586133
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DALB-100 I (k thick atmosphere)
+
+Guide entries:
+ONLY ONE PLANET, DALB-100 I,VERY CLOSE TO THE STAR. NICE PICTURE, BUT
+LANDING ON IT IS VERY DANGEROUS.FOR MORE INFO TYPE 'CAT DALB-100 I'

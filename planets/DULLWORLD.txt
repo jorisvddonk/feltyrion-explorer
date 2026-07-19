@@ -1,0 +1,6 @@
+Planet: DULLWORLD
+Starmap index: 09
+Paris coordinates: 3359632, 4245485, -948943
+
+Guide entries:
+DON'T GO THERE

@@ -1,0 +1,7 @@
+Star: OMNICRON DENGIS
+Star class: S03
+Paris coordinates: 4114992, 5425140, -2128881
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)

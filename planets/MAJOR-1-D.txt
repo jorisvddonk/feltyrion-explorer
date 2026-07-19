@@ -1,0 +1,3 @@
+Planet: MAJOR-1-D
+Starmap index: 04
+Paris coordinates: 4285008, 4736436, -6124845

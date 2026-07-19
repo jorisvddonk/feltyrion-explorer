@@ -1,0 +1,6 @@
+Star: L4 LEG 5A
+Star class: S06
+Paris coordinates: 54608, 5043403, 7917970
+Bodies: 0 (0 planets, 0 moons)
+
+System:

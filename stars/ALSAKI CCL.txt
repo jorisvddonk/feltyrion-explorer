@@ -1,0 +1,17 @@
+Star: ALSAKI CCL
+Star class: S04
+Paris coordinates: 14834256, 32519513, -7850999
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

@@ -1,0 +1,7 @@
+Planet: PRARA
+Starmap index: 11
+Paris coordinates: 2140833520, -2641384, 1001352
+
+Guide entries:
+M01/P06 SMALL SOLID THIN ATMO, DARK WITH SLIGHT POLAR CAPS. PRO 0.259.      
+560 PRV 0.001.834.460 SKINNYMON 6011 791.492                                

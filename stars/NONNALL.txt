@@ -1,0 +1,6 @@
+Star: NONNALL
+Star class: S00
+Paris coordinates: 850000, 18750000, -950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

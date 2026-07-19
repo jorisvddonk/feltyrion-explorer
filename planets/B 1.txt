@@ -1,0 +1,3 @@
+Planet: B 1
+Starmap index: 01
+Paris coordinates: 2314992, 4633776, -411379

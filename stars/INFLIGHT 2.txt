@@ -1,0 +1,9 @@
+Star: INFLIGHT 2
+Star class: S06
+Paris coordinates: -25796496, -19919582, -450123426
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOU CAN SCOPE FOR FUEL HERE. (SHADOWCLAW, 6011:576.806)

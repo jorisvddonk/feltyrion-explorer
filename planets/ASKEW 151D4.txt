@@ -1,0 +1,3 @@
+Planet: ASKEW 151D4
+Starmap index: 09
+Paris coordinates: 9873456, -16322695, 16639319

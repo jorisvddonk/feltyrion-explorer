@@ -1,0 +1,3 @@
+Planet: FRUCTIFARAE
+Starmap index: 40
+Paris coordinates: -61232592, 30020466, 379974

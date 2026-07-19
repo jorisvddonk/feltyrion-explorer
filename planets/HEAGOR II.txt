@@ -1,0 +1,3 @@
+Planet: HEAGOR II
+Starmap index: 02
+Paris coordinates: 178224, 906060, -2356602

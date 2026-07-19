@@ -1,0 +1,3 @@
+Planet: SUBGIRLIE 3
+Starmap index: 03
+Paris coordinates: -1312144, 1355372, 1599802

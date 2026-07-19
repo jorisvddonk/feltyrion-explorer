@@ -1,0 +1,3 @@
+Planet: BULLFROG
+Starmap index: 37
+Paris coordinates: -61125808, 29740310, 724290

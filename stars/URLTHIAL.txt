@@ -1,0 +1,10 @@
+Star: URLTHIAL
+Star class: S06
+Paris coordinates: 1099861040, 1526758, 54403890
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.962
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

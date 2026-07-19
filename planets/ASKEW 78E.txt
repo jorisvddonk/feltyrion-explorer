@@ -1,0 +1,3 @@
+Planet: ASKEW 78E
+Starmap index: 05
+Paris coordinates: 11727728, -19112154, 18047770

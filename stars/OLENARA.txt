@@ -1,0 +1,37 @@
+Star: OLENARA
+Star class: S00
+Paris coordinates: -18928, 229680, -137040
+Bodies: 27 (9 planets, 18 moons)
+
+System:
+- TERELASA (d dusty, craterized)
+- FIORA (@ large, not consistent)
+- GREYGOR (f felisian)
+  - GREYGOR M1 (d dusty, craterized)
+  - GREYGOR M2 (n thin atmosphere)
+- SANDERS (q quartz surface)
+- RUFE (@ large, not consistent)
+  - RUFE M1 (k thick atmosphere)
+  - RUFE M2 (n thin atmosphere)
+  - RUFE M3 (d dusty, craterized)
+- CHEZGAR (q quartz surface)
+- HAEZEN (k thick atmosphere)
+  - HAEZEN M1 (d dusty, craterized)
+- CHOLTRAIN (d dusty, craterized)
+- CARAMEL (@ large, not consistent)
+  - CARAMEL M1 (i icy surface)
+  - CARAMEL M2 (k thick atmosphere)
+  - CARAMEL M3 (i icy surface)
+  - CARAMEL M4 (r rocky, creased)
+  - CARAMEL M5 (i icy surface)
+  - CARAMEL M6 (i icy surface)
+  - CARAMEL M7 (i icy surface)
+  - CARAMEL M8 (i icy surface)
+  - CARAMEL M9 (i icy surface)
+  - CARAMEL M10 (i icy surface)
+  - CARAMEL M11 (i icy surface)
+  - CARAMEL M12 (i icy surface)
+
+Guide entries:
+9 PLANETS 1 FELISIAN WORLD ..GREYGOR.. UNREMARKABLE SYSTEM
+(KRUSTY 6011.599.611)

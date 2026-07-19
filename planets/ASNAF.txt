@@ -1,0 +1,3 @@
+Planet: ASNAF
+Starmap index: 02
+Paris coordinates: 665744, 5064511, -7269908

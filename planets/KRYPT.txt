@@ -1,0 +1,3 @@
+Planet: KRYPT
+Starmap index: 01
+Paris coordinates: 3552848, 4233415, -1467931

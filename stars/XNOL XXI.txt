@@ -1,0 +1,6 @@
+Star: XNOL XXI
+Star class: S06
+Paris coordinates: -552848, 21847695, -1442189
+Bodies: 0 (0 planets, 0 moons)
+
+System:

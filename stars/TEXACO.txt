@@ -1,0 +1,6 @@
+Star: TEXACO
+Star class: S06
+Paris coordinates: 494640, 71584, 161522
+Bodies: 0 (0 planets, 0 moons)
+
+System:

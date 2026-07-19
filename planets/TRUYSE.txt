@@ -1,0 +1,3 @@
+Planet: TRUYSE
+Starmap index: 12
+Paris coordinates: 1583920, -27673265, 361375

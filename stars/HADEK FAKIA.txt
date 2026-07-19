@@ -1,0 +1,6 @@
+Star: HADEK FAKIA
+Star class: S06
+Paris coordinates: 6093552, 5194976, -1556000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

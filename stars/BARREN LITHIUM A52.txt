@@ -1,0 +1,6 @@
+Star: BARREN LITHIUM A52
+Star class: S06
+Paris coordinates: 6060464, 4443118, -30441097
+Bodies: 0 (0 planets, 0 moons)
+
+System:

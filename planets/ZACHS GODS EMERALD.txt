@@ -1,0 +1,3 @@
+Planet: ZACHS "GODS EMERALD"
+Starmap index: 05
+Paris coordinates: 3577136, 4225788, -1928149

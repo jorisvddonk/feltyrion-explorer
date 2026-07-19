@@ -1,0 +1,19 @@
+Star: DESTINY
+Star class: S00
+Paris coordinates: 3266416, 4234407, -205776
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- KISMET (k thick atmosphere)
+- DOOM (k thick atmosphere)
+- FATE (f felisian)
+  - CHOICE (d dusty, craterized)
+  - PREORDAIN (d dusty, craterized)
+- KARMA (f felisian)
+- WILL (f felisian)
+  - END (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY DOUG, EPOC 560.817.20
+FURTHER NOTES: A CLASS S00 SYSTEM WITH 5 PLANETS, 3 MOONS. 3 FELISIAN
+WORLDS. SKINNYMON EPOC 6011 570.382

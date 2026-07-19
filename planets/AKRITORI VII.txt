@@ -1,0 +1,7 @@
+Planet: AKRITORI VII
+Starmap index: 28
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.537.637                              
+DID NOT LAND. NORMAL-TYPE MOON. (NEURONWAKE 6011 802.537.681)               

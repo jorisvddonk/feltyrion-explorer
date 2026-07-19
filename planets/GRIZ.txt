@@ -1,0 +1,3 @@
+Planet: GRIZ
+Starmap index: 07
+Paris coordinates: -859632, -254576, -1458795

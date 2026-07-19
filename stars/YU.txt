@@ -1,0 +1,11 @@
+Star: YU
+Star class: S10
+Paris coordinates: 5309296, 9139020, -7591585
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- YU-OON (@ large, not consistent)
+- YU-NEE (^ unstable)
+
+Guide entries:
+AN ANCIENT RUN-AWAY WITH TWO MAJOR BODIES IN TOW.

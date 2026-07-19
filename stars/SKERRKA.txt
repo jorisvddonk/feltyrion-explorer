@@ -1,0 +1,30 @@
+Star: SKERRKA
+Star class: S08
+Paris coordinates: -363568, 871605, -260129
+Bodies: 24 (6 planets, 18 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (* companion star)
+- Planet #2 (* companion star)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (+ substellar object)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (+ substellar object)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (^ unstable)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (+ substellar object)
+  - Moon #12 (@ large, not consistent)
+  - Moon #13 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (d dusty, craterized)
+  - LIONO0 (q quartz surface)
+- Planet #5 (k thick atmosphere)

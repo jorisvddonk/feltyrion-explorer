@@ -1,0 +1,6 @@
+Planet: RAPHAEL
+Starmap index: 05
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+ GAS MOON, THICK ATMOSPHERE, NO LIFE, LOW VISIBILITY CAUTION ADVISED

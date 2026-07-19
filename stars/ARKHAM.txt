@@ -1,0 +1,33 @@
+Star: ARKHAM
+Star class: S00
+Paris coordinates: 191792, 6793743, -1527697
+Bodies: 27 (9 planets, 18 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (f felisian)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (i icy surface)

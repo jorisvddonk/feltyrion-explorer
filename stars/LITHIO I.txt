@@ -1,0 +1,10 @@
+Star: LITHIO I
+Star class: S06
+Paris coordinates: 26684688, 6500413, 44944737
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S06 STAR, HAS LITHIUM.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:633:734)

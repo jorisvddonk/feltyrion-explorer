@@ -1,0 +1,13 @@
+Star: DEKAFHDES
+Star class: S08
+Paris coordinates: 634116304, -10940159, 49876301
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PIPALYS (r rocky, creased)
+- LOLAUMAR (@ large, not consistent)
+
+Guide entries:
+A PSEUDO S08 WITH NO COMPANION STAR AND 2 WORLDS. ONLY 6.18 LY FROM         
+LISTA 309. 1.18927693 BAL. M.; TEMP 4749 K; RAD 30.1 KR; COOR               
+634116304;-10940159;49876301 SKINNYMON 6011 892.914                         

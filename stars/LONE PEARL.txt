@@ -1,0 +1,10 @@
+Star: LONE PEARL
+Star class: S07
+Paris coordinates: 26677904, 6381397, 44732823
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S07 STAR, NO PLANETS.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:633:735

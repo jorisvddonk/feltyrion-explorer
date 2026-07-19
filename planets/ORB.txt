@@ -1,0 +1,3 @@
+Planet: ORB
+Starmap index: 03
+Paris coordinates: 3821776, 4829682, -1482257

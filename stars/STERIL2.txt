@@ -1,0 +1,10 @@
+Star: STERIL2
+Star class: S00
+Paris coordinates: 3746064, 4602351, -1932130
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:601.944
+NO PLANETS HERE.

@@ -1,0 +1,3 @@
+Planet: GLUIOK
+Starmap index: 32
+Paris coordinates: 1194640, -18470514, -525444

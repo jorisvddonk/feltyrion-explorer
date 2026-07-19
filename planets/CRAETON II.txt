@@ -1,0 +1,8 @@
+Planet: CRAETON II
+Starmap index: 21
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.531.530                              
+DID NOT LAND. ANOTHER STANDARD, UNINTERESTING MOON.                         
+(NEURONWAKE 6011 802.531.567)                                               

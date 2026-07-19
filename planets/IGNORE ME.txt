@@ -1,0 +1,3 @@
+Planet: IGNORE ME
+Starmap index: 18
+Paris coordinates: 2568176, 4269415, 6430277

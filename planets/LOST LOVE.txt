@@ -1,0 +1,3 @@
+Planet: LOST LOVE
+Starmap index: 01
+Paris coordinates: 3608208, 4273476, -2115401

@@ -1,0 +1,16 @@
+Star: ASTRO PATH A86
+Star class: S00
+Paris coordinates: 3752336, 3640736, -48041658
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (f felisian)

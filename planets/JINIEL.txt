@@ -1,0 +1,6 @@
+Planet: JINIEL
+Starmap index: 15
+Paris coordinates: 10869520, -19274356, 17549028
+
+Guide entries:
+FOUND EPOC 6011 586.899.500 BY ROLAND ASKEW

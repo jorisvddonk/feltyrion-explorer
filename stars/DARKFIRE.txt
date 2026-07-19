@@ -1,0 +1,8 @@
+Star: DARKFIRE
+Star class: S05
+Paris coordinates: 556784, 397200, 69785
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- NIGHTLIGHT (q quartz surface)
+- HOTFOOT 457 (^ unstable)

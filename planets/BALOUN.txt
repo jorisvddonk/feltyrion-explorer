@@ -1,0 +1,3 @@
+Planet: BALOUN
+Starmap index: 06
+Paris coordinates: -103830256, 26103032, -1039132

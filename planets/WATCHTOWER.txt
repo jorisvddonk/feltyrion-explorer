@@ -1,0 +1,6 @@
+Planet: WATCHTOWER
+Starmap index: 01
+Paris coordinates: 3742128, 4428007, -203501
+
+Guide entries:
+INCONSISTENT PLANET. NOTHING OF NOTE. (TACKAT 6011:562.863)

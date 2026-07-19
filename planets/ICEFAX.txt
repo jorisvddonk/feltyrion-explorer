@@ -1,0 +1,3 @@
+Planet: ICEFAX
+Starmap index: 02
+Paris coordinates: 3512144, 4877460, -3729284

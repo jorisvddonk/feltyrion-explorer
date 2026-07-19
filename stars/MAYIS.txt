@@ -1,0 +1,56 @@
+Star: MAYIS
+Star class: S08
+Paris coordinates: -3251760, -55767, -2466093
+Bodies: 45 (6 planets, 39 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (k thick atmosphere)
+- MAYIS 03 (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (+ substellar object)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (^ unstable)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (q quartz surface)
+  - COEL (f felisian)
+  - Moon #7 (@ large, not consistent)
+  - Moon #8 (^ unstable)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (^ unstable)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (+ substellar object)
+  - FRUX (f felisian)
+  - Moon #15 (@ large, not consistent)
+  - Moon #16 (@ large, not consistent)
+  - Moon #17 (n thin atmosphere)
+  - Moon #18 (k thick atmosphere)
+- MAYIS 04 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (+ substellar object)
+  - BLICER (f felisian)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (q quartz surface)
+  - VENS (f felisian)
+  - Moon #16 (^ unstable)
+  - OCHIRAN (f felisian)
+  - Moon #18 (k thick atmosphere)
+  - Moon #19 (k thick atmosphere)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+
+Guide entries:
+S08; 6 MAJORS, 39 MINORS
+5 FELISIANS
+DISCOVERED BY SHAM COURTNEY, 6011:596.322

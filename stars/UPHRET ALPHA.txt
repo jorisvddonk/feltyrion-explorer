@@ -1,0 +1,9 @@
+Star: UPHRET ALPHA
+Star class: S08
+Paris coordinates: 2459632, 5106073, -5509
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- UPHRET GAMMA (+ substellar object)
+- UPHRET BETA (* companion star)
+- ORBITER (d dusty, craterized)

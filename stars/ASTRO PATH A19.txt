@@ -1,0 +1,6 @@
+Star: ASTRO PATH A19
+Star class: S10
+Paris coordinates: 5179312, 4642900, -11235324
+Bodies: 0 (0 planets, 0 moons)
+
+System:

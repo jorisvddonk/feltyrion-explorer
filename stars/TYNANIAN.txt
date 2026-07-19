@@ -1,0 +1,51 @@
+Star: TYNANIAN
+Star class: S00
+Paris coordinates: 4742128, 4145624, -1121731
+Bodies: 40 (12 planets, 28 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- TYNANIAN II (d dusty, craterized)
+- TYNANIAN III (f felisian)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (r rocky, creased)
+- Planet #7 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #8 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (i icy surface)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (i icy surface)
+  - Moon #11 (i icy surface)
+  - Moon #12 (i icy surface)
+  - Moon #13 (i icy surface)
+- Planet #9 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #11 (k thick atmosphere)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+'DISCOVERED BY JOHN DILICK, EPOC 6011:608.119'
+'PLANET 3 HAS LIFE (JOHN DILICK, EPOC 6011:608.121)'
+'PLANET III HAS A BIRLIKE LIFEFORM (JOHN DILICK, 6011:609.151)'

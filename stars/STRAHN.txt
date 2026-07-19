@@ -1,0 +1,11 @@
+Star: STRAHN
+Star class: S06
+Paris coordinates: 2146000304, 795934, 1798387694
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:585.695
+(S06) L+
+COORDINATES = 2146000304,795934,1798387694

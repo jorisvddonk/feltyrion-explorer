@@ -1,0 +1,3 @@
+Planet: TELO
+Starmap index: 05
+Paris coordinates: 5796400, 4309349, 858423

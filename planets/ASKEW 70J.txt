@@ -1,0 +1,3 @@
+Planet: ASKEW 70J
+Starmap index: 10
+Paris coordinates: 11076304, -19198926, 17684054

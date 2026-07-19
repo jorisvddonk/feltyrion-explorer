@@ -1,0 +1,6 @@
+Star: FGS ISABELLE
+Star class: S10
+Paris coordinates: 1412150000, 50000, -1412250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

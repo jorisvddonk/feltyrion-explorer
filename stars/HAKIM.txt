@@ -1,0 +1,7 @@
+Star: HAKIM
+Star class: S05
+Paris coordinates: -5585680, -76795984, -2183360
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FERRONE (d dusty, craterized)

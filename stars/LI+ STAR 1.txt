@@ -1,0 +1,10 @@
+Star: LI+ STAR 1
+Star class: S06
+Paris coordinates: 4942128, 5222933, -1384094
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ STOPPING BY THIS STAR TO REFUEL, STANDING BY FOR VIMANA-LEAP.
+ (STARGAZER. EPOC 6011; 584.194)

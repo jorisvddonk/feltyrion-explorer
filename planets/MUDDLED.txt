@@ -1,0 +1,3 @@
+Planet: MUDDLED
+Starmap index: 08
+Paris coordinates: -71562064, -598009, 53608687

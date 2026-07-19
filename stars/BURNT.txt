@@ -1,0 +1,28 @@
+Star: BURNT
+Star class: S03
+Paris coordinates: 3955696, 5140660, 257626
+Bodies: 19 (5 planets, 14 moons)
+
+System:
+- ZEROTH (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (n thin atmosphere)
+- Planet #3 (+ substellar object)
+- Planet #4 (d dusty, craterized)
+
+Guide entries:
+RED. (TWOTWOS, 6012:249.767)

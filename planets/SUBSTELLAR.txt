@@ -1,0 +1,6 @@
+Planet: SUBSTELLAR
+Starmap index: 01
+Paris coordinates: 4973200, 4731331, -1675245
+
+Guide entries:
+(RAPTORJEDI EPOC 6011 605.149)

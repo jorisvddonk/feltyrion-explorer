@@ -1,0 +1,9 @@
+Star: LISTA 105
+Star class: S06
+Paris coordinates: 10350000, 105216, -10129085
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+MORE LI+ SKINNYMON EPOC 6011 603.370

@@ -1,0 +1,9 @@
+Star: CODBLU
+Star class: S07
+Paris coordinates: -232496, 22981, -490230
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.513                               

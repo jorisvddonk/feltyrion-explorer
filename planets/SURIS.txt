@@ -1,0 +1,3 @@
+Planet: SURIS
+Starmap index: 01
+Paris coordinates: 4159632, 4436827, -1722935

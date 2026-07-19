@@ -1,0 +1,33 @@
+Star: ELOHIM
+Star class: S00
+Paris coordinates: 3290704, 4437570, -887888
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- ADAMAH (r rocky, creased)
+- HAWWAH (r rocky, creased)
+- ADONAI (+ substellar object)
+  - RAPHAEL (k thick atmosphere)
+  - ANAEL (r rocky, creased)
+  - GABRIEL (d dusty, craterized)
+  - SAMAEL (q quartz surface)
+  - SACHIEL (d dusty, craterized)
+  - CASSIEL (d dusty, craterized)
+  - ZERUEL (d dusty, craterized)
+  - DM-GS-1-6 (q quartz surface)
+  - GM-GS-1-1 (k thick atmosphere)
+  - GM-GS-1-14 (n thin atmosphere)
+  - GM-GS-1-2 (k thick atmosphere)
+  - MIKAEL (q quartz surface)
+  - GM-GS-1-11 (k thick atmosphere)
+  - RAMIEL (k thick atmosphere)
+- BARNARD WORLD (f felisian)
+  - DM-EMA4-1 (d dusty, craterized)
+  - DM-EMA4-2 (d dusty, craterized)
+  - DM-EMA4-3 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY DASTARLIKE. YELLOW STAR WITH 4 PLANETS AND 17 MOONS.
+ NAMES OF MOST BODIES ARE REFERRED TO THE JEWISH RELIGIOUS TRADITION.
+ A NEW S00 SUN. ONE HABITABLE PLANET W/LIFE NO LESS.
+ONE GAS GIANT, ONE INHABITABLE PLANET, LIFE

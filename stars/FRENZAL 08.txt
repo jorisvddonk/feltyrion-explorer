@@ -1,0 +1,9 @@
+Star: FRENZAL 08
+Star class: S08
+Paris coordinates: 3746064, 4402351, -1857325
+Bodies: 3 (2 planets, 1 moons)
+
+System:
+- Planet #0 (* companion star)
+  - OTTO (r rocky, creased)
+- Planet #1 (* companion star)

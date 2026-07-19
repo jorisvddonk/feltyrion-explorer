@@ -1,0 +1,9 @@
+Star: ASKEW 130
+Star class: S11
+Paris coordinates: 6251344, -16169372, 13174896
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- ASKEW 130A (@ large, not consistent)
+- ASKEW 130B (d dusty, craterized)
+- ASKEW 130C (d dusty, craterized)

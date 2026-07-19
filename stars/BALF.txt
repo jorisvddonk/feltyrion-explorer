@@ -1,0 +1,11 @@
+Star: BALF
+Star class: S00
+Paris coordinates: 5017840, 8016655, -997377
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FOL I (k thick atmosphere)
+- FOL II (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BY MURRMURR EPOC 6011:607.801

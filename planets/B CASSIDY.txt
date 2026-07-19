@@ -1,0 +1,3 @@
+Planet: B CASSIDY
+Starmap index: 01
+Paris coordinates: 2677136, 4584941, -930369

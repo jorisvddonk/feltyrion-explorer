@@ -1,0 +1,10 @@
+Star: LAURENII
+Star class: S06
+Paris coordinates: 1800325840, 1322482, 55109202
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.336
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

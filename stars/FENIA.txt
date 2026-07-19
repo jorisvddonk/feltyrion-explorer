@@ -1,0 +1,41 @@
+Star: FENIA
+Star class: S00
+Paris coordinates: 4342128, 4559934, -807862
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- ICARUS (d dusty, craterized)
+- BAD APPLE (d dusty, craterized)
+- PEACH (f felisian)
+  - PORTHIA (d dusty, craterized)
+  - SOMNE (d dusty, craterized)
+  - REMNANT (d dusty, craterized)
+- PLEASANCE (f felisian)
+  - GRISELA (d dusty, craterized)
+  - APHRATEANA (d dusty, craterized)
+  - DIMLAND (n thin atmosphere)
+- BROKEN MIRROR (q quartz surface)
+  - GRAIN OF GRAINS (d dusty, craterized)
+  - PANOPLIA (d dusty, craterized)
+  - LIGHTBULB (d dusty, craterized)
+- OPAL (@ large, not consistent)
+  - INFINITY (k thick atmosphere)
+  - FENILAYAN (d dusty, craterized)
+- WETWICK (f felisian)
+  - UNEDIBLE (d dusty, craterized)
+- DIRTY ROCK (k thick atmosphere)
+  - VEIL (n thin atmosphere)
+- DOWNER (d dusty, craterized)
+  - UNGRACEFUL (^ unstable)
+- ARDESIA (d dusty, craterized)
+  - ANCIENT PIG (d dusty, craterized)
+
+Guide entries:
+10 PLANETS, 15 MOONS, 3 FELISIAN WORLDS.
+ JUST A NOTE...I'VE MADE IT HOME AGAIN. KALLIOPE, E 6011.617.766.
+WELL, BACK AT FENIA AGAIN, BUT THIS TIME, BESIDES UPGRADING MY DATABASE,
+ I'M GOING TO MAKE SOME NOTES ABOUT THE PLANETS. SERPENS, 6011 665.762
+NOTES                                                                       
+(SERPENS APPARENTLY NEVER FINISHED WRITING THEIR NOTES)
+IT HAS BEEN A VERY LONG TIME. I AM HERE, FINALLY, TO UPLOAD MY NOTES -
+IF THE COMPUTER BANK IS STILL OPERATIONAL (TWOTWOS, 6012:252.878)

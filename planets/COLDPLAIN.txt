@@ -1,0 +1,14 @@
+Planet: COLDPLAIN
+Starmap index: 01
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+ (SURVEYED BY 131, EPOC 6011:804:539)                                       
+ PLANET INFORMATION:                                                        
+0.514 GRAVITY                                                               
+TEMPERATURE RANGE: 32.7-62.9                                                
+0.023 ATMOSPHERE                                                            
+INCAPABLE OF SUSTAINING LIFE                                                
+SURVEY NOTES:                                                               
+INTERESTING GEOLIGICAL FORMATIONS OF TRIANGULAR SHAPE, UNKNOWN              
+MINERAL COMPOSITION.                                                        

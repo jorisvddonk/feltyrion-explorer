@@ -1,0 +1,6 @@
+Planet: ALCOBACA
+Starmap index: 14
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+ UNSTABLE SURFACE (BY NBOAR 6011 588.564)

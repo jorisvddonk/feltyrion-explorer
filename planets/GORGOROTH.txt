@@ -1,0 +1,3 @@
+Planet: GORGOROTH
+Starmap index: 02
+Paris coordinates: -61125808, 29740310, 724290

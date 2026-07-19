@@ -1,0 +1,6 @@
+Star: FARBEACON IV
+Star class: S03
+Paris coordinates: 1413050000, 50000, -1413150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

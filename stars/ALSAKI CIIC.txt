@@ -1,0 +1,32 @@
+Star: ALSAKI CIIC
+Star class: S09
+Paris coordinates: 15530320, 31932215, -6871997
+Bodies: 26 (5 planets, 21 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (+ substellar object)
+- Planet #2 (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+- Planet #3 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (f felisian)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (f felisian)
+  - Moon #9 (k thick atmosphere)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (r rocky, creased)

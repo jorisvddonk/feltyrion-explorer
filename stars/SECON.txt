@@ -1,0 +1,6 @@
+Star: SECON
+Star class: S07
+Paris coordinates: 2701424, 4691453, -1580131
+Bodies: 0 (0 planets, 0 moons)
+
+System:

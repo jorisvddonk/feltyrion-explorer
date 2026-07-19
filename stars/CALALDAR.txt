@@ -1,0 +1,6 @@
+Star: CALALDAR
+Star class: S06
+Paris coordinates: 3283920, 4872695, -1333897
+Bodies: 0 (0 planets, 0 moons)
+
+System:

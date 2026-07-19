@@ -1,0 +1,25 @@
+Star: BIUYTTER
+Star class: S00
+Paris coordinates: 3479984, 6392650, 474414
+Bodies: 15 (7 planets, 8 moons)
+
+System:
+- JALEAY (k thick atmosphere)
+- HLASIF (n thin atmosphere)
+- JOSTEDAL (f felisian)
+  - KAULK (d dusty, craterized)
+- NUPIG (r rocky, creased)
+- CLATANAM (+ substellar object)
+  - PLATIH (k thick atmosphere)
+  - SKUNI (d dusty, craterized)
+  - CHIRAF (k thick atmosphere)
+  - SLITON (n thin atmosphere)
+  - PROLEGOMENON (f felisian)
+  - MULIEBRITY (f felisian)
+- ODIODAD (q quartz surface)
+- COTHEX (d dusty, craterized)
+  - YADDU (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 7 PLANETS, 8 MOONS, THREE
+FELISIAN WORLDS. SKINNYMON EPOC 6011 595.270

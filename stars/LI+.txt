@@ -1,0 +1,6 @@
+Star: LI+
+Star class: S06
+Paris coordinates: 3850000, 4350000, -3950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

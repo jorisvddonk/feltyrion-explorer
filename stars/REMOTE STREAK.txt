@@ -1,0 +1,6 @@
+Star: REMOTE STREAK
+Star class: S06
+Paris coordinates: -23447568, -17756994, 39076616
+Bodies: 0 (0 planets, 0 moons)
+
+System:

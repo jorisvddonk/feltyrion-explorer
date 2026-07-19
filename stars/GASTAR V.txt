@@ -1,0 +1,9 @@
+Star: GASTAR V
+Star class: S06
+Paris coordinates: 470352, 927341, 659476
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ FULING STATION COURTESY OF THE GREAT DEMENTO. YOU'RE WELCOME.

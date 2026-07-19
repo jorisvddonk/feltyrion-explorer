@@ -1,0 +1,8 @@
+Planet: ONFHSU
+Starmap index: 32
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+ M17/P07 MEDIUM SIZE THICK ATMO GREY GREENISH COLOR, LARGE STORMS IN        
+NORTH, DARK BAND IN SOUTH, REST UNSETTLED. PRO 0.098.280 PRV 0.006.292      
+.433 SKINNYMON 6011 792.93                                                  

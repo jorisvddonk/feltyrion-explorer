@@ -1,0 +1,10 @@
+Star: OZKO
+Star class: S11
+Paris coordinates: 108208, 412587, 1471114
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OZKOGRIR (n thin atmosphere)
+
+Guide entries:
+ PULSAR DISCOVERED BY ZOSETE (EPOC 6011 577.524.555)

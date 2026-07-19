@@ -1,0 +1,3 @@
+Planet: FEROAN
+Starmap index: 01
+Paris coordinates: 1383920, 5102252, 557940

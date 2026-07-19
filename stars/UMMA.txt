@@ -1,0 +1,28 @@
+Star: UMMA
+Star class: S11
+Paris coordinates: 5425712, 8286779, -4787371
+Bodies: 19 (3 planets, 16 moons)
+
+System:
+- UMMA 1 (n thin atmosphere)
+- UMMA 2 (d dusty, craterized)
+- UMMA 3 (@ large, not consistent)
+  - UMMA GARI (q quartz surface)
+  - UMMA JARR (i icy surface)
+  - UMMA TAL (i icy surface)
+  - UMMA ORT (^ unstable)
+  - UMMA KAI (n thin atmosphere)
+  - UMMA MAI (i icy surface)
+  - UMMA AK (k thick atmosphere)
+  - UMMA NAI (r rocky, creased)
+  - UMMA ICC (i icy surface)
+  - UMMA ICO (n thin atmosphere)
+  - UMMA OXY (q quartz surface)
+  - UMMA J'LEL (k thick atmosphere)
+  - UMMA REI (i icy surface)
+  - UMMA QUAR (q quartz surface)
+  - UMMA TAUN (i icy surface)
+  - UMMA TAT (q quartz surface)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.491

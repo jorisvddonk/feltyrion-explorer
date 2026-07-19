@@ -1,0 +1,6 @@
+Star: TRJOGON
+Star class: S05
+Paris coordinates: 5255696, 4842851, -841913
+Bodies: 0 (0 planets, 0 moons)
+
+System:

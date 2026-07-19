@@ -1,0 +1,6 @@
+Star: WOW BLUE2
+Star class: S07
+Paris coordinates: 29315920, 6111124, 5508799
+Bodies: 0 (0 planets, 0 moons)
+
+System:

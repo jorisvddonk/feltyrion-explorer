@@ -1,0 +1,3 @@
+Planet: VIOGRE
+Starmap index: 01
+Paris coordinates: 3890704, 4420850, -1491247

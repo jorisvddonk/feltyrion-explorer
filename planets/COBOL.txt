@@ -1,0 +1,8 @@
+Planet: COBOL
+Starmap index: 69
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+COBOL DISCOVERED BY MISTRAL, EPOC 6011.797.808                              
+ANOTHER ICY, ATMOSPHERELESS MOON                                            
+(NOTES BY MISTRAL, EPOC 6011.797.808)                                       

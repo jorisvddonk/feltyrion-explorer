@@ -1,0 +1,3 @@
+Planet: CLOUDY
+Starmap index: 04
+Paris coordinates: 4528560, 4391346, -1746540

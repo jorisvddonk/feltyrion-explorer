@@ -1,0 +1,3 @@
+Planet: CANTABER
+Starmap index: 05
+Paris coordinates: 4297488, 4541055, -1442103

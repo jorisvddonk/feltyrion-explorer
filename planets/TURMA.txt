@@ -1,0 +1,3 @@
+Planet: TURMA
+Starmap index: 03
+Paris coordinates: 1575952, 3915214, -56082526

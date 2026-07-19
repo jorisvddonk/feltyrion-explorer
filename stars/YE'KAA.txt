@@ -1,0 +1,9 @@
+Star: YE'KAA
+Star class: S06
+Paris coordinates: 4356784, 6969723, -3976619
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE(RAPTORJEDI EPOC 6011 605.300)

@@ -1,0 +1,3 @@
+Planet: PERSES GORGON
+Starmap index: 02
+Paris coordinates: 5226384, -2258277, 5152754

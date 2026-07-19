@@ -1,0 +1,3 @@
+Planet: CHAREO
+Starmap index: 28
+Paris coordinates: 2721776, -23948225, -404417

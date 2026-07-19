@@ -1,0 +1,36 @@
+Star: FAR FARVIEW
+Star class: S00
+Paris coordinates: 1413381072, -31268, -1413496484
+Bodies: 24 (9 planets, 15 moons)
+
+System:
+- ABSTRACTED (n thin atmosphere)
+- NOT RASPBERRY RIPPLE (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+  - CHARONITE (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - GRID HOMESTEADER (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - O'ER THE GRID (r rocky, creased)
+  - Moon #4 (f felisian)
+  - CAVEAT EMPTOR (k thick atmosphere)
+  - IRON BOX (r rocky, creased)
+  - POLYMORPHING CABIN (n thin atmosphere)
+- Planet #4 (f felisian)
+  - LONDON TAP TERRA (^ unstable)
+  - NAANA (n thin atmosphere)
+- GREENBACKED GEM (f felisian)
+  - IASE ROCKEFELLER (^ unstable)
+  - IASE GATES (d dusty, craterized)
+  - IASE BUFFETT (d dusty, craterized)
+- Planet #6 (+ substellar object)
+- SPATIAL DISTRIB (d dusty, craterized)
+- R87 FUNCTION CLIENT (i icy surface)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+AN S00 SYSTEM OF 9 PLANETS, 15 MOONS, 3 FELISIANS. IN VIEW OF THE           
+RECENT FINDINGS MADE ABOUT THE GRID; ITS 'CLOAKING' NATURE, ITS             
+VAST SCALE... IT COULD BE SAFE TO NOTE THAT PERHAPS THE ANCIENTS            
+DID EXIST. RYAN GJK E6011.821.122                                           

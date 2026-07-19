@@ -1,0 +1,3 @@
+Planet: NOSTREN-2
+Starmap index: 40
+Paris coordinates: 3804272, 4398014, -524676

@@ -1,0 +1,6 @@
+Star: GLAUCENE
+Star class: S06
+Paris coordinates: 3583920, 4309420, -1553227
+Bodies: 0 (0 planets, 0 moons)
+
+System:

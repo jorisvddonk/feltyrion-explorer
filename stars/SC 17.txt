@@ -1,0 +1,6 @@
+Star: SC 17
+Star class: S07
+Paris coordinates: -4809968, 48481, -2423211
+Bodies: 0 (0 planets, 0 moons)
+
+System:

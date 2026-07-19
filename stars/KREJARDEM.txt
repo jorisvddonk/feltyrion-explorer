@@ -1,0 +1,38 @@
+Star: KREJARDEM
+Star class: S09
+Paris coordinates: 2140775312, -1801647, -339743
+Bodies: 26 (9 planets, 17 moons)
+
+System:
+- FREMA (+ substellar object)
+- CLYGA (+ substellar object)
+- KRITO (+ substellar object)
+  - DUCRY (d dusty, craterized)
+  - TIKME (d dusty, craterized)
+  - DOYFI (k thick atmosphere)
+- YOEPORIN (d dusty, craterized)
+  - KYMBI (d dusty, craterized)
+- THOUE (@ large, not consistent)
+  - KURAFH (k thick atmosphere)
+  - TUKPI (d dusty, craterized)
+  - CAVLY (r rocky, creased)
+  - MATLY (r rocky, creased)
+  - ROTVA (d dusty, craterized)
+  - MISBA (d dusty, craterized)
+  - VERFA (n thin atmosphere)
+  - BENKE (d dusty, craterized)
+  - CUNBA (d dusty, craterized)
+  - LULRE (n thin atmosphere)
+- PEONTY (+ substellar object)
+  - PIBGA (n thin atmosphere)
+  - JAEKO (^ unstable)
+- PIAPLY (+ substellar object)
+  - SILICAQUARRY (q quartz surface)
+- LIORULUL (d dusty, craterized)
+- NOAPAYUR (d dusty, craterized)
+
+Guide entries:
+ CLASS S09 STAR POSSIBLY OUT TOO FAR. 9 PLANETS 17 MOONS 0 FELISIAN         
+1.50897 BAL.M. TEMP 5210 K RAD 43-44 KR.                                    
+COR 2140775312;-1801647;-339743. IN LSTA 308 AREA. SKINNYMON EPOC           
+6011 791.364                                                                

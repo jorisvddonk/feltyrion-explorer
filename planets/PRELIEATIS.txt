@@ -1,0 +1,3 @@
+Planet: PRELIEATIS
+Starmap index: 55
+Paris coordinates: -61584016, 29782048, -184920

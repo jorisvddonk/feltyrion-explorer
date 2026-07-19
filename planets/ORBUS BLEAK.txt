@@ -1,0 +1,3 @@
+Planet: ORBUS BLEAK
+Starmap index: 08
+Paris coordinates: 3652848, 4640609, -1423469

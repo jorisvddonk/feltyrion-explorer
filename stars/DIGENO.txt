@@ -1,0 +1,8 @@
+Star: DIGENO
+Star class: S00
+Paris coordinates: 1870352, 5220454, -727553
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DIGENO.1 _R (r rocky, creased)
+- DIGENO.2 _S (d dusty, craterized)

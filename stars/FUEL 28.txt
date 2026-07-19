@@ -1,0 +1,11 @@
+Star: FUEL 28
+Star class: S06
+Paris coordinates: 650000, -34495, -460241
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.431
+GIVE ME 5 BUCKS WORTH. I'M IN A HURRY
+YES PLEASE.

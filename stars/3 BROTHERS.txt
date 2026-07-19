@@ -1,0 +1,19 @@
+Star: 3 BROTHERS
+Star class: S08
+Paris coordinates: -777136, 155009, -746725
+Bodies: 13 (3 planets, 10 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- MIDDLE BROTHER (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (@ large, not consistent)
+- YOUNG BROTHER (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (+ substellar object)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)

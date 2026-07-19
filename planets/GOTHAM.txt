@@ -1,0 +1,8 @@
+Planet: GOTHAM
+Starmap index: 22
+Paris coordinates: 3742128, 3928007, -212877
+
+Guide entries:
+FOUNDED EPOC 6011:681.407.59 BY REZA. 1ST SATELLITE OF BALOONE.             
+VERY THICK CLOUDS, UNPENETRABLE BY STARLIGHT. (EPOC 6011, 681.407.154,      
+REZA)                                                                       

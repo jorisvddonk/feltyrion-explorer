@@ -1,0 +1,3 @@
+Planet: WAYNEDAIMOPLANET1
+Starmap index: 03
+Paris coordinates: -33346576, 5360707, -14759537

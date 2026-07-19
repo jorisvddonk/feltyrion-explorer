@@ -1,0 +1,31 @@
+Star: OUELLETTE
+Star class: S00
+Paris coordinates: -601424, -478140, -356998
+Bodies: 25 (12 planets, 13 moons)
+
+System:
+- ANOMOLY (k thick atmosphere)
+- BLASTER (d dusty, craterized)
+- GREEN PEA (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #11 (d dusty, craterized)

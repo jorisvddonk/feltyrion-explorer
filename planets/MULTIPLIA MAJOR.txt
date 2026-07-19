@@ -1,0 +1,7 @@
+Planet: MULTIPLIA MAJOR
+Starmap index: 04
+Paris coordinates: -344976, 9517823, -4954054
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.805 -                                
+COMPANION STAR - NOT A PLANET.                                              

@@ -1,0 +1,26 @@
+Star: ASKEW 151
+Star class: S11
+Paris coordinates: 9873456, -16322695, 16639319
+Bodies: 20 (5 planets, 15 moons)
+
+System:
+- ASKEW 151A (n thin atmosphere)
+- ASKEW 151B (@ large, not consistent)
+- ASKEW 151C (d dusty, craterized)
+- ASKEW 151D (@ large, not consistent)
+  - ASKEW 151D1 (i icy surface)
+  - ASKEW 151D2 (i icy surface)
+  - ASKEW 151D3 (i icy surface)
+  - ASKEW 151D4 (k thick atmosphere)
+  - ASKEW 151D5 (i icy surface)
+  - ASKEW 151D6 (i icy surface)
+  - ASKEW 151D7 (i icy surface)
+  - ASKEW 151D8 (k thick atmosphere)
+  - ASKEW 151D9 (i icy surface)
+  - ASKEW 151D10 (r rocky, creased)
+  - ASKEW 151D11 (q quartz surface)
+  - ASKEW 151D12 (i icy surface)
+  - ASKEW 151D13 (r rocky, creased)
+- ASKEW 151E (n thin atmosphere)
+  - ASKEW 151E1 (i icy surface)
+  - ASKEW 151E2 (d dusty, craterized)

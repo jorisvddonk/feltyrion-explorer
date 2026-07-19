@@ -1,0 +1,3 @@
+Planet: DRY TERRA
+Starmap index: 02
+Paris coordinates: 3848912, 4136426, 104479

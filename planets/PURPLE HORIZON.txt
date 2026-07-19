@@ -1,0 +1,3 @@
+Planet: PURPLE HORIZON
+Starmap index: 01
+Paris coordinates: 5055696, 4381963, -636466

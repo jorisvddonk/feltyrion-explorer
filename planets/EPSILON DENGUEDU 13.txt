@@ -1,0 +1,3 @@
+Planet: EPSILON DENGUEDU 13
+Starmap index: 32
+Paris coordinates: 6998832, -16787199, 15185943

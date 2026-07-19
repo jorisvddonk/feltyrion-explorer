@@ -1,0 +1,23 @@
+Star: YGLOLIA
+Star class: S00
+Paris coordinates: -87856, 69100, -95029
+Bodies: 17 (10 planets, 7 moons)
+
+System:
+- YGLOLIA I (k thick atmosphere)
+- YGLOLIA II (r rocky, creased)
+- YSKARA (f felisian)
+  - FURLMIS (n thin atmosphere)
+- JUBALA (f felisian)
+  - SELENIA (d dusty, craterized)
+- YGLOLIA V (n thin atmosphere)
+- MAGNOSIS (n thin atmosphere)
+  - YIN (d dusty, craterized)
+  - YANG (d dusty, craterized)
+- ARCTICOR (f felisian)
+  - SVALBARD (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- RORKODON (r rocky, creased)
+- YGLOLIA IX (n thin atmosphere)
+  - YGLOLIA IX A (d dusty, craterized)
+- REMUS (i icy surface)

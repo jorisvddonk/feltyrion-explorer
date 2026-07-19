@@ -1,0 +1,3 @@
+Planet: TOO HOT
+Starmap index: 24
+Paris coordinates: -61584016, 29782048, -184920

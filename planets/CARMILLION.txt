@@ -1,0 +1,6 @@
+Planet: CARMILLION
+Starmap index: 01
+Paris coordinates: 2659632, 5571140, -153485
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-570.592

@@ -1,0 +1,3 @@
+Planet: BERAK
+Starmap index: 19
+Paris coordinates: 11958800, -19325483, 17497781

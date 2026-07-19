@@ -1,0 +1,6 @@
+Planet: SKYGEM B3
+Starmap index: 12
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A NORMAL DUSTY, CRATERIZED WORLD. AMWHERE 6011.584.920

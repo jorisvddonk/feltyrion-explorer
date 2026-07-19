@@ -1,0 +1,3 @@
+Planet: JADE PEBBLE 2
+Starmap index: 25
+Paris coordinates: 3077136, 4447919, -1286006

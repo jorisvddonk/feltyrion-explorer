@@ -1,0 +1,7 @@
+Planet: TUKPI
+Starmap index: 15
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M02/P05 SMALL DUSTY HAS CLUSTER CRATERS, BRIGHT REFLECTIVITY. PRO 0.195.    
+480 PRV 0.001.750.157 SKINNYMON 6011 791.355                                

@@ -1,0 +1,7 @@
+Planet: DES4
+Starmap index: 04
+Paris coordinates: 36432, 433110, -621435
+
+Guide entries:
+IT IS IMPOSSIBLE TO LAND ON THIS CLOUDY PLANET
+(NOTES BY CHRIS MARSH, EPOC 6011:566.666)

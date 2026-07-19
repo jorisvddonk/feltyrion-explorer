@@ -1,0 +1,11 @@
+Star: SOLITUDINAE
+Star class: S05
+Paris coordinates: 3959632, 5040688, -1467045
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SINGULI (n thin atmosphere)
+
+Guide entries:
+A LONELY BROWN DWARF STAR
+NAMED BY XILOSCIENT EPOC 6011:573.251

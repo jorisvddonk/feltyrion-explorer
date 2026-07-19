@@ -1,0 +1,12 @@
+Star: TAMBUB
+Star class: S00
+Paris coordinates: 4166416, 4903058, -1144218
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASSIONIS (+ substellar object)
+- HURRUR (@ large, not consistent)
+
+Guide entries:
+SMALL S00 SYSTEM. TWO PLANETS, NO MINOR BODIES.
+FOUND BY PIETARI SEPPAENEN EPOC 6011:604.614.

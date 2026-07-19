@@ -1,0 +1,9 @@
+Star: POLOTU
+Star class: S06
+Paris coordinates: -308880, 5224786, -10731946
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR-DISCOVERED BY KJ EPOC 6011:580.183

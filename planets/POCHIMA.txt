@@ -1,0 +1,3 @@
+Planet: POCHIMA
+Starmap index: 02
+Paris coordinates: 2826800, 7635723, -6040026

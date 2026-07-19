@@ -1,0 +1,8 @@
+Planet: DRIXAX V
+Starmap index: 18
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.530.259                              
+SURFACE IS UNEVEN AND FROZEN OVER. THIN ATMOSPHERE GIVES SKY A              
+REDDISH TINT. (NEURONWAKE 6011 802.530.933)                                 

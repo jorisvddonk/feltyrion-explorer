@@ -1,0 +1,6 @@
+Star: CAMBR RADSOJE
+Star class: S03
+Paris coordinates: 1250000, 50850000, -1350000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

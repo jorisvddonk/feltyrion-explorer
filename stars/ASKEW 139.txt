@@ -1,0 +1,26 @@
+Star: ASKEW 139
+Star class: S09
+Paris coordinates: 9266672, -17450856, 16757336
+Bodies: 20 (7 planets, 13 moons)
+
+System:
+- ASKEW 139A (@ large, not consistent)
+- ASKEW 139B (+ substellar object)
+- ASKEW 139C (+ substellar object)
+  - ASKEW 139C1 (^ unstable)
+  - ASKEW 139C2 (d dusty, craterized)
+  - KELLY'S PARADISE (f felisian)
+  - ASKEW 139C4 (r rocky, creased)
+- ASKEW 139D (+ substellar object)
+  - ASKEW 139D1 (k thick atmosphere)
+  - ASKEW 139D2 (q quartz surface)
+  - ASKEW 139D3 (n thin atmosphere)
+  - ASKEW 139D4 (k thick atmosphere)
+  - ASKEW 139D5 (@ large, not consistent)
+  - ASKEW 139D6 (r rocky, creased)
+  - ASKEW 139D7 (k thick atmosphere)
+  - ASKEW 139D8 (d dusty, craterized)
+- ASKEW 139E (+ substellar object)
+  - ASKEW 139E1 (^ unstable)
+- ASKEW 139F (d dusty, craterized)
+- ASKEW 139G (d dusty, craterized)

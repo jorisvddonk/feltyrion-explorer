@@ -1,0 +1,3 @@
+Planet: CLACK
+Starmap index: 05
+Paris coordinates: -44976, 5036632, -5238704

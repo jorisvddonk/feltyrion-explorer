@@ -1,0 +1,3 @@
+Planet: GALARETKA D
+Starmap index: 03
+Paris coordinates: -107235952, 25138811, -1828589

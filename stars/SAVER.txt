@@ -1,0 +1,9 @@
+Star: SAVER
+Star class: S06
+Paris coordinates: 2052848, 5104453, -23351
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+WHAT A SAVER

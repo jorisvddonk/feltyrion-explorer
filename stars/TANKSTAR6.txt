@@ -1,0 +1,32 @@
+Star: TANKSTAR6
+Star class: S00
+Paris coordinates: 5707120, 7261550, -440786
+Bodies: 26 (11 planets, 15 moons)
+
+System:
+- TANKWORLD6-01 (d dusty, craterized)
+- TANKWORLD6-02 (d dusty, craterized)
+- TANKWORLD6-03 (f felisian)
+- TANKWORLD6-04 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- TANKWORLD6-05 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (d dusty, craterized)
+- TANKWORLD6-06 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- TANKWORLD6-07 (d dusty, craterized)
+- TANKWORLD6-08 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- TANKWORLD6-09 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- TANKWORLD6-10 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- TANKWORLD6-11 (d dusty, craterized)

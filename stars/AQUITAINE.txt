@@ -1,0 +1,18 @@
+Star: AQUITAINE
+Star class: S00
+Paris coordinates: 1575376, 4741973, -5699916
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+
+Guide entries:
+S00 STAR W/ 5 PLANETS - 5TH IS FELISIAN, BUT ITS BARREN AND FROZEN
+FOUND BY RICHARD SOLENSKY EPOC 6011-570.54.840

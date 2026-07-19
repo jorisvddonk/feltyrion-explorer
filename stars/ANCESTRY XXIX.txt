@@ -1,0 +1,6 @@
+Star: ANCESTRY XXIX
+Star class: S07
+Paris coordinates: -1424842544, 1514789, 1434857621
+Bodies: 0 (0 planets, 0 moons)
+
+System:

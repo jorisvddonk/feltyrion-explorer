@@ -1,0 +1,7 @@
+Planet: MONOPLAINS
+Starmap index: 01
+Paris coordinates: -1152848, 60690072, -782008
+
+Guide entries:
+A THICK-AT, SOLID PLANET. SURFACE HAS A RATHER GRAYSCALE APPEARANCE         
+. RYAN GJK EPOC 6011, 789.833                                               

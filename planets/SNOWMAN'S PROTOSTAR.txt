@@ -1,0 +1,3 @@
+Planet: SNOWMAN'S PROTOSTAR
+Starmap index: 03
+Paris coordinates: 3666416, 4376784, -608561

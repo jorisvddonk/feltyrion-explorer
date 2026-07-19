@@ -1,0 +1,9 @@
+Star: LISTA 260
+Star class: S06
+Paris coordinates: 1660460976, -2046162, -1730
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. SKINNYMON EPOC 6011 622.653

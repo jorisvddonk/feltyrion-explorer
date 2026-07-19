@@ -1,0 +1,3 @@
+Planet: MONOLITH
+Starmap index: 07
+Paris coordinates: 2832496, 4384829, -1823141

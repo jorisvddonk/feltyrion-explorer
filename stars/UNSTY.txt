@@ -1,0 +1,6 @@
+Star: UNSTY
+Star class: S06
+Paris coordinates: -1632496, -960896, 908585
+Bodies: 0 (0 planets, 0 moons)
+
+System:

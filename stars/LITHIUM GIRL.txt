@@ -1,0 +1,8 @@
+Star: LITHIUM GIRL
+Star class: S05
+Paris coordinates: -524624, 4225059, -3764698
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)

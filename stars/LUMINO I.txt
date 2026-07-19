@@ -1,0 +1,13 @@
+Star: LUMINO I
+Star class: S02
+Paris coordinates: 2056784, 4810337, -1427030
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- URJIA (n thin atmosphere)
+- TWEYEN (n thin atmosphere)
+- GASIBAN (@ large, not consistent)
+
+Guide entries:
+AN INCREDIBLY BRIGHT STAR, HAS 3 KNOWN PLANETS.
+---EGGOFAWESOME 6012.1029 ******

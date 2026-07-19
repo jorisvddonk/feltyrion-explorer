@@ -1,0 +1,3 @@
+Planet: FLUOXIS 2
+Starmap index: 02
+Paris coordinates: 1814992, 24939470, 147554

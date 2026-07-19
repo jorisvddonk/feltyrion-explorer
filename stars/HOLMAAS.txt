@@ -1,0 +1,11 @@
+Star: HOLMAAS
+Star class: S06
+Paris coordinates: 2146750096, 1141429, 1599761637
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:580.933
+(S06) LI+
+ DISCOVERED BY DODO C. SNOTTS - (S06) LI+

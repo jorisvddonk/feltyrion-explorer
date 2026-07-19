@@ -1,0 +1,3 @@
+Planet: BISHOP
+Starmap index: 02
+Paris coordinates: 2766416, 3796421, 167479

@@ -1,0 +1,3 @@
+Planet: HEAGOR VII
+Starmap index: 07
+Paris coordinates: 178224, 906060, -2356602

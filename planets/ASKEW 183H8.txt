@@ -1,0 +1,3 @@
+Planet: ASKEW 183H8
+Starmap index: 24
+Paris coordinates: 3620688, 634106, 2456427

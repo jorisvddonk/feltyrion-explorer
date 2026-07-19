@@ -1,0 +1,10 @@
+Star: JAGNE
+Star class: S11
+Paris coordinates: -750000, 1296258, 967407
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.742
+A 0 BODY SYSTEM.

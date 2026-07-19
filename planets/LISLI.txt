@@ -1,0 +1,3 @@
+Planet: LISLI
+Starmap index: 32
+Paris coordinates: 1624624, 31139792, 2797652

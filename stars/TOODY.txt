@@ -1,0 +1,8 @@
+Star: TOODY
+Star class: S00
+Paris coordinates: -107367024, 24913242, -1652146
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PEENUT (r rocky, creased)
+- BUTTER (k thick atmosphere)

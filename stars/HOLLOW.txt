@@ -1,0 +1,9 @@
+Star: HOLLOW
+Star class: S06
+Paris coordinates: 2779984, 4521589, 1137544
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL DEPOT (TACKAT 6011:562.948)

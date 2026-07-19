@@ -1,0 +1,3 @@
+Planet: NEW ENTROPY
+Starmap index: 02
+Paris coordinates: 4366416, 4739783, -1345465

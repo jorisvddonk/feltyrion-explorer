@@ -1,0 +1,7 @@
+Planet: SHODAR
+Starmap index: 12
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.591                                    
+A DUSTY WORLD PEPPERED WITH PALE CHALKY STONES.                             

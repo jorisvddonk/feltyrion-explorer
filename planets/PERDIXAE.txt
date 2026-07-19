@@ -1,0 +1,3 @@
+Planet: PERDIXAE
+Starmap index: 01
+Paris coordinates: -61470448, 29952124, 573120

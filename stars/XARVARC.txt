@@ -1,0 +1,18 @@
+Star: XARVARC
+Star class: S08
+Paris coordinates: 4773200, 4651613, -1520195
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- XARVARC A (* companion star)
+- XARVARC B (* companion star)
+- XARBARC C (* companion star)
+- XARVARC 1 (@ large, not consistent)
+- XARVARC D (* companion star)
+  - XARVARC D1 (n thin atmosphere)
+  - XARVARC D2 (n thin atmosphere)
+  - XARVARC D3 (k thick atmosphere)
+  - XARVARC D4 (r rocky, creased)
+  - XARVARC D5 (n thin atmosphere)
+  - HALLS OF TIARA (q quartz surface)
+  - XARVARC D7 (r rocky, creased)

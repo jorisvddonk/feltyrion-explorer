@@ -1,0 +1,3 @@
+Planet: CLARITY
+Starmap index: 01
+Paris coordinates: 3197488, 4131180, -379678

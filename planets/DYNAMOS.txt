@@ -1,0 +1,3 @@
+Planet: DYNAMOS
+Starmap index: 06
+Paris coordinates: 4297488, 4141055, -1473285

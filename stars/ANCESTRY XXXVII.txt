@@ -1,0 +1,12 @@
+Star: ANCESTRY XXXVII
+Star class: S02
+Paris coordinates: -1425493968, 2387526, 1434664982
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SKEEN DUST (n thin atmosphere)
+- WHET AIMS (+ substellar object)
+
+Guide entries:
+AN S02 WITH 2 (SLIGHTLY-BRIGHTER-THAN-EXPECTED)PLANETS.                     
+1 THIN-AT, ONE SUBSTELLAR. RYAN GJK E6011.785.253                           

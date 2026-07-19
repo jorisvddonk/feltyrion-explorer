@@ -1,0 +1,6 @@
+Planet: GOODBYE
+Starmap index: 01
+Paris coordinates: -1221776, -261, -795876
+
+Guide entries:
+THICK ATMOSPHERE, FIRST PLANET, NICE RING, SUN LOOKS COOL FROM SURFACE

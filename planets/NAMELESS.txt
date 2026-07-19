@@ -1,0 +1,3 @@
+Planet: NAMELESS
+Starmap index: 05
+Paris coordinates: 4576048, 3749421, 978599

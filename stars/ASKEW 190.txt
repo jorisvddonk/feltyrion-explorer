@@ -1,0 +1,13 @@
+Star: ASKEW 190
+Star class: S09
+Paris coordinates: 3659632, 4527550, -1163661
+Bodies: 7 (3 planets, 4 moons)
+
+System:
+- ASKEW 190A (+ substellar object)
+- ASKEW 190B (@ large, not consistent)
+- ASKEW 190C (@ large, not consistent)
+  - ASKEW 190C1 (k thick atmosphere)
+  - ASKEW 190C2 (k thick atmosphere)
+  - ASKEW 190C3 (^ unstable)
+  - ASKEW 190C4 (k thick atmosphere)

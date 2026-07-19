@@ -1,0 +1,3 @@
+Planet: RENAR
+Starmap index: 03
+Paris coordinates: 4055696, 5346452, 377776

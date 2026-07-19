@@ -1,0 +1,45 @@
+Star: REDIANES
+Star class: S03
+Paris coordinates: -61263664, 29271007, 710111
+Bodies: 35 (12 planets, 23 moons)
+
+System:
+- SVICU 10 (r rocky, creased)
+- QUARTELLIS (q quartz surface)
+- JB 104 (+ substellar object)
+  - ORANGEINVIEWIS (n thin atmosphere)
+  - TERANEZYA (k thick atmosphere)
+  - GASELINIS (@ large, not consistent)
+  - MARISEA (n thin atmosphere)
+  - CRATERES 3 (d dusty, craterized)
+- THIEARES (k thick atmosphere)
+  - HOTINES (^ unstable)
+  - CRATINERIS (d dusty, craterized)
+- LARGEGASENIS (@ large, not consistent)
+- LARNERIDGES (@ large, not consistent)
+  - SMALERENIS (n thin atmosphere)
+  - QUARTERIS (q quartz surface)
+  - THICERIS (k thick atmosphere)
+  - CRATERES 2 (d dusty, craterized)
+  - FOGERENIS (k thick atmosphere)
+  - HOTLAVARES (^ unstable)
+  - MANERIS (n thin atmosphere)
+  - THINERIS (n thin atmosphere)
+  - REKUREKURE 36 (r rocky, creased)
+  - QUARTINERIS (q quartz surface)
+  - CRATERES 4 (d dusty, craterized)
+- GASTERIA (k thick atmosphere)
+  - CRATERES 1 (d dusty, craterized)
+- CRATERIA (q quartz surface)
+- Planet #8 (d dusty, craterized)
+  - DUSTINES (d dusty, craterized)
+- QUARETIS (q quartz surface)
+  - DUSTERNIA (d dusty, craterized)
+- SOLIDARIS (d dusty, craterized)
+  - LEVERINES (d dusty, craterized)
+- QUARENIS (q quartz surface)
+  - SNEAKERIS (n thin atmosphere)
+
+Guide entries:
+CLASS S03 RED GIANT STAR DISCOVERED BY MCWGOGS EPOC 6011.639.849.
+12 PLANETS, 23 MINOR BODIES.

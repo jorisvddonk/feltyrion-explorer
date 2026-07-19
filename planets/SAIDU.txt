@@ -1,0 +1,3 @@
+Planet: SAIDU
+Starmap index: 01
+Paris coordinates: 2966416, 3144856, 86470

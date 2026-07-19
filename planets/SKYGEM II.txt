@@ -1,0 +1,6 @@
+Planet: SKYGEM II
+Starmap index: 02
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A PLAIN, ROCKY PLANET. AMWHERE 6011.584.911.

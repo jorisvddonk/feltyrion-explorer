@@ -1,0 +1,6 @@
+Star: ANCESTRY XXVII
+Star class: S10
+Paris coordinates: -1425373616, 862604, 1435687868
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Planet: LIROS
+Starmap index: 01
+Paris coordinates: 1323536, 2117778, 6972572
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011.834.171.)                                    
+SURVEY DISCOVERED AN INTERESTING CRATER-LIKE ROCK FORMATION ON COORD.       
+(LQ 022:070)                                                                
+SIGNING OFF. FAUST.                                                         

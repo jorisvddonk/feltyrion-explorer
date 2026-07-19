@@ -1,0 +1,26 @@
+Star: WAFFLE BASE
+Star class: S00
+Paris coordinates: 5713904, 5616305, 28235
+Bodies: 20 (12 planets, 8 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (k thick atmosphere)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- FORT JERSON (f felisian)
+  - Moon #0 (d dusty, craterized)
+- FORT JAIME (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (k thick atmosphere)
+- Planet #11 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

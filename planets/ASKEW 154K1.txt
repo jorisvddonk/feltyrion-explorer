@@ -1,0 +1,3 @@
+Planet: ASKEW 154K1
+Starmap index: 34
+Paris coordinates: 9446320, -15167096, 15589498

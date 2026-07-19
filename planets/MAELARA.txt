@@ -1,0 +1,6 @@
+Planet: MAELARA
+Starmap index: 04
+Paris coordinates: 4413904, 6249423, 1267797
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.999.774)

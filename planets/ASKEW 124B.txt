@@ -1,0 +1,3 @@
+Planet: ASKEW 124B
+Starmap index: 02
+Paris coordinates: 4490288, -14532671, 11396889

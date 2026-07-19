@@ -1,0 +1,3 @@
+Planet: ANTISEPTIC
+Starmap index: 04
+Paris coordinates: 525712, -22777, 143187

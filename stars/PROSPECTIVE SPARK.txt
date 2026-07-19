@@ -1,0 +1,6 @@
+Star: PROSPECTIVE SPARK
+Star class: S00
+Paris coordinates: 350000, 36650000, -450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

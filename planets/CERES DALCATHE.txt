@@ -1,0 +1,3 @@
+Planet: CERES DALCATHE
+Starmap index: 03
+Paris coordinates: -387728, 331391, 626160721

@@ -1,0 +1,8 @@
+Planet: ROM-GAETANI
+Starmap index: 09
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS EPOC 6011.684.88 -                                  
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.                             
+MOONS: 0.                                                                   

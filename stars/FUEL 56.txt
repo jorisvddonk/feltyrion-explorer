@@ -1,0 +1,9 @@
+Star: FUEL 56
+Star class: S06
+Paris coordinates: 219872560, -138793, 339837103
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 FUELSTAR. 23MTPD OF LI+ IONS AVAILABLE. (SCHMERM 6011 596.582)

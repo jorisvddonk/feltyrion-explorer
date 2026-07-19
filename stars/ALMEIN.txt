@@ -1,0 +1,13 @@
+Star: ALMEIN
+Star class: S00
+Paris coordinates: 4974288, 4454208, -5324018
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- ALMEIN-A (@ large, not consistent)
+- ALMEIN-B (@ large, not consistent)
+- ALMEIN-C (k thick atmosphere)
+  - ALMEIN-C-S1 (^ unstable)
+  - ALMEIN-C-S2 (d dusty, craterized)
+- ALMEIN-D-FELYS (f felisian)
+- ALMEIN-E (d dusty, craterized)

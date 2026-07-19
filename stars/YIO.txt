@@ -1,0 +1,10 @@
+Star: YIO
+Star class: S08
+Paris coordinates: -523536, 5239957, -7619185
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THERE ARE NO PLANETS IN THIS SYSTEM
+DISCOVERED BY KJ EPOC 6011:578.359

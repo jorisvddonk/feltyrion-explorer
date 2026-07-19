@@ -1,0 +1,6 @@
+Star: SCOPERS HEAVEN
+Star class: S06
+Paris coordinates: -50962992, 25736018, 143402
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,12 @@
+Star: NIMAI
+Star class: S00
+Paris coordinates: 3332496, 4049897, -2335163
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+
+Guide entries:
+ BY HARIDAS ON 6011.570.591 ONLY TWO PLANETS, MAYBE THIS TIME SOME BIRD?
+BOTH NOT CONSISTENT - MEOW :P

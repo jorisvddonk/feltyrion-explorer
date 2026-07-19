@@ -1,0 +1,39 @@
+Star: ALGUST
+Star class: S00
+Paris coordinates: 974288, 1321067, -1251662
+Bodies: 30 (11 planets, 19 moons)
+
+System:
+- MUSTARD (r rocky, creased)
+- BOLOS (@ large, not consistent)
+- VALLEN (r rocky, creased)
+  - ITILUS (d dusty, craterized)
+- GOLBRAT (@ large, not consistent)
+  - ALCADETH (f felisian)
+  - VETA (k thick atmosphere)
+  - KYRAG (n thin atmosphere)
+  - MARZIO (f felisian)
+  - GRIA (r rocky, creased)
+  - GLARUS (f felisian)
+  - SPYRAKIS (^ unstable)
+  - KOTH (n thin atmosphere)
+  - BATRAX (k thick atmosphere)
+  - MATI (r rocky, creased)
+  - FAKIDAS (q quartz surface)
+- ALITIS (r rocky, creased)
+  - GEGROLD (d dusty, craterized)
+- JOHANN (n thin atmosphere)
+  - NONAK (d dusty, craterized)
+- SIX MARK (r rocky, creased)
+  - HLARPAT (d dusty, craterized)
+  - CYANOS (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+- ORIGENIS (k thick atmosphere)
+  - SKOTEINOS (d dusty, craterized)
+  - KOMORON (n thin atmosphere)
+- MOLGRIN (k thick atmosphere)
+  - FANTAROS (d dusty, craterized)
+- MAKRINUS (d dusty, craterized)
+
+Guide entries:
+ STAR DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.139

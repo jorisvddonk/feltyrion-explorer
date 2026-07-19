@@ -1,0 +1,3 @@
+Planet: ANTI-EDEN
+Starmap index: 07
+Paris coordinates: 1632496, 642452, -638716

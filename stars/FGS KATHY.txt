@@ -1,0 +1,6 @@
+Star: FGS KATHY
+Star class: S04
+Paris coordinates: 1411950000, 50000, -1412050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

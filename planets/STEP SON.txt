@@ -1,0 +1,6 @@
+Planet: STEP SON
+Starmap index: 20
+Paris coordinates: 56784, -50870, 565621
+
+Guide entries:
+ FELISIAN MOON DISC BY SCAREDY-CAT, EPOC 6011.583.792

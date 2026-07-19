@@ -1,0 +1,28 @@
+Star: SHOGUN
+Star class: S00
+Paris coordinates: 4877136, 4743462, -3053809
+Bodies: 16 (6 planets, 10 moons)
+
+System:
+- ORANGE GEM (+ substellar object)
+- EVERBLUE (n thin atmosphere)
+- OASIS (f felisian)
+  - PECAN (d dusty, craterized)
+  - RED ROVER (n thin atmosphere)
+  - UIGF (d dusty, craterized)
+- PALA ALTO (q quartz surface)
+  - GREY GUST (d dusty, craterized)
+  - INFINTE GRIS (n thin atmosphere)
+  - NESTLISPS (n thin atmosphere)
+- MONOO (@ large, not consistent)
+  - DUSTY PURPLE (d dusty, craterized)
+  - BROWN SKIES (f felisian)
+  - FRIGD (k thick atmosphere)
+- MINA CLAVA (f felisian)
+  - DUSTY GREEN (d dusty, craterized)
+
+Guide entries:
+ QUITE A DIVERSE STAR SYSTEM, IT'S TEEMING WITH DIFFERENT BODIES.
+I FELT IT WAS UNNESSARY TO GIVE INFO ON THE PLANETS, BETTER FOR YOU....
+TO LOOK AT THEM YOURSELF, I COULD ONLY LOCATE TO TYPES TO HOPPERS.
+THAT ASIDE, I ALSO FOUND INTERESTING ROCK FORMATIONS ON OASIS.

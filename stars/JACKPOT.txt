@@ -1,0 +1,64 @@
+Star: JACKPOT
+Star class: S00
+Paris coordinates: 4043216, 4320747, -4282607
+Bodies: 51 (12 planets, 39 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - ROULETTE (f felisian)
+  - Moon #3 (k thick atmosphere)
+  - BLACKJACK (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (q quartz surface)
+  - POKER (f felisian)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (^ unstable)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (^ unstable)
+  - Moon #15 (r rocky, creased)
+  - Moon #16 (q quartz surface)
+- SLOTS (f felisian)
+  - Moon #0 (n thin atmosphere)
+- KENO (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- CRAPS (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (@ large, not consistent)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (i icy surface)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (i icy surface)
+  - Moon #10 (i icy surface)
+  - Moon #11 (i icy surface)
+  - Moon #12 (i icy surface)
+  - Moon #13 (i icy surface)
+  - Moon #14 (i icy surface)
+  - Moon #15 (i icy surface)
+- Planet #9 (k thick atmosphere)
+- Planet #10 (n thin atmosphere)
+- Planet #11 (i icy surface)
+
+Guide entries:
+S00 STAR WITH TOTAL OF *6* FELISIAN BODIES IN SYSTEM
+PLANETS 4, 5, AND 7
+AND MOONS 3, 5, 11 OF PLANET 3
+ FOUND BY RICHARD SOLENSKY EPOC 6011-565.49.800
+MOONS NAMED ROULETTE, BLACKJACK, AND POKER

@@ -1,0 +1,3 @@
+Planet: CELSIUS
+Starmap index: 17
+Paris coordinates: -64835440, 29718498, 1969366

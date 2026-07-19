@@ -1,0 +1,6 @@
+Star: SHELL520
+Star class: S06
+Paris coordinates: 51052272, 51882154, 1473290
+Bodies: 0 (0 planets, 0 moons)
+
+System:

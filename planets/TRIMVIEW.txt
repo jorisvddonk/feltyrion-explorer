@@ -1,0 +1,6 @@
+Planet: TRIMVIEW
+Starmap index: 01
+Paris coordinates: -1425456112, 2129157, 1434927061
+
+Guide entries:
+SUBSTELLAR OBJECT WITH RING. RYAN GJK E6011.787.57                          

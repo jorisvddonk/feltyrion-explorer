@@ -1,0 +1,66 @@
+Star: MR BRIGHT
+Star class: S04
+Paris coordinates: 377136, 935675, 1401841
+Bodies: 51 (12 planets, 39 moons)
+
+System:
+- APOCOSTAR (d dusty, craterized)
+- DEW STAR (k thick atmosphere)
+- ZUPITER (@ large, not consistent)
+  - MR SHINE (r rocky, creased)
+  - REX (n thin atmosphere)
+  - DEVIDO (d dusty, craterized)
+  - ZELOBIN 01 (r rocky, creased)
+  - CORONA (^ unstable)
+  - GLOOP (n thin atmosphere)
+  - VELCRO (r rocky, creased)
+  - BLANAK (k thick atmosphere)
+  - POPSTAR (f felisian)
+  - XANTO (n thin atmosphere)
+  - ROBOBOR (n thin atmosphere)
+  - LIDIUM (f felisian)
+  - RADIOACTIVE (q quartz surface)
+  - FEVER (n thin atmosphere)
+  - VAPOR (n thin atmosphere)
+  - WEREFLEA (k thick atmosphere)
+  - STARBYTE (n thin atmosphere)
+- Planet #3 (+ substellar object)
+  - SNIFIT (^ unstable)
+  - COOBLER (@ large, not consistent)
+  - TRI (@ large, not consistent)
+  - BLAST (^ unstable)
+  - GASH (@ large, not consistent)
+  - ROKLAND (r rocky, creased)
+  - FIRE (^ unstable)
+  - MERIDIAN (f felisian)
+  - TOE CANNON (^ unstable)
+  - OXWARTS (q quartz surface)
+  - WEREIX (q quartz surface)
+  - MARIETTA (f felisian)
+  - LUFF (@ large, not consistent)
+  - ELICKSON (f felisian)
+  - STARSTRUCK (d dusty, craterized)
+  - GUST (@ large, not consistent)
+  - BURN (^ unstable)
+  - SQUALL (k thick atmosphere)
+  - KITE (@ large, not consistent)
+- GUNK (n thin atmosphere)
+  - BANE (d dusty, craterized)
+  - SLACK (n thin atmosphere)
+- TRACK (n thin atmosphere)
+- SLUDGE BALL (n thin atmosphere)
+- STARPOCK (q quartz surface)
+- RADIO SILENCE (d dusty, craterized)
+- OPEARL (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- LONELIENESS (d dusty, craterized)
+- DELSTAR (i icy surface)
+
+Guide entries:
+ (DISCOVERED BY THE GREAT DEMENTO)
+ THERE ARE A WHOOOOOOLE LOT OF PLANETS AND MOONS IN THIS SYSTEM.
+ WOW. 50 PLANETS AND MOONS. I THINK I'LL TAKE A BREAK FOR TODAY.
+ I'LL HAVE SOME EXPLORING TO DO LATER...
+AT 616.434.59, THIS IS DEMENTO, SIGNING OFF.
+ 616.446.400 BACK TO THE GRINDSTONE.
+I'M GONNA GET BACK TO MY THING.

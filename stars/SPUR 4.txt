@@ -1,0 +1,9 @@
+Star: SPUR 4
+Star class: S06
+Paris coordinates: -4934256, 6736044, -1859307
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM...                                                                  

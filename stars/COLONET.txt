@@ -1,0 +1,44 @@
+Star: COLONET
+Star class: S00
+Paris coordinates: 10492048, 13271146, 11317400
+Bodies: 35 (8 planets, 27 moons)
+
+System:
+- SECRET (k thick atmosphere)
+- SHIM-RAZOR (+ substellar object)
+- APPROACH (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+  - Moon #8 (q quartz surface)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+- Planet #7 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (^ unstable)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (f felisian)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (i icy surface)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (@ large, not consistent)
+  - Moon #14 (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY WAWIWO, EPOCH 6011:768.491                               

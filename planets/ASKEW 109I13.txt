@@ -1,0 +1,3 @@
+Planet: ASKEW 109I13
+Starmap index: 60
+Paris coordinates: 1902096, -12067422, 8947965

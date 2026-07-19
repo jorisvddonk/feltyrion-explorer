@@ -1,0 +1,3 @@
+Planet: SASODAE
+Starmap index: 01
+Paris coordinates: -1434979312, 1506774, 1441118374

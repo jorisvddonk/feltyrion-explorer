@@ -1,0 +1,3 @@
+Planet: MORL-ALPHA
+Starmap index: 01
+Paris coordinates: 3263568, 4440613, -2261322

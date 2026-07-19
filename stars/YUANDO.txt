@@ -1,0 +1,21 @@
+Star: YUANDO
+Star class: S00
+Paris coordinates: 1752848, 5860015, 576142
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (k thick atmosphere)
+  - YUANDO 8 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (^ unstable)
+  - Moon #6 (r rocky, creased)
+- YUANDO 4 (f felisian)
+- Planet #4 (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.996.948)

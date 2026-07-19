@@ -1,0 +1,8 @@
+Planet: THOUE
+Starmap index: 05
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+P05/09 LARGE NON CONSISTENT DENSE CLOUDS. VERY LIGHT AND REFLECTIVE ONLY    
+TRACES OF BANDS IN ATMO VISIBLE. PRO 0.195.120 PRV O.172.253.552            
+SKINNYMON 6011 791.354                                                      

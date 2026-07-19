@@ -1,0 +1,6 @@
+Planet: VAEDER
+Starmap index: 06
+Paris coordinates: 3552848, 6145109, -1343871
+
+Guide entries:
+SMALL DARK SOLID DUSTY THIN ATMOSPHERE (KRUSTY 6011:596.997)

@@ -1,0 +1,8 @@
+Planet: IJKIL
+Starmap index: 02
+Paris coordinates: 2031852592, -464651, -4802779
+
+Guide entries:
+P02/05 LARGE, NOT CONSISTENT, HAS A RED PALLOR DUE TO THE STAR, WITH        
+DARK BANDS AND BRIGHT STORMS. PRO 0.241.200 PRV 0.011.977.414 SKINNYMON     
+6011 796.399                                                                

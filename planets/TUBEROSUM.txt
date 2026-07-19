@@ -1,0 +1,3 @@
+Planet: TUBEROSUM
+Starmap index: 42
+Paris coordinates: -61232592, 30020466, 379974

@@ -1,0 +1,6 @@
+Planet: RS 5
+Starmap index: 05
+Paris coordinates: 2683920, 4230319, -693965
+
+Guide entries:
+ALEXX, EPOC 6011:602.462.

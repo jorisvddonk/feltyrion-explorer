@@ -1,0 +1,3 @@
+Planet: STORM FRONT
+Starmap index: 04
+Paris coordinates: 4404272, 4832031, -1218335

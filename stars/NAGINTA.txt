@@ -1,0 +1,12 @@
+Star: NAGINTA
+Star class: S00
+Paris coordinates: 30736, 6403444, -4831508
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- ARAKAN (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- Planet #3 (n thin atmosphere)

@@ -1,0 +1,13 @@
+Star: CENTRAL 001
+Star class: S06
+Paris coordinates: -34570352, -4051173, 33503203
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+WELCOME TO THE CENTRAL LINE, THE LINE THAT TAKES YOU BELOW THE              
+MAIN CLUSTERS. WE'LL BE MOVING THROUGH TWO CLUSTERS OF NAMED STARS          
+. MEANWHILE, OODLES OF LI+ HERE. (NOTE THAT THE STARS IN THE                
+CENTRAL SERIES WERE ALL PROBABLY NAMED BY ME. RYAN GJK E6011.788            
+619 )                                                                       

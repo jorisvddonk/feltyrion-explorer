@@ -1,0 +1,11 @@
+Star: GALACTIC LAYBY VII
+Star class: S05
+Paris coordinates: -1425549328, 1932750, 1435377630
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- RING OF PARAROCKS (d dusty, craterized)
+- DIM MASH (r rocky, creased)
+
+Guide entries:
+BROWN DWARF, LITHIUM, TWO PLANETS. RYAN GJK E6011.785.82                    

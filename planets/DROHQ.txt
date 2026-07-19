@@ -1,0 +1,6 @@
+Planet: DROHQ
+Starmap index: 06
+Paris coordinates: 12144, 154769, -241000
+
+Guide entries:
+SLIGHTLY TINTED GREEN, AIRLESS, LARGE CRATERS. (SCHMERM 6011 584.403)

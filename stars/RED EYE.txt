@@ -1,0 +1,6 @@
+Star: RED EYE
+Star class: S03
+Paris coordinates: 232496, 156762, 766748
+Bodies: 0 (0 planets, 0 moons)
+
+System:

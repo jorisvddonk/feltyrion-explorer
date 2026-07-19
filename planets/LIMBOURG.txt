@@ -1,0 +1,6 @@
+Planet: LIMBOURG
+Starmap index: 01
+Paris coordinates: 4470352, 5039591, -3077848
+
+Guide entries:
+(DISCOVERED BY FAUST.EPOC:6011:834.186.)                                    

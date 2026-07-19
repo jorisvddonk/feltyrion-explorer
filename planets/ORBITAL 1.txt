@@ -1,0 +1,3 @@
+Planet: ORBITAL 1
+Starmap index: 03
+Paris coordinates: 4442128, 4248589, -942984

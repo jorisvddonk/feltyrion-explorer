@@ -1,0 +1,7 @@
+Planet: GOLDEN BUCKLE
+Starmap index: 01
+Paris coordinates: 908208, 554963, 552389
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.296
+THE FIRST SUN

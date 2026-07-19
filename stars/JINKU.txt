@@ -1,0 +1,26 @@
+Star: JINKU
+Star class: S00
+Paris coordinates: 3790704, 5311018, -1433729
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- HIMPPU (+ substellar object)
+- RUMPPU (d dusty, craterized)
+- DINKKU (f felisian)
+  - SIUNI (d dusty, craterized)
+  - BLIUM (d dusty, craterized)
+- CASTEL (f felisian)
+- KALLIS (f felisian)
+  - KIIRNU (d dusty, craterized)
+  - MURMOLI (d dusty, craterized)
+- ZIU (+ substellar object)
+- KIUAS (r rocky, creased)
+  - HIMPUUKI (d dusty, craterized)
+  - PLUMBA (d dusty, craterized)
+- KUKKIS (^ unstable)
+- MURMO (n thin atmosphere)
+  - KIRMU (d dusty, craterized)
+  - NELLU (d dusty, craterized)
+
+Guide entries:
+S00 STAR WITH 9 PLANETS AND 8 MOONS. PIETARI SEPPAENEN EPOC 6011:604.750

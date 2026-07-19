@@ -1,0 +1,3 @@
+Planet: BLAZED
+Starmap index: 02
+Paris coordinates: 3335344, 4102025, -194226

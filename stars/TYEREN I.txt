@@ -1,0 +1,15 @@
+Star: TYEREN I
+Star class: S04
+Paris coordinates: 26453616, 6340673, 45175452
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- YEEVEN (r rocky, creased)
+- GHEN (@ large, not consistent)
+- CONREET (r rocky, creased)
+  - TIARESS (d dusty, craterized)
+  - GRYENT (d dusty, craterized)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S04 STAR WITH 3 PLANETS AND 2 MOONS.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:647:53

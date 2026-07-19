@@ -1,0 +1,6 @@
+Planet: BYFI1-2
+Starmap index: 06
+Paris coordinates: -178224, -1278064, 2452536
+
+Guide entries:
+SMALL, NO ATMOSPHERE.

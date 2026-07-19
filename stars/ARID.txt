@@ -1,0 +1,20 @@
+Star: ARID
+Star class: S00
+Paris coordinates: 6048912, 5024188, -2079836
+Bodies: 14 (6 planets, 8 moons)
+
+System:
+- ARID I (d dusty, craterized)
+- ARID II (n thin atmosphere)
+- ARID III (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- ARID V (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- ARID VI (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

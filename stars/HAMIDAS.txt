@@ -1,0 +1,42 @@
+Star: HAMIDAS
+Star class: S09
+Paris coordinates: 5817840, 5150374, -1805571
+Bodies: 33 (7 planets, 26 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+  - BLUE HASEK (f felisian)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (^ unstable)
+  - Moon #14 (n thin atmosphere)
+  - Moon #15 (k thick atmosphere)
+  - Moon #16 (k thick atmosphere)
+  - Moon #17 (n thin atmosphere)
+  - Moon #18 (n thin atmosphere)
+  - Moon #19 (n thin atmosphere)
+- WAZ MED (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (@ large, not consistent)
+- CRATAI (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+
+Guide entries:
+ THIS IS THE HOME SYSTEM FOR NALIX. THIS IS WHERE MY JOURNY BEGINS.

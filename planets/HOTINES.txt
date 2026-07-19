@@ -1,0 +1,3 @@
+Planet: HOTINES
+Starmap index: 18
+Paris coordinates: -61263664, 29271007, 710111

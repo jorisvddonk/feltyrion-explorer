@@ -1,0 +1,35 @@
+Star: NIKITTY
+Star class: S01
+Paris coordinates: 3966416, 4199706, -1085710
+Bodies: 26 (15 planets, 11 moons)
+
+System:
+- PURPLIA (n thin atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (^ unstable)
+- Planet #9 (+ substellar object)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (d dusty, craterized)
+- Planet #12 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)
+- Planet #13 (k thick atmosphere)
+- Planet #14 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+NAMED ON EPOC 6011 - 571.617 BY SCOTT GOWELL FOR NICHOLE HICKCOX

@@ -1,0 +1,3 @@
+Planet: MUN KLATEUS
+Starmap index: 02
+Paris coordinates: -106260240, 26101077, -2357903

@@ -1,0 +1,6 @@
+Star: BLUEFIRE 3
+Star class: S07
+Paris coordinates: 274288, -9366, -600232
+Bodies: 0 (0 planets, 0 moons)
+
+System:

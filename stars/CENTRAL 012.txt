@@ -1,0 +1,9 @@
+Star: CENTRAL 012
+Star class: S06
+Paris coordinates: 7417840, 31848884, -3443576
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

@@ -1,0 +1,45 @@
+Star: EMPATHY
+Star class: S09
+Paris coordinates: 4769264, 4335633, 374468
+Bodies: 35 (5 planets, 30 moons)
+
+System:
+- ACEDIA (@ large, not consistent)
+- DEMULCENT (d dusty, craterized)
+- IN SITU (@ large, not consistent)
+  - BISTOURY (q quartz surface)
+- ONEIRIC (+ substellar object)
+  - FRAGILITAS (q quartz surface)
+  - LOBULE (q quartz surface)
+  - CARPAL TUNNEL (f felisian)
+  - KARYON (^ unstable)
+  - QUINTAN (n thin atmosphere)
+  - HELICINE (@ large, not consistent)
+  - LANCET (@ large, not consistent)
+  - EPONYM (k thick atmosphere)
+  - UMBO (k thick atmosphere)
+  - NEURE (k thick atmosphere)
+  - SOOR (r rocky, creased)
+  - XYSTER (q quartz surface)
+  - OBSERVATION ROOM (f felisian)
+- FOLLICLE (+ substellar object)
+  - ZEIN (r rocky, creased)
+  - FOLK MEDICINE (f felisian)
+  - EILOID (q quartz surface)
+  - SYMPATHY PAINS (f felisian)
+  - INEBRIATED (f felisian)
+  - VERRUCA (k thick atmosphere)
+  - ZOETIC (k thick atmosphere)
+  - USTUS (r rocky, creased)
+  - MEMBRUM (q quartz surface)
+  - WHEAL (^ unstable)
+  - TALLUS (k thick atmosphere)
+  - OTIC (r rocky, creased)
+  - IMPAR (n thin atmosphere)
+  - PABULUM (r rocky, creased)
+  - GONALGIA (r rocky, creased)
+  - RIMULA (@ large, not consistent)
+
+Guide entries:
+A CLASS S09 SYSTEM OF 5 PLANETS, 36 MOONS, 5 FELISIAN WORLDS.
+SKINNYMON EPOC 6011 579.206

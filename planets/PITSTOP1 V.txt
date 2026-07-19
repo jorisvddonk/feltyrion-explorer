@@ -1,0 +1,6 @@
+Planet: PITSTOP1 V
+Starmap index: 05
+Paris coordinates: 220241296, -21085, 219921483
+
+Guide entries:
+BRIGHT GREEN DEADWORLD. HAS A RING. (SCHMERM 6011 596.574)

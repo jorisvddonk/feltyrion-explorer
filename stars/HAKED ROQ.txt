@@ -1,0 +1,6 @@
+Star: HAKED ROQ
+Star class: S06
+Paris coordinates: 4731408, 5121833, 55033
+Bodies: 0 (0 planets, 0 moons)
+
+System:

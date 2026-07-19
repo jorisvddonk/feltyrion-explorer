@@ -1,0 +1,6 @@
+Planet: FUZZY PANTHER
+Starmap index: 05
+Paris coordinates: 2452848, 6151009, -358039
+
+Guide entries:
+ NIL WITTHANEYE 6011 666.538 200 APPROX

@@ -1,0 +1,3 @@
+Planet: UL'GA
+Starmap index: 08
+Paris coordinates: 4691792, 7735818, -6095365

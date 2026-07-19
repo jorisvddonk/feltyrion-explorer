@@ -1,0 +1,12 @@
+Star: ALPHA 2007
+Star class: S11
+Paris coordinates: 3008208, 5483926, -1473941
+Bodies: 6 (5 planets, 1 moons)
+
+System:
+- ALPHA 2007/1 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- ALPHA 2007/3 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- ALPHA 2007/5 (n thin atmosphere)
+  - Moon #0 (i icy surface)

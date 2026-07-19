@@ -1,0 +1,8 @@
+Planet: BRADLIAM
+Starmap index: 02
+Paris coordinates: 4228560, 4335214, -1493296
+
+Guide entries:
+FLAT, DARK. SOME WHITISH ROCKS DOTTED ALONG THE SURFACE,                    
+COMPOSURE OF THOSE ROCKS UNKNOWN.                                           
+DISCOVERED BY LIAM BRADLEY, THE LAST VAIN PLANET NAMING, I PROMISE.         

@@ -1,0 +1,6 @@
+Star: LOS SANTOS
+Star class: S08
+Paris coordinates: -21962224, -5462761, 40730763
+Bodies: 0 (0 planets, 0 moons)
+
+System:

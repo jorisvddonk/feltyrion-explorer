@@ -1,0 +1,6 @@
+Planet: TOS 5.2
+Starmap index: 10
+Paris coordinates: 4373200, 5223248, -1089557
+
+Guide entries:
+ DEAD MOON; WANT TO KNOW MORE? (STARGAZER. EPOC 6011)

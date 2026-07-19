@@ -1,0 +1,10 @@
+Star: FUELS 'N HORSES
+Star class: S06
+Paris coordinates: -325712, 161387, -147406
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS 6, FUEL APLENTY. DISCOVERED BY ELHAM                                  
+EPOC 6011.722.994.360                                                       

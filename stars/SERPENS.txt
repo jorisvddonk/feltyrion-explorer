@@ -1,0 +1,17 @@
+Star: SERPENS
+Star class: S11
+Paris coordinates: 9667504, -4685063, -10357642
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- SERPENS 1 (d dusty, craterized)
+- SERPENS 2 (@ large, not consistent)
+- SERPENS 3 (@ large, not consistent)
+  - SERPENS 3.1 (q quartz surface)
+  - SERPENS 3.2 (k thick atmosphere)
+- SERPENS 4 (d dusty, craterized)
+
+Guide entries:
+ SO HERE MY JOURNEY BEGINS (THE TWO LITHIUM STARS DON'T REALLY COUNT).
+A TINY BUT DEADLY PULSAR, NAMED AFTER MYSELF AND CLAIMED BY ME.
+ALSO HASFOUR PLANETS AND TWO MOONS. SERPENS, 6011 665.333

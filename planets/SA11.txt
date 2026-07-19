@@ -1,0 +1,3 @@
+Planet: SA11
+Starmap index: 31
+Paris coordinates: 4146064, 4893991, -2244689

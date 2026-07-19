@@ -1,0 +1,6 @@
+Planet: CRADLE I
+Starmap index: 01
+Paris coordinates: 4190704, -10156437, -1803955
+
+Guide entries:
+BLUE GAS GIANT WITH RING. (SCHMERM 6011 592.860)

@@ -1,0 +1,6 @@
+Star: HASTAFIS LUKTARILLA
+Star class: S06
+Paris coordinates: -63352432, -1115303, 47911680
+Bodies: 0 (0 planets, 0 moons)
+
+System:

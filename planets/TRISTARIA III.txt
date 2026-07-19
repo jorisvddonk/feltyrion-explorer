@@ -1,0 +1,6 @@
+Planet: TRISTARIA III
+Starmap index: 03
+Paris coordinates: 4516080, 5386974, -6351020
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.689.186 -                                

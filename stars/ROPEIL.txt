@@ -1,0 +1,10 @@
+Star: ROPEIL
+Star class: S06
+Paris coordinates: -1007120, 4813965, -4119302
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THIS GRAY GIANT IS UNSUITABLE FOR FUEL
+DISCOVERED BY KJ EPOC 6011:576.446

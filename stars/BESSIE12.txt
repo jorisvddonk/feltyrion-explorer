@@ -1,0 +1,17 @@
+Star: BESSIE12
+Star class: S00
+Paris coordinates: 3663568, 4036433, -2681193
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (q quartz surface)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (f felisian)

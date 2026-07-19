@@ -1,0 +1,10 @@
+Star: NOBOBODY
+Star class: S00
+Paris coordinates: 150000, 1429677, -35795
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.1055203)
+NO PLANETS.POKECAT

@@ -1,0 +1,3 @@
+Planet: PINK GIANT
+Starmap index: 05
+Paris coordinates: -70572784, -326262, 53980485

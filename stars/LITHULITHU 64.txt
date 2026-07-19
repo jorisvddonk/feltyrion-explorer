@@ -1,0 +1,10 @@
+Star: LITHULITHU 64
+Star class: S06
+Paris coordinates: -1221776, 1184863, -920813
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY M. MARSHALL AT PARSIS -1221604, 1184851, -920732.
+THIS STAR IS GOOD FOR FUEL

@@ -1,0 +1,7 @@
+Star: KUZRAB
+Star class: S03
+Paris coordinates: 153936, -16627251, -1898217
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LUN LUN (d dusty, craterized)

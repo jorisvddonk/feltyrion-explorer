@@ -1,0 +1,8 @@
+Planet: DIFFUSESPREAD
+Starmap index: 01
+Paris coordinates: -1456784, 623435, 1264789
+
+Guide entries:
+LANDED AT SECTOR 351,5 OF THIS THIN-AT. PLEASANT PLAINS, TEMPERATURE        
+JUST BELOW ZERO, NICE BIG LIGHT PURPLISH SUN AMIDST A LIGHT SKY.            
+RYAN GJK E6011.803.218                                                      

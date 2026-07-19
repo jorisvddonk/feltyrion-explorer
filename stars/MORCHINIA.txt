@@ -1,0 +1,6 @@
+Star: MORCHINIA
+Star class: S04
+Paris coordinates: 4070352, 5460192, -2649636
+Bodies: 0 (0 planets, 0 moons)
+
+System:

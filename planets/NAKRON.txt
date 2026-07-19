@@ -1,0 +1,6 @@
+Planet: NAKRON
+Starmap index: 01
+Paris coordinates: 5193552, 4976463, -640290
+
+Guide entries:
+DISCOVERED BY FOTIOS. EPOC 6011:609.561

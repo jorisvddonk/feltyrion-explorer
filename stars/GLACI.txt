@@ -1,0 +1,13 @@
+Star: GLACI
+Star class: S05
+Paris coordinates: 1399276368, 2030120, 1400117624
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GLACI PRIMUS (r rocky, creased)
+- GLACI SECUNDUS (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:600.567
+(S05) 2 PLANETS / 0 MINOR
+COORDINATES = 1399276368, 2030120, 1400117624

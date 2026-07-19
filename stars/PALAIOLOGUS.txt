@@ -1,0 +1,6 @@
+Star: PALAIOLOGUS
+Star class: S04
+Paris coordinates: 1150000, 901334, -1041098
+Bodies: 0 (0 planets, 0 moons)
+
+System:

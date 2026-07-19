@@ -1,0 +1,21 @@
+Star: PANLATO
+Star class: S00
+Paris coordinates: -282832, 1095865, -5377112
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- PANLATO 1 (r rocky, creased)
+- PANLATO 2 (n thin atmosphere)
+- PANLATO 3 (n thin atmosphere)
+  - PANLATO 3.1 (n thin atmosphere)
+  - PANLATO 3.2 (d dusty, craterized)
+- PANLATO 4 (f felisian)
+  - PANLATO 4.1 (n thin atmosphere)
+  - PANLATO 4.2 (d dusty, craterized)
+- PANLATO 5 (f felisian)
+
+Guide entries:
+AN S00 CLASS STAR WITH FIVE PLANETS AND FOUR MOONS. AND A MYSTERIOUS        
+NAME. SERPENS, 6011 787.587                                                 
+AH, I FORGOT TO MENTION THAT ONE OF THE PLANETS COULD BE CLEARLY SEEN       
+UPON MY ARRIVAL. PERHAPS A GAS GIANT? SERPENS, 6011 787.587                 

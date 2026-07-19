@@ -1,0 +1,6 @@
+Planet: TRECRAT
+Starmap index: 02
+Paris coordinates: 5800336, 4462999, -925592
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 570.919.930

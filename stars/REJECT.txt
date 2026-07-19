@@ -1,0 +1,9 @@
+Star: REJECT
+Star class: S06
+Paris coordinates: -681072, -1028816, 957521
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 STAR WITH NO SCOPABLE LITHIUM

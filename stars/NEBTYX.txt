@@ -1,0 +1,10 @@
+Star: NEBTYX
+Star class: S06
+Paris coordinates: -1060720, 1439082, 2577170
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:575.297
+UNSUITABLE FOR LI+ SCOPING

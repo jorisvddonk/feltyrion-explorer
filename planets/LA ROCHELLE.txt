@@ -1,0 +1,3 @@
+Planet: LA ROCHELLE
+Starmap index: 14
+Paris coordinates: -21393296, -5446820, 40255542

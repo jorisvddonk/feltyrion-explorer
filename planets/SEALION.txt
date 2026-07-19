@@ -1,0 +1,3 @@
+Planet: SEALION
+Starmap index: 09
+Paris coordinates: 1378224, 5119442, -3420817

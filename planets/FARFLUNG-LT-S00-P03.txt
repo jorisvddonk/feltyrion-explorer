@@ -1,0 +1,3 @@
+Planet: FARFLUNG-LT-S00-P03
+Starmap index: 03
+Paris coordinates: 4459632, 8123749, -1802168

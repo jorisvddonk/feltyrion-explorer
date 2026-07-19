@@ -1,0 +1,3 @@
+Planet: M09-2871 C11
+Starmap index: 29
+Paris coordinates: -38378896, 1448388, 31076565

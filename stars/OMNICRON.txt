@@ -1,0 +1,7 @@
+Star: OMNICRON
+Star class: S10
+Paris coordinates: 5369264, 4544774, -441678
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OMINOUS (@ large, not consistent)

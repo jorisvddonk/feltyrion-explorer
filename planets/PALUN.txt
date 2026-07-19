@@ -1,0 +1,3 @@
+Planet: PALUN
+Starmap index: 01
+Paris coordinates: 4311056, 4386995, -657390

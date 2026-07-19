@@ -1,0 +1,6 @@
+Star: GEPHENAT
+Star class: S09
+Paris coordinates: -1995834160, -52597, 1148747
+Bodies: 0 (0 planets, 0 moons)
+
+System:

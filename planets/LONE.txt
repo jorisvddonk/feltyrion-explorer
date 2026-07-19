@@ -1,0 +1,6 @@
+Planet: LONE
+Starmap index: 09
+Paris coordinates: 3290704, 5637570, -892839
+
+Guide entries:
+MED SIZED ROCKY CREASED NO ATMOSPHERE (KRUSTY 6011:596.627)

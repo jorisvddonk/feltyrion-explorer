@@ -1,0 +1,15 @@
+Star: PROSPECT
+Star class: S03
+Paris coordinates: 797488, -134487, 2006132
+Bodies: 9 (6 planets, 3 moons)
+
+System:
+- PROSPECT-1 (q quartz surface)
+- PROSPECT-2 (+ substellar object)
+- PROSPECT-3 (k thick atmosphere)
+  - PROSPECT-3 1 (d dusty, craterized)
+- PROSPECT-4 (r rocky, creased)
+  - PROSPECT-4 1 (d dusty, craterized)
+- PROSPECT-5 (k thick atmosphere)
+  - PROSPECT-5 1 (d dusty, craterized)
+- PROSPECT-6 (n thin atmosphere)

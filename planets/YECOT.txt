@@ -1,0 +1,8 @@
+Planet: YECOT
+Starmap index: 01
+Paris coordinates: 2140988880, -793661, 81939
+
+Guide entries:
+P01/04 MEDIUM SIZED THICK ATMO. APPEARS MAINLY PURPLISH ASIDE FROM STORM    
+AREAS, OF WHICH ONE IS VERY LARGE, POS 0.127.800 PRV 0.611.750.912          
+SKINNYMON 6011 791.571                                                      

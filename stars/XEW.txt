@@ -1,0 +1,19 @@
+Star: XEW
+Star class: S00
+Paris coordinates: 1804272, 2199504, 1419721
+Bodies: 10 (8 planets, 2 moons)
+
+System:
+- RYKK (n thin atmosphere)
+- YNIK (+ substellar object)
+- GREENTOP (q quartz surface)
+- SLAG (r rocky, creased)
+- KIEFER (k thick atmosphere)
+- RICKSTR (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- DRONE (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- CIRCLE (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY NORDWALL 572.623.822

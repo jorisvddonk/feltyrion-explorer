@@ -1,0 +1,9 @@
+Star: SHELL STATION
+Star class: S06
+Paris coordinates: 4889616, 8798910, 1335199
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY KALMAN FARAGO IN 6011.560.762 SUITABLE FOR SCOPING

@@ -1,0 +1,23 @@
+Star: SOTETI II
+Star class: S00
+Paris coordinates: -1995320592, 120308, 1406836
+Bodies: 17 (10 planets, 7 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+- Planet #8 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (i icy surface)

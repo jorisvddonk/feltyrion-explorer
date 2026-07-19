@@ -1,0 +1,6 @@
+Planet: VENNIBAL
+Starmap index: 20
+Paris coordinates: 1374288, -67792336, -1896928
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:572.

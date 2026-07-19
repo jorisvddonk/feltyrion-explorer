@@ -1,0 +1,7 @@
+Planet: OAK
+Starmap index: 04
+Paris coordinates: -436432, 188642, 1163637
+
+Guide entries:
+DISCOVERED BY ZOSETE (EPOC 6011577.537.8)
+18 MOONS, LAST ONE IS FELISIAN

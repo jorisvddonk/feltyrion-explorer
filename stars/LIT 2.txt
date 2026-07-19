@@ -1,0 +1,6 @@
+Star: LIT 2
+Star class: S06
+Paris coordinates: 74288, -152041, -409959
+Bodies: 0 (0 planets, 0 moons)
+
+System:

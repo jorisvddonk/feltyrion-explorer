@@ -1,0 +1,3 @@
+Planet: SEENL
+Starmap index: 04
+Paris coordinates: -1424943632, 762987, 1438818491

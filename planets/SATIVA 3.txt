@@ -1,0 +1,7 @@
+Planet: SATIVA 3
+Starmap index: 03
+Paris coordinates: 2739280, 5319060, -1293595
+
+Guide entries:
+SOLID, NO ATMOS.
+(NOTE BY: ALEXX, EPOC 6011:602.472

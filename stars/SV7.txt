@@ -1,0 +1,6 @@
+Star: SV7
+Star class: S06
+Paris coordinates: 547152, 6444111, -2509830
+Bodies: 0 (0 planets, 0 moons)
+
+System:

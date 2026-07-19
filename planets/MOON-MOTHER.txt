@@ -1,0 +1,7 @@
+Planet: MOON-MOTHER
+Starmap index: 04
+Paris coordinates: 11143472, 13252185, 11768133
+
+Guide entries:
+PLANET HAVING MORE MOONS THAN MOON-FATHER. RESIDES NEAR DREAMER.            
+(NOTES BY DAWIWO, EPOCH 6011:768.489)                                       

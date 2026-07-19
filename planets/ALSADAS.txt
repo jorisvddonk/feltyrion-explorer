@@ -1,0 +1,7 @@
+Planet: ALSADAS
+Starmap index: 08
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M05/P03 MEDIUM SIZE THICK ATMO. TUBID APPLE GREEN CLOUD COVER. PRO          
+0.232.200 PRV 0.003.403.050 SKINNYMON 6011 795.93                           

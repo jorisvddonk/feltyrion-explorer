@@ -1,0 +1,14 @@
+Star: DIONESE
+Star class: S02
+Paris coordinates: 2147256592, 1306897, 600539937
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- DIONESE PRIME (k thick atmosphere)
+- DIONESE 2 (r rocky, creased)
+- DIONESE 3 (r rocky, creased)
+- DIONESE 4 (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.130
+(S02) 4 PLANETS / 0 MINOR

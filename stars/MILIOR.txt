@@ -1,0 +1,6 @@
+Star: MILIOR
+Star class: S08
+Paris coordinates: -1679984, -13739472, -1839384
+Bodies: 0 (0 planets, 0 moons)
+
+System:

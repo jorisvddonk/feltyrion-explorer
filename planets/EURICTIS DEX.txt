@@ -1,0 +1,3 @@
+Planet: EURICTIS DEX
+Starmap index: 10
+Paris coordinates: 2146971120, 1495697, 1200751841

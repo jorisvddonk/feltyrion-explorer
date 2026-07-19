@@ -1,0 +1,6 @@
+Planet: OXYQ
+Starmap index: 16
+Paris coordinates: 5055696, 4381963, -636466
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.44.558

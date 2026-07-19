@@ -1,0 +1,3 @@
+Planet: ILYASTRAFEL VIII A
+Starmap index: 14
+Paris coordinates: -187856, 83432, 427

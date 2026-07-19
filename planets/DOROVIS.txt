@@ -1,0 +1,6 @@
+Planet: DOROVIS
+Starmap index: 06
+Paris coordinates: 1783920, 2420146, 231949
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.414

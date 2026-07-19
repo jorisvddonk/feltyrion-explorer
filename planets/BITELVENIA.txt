@@ -1,0 +1,6 @@
+Planet: BITELVENIA
+Starmap index: 03
+Paris coordinates: 1567504, 4324217, -2528140
+
+Guide entries:
+DISCOVERED BY CAPT. CARLOS ON 6011.603.321.523. NOTHING SPECIAL.

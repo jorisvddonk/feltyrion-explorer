@@ -1,0 +1,6 @@
+Star: ASKEW 37
+Star class: S06
+Paris coordinates: 11276304, -18680134, 17506736
+Bodies: 0 (0 planets, 0 moons)
+
+System:

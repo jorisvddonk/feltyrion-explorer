@@ -1,0 +1,12 @@
+Star: MOTHER O'TWO
+Star class: S01
+Paris coordinates: -694640, 175151, 72300
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ENGLISH BEACH (q quartz surface)
+- WINGLESS ICARUS (+ substellar object)
+
+Guide entries:
+CLASS 1, TWO PLANETS IN ITS PULL.                                           
+DISCOVERED BY ELHAM EPOC 6011.722.994.100.                                  

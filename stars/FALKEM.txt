@@ -1,0 +1,6 @@
+Star: FALKEM
+Star class: S06
+Paris coordinates: 6086768, 5189406, -1942903
+Bodies: 0 (0 planets, 0 moons)
+
+System:

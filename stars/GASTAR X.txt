@@ -1,0 +1,6 @@
+Star: GASTAR X
+Star class: S06
+Paris coordinates: 1028560, 435530, 1708226
+Bodies: 0 (0 planets, 0 moons)
+
+System:

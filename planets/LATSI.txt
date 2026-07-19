@@ -1,0 +1,7 @@
+Planet: LATSI
+Starmap index: 15
+Paris coordinates: 808208, 1178550, 752685
+
+Guide entries:
+NO ATMOSPHERE. MOON OF NEME, A SUBSTELLAR OBJECT.                           
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.985.507)                           

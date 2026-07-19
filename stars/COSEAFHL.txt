@@ -1,0 +1,15 @@
+Star: COSEAFHL
+Star class: S08
+Paris coordinates: 633562032, -10973319, 47447825
+Bodies: 2 (1 planets, 1 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (q quartz surface)
+
+Guide entries:
+S08 SYSTEM, AFTER A FASHION. ONE COMPANION STAR, ONE NON-FELISIAN           
+WORLD. 0.24021186 BAL.M.; TEMP 1710K; RAD 29.2 KR; COOR 633562032;          
+-10973319; 47447825 SKINNYMON 6011.916.951                                  
+RETURN EXPEDITION 6012 060.196 08 TYPE PRIMARY. P01 AT 2.60 DYAMS
+(M01P01 IS AT 4.48 DYAMS AT PRESENT.)

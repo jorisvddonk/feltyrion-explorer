@@ -1,0 +1,6 @@
+Planet: ABROLHOS
+Starmap index: 09
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 0.60 / 0.2G -100C 0A (BY NBOAR 6011 588.527)

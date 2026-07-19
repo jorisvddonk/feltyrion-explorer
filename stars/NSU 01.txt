@@ -1,0 +1,6 @@
+Star: NSU 01
+Star class: S06
+Paris coordinates: -22692048, 30743, 1025547
+Bodies: 0 (0 planets, 0 moons)
+
+System:

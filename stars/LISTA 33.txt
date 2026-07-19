@@ -1,0 +1,9 @@
+Star: LISTA 33
+Star class: S06
+Paris coordinates: 4535344, 5146215, -1364469
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUMHERE. SKINNYMON EPOC 6011 575.558

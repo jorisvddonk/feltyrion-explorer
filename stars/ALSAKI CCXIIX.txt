@@ -1,0 +1,13 @@
+Star: ALSAKI CCXIIX
+Star class: S11
+Paris coordinates: 15154608, 32052300, -7028680
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

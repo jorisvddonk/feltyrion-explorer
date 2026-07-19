@@ -1,0 +1,13 @@
+Star: BEACON HILL
+Star class: S11
+Paris coordinates: 9457456, 605744, 654983
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- BEACON IV (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (i icy surface)
+  - Moon #1 (i icy surface)

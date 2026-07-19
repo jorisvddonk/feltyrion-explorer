@@ -1,0 +1,7 @@
+Star: ASKEW 98
+Star class: S08
+Paris coordinates: 11669520, -19673131, 16657855
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ASKEW 98A (n thin atmosphere)

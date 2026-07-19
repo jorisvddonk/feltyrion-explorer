@@ -1,0 +1,6 @@
+Star: WANDERER 1
+Star class: S10
+Paris coordinates: 4290704, 4853395, -1871690
+Bodies: 0 (0 planets, 0 moons)
+
+System:

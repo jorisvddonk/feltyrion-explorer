@@ -1,0 +1,9 @@
+Star: GRAMPS
+Star class: S10
+Paris coordinates: 3670352, -66273553, -2525057
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S10 ANCIENT STAR 20LY FROM FARHOME. NO PLANETS. (SCHMERM 6011 594.762)

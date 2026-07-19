@@ -1,0 +1,3 @@
+Planet: KORUS
+Starmap index: 02
+Paris coordinates: 4297488, 4141055, -1473285

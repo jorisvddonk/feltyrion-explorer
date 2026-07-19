@@ -1,0 +1,6 @@
+Planet: RINGS OF WONDER
+Starmap index: 02
+Paris coordinates: 4866416, 4334985, -1779783
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.18.238

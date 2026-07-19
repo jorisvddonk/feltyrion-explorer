@@ -1,0 +1,8 @@
+Planet: OASEDFHS
+Starmap index: 03
+Paris coordinates: 2100238704, -1473419, -594011
+
+Guide entries:
+P03/04 MEDIUM SIZE THICK ATMO. BRIGHT GREEN CLOUDS WITH ONE DARK BAND       
+MEDIUM SIZE DEBRIS RING. PRO0.182.520 PRV 0.040.938.044 SKINNYMON           
+6011 793.284                                                                

@@ -1,0 +1,3 @@
+Planet: BRUCHER-D
+Starmap index: 04
+Paris coordinates: 3823952, 144991, -9072118

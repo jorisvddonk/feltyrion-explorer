@@ -1,0 +1,6 @@
+Planet: SER
+Starmap index: 08
+Paris coordinates: 6221776, 5252973, -3881393
+
+Guide entries:
+MOON DISCOVER BY NONE OTHER THAN MURRMURR EPOC 6011:608.592

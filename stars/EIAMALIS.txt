@@ -1,0 +1,15 @@
+Star: EIAMALIS
+Star class: S02
+Paris coordinates: 2140988880, -793661, 81939
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- YECOT (k thick atmosphere)
+- CAMYN (n thin atmosphere)
+- LELECK (n thin atmosphere)
+- NEMIN (+ substellar object)
+
+Guide entries:
+S02 WITH 4 PLANETS, NO MOONS, NO FELISIAN. 1.57660139 BAL. M. TEMP          
+115203 K RAD 5000-5600 KR COR 2140988880;-793661;81939 SKINNYMON            
+6011 791.577                                                                

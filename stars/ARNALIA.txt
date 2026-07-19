@@ -1,0 +1,11 @@
+Star: ARNALIA
+Star class: S03
+Paris coordinates: 439280, 71009, 966782
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - ARNAL (n thin atmosphere)

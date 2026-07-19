@@ -1,0 +1,7 @@
+Star: ASKEW 81
+Star class: S10
+Paris coordinates: 11865584, -19561787, 18061305
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ASKEW 81A (@ large, not consistent)

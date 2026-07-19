@@ -1,0 +1,6 @@
+Star: KALYO SONTRO
+Star class: S07
+Paris coordinates: 1550000, 33750000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

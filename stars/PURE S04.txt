@@ -1,0 +1,6 @@
+Star: PURE S04
+Star class: S04
+Paris coordinates: 1950000, 58850000, -2050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

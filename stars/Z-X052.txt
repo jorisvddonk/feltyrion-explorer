@@ -1,0 +1,10 @@
+Star: Z-X052
+Star class: S05
+Paris coordinates: -1405554352, 20123, 1420972427
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Z-X052 I (d dusty, craterized)
+
+Guide entries:
+S05 BROWN DWARF. HAS ONE INSIGNIFICANT PLANET. (SCHMERM 6011 600.393)

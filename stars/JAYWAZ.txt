@@ -1,0 +1,15 @@
+Star: JAYWAZ
+Star class: S02
+Paris coordinates: -543216, -1292957, 861708
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- JAYWAZ1 (d dusty, craterized)
+- JAYWAZ2 (d dusty, craterized)
+- JAYWAZ3 (@ large, not consistent)
+- JAYWAZ4 (@ large, not consistent)
+- JAYWAZ5 (d dusty, craterized)
+- JAYWAZ6 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY AIRCON 6011.612.634. S02 SYSTEM WITH 6 PLANETS.

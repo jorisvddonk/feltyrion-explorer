@@ -1,0 +1,22 @@
+Star: YIELD
+Star class: S00
+Paris coordinates: 2452848, 4651009, -440090
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- SECRET SWEETHEART (@ large, not consistent)
+- WINE AND ROSES (q quartz surface)
+- HEARTS AND MINDS (f felisian)
+  - FELYSIAN PHYSICS (n thin atmosphere)
+- BEACON TO ST LUKES (r rocky, creased)
+  - FAIR PLAY (d dusty, craterized)
+- DRAMA THERAPY (q quartz surface)
+  - DEFICIT SPENDING (d dusty, craterized)
+- VEGGIE BURGER (f felisian)
+  - CHILI CHEESE FRIES (d dusty, craterized)
+- STUDENT AND TEACHER (k thick atmosphere)
+  - CRIME AND PUNISHMENT (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 7 PLANETS, 5 MOONS, 2 FELISIAN
+WORLDS. SKINNYMON EPOC 6011 598.577

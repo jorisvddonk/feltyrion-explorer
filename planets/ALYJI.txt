@@ -1,0 +1,7 @@
+Planet: ALYJI
+Starmap index: 42
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M02/P09 SMALL SOLID THIN ATMO. FAIR BRIGHTNESS, MODERATE POLAR CAPS.        
+PRO 0.221.040 PRV 0.001.427.505 SKINNYMON 5011 792.168                      

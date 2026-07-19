@@ -1,0 +1,15 @@
+Star: ATEN
+Star class: S00
+Paris coordinates: -720688, 4781410, -5232889
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- TREDEB (@ large, not consistent)
+- EVIENNE (d dusty, craterized)
+- AREAER (d dusty, craterized)
+  - DUOR (d dusty, craterized)
+
+Guide entries:
+YELOW STAR,IT HAS 3 PLANETS AND 1 MINOR BODY
+DISCOVERED BY KJ EPOC 6011:576.981
+THIS SYSTEM HAS NO LIFE BEARING PLANETS

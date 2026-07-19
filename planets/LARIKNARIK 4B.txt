@@ -1,0 +1,3 @@
+Planet: LARIKNARIK 4B
+Starmap index: 20
+Paris coordinates: -25176144, -19970420, -449611016

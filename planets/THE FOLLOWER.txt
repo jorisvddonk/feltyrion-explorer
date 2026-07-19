@@ -1,0 +1,3 @@
+Planet: THE FOLLOWER
+Starmap index: 01
+Paris coordinates: -470352, 640152, -549872

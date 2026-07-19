@@ -1,0 +1,28 @@
+Star: HELLO
+Star class: S00
+Paris coordinates: 3579984, 1002801, 305857
+Bodies: 19 (12 planets, 7 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- RATGUT (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- Planet #11 (d dusty, craterized)
+
+Guide entries:
+S00 STAR DISCOVERED BY BJS EPOC 6011:583.915

@@ -1,0 +1,10 @@
+Star: AUXILARY SHAFT
+Star class: S07
+Paris coordinates: -25519344, -16549581, 38878587
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- CREAM BALANCE (+ substellar object)
+
+Guide entries:
+A RELATIVELY SLOW-ROTATING S07. RYAN GJK E6011.788.966                      

@@ -1,0 +1,3 @@
+Planet: AUTUMN
+Starmap index: 04
+Paris coordinates: 4279984, 4628393, -549462

@@ -1,0 +1,3 @@
+Planet: KWILL PRIMUS
+Starmap index: 01
+Paris coordinates: 1399062800, 1348759, 1399463463

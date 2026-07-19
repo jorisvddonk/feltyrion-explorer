@@ -1,0 +1,3 @@
+Planet: M JACKSON
+Starmap index: 01
+Paris coordinates: 1363568, 694931, -392299

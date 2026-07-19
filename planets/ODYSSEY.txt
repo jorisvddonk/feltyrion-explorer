@@ -1,0 +1,8 @@
+Planet: ODYSSEY
+Starmap index: 01
+Paris coordinates: 4711056, 4770276, -1069633
+
+Guide entries:
+FIRST PLANET OF THE TRIOSA SYSTEM.                                          
+VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. WIDE DEBRIS RING             
+DISCOVERED ON EPOC 6011 724.781.126 BY MARTAN D'NAE.                        

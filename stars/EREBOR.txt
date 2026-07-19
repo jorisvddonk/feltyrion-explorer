@@ -1,0 +1,10 @@
+Star: EREBOR
+Star class: S05
+Paris coordinates: -439280, 382294, -657704
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:574.370
+LI+ IONS, NO MAJOR BODIES

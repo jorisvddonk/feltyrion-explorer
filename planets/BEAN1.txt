@@ -1,0 +1,6 @@
+Planet: BEAN1
+Starmap index: 04
+Paris coordinates: 3659632, 4227550, -1146095
+
+Guide entries:
+ IN THE SYSTEM JULISUS, NO LIFE FOUND

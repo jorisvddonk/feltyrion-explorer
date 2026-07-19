@@ -1,0 +1,8 @@
+Star: MATHUZEL
+Star class: S00
+Paris coordinates: 3962480, 5014432, 845577
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- METNA (k thick atmosphere)
+- GARIDIU (r rocky, creased)

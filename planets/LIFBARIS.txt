@@ -1,0 +1,8 @@
+Planet: LIFBARIS
+Starmap index: 06
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M03/P04 MEDIUM SIZE, QUARTZ SURFACE, GREEN REFLECTIVITY WITH LIGHT          
+AREAS PREDOMINATE. PRO 0.367.120 PRV 0.002.860.479 SKINNYMON 6011           
+796.376                                                                     

@@ -1,0 +1,27 @@
+Star: PROTEN I
+Star class: S09
+Paris coordinates: 26615760, 6510886, 44915311
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- PROXINE (+ substellar object)
+- RIPPEINE (+ substellar object)
+- PINENINE (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+- BRIGINE (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (r rocky, creased)
+  - FORST (f felisian)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (^ unstable)
+  - Moon #5 (@ large, not consistent)
+  - GLIFE (f felisian)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (@ large, not consistent)
+  - Moon #11 (^ unstable)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (r rocky, creased)

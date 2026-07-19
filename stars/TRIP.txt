@@ -1,0 +1,18 @@
+Star: TRIP
+Star class: S08
+Paris coordinates: 2857872, 4542468, -6096007
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (r rocky, creased)
+- FLASHBACK (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+
+Guide entries:
+2 STARS IN SYSTEM, 'PLANET' 1 IS COMPANION STAR - PLANET 3 IS FELISIAN
+FOUND BY RICHARD SOLENSKY EPOC 6011-571.355.200

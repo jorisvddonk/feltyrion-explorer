@@ -1,0 +1,6 @@
+Star: DELTA STICK
+Star class: S02
+Paris coordinates: -9764912, 325294, -10318758
+Bodies: 0 (0 planets, 0 moons)
+
+System:

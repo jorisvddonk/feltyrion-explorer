@@ -1,0 +1,20 @@
+Star: NOLKALID 1
+Star class: S08
+Paris coordinates: 678096, 49013, 190540336
+Bodies: 14 (4 planets, 10 moons)
+
+System:
+- NOLKALID 1 1 (* companion star)
+  - NOLKALID 1 1A (r rocky, creased)
+  - DELPHINE HORIZON (q quartz surface)
+- NOLKALID 1 2 (r rocky, creased)
+- NOLKALID 1 3 (@ large, not consistent)
+  - NOLKALID 1 3A (r rocky, creased)
+  - NOLKALID 1 3B (d dusty, craterized)
+  - DEVIL'S HUMOUR (^ unstable)
+  - NOLKALID 1 3D (n thin atmosphere)
+  - GRAND CHATEAU (q quartz surface)
+  - NOLKALID 1 3F (n thin atmosphere)
+  - PETER JOHN (k thick atmosphere)
+- NOLKALID 1 4 (* companion star)
+  - NOLKALID 1 4A (@ large, not consistent)

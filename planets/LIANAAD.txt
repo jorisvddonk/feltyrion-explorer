@@ -1,0 +1,6 @@
+Planet: LIANAAD
+Starmap index: 03
+Paris coordinates: 10762736, -19034762, 17197592
+
+Guide entries:
+FOUND EPOC 6011 586.237.140 BY ROLAND ASKEW

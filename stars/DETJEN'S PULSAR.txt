@@ -1,0 +1,17 @@
+Star: DETJEN'S PULSAR
+Star class: S11
+Paris coordinates: 6220688, 5095597, -50519
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (q quartz surface)
+
+Guide entries:
+ SIMPLE PULSAR STAR DISCOVERED AND NAMED AFTER DETJEN HAYNES, DATE
+UNKOWN. HAS SOME SPACE/TIME DISTORTIONAL AFFECTS NEAR THE SURFACE BUT
+IT IS TOO CLOSE TO THE STAR TO STUDY IN DETAIL
+(DETJEN HAYNES EPOC 6011.619.460)

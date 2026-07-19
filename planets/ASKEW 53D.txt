@@ -1,0 +1,3 @@
+Planet: ASKEW 53D
+Starmap index: 04
+Paris coordinates: 10762736, -19034762, 17197592

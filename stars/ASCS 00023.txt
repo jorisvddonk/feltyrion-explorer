@@ -1,0 +1,15 @@
+Star: ASCS 00023
+Star class: S00
+Paris coordinates: 6955696, 6225439, -2800652
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (+ substellar object)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (^ unstable)

@@ -1,0 +1,11 @@
+Star: DENTON
+Star class: S05
+Paris coordinates: 3783920, 4533902, -1833721
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ELSAN (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+
+Guide entries:
+(DISCORVERD EPOC 6011.623.303.500 BY JEAN-LUC)

@@ -1,0 +1,3 @@
+Planet: SILVREN
+Starmap index: 04
+Paris coordinates: 5062480, 4312834, -451139

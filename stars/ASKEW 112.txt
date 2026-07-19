@@ -1,0 +1,24 @@
+Star: ASKEW 112
+Star class: S00
+Paris coordinates: 2008880, -12128966, 9171998
+Bodies: 15 (6 planets, 9 moons)
+
+System:
+- ASKEW 112A (@ large, not consistent)
+- ASKEW 112B (r rocky, creased)
+- VJIUZI (f felisian)
+  - ASKEW 112C1 (d dusty, craterized)
+  - ASKEW 112C2 (d dusty, craterized)
+- ASKEW 112D (@ large, not consistent)
+  - JOVIAL CHILD (f felisian)
+  - SANITARTAR (f felisian)
+  - ASKEW 112D3 (k thick atmosphere)
+  - YELLOW SPANIEL (f felisian)
+  - ASKEW 112D5 (d dusty, craterized)
+- ASKEW 112E (r rocky, creased)
+- LIABEZE MAJOR (f felisian)
+  - LIABEZE SON (d dusty, craterized)
+  - LIABEZE DAUGHTER (d dusty, craterized)
+
+Guide entries:
+5 FELISIAN WORLDS

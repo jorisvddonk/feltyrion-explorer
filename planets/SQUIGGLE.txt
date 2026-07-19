@@ -1,0 +1,3 @@
+Planet: SQUIGGLE
+Starmap index: 01
+Paris coordinates: 6462480, 5840007, -1924453

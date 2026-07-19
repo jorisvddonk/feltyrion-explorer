@@ -1,0 +1,7 @@
+Planet: ESRYASE
+Starmap index: 12
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M09/P03 MEDIUM SIZE INTERNALLY HOT. LIGHT BROWN. YELLOW GLOWING.            
+PRO 0.151.950 PRV 0.005.639.433 SKINNYMON 6011 795.103                      

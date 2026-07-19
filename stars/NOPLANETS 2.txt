@@ -1,0 +1,10 @@
+Star: NOPLANETS 2
+Star class: S01
+Paris coordinates: -62084016, 29672806, 283034
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S01 BLUE GIANT STAR DISCOVERED BY MCWGOGS, EPOC 6011.648.601
+NO PLANETS.

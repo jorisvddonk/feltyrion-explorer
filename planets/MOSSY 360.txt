@@ -1,0 +1,3 @@
+Planet: MOSSY 360
+Starmap index: 05
+Paris coordinates: 3166416, 4550509, -42178

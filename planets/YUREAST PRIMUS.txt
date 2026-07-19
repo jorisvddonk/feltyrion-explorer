@@ -1,0 +1,3 @@
+Planet: YUREAST PRIMUS
+Starmap index: 01
+Paris coordinates: 1399107440, 1024508, 1400060268

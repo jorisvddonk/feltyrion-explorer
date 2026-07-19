@@ -1,0 +1,6 @@
+Star: A-SO-IS
+Star class: S06
+Paris coordinates: 4493552, 4447500, 5092
+Bodies: 0 (0 planets, 0 moons)
+
+System:

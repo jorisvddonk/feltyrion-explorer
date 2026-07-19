@@ -1,0 +1,7 @@
+Planet: MAJOR II
+Starmap index: 10
+Paris coordinates: -344976, 9517823, -4954054
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.848 -                                
+SMALL. SOLID. DUSTY. CRATERIZED. NO ATMOSPHERE.                             

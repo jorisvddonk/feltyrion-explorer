@@ -1,0 +1,8 @@
+Planet: CABEL
+Starmap index: 08
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.814                                    
+A DUSTY, ATMOSPHERELESS PLANET                                              
+(NOTES BY MISTRAL, EPOC 6011.797.814)                                       

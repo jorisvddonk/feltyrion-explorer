@@ -1,0 +1,3 @@
+Planet: LAVARTON
+Starmap index: 04
+Paris coordinates: -107335952, 24959881, -1997831

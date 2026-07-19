@@ -1,0 +1,6 @@
+Planet: DM-1-PINACLEDP-2
+Starmap index: 14
+Paris coordinates: 3804272, 4498014, -620206
+
+Guide entries:
+DEAD MOON, NO ATMOSPHERE

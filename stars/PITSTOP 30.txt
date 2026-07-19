@@ -1,0 +1,6 @@
+Star: PITSTOP 30
+Star class: S06
+Paris coordinates: -125392, -131991, 1155212765
+Bodies: 0 (0 planets, 0 moons)
+
+System:

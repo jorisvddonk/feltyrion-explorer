@@ -1,0 +1,11 @@
+Star: JULKA
+Star class: S00
+Paris coordinates: 3546064, 4606530, -1639650
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DEPRESJA (r rocky, creased)
+- EUFORIA (+ substellar object)
+
+Guide entries:
+STAR DISCOVERED BY MRUQE; EPOC 6011-569.499

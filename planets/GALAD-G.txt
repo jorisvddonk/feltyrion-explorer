@@ -1,0 +1,3 @@
+Planet: GALAD-G
+Starmap index: 07
+Paris coordinates: 3121104, -370574, -10520597

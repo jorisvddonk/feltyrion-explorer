@@ -1,0 +1,10 @@
+Star: HANNAH CLEAR
+Star class: S05
+Paris coordinates: 4273200, 4465722, -751160
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING DISCOVERED BY R.CLEAR EPOC 6011:593.828
+NAMED AFTER MY NIECE

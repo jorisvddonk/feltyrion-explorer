@@ -1,0 +1,6 @@
+Planet: DP-GLOWER-1
+Starmap index: 01
+Paris coordinates: 4035344, 4484112, -905031
+
+Guide entries:
+DEAD PLANET, NO ATMOSPHERE

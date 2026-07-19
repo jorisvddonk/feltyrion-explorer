@@ -1,0 +1,8 @@
+Planet: GREEN NOPOLIS
+Starmap index: 05
+Paris coordinates: -1139280, 528850, 7837
+
+Guide entries:
+DISCOVERED BY PICHERITY, EPOC 6011, 688:909.                                
+AT 321.70:-11.-91, THERE IS AN OVERGROWN PYRAMID THAT SUGGESTS              
+THAT IS COULD BE VERY OLD.                                                  

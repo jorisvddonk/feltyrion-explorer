@@ -1,0 +1,3 @@
+Planet: SCHUMACHER
+Starmap index: 13
+Paris coordinates: 1167504, 4837930, -1943668

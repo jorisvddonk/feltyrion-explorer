@@ -1,0 +1,6 @@
+Star: VOID DISCHARGE
+Star class: S02
+Paris coordinates: 1550000, 52850000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

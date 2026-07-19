@@ -1,0 +1,22 @@
+Star: LUCKY THIRTEEN
+Star class: S00
+Paris coordinates: -1139280, 528850, 7837
+Bodies: 13 (7 planets, 6 moons)
+
+System:
+- DUSTUS MAXIMUS (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- INDIGORGEOUS (f felisian)
+  - BYPASS ME (d dusty, craterized)
+  - BASHED ROTTEN (d dusty, craterized)
+- SCAIRSSMY (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- GREEN NOPOLIS (f felisian)
+- AISSLECT (f felisian)
+  - EXTALECT (d dusty, craterized)
+  - LIGHTLECT (d dusty, craterized)
+- LUCKY SEVENTH (q quartz surface)
+  - TWHIRLUK (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY PICHERITY, EPOC 6011, 688:819.                                

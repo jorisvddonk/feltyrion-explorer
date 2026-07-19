@@ -1,0 +1,20 @@
+Star: REDISTES
+Star class: S03
+Paris coordinates: -61808304, 29569120, 567616
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- KRATERAES (d dusty, craterized)
+- MERATEROS (d dusty, craterized)
+- BLUEKREAS (r rocky, creased)
+- MARENIES (n thin atmosphere)
+  - YELAREONIS (d dusty, craterized)
+  - SKULLERANES (d dusty, craterized)
+- MIRETAES (n thin atmosphere)
+  - ELRANESIS (d dusty, craterized)
+- QUERIEAS (q quartz surface)
+- VIEARETIS (n thin atmosphere)
+
+Guide entries:
+CLASS S03 RED GIANT DISCOVERED BY MCWGOGS EPOC 6011.639.743.
+7 PLANETS, 3 MOONS.

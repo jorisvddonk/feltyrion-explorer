@@ -1,0 +1,15 @@
+Star: ZIMMER
+Star class: S05
+Paris coordinates: 3917840, 5209488, 158473
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- ELURIA (d dusty, craterized)
+- CARTAUGH (d dusty, craterized)
+- ROARK (r rocky, creased)
+
+Guide entries:
+IF THEIR WERE A BROWN DWARF STAR CONTEST, THIS BROWN DWARF STAR WOULD
+WIN MOST LIKELY TO HAVE THREE ORBITING BODIES. BECAUSE IT DOES. YEP, IT
+IS A BROWN DWARF STAR.
+(DISCOVERED BY N5CORP ON 6011:618:246)

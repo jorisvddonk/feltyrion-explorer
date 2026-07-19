@@ -1,0 +1,31 @@
+Star: AS01021626
+Star class: S00
+Paris coordinates: 51485424, 565868, 1981180300
+Bodies: 25 (11 planets, 14 moons)
+
+System:
+- AS01021626A (d dusty, craterized)
+- AS01021626B (q quartz surface)
+- AS01021626C (r rocky, creased)
+  - AS01021626C1 (d dusty, craterized)
+- AS01021626D (q quartz surface)
+- AS01021626E (@ large, not consistent)
+  - SKIK (f felisian)
+  - AREK (f felisian)
+  - AS01021626E3 (n thin atmosphere)
+  - AS01021626E4 (k thick atmosphere)
+  - AS01021626E5 (^ unstable)
+  - AS01021626E6 (^ unstable)
+  - AS01021626E7 (r rocky, creased)
+  - AS01021626E8 (r rocky, creased)
+- AS01021626F (n thin atmosphere)
+  - AS01021626F1 (d dusty, craterized)
+- AS01021626G (d dusty, craterized)
+  - AS01021626G1 (d dusty, craterized)
+- AS01021626H (d dusty, craterized)
+- AS01021626I (^ unstable)
+  - AS01021626I1 (d dusty, craterized)
+- AS01021626J (r rocky, creased)
+  - AS01021626J1 (n thin atmosphere)
+- AS01021626K (n thin atmosphere)
+  - AS01021626K1 (i icy surface)

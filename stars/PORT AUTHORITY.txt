@@ -1,0 +1,17 @@
+Star: PORT AUTHORITY
+Star class: S00
+Paris coordinates: 3390704, 4178474, -942087
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- CUDDY (r rocky, creased)
+- SYNCLINORIUM (n thin atmosphere)
+- NYCTOPHOBIA (n thin atmosphere)
+  - NYCTOPHOBIC (n thin atmosphere)
+- CULLET (q quartz surface)
+  - MANGONEL (d dusty, craterized)
+  - BETIDE (n thin atmosphere)
+
+Guide entries:
+A CLASS S00 SYSTEM WITH 4 PLANETS, 3 MOONS. NOT EXACTLY
+INSPIRING. SKINNYMON EPOC 6011 567.524

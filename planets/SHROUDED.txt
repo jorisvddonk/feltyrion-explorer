@@ -1,0 +1,6 @@
+Planet: SHROUDED
+Starmap index: 02
+Paris coordinates: -2208208, -957887, 813422
+
+Guide entries:
+OXYGEN ATMOSPHERE BUT NO LIFE FOUND. VERY LITTLE LIGHT ON SURFACE.

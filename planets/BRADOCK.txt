@@ -1,0 +1,3 @@
+Planet: BRADOCK
+Starmap index: 02
+Paris coordinates: 4466416, 4392609, -1400758

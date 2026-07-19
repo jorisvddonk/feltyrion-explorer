@@ -1,0 +1,3 @@
+Planet: WTSTARTREKPLANET1
+Starmap index: 04
+Paris coordinates: -8054608, 757873, 170776

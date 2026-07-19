@@ -1,0 +1,10 @@
+Star: FUSARF
+Star class: S00
+Paris coordinates: 1387856, 611504, -1116805
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BARSTAT (k thick atmosphere)
+
+Guide entries:
+NAMED BY BEN, EPOC 6011 793:297:340                                         

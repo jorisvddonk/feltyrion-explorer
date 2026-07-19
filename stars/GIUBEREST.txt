@@ -1,0 +1,6 @@
+Star: GIUBEREST
+Star class: S07
+Paris coordinates: 7650000, 550000, -7750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

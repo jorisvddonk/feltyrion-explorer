@@ -1,0 +1,6 @@
+Star: NOLITHIUM
+Star class: S06
+Paris coordinates: -431408, 4367096, -4221659
+Bodies: 0 (0 planets, 0 moons)
+
+System:

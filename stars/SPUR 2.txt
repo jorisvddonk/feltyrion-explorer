@@ -1,0 +1,9 @@
+Star: SPUR 2
+Star class: S06
+Paris coordinates: -1342128, 5859850, -2106716
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM-BEARING S06 STAR.                                                   

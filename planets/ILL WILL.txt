@@ -1,0 +1,3 @@
+Planet: ILL WILL
+Starmap index: 01
+Paris coordinates: 7106032, -602431, 2047618

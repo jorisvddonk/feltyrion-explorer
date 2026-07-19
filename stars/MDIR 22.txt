@@ -1,0 +1,6 @@
+Star: MDIR 22
+Star class: S06
+Paris coordinates: 3728560, 8816425, -971579
+Bodies: 0 (0 planets, 0 moons)
+
+System:

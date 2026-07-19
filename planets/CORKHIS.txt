@@ -1,0 +1,3 @@
+Planet: CORKHIS
+Starmap index: 14
+Paris coordinates: -770352, 114475, -280746

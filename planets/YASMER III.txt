@@ -1,0 +1,3 @@
+Planet: YASMER III
+Starmap index: 03
+Paris coordinates: 378224, 1252914, -2610252

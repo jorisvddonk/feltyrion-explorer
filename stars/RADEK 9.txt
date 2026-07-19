@@ -1,0 +1,9 @@
+Star: RADEK 9
+Star class: S07
+Paris coordinates: -61332592, 29551818, 580650
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MCWGOGS EPOC 601.639 NO PLANETS.

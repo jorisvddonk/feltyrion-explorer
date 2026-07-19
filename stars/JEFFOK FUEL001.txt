@@ -1,0 +1,6 @@
+Star: JEFFOK FUEL001
+Star class: S06
+Paris coordinates: 3617840, 3736039, 385371
+Bodies: 0 (0 planets, 0 moons)
+
+System:

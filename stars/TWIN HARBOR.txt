@@ -1,0 +1,11 @@
+Star: TWIN HARBOR
+Star class: S00
+Paris coordinates: 4632496, 4863930, -3593107
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (@ large, not consistent)
+
+Guide entries:
+ DISCOVERED BY LEXUS- EPOC 6011.841.255.505 - TWO PLANETS                   

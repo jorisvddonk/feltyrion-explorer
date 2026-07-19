@@ -1,0 +1,12 @@
+Star: ASTRO PATH A5
+Star class: S02
+Paris coordinates: 3267504, 4513745, -3985174
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (q quartz surface)
+- Planet #2 (+ substellar object)
+- Planet #3 (r rocky, creased)
+- Planet #4 (r rocky, creased)
+- Planet #5 (r rocky, creased)

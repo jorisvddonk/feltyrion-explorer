@@ -1,0 +1,3 @@
+Planet: LIROKS
+Starmap index: 02
+Paris coordinates: 2659632, 5047014, -45246

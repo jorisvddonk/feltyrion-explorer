@@ -1,0 +1,11 @@
+Star: EARTHBOUND
+Star class: S10
+Paris coordinates: 2404272, 5033521, 771698
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- APE (q quartz surface)
+
+Guide entries:
+ANOTHER RUN AWAY STAR WITH PLANET IN TOW.
+(DISCOVERED BY N5CORP ON 6011:618:245)

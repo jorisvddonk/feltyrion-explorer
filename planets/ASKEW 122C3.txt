@@ -1,0 +1,3 @@
+Planet: ASKEW 122C3
+Starmap index: 09
+Paris coordinates: 3694224, -13771781, 10524077

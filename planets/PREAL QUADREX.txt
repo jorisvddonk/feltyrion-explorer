@@ -1,0 +1,3 @@
+Planet: PREAL QUADREX
+Starmap index: 04
+Paris coordinates: 1399800656, 1324598, 1398935270

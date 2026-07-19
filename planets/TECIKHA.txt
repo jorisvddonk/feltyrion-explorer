@@ -1,0 +1,3 @@
+Planet: TECIKHA
+Starmap index: 04
+Paris coordinates: 4969264, 4980100, 258356

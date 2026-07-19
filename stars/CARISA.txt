@@ -1,0 +1,20 @@
+Star: CARISA
+Star class: S00
+Paris coordinates: 2160720, 1174828, -3319778
+Bodies: 11 (4 planets, 7 moons)
+
+System:
+- SERENIA (q quartz surface)
+- Planet #1 (q quartz surface)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+NAMED BY BEN, EPOC 6011 793:455:585.                                        

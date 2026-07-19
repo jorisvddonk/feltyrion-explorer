@@ -1,0 +1,9 @@
+Star: DE POT
+Star class: S06
+Paris coordinates: 2939280, 4688626, -1493588
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR

@@ -1,0 +1,7 @@
+Planet: TILT
+Starmap index: 09
+Paris coordinates: -25712, -154450, -327558
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE. VERY DARK, GOOD POLAR CAPS. SKINNYMON EPOC
+6011 581.165

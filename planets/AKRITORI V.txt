@@ -1,0 +1,9 @@
+Planet: AKRITORI V
+Starmap index: 26
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.535.243                              
+ORBIT SHOWS CRISS-CROSSES AS IN THE 4TH MOON, PUT WITH DOTS INSTEAD         
+OF LINES. SURFACE IS FULLY FROZEN OVER AND FLAT.                            
+(NEURONWAKE 6011 802.536.359)                                               

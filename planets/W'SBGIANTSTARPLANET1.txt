@@ -1,0 +1,3 @@
+Planet: W'SBGIANTSTARPLANET1
+Starmap index: 05
+Paris coordinates: -7647824, 613940, -9598

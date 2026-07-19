@@ -1,0 +1,13 @@
+Star: VAL
+Star class: S00
+Paris coordinates: 2552848, 4541525, -310791
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- VAL CALHORN (n thin atmosphere)
+- VAL TIEN (k thick atmosphere)
+- VAL TALOS (f felisian)
+  - VAL MARKEN (n thin atmosphere)
+  - VAL DUN (^ unstable)
+- VAL TERMIN (d dusty, craterized)
+  - VAL SOLACE (d dusty, craterized)

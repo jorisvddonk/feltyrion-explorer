@@ -1,0 +1,9 @@
+Planet: BLACKLANDS
+Starmap index: 06
+Paris coordinates: 3628560, 4254023, -915798
+
+Guide entries:
+ BREATHABLE PLANET BUT COLD, DARK SKIES, PURPLE LANDS, ICE LAKES.           
+FOUNDED EPOC 6011, 681.210.222 BY REZA. 6TH PLANET OF RIZI, 3 MOONS         
+MANY BIRD-LIKE CREATURES, BEAUTIFUL MOUNTAINOUS LANDSCAPE. (REZA,           
+6011, 680.210.540)                                                          

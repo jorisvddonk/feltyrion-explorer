@@ -1,0 +1,7 @@
+Planet: AEYR PRIME
+Starmap index: 01
+Paris coordinates: 3077136, 5007894, -1447173
+
+Guide entries:
+SECOND STAR IN THE BINARY SYSTEM AEYR
+(XILOSCIENT EPOC 6011:573.250)

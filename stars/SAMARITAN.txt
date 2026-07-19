@@ -1,0 +1,6 @@
+Star: SAMARITAN
+Star class: S06
+Paris coordinates: 936432, 5474889, -1542464
+Bodies: 0 (0 planets, 0 moons)
+
+System:

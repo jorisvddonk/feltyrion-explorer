@@ -1,0 +1,3 @@
+Planet: THIRDEA
+Starmap index: 03
+Paris coordinates: -62039376, 29283139, 812295

@@ -1,0 +1,3 @@
+Planet: DUSTY BAT
+Starmap index: 08
+Paris coordinates: 3890704, 4420850, -1491247

@@ -1,0 +1,3 @@
+Planet: RUNSE
+Starmap index: 03
+Paris coordinates: 959632, -29159614, 1576490

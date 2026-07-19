@@ -1,0 +1,21 @@
+Star: ES ARSVERIS
+Star class: S08
+Paris coordinates: 634485232, -10661974, 49669938
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (@ large, not consistent)
+- Planet #1 (* companion star)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+ CLASS S08 SYSTEM. HAS 2 COMPANION STARS, 6 OTHER WORLDS. ONE               
+FELISIAN WORLD. 075011790 BAL. M.; TEMP 3085K; RAD 28.0 KR; COOR            
+634485232; -10661974; 49669938 SKINNYMON 6011 916.847.432                   
+RETURN EXPEDITION 6012 060.718 09 TYPE PRIMARY. P04- A FELISIAN
+WORLD IS THE MOST DISTANT- AT 62.19 DYAMS.

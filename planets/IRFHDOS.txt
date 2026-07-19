@@ -1,0 +1,7 @@
+Planet: IRFHDOS
+Starmap index: 44
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M09/P09 SMALL SOLID ICY. VIOLET COLOR WITH SPARSE WHITE GROOVING.           
+PRO 0.185.760 PRV 0.004.835.186 SKINNYMON 6011 797.170                      

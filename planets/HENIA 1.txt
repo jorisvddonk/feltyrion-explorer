@@ -1,0 +1,3 @@
+Planet: HENIA 1
+Starmap index: 01
+Paris coordinates: 3790704, 5411018, -1402566

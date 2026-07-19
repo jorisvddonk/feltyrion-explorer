@@ -1,0 +1,11 @@
+Star: ULTI-MAD
+Star class: S11
+Paris coordinates: 3128560, 4435234, -401937
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MORION (n thin atmosphere)
+
+Guide entries:
+CRAZY PULSAR AND HELLISH BLASTED PLANET. TRY TO DESCEND AT SOUTH POLE       
+WITH AWE FROM WINDETTA SCHLEUSE. EPOC 6011.697.167.400                      

@@ -1,0 +1,6 @@
+Planet: ST'STA-CY
+Starmap index: 02
+Paris coordinates: 5169264, 4383567, -129735
+
+Guide entries:
+ DISCOVERED BY SAREK BLUES, EPOC 565.933

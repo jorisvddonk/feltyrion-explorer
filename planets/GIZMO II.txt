@@ -1,0 +1,6 @@
+Planet: GIZMO II
+Starmap index: 01
+Paris coordinates: 2635344, 1419938, 528353
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:583.817

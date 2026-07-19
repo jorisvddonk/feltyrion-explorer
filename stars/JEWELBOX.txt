@@ -1,0 +1,21 @@
+Star: JEWELBOX
+Star class: S00
+Paris coordinates: 3314992, 4684534, -1413784
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- GOLD RING (r rocky, creased)
+- AMETHYST GEODE (q quartz surface)
+- GRINNING STONE (r rocky, creased)
+  - FIRE OPAL (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- JADE PEBBLE (r rocky, creased)
+- BANDED LEOPARD (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ALTHOUGH NO LIFE WAS FOUND IN THE SYSTEM, 4 OF THE 5 PLANETS AND A
+MOON OF THE REMAINING PLANET ARE IMPRESSIVE WHEN VIEWED FROM SPACE.
+IT SHOULD BE NOTED THAT AT AND INSIDE THE ORBIT OF THE 4TH PLANET THE
+SUN'S RADIATION EMISSIONS CAN PROVE DISRUPTIVE TO SHIP SYSTEMS.
+(FELINOX, 6011:662.427)

@@ -1,0 +1,7 @@
+Planet: ONYPI
+Starmap index: 29
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M14/07 SMALL SOLID THIN ATMO FAIRLY BRIGHT SLIGHT POLAR CAPS. PRO 0.220.    
+320. PRV 0.008.476.486 SKINNYMON EPOC 6011 972.10                           

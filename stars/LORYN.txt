@@ -1,0 +1,10 @@
+Star: LORYN
+Star class: S11
+Paris coordinates: 5048912, 4913160, -1102160
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- EREVOS (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY FOTIOS. EPOC 6011:609.561

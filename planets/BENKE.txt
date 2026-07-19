@@ -1,0 +1,8 @@
+Planet: BENKE
+Starmap index: 21
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M08/P05 SMAL SOLID DUSTY, BUT WITH SUCH A BRIGHT GREENISH REFLECTIVITY      
+THAT HARDLY ANY CRATER CAN BE SEEN. PRO 0.120.960 PRV 0.005.158.000         
+SKINNYMON 6011 791.361                                                      

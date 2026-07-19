@@ -1,0 +1,6 @@
+Star: SAGRA
+Star class: S06
+Paris coordinates: -1111056, -14750393, -2352937
+Bodies: 0 (0 planets, 0 moons)
+
+System:

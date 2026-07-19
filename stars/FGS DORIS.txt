@@ -1,0 +1,6 @@
+Star: FGS DORIS
+Star class: S07
+Paris coordinates: 1412650000, 50000, -1412750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

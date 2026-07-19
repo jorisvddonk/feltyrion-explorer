@@ -1,0 +1,13 @@
+Star: YOGOMA
+Star class: S02
+Paris coordinates: 3736432, 7612209, -4387488
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- KRIMA (n thin atmosphere)
+- KAMIMA (@ large, not consistent)
+- HOGRAMA (+ substellar object)
+- IGAMA (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011.605.424

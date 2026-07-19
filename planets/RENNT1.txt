@@ -1,0 +1,6 @@
+Planet: RENNT1
+Starmap index: 01
+Paris coordinates: -98576, -1287350, 1185237
+
+Guide entries:
+SMALL, NO ATMOSPHERE. DISAPPOINTING.

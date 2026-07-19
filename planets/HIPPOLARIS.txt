@@ -1,0 +1,3 @@
+Planet: HIPPOLARIS
+Starmap index: 05
+Paris coordinates: -61270448, 30091829, 306909

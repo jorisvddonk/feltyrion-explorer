@@ -1,0 +1,6 @@
+Planet: RED WONDER
+Starmap index: 01
+Paris coordinates: 4128560, 4403885, -1377859
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.17.615

@@ -1,0 +1,30 @@
+Star: PERIOD
+Star class: S08
+Paris coordinates: 3677136, 4440439, -2078563
+Bodies: 20 (3 planets, 17 moons)
+
+System:
+- DOVA (n thin atmosphere)
+- SYNTAX (r rocky, creased)
+- Planet #2 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (+ substellar object)
+  - Moon #2 (q quartz surface)
+  - SETTLED EAST (+ substellar object)
+  - SETTING NORTHWEST (@ large, not consistent)
+  - SETTING WEST (+ substellar object)
+  - Moon #6 (d dusty, craterized)
+  - SETTING NORTH (+ substellar object)
+  - DALI (f felisian)
+  - COVEN (k thick atmosphere)
+  - SETTING SOUTHEAST (^ unstable)
+  - Moon #11 (+ substellar object)
+  - COMA (f felisian)
+  - SOMA (n thin atmosphere)
+  - Moon #14 (k thick atmosphere)
+  - SETTING SOUTH (^ unstable)
+  - MISKHA (r rocky, creased)
+
+Guide entries:
+ DISCOVERED BY DAN TAN MY BROTHER - WOOHOO!!!
+ I CAN'T FINISH THIS SOLAR SYSTEM, SO PLEASE CAN SOME ELSE DO TO FOR ME

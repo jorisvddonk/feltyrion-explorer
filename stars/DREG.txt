@@ -1,0 +1,10 @@
+Star: DREG
+Star class: S05
+Paris coordinates: -168592, 4976461, 5010310
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED BY SHADOWCLAW 6011:571.428)
+IT IS POSSIBLE TO SCOPE FOR FUEL HERE. IT'LL TAKE A  LONG  TIME THOUGH.

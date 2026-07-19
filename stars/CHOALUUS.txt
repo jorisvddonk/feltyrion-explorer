@@ -1,0 +1,12 @@
+Star: CHOALUUS
+Star class: S09
+Paris coordinates: 1399069584, 1988408, 1399905480
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- CHOALUUS PRIMUS (+ substellar object)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:600.505
+(S09) 1 PROTOPLANET / 0 MINOR
+COORDINATES = 1399069584, 1988408, 1399905408

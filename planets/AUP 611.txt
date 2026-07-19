@@ -1,0 +1,6 @@
+Planet: AUP 611
+Starmap index: 42
+Paris coordinates: 4638192, 4248129, 655268
+
+Guide entries:
+ SURVEYED BY EDEANP 617.974.376

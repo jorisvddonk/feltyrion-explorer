@@ -1,0 +1,9 @@
+Star: DEAD STAR OF DAMATS
+Star class: S06
+Paris coordinates: 3535344, 4822009, -330388
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ BIG COLD DEAD

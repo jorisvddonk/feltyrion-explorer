@@ -1,0 +1,24 @@
+Star: STEPPING STONE
+Star class: S04
+Paris coordinates: -594640, 832157, 79011
+Bodies: 18 (6 planets, 12 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (k thick atmosphere)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)

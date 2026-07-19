@@ -1,0 +1,3 @@
+Planet: ASKEW 54B
+Starmap index: 02
+Paris coordinates: 10700592, -19048169, 17432791

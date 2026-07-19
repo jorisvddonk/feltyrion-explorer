@@ -1,0 +1,10 @@
+Star: UNASEL
+Star class: S06
+Paris coordinates: 4335344, 4495159, -1167745
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BLADE TRAIN3R 6011 705.162                                                  
+UNSUITABLE FOR REFUELING                                                    

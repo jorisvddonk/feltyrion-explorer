@@ -1,0 +1,3 @@
+Planet: GANT M1
+Starmap index: 09
+Paris coordinates: 318928, 183426, -53503

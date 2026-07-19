@@ -1,0 +1,3 @@
+Planet: IURYTHON 7
+Starmap index: 10
+Paris coordinates: -105456, -268569, 1579253151

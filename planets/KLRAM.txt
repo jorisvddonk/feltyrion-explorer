@@ -1,0 +1,7 @@
+Planet: KLRAM
+Starmap index: 25
+Paris coordinates: -72824208, -13935588, 55276606
+
+Guide entries:
+NOT INTERESTING, ROCKY PLANET.
+(DISCOVERED BY MEGAGUN)

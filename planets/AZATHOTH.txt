@@ -1,0 +1,3 @@
+Planet: AZATHOTH
+Starmap index: 02
+Paris coordinates: -194640, 6822325, -323763

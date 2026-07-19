@@ -1,0 +1,16 @@
+Star: QUICK STAR
+Star class: S00
+Paris coordinates: 4528560, 5391346, -1821751
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+- BENGAL (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)

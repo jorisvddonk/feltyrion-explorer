@@ -1,0 +1,10 @@
+Star: DOCUM
+Star class: S06
+Paris coordinates: 4376048, 4847629, 1235718
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SO6, NO BODIES, LI+ BUT NOT SUITABLE.                                       
+(NOTES BY 131, EPOC:6011:804:534)                                           

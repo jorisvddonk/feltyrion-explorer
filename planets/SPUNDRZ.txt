@@ -1,0 +1,3 @@
+Planet: SPUNDRZ
+Starmap index: 02
+Paris coordinates: -106991312, 25050762, -1632866

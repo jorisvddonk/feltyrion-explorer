@@ -1,0 +1,3 @@
+Planet: ESSEN-5 7
+Starmap index: 18
+Paris coordinates: -12144, 72689, 302469

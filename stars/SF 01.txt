@@ -1,0 +1,9 @@
+Star: SF 01
+Star class: S06
+Paris coordinates: -401424, 40691, -572487
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR SCOPING

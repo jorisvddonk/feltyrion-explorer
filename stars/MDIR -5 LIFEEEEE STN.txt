@@ -1,0 +1,9 @@
+Star: MDIR -5 LIFEEEEE STN
+Star class: S06
+Paris coordinates: 2664240, 2150241, 8029027
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LIFEEEEE, HOME OF THE SAMPLE SHOT, LIES NEARBY.RYAN GJK E6011.790.350       

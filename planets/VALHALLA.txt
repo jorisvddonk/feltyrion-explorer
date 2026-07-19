@@ -1,0 +1,3 @@
+Planet: VALHALLA
+Starmap index: 32
+Paris coordinates: 2879984, 4786591, 805414

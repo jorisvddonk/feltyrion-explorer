@@ -1,0 +1,9 @@
+Planet: GALACONSTRA
+Starmap index: 18
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.601                                    
+A ROCKY PLANET LIKE MANY OTHERS                                             
+AT 158.27:-24.63 IS A RATHER SEVERE RIDGE, WITH A CANYON NEARBY AT          
+-50.75                                                                      

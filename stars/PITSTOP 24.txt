@@ -1,0 +1,6 @@
+Star: PITSTOP 24
+Star class: S06
+Paris coordinates: 1904, -178314, 710227672
+Bodies: 0 (0 planets, 0 moons)
+
+System:

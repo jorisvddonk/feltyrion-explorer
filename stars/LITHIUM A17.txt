@@ -1,0 +1,6 @@
+Star: LITHIUM A17
+Star class: S06
+Paris coordinates: 4823952, 4648273, -10023820
+Bodies: 0 (0 planets, 0 moons)
+
+System:

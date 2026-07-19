@@ -1,0 +1,8 @@
+Star: HELL
+Star class: S00
+Paris coordinates: 2577136, 158928, -939465
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- HELL2B (k thick atmosphere)

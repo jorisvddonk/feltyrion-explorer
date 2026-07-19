@@ -1,0 +1,3 @@
+Planet: KULFONIA
+Starmap index: 30
+Paris coordinates: -61408304, 29262541, 167965

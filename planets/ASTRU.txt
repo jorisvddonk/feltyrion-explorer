@@ -1,0 +1,6 @@
+Planet: ASTRU
+Starmap index: 11
+Paris coordinates: 701424, -12131, 445745
+
+Guide entries:
+ MOON OF PUTRELLA, DISC BY SCAREDY-CAT, EPOC 6011.583.619

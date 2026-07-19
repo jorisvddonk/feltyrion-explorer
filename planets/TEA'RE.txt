@@ -1,0 +1,3 @@
+Planet: TEA'RE
+Starmap index: 04
+Paris coordinates: -494640, 30520235, -71665

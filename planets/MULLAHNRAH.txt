@@ -1,0 +1,3 @@
+Planet: MULLAHNRAH
+Starmap index: 01
+Paris coordinates: 470352, -472659, 722038

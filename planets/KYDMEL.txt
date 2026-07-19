@@ -1,0 +1,8 @@
+Planet: KYDMEL
+Starmap index: 05
+Paris coordinates: 2028686512, 3015167, 208047
+
+Guide entries:
+M01/P04 SMALL SOLID DUSTY, VERY LARGE RAYED CRATERS ON VERY REFLECTIVE      
+GREENISH/WHITE SURFACE. PRO 0.116.640 PRV 0.001.691.294                     
+SKINNYMON 6011 797.189                                                      

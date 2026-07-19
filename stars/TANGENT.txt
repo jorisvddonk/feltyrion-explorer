@@ -1,0 +1,6 @@
+Star: TANGENT
+Star class: S08
+Paris coordinates: 550000, 358340, -325002
+Bodies: 0 (0 planets, 0 moons)
+
+System:

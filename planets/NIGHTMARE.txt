@@ -1,0 +1,7 @@
+Planet: NIGHTMARE
+Starmap index: 03
+Paris coordinates: 1608208, 2420927, -98459
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.137.270
+EERILY FLAT AND QUIET.

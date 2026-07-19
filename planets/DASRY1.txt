@@ -1,0 +1,6 @@
+Planet: DASRY1
+Starmap index: 01
+Paris coordinates: 917840, -2069638, 3110664
+
+Guide entries:
+SMALL, NO ATMOSPHERE.

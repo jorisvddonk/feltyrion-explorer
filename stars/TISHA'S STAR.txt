@@ -1,0 +1,21 @@
+Star: TISHA'S STAR
+Star class: S00
+Paris coordinates: 281744, 1534683, 9315465
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- GREAS (@ large, not consistent)
+- NOSHIGRE (q quartz surface)
+- TELAPEL (f felisian)
+  - NEERGKIP (n thin atmosphere)
+- YEGROCK (r rocky, creased)
+  - WHEACH (d dusty, craterized)
+- PEARF (q quartz surface)
+  - YEFE (d dusty, craterized)
+- FELYI (f felisian)
+  - GRENI (d dusty, craterized)
+- GREPUR (k thick atmosphere)
+  - COLOGRE (d dusty, craterized)
+
+Guide entries:
+12 PLANETS, 7 PLANETS, 5 MOONS.

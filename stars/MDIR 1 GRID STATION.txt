@@ -1,0 +1,12 @@
+Star: MDIR 1 GRID STATION
+Star class: S06
+Paris coordinates: -594640, 52932157, 31629
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THIS STATION IS THE START OF THE MIRACLE DIRECT LINE. NEARBY YOU CAN        
+GET SOME GOOD VIEWS OF THE JUST ABOUT INEXPLICABLE ANOMALY KNOWN AS         
+ THE GRID                                                                   
+RYAN GJK E6011.788.973                                                      

@@ -1,0 +1,3 @@
+Planet: ASKEW 87D1
+Starmap index: 11
+Paris coordinates: 10976304, -19258322, 17845482

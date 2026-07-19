@@ -1,0 +1,3 @@
+Planet: AGOSIA V
+Starmap index: 05
+Paris coordinates: 3797488, 3655365, -1029538

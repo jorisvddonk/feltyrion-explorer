@@ -1,0 +1,3 @@
+Planet: PRENZOLAN
+Starmap index: 21
+Paris coordinates: 1983920, -25155371, 68899

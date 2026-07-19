@@ -1,0 +1,10 @@
+Star: REKNAK
+Star class: S06
+Paris coordinates: -21736592, -19550911, -350220239
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+(DISCOVERED BY SHADOWCLAW 6011:576.107)
+THERE'S NO FUEL FOR YOU HERE. (SHADOWCLAW)

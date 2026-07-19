@@ -1,0 +1,27 @@
+Star: WEISHAUPT
+Star class: S00
+Paris coordinates: 2759632, 5219210, -341691
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (k thick atmosphere)
+- JAKA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

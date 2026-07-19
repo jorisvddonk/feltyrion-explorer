@@ -1,0 +1,17 @@
+Star: CLOTHA
+Star class: S02
+Paris coordinates: 3082160, 7638623, -6946602
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- LITHAMA (d dusty, craterized)
+- FUL'RAA (+ substellar object)
+- NA'PLA (@ large, not consistent)
+- IRR'KA (d dusty, craterized)
+- CRANOS (d dusty, craterized)
+- HIJAN (k thick atmosphere)
+- RII'JA (@ large, not consistent)
+- USAARA (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.426

@@ -1,0 +1,3 @@
+Planet: BLINKERS
+Starmap index: 01
+Paris coordinates: 3452848, 4614008, -1438335

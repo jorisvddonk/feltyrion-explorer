@@ -1,0 +1,3 @@
+Planet: STUGAO 2
+Starmap index: 02
+Paris coordinates: 3177136, 4891473, -1613983

@@ -1,0 +1,17 @@
+Star: M04-3875
+Star class: S08
+Paris coordinates: -39892464, 1503533, 31669280
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- M04-3875 A (* companion star)
+- M04-3875 B (* companion star)
+- M04-3875 1 (n thin atmosphere)
+  - M04-3875 1A (d dusty, craterized)
+  - M04-3875 1B (n thin atmosphere)
+- M04-3875 2 (n thin atmosphere)
+  - M04-3875 2A (n thin atmosphere)
+  - M04-3875 2B (^ unstable)
+- M04-3875 3 (r rocky, creased)
+  - M04-3875 3A (d dusty, craterized)
+  - M04-3875 3B (n thin atmosphere)

@@ -1,0 +1,11 @@
+Star: DOULCHE
+Star class: S10
+Paris coordinates: 1611056, -3031222, 2070828
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DOULCHE1 (+ substellar object)
+- DOULCHE2 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY AIRCON. 6011.612.738.075

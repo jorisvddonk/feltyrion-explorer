@@ -1,0 +1,3 @@
+Planet: YADHA
+Starmap index: 01
+Paris coordinates: 1942128, 30770082, 1650258

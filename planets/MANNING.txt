@@ -1,0 +1,3 @@
+Planet: MANNING
+Starmap index: 03
+Paris coordinates: 5658544, 4943265, 798068

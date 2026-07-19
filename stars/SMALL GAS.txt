@@ -1,0 +1,13 @@
+Star: SMALL GAS
+Star class: S05
+Paris coordinates: 4142128, 4382625, -523481
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S05, EMITS A TINY AMOUNT OF LI+ IONS. RYAN GJK E6011.780.341                
+ STAR DISCOVERED BY MISTRAL, EPOC 6011.797.806)                             
+STAR HAS NO PLANETS AROUND IT                                               
+MOROS DOES HAVE A SMALL AMOUNT OF LITHIUM                                   
+(NOTES BY MISTRAL, EPOC 6011.797.806)                                       

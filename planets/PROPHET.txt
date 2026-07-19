@@ -1,0 +1,6 @@
+Planet: PROPHET
+Starmap index: 21
+Paris coordinates: 753936, 4228283, -2523610
+
+Guide entries:
+FELISIANPLANET DISC BY SCAREDY-CAT, EPOC 6011.584.350

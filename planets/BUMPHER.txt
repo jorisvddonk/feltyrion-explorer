@@ -1,0 +1,6 @@
+Planet: BUMPHER
+Starmap index: 12
+Paris coordinates: -1532496, -973713, 623217
+
+Guide entries:
+MORE BUBBLE-WRAP

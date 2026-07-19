@@ -1,0 +1,31 @@
+Star: FRATELLO
+Star class: S00
+Paris coordinates: 4648912, 4943891, -687845
+Bodies: 25 (8 planets, 17 moons)
+
+System:
+- BLACK PEARL (@ large, not consistent)
+- GOLD FIELD (k thick atmosphere)
+- LANCY (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (^ unstable)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (d dusty, craterized)
+- NIMSEY (+ substellar object)
+  - HERMANO (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+- CANOPUS (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- HEXA (d dusty, craterized)
+- YESTERDAY (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (d dusty, craterized)
+- GAROU (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

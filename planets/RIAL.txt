@@ -1,0 +1,7 @@
+Planet: RIAL
+Starmap index: 52
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M10/P10SMALL SOLID ICY MAROON MOTTLED WITH MAROON GROOVING PRO 0.218.520    
+PRV 0.003.022.096 SKINNYMON 6011 792.249                                    

@@ -1,0 +1,7 @@
+Planet: URMAAN-2
+Starmap index: 02
+Paris coordinates: 2170352, 5025280, -827130
+
+Guide entries:
+1.DISCOVERED BY KJ EPOC 6011:574.480
+2.NEAR AIRLESS

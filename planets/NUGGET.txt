@@ -1,0 +1,7 @@
+Planet: NUGGET
+Starmap index: 12
+Paris coordinates: 1752848, 5160015, 518853
+
+Guide entries:
+ THIS MOON LOOKS NICE FROM THE ORBIT
+(CPT. EUMEL, EPOC 6011 563.477.198)

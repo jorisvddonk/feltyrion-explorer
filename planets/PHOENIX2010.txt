@@ -1,0 +1,3 @@
+Planet: PHOENIX2010
+Starmap index: 03
+Paris coordinates: 816080, 5243706, -2675767

@@ -1,0 +1,28 @@
+Star: ONE-DER
+Star class: S00
+Paris coordinates: -625712, 9586454, 269477
+Bodies: 22 (7 planets, 15 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+- EASTER (@ large, not consistent)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (k thick atmosphere)
+- Planet #5 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)

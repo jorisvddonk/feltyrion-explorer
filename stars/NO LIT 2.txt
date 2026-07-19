@@ -1,0 +1,6 @@
+Star: NO LIT 2
+Star class: S06
+Paris coordinates: -718928, 9679840, 632321
+Bodies: 0 (0 planets, 0 moons)
+
+System:

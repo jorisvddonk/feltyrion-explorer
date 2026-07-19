@@ -1,0 +1,8 @@
+Star: SIGMA DENGIS
+Star class: S10
+Paris coordinates: 4183920, 5351796, -2121000
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (q quartz surface)

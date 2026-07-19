@@ -1,0 +1,6 @@
+Star: LHASA
+Star class: S11
+Paris coordinates: 2850000, 4292078, -2699176
+Bodies: 0 (0 planets, 0 moons)
+
+System:

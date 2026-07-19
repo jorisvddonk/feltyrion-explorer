@@ -1,0 +1,3 @@
+Planet: WTSPACECADETS
+Starmap index: 03
+Paris coordinates: -8030320, 238039, -326869

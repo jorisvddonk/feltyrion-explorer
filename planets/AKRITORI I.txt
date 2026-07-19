@@ -1,0 +1,10 @@
+Planet: AKRITORI I
+Starmap index: 22
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.531.723                              
+SURFACE IS MOSTLY FLAT WITH LARGE HILLS SPARSELY SPACED. ONE                
+NOTABLE FEATURE IS THE MOUNTAIN RANGE AT 50.58 25.-42, WHICH I HAVE         
+DECIED TO CALL 'RINGROCK'.                                                  
+(NEURONWAKE 6011 802.532.319)                                               

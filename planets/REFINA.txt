@@ -1,0 +1,3 @@
+Planet: REFINA
+Starmap index: 07
+Paris coordinates: 3660720, 7595727, -4847289

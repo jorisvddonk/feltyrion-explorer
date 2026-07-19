@@ -1,0 +1,23 @@
+Star: CAPHORACK
+Star class: S08
+Paris coordinates: 10081072, 292379, -10232107
+Bodies: 13 (4 planets, 9 moons)
+
+System:
+- CAPHORACK A (* companion star)
+- CAPHORACK B (* companion star)
+- DRAASKEN (@ large, not consistent)
+  - GLIUN (n thin atmosphere)
+  - DRUET (n thin atmosphere)
+  - HEOLM (d dusty, craterized)
+  - PHOOLPEIRT (q quartz surface)
+  - UTHEOL (d dusty, craterized)
+  - GRIOND (d dusty, craterized)
+  - SNOANG (k thick atmosphere)
+  - SCOEM (n thin atmosphere)
+- KIMONG (k thick atmosphere)
+  - SIRUG (d dusty, craterized)
+
+Guide entries:
+A CLASS S08 SYSTEM WITH 3 STARS, TWO PLANETS, 9 MOONS, NO FELISIAN
+WORLDS. SKINNYMON EPOC 6011 603.25

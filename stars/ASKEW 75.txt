@@ -1,0 +1,6 @@
+Star: ASKEW 75
+Star class: S06
+Paris coordinates: 11252016, -19283740, 17769056
+Bodies: 0 (0 planets, 0 moons)
+
+System:

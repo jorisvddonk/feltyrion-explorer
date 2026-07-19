@@ -1,0 +1,3 @@
+Planet: LIME PEBBLE 1
+Starmap index: 19
+Paris coordinates: 3077136, 4447919, -1286006

@@ -1,0 +1,3 @@
+Planet: SOLDOROS
+Starmap index: 06
+Paris coordinates: -1273200, -14300100, -1906276

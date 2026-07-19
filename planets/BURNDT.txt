@@ -1,0 +1,6 @@
+Planet: BURNDT
+Starmap index: 01
+Paris coordinates: 4648912, 5743891, -726921
+
+Guide entries:
+ROCKY CREASED NO ATMOSPHERE WELL DEFINED RINGS (KRUSTY 6011:596.538)

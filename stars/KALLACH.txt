@@ -1,0 +1,33 @@
+Star: KALLACH
+Star class: S03
+Paris coordinates: -1405536848, -1687, 1419818841
+Bodies: 19 (12 planets, 7 moons)
+
+System:
+- KALLACH MINOR (+ substellar object)
+- KALLACH II (k thick atmosphere)
+- KALLACH III (@ large, not consistent)
+- KALLACH IV (r rocky, creased)
+  - KALLACH IV A (d dusty, craterized)
+- NOXION (k thick atmosphere)
+  - NOXION A (n thin atmosphere)
+- KALENAS (f felisian)
+- KALLACH VII (r rocky, creased)
+  - KALLACH VII A (i icy surface)
+- KALLACH VIII (d dusty, craterized)
+- KALLACH IX (d dusty, craterized)
+  - KALLACH IX A (n thin atmosphere)
+- KALLACH X (i icy surface)
+  - KALLACH X A (d dusty, craterized)
+  - KALLACH X B (^ unstable)
+- KALLACH XI (d dusty, craterized)
+- KALLACH XII (d dusty, craterized)
+  - KALLACH XII A (d dusty, craterized)
+
+Guide entries:
+AN S03 RED GIANT STAR AT THE VERY EDGE OF THE GALAXY, NEAR STAR'S END.
+OUT OF THE TWELVE PLANETS, THERE ARE ONLY A COUPLE OF INTERESTING ONES
+INCLUDING KALENAS, A FELYSIAN WORLD, AND NOXION, A FLUFFY PURPLE
+DENSEWORLD. KALLACH MINOR IS THE FIRST 'PLANET', A GIANT SUBSTELLAR
+GAS GIANT WHICH I HAVE CLASSIFIED AS A COMPANION OBJECT.
+(SCHMERM 6011 601.999)

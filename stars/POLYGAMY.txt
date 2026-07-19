@@ -1,0 +1,50 @@
+Star: POLYGAMY
+Star class: S08
+Paris coordinates: -2114992, 2833754, 263597
+Bodies: 35 (5 planets, 30 moons)
+
+System:
+- POLYGAMY B (* companion star)
+  - CRESHWARTZ (r rocky, creased)
+- ERANKOR (@ large, not consistent)
+- VALMEZ (r rocky, creased)
+  - VALMEZ A (d dusty, craterized)
+  - DEEPCRATER (d dusty, craterized)
+- POLYGAMY C (* companion star)
+  - FALGORM (@ large, not consistent)
+  - VOLMAST (+ substellar object)
+  - GORPELAM (^ unstable)
+  - CRIMSON ASH (^ unstable)
+  - GROLKSH (^ unstable)
+  - YOGURT COLOSSUS (@ large, not consistent)
+  - FENNDARQ (n thin atmosphere)
+  - MAUVROR (@ large, not consistent)
+  - PHENGG (d dusty, craterized)
+  - YUM-YUM (@ large, not consistent)
+  - VILENIUS (^ unstable)
+  - RURDRYM (k thick atmosphere)
+  - LORAHN (+ substellar object)
+  - VASCEL (r rocky, creased)
+  - BLORMY (d dusty, craterized)
+  - RELENS (d dusty, craterized)
+  - GRALLK (+ substellar object)
+- POLYGAMY D (* companion star)
+  - BORSCH (@ large, not consistent)
+  - TOASTY (^ unstable)
+  - LESEVENUS (d dusty, craterized)
+  - NEVF ZOTSAMM (r rocky, creased)
+  - IELESTRON (+ substellar object)
+  - VARHELIA (f felisian)
+  - CHOCOLATE (@ large, not consistent)
+  - GEGSH (+ substellar object)
+  - HELLSOUP (^ unstable)
+  - LIOCES (^ unstable)
+
+Guide entries:
+A MULTIPLE STAR SYSTEM. (DISCOVERED BY SCHMERM 6011 583.25)
+I'VE COME BACK TO DO A FULL SURVEY OF THIS SYSTEM. FIRST OF ALL, IT
+IS A QUADRUPLE STAR SYSTEM WITH TWO CLOSELY-ORBITING ORANGE-YELLOW
+STARS, A WHITE DWARF FAR AWAY, AND ANOTHER WHITE DWARF 4 LIGHT YEARS
+AWAY. MOST OF THE PLANETS ARE GAS GIANTS OR HELLWORLDS, WITH THE
+EXCEPTION OF ONE FELYSIAN PLANET ORBITING THE DISTANT POLYGAMY D.
+THIS SYSTEM IS ABOUT 100LY FROM FELYSIA. (SCHMERM 6011 584.35)

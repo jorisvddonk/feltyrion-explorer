@@ -1,0 +1,6 @@
+Star: XNOL XIII
+Star class: S06
+Paris coordinates: 1246064, 39423526, 660810
+Bodies: 0 (0 planets, 0 moons)
+
+System:

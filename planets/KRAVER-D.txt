@@ -1,0 +1,3 @@
+Planet: KRAVER-D
+Starmap index: 04
+Paris coordinates: 3421104, -457417, -10795963

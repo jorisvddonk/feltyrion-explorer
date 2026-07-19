@@ -1,0 +1,30 @@
+Star: PURPLE SHADOW
+Star class: S09
+Paris coordinates: -68592, 5027197, 4888264
+Bodies: 21 (3 planets, 18 moons)
+
+System:
+- BLUE DAY (@ large, not consistent)
+- DARK ON DARK (@ large, not consistent)
+- GREEN JEWEL (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - BROWN RUINS (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - QUERY (^ unstable)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (k thick atmosphere)
+  - Moon #15 (^ unstable)
+  - Moon #16 (n thin atmosphere)
+  - Moon #17 (q quartz surface)
+
+Guide entries:
+(DISCOVERED 6011:571.260 BY SHADOWCLAW)

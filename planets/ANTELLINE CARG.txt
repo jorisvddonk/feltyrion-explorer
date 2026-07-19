@@ -1,0 +1,3 @@
+Planet: ANTELLINE CARG
+Starmap index: 59
+Paris coordinates: 15285680, 32141853, -7324159

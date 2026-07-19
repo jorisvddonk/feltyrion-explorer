@@ -1,0 +1,37 @@
+Star: AXIS EVKLID
+Star class: S00
+Paris coordinates: 4335344, 4895159, -1181800
+Bodies: 27 (10 planets, 17 moons)
+
+System:
+- BETO (n thin atmosphere)
+- HICHKOK (r rocky, creased)
+- PRATCHET (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- DEKAMERON (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (^ unstable)
+  - Moon #11 (^ unstable)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (n thin atmosphere)
+- SELDOR (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- JOBER (q quartz surface)
+- ADAMS (k thick atmosphere)
+- FABEL (r rocky, creased)
+- JIHAD (k thick atmosphere)
+- Planet #9 (k thick atmosphere)
+
+Guide entries:
+THIS IS MY OWN SYSTEM
+INTRUDER:)

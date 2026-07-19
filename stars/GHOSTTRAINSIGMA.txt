@@ -1,0 +1,9 @@
+Star: GHOSTTRAINSIGMA
+Star class: S10
+Paris coordinates: 4590704, 5845035, -2143554
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ STAR DISCOVERED IN EPOCH 658.668.304 BY MATTHIUS HOOD

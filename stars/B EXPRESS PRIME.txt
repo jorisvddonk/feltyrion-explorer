@@ -1,0 +1,10 @@
+Star: B EXPRESS PRIME
+Star class: S06
+Paris coordinates: 250000, -263157, -144704
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THE B EXPRESS LINE AIMS TO CONNECT BALASTRACKONASTREYA TO SOME              
+OUTER CLUSTERS. RYAN GJK E6011.788.377                                      

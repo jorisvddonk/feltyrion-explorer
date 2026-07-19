@@ -1,0 +1,7 @@
+Planet: FREMA
+Starmap index: 01
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+P01/09 VERY LARGE SUBSTELLAR OBJECT. WHITE WITH PINK TRIM. PRO 0.265.320    
+PRV 0.010.208.687 SKINNYMON EPOC 6011 791.349                               

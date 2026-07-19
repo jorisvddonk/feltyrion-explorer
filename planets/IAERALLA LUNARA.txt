@@ -1,0 +1,3 @@
+Planet: IAERALLA LUNARA
+Starmap index: 01
+Paris coordinates: 5011056, 4857736, -1353633

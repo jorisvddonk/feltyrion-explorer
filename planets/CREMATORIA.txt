@@ -1,0 +1,3 @@
+Planet: CREMATORIA
+Starmap index: 06
+Paris coordinates: 3921776, 3763420, -1571101

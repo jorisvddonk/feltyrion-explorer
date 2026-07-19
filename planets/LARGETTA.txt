@@ -1,0 +1,8 @@
+Planet: LARGETTA
+Starmap index: 05
+Paris coordinates: 1353936, 4952744, -3128537
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC. 6011:727.642.724                          
+A SUBSTELLAR SATELLITE OF LARGESS. A BEAUTIFUL FLAT RED COLOUR.             
+(RT 6011:727.642.927)                                                       

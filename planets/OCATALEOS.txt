@@ -1,0 +1,6 @@
+Planet: OCATALEOS
+Starmap index: 01
+Paris coordinates: -10272112, 5725739, 3356349
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:801.932)             

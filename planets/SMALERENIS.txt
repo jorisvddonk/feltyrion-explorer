@@ -1,0 +1,3 @@
+Planet: SMALERENIS
+Starmap index: 20
+Paris coordinates: -61263664, 29271007, 710111

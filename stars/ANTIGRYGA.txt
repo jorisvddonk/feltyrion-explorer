@@ -1,0 +1,9 @@
+Star: ANTIGRYGA
+Star class: S06
+Paris coordinates: 1077136, 47701958, 650222
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY STARMAN,EPOC 6011-789.560.531.S06. L+ GOOD..PHEW!        

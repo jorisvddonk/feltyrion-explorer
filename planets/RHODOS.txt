@@ -1,0 +1,3 @@
+Planet: RHODOS
+Starmap index: 04
+Paris coordinates: 3421776, 3825800, -1077268

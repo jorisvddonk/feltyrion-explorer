@@ -1,0 +1,3 @@
+Planet: HIRDON
+Starmap index: 05
+Paris coordinates: 3566416, 4223957, -522360

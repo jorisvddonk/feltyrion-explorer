@@ -1,0 +1,7 @@
+Planet: MALINE
+Starmap index: 12
+Paris coordinates: -408208, 3940299, -1032829
+
+Guide entries:
+MOON OF SYPH 3
+HABITABLE, MOSTLY WATER

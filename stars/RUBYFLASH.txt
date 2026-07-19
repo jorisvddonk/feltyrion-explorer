@@ -1,0 +1,16 @@
+Star: RUBYFLASH
+Star class: S03
+Paris coordinates: 6465328, 6441812, 452893
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (^ unstable)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)

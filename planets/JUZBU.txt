@@ -1,0 +1,3 @@
+Planet: JUZBU
+Starmap index: 16
+Paris coordinates: -835344, -14673956, -2040846

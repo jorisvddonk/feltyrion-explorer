@@ -1,0 +1,7 @@
+Planet: BLUE VELVET
+Starmap index: 01
+Paris coordinates: 3735344, 5273064, -639164
+
+Guide entries:
+ DISCOVERED BY MRUQE; EPOC 6011-567-926
+ GREEN, NICE SUN EFFECT. (MRUQE)

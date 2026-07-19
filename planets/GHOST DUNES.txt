@@ -1,0 +1,3 @@
+Planet: GHOST DUNES
+Starmap index: 21
+Paris coordinates: 570352, -17743, 592279

@@ -1,0 +1,7 @@
+Planet: STEREO SHAFT
+Starmap index: 01
+Paris coordinates: 3525712, 4456324, -2948682
+
+Guide entries:
+NORMAL S07 SUBSTELLAR OBJECT(I.E. RINGS, LAVENDER APPEARANCE,               
+TWO DISTINCT HEMISPHERES) RYAN GJK E6011.791.132                            

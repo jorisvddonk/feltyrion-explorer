@@ -1,0 +1,3 @@
+Planet: BROODAIN QUADREX
+Starmap index: 04
+Paris coordinates: 1398993872, 1811041, 1399341393

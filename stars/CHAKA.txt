@@ -1,0 +1,46 @@
+Star: CHAKA
+Star class: S00
+Paris coordinates: 1546064, 1448329, 276029
+Bodies: 31 (12 planets, 19 moons)
+
+System:
+- GREEN CRATE (d dusty, craterized)
+- FURPAN (k thick atmosphere)
+- BRUCOP (f felisian)
+  - LUNO (d dusty, craterized)
+- GOLOR (f felisian)
+  - SALO (n thin atmosphere)
+  - INGO (d dusty, craterized)
+  - DIMOR (n thin atmosphere)
+- GASSY 1 (+ substellar object)
+  - ANDROPA (f felisian)
+  - WHEGRIN (@ large, not consistent)
+  - FIRESIA (^ unstable)
+  - GRAPIN (d dusty, craterized)
+  - ARDVARK (d dusty, craterized)
+  - ARDVARK JR. (d dusty, craterized)
+  - FIRESIA JR. (^ unstable)
+  - BARDAL (d dusty, craterized)
+  - WATORA (f felisian)
+  - QUARTOK (q quartz surface)
+- FURPLE (k thick atmosphere)
+- DARTONOS (r rocky, creased)
+- FLOWORA (d dusty, craterized)
+- PIZA (q quartz surface)
+  - 8BALL (d dusty, craterized)
+  - ROBUR (n thin atmosphere)
+  - BURGOL (d dusty, craterized)
+- RAFARDI (r rocky, creased)
+- ELEVEN (d dusty, craterized)
+- CLOUDELLA GREEN (k thick atmosphere)
+  - CLOUDELLA FIR (n thin atmosphere)
+  - CLOUDELLA RIF (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY BJS
+THIS CLASS S00 STAR HOUSES AT LEAST TWO INTRIGUING FELYSIAN PLANETS.
+CHECK OUT THE COLD, BLUE PLANET BRUCOP. SO FAR I HAVE FOUND NO PLANTLIFE
+BUT THERE SEEMS TO BE AN ABUNDANCE OF TIGER-LIKE CREATURES AND BIRDS.
+HAVING JUST EXPLORED EVERY BODY IN THE CHAKA SYSTEM, I HAVE CONCLUDED
+THAT THIS SYSTEM CONTAINS 4 FELISIAN WORLDS. BRUCOP IS THE MOST NOTABLE.
+I PLAN ON RETIRING IN QUIET COMFORT ON BRUCOP! (NOTES BY BJS 584.195)

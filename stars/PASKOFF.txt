@@ -1,0 +1,15 @@
+Star: PASKOFF
+Star class: S00
+Paris coordinates: 5017840, 4316655, -930532
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- PASKOFF 1 (@ large, not consistent)
+- PASKOFF 2 (+ substellar object)
+- PASKOFF 3 (f felisian)
+  - PASKOFF MOON1 (d dusty, craterized)
+  - PASKOFF MOON2 (n thin atmosphere)
+  - PASKOFF MOON3 (d dusty, craterized)
+
+Guide entries:
+3 PLANETS

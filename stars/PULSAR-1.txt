@@ -1,0 +1,11 @@
+Star: PULSAR-1
+Star class: S11
+Paris coordinates: 2456784, 4349420, -2089330
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- PULSAR-1-A (@ large, not consistent)
+- PULSAR-1-B (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+- PULASR-1-D (d dusty, craterized)
+  - PULSAR-1-D-S1 (d dusty, craterized)

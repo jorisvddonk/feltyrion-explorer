@@ -1,0 +1,6 @@
+Planet: COMPLET
+Starmap index: 14
+Paris coordinates: 3111056, 4037153, 554224
+
+Guide entries:
+DISCOVERED BY MURRMURR EPOC 6011:608.338

@@ -1,0 +1,3 @@
+Planet: OLDANO
+Starmap index: 36
+Paris coordinates: 257040, 3635948, 23276965

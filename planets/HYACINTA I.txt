@@ -1,0 +1,3 @@
+Planet: HYACINTA I
+Starmap index: 01
+Paris coordinates: 778224, 1277695, -2953247

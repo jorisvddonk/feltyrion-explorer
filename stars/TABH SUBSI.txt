@@ -1,0 +1,6 @@
+Star: TABH SUBSI
+Star class: S08
+Paris coordinates: 7150000, 350000, -7250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

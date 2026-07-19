@@ -1,0 +1,3 @@
+Planet: TAGARIA
+Starmap index: 19
+Paris coordinates: 3955696, 5000472, 437976

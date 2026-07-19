@@ -1,0 +1,6 @@
+Star: QUANGCHO STAR
+Star class: S11
+Paris coordinates: 659632, -72751, 1834084
+Bodies: 0 (0 planets, 0 moons)
+
+System:

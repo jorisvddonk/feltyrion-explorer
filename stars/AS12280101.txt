@@ -1,0 +1,17 @@
+Star: AS12280101
+Star class: S02
+Paris coordinates: 47410800, 413048, 1981004440
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- AS12280101A (d dusty, craterized)
+- AS12280101B (n thin atmosphere)
+- AS12280101C (@ large, not consistent)
+- AS12280101D (n thin atmosphere)
+- AS12280101E (n thin atmosphere)
+- AS12280101F (r rocky, creased)
+- AS12280101G (d dusty, craterized)
+- AS12280101H (q quartz surface)
+
+Guide entries:
+NOT WORTH A VISIT

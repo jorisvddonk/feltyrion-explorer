@@ -1,0 +1,3 @@
+Planet: SHTANGA
+Starmap index: 05
+Paris coordinates: -104623472, 25720132, -33552

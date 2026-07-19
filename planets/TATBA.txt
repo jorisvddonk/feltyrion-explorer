@@ -1,0 +1,7 @@
+Planet: TATBA
+Starmap index: 03
+Paris coordinates: 2070474544, -1823143, 385289
+
+Guide entries:
+P03/04 SMALL SOLID THIN ATMO BRIIGHT WITH GOOD POLAR CAPS. PRO 0.144.720    
+PRV 0.046.395.704 SKINNYMON 6011 795.4                                      

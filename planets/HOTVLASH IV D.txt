@@ -1,0 +1,3 @@
+Planet: HOTVLASH IV D
+Starmap index: 08
+Paris coordinates: 3656784, -66371769, -3020393

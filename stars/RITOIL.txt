@@ -1,0 +1,9 @@
+Star: RITOIL
+Star class: S06
+Paris coordinates: 2446064, 5029519, -573184
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY TEEMU MAKI EPOC 6011:589

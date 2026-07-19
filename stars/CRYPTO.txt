@@ -1,0 +1,6 @@
+Star: CRYPTO
+Star class: S08
+Paris coordinates: 2550000, 5170581, -2394879
+Bodies: 0 (0 planets, 0 moons)
+
+System:

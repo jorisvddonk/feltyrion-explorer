@@ -1,0 +1,21 @@
+Star: ELDAR
+Star class: S00
+Paris coordinates: 69264, 2130112, 4862408
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- STORN (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+- MITHRANDIR (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:579.278

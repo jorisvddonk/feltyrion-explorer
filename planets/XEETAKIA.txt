@@ -1,0 +1,3 @@
+Planet: XEETAKIA
+Starmap index: 03
+Paris coordinates: 6493552, 5374077, -1937784

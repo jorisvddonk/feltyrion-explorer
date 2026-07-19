@@ -1,0 +1,11 @@
+Star: UURAN
+Star class: S06
+Paris coordinates: 1732496, 4983037, -641692
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FUEL STAR
+DISCOVERED BY KJ EPOC 6011:574.279
+2.NO PLANETS

@@ -1,0 +1,3 @@
+Planet: DAUGHTER
+Starmap index: 01
+Paris coordinates: 4062480, 2158003, 653795

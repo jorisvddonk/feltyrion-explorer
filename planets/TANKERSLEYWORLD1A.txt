@@ -1,0 +1,3 @@
+Planet: TANKERSLEYWORLD1A
+Starmap index: 01
+Paris coordinates: 5593552, 6755564, -1127776

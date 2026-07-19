@@ -1,0 +1,7 @@
+Planet: ARGONAS 14.11
+Starmap index: 57
+Paris coordinates: 2163568, 1586571, -1137857
+
+Guide entries:
+ ICE, COLD, SMALL, NOPE.
+(STARGAZER. EPOC 6011:596:895)

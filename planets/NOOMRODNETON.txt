@@ -1,0 +1,3 @@
+Planet: NOOMRODNETON
+Starmap index: 03
+Paris coordinates: 2056784, 6465841, -1650892

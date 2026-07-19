@@ -1,0 +1,3 @@
+Planet: 213120
+Starmap index: 44
+Paris coordinates: 4566416, 4745435, -1511147

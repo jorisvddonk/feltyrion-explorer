@@ -1,0 +1,6 @@
+Star: BLUE ERRIE
+Star class: S11
+Paris coordinates: 21081328, 5887305, 2038234
+Bodies: 0 (0 planets, 0 moons)
+
+System:

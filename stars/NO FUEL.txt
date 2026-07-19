@@ -1,0 +1,6 @@
+Star: NO FUEL
+Star class: S06
+Paris coordinates: -1793552, 468291, -2596986
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Planet: MEIA LUA
+Starmap index: 01
+Paris coordinates: -200329008, -1386821, 54950436
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER - EPOC 6011.573.158

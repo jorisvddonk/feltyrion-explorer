@@ -1,0 +1,7 @@
+Planet: FHLISAR
+Starmap index: 12
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M09/P03 SMALL SOLID DUSTY GREEN COLOR WITH DEEP CEATERS. PRO 0.270.         
+360 PRV 0.005.671.953 SKINNYMON 6011 796.381                                

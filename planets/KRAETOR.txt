@@ -1,0 +1,7 @@
+Planet: KRAETOR
+Starmap index: 01
+Paris coordinates: -1183920, -585851, -665106
+
+Guide entries:
+SMALL, SOLID, NO ATMOSPHERE. IT HAS MANY CRATERS, BIG AND SMALL.
+NYTAR, EPOC 6011:611.862

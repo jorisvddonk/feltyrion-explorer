@@ -1,0 +1,6 @@
+Star: TURMOIL
+Star class: S07
+Paris coordinates: 2387856, 4364330, -2067032
+Bodies: 0 (0 planets, 0 moons)
+
+System:

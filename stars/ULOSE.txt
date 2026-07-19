@@ -1,0 +1,13 @@
+Star: ULOSE
+Star class: S05
+Paris coordinates: 1399224944, 1579245, 1399057149
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ULOSE PRIMUS (@ large, not consistent)
+- ULOSE SECUNDUS (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:589.921
+(SO5) 2 PLANETS / 0 MIONR
+COORDINATES = 1399224944, 1579245, 1399057149

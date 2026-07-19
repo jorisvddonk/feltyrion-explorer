@@ -1,0 +1,11 @@
+Star: ASKEW 182
+Star class: S08
+Paris coordinates: 3551760, 333345, 2308899
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- ASKEW 182A (* companion star)
+  - ASKEW 182A1 (n thin atmosphere)
+- ASKEW 182B (d dusty, craterized)
+- ASKEW 182C (k thick atmosphere)
+  - ASKEW 182C1 (d dusty, craterized)

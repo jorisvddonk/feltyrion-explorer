@@ -1,0 +1,6 @@
+Planet: TING
+Starmap index: 07
+Paris coordinates: 763568, 121186, 4975
+
+Guide entries:
+DISCOVERED E6011.578.1 BY DAVIN FELTH

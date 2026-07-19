@@ -1,0 +1,14 @@
+Star: DELETRA
+Star class: S00
+Paris coordinates: 2739280, 4319060, -1223981
+Bodies: 8 (6 planets, 2 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- DELESULF (@ large, not consistent)
+- DELESCAR (r rocky, creased)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- PLESIOS (f felisian)
+- DELTHINS (n thin atmosphere)
+  - DELETHINS' PUP (n thin atmosphere)

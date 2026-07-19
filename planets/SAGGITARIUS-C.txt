@@ -1,0 +1,3 @@
+Planet: SAGGITARIUS-C
+Starmap index: 03
+Paris coordinates: 2481072, 4112682, -2525508

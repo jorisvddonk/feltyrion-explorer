@@ -1,0 +1,3 @@
+Planet: GHENGHIS
+Starmap index: 48
+Paris coordinates: 2879984, 4786591, 805414

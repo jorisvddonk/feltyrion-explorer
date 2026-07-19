@@ -1,0 +1,9 @@
+Star: ALSAKI CIV
+Star class: S06
+Paris coordinates: 14572112, 32177271, -7451409
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE FOR REFUELING

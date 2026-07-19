@@ -1,0 +1,3 @@
+Planet: HEROS
+Starmap index: 01
+Paris coordinates: 1167504, 4837930, -1943668

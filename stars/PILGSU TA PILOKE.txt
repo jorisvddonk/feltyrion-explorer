@@ -1,0 +1,6 @@
+Star: PILGSU TA PILOKE
+Star class: S06
+Paris coordinates: 308208, -31234587, 1263217
+Bodies: 0 (0 planets, 0 moons)
+
+System:

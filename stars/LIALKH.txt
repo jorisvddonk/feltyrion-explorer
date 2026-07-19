@@ -1,0 +1,9 @@
+Star: LIALKH
+Star class: S02
+Paris coordinates: -50000, 52150000, -50000
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S02 STAR, NO PLANETS.

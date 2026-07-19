@@ -1,0 +1,3 @@
+Planet: BETA 2007/1
+Starmap index: 01
+Paris coordinates: 3470352, 5685543, -2236848

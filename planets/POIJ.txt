@@ -1,0 +1,8 @@
+Planet: POIJ
+Starmap index: 40
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M07/P08 SMALL SOLID ICY. MEDIUM GREY WITH DARK GROOVES THAT SEEM TO BE      
+FEWER ON ONE HEMISPHERE. PRO 0.230.400 PRV 0.006.582.755 SKINNYMON 6011     
+792.165                                                                     

@@ -1,0 +1,3 @@
+Planet: RAFED JUM
+Starmap index: 06
+Paris coordinates: 5751088, 5886481, -9621758

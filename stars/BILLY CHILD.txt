@@ -1,0 +1,9 @@
+Star: BILLY CHILD
+Star class: S02
+Paris coordinates: 3783920, 5033902, -1784596
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- TOSHI (r rocky, creased)
+- TORU (q quartz surface)
+- MARKEE (@ large, not consistent)

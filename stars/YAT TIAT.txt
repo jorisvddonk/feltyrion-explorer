@@ -1,0 +1,12 @@
+Star: YAT TIAT
+Star class: S00
+Paris coordinates: 2081657712, -541241, -163753
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DIFHYA (q quartz surface)
+- MOAHLS (r rocky, creased)
+
+Guide entries:
+CLASS S00 STAR WITH 2 PLANETS ONLY. 1.38143933 BAL. M. TEMP 6774 K          
+RAD 19KR COOR 2081657712;-541241;-163753; SKINNYMON 6011 793.775            

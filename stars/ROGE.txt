@@ -1,0 +1,6 @@
+Star: ROGE
+Star class: S10
+Paris coordinates: 643216, 796285, -897014
+Bodies: 0 (0 planets, 0 moons)
+
+System:

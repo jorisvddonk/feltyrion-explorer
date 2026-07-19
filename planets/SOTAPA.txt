@@ -1,0 +1,7 @@
+Planet: SOTAPA
+Starmap index: 07
+Paris coordinates: 2069274544, -1807205, 1405355
+
+Guide entries:
+P07/07 MEDIUM SIZED ROCKY GREEN COLOR WITH LARGE CRATERS. PRO 0.141.120     
+PRV 0.593.335.424 SKINNYMON 6011 794.936                                    

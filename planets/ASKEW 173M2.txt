@@ -1,0 +1,3 @@
+Planet: ASKEW 173M2
+Starmap index: 44
+Paris coordinates: 5673872, -4854505, 7465503

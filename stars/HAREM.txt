@@ -1,0 +1,28 @@
+Star: HAREM
+Star class: S08
+Paris coordinates: 1353936, 4952744, -3128537
+Bodies: 12 (4 planets, 8 moons)
+
+System:
+- LARGESS (* companion star)
+  - LARGETTA (+ substellar object)
+- MAIDEN (* companion star)
+- VIOLETTESSA (@ large, not consistent)
+  - HORALESSA (^ unstable)
+  - LIMONELLA (d dusty, craterized)
+  - TANNORE (r rocky, creased)
+  - RHOSSINA (q quartz surface)
+  - BOORNENNA (^ unstable)
+  - DULLULLA (r rocky, creased)
+- DESIRROSA (d dusty, craterized)
+  - CUORROSA (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY RYLIE THOMAS, EOPC 6011:727.626.618                          
+CLASS 08 STAR, ORBITED BY 4 PLANETS AND 8 MOONS                             
+IN DETAIL. STAR LARGESS WITH ONE SUBSTELLAR BODY LARGETTA.                  
+A THIRD STAR MAIDEN. FIRST PLANET VIOLETTESSA WITH 6 MOONS HORALESSA,       
+LIMONELLA, TANNIRE, ROSSINA, BOORNESSA, AND DULLULLA.. AND A FORTH AND      
+FINAL PLANET DESIRROSA, WITH A MOON CUORROSA.                               
+THE MOST NOTABLE ITEM IS THE COMMON OCCURANCE OF IRRIDESENT WHITE STONE     
+(RYLIE THOMAS, EPOC 6011:727.645.330) SAFE JOURNEY                          

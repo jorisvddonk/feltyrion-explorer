@@ -1,0 +1,11 @@
+Star: HAERNAS
+Star class: S11
+Paris coordinates: 1487856, 6333001, -1174221
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CHARV (d dusty, craterized)
+- BAOL (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY KASGOR, 6011 610.469

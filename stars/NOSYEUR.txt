@@ -1,0 +1,9 @@
+Star: NOSYEUR
+Star class: S00
+Paris coordinates: -450000, 17755, 572308
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED EPOC 6011:565.835.271 BY FRANCOIS WISARD. NO PLANET.

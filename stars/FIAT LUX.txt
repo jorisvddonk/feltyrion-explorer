@@ -1,0 +1,21 @@
+Star: FIAT LUX
+Star class: S00
+Paris coordinates: 1471440, 4265899, -4070543
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+- IMMUTABLE (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (k thick atmosphere)
+
+Guide entries:
+ S00 STAR DISC BY SCAREDY-CATEPOC 6011.584.234

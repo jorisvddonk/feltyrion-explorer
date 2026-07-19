@@ -1,0 +1,3 @@
+Planet: NOBODY HOME
+Starmap index: 19
+Paris coordinates: 8067088, 6822211, 4701176

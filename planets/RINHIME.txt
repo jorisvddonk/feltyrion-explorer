@@ -1,0 +1,3 @@
+Planet: RINHIME
+Starmap index: 04
+Paris coordinates: 1290704, 5236991, 1155414

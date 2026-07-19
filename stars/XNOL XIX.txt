@@ -1,0 +1,6 @@
+Star: XNOL XIX
+Star class: S06
+Paris coordinates: 674288, 24907055, -983347
+Bodies: 0 (0 planets, 0 moons)
+
+System:

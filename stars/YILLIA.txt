@@ -1,0 +1,27 @@
+Star: YILLIA
+Star class: S00
+Paris coordinates: -101424, 656793, -841241
+Bodies: 21 (6 planets, 15 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+- Planet #3 (@ large, not consistent)
+  - BARRUM (f felisian)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (^ unstable)
+  - Moon #13 (f felisian)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)

@@ -1,0 +1,10 @@
+Star: FOAMY
+Star class: S07
+Paris coordinates: 7106032, -602431, 2047618
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ILL WILL (+ substellar object)
+
+Guide entries:
+STAR FOUND BY DR. WORM, EPOC 6011: 659.746

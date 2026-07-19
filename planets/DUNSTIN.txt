@@ -1,0 +1,3 @@
+Planet: DUNSTIN
+Starmap index: 01
+Paris coordinates: -144498416, -2774210, 108932822

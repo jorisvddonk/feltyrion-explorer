@@ -1,0 +1,18 @@
+Star: OPPORTUNITY
+Star class: S00
+Paris coordinates: -25712, -54450, -268003
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- DEXTRAN (r rocky, creased)
+- MANTELET (q quartz surface)
+- SUI GENERIS (f felisian)
+- EROSION (d dusty, craterized)
+  - NOOK (d dusty, craterized)
+- SODALITY (q quartz surface)
+  - FREESIA (d dusty, craterized)
+  - REACT (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 SYSTEM WITH 5 PLANETS, 3 MOONS, ONE FELISIAN WORLD.
+SKINNYMON EPOC 6011 580.927

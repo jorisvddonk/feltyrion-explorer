@@ -1,0 +1,12 @@
+Star: KEENWISE
+Star class: S02
+Paris coordinates: -1194640, 427978, 595529
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MEEK (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.575
+A 1 BODY SYSTEM. NOTHING TOO MUCH TO SEE HERE.
+SO GO SOMEWHERE ELSE.

@@ -1,0 +1,9 @@
+Planet: SURT
+Starmap index: 16
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+SURT DISCOVERED BY MISTRAL, EPOC 6011.797.807                               
+THE PLANET IS VERY COLD AND ROCKY                                           
+BOTH THE LIGHT AND DARK SIDES OF THE PLANET ARE DIFFICULT TO SEE IN         
+(NOTES BY MISTRAL EPOC 6011.797.807)                                        

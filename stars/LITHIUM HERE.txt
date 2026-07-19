@@ -1,0 +1,6 @@
+Star: LITHIUM HERE
+Star class: S06
+Paris coordinates: 4873200, 5285727, -1445634
+Bodies: 0 (0 planets, 0 moons)
+
+System:

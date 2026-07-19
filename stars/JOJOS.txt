@@ -1,0 +1,15 @@
+Star: JOJOS
+Star class: S04
+Paris coordinates: -132496, 240917, -837969
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- Planet #0 (^ unstable)
+- Planet #1 (q quartz surface)
+- KILIMA (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOCH 6011.607.998

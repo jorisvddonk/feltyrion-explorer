@@ -1,0 +1,6 @@
+Planet: ALCHEMIST 7
+Starmap index: 07
+Paris coordinates: 4448912, 4340329, -472415
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE, VERY DARK. SERPENS, 6011 665.859

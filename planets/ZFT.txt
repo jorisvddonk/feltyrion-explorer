@@ -1,0 +1,8 @@
+Planet: ZFT
+Starmap index: 03
+Paris coordinates: -625712, 37800, 65623
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED SOME FLYING CREATURES...              
+...AND A STUNNING LANDSCAPE AT SNC 198.40.                                  
+(NOTES BY FRITZ, EPOC 6011:714.981)                                         

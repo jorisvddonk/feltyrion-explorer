@@ -1,0 +1,12 @@
+Star: MARIANNA
+Star class: S09
+Paris coordinates: 5186768, 4366713, -1035312
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- ALPHA MARIANNIS (@ large, not consistent)
+
+Guide entries:
+STAR DISCOVERED ON EPOC6011.564.5.0577 BY E. SIRAVEGNA
+TWO GAS GIANTS, NO MORE TO SEE HERE. PROTOSTAR

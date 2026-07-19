@@ -1,0 +1,3 @@
+Planet: NUCLEOS
+Starmap index: 01
+Paris coordinates: -125712, -125787, -194241

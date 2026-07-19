@@ -1,0 +1,9 @@
+Star: LISTA 288
+Star class: S06
+Paris coordinates: 1940629040, -1771637, -33733
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. SKINNYMON EPOC 6011 623.683

@@ -1,0 +1,12 @@
+Star: CENTRAL 010 INT
+Star class: S06
+Paris coordinates: -125712, 30820802, -344758
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THE CENTRAL 010 INTERCHANGE: NEARBY YOU WILL FIND THE STAR                  
+AKYAY, AN 8-PLANET S02 NAMED BY STARDRIFTER RAPTORJEDI.                     
+CONTINUE ON THIS LINE TO THE ALSAKI CLUSTER OR USE THE                      
+MIRACLE DIRECT (MID) LINE TO GET TO THE GRID OR MIRACLE.                    

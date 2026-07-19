@@ -1,0 +1,30 @@
+Star: NERVALA
+Star class: S00
+Paris coordinates: 3027888, -571017, -9937342
+Bodies: 24 (5 planets, 19 moons)
+
+System:
+- NERVALA-A (k thick atmosphere)
+- NERVALA-B (k thick atmosphere)
+- NERVALA-C (r rocky, creased)
+  - NERVALA-C-S1 (^ unstable)
+  - NERVALA-C-S2 (d dusty, craterized)
+- NERVALA-D-FELYS (f felisian)
+  - NERVALA-D-S1 (n thin atmosphere)
+- NERVALA-E (@ large, not consistent)
+  - NERVALA-E-S1-FELYS (f felisian)
+  - NERVALA-E-S2 (k thick atmosphere)
+  - NERVALA-E-S3 (n thin atmosphere)
+  - NERVALA-E-S4 (d dusty, craterized)
+  - NERVALA-E-S5 (r rocky, creased)
+  - NERVALA-E-S6-FELYS (f felisian)
+  - NERVALA-E-S7 (k thick atmosphere)
+  - NERVALA-E-S8 (d dusty, craterized)
+  - NERVALA-E-S9 (q quartz surface)
+  - NERVALA-E-S10 (^ unstable)
+  - NERVALA-E-S11 (d dusty, craterized)
+  - NERVALA-E-S12 (n thin atmosphere)
+  - NERVALA-E-S13 (d dusty, craterized)
+  - NERVALA-E-S14 (r rocky, creased)
+  - NERVALA-E-S15 (r rocky, creased)
+  - NERVALA-E-S16 (^ unstable)

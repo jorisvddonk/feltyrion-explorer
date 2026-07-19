@@ -1,0 +1,7 @@
+Planet: ICECAKE
+Starmap index: 11
+Paris coordinates: 11143472, 13252185, 11768133
+
+Guide entries:
+LANDED AT LQ 000:060 AND SAW NOTHING OF INTEREST. FROZEN PLANET.            
+(NOTES BY DAWIWO, EPOCH 6011:768.488)                                       

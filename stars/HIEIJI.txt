@@ -1,0 +1,11 @@
+Star: HIEIJI
+Star class: S04
+Paris coordinates: 2111349008, -1253071, 513281
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ODISK (n thin atmosphere)
+
+Guide entries:
+CLASS S04 WITH ONE PLANET. 35.35724640 BAL, M. TEMP 61795 K RAD 75KR        
+COOR 2111349008;-1253071;513281 SKINNYMON 6011 793.198                      

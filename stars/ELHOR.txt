@@ -1,0 +1,17 @@
+Star: ELHOR
+Star class: S00
+Paris coordinates: 263568, 740889, 777398
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- AROTH (f felisian)
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.227

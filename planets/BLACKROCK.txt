@@ -1,0 +1,6 @@
+Planet: BLACKROCK
+Starmap index: 17
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.596                                    

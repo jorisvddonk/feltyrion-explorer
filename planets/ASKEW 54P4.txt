@@ -1,0 +1,3 @@
+Planet: ASKEW 54P4
+Starmap index: 60
+Paris coordinates: 10700592, -19048169, 17432791

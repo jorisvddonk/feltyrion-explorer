@@ -1,0 +1,7 @@
+Planet: MINEJEM
+Starmap index: 17
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M03/P05 SMAAL SOLID DUSTY BRIGHT YELLOW-GREEN WITH LARGE CRATERS. PRO       
+0.153.720 PRV 0.007.215.386 SKINNYMON 6011 797.98                           

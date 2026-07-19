@@ -1,0 +1,6 @@
+Star: FUEL STATION
+Star class: S06
+Paris coordinates: 32496, 144521, 1053640
+Bodies: 0 (0 planets, 0 moons)
+
+System:

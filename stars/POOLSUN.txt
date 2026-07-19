@@ -1,0 +1,23 @@
+Star: POOLSUN
+Star class: S00
+Paris coordinates: 2839280, 5119379, -1347871
+Bodies: 14 (8 planets, 6 moons)
+
+System:
+- VOMO (+ substellar object)
+- NEWARATUNSTAN (n thin atmosphere)
+- PLUMTENS (n thin atmosphere)
+  - QUENSARTON (d dusty, craterized)
+  - TELLINO (d dusty, craterized)
+- DOODOO (f felisian)
+  - DIDON (d dusty, craterized)
+- CAULDRON (^ unstable)
+- ZENZADA (n thin atmosphere)
+  - ZERELK (d dusty, craterized)
+  - IONETH (n thin atmosphere)
+- MULPERTAINE (d dusty, craterized)
+- FLUT (d dusty, craterized)
+  - FLOOT (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY FELIX, EPOC 6011:568.595

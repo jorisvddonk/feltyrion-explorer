@@ -1,0 +1,3 @@
+Planet: FRIC
+Starmap index: 35
+Paris coordinates: 21659728, 6400538, 40956614

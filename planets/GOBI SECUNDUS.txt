@@ -1,0 +1,6 @@
+Planet: GOBI SECUNDUS
+Starmap index: 21
+Paris coordinates: 4348912, 4223012, -412744
+
+Guide entries:
+DISCOVERED BY E.SIRAVEGNA ON EPOC 6011:564.667

@@ -1,0 +1,9 @@
+Star: SCOPME
+Star class: S06
+Paris coordinates: 52848, 832565, 2270757
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY POKECAT(EP 6012 1030.112)

@@ -1,0 +1,3 @@
+Planet: DRONE
+Starmap index: 07
+Paris coordinates: 1804272, 2199504, 1419721

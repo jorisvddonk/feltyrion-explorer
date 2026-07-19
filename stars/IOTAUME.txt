@@ -1,0 +1,6 @@
+Star: IOTAUME
+Star class: S01
+Paris coordinates: 50000, 51950000, -150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,8 @@
+Star: UZTA BN
+Star class: S09
+Paris coordinates: 760720, -17200987, -1886061
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MAB (^ unstable)
+- JALZ (@ large, not consistent)

@@ -1,0 +1,7 @@
+Planet: TEJHAD
+Starmap index: 03
+Paris coordinates: 2119615760, -1721227, -30011
+
+Guide entries:
+P03/06 MEDIUM SIZE ROCKY CREASED. ROUGH, GREEN, CRATERIZED, SCARRED.        
+PRO 0.162.000 PRV 0.023.067.272 SKINNYMON 792.256                           

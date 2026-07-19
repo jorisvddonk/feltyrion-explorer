@@ -1,0 +1,6 @@
+Planet: SUBTREYA
+Starmap index: 06
+Paris coordinates: 5555696, 6149718, -1148640
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.682.862 -                               

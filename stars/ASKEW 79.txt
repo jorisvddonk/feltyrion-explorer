@@ -1,0 +1,37 @@
+Star: ASKEW 79
+Star class: S09
+Paris coordinates: 11552016, -19489626, 17676794
+Bodies: 28 (6 planets, 22 moons)
+
+System:
+- ASKEW 79A (+ substellar object)
+- ASKEW 79B (+ substellar object)
+- ASKEW 79C (@ large, not consistent)
+  - ASKEW 79C1 (d dusty, craterized)
+  - ASKEW 79C2 (n thin atmosphere)
+  - ASKEW 79C3 (k thick atmosphere)
+- ASKEW 79D (+ substellar object)
+- ASKEW 79E (@ large, not consistent)
+  - ASKEW 79E1 (d dusty, craterized)
+  - SANDS SAHARA (f felisian)
+  - ASKEW 79E3 (r rocky, creased)
+  - ASKEW 79E4 (n thin atmosphere)
+  - ASKEW 79E5 (q quartz surface)
+  - ASKEW 79E6 (d dusty, craterized)
+  - ASKEW 79E7 (k thick atmosphere)
+  - ASKEW 79E8 (^ unstable)
+  - ASKEW 79E9 (k thick atmosphere)
+  - ASKEW 79E10 (k thick atmosphere)
+- ASKEW 79F (+ substellar object)
+  - ASKEW 79F1 (k thick atmosphere)
+  - ASKEW 79F2 (@ large, not consistent)
+  - ASKEW 79F3 (d dusty, craterized)
+  - ASKEW 79F4 (n thin atmosphere)
+  - ASKEW 79F5 (^ unstable)
+  - ASKEW 79F6 (k thick atmosphere)
+  - ASKEW 79F7 (k thick atmosphere)
+  - ASKEW 79F8 (d dusty, craterized)
+  - ASKEW 79F9 (n thin atmosphere)
+
+Guide entries:
+1 FELISIAN, 1 QUARTZ WORLD

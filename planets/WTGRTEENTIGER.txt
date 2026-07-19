@@ -1,0 +1,3 @@
+Planet: WTGRTEENTIGER
+Starmap index: 03
+Paris coordinates: -14762064, -554875, -3142822

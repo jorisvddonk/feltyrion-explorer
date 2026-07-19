@@ -1,0 +1,3 @@
+Planet: EDGES OF EVERYTHING
+Starmap index: 09
+Paris coordinates: 3890704, 4620850, -1463671

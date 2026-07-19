@@ -1,0 +1,12 @@
+Star: TROPICAL FRUIT
+Star class: S00
+Paris coordinates: 5982832, 5301985, -232771
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- YELLOW FRUIT (q quartz surface)
+- BLUE FRUIT (q quartz surface)
+- Planet #2 (q quartz surface)
+  - WHITE FRUIT (d dusty, craterized)
+  - PURPLE FRUIT (n thin atmosphere)
+- FLURO-AQUA FRUIT (d dusty, craterized)

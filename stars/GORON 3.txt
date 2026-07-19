@@ -1,0 +1,10 @@
+Star: GORON 3
+Star class: S07
+Paris coordinates: 8556784, 13079884, -7957636
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A SMALL BLUE DWARF, NO ORBITING BODIES.
+(N5CORP ON 6011:627.440)

@@ -1,0 +1,12 @@
+Star: ROKFHAJYL
+Star class: S00
+Paris coordinates: 634071664, -11274519, 49455753
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- MRUOBAL (@ large, not consistent)
+
+Guide entries:
+ YET ANOTHER S00 STAR WITH ONE WORLD. BETTER THAN THE GRID, I               
+SUPPOSE. 1.19959211 BAL. M.; TEMP 6190 K; RAD 21.7 KR SKINNYMON 6011        
+892.910                                                                     

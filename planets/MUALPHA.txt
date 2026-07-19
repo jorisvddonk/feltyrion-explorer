@@ -1,0 +1,3 @@
+Planet: MUALPHA
+Starmap index: 01
+Paris coordinates: 5589616, 4963084, 639843

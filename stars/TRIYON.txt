@@ -1,0 +1,14 @@
+Star: TRIYON
+Star class: S08
+Paris coordinates: 395728, -199378, -3486792
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- TRIYON-A (r rocky, creased)
+- TRIYON-BETA (* companion star)
+  - TRIYON-BETA-A (@ large, not consistent)
+  - TRIYON-BETA-B (n thin atmosphere)
+- TRIYON-GAMMA (* companion star)
+  - TRIYON-GAMMA-A (@ large, not consistent)
+- TRIYON-DELTA (* companion star)
+  - TRIYON-DELTA-A (^ unstable)

@@ -1,0 +1,3 @@
+Planet: REPIN
+Starmap index: 14
+Paris coordinates: 3973200, 4425956, -714317

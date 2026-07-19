@@ -1,0 +1,10 @@
+Star: PYRRHIC FOOLISHNESS
+Star class: S03
+Paris coordinates: 4474800, 24602, 41559233
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (+ substellar object)
+- Planet #2 (r rocky, creased)
+- Planet #3 (r rocky, creased)

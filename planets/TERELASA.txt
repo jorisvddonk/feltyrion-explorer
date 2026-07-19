@@ -1,0 +1,6 @@
+Planet: TERELASA
+Starmap index: 01
+Paris coordinates: -18928, 229680, -137040
+
+Guide entries:
+SMALL DUSTY CRATERED NO ATMOSPHERE (KRUSTY 6011.599.263)

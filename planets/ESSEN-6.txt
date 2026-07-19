@@ -1,0 +1,3 @@
+Planet: ESSEN-6
+Starmap index: 06
+Paris coordinates: -12144, 72689, 302469

@@ -1,0 +1,10 @@
+Star: CHARON'S SHIP
+Star class: S06
+Paris coordinates: 4479984, 4463093, -575170
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: AN UNSUITABLE LITHIUM STAR. UNKNOWN DISCOVERER.
+SKINNYMON EPOC 6011 569.501

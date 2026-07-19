@@ -1,0 +1,3 @@
+Planet: GABOL-F-S2
+Starmap index: 14
+Paris coordinates: 3717168, -357866, -9332558

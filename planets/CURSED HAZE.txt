@@ -1,0 +1,6 @@
+Planet: CURSED HAZE
+Starmap index: 14
+Paris coordinates: 908208, 554963, 552389
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:567.693

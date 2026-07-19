@@ -1,0 +1,3 @@
+Planet: DYAKING.2 _S
+Starmap index: 02
+Paris coordinates: 1225712, 4716037, -567956

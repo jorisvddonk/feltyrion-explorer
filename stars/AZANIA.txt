@@ -1,0 +1,25 @@
+Star: AZANIA
+Star class: S00
+Paris coordinates: 1128560, 5066859, 1663748
+Bodies: 15 (8 planets, 7 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+- SAKUYU (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (k thick atmosphere)
+  - DEBRA DOWA (f felisian)
+- Planet #5 (k thick atmosphere)
+- MATODI (f felisian)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+S00 SYSTEM FOUND BY RICHARD SOLENSKY EPOC 6011-575.928.600
+SEVENTH PLANET AND 3RD MOON OF 5TH PLANET ARE FELISIAN

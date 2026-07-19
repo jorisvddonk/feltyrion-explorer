@@ -1,0 +1,10 @@
+Star: SOLITIA
+Star class: S00
+Paris coordinates: 4177136, 5058332, -2552934
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.684.85 -                                
+ CLASS 0 STAR WITHOUT PLANETS.                                              

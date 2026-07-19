@@ -1,0 +1,9 @@
+Star: LISTA 116
+Star class: S06
+Paris coordinates: 126534448, -1878400, 163031
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ANOTHER STOP. SKINNYMON EPOC 6011 607.265

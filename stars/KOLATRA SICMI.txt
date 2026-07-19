@@ -1,0 +1,6 @@
+Star: KOLATRA SICMI
+Star class: S09
+Paris coordinates: 7350000, 950000, -7450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

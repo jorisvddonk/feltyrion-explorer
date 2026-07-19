@@ -1,0 +1,17 @@
+Star: EKA52 JUNGLE STAR
+Star class: S00
+Paris coordinates: -387856, 12094, 201267
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- MURKY DEPTHS (n thin atmosphere)
+- CLOD OF DIRT (n thin atmosphere)
+- SPARKLING WATER (d dusty, craterized)
+  - POISONOUS BERRY (d dusty, craterized)
+- BEAUTIFUL BIRD (d dusty, craterized)
+
+Guide entries:
+CLASS S00 STAR IN THE VICINITY OF 0,0,0. --EKA
+THIS STAR HAS FOUR PLANETS AND ONE MOON. IT IS HOME TO A VERY NICE
+CRATERED PLANET, BEAUTIFUL BIRD. ITS FIRST PLANET, MURKY DEPTHS, IS ALSO
+NICE. NOT A BAD SYSTEM. --EKA

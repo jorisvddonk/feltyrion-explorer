@@ -1,0 +1,6 @@
+Planet: GINKEC
+Starmap index: 02
+Paris coordinates: 3866416, 4622974, -953228
+
+Guide entries:
+DISCOVERED BY JOZE MAUCEC, EPOC 6011:565.446

@@ -1,0 +1,10 @@
+Star: FUNPRADT
+Star class: S06
+Paris coordinates: 1150494384, 1346832, 55874888
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY DODO C. SNOTTS - 6014:788.956
+REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

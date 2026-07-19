@@ -1,0 +1,9 @@
+Star: NANICUS ALBINA
+Star class: S02
+Paris coordinates: 3628560, 4654023, -897767
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- DUNGA (q quartz surface)
+- ATCHIM (q quartz surface)
+- ZANGADO (+ substellar object)

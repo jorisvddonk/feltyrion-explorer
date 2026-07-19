@@ -1,0 +1,6 @@
+Planet: FALL
+Starmap index: 03
+Paris coordinates: 4204272, 4397716, -1011668
+
+Guide entries:
+PLANET DISCOVERED BY MANUEL F. LANCTOT, AT EPOC 6011;576.193

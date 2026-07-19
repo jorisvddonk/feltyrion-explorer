@@ -1,0 +1,11 @@
+Star: OMEGA BROWN
+Star class: S05
+Paris coordinates: -12042800, -285427, -839183
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- OMEGA BROWN I (k thick atmosphere)
+
+Guide entries:
+A CLASS S05 SYSTEM WITH 1 PLANET, AND LITHIUM! SKINNYMON EPOC 6011
+586.715

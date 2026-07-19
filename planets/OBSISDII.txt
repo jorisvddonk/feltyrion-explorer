@@ -1,0 +1,3 @@
+Planet: OBSISDII
+Starmap index: 02
+Paris coordinates: 3459632, 4295682, -737647

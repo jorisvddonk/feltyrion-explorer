@@ -1,0 +1,6 @@
+Star: THULHU
+Star class: S07
+Paris coordinates: 11055696, 5988244, -6666331
+Bodies: 0 (0 planets, 0 moons)
+
+System:

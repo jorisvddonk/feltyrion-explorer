@@ -1,0 +1,3 @@
+Planet: NATALIE
+Starmap index: 01
+Paris coordinates: 4360720, -2538280, -5709743

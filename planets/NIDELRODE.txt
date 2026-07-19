@@ -1,0 +1,3 @@
+Planet: NIDELRODE
+Starmap index: 48
+Paris coordinates: -1404272, -14064165, -1675893

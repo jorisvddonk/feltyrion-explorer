@@ -1,0 +1,3 @@
+Planet: NO O2
+Starmap index: 29
+Paris coordinates: 3942128, 4305316, -442144

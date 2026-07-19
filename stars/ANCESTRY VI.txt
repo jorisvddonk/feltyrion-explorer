@@ -1,0 +1,21 @@
+Star: ANCESTRY VI
+Star class: S11
+Paris coordinates: -1412712560, 500591, 1426562335
+Bodies: 15 (4 planets, 11 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (i icy surface)
+  - Moon #1 (i icy surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (i icy surface)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (i icy surface)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (i icy surface)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (i icy surface)

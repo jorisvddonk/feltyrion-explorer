@@ -1,0 +1,13 @@
+Star: SOL BIANCA 1
+Star class: S02
+Paris coordinates: 3290704, 4337570, -909321
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- GIGANTA VEE (@ large, not consistent)
+- GIGANTA GRII (@ large, not consistent)
+- GIGANTA GREEBUMP (d dusty, craterized)
+- GIGANTA YANNAMOUN (k thick atmosphere)
+- GIGANTA GREYA (@ large, not consistent)
+- GIGANTA MASYANNAMON (@ large, not consistent)
+- GIGANTA PIIN (k thick atmosphere)

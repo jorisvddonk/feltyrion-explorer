@@ -1,0 +1,7 @@
+Planet: LESSER 1
+Starmap index: 01
+Paris coordinates: 263568, 396703, 562792
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE. RATHER DARK. DO NOT LAND.
+SERPENS, 6011 665.929

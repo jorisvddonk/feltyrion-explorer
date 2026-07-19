@@ -1,0 +1,6 @@
+Planet: BOHUM
+Starmap index: 04
+Paris coordinates: 2359632, 5058003, 162880
+
+Guide entries:
+ SEC.1.66:LARGE CANYON IN THE AREA. POKECAT(997.714.290)

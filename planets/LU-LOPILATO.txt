@@ -1,0 +1,6 @@
+Planet: LU-LOPILATO
+Starmap index: 16
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.685.837 -                               

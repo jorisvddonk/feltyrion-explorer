@@ -1,0 +1,11 @@
+Star: DAGU
+Star class: S00
+Paris coordinates: 2521776, 5115370, -220323
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DAGU 1 (d dusty, craterized)
+- DAGU 2 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.995.922)

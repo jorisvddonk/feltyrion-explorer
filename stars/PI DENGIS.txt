@@ -1,0 +1,8 @@
+Star: PI DENGIS
+Star class: S10
+Paris coordinates: 4146064, 5393991, -2233581
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)

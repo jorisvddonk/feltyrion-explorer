@@ -1,0 +1,6 @@
+Planet: PHOPH
+Starmap index: 11
+Paris coordinates: -770352, 114475, -280746
+
+Guide entries:
+DISCOVERED BY XEN MARMARIS, 6011:563.668

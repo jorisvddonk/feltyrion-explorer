@@ -1,0 +1,9 @@
+Star: EKA54 OLD GREY
+Star class: S06
+Paris coordinates: -250000, -67914, 398658
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GREY GIANT IN THE VICINITY OF 0,0,0. FUEL PRESENT. NO PLANETS. --EKA

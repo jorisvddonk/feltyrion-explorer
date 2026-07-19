@@ -1,0 +1,6 @@
+Star: DON'T BOTHER
+Star class: S09
+Paris coordinates: -518928, 365508, 409375
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Planet: ULANTAR
+Starmap index: 02
+Paris coordinates: 11307376, -19271272, 17252434
+
+Guide entries:
+FOUND EPOC 6011 586.230.000 BY ROLAND ASKEW

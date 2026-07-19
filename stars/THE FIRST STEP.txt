@@ -1,0 +1,16 @@
+Star: THE FIRST STEP
+Star class: S03
+Paris coordinates: 3752848, 4867182, -1441718
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- GOOD OMEN (q quartz surface)
+- CONTINUING THEME (q quartz surface)
+- Planet #2 (r rocky, creased)
+- THE CROSS (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+
+Guide entries:
+MY FIRST STEP SEARCHING FOR LIFE IN AN S03 SYSTEM.

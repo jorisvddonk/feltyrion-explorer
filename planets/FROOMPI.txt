@@ -1,0 +1,7 @@
+Planet: FROOMPI
+Starmap index: 16
+Paris coordinates: 81072, -77486, -118953
+
+Guide entries:
+PRESSURES CAN EXCEED 120 ATMOSPHERES ON THIS LARGE MOON.
+(SCHMERM 6011 579.659)

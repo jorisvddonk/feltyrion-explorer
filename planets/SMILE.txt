@@ -1,0 +1,3 @@
+Planet: SMILE
+Starmap index: 04
+Paris coordinates: -107304880, 24998622, -2055866

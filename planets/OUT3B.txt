@@ -1,0 +1,3 @@
+Planet: OUT3B
+Starmap index: 03
+Paris coordinates: 50480496, 4999627, -189722

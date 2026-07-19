@@ -1,0 +1,6 @@
+Star: LUIBUMFAL
+Star class: S00
+Paris coordinates: 2450000, 6650000, -2550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,61 @@
+Star: BIG SOLNEMAN
+Star class: S03
+Paris coordinates: -1339280, 428603, 53415
+Bodies: 45 (15 planets, 30 moons)
+
+System:
+- BSS PLANET 1 (n thin atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (f felisian)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (^ unstable)
+  - Moon #4 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (@ large, not consistent)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (f felisian)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (f felisian)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (k thick atmosphere)
+  - Moon #15 (n thin atmosphere)
+  - Moon #16 (n thin atmosphere)
+  - Moon #17 (k thick atmosphere)
+  - Moon #18 (d dusty, craterized)
+  - Moon #19 (^ unstable)
+- Planet #7 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (i icy surface)
+- Planet #9 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- Planet #12 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #13 (k thick atmosphere)
+- Planet #14 (n thin atmosphere)
+
+Guide entries:
+A SYSTEM OVER 13000 DYAMS DIAMETER IS BOUND BY THIS GIANT RED SUN
+ONE VERY INTERESTING TARGET IN THIS SYSTEM IS THE SUBSYSTEM OF
+MOONMASTER WITH ITS FOUR ATMOSPHERED MOONS VIOLA, SENEF, LUC AND
+MOOS. MOONMASTER ITSELF,AS A KIND OF MINISUN, IS ORBITED BY 20
+MOONS ALLTOGETHER! ANOTHER HUGE PLANET IS MAREIKE WITH ITS NICE
+RINGS, THOUGH IT ONLY HAS TWO MOONS WITHOUT LIFE.
+(SOLNEMAN AKA NILS LANDAUER, EPOC 6011:612.744)
+MEET YOU AT 'OUT'!

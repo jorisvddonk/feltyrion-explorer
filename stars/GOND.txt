@@ -1,0 +1,16 @@
+Star: GOND
+Star class: S00
+Paris coordinates: 5204272, 8031435, -1991434
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ROST I (+ substellar object)
+- ROST II (n thin atmosphere)
+- ROST III (d dusty, craterized)
+  - ROST IIIM (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY MURRMURR, EPOC 6011:607.629
+INITIAL SURVEY SHOWS SYSTEM TO HAVE 3 PLANETS, AND ONE MINOR BODY.
+WILL INVESTIGATE FURTHER.
+(NOTES BY MURRMURR EPOC 6011:607.629)

@@ -1,0 +1,8 @@
+Star: BURNING BEAUTY
+Star class: S00
+Paris coordinates: 4014992, 4520064, -2080489
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)

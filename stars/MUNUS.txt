@@ -1,0 +1,12 @@
+Star: MUNUS
+Star class: S02
+Paris coordinates: 1687856, 4844923, -1333565
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+
+Guide entries:
+A WHITE DWARF STAR WITH MULTIPLE UNNAMED PLANETS.
+-EGGOFAWESOME 6012.1036.674.***

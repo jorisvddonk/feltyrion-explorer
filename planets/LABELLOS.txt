@@ -1,0 +1,3 @@
+Planet: LABELLOS
+Starmap index: 02
+Paris coordinates: 4217840, 4551864, -231461

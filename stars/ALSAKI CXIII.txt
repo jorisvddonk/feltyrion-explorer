@@ -1,0 +1,11 @@
+Star: ALSAKI CXIII
+Star class: S03
+Paris coordinates: 14741040, 32431250, -7368054
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- REQUIEM FOR A LOVER (@ large, not consistent)
+- REQUIEM FOR A FRIEND (q quartz surface)
+- REQUIEM FOR A FOE (k thick atmosphere)
+  - THE ONE WHO LOVED ME (d dusty, craterized)
+  - THE ONE WHO HATED ME (d dusty, craterized)

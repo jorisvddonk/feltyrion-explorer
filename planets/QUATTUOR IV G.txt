@@ -1,0 +1,3 @@
+Planet: QUATTUOR IV G
+Starmap index: 15
+Paris coordinates: 3174288, 4345848, -3434396

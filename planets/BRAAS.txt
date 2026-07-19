@@ -1,0 +1,3 @@
+Planet: BRAAS
+Starmap index: 01
+Paris coordinates: 3952848, 4279972, -1864582

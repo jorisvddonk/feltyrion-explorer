@@ -1,0 +1,10 @@
+Star: GORON 5
+Star class: S07
+Paris coordinates: 9377136, 13220177, -7553523
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A SMALL BLUE DWARF, NO ORBITING BODIES, NOTHING ELSE TO REPORT.
+(N5CORP ON 6011:627.440)

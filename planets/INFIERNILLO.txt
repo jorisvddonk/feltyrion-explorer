@@ -1,0 +1,6 @@
+Planet: INFIERNILLO
+Starmap index: 01
+Paris coordinates: 3679984, 4810478, -21448
+
+Guide entries:
+DISCOVERED BY LEOW EPOCH 6011 TRIAD:579.206.550

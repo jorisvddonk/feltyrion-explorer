@@ -1,0 +1,3 @@
+Planet: S04-6812 1
+Starmap index: 01
+Paris coordinates: -39930320, 1592992, 31393538

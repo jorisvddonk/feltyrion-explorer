@@ -1,0 +1,9 @@
+Star: MALCHUS
+Star class: S00
+Paris coordinates: 2756784, 5198992, -2172505
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- MALCHUS I (k thick atmosphere)
+- MALCHUS II (d dusty, craterized)
+- MALCHUS III (f felisian)

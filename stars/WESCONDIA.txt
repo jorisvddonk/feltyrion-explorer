@@ -1,0 +1,10 @@
+Star: WESCONDIA
+Star class: S06
+Paris coordinates: 3735344, 4573064, -623297
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY NEURONWAKE EPOC 6011 802.487                             
+LITHIUM SCOPING IS CAPABLE HERE (NEURONWAKE 6011 802.487)                   

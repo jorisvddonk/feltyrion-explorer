@@ -1,0 +1,25 @@
+Star: TSEUDO-NO-HAMA
+Star class: S01
+Paris coordinates: 2966416, 3144856, 86470
+Bodies: 19 (6 planets, 13 moons)
+
+System:
+- SAIDU (k thick atmosphere)
+- NAGINATA (+ substellar object)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (f felisian)
+  - Moon #2 (^ unstable)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (q quartz surface)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)

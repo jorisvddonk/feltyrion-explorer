@@ -1,0 +1,43 @@
+Star: EXUSYL
+Star class: S04
+Paris coordinates: 3214992, 4579458, -1223743
+Bodies: 33 (8 planets, 25 moons)
+
+System:
+- PLASE (+ substellar object)
+- KEVO (d dusty, craterized)
+- ISSINIESI (+ substellar object)
+  - JANSENISM (f felisian)
+  - ALTYWAY (@ large, not consistent)
+  - EDRIWOISE (k thick atmosphere)
+  - OSKEFE (q quartz surface)
+  - PAROUSIA (f felisian)
+  - AQUIPOIME (k thick atmosphere)
+  - ETMES (^ unstable)
+  - PAAXOR (d dusty, craterized)
+  - DEIFE (r rocky, creased)
+- BEHE (+ substellar object)
+- IBOKUR (q quartz surface)
+  - AMBA (d dusty, craterized)
+  - EMBU (d dusty, craterized)
+- HASUM (+ substellar object)
+  - LOH (d dusty, craterized)
+  - LILODRON (q quartz surface)
+  - GAJARTAR (k thick atmosphere)
+  - SIGER (^ unstable)
+  - VYKURDIR (q quartz surface)
+  - LOHERVUL (q quartz surface)
+  - WAMUL (@ large, not consistent)
+  - HOPHA (k thick atmosphere)
+  - YULTO (k thick atmosphere)
+  - TYSTA (d dusty, craterized)
+  - DURM (n thin atmosphere)
+  - BEMMU (k thick atmosphere)
+  - LIRS (^ unstable)
+  - DASTE (k thick atmosphere)
+- DARK MONOLITH (n thin atmosphere)
+- CERRA (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S04 SYSTEM OF 8 PLANETS, 25 MOONS, 2 FELISIAN
+WORLDS. SKINNYMON EPOC 6011 593.14

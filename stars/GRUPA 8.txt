@@ -1,0 +1,11 @@
+Star: GRUPA 8
+Star class: S08
+Paris coordinates: -61332592, 29579358, 682926
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GRUPA 8 B (* companion star)
+
+Guide entries:
+CLASS S08 SYSTEM. ONE COMPANION STAR, NO OTHER OBJECTS. DISCOVERED BY
+MCWGOGS EPOC 6011.639.695.

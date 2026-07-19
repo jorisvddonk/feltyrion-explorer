@@ -1,0 +1,3 @@
+Planet: LOKAKUU
+Starmap index: 18
+Paris coordinates: 3173200, 5269226, 148820

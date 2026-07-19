@@ -1,0 +1,7 @@
+Star: DISTANTA
+Star class: S10
+Paris coordinates: 2102512, 4698586, -4730620
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- SOLO PRIME (@ large, not consistent)

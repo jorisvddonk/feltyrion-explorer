@@ -1,0 +1,6 @@
+Star: XNOL XVIII
+Star class: S06
+Paris coordinates: 456784, 26061371, 71899
+Bodies: 0 (0 planets, 0 moons)
+
+System:

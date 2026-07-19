@@ -1,0 +1,12 @@
+Star: STAIN
+Star class: S05
+Paris coordinates: 552848, 7334357, 1776293
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+
+Guide entries:
+A BROWN DWARF THAT GIVES OFF FUEL IONS!
+(DISCOVERED BY SCHMERM 6011 583.26)

@@ -1,0 +1,9 @@
+Planet: DORADILLO
+Starmap index: 01
+Paris coordinates: 4459632, 4949965, -2023422
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.746 -                               
+ HOT PLANET WITHOUT SURFACE.                                                
+ IMPOSSIBLE TO LANDING.                                                     
+ HAVE A SYSTEM OF RINGS. GOOD PHOTOGRAPHIC OPPORTUNITY.                     

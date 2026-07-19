@@ -1,0 +1,18 @@
+Star: JOKE
+Star class: S00
+Paris coordinates: 3777136, 4814201, -1977749
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (f felisian)
+
+Guide entries:
+VIST PLANETS 3-5

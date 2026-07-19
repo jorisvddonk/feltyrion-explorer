@@ -1,0 +1,3 @@
+Planet: FOREST HIGHLANDS
+Starmap index: 04
+Paris coordinates: -553936, 15761145, 2416903

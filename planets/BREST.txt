@@ -1,0 +1,3 @@
+Planet: BREST
+Starmap index: 34
+Paris coordinates: -21393296, -5446820, 40255542

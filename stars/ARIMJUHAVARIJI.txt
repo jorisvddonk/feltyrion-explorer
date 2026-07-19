@@ -1,0 +1,22 @@
+Star: ARIMJUHAVARIJI
+Star class: S00
+Paris coordinates: 2090751600, -1867804, -44748
+Bodies: 11 (6 planets, 5 moons)
+
+System:
+- DAFHTI (r rocky, creased)
+- KELYR (+ substellar object)
+- OBNUBLIATUS (f felisian)
+  - IOKYR (^ unstable)
+  - RUFDAK (n thin atmosphere)
+  - FHRIJ (d dusty, craterized)
+- PIATYS (r rocky, creased)
+  - LEYFH (n thin atmosphere)
+  - HAPUR (d dusty, craterized)
+- FHESAL (n thin atmosphere)
+- COIJASY (k thick atmosphere)
+
+Guide entries:
+S00 SYSTEM WITH 6 PLANETS, 5 MOONS, ONE FELISIAN WORLD.                     
+1.14577818 BAL. M. TEMP 6012 K RAD 24KR COOR 2090751600;                    
+-1867804;-44748; SKINNYMON 6011 793.770                                     

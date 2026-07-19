@@ -1,0 +1,3 @@
+Planet: PIECE OF EMERALD
+Starmap index: 13
+Paris coordinates: 3121776, 4855657, -847391

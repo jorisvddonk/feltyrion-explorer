@@ -1,0 +1,3 @@
+Planet: KANOPI ALPHA
+Starmap index: 01
+Paris coordinates: 1964656, 5605759, -4837428

@@ -1,0 +1,8 @@
+Star: MOEBIUS PRIME
+Star class: S08
+Paris coordinates: 3566416, 4354920, -625737
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (* companion star)

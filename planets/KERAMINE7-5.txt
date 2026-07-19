@@ -1,0 +1,7 @@
+Planet: KERAMINE7-5
+Starmap index: 23
+Paris coordinates: -36432, -1290440, 1061497
+
+Guide entries:
+SMALL, THIN ATMOSPHERE.
+IMPACT CRATER AT LQ-162.022

@@ -1,0 +1,11 @@
+Star: ORANDIS
+Star class: S06
+Paris coordinates: 1399193872, 2033631, 1399167599
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:589.918
+(S06) NOT LI+
+COORDINATES = 1399193872, 2033631, 1399167599

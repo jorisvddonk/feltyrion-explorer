@@ -1,0 +1,20 @@
+Star: BLUE BERTH
+Star class: S01
+Paris coordinates: 2018928, 4764914, -1771793
+Bodies: 14 (7 planets, 7 moons)
+
+System:
+- SPECKLED EGG (q quartz surface)
+- SECOND EGG (q quartz surface)
+- Planet #2 (q quartz surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (r rocky, creased)

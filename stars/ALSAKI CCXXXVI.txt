@@ -1,0 +1,6 @@
+Star: ALSAKI CCXXXVI
+Star class: S06
+Paris coordinates: 14472112, 32464300, -7227868
+Bodies: 0 (0 planets, 0 moons)
+
+System:

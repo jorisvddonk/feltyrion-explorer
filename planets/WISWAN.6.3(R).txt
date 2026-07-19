@@ -1,0 +1,3 @@
+Planet: WISWAN.6.3(R)
+Starmap index: 50
+Paris coordinates: 4276048, 4146733, 1284897

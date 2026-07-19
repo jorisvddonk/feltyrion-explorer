@@ -1,0 +1,3 @@
+Planet: SOMETHINK PINK
+Starmap index: 01
+Paris coordinates: -3127472, 448997, -3067933

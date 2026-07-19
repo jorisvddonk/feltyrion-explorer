@@ -1,0 +1,6 @@
+Planet: BASHFUL
+Starmap index: 01
+Paris coordinates: 356784, 25543, 201616
+
+Guide entries:
+SELF-EXPLANATORY IF THE NOTES ON THE STAR, EKA41, ARE READ. --EKA

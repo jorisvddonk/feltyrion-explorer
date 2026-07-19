@@ -1,0 +1,3 @@
+Planet: GUDDENCLEUR
+Starmap index: 02
+Paris coordinates: -9564912, 328278, -10520768

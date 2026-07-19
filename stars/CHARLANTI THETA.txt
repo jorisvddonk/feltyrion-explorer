@@ -1,0 +1,23 @@
+Star: CHARLANTI THETA
+Star class: S00
+Paris coordinates: 3377136, 4420152, -1540652
+Bodies: 12 (8 planets, 4 moons)
+
+System:
+- AURORA 1 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (i icy surface)
+
+Guide entries:
+DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:601.779
+WITH 8 PLANETS AND 2 MOONS.
+THIS SYSTEM HAVE NO PLANETS WITH LIFE FORMS.

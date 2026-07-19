@@ -1,0 +1,16 @@
+Star: POEM
+Star class: S08
+Paris coordinates: 3377136, 4458630, -1795513
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- TERRA FIRMA (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (^ unstable)
+- INNOCENTE (k thick atmosphere)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+MULTIPLE SYSTEM DISCOVERED BY JILANTY EPOC6011 569.74
+NOT MUCH OF INTEREST IN THIS BINARY SYSTEM

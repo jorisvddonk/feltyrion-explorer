@@ -1,0 +1,3 @@
+Planet: SURVIV
+Starmap index: 04
+Paris coordinates: 2824464, 4619388, 38273918

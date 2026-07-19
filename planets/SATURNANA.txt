@@ -1,0 +1,3 @@
+Planet: SATURNANA
+Starmap index: 05
+Paris coordinates: 51214416, 51877097, 889625

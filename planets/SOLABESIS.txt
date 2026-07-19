@@ -1,0 +1,8 @@
+Planet: SOLABESIS
+Starmap index: 02
+Paris coordinates: 634154160, -11058310, 50011242
+
+Guide entries:
+P02 NOT CONSISTENT AND LARGE, LIGHT YELLOW AND LIGHT TAN                    
+REFLECTIVITY WITH EVEN LIGHTER BUT LARGE STORMS. PRO 0.125.280; PRV         
+0.012.243.796 SKINNYMON 6011 893.111                                        

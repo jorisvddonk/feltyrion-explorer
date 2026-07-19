@@ -1,0 +1,3 @@
+Planet: IDONTWANYTONAMEITYOU
+Starmap index: 03
+Paris coordinates: 3359632, 4645485, -934073

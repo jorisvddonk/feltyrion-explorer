@@ -1,0 +1,3 @@
+Planet: TEMPOS
+Starmap index: 01
+Paris coordinates: 3521776, 4459539, -1144473

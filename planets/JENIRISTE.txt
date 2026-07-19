@@ -1,0 +1,6 @@
+Planet: JENIRISTE
+Starmap index: 11
+Paris coordinates: 1158546096, -274926, -1000180310
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:835.981)             

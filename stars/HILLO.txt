@@ -1,0 +1,12 @@
+Star: HILLO
+Star class: S06
+Paris coordinates: 3786768, 4447922, 281360
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+1.LITHIUM FUEL 2.PAR 3786840;4447933;281587
+LITHIUM FUEL
+FUEL STAR
+3786840;44447933;281587 PARSIS

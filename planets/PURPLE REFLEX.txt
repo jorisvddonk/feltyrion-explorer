@@ -1,0 +1,6 @@
+Planet: PURPLE REFLEX
+Starmap index: 01
+Paris coordinates: 3952848, 4720328, -1677869
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.809 -                               

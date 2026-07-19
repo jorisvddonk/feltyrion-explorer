@@ -1,0 +1,7 @@
+Star: ETERNAL FIRE
+Star class: S10
+Paris coordinates: -736432, 1147738, 1551120
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- HEARTH RUG (k thick atmosphere)

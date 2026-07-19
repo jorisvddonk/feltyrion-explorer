@@ -1,0 +1,3 @@
+Planet: THICK ATMOSPHERE
+Starmap index: 27
+Paris coordinates: 3942128, 4305316, -442144

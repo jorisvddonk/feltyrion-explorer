@@ -1,0 +1,55 @@
+Star: ORANGE LIFE
+Star class: S04
+Paris coordinates: -643216, 9578380, 958538
+Bodies: 32 (7 planets, 25 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (n thin atmosphere)
+- THE ORANGE MYSTERY (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+  - Moon #3 (q quartz surface)
+  - 2 (q quartz surface)
+  - 1 (d dusty, craterized)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - THE ORANGE DEAL (f felisian)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (^ unstable)
+  - Moon #13 (n thin atmosphere)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (i icy surface)
+
+Guide entries:
+NONE OF THIS STAR'S PLANETS DISPLAY IN THE G.O.E.S 'DL' COMMAND
+LISTING. ISN'T THAT ODD? UNKNOWN DISCOVERER (TWOTWOS 6012:231.189)
+IT SEEMS I'VE OVERSLEPT... I LIE DOWN FOR A SHORT NAP AND WAKE UP
+16 TRIADS SINISTER LATER HAVING HAD THE MOST AWFUL NIGHTMARE.
+AND WITH ALL MY LITHIUM EATEN. IN THE DREAM, I WATCHED ONE COMMAND
+WRONGLY TYPED IN G.O.E.S. WIPE ALL MY CONTRIBUTIONS TO THE GUIDE.
+OF COURSE SUCH A THING IS IMPOSSIBLE, BUT I TAKE THIS AS AN OMEN
+THAT I SHOULD STOP PROCRASTINATING AND HEAD BACK TO FENIA TO
+UPDATE THE MASTERCOPY, FOR WHAT FEW OTHER STARDRIFTERS MAY BE LEFT
+. IF YOU'RE READING THIS, I SUCCEEDED, AND I HOPE THAT WHAT I'VE
+WRITTEN HAS BEEN VALUABLE IN SOME WAY TO YOU. ALSO THIS SYSTEM IS
+WEIRD, I'D STAY AND DO FURTHER RESEARCH BUT IT'S SPOOKING ME OUT.
+SOME BRAVER EXPLORER CAN TAEK OVER FROM HERE. (TWOTWOS, 6012:247.2)
+OH RIGHT, THAT'S JUST BECAUSE NONE OF THEM WERE LABELLED. OKAY,
+I'M GETTING OUT OF HERE (TWOTWOS, 6012:247.3)

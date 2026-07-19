@@ -1,0 +1,6 @@
+Star: ANCESTRY XVII
+Star class: S11
+Paris coordinates: -1422384336, 1286091, 1434070203
+Bodies: 0 (0 planets, 0 moons)
+
+System:

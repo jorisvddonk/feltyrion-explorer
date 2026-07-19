@@ -1,0 +1,10 @@
+Star: GASSER
+Star class: S06
+Paris coordinates: 976976, 4375730, 37457319
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM IS HERE!
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:630:282

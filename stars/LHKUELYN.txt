@@ -1,0 +1,23 @@
+Star: LHKUELYN
+Star class: S00
+Paris coordinates: 634309520, -10801615, 49308989
+Bodies: 12 (6 planets, 6 moons)
+
+System:
+- PYDOIJ (d dusty, craterized)
+- BATAK (d dusty, craterized)
+- NAVIGET ANTICYRAM (f felisian)
+  - DIDFHL (d dusty, craterized)
+  - DYCIJ (d dusty, craterized)
+- CODAD (n thin atmosphere)
+- AFHNYM (@ large, not consistent)
+  - TOSAS (d dusty, craterized)
+  - ANOPIS (n thin atmosphere)
+  - RFHREN (r rocky, creased)
+- KOTYNFHAS (q quartz surface)
+  - DIJIOR (d dusty, craterized)
+
+Guide entries:
+CLASS S00 SYSTEM OF 6 PLANETS AND 6 MOONS, ONE FELISIAN WORLD.              
+1.01441073 BAL. M.; TEMP 5565 K; RAD 24.7 KR; COOR 634309520;               
+-10801615;49308989 SKINNYMON 6011 893.31                                    

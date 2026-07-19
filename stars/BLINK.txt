@@ -1,0 +1,28 @@
+Star: BLINK
+Star class: S11
+Paris coordinates: 4366416, 5139783, -1340666
+Bodies: 18 (3 planets, 15 moons)
+
+System:
+- IBANJ (@ large, not consistent)
+- DIMEL (@ large, not consistent)
+- VINCER (@ large, not consistent)
+  - IMPRIMIS (^ unstable)
+  - BARRATRY (r rocky, creased)
+  - OMNIUM (d dusty, craterized)
+  - ABACTOR (d dusty, craterized)
+  - NOVATION (d dusty, craterized)
+  - CHICANE (n thin atmosphere)
+  - MANUS (i icy surface)
+  - DETACHIARE (i icy surface)
+  - LARON (k thick atmosphere)
+  - EMOLUMENT (n thin atmosphere)
+  - KERN (q quartz surface)
+  - FOEDUS (i icy surface)
+  - JUDICATIO (k thick atmosphere)
+  - HONORARIUM (i icy surface)
+  - GO HENCE (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S11 SYSTEM WITH 3 PLANETS, 15 MOONS, NO FELISIAN
+WORLDS. SKINNYMON EPOC 6011 575.640

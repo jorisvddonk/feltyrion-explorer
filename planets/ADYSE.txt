@@ -1,0 +1,9 @@
+Planet: ADYSE
+Starmap index: 01
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+P01/12 SMALL SOLID THIN ATMO, A BIT DARK CONSIDERING ITS POSITION,          
+SLIGHT POLAR CAPS, BUT SPECTACULAR SUNSETS/SUNRISES- RED AT MIDPLANET,      
+PURPLE NEAR THE POLES. PRO 0.177.480 PRV 0.116.510 SKINNYMON 6011           
+797.90                                                                      

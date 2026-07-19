@@ -1,0 +1,19 @@
+Star: CLOWES
+Star class: S00
+Paris coordinates: 181072, 46421, -227392
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- GHOST WORLD (q quartz surface)
+- ENID (q quartz surface)
+- REBECCA (k thick atmosphere)
+  - JOSH (d dusty, craterized)
+- SPECIOUS (f felisian)
+  - DEDUCT (n thin atmosphere)
+  - SEYMOUR (d dusty, craterized)
+  - PURINE (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.343
+FURTHER NOTES: A CLASS S00 SYSTEM OF 4 PLANETS, 4 MOONS, ONE FELISIAN
+WORLD. SKINNYMON EPOC 6011 579.794

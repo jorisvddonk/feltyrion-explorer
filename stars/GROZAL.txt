@@ -1,0 +1,34 @@
+Star: GROZAL
+Star class: S04
+Paris coordinates: 108838448, 4900014, -80363987
+Bodies: 24 (10 planets, 14 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (d dusty, craterized)
+- GROZAL 3 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (r rocky, creased)
+  - DIENN (f felisian)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (q quartz surface)
+- Planet #3 (n thin atmosphere)
+- Planet #4 (q quartz surface)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (i icy surface)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (k thick atmosphere)
+- Planet #9 (d dusty, craterized)
+
+Guide entries:
+S04; 10 PLANETS, 14 MINORS
+DISCOVERED BY SYFEN (6011:600.211)

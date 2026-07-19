@@ -1,0 +1,9 @@
+Star: CENTRAL 014 STATION
+Star class: S06
+Paris coordinates: 15009968, 32255531, -7619253
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ALSAKI STATION.(END OF THIS LINE)                                           

@@ -1,0 +1,7 @@
+Planet: MAHIN
+Starmap index: 11
+Paris coordinates: 2140364592, -691520, 1231760
+
+Guide entries:
+M01/P06 SMALL SOLID DUSTY. LARGE CRATERS REFLECTIVE AND GREEN. PRO 0.177    
+.480 PRV 0.001.481.709 SKINNYMON 6011 791.563                               

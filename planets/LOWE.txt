@@ -1,0 +1,3 @@
+Planet: LOWE
+Starmap index: 12
+Paris coordinates: 9252848, 5586893, -7007054

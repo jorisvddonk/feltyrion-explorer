@@ -1,0 +1,11 @@
+Star: UNDREA
+Star class: S04
+Paris coordinates: 1901255760, 2110239, 54522031
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- UNDREA PRIME (q quartz surface)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.082
+(S04) 1 PLANET / 0 MINOR

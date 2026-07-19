@@ -1,0 +1,6 @@
+Star: GREY SOURCE 13
+Star class: S06
+Paris coordinates: 24945648, 50716944, -9540864
+Bodies: 0 (0 planets, 0 moons)
+
+System:

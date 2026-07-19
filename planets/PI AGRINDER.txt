@@ -1,0 +1,3 @@
+Planet: PI AGRINDER
+Starmap index: 01
+Paris coordinates: 2301424, 3538307, -1220758

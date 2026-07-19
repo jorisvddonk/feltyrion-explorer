@@ -1,0 +1,14 @@
+Star: LINTI
+Star class: S08
+Paris coordinates: 1314992, -28085909, 665371
+Bodies: 8 (6 planets, 2 moons)
+
+System:
+- GURIXO (d dusty, craterized)
+- GRUBORY (n thin atmosphere)
+- SPAYDAS (^ unstable)
+- NUHAL (q quartz surface)
+  - BXAXAKO (d dusty, craterized)
+- GRASTURX (r rocky, creased)
+  - BURKEL (n thin atmosphere)
+- RELU (d dusty, craterized)

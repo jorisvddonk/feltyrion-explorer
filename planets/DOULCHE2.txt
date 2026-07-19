@@ -1,0 +1,6 @@
+Planet: DOULCHE2
+Starmap index: 02
+Paris coordinates: 1611056, -3031222, 2070828
+
+Guide entries:
+SMALL, NO ATMOSPHERE. VISIBLE SURFACE SCARRING.

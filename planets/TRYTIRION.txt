@@ -1,0 +1,3 @@
+Planet: TRYTIRION
+Starmap index: 12
+Paris coordinates: 574288, 535718, -933464

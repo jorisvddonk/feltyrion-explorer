@@ -1,0 +1,6 @@
+Star: TLANUV ADD
+Star class: S10
+Paris coordinates: 1550000, 51150000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

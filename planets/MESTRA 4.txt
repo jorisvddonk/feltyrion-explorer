@@ -1,0 +1,3 @@
+Planet: MESTRA 4
+Starmap index: 04
+Paris coordinates: 1801277264, 1500573, 55335789

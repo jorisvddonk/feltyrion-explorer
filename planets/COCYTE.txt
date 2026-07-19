@@ -1,0 +1,7 @@
+Planet: COCYTE
+Starmap index: 37
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M02/P09 SMALL SOLID THIN ATMO, QUITE DARK WITH FAINT POLAR CAPS. PRO        
+0.131.400 PRV 0.001.342.232 SKINNYMON 6011 797.167                          

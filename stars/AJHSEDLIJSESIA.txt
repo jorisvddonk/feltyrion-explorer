@@ -1,0 +1,12 @@
+Star: AJHSEDLIJSESIA
+Star class: S00
+Paris coordinates: 634454160, -10938517, 49714803
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- RUAFHK (r rocky, creased)
+
+Guide entries:
+S00 STAR WITH ONE PLANET, I THOUGHT THERE WOULD BE MORE.                    
+2.44370317 BAL. M.; TEMP 9783 K; RAD 251.2 KR; COOR 634454160;              
+-10938517;49714803 SKINNYMON 6011 892.903                                   

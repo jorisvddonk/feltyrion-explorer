@@ -1,0 +1,6 @@
+Star: FGS UMA
+Star class: S05
+Paris coordinates: 1410950000, 50000, -1411050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

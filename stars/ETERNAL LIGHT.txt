@@ -1,0 +1,48 @@
+Star: ETERNAL LIGHT
+Star class: S00
+Paris coordinates: 3163568, 4855203, -2328742
+Bodies: 39 (6 planets, 33 moons)
+
+System:
+- DARK ABYSS (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (n thin atmosphere)
+- ISLAND OF LIFE (f felisian)
+  - FLYING CHEESE (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (^ unstable)
+  - Moon #2 (f felisian)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (^ unstable)
+  - Moon #8 (^ unstable)
+  - Moon #9 (^ unstable)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (q quartz surface)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (q quartz surface)
+  - Moon #14 (d dusty, craterized)
+  - Moon #15 (^ unstable)
+  - Moon #16 (q quartz surface)
+  - Moon #17 (k thick atmosphere)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+ TYPE: S00, YELLOW STAR, ONE PLANET WITH LIFE POSSIBILITIES

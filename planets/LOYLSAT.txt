@@ -1,0 +1,7 @@
+Planet: LOYLSAT
+Starmap index: 01
+Paris coordinates: 2070474544, -1823143, 385289
+
+Guide entries:
+P01/04 MEDIUM SIZE, ROCKY, PALE GREEN COLOR LARGE CRATERS, SCARRING         
+PRO 0.263.160 PRV 0.010.757.488 SKINNYMON 6011 7795.3                       

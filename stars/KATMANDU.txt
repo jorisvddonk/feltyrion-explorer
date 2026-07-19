@@ -1,0 +1,9 @@
+Star: KATMANDU
+Star class: S00
+Paris coordinates: -256784, -72385, 5006
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ A CLASS S00 STAR, NO PLANETS. SERPENS, 6011 665.406

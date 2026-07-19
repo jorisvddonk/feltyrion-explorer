@@ -1,0 +1,3 @@
+Planet: METNA
+Starmap index: 01
+Paris coordinates: 3962480, 5014432, 845577

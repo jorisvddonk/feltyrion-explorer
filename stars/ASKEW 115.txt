@@ -1,0 +1,10 @@
+Star: ASKEW 115
+Star class: S05
+Paris coordinates: 2246736, -12327183, 9262990
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ASKEW 115A (r rocky, creased)
+- ASKEW 115B (r rocky, creased)
+- ASKEW 115C (d dusty, craterized)
+  - ASKEW 115C1 (^ unstable)

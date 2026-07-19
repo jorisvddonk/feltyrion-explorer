@@ -1,0 +1,3 @@
+Planet: GREER
+Starmap index: 03
+Paris coordinates: 532496, 240661, 581056

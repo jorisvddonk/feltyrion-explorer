@@ -1,0 +1,3 @@
+Planet: KRAVER-C-S1
+Starmap index: 13
+Paris coordinates: 3421104, -457417, -10795963

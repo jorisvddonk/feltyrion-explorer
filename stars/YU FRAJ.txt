@@ -1,0 +1,18 @@
+Star: YU FRAJ
+Star class: S00
+Paris coordinates: 2574288, 4870940, -3071463
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- FAUX QUARTZ (d dusty, craterized)
+- YU FRAJ BETA (n thin atmosphere)
+- XENUB (k thick atmosphere)
+  - MOO ROCK (d dusty, craterized)
+
+Guide entries:
+YELLOW STAR,3 PLANETS,1 MINOR BODY
+DISCOVERED BY KJ EPOC 6011:574.898
+PLANET 1 IS SMALL,DUSTY,CRATERED,AND HAS NO ATMOSPHERE
+FURTHER NOTES:WHOEVER NAMED THIS SYSTEM PROBABLY DISLIKED S.S.D.C.          
+WORLDS(DOESN'T EVERYONE?). ANYWAY, HE LEFT TWO SUCH WORLDS UNAMED.          
+RYAN GJK E6011.791.133                                                      

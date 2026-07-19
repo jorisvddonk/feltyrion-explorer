@@ -1,0 +1,10 @@
+Star: HIGHWAY 29
+Star class: S11
+Paris coordinates: -14134672, -4955438, 20802575
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)

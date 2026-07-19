@@ -1,0 +1,3 @@
+Planet: DIAMOND
+Starmap index: 22
+Paris coordinates: 3648912, 4732863, 353992

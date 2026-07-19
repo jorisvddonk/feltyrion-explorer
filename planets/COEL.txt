@@ -1,0 +1,6 @@
+Planet: COEL
+Starmap index: 13
+Paris coordinates: -3251760, -55767, -2466093
+
+Guide entries:
+MAYIS 07/03; FELISIAN

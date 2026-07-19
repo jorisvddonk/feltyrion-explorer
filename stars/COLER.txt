@@ -1,0 +1,10 @@
+Star: COLER
+Star class: S06
+Paris coordinates: -1507120, 4842032, -3631322
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GRAY GIANT-UNSUITABLE FOR FUEL
+DISCOVERED BY KJ EPOC 6011:576.598

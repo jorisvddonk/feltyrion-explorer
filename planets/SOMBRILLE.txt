@@ -1,0 +1,7 @@
+Planet: SOMBRILLE
+Starmap index: 06
+Paris coordinates: 4459632, 4949965, -2023422
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.806 -                               
+ A PLANET WITH A LOT OF HILLS.                                              

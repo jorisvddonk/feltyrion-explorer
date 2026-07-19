@@ -1,0 +1,16 @@
+Star: JIMMY
+Star class: S00
+Paris coordinates: 3408208, 4220650, -1855031
+Bodies: 10 (7 planets, 3 moons)
+
+System:
+- BLACK RING (@ large, not consistent)
+- GREENHOUSE (r rocky, creased)
+- BIGROCK (d dusty, craterized)
+- THE BLACK ONE (k thick atmosphere)
+  - CRATERED ONE (d dusty, craterized)
+- DARK FOREST (f felisian)
+  - GREEN BLEMISH (n thin atmosphere)
+  - GHOSTLY REMINDER (d dusty, craterized)
+- VIOLET (f felisian)
+- CLOUD COVER (k thick atmosphere)

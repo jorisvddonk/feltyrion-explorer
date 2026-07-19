@@ -1,0 +1,3 @@
+Planet: CLONOS
+Starmap index: 01
+Paris coordinates: 81072, 422514, -144867

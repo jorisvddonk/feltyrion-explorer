@@ -1,0 +1,3 @@
+Planet: DETIMION
+Starmap index: 14
+Paris coordinates: 1379984, 741804, 2273781

@@ -1,0 +1,3 @@
+Planet: KROIJI
+Starmap index: 17
+Paris coordinates: 634747376, -10764602, 49182722

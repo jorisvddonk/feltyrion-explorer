@@ -1,0 +1,6 @@
+Star: GAS PUMP I
+Star class: S06
+Paris coordinates: 3608208, 5173476, -2020017
+Bodies: 0 (0 planets, 0 moons)
+
+System:

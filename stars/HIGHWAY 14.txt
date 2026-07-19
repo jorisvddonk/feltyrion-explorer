@@ -1,0 +1,6 @@
+Star: HIGHWAY 14
+Star class: S06
+Paris coordinates: -17526128, -5159415, 30474464
+Bodies: 0 (0 planets, 0 moons)
+
+System:

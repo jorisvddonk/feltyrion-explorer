@@ -1,0 +1,8 @@
+Star: GLOU
+Star class: S10
+Paris coordinates: -1066416, -15118279, -1666279
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GNARON (@ large, not consistent)
+- LIN (n thin atmosphere)

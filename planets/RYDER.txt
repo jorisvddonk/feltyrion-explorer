@@ -1,0 +1,6 @@
+Planet: RYDER
+Starmap index: 03
+Paris coordinates: 3214992, 4279458, -1320284
+
+Guide entries:
+ DISCOVERED BY MARCUS ARAC EPOC 6011:582.393

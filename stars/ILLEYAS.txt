@@ -1,0 +1,10 @@
+Star: ILLEYAS
+Star class: S06
+Paris coordinates: 2147128976, 1419686, 299725142
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.583
+(S06) LI+

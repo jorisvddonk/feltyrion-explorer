@@ -1,0 +1,6 @@
+Star: KARAS
+Star class: S05
+Paris coordinates: 2490704, -24596447, -88297
+Bodies: 0 (0 planets, 0 moons)
+
+System:

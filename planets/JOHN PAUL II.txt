@@ -1,0 +1,3 @@
+Planet: JOHN PAUL II
+Starmap index: 01
+Paris coordinates: -38192, 6102339, -5087893

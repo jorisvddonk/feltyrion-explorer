@@ -1,0 +1,3 @@
+Planet: LONELY
+Starmap index: 01
+Paris coordinates: -9664912, 326786, -10417587

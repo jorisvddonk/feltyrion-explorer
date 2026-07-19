@@ -1,0 +1,3 @@
+Planet: GODOTH
+Starmap index: 18
+Paris coordinates: 570352, -17743, 592279

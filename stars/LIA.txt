@@ -1,0 +1,8 @@
+Star: LIA
+Star class: S11
+Paris coordinates: 1383920, 5102252, 557940
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FEROAN (d dusty, craterized)
+- HIRON (n thin atmosphere)

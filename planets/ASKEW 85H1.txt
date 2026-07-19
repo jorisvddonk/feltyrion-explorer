@@ -1,0 +1,3 @@
+Planet: ASKEW 85H1
+Starmap index: 16
+Paris coordinates: 10945232, -19339777, 17862369

@@ -1,0 +1,6 @@
+Star: GM-E01-43
+Star class: S11
+Paris coordinates: 15450000, 48050000, -15550000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

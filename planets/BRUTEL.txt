@@ -1,0 +1,6 @@
+Planet: BRUTEL
+Starmap index: 19
+Paris coordinates: 1708208, -171588, -197336
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:584.58

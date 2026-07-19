@@ -1,0 +1,47 @@
+Star: GRUPA 5
+Star class: S08
+Paris coordinates: -61439376, 29916264, 239760
+Bodies: 37 (6 planets, 31 moons)
+
+System:
+- GRUPA 5 B (* companion star)
+- GRUPA 5 C (* companion star)
+  - ABSITHE (n thin atmosphere)
+- GRUPA 5 D (* companion star)
+  - RIVOTEA (q quartz surface)
+  - PLEHASIS (d dusty, craterized)
+  - BETULLIA (d dusty, craterized)
+  - RUBIGENEA (d dusty, craterized)
+  - PHENEGEA (f felisian)
+- JB 78 (+ substellar object)
+  - NUPTA (@ large, not consistent)
+  - LANERIS (k thick atmosphere)
+  - NOCELLANUS (f felisian)
+  - SVICU 9 (r rocky, creased)
+  - CALLORYPHER (k thick atmosphere)
+  - RHAMNI (k thick atmosphere)
+  - QUERCUS (q quartz surface)
+  - PENNARIA (f felisian)
+  - NEBULATA (k thick atmosphere)
+  - ILANCENIA (f felisian)
+- GRUPA 5 E (* companion star)
+  - MOENCH (k thick atmosphere)
+  - REKUREKURE 29 (r rocky, creased)
+  - PYROPATA (@ large, not consistent)
+- GRUPA 5 F (* companion star)
+  - RESEADA (n thin atmosphere)
+  - TYPHA (n thin atmosphere)
+  - THYMUS (d dusty, craterized)
+  - ATRIPLEX (n thin atmosphere)
+  - MALVEA (r rocky, creased)
+  - JB 80 (+ substellar object)
+  - JB 79 (+ substellar object)
+  - GULARE (q quartz surface)
+  - PRUNUSIS (@ large, not consistent)
+  - PRUNUS (n thin atmosphere)
+  - AVELLANEA (f felisian)
+  - JACOBAEA (f felisian)
+
+Guide entries:
+CLASS S08 MULTIPLE SYSTEM, 5 COMPANION STARS. DISCOVERED BY MCWGOGS
+EPOC 6011.639.579.

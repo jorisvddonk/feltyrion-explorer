@@ -1,0 +1,6 @@
+Star: FUEL MID-STONE
+Star class: S06
+Paris coordinates: -430190864, -1380910, 55032118
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,11 @@
+Star: LAKRO
+Star class: S01
+Paris coordinates: 3128560, 5035234, -318965
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FRUMNA (k thick atmosphere)
+
+Guide entries:
+NAMED BY XILOSCIENT (EPOC 6011:571.678)
+TYPE S01 STAR

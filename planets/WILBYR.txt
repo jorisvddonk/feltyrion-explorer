@@ -1,0 +1,3 @@
+Planet: WILBYR
+Starmap index: 07
+Paris coordinates: -194640, 6822325, -323763

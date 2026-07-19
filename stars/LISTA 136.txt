@@ -1,0 +1,9 @@
+Star: LISTA 136
+Star class: S05
+Paris coordinates: 420471024, -1948365, 245701
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S05, NO PLANETS, LITHIUM. SKINNYMON EPOC 6011 607.447

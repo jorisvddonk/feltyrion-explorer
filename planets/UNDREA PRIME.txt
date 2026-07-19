@@ -1,0 +1,3 @@
+Planet: UNDREA PRIME
+Starmap index: 01
+Paris coordinates: 1901255760, 2110239, 54522031

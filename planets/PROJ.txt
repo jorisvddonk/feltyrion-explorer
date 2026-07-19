@@ -1,0 +1,3 @@
+Planet: PROJ
+Starmap index: 01
+Paris coordinates: -23761136, -17636016, 38762648

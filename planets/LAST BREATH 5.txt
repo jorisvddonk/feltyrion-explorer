@@ -1,0 +1,3 @@
+Planet: LAST BREATH 5
+Starmap index: 05
+Paris coordinates: 2110352944, 546421, -242843

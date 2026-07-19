@@ -1,0 +1,3 @@
+Planet: BLACK PEARL
+Starmap index: 01
+Paris coordinates: 4648912, 4943891, -687845

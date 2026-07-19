@@ -1,0 +1,9 @@
+Star: TOWER 27
+Star class: S11
+Paris coordinates: 1028560, 1335530, 1767012
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.497                               

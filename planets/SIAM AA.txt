@@ -1,0 +1,10 @@
+Planet: SIAM AA
+Starmap index: 11
+Paris coordinates: 3707120, 4668114, 1667215
+
+Guide entries:
+NOTES                                                                       
+LIFE FOUND IN THE PLANET UNDER TEMPERATURES OF -116 DEGREES.                
+CD..                                                                        
+EXIT                                                                        
+END                                                                         

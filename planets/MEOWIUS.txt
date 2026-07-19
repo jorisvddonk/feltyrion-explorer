@@ -1,0 +1,6 @@
+Planet: MEOWIUS
+Starmap index: 05
+Paris coordinates: 1963568, 4622659, -1137083
+
+Guide entries:
+DISCOVERED EPOC 6011.593.640 BY SHADOW151

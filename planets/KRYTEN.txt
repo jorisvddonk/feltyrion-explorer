@@ -1,0 +1,6 @@
+Planet: KRYTEN
+Starmap index: 02
+Paris coordinates: 2939280, 4388626, -1511660
+
+Guide entries:
+ DISCOVERED BY MARCUS ARAC EPOC 6011:582.408

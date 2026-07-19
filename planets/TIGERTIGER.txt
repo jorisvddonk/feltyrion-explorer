@@ -1,0 +1,3 @@
+Planet: TIGERTIGER
+Starmap index: 05
+Paris coordinates: 36432, 133110, -695798

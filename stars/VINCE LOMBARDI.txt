@@ -1,0 +1,6 @@
+Star: VINCE LOMBARDI
+Star class: S06
+Paris coordinates: 2578224, 4648701, -4630407
+Bodies: 0 (0 planets, 0 moons)
+
+System:

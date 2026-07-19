@@ -1,0 +1,28 @@
+Star: MATRON
+Star class: S00
+Paris coordinates: -670352, 535653, -403983
+Bodies: 19 (12 planets, 7 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- FOGBANK (k thick atmosphere)
+- AZULAN (f felisian)
+- DELTERRA (f felisian)
+  - Moon #0 (n thin atmosphere)
+- LUMESCEND (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (n thin atmosphere)
+- AURIMICA (^ unstable)
+- Planet #6 (r rocky, creased)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #11 (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY LOGAN WALKER, EPOC 6011.612.810

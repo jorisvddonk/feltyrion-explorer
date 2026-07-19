@@ -1,0 +1,3 @@
+Planet: ASKEW 85D
+Starmap index: 04
+Paris coordinates: 10945232, -19339777, 17862369

@@ -1,0 +1,3 @@
+Planet: MILLIA
+Starmap index: 04
+Paris coordinates: 4479984, 4434365, -749778

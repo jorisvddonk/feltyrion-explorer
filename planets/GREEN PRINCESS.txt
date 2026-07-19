@@ -1,0 +1,3 @@
+Planet: GREEN PRINCESS
+Starmap index: 03
+Paris coordinates: 4904272, 4729963, -1676767

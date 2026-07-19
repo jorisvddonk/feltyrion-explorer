@@ -1,0 +1,3 @@
+Planet: SENIA
+Starmap index: 04
+Paris coordinates: -107022384, 25048212, -1468240

@@ -1,0 +1,3 @@
+Planet: MARBLE 2
+Starmap index: 02
+Paris coordinates: 4459632, 4223749, -1788536

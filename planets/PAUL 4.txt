@@ -1,0 +1,3 @@
+Planet: PAUL 4
+Starmap index: 04
+Paris coordinates: 4821776, 4404922, -2423773

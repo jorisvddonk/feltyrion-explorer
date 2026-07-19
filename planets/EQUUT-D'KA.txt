@@ -1,0 +1,3 @@
+Planet: EQUUT-D'KA
+Starmap index: 59
+Paris coordinates: -614992, 734031, -1219112

@@ -1,0 +1,6 @@
+Planet: ATLOSS
+Starmap index: 01
+Paris coordinates: 763568, 121186, 4975
+
+Guide entries:
+DISCOVERED E6011.577.923 BY DAVIN FELTH

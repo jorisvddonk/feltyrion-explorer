@@ -1,0 +1,7 @@
+Planet: PUKOKU
+Starmap index: 02
+Paris coordinates: 2081802352, -1452624, 162496
+
+Guide entries:
+P02/04 VERY LARGE SUBSTELLAR OBJECT LIGHT YELLOW COLOR. PRO 0.246.960       
+PRV 0.026.395.352 SKINNYMON 6011 793.825                                    

@@ -1,0 +1,7 @@
+Planet: GRENROC
+Starmap index: 02
+Paris coordinates: -1246064, -625757, -538613
+
+Guide entries:
+MEDIUM, ROCKY, NO ATMOSPHERE.
+NYTAR, EPOC 6011:611.869

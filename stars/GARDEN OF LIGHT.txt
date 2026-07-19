@@ -1,0 +1,23 @@
+Star: GARDEN OF LIGHT
+Star class: S00
+Paris coordinates: 3373200, 4448945, -113757
+Bodies: 11 (7 planets, 4 moons)
+
+System:
+- BLACK DAHLIA (k thick atmosphere)
+- GASEOUS WEIRD THINGY (@ large, not consistent)
+- DUSTY GREY MOSS (d dusty, craterized)
+  - GREEN MOON (d dusty, craterized)
+- CLOUDY WILLOW (k thick atmosphere)
+- VINEYARD (f felisian)
+  - GREEN DUST (d dusty, craterized)
+- IVY (f felisian)
+- VALLEY LAND (r rocky, creased)
+  - SCARLET MIST (n thin atmosphere)
+  - COLD CRATER (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 STAR THAT HAS A NUMBER OF PLANETS, AT LEAST ONE OF
+WHICH HAS LIFE ON IT.
+DISCOVERED BY BLAKE B. 564.188.800
+ALL PLANETS AND MOONS FOUND BY BLAKE B.

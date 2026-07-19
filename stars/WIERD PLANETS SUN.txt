@@ -1,0 +1,15 @@
+Star: WIERD PLANETS SUN
+Star class: S00
+Paris coordinates: -587856, 9540757, 456286
+Bodies: 9 (4 planets, 5 moons)
+
+System:
+- ICE BALL (q quartz surface)
+- DROOP (n thin atmosphere)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - GRAY GREEN (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)

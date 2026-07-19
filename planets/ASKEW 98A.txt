@@ -1,0 +1,3 @@
+Planet: ASKEW 98A
+Starmap index: 01
+Paris coordinates: 11669520, -19673131, 16657855

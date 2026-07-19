@@ -1,0 +1,3 @@
+Planet: NLG'2873 B
+Starmap index: 03
+Paris coordinates: 2718928, 5334162, -2425086

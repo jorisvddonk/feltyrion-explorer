@@ -1,0 +1,8 @@
+Star: ASKEW 123
+Star class: S11
+Paris coordinates: 4038864, -14066571, 10879819
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ASKEW 123A (d dusty, craterized)
+- ASKEW 123B (d dusty, craterized)

@@ -1,0 +1,6 @@
+Star: COBEEN
+Star class: S10
+Paris coordinates: 4473200, 4328699, -1025662
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Star: WAYPOINT PAPA
+Star class: S06
+Paris coordinates: -33389584, -19488370, -635415738
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOU CAN SCOPE FOR LITHIUM HERE. (SHADOWCLAE 6011:581.609)

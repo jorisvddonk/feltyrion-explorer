@@ -1,0 +1,10 @@
+Star: GEETOO-14
+Star class: S00
+Paris coordinates: 5774288, 5587050, -6132532
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- FAZIKAD (n thin atmosphere)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (^ unstable)

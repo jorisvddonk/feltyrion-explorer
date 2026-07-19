@@ -1,0 +1,10 @@
+Star: BLOTCH
+Star class: S07
+Paris coordinates: -230736, 5034909, 5265946
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BAUBLE (+ substellar object)
+
+Guide entries:
+DISCOVERED 6011:571.273 BY SHADOWCLAW

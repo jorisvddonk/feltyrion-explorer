@@ -1,0 +1,49 @@
+Star: BLUE BLOOD
+Star class: S01
+Paris coordinates: 7560720, -181007, -8743640
+Bodies: 38 (13 planets, 25 moons)
+
+System:
+- MISCIBLE (q quartz surface)
+- CONTINUO (q quartz surface)
+- HOMOLOSINE (r rocky, creased)
+  - PRILL (d dusty, craterized)
+- METACHROMATISM (k thick atmosphere)
+  - METAPHOSPHORIC (^ unstable)
+- RETICENT (k thick atmosphere)
+  - INEFFACEABLE (d dusty, craterized)
+- INEXTANT (n thin atmosphere)
+  - SPLINTERY (d dusty, craterized)
+- LAIGH (n thin atmosphere)
+  - METALLURGY (^ unstable)
+- GUMMOUS (r rocky, creased)
+- GLOWWORM (@ large, not consistent)
+  - PERUKE (r rocky, creased)
+  - ELECTRUM (k thick atmosphere)
+  - GRONLAND (i icy surface)
+  - THERMESTHESIA (^ unstable)
+  - REFRIGERATOR (i icy surface)
+- MORBILI (q quartz surface)
+  - TAGMEME (d dusty, craterized)
+  - EBONITE (n thin atmosphere)
+  - NARY (d dusty, craterized)
+- INCULT (^ unstable)
+- SIRE (+ substellar object)
+  - CROWN PRINCE (@ large, not consistent)
+  - COURT JESTER (^ unstable)
+  - DUKE (i icy surface)
+  - DUCHESS (i icy surface)
+  - MARQUESS (i icy surface)
+  - MARCHIONESS (i icy surface)
+  - EARL (i icy surface)
+  - COUNTESS (i icy surface)
+  - VISCOUNT (i icy surface)
+  - VISCOUNTESS (i icy surface)
+  - BARON (i icy surface)
+  - BARONESS (i icy surface)
+- TRISKAIDEKAPHOBIA (d dusty, craterized)
+
+Guide entries:
+A CLASS S01 STAR WITH 12 PLANETS, AND 25 MOONS. THOUGH TECHNICALLY
+PLANET 12 CONSTITUTES SOME KIND OF SUBSYSTEM.
+SKINNYMON EPOC 6011 566.392

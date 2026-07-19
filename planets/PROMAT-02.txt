@@ -1,0 +1,3 @@
+Planet: PROMAT-02
+Starmap index: 02
+Paris coordinates: 1756784, 6033924, -1223400

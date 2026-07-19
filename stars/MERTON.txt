@@ -1,0 +1,13 @@
+Star: MERTON
+Star class: S00
+Paris coordinates: 647152, 4931870, -2580842
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- GLITTER (d dusty, craterized)
+
+Guide entries:
+HAS 2 PLANETS
+DISCOVERED BY KJ EPOC 6011:574.997
+THIS SYSTEM HAS NO LIFE-BEARING PLANETS

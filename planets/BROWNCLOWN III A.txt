@@ -1,0 +1,3 @@
+Planet: BROWNCLOWN III A
+Starmap index: 04
+Paris coordinates: -2742128, 3746358, -471469

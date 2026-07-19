@@ -1,0 +1,3 @@
+Planet: TERRA CRATEA
+Starmap index: 02
+Paris coordinates: 3446064, 4608620, -1626855

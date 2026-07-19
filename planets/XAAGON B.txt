@@ -1,0 +1,3 @@
+Planet: XAAGON B
+Starmap index: 05
+Paris coordinates: -12801008, -323424, -1685534

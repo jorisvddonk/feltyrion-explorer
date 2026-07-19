@@ -1,0 +1,14 @@
+Star: ASKEW 16
+Star class: S02
+Paris coordinates: 9993136, 8520056, 8018881
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- ASKEW 16A (+ substellar object)
+- ASKEW 16B (+ substellar object)
+- UBERDEK (q quartz surface)
+- ASKEW 16D (q quartz surface)
+- ASKEW 16E (n thin atmosphere)
+- ASKEW 16F (k thick atmosphere)
+- ASKEW 16G (@ large, not consistent)
+- ASKEW 16H (n thin atmosphere)

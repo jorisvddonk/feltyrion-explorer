@@ -1,0 +1,6 @@
+Star: ASKEW 82
+Star class: S01
+Paris coordinates: 11758800, -19558925, 17693421
+Bodies: 0 (0 planets, 0 moons)
+
+System:

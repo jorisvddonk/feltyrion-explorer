@@ -1,0 +1,6 @@
+Star: FILLERUP
+Star class: S06
+Paris coordinates: 3452848, 4514008, -1338737
+Bodies: 0 (0 planets, 0 moons)
+
+System:

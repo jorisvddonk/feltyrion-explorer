@@ -1,0 +1,10 @@
+Star: VOIDAL LAMP
+Star class: S05
+Paris coordinates: 3773200, 4346237, -487472
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- UNRUFFLED REST (r rocky, creased)
+- ROCKPILE (d dusty, craterized)
+- JET-BLACK (n thin atmosphere)
+  - PRODUCT (i icy surface)

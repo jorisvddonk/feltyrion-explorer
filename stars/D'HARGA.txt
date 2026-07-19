@@ -1,0 +1,18 @@
+Star: D'HARGA
+Star class: S00
+Paris coordinates: 1770352, 4945881, -410751
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- K'TALANGA (@ large, not consistent)
+- T'SERBLA (r rocky, creased)
+- HA-KARI (f felisian)
+  - F'TUGHA (d dusty, craterized)
+  - T'KALA (d dusty, craterized)
+- P'TURG (n thin atmosphere)
+  - H'AMAR (n thin atmosphere)
+- R'KALIA (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-569.965
+WHITE CATLIKE CREATURES CAN BE FOUND HERE, ON THE PLANET HA-KARI.

@@ -1,0 +1,6 @@
+Planet: TOXADHA
+Starmap index: 01
+Paris coordinates: 767504, -67794913, -1510001
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:590

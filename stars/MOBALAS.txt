@@ -1,0 +1,10 @@
+Star: MOBALAS
+Star class: S07
+Paris coordinates: 1074288, -67376523, -1404795
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVEERED BY JAFO. EPOC 6011:584:401
+DISCOVERD BY JAFO. EPOC 6011:584:490

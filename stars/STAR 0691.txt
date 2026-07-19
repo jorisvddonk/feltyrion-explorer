@@ -1,0 +1,8 @@
+Star: STAR 0691
+Star class: S00
+Paris coordinates: -570352, -12098, -520965
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (^ unstable)

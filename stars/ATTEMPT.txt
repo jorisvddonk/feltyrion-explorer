@@ -1,0 +1,14 @@
+Star: ATTEMPT
+Star class: S00
+Paris coordinates: 5946064, 5256373, -4034547
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- TEE (@ large, not consistent)
+- SHOO (k thick atmosphere)
+- SUCE (f felisian)
+  - HOT SAT (^ unstable)
+- HOPEL (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MURRMURR EPOC 6011:608.501 (CLASS S00)

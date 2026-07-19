@@ -1,0 +1,6 @@
+Star: SAFEREST
+Star class: S06
+Paris coordinates: 4542128, 4937243, -993893
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: TYNANIAN II
+Starmap index: 02
+Paris coordinates: 4742128, 4145624, -1121731

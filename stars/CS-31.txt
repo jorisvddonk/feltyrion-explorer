@@ -1,0 +1,9 @@
+Star: CS-31
+Star class: S06
+Paris coordinates: 4469264, 4587862, 757049
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY GLENG THE GREAT EPOC 6011:566:178

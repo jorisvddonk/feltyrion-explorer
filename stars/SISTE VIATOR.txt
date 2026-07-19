@@ -1,0 +1,7 @@
+Star: SISTE VIATOR
+Star class: S10
+Paris coordinates: 2436432, 4308926, -3081273
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)

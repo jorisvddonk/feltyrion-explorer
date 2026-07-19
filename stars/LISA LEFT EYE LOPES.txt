@@ -1,0 +1,10 @@
+Star: LISA LEFT EYE LOPES
+Star class: S06
+Paris coordinates: 4673200, 4777290, -1354493
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR LITHIUM SCOPING. RCLEAR, 6011:597.581
+SUITABLE FOR LITHIUM SCOPING. R.CLEAR, 6011:597.581

@@ -1,0 +1,3 @@
+Planet: EIGBY
+Starmap index: 23
+Paris coordinates: -474288, -31859501, 1067415

@@ -1,0 +1,6 @@
+Star: GAS STATION.3
+Star class: S06
+Paris coordinates: -601424, 21860, -377354
+Bodies: 0 (0 planets, 0 moons)
+
+System:

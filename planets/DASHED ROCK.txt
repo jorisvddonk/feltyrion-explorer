@@ -1,0 +1,3 @@
+Planet: DASHED ROCK
+Starmap index: 03
+Paris coordinates: 3773200, 4027206, -299920

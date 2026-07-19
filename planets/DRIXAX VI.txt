@@ -1,0 +1,7 @@
+Planet: DRIXAX VI
+Starmap index: 19
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.531.102                              
+DID NOT LAND. STANDARD, DUSTY MOON. (NEURONWAKE 6011 802.531.138)           

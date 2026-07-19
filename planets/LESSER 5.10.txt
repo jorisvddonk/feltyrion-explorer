@@ -1,0 +1,7 @@
+Planet: LESSER 5.10
+Starmap index: 16
+Paris coordinates: 263568, 396703, 562792
+
+Guide entries:
+SMALL, ICY SURFACE, RATHER GREENISH, NOT MANY STREAKS.
+SERPENS, 6011 665.931

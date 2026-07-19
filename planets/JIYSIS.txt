@@ -1,0 +1,8 @@
+Planet: JIYSIS
+Starmap index: 05
+Paris coordinates: 2090958384, -1967570, -33666
+
+Guide entries:
+M01/P03 MEDIUM SIZED, ROCKY, SCARRED HEAVILY, LARGE CRATERS, LOOKS LIKE     
+IT WAS IN A FIGHT AND LOST. PRO 0.164.880 PRV 0.001.182.496 SKINNYMON       
+6011 793.675                                                                

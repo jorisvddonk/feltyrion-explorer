@@ -1,0 +1,8 @@
+Planet: CHINITT
+Starmap index: 23
+Paris coordinates: 2732496, 7144244, -1685433
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. THE SURFACE OF THIS MOON    
+IS COVERED BY NUMEROUS AND VAST CRATERS.                                    
+(NOTES BY NEUZD, 6011:797.126)                                              

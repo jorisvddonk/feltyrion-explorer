@@ -1,0 +1,7 @@
+Planet: PILIJIB
+Starmap index: 05
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M02/P03 SMALL SOLID THIN ATMO FAIRLY DARK, GOOD POLAR CAPS. PRO 0.268.      
+920 PRV 0.001.152.665 SKINNYMON 6011 795.92                                 

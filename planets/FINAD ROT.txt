@@ -1,0 +1,3 @@
+Planet: FINAD ROT
+Starmap index: 14
+Paris coordinates: 4869264, 4907867, 282422

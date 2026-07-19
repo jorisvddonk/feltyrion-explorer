@@ -1,0 +1,7 @@
+Planet: EXY
+Starmap index: 02
+Paris coordinates: 1404272, 699802, 1803398
+
+Guide entries:
+SUBSTELLAR PLANET WITH RINGS ORBITING A S10 STAR.                           
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.720.717)                           

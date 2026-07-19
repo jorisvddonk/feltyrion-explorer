@@ -1,0 +1,6 @@
+Star: AKYAASLE
+Star class: S09
+Paris coordinates: 7950000, -50000, -8050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

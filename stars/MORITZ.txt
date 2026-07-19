@@ -1,0 +1,17 @@
+Star: MORITZ
+Star class: S03
+Paris coordinates: 3252848, 4365390, -954754
+Bodies: 8 (5 planets, 3 moons)
+
+System:
+- MORITZ 1 (n thin atmosphere)
+- MORITZ 2 (^ unstable)
+- MORITZ 3 (n thin atmosphere)
+  - SAMUEL (d dusty, craterized)
+- MORITZ 4 (k thick atmosphere)
+  - OLOV (^ unstable)
+- MORITZ 5 (n thin atmosphere)
+  - SAMMY (d dusty, craterized)
+
+Guide entries:
+DISCOVER BY SAMUEL MORITZ EPOC6011 577.475.550

@@ -1,0 +1,6 @@
+Planet: TABBY
+Starmap index: 10
+Paris coordinates: 3683920, 4721661, -1660782
+
+Guide entries:
+ TYPICAL FELISIAN PLANET DISC BY SCAREDY-CAT,EPOC 6011.587.461

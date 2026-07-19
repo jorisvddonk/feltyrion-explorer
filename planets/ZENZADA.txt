@@ -1,0 +1,3 @@
+Planet: ZENZADA
+Starmap index: 06
+Paris coordinates: 2839280, 5119379, -1347871

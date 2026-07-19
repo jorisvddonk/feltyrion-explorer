@@ -1,0 +1,3 @@
+Planet: LUN LUN
+Starmap index: 01
+Paris coordinates: 153936, -16627251, -1898217

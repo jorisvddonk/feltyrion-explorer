@@ -1,0 +1,6 @@
+Star: HATACHI
+Star class: S06
+Paris coordinates: 2821776, 4285513, -450223
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: ICERENIS
+Starmap index: 08
+Paris coordinates: -61408304, 29262541, 167965

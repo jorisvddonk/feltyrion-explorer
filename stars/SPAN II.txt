@@ -1,0 +1,14 @@
+Star: SPAN II
+Star class: S10
+Paris coordinates: 26577904, 6324796, 44657060
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ONGE (+ substellar object)
+- PERLING (@ large, not consistent)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 STAR WITH TWO PLANETS, ONGE, THE
+FIRST, IS A SUBSTELLAR OBJECT, AND PERLING, THE SECOND, A PRETTY
+RINGED GAS GIANT.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:646:265

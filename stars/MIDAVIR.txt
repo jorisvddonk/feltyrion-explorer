@@ -1,0 +1,21 @@
+Star: MIDAVIR
+Star class: S00
+Paris coordinates: 612144, 399853, -785670
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- MEMIROS (r rocky, creased)
+- PINIR (q quartz surface)
+- ZESTI (f felisian)
+  - FEGARI (d dusty, craterized)
+  - FATSA (^ unstable)
+- KAMPIA (d dusty, craterized)
+  - HAHAT (d dusty, craterized)
+- PULFIN (@ large, not consistent)
+  - FOLLOWER (n thin atmosphere)
+  - NONOS (^ unstable)
+  - FATCAT (k thick atmosphere)
+  - MEDOUSA (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY FOTIOS. EPOC 6011:609.691

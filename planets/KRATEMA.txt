@@ -1,0 +1,6 @@
+Planet: KRATEMA
+Starmap index: 01
+Paris coordinates: 1181072, 1674764, -1247271
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.258

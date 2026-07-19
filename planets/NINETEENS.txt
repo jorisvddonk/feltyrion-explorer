@@ -1,0 +1,3 @@
+Planet: NINETEENS
+Starmap index: 01
+Paris coordinates: 1621776, 2073868, 679135

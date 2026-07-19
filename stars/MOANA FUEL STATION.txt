@@ -1,0 +1,6 @@
+Star: MOANA FUEL STATION
+Star class: S06
+Paris coordinates: -72286352, -1392117, 54869678
+Bodies: 0 (0 planets, 0 moons)
+
+System:

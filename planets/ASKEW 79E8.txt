@@ -1,0 +1,3 @@
+Planet: ASKEW 79E8
+Starmap index: 17
+Paris coordinates: 11552016, -19489626, 17676794

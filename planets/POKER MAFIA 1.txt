@@ -1,0 +1,3 @@
+Planet: POKER MAFIA 1
+Starmap index: 01
+Paris coordinates: 2452848, 4714952, -180972

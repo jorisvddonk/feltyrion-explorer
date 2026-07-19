@@ -1,0 +1,3 @@
+Planet: ARISTOICUS PRIME
+Starmap index: 01
+Paris coordinates: 2146964528, 1030716, 501036524

@@ -1,0 +1,10 @@
+Star: L4 LEG 5C
+Star class: S06
+Paris coordinates: -360470928, -253744, -1589
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STILL NO LITHIUM. THERE'S GOT TO BE A GOOD ONE AROUND HERE...
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:161

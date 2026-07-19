@@ -1,0 +1,3 @@
+Planet: ROCCO GATTO
+Starmap index: 02
+Paris coordinates: 4266416, 4755884, -1209525

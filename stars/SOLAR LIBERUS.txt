@@ -1,0 +1,6 @@
+Star: SOLAR LIBERUS
+Star class: S00
+Paris coordinates: -832496, 104789, 64393
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,9 @@
+Star: ANCESTRY XLII
+Star class: S02
+Paris coordinates: -1434334672, 1429753, 1440981801
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S02 WITH NO PLANETS. RYAN GJK E6011.787.929                              

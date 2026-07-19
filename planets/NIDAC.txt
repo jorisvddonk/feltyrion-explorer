@@ -1,0 +1,6 @@
+Planet: NIDAC
+Starmap index: 02
+Paris coordinates: 994640, -139762, -233042
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.248

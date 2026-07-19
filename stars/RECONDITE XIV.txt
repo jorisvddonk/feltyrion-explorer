@@ -1,0 +1,6 @@
+Star: RECONDITE XIV
+Star class: S06
+Paris coordinates: 733650000, 23150000, -733750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

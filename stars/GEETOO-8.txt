@@ -1,0 +1,9 @@
+Star: GEETOO-8
+Star class: S06
+Paris coordinates: 5670352, 5342272, -4475298
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ MAY FIND FUEL HERE. DISCOVERED IN 6011.629.844

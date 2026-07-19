@@ -1,0 +1,6 @@
+Planet: DEPRESJA
+Starmap index: 01
+Paris coordinates: 3546064, 4606530, -1639650
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-569.499

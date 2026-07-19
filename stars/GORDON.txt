@@ -1,0 +1,28 @@
+Star: GORDON
+Star class: S00
+Paris coordinates: 163568, 539378, 600556
+Bodies: 22 (7 planets, 15 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (d dusty, craterized)
+- FREEMAN (n thin atmosphere)
+- EMBASSY (f felisian)
+- Planet #5 (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (^ unstable)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (^ unstable)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (@ large, not consistent)
+- Planet #6 (d dusty, craterized)

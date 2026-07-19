@@ -1,0 +1,6 @@
+Star: USELESS GREY
+Star class: S06
+Paris coordinates: 3770352, 5281363, -2577971
+Bodies: 0 (0 planets, 0 moons)
+
+System:

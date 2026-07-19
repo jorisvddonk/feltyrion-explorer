@@ -1,0 +1,3 @@
+Planet: NERRE
+Starmap index: 01
+Paris coordinates: 1456784, -21673561, -896585

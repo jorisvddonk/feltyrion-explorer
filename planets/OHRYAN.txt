@@ -1,0 +1,7 @@
+Planet: OHRYAN
+Starmap index: 04
+Paris coordinates: -1205360, -63627, 1935255
+
+Guide entries:
+ P04 OF S00 AMSCRAY. FELISIAN,RINGED, 1 MOON. DISC BY SCAREDY-CAT, EPOC
+6011.596.843.

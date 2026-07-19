@@ -1,0 +1,3 @@
+Planet: BULBI-07-E
+Starmap index: 35
+Paris coordinates: 2101424, 6142806, -960659

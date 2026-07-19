@@ -1,0 +1,13 @@
+Star: ONE PAIR
+Star class: S08
+Paris coordinates: 4442128, 4548589, -869654
+Bodies: 3 (1 planets, 2 moons)
+
+System:
+- JACKS OR BETTER (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (q quartz surface)
+
+Guide entries:
+AN S08 DOUBLE STAR, NO PLANETS. BUT NICE AND CLOSE TOGETHER FOR
+PHOTOS. SKINNYMON EPOC 6011 574.161

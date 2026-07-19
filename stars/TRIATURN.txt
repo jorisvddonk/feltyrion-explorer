@@ -1,0 +1,38 @@
+Star: TRIATURN
+Star class: S08
+Paris coordinates: 4924624, 4489659, -461091
+Bodies: 25 (6 planets, 19 moons)
+
+System:
+- Planet #0 (* companion star)
+- TRIUN (* companion star)
+  - DEXQUI (f felisian)
+  - DUODO (r rocky, creased)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- ETHUN (r rocky, creased)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (k thick atmosphere)
+- UNVENI (* companion star)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+  - Moon #3 (r rocky, creased)
+  - MAXVEN (@ large, not consistent)
+  - Moon #5 (d dusty, craterized)
+
+Guide entries:
+A S08 SYSTEM WITH 6 PLANETS AND 19 MINOR BODIES.                            
+I GAVE UP TRYING TO MAP THIS SYSTEM, I WANT TO REVISIT THE                  
+SURICRASIAN CUBE. S08'S ARE A BIT TOO CONFUSING AND THEY TEST MY            
+PATIENCE.                                                                   
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:712.7.40)                              

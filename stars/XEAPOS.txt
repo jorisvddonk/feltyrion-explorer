@@ -1,0 +1,12 @@
+Star: XEAPOS
+Star class: S01
+Paris coordinates: 1400283152, 1888863, 1399275151
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- XEAPOS PRIMUS (@ large, not consistent)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:608.948
+(S01) 1 PLANET / 0 MINOR
+COORDINATES = 1400283152, 1888863, 1399275151

@@ -1,0 +1,3 @@
+Planet: GLASS MEMORIES
+Starmap index: 12
+Paris coordinates: 4028560, 4341484, -1331484

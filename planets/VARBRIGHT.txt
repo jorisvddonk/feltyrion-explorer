@@ -1,0 +1,3 @@
+Planet: VARBRIGHT
+Starmap index: 17
+Paris coordinates: 243216, 51201, -462028

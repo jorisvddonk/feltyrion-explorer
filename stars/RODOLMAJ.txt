@@ -1,0 +1,6 @@
+Star: RODOLMAJ
+Star class: S09
+Paris coordinates: 7350000, 150000, -7450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

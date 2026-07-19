@@ -1,0 +1,24 @@
+Star: ASKEW 118
+Star class: S00
+Paris coordinates: 2760304, -12707569, 9635909
+Bodies: 15 (9 planets, 6 moons)
+
+System:
+- ASKEW 118A (d dusty, craterized)
+- ASKEW 118B (r rocky, creased)
+- PHLEBIAN (f felisian)
+  - ASKEW 118C1 (d dusty, craterized)
+  - ASKEW 118C2 (d dusty, craterized)
+  - ASKEW 118C3 (d dusty, craterized)
+- MERCHANTILE (f felisian)
+- ASKEW 118E (n thin atmosphere)
+  - ASKEW 118E1 (d dusty, craterized)
+- ASKEW 118F (d dusty, craterized)
+  - ASKEW 118F1 (n thin atmosphere)
+- ASKEW 118G (d dusty, craterized)
+- ASKEW 118H (k thick atmosphere)
+  - ASKEW 118H1 (^ unstable)
+- ASKEW 118I (r rocky, creased)
+
+Guide entries:
+2 FELISIAN WORLDS

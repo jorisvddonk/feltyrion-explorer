@@ -1,0 +1,7 @@
+Planet: ETEJY
+Starmap index: 13
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M02/P03 SMALL DUSTY GREY WITH ONLY A FEW SIZEABLE CRATERS. PRO 0.163.800    
+PRV 0.004.929.604 SKINNYMON 6011 791.990                                    

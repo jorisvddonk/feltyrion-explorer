@@ -1,0 +1,3 @@
+Planet: ATRAONIKS
+Starmap index: 02
+Paris coordinates: 270352, 5086437, 857022

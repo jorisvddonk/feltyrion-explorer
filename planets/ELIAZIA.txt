@@ -1,0 +1,3 @@
+Planet: ELIAZIA
+Starmap index: 14
+Paris coordinates: 3955696, 5000472, 437976

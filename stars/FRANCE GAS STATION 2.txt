@@ -1,0 +1,6 @@
+Star: FRANCE GAS STATION 2
+Star class: S06
+Paris coordinates: -21510800, -5522855, 41277351
+Bodies: 0 (0 planets, 0 moons)
+
+System:

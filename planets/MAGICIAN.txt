@@ -1,0 +1,3 @@
+Planet: MAGICIAN
+Starmap index: 27
+Paris coordinates: -729648, -55940, 1873342

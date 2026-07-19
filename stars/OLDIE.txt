@@ -1,0 +1,10 @@
+Star: OLDIE
+Star class: S10
+Paris coordinates: 3952848, 4720328, -1677869
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PURPLE REFLEX (q quartz surface)
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.809 -                               

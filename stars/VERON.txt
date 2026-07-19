@@ -1,0 +1,57 @@
+Star: VERON
+Star class: S00
+Paris coordinates: 2359632, 5058003, 162880
+Bodies: 45 (10 planets, 35 moons)
+
+System:
+- LION (n thin atmosphere)
+- PENA (r rocky, creased)
+- MIRO (+ substellar object)
+  - LIATH (^ unstable)
+  - LORAN (@ large, not consistent)
+  - MUSAKA (f felisian)
+  - LARINX (k thick atmosphere)
+  - KASIOPEQ (r rocky, creased)
+  - LEN (n thin atmosphere)
+  - LAINO (k thick atmosphere)
+  - Moon #7 (d dusty, craterized)
+  - FELISIAN DREAM (f felisian)
+  - KRAKATAU (^ unstable)
+  - LINOANES (r rocky, creased)
+  - CHAIN (@ large, not consistent)
+  - CHAIN 2 (@ large, not consistent)
+  - VESUVIE (^ unstable)
+  - ETNA 2 (^ unstable)
+  - ARIANA (n thin atmosphere)
+  - RIN (k thick atmosphere)
+  - ARIANA 2 (@ large, not consistent)
+  - OPENAR (r rocky, creased)
+  - CHAIN 3 (@ large, not consistent)
+- BOHUM (f felisian)
+  - HICHIKER (n thin atmosphere)
+- URIJ (r rocky, creased)
+  - BURSTEIN (d dusty, craterized)
+- LIROI (+ substellar object)
+- MICHO SHAMARA (@ large, not consistent)
+  - POLE (i icy surface)
+  - CHAIN 4 (d dusty, craterized)
+  - ANTARCTIK (i icy surface)
+  - ANT (i icy surface)
+  - KARLSON (n thin atmosphere)
+  - PIPI (r rocky, creased)
+  - EMIL (f felisian)
+  - CHARLSTON (k thick atmosphere)
+  - DULSINEA (d dusty, craterized)
+  - TARTUF (k thick atmosphere)
+  - LITA (r rocky, creased)
+  - GEORGE (r rocky, creased)
+- LASKO (n thin atmosphere)
+- RICHARD (r rocky, creased)
+- LEG (q quartz surface)
+  - MOIA (d dusty, craterized)
+
+Guide entries:
+INTRUDER 6011:478.450.44
+GO AND SEE FELISIAN DREEM IT IS VERY STRANGE PLANET THERE ARE TREES IN
+THE SEE
+I MEAN IN THE SEA NOT IN THE SEE

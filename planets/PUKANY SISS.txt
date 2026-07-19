@@ -1,0 +1,3 @@
+Planet: PUKANY SISS
+Starmap index: 01
+Paris coordinates: 2190704, 3511912, 257550

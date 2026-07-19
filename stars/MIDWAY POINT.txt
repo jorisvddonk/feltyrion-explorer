@@ -1,0 +1,6 @@
+Star: MIDWAY POINT
+Star class: S06
+Paris coordinates: -144296752, -1411144, 54665742
+Bodies: 0 (0 planets, 0 moons)
+
+System:

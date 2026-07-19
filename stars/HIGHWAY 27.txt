@@ -1,0 +1,14 @@
+Star: HIGHWAY 27
+Star class: S02
+Paris coordinates: -14358960, -4883450, 21705747
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (+ substellar object)
+- Planet #2 (k thick atmosphere)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (q quartz surface)
+- Planet #6 (@ large, not consistent)
+- Planet #7 (d dusty, craterized)

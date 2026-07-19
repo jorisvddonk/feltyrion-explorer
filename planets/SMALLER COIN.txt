@@ -1,0 +1,3 @@
+Planet: SMALLER COIN
+Starmap index: 08
+Paris coordinates: 2935344, 4530986, 217285

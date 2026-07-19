@@ -1,0 +1,6 @@
+Star: JJ
+Star class: S06
+Paris coordinates: 832496, 593487, 209627
+Bodies: 0 (0 planets, 0 moons)
+
+System:

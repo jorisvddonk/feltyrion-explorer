@@ -1,0 +1,6 @@
+Planet: LOST MOON
+Starmap index: 10
+Paris coordinates: 4866416, 4334985, -1779783
+
+Guide entries:
+ ISCOVERED BY MATTHEW REYNOLDS. 6011.563.20.7

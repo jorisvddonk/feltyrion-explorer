@@ -1,0 +1,6 @@
+Star: HIGHWAY 19
+Star class: S07
+Paris coordinates: -16297904, -4913465, 27058824
+Bodies: 0 (0 planets, 0 moons)
+
+System:

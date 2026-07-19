@@ -1,0 +1,18 @@
+Star: HARATHON
+Star class: S02
+Paris coordinates: 1639280, 6595194, -141622
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- HARATHON 1 (q quartz surface)
+- HARATHON 2 (k thick atmosphere)
+- HARATHON 3 (k thick atmosphere)
+- HARATHON 4 (n thin atmosphere)
+- HARATHON 5 (r rocky, creased)
+
+Guide entries:
+ THIS STAR IS A WHITE DWARF WHICH CREATES GIGANTIC AMOUNTS OF
+HAMRFL RADIATION.
+ I BETTER NOT STRAY TO CLOSE TO THIS STAR
+5 PLANETARY OBJECTS HAS BEEN DETECTED IN RELATIVELY CLOSE ORBIT.
+(STARGAZER. EPOC 6011:609:510)

@@ -1,0 +1,3 @@
+Planet: SNOWBALL
+Starmap index: 05
+Paris coordinates: 4867504, -2585957, -5646997

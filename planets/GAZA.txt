@@ -1,0 +1,6 @@
+Planet: GAZA
+Starmap index: 04
+Paris coordinates: 4073200, 4600279, -799854
+
+Guide entries:
+NICE MESSAS AT 263,84 (HUMI,EPOC:6011.562.422)

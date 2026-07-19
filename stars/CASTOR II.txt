@@ -1,0 +1,24 @@
+Star: CASTOR II
+Star class: S08
+Paris coordinates: -71941712, -1356971, 55222507
+Bodies: 12 (3 planets, 9 moons)
+
+System:
+- OBLITUS (k thick atmosphere)
+- LEDA (k thick atmosphere)
+- POLLUX II (* companion star)
+  - NEREIA (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - INCAVUS (k thick atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - CANTRUM (f felisian)
+  - JUVENIS (@ large, not consistent)
+  - IGNITUS (^ unstable)
+  - MEGARA (+ substellar object)
+
+Guide entries:
+NEAR GALAXY CENTER, WITH FEW COMRADES SAFE FOR HIS BROTHER, POLLUX
+ALL PLANETS AROUND THE TWINS ARE COVERED BY DEEP OCEANS
+IT'S REALLY ASTONISHING TO SEE DAWN AND SUNSET UNDERSEA
+CATALOGED BY STARSTRIDER

@@ -1,0 +1,3 @@
+Planet: EARIDON BETTA 6
+Starmap index: 12
+Paris coordinates: 99064688, 1346115, 54624595

@@ -1,0 +1,27 @@
+Star: KILIAN
+Star class: S03
+Paris coordinates: -1862480, -12887279, -2575254
+Bodies: 21 (7 planets, 14 moons)
+
+System:
+- ANDREJ (d dusty, craterized)
+- QUALDIBUR (q quartz surface)
+- C: (q quartz surface)
+  - SIRT'L OB (d dusty, craterized)
+  - PIONOR (d dusty, craterized)
+  - JUGEB (d dusty, craterized)
+- ULKU (+ substellar object)
+  - NJAART (d dusty, craterized)
+  - BRODEL (^ unstable)
+  - ZARKA (r rocky, creased)
+  - IKI (d dusty, craterized)
+  - BROCKEN 44 (r rocky, creased)
+- FARRAWAE (q quartz surface)
+  - MOERD (^ unstable)
+  - KLAINO (d dusty, craterized)
+  - KIDDELUDE (n thin atmosphere)
+- ZTRAK (k thick atmosphere)
+  - OFNA (n thin atmosphere)
+  - JUGI (d dusty, craterized)
+- PUROMPU (r rocky, creased)
+  - KILIBRI (d dusty, craterized)

@@ -1,0 +1,8 @@
+Planet: AKRITORI XI
+Starmap index: 32
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVEREDBY NEURONWAKE EPOC 6011 802.539.519                               
+SURFACE IS COMPLETELY QUARTZ, AND IS DEFINED BY IMMENSE PILLAR-             
+MOUNTAINS. GRAVITY IS 1.07 FG. (NEURONWAKE 6011 802.542.254)                

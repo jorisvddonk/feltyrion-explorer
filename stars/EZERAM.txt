@@ -1,0 +1,11 @@
+Star: EZERAM
+Star class: S05
+Paris coordinates: -1433168, 5237793, -9010159
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BROWN DWARF,HAS NO PLANETS
+FUEL SOURCE
+DISCOVERED BY KJ EPOC 6011:579.396

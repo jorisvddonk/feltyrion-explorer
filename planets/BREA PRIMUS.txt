@@ -1,0 +1,3 @@
+Planet: BREA PRIMUS
+Starmap index: 03
+Paris coordinates: 2147193584, 2118476, 2109816668

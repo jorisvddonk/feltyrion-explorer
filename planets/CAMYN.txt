@@ -1,0 +1,8 @@
+Planet: CAMYN
+Starmap index: 02
+Paris coordinates: 2140988880, -793661, 81939
+
+Guide entries:
+P02/04 SMALL SOLID THIN ATMO. LIGHT WITH GOOD POLAR CAPS SLIGHTLY GREEN     
+COLOR HOWEVER. SOME LIGHT AREAS NOTED. PRO 0.1-5.840 PRY 1.168.447.232      
+SKINNYMON 6011 791.572                                                      

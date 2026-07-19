@@ -1,0 +1,11 @@
+Star: GIAK
+Star class: S07
+Paris coordinates: 169264, 1526251, 4760742
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- ETUOC (+ substellar object)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:576.695
+THERE'S ONLY A LARGE SUBSTELLAR OBJECT ORBITING AROUND GIAK.

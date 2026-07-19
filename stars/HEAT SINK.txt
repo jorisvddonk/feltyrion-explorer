@@ -1,0 +1,11 @@
+Star: HEAT SINK
+Star class: S02
+Paris coordinates: 5996400, 5037714, 621356
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- HEAT SINK I (k thick atmosphere)
+- HEAT SINK II (q quartz surface)
+
+Guide entries:
+A CLASS S02 SYSTEM WITH 2 WORLDS. SKINNYMON EPOC 6011 585.315

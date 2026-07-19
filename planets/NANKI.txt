@@ -1,0 +1,3 @@
+Planet: NANKI
+Starmap index: 13
+Paris coordinates: 4831408, 4803641, -36528

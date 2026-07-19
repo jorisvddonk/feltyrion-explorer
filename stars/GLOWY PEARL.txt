@@ -1,0 +1,18 @@
+Star: GLOWY PEARL
+Star class: S02
+Paris coordinates: -72110640, -13951774, 55079130
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- ICHIBAN (q quartz surface)
+- KLAMIKAZE (d dusty, craterized)
+- KERAMITE (r rocky, creased)
+- POHLIGT (n thin atmosphere)
+- GEBALRAKE (+ substellar object)
+- BAT (r rocky, creased)
+- STREAP (q quartz surface)
+
+Guide entries:
+ A NICE, S02 STAR, CLOSE TO THE CENTER OF THE GALAXY.
+(DISCOVERED BY MEGAGUN)
+(ON EPOC 648.386.576)

@@ -1,0 +1,7 @@
+Planet: SPRING
+Starmap index: 05
+Paris coordinates: 3890704, 4420850, -1491247
+
+Guide entries:
+ THIS PLANET IS POPULATED WITH JUMPING CATS
+IT HAS COOL PLANTS

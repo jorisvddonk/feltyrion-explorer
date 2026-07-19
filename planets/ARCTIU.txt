@@ -1,0 +1,3 @@
+Planet: ARCTIU
+Starmap index: 07
+Paris coordinates: 2277136, 4608192, -622436

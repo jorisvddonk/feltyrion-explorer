@@ -1,0 +1,6 @@
+Star: ASKEW 132
+Star class: S07
+Paris coordinates: 7078480, -16623174, 14085430
+Bodies: 0 (0 planets, 0 moons)
+
+System:

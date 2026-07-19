@@ -1,0 +1,12 @@
+Star: GRANDOISE
+Star class: S11
+Paris coordinates: 2494640, 4626202, -1803638
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- GRANDOISE I (@ large, not consistent)
+
+Guide entries:
+NAMED BY MELANC EPOC 6011.600.730.400
+FIERY PULSAR WITH 1 PLANET
+RECORDED BY MELANC EPOC 6011.600.730.450

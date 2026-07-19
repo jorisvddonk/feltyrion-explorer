@@ -1,0 +1,7 @@
+Planet: TIJ
+Starmap index: 09
+Paris coordinates: 2029806864, -1864014, 355778
+
+Guide entries:
+M02/P05 SMALL SOLID DUSTY, LARGE CRATERS, LIGHT BLUE COLOR. PRO 0.300.960   
+PRV 0.003.677.641 SKINNYMON 6011 797.363                                    

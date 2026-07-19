@@ -1,0 +1,8 @@
+Star: ALSAKI CXXX
+Star class: S09
+Paris coordinates: 16161392, 32087672, -7770724
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (+ substellar object)

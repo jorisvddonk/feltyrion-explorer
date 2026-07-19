@@ -1,0 +1,3 @@
+Planet: XSARA
+Starmap index: 01
+Paris coordinates: 13778896, 7771155, -6306874

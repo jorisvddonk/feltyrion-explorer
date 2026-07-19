@@ -1,0 +1,11 @@
+Star: GARBLE
+Star class: S10
+Paris coordinates: 856784, -184895, -465420
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FRINGLE (n thin atmosphere)
+- CHEESKULL (d dusty, craterized)
+
+Guide entries:
+(DISCOVERED BY THE GREAT DEMENTO)

@@ -1,0 +1,8 @@
+Planet: DAKOEJ
+Starmap index: 10
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+M03/P06 MEDIUM SIZE, QUARTZ SURFACE BRIGHT GREEN COLOR WITH WHITE           
+PATCHES DOMINANT. PRO 0.199.800 PRV 0.003.554.809 SKINNYMON 6011            
+797.283                                                                     

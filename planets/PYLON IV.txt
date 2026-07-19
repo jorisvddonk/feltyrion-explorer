@@ -1,0 +1,6 @@
+Planet: PYLON IV
+Starmap index: 04
+Paris coordinates: 4170352, -66267901, -3045501
+
+Guide entries:
+BRIGHT TURQUOISE DEADWORLD. (SCHMERM 6011 593.729)

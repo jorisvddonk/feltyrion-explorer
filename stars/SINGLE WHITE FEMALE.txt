@@ -1,0 +1,6 @@
+Star: SINGLE WHITE FEMALE
+Star class: S00
+Paris coordinates: 350000, 9650000, -450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

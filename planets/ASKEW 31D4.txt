@@ -1,0 +1,3 @@
+Planet: ASKEW 31D4
+Starmap index: 08
+Paris coordinates: 11658800, -19375646, 17868620

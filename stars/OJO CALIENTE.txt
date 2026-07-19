@@ -1,0 +1,11 @@
+Star: OJO CALIENTE
+Star class: S07
+Paris coordinates: 2363568, 4920888, -1583242
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- IKKARUS (+ substellar object)
+
+Guide entries:
+BLUE DWARF WITH 1 PLANET
+DISCOVERED BY KJ EPOC 6011:574.691

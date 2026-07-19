@@ -1,0 +1,6 @@
+Planet: TOOMOO
+Starmap index: 05
+Paris coordinates: 443216, 339279, -663603
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.247

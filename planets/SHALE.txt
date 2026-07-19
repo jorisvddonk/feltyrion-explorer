@@ -1,0 +1,3 @@
+Planet: SHALE
+Starmap index: 01
+Paris coordinates: 3659632, 4227550, -1146095

@@ -1,0 +1,3 @@
+Planet: ASKEW 96B
+Starmap index: 02
+Paris coordinates: 10793808, -19075421, 16976495

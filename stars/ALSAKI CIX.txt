@@ -1,0 +1,9 @@
+Star: ALSAKI CIX
+Star class: S06
+Paris coordinates: 15316752, 32220808, -7506328
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+UNSUITABLE FOR REFUELLING

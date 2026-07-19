@@ -1,0 +1,3 @@
+Planet: ASKEW 110E
+Starmap index: 05
+Paris coordinates: 1764240, -12070066, 8872006

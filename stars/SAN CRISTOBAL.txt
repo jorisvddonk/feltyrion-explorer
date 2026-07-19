@@ -1,0 +1,6 @@
+Star: SAN CRISTOBAL
+Star class: S06
+Paris coordinates: 4811056, 4866096, -1190366
+Bodies: 0 (0 planets, 0 moons)
+
+System:

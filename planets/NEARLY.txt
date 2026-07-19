@@ -1,0 +1,3 @@
+Planet: NEARLY
+Starmap index: 01
+Paris coordinates: -21285168, -20036552, -349703136

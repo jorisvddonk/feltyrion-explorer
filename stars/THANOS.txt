@@ -1,0 +1,10 @@
+Star: THANOS
+Star class: S06
+Paris coordinates: 3959632, 4440688, -1525898
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY VARRIER. EPOC 6011:570.628
+ DEATH STAR SUITABLE FOR REFUELING

@@ -1,0 +1,11 @@
+Star: WISNAR
+Star class: S10
+Paris coordinates: 4132496, -66301138, -3051874
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- WISNAR I (d dusty, craterized)
+
+Guide entries:
+S10 RUNAWAY STAR, 17LY FROM FARHOME, SINGLE PLANET ORBITING.
+(SCHMERM 6011 593.728)

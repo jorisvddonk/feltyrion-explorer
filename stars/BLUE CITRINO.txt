@@ -1,0 +1,6 @@
+Star: BLUE CITRINO
+Star class: S07
+Paris coordinates: 4535344, 5346215, -1341121
+Bodies: 0 (0 planets, 0 moons)
+
+System:

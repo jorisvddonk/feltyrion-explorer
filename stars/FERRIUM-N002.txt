@@ -1,0 +1,12 @@
+Star: FERRIUM-N002
+Star class: S00
+Paris coordinates: 3428560, 4060293, -686548
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- FERRIUM-N002 II (k thick atmosphere)
+
+Guide entries:
+ DISCOVERED BY NYQUIST ON 6011.569.553
+2 SATTELITE, NO ORGANICS PRESENT. UNREMARKABLE SYSTEM

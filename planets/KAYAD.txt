@@ -1,0 +1,3 @@
+Planet: KAYAD
+Starmap index: 02
+Paris coordinates: 5855696, 5122770, -1659619

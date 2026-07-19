@@ -1,0 +1,9 @@
+Star: TRAREAIS
+Star class: S11
+Paris coordinates: 1650000, -67862838, -1508262
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:590.

@@ -1,0 +1,10 @@
+Star: FLIMSY
+Star class: S00
+Paris coordinates: 6550672, -863258, 3129312
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR FOUND BY DR. WORM, EPOC 6011: 659.746
+NOTHING TO SEE HERE, FOLKS.

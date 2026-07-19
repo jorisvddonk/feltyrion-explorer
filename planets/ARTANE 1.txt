@@ -1,0 +1,6 @@
+Planet: ARTANE 1
+Starmap index: 01
+Paris coordinates: 4421776, 3901041, -2079375
+
+Guide entries:
+DYSCOVERED BY KROMEBOY 6011.586.156

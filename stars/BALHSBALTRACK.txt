@@ -1,0 +1,35 @@
+Star: BALHSBALTRACK
+Star class: S03
+Paris coordinates: 10256784, 156885, -9838554
+Bodies: 25 (6 planets, 19 moons)
+
+System:
+- OKSERT (r rocky, creased)
+- KIRBIP (n thin atmosphere)
+- USPRI (@ large, not consistent)
+  - MOEGER (k thick atmosphere)
+  - NIETUD (^ unstable)
+  - WOUHERN (k thick atmosphere)
+  - VOIGOL (n thin atmosphere)
+  - NAIVA (^ unstable)
+  - KOAB (d dusty, craterized)
+  - LUEHEB (r rocky, creased)
+  - DACAJ (n thin atmosphere)
+  - JUTUS (d dusty, craterized)
+  - GOTOC (d dusty, craterized)
+  - HIFOGOR (n thin atmosphere)
+  - MYRODAD (q quartz surface)
+  - GOKAN (^ unstable)
+  - ZICOD (n thin atmosphere)
+- ENSOM (r rocky, creased)
+  - ASLYT (d dusty, craterized)
+  - SITKIU (d dusty, craterized)
+- OVERPLUS (f felisian)
+  - AMIFH (d dusty, craterized)
+- POYSUR (n thin atmosphere)
+  - ISCUR (d dusty, craterized)
+  - MAERD (d dusty, craterized)
+
+Guide entries:
+A CLASS S03 SYSTEM OF 6 PLANETS, 19 MOONS, ONE FELISIAN WORLD.
+SKINNYMON EPOC 6011.603.370

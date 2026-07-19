@@ -1,0 +1,6 @@
+Planet: ARGOS
+Starmap index: 01
+Paris coordinates: 4304272, 4464874, -1145651
+
+Guide entries:
+THIS IS THE COMPANION STAR. DON'T GET TOO NEAR. KASGOR

@@ -1,0 +1,3 @@
+Planet: BLOTCHES
+Starmap index: 02
+Paris coordinates: 6462480, 5840007, -1924453

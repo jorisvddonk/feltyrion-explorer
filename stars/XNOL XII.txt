@@ -1,0 +1,6 @@
+Star: XNOL XII
+Star class: S06
+Paris coordinates: 1101424, 39441014, 78634
+Bodies: 0 (0 planets, 0 moons)
+
+System:

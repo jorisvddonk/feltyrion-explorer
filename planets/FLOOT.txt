@@ -1,0 +1,3 @@
+Planet: FLOOT
+Starmap index: 14
+Paris coordinates: 2839280, 5119379, -1347871

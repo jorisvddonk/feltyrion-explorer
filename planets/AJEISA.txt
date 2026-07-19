@@ -1,0 +1,8 @@
+Planet: AJEISA
+Starmap index: 01
+Paris coordinates: 634316304, -11055626, 49664486
+
+Guide entries:
+P01 SMALL THIN ATMOSPHERE, FAIRLY REFLECTIVE, GOOD POLAR CAPS, A            
+NUMBER OF LIGHT SPOTS NOTED. PRO 0.190.080; PRV 0.005.830.501 SKINNYMON     
+6011 893.57                                                                 

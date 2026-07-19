@@ -1,0 +1,36 @@
+Star: NOVA SOL
+Star class: S00
+Paris coordinates: 4293552, 4257950, 277464
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- THOR (+ substellar object)
+- APHRODITE (k thick atmosphere)
+- BLIND IO (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (f felisian)
+  - Moon #6 (^ unstable)
+- HERAKLES (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- VIRGO (k thick atmosphere)
+- NOVA GAIA (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- ATLAS (f felisian)
+  - Moon #0 (d dusty, craterized)
+- ALTRIA (d dusty, craterized)
+- CUBA (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- ANGERONA (i icy surface)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY JOSEPH HILL ON EPOC 6011.573.225
+A SUNLIKE STAR WITH 10 PLANETS.
+ ALL PLANETS EXPLORED, BUT MOONS ARE UNEXPLORED.

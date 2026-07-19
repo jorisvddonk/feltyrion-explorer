@@ -1,0 +1,6 @@
+Star: ASKEW 106
+Star class: S06
+Paris coordinates: 1839952, -12050147, 9296756
+Bodies: 0 (0 planets, 0 moons)
+
+System:

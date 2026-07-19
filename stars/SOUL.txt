@@ -1,0 +1,28 @@
+Star: SOUL
+Star class: S00
+Paris coordinates: 5931408, 4786028, -1086844
+Bodies: 18 (11 planets, 7 moons)
+
+System:
+- BLUNT (k thick atmosphere)
+- BUBBLEGUM (@ large, not consistent)
+- GEMSTONE (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (q quartz surface)
+- DESERT LOST (r rocky, creased)
+- BORESKI (f felisian)
+- DARKULA (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- SHADED (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (i icy surface)
+- Planet #9 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+
+Guide entries:
+YELLOW STAR, PLENTY OF PLANETS.
+CALEB, 6011:567.854

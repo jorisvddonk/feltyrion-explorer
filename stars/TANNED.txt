@@ -1,0 +1,10 @@
+Star: TANNED
+Star class: S05
+Paris coordinates: -3017808, 45607, 155675042
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (i icy surface)

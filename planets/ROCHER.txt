@@ -1,0 +1,3 @@
+Planet: ROCHER
+Starmap index: 39
+Paris coordinates: 3559632, 4410553, -1049465

@@ -1,0 +1,12 @@
+Star: FELIOS
+Star class: S02
+Paris coordinates: 4777136, 4821646, -3022755
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- GURRO (+ substellar object)
+- TIONS (n thin atmosphere)
+
+Guide entries:
+CLASS SO2 SYSTEM WITH 2 ORBITING PLANETS.
+(NOTES BY MIKE HEITZ EPOC:6011:659.944)

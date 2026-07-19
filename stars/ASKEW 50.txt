@@ -1,0 +1,27 @@
+Star: ASKEW 50
+Star class: S04
+Paris coordinates: 11307376, -19271272, 17252434
+Bodies: 18 (11 planets, 7 moons)
+
+System:
+- ASKEW 50A (@ large, not consistent)
+- ULANTAR (q quartz surface)
+- ASKEW 50C (r rocky, creased)
+  - ASKEW 50C1 (d dusty, craterized)
+  - ASKEW 50C2 (d dusty, craterized)
+- ASKEW 50D (r rocky, creased)
+- ULEDEN (q quartz surface)
+  - ULEDEN-ULE (^ unstable)
+- ASKEW 50F (k thick atmosphere)
+  - ASKEW 50F1 (n thin atmosphere)
+  - ASKEW 50F2 (^ unstable)
+- ASKEW 50G (k thick atmosphere)
+- ASKEW 50H (d dusty, craterized)
+- ASKEW 50I (r rocky, creased)
+- ASKEW 50J (r rocky, creased)
+  - ASKEW 50J1 (d dusty, craterized)
+  - ASKEW 50J2 (d dusty, craterized)
+- ASKEW 50K (r rocky, creased)
+
+Guide entries:
+2 QUARTZ WORLDS

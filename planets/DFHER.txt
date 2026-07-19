@@ -1,0 +1,7 @@
+Planet: DFHER
+Starmap index: 18
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M03/P07 SMALL ICY LIGHT GROOVES WITH BROWNISH MOTTLING. PRO 0.244.800       
+PRV 0.003.422.902 SKINNYMON 6011 791.998                                    

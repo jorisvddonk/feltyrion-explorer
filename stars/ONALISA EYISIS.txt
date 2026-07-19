@@ -1,0 +1,17 @@
+Star: ONALISA EYISIS
+Star class: S02
+Paris coordinates: -143216, 30508545, 675589
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- ISDHA (n thin atmosphere)
+- KREAKYLASLE (@ large, not consistent)
+- ISVENTRE (n thin atmosphere)
+- ONAFHTRIS (k thick atmosphere)
+- AKYLAASLE (d dusty, craterized)
+- FHVEN (@ large, not consistent)
+- Planet #6 (k thick atmosphere)
+- Planet #7 (+ substellar object)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJED EPOC 6011 632.827

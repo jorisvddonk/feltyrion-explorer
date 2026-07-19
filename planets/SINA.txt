@@ -1,0 +1,3 @@
+Planet: SINA
+Starmap index: 02
+Paris coordinates: 4081072, 7029104, -4229008

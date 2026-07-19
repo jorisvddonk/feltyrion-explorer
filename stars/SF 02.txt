@@ -1,0 +1,9 @@
+Star: SF 02
+Star class: S06
+Paris coordinates: -2431408, 18156, -2260478
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SUITABLE FOR SCOPING

@@ -1,0 +1,12 @@
+Star: SOMBRERO
+Star class: S05
+Paris coordinates: 11032496, -4537560, -9995940
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SOMBRERO 1 (d dusty, craterized)
+- SOMBRERO 2 (d dusty, craterized)
+
+Guide entries:
+ A SUBSTELLAR, BROWN DWARF OBJECT. TWO PLANETS.
+SERPENS, 6011 665.334

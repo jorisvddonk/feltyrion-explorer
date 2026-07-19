@@ -1,0 +1,6 @@
+Planet: SKYGEM C5
+Starmap index: 34
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A THINLY ATMOSPHERED PLANET. AMWHERE 6011.584.971

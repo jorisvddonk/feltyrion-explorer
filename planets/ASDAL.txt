@@ -1,0 +1,8 @@
+Planet: ASDAL
+Starmap index: 01
+Paris coordinates: 2140557808, -1954219, 754309
+
+Guide entries:
+P1/01 SMALL SOLID THIN ATMO. QUITE DARK WITH SLIGHT POLAR CAPS. NO DOUBT    
+DARK ON SURFACE, ALSO. PRO 0.297.000 PRV 0.004.716.656. SKINNYMON 6011      
+791.413                                                                     

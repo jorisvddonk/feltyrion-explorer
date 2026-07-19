@@ -1,0 +1,3 @@
+Planet: CORDWAINER SMITH
+Starmap index: 01
+Paris coordinates: 4482832, 3728235, 1299762

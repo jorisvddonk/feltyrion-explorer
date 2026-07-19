@@ -1,0 +1,3 @@
+Planet: GULOSE
+Starmap index: 04
+Paris coordinates: 2605360, 5998140, -3142515

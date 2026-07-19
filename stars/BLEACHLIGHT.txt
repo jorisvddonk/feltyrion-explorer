@@ -1,0 +1,47 @@
+Star: BLEACHLIGHT
+Star class: S01
+Paris coordinates: 3711056, 4612074, -78250
+Bodies: 35 (7 planets, 28 moons)
+
+System:
+- FELAMSON (n thin atmosphere)
+- CRAESTRIA (d dusty, craterized)
+- DARMORIN (n thin atmosphere)
+  - DARMATRIN (d dusty, craterized)
+  - DARMIETORIN (d dusty, craterized)
+- ROTRITIN (@ large, not consistent)
+  - ROTRITIN I (n thin atmosphere)
+  - ROTRITIN II (^ unstable)
+  - ROTRITIN III (k thick atmosphere)
+  - ROTRITIN IV (d dusty, craterized)
+- DRIXAX (@ large, not consistent)
+  - DRIXAX I (n thin atmosphere)
+  - DRIXAX II (d dusty, craterized)
+  - DRIXAX III (^ unstable)
+  - DRIXAX IV (^ unstable)
+  - DRIXAX V (n thin atmosphere)
+  - DRIXAX VI (d dusty, craterized)
+- CRAETON (q quartz surface)
+  - CRAETON I (d dusty, craterized)
+  - CRAETON II (d dusty, craterized)
+- AKRITORI (+ substellar object)
+  - AKRITORI I (r rocky, creased)
+  - AKRITORI II (r rocky, creased)
+  - AKRITORI III (i icy surface)
+  - AKRITORI IV (d dusty, craterized)
+  - AKRITORI V (i icy surface)
+  - AKRITORI VI (k thick atmosphere)
+  - AKRITORI VII (d dusty, craterized)
+  - AKRITORI IIX (d dusty, craterized)
+  - AKRITORI IX (k thick atmosphere)
+  - AKRITORI X (d dusty, craterized)
+  - AKRITORI XI (q quartz surface)
+  - AKRITORI XII (@ large, not consistent)
+  - AKRITORI XIII (n thin atmosphere)
+  - AKRITORI XIV (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY NEURONWAKE EPOC 6011 802.488                             
+NO LIFEFORMS OR STRUCTURES HAVE BEEN FOUND IN THIS SYSTEM.                  
+7 PLANETS, 28 MOONS. SOME OF THE MOONS' GEOLOGICAL FEATURES MAY BE          
+INTERESTING, BUT THERE IS NOT MUCH HERE. (NEURONWAKE 6011 802.545)          

@@ -1,0 +1,3 @@
+Planet: ASKEW 200D2
+Starmap index: 23
+Paris coordinates: 3283920, 5272695, -1249674

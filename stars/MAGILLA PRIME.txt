@@ -1,0 +1,22 @@
+Star: MAGILLA PRIME
+Star class: S00
+Paris coordinates: -108980592, 25731476, -852320
+Bodies: 16 (8 planets, 8 moons)
+
+System:
+- YRUKREM (n thin atmosphere)
+- HSIVOY (@ large, not consistent)
+- KUKUNAMUNIU (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- RASHKOV (f felisian)
+  - Moon #0 (d dusty, craterized)
+- YEAHFIRE (^ unstable)
+  - Moon #0 (n thin atmosphere)
+- MYRCHYN (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- NICERING (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- PLUNONIUM (d dusty, craterized)

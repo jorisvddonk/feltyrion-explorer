@@ -1,0 +1,3 @@
+Planet: VIOLET BLUE
+Starmap index: 51
+Paris coordinates: -3970352, 1646424, 2969723

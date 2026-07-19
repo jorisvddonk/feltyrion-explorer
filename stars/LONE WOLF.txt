@@ -1,0 +1,9 @@
+Star: LONE WOLF
+Star class: S00
+Paris coordinates: 2559632, 5522851, 117433
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YELLOW STAR WITH NO PLANETS DISCOVERED BY MRUQE;EPOC 6011-570.592

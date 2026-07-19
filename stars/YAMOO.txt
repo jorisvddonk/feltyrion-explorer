@@ -1,0 +1,10 @@
+Star: YAMOO
+Star class: S08
+Paris coordinates: 4273200, 4365722, -754329
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- TEETHYN (+ substellar object)
+
+Guide entries:
+A NICE STAR, IT SPREADS A PINK LIGHT. DISCOVEREB BY KASGOR 6011 610.399

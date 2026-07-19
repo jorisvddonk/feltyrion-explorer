@@ -1,0 +1,42 @@
+Star: GRUPA 3
+Star class: S08
+Paris coordinates: -61921872, 30034719, 15299
+Bodies: 29 (5 planets, 24 moons)
+
+System:
+- GRUPA 3 B (* companion star)
+  - URBICA (f felisian)
+- GRUPA 3 C (* companion star)
+- NIGRA (n thin atmosphere)
+  - DENDROCOPUS (d dusty, craterized)
+- GRUPA 3 D (* companion star)
+  - CINCLUS (d dusty, craterized)
+  - COCCOTHRAUSTES (@ large, not consistent)
+  - JB 63 (+ substellar object)
+  - JB 64 (+ substellar object)
+  - COLOEUS (q quartz surface)
+  - MONEDULA (k thick atmosphere)
+  - COLUMBA (@ large, not consistent)
+  - OENAS (f felisian)
+  - PALUMBUS (k thick atmosphere)
+  - CORACIAS (k thick atmosphere)
+  - CORONE (^ unstable)
+  - COTURNIX (^ unstable)
+  - REKUREKURE 28 (r rocky, creased)
+  - CUCULUS (n thin atmosphere)
+  - FRUGILEGUS (f felisian)
+  - DELICHON (d dusty, craterized)
+- JB 65 (+ substellar object)
+  - DRYOCPUS (n thin atmosphere)
+  - MARTIUS (d dusty, craterized)
+  - EMBERIZA (n thin atmosphere)
+  - CALANDRA (r rocky, creased)
+  - CITRINELLA (k thick atmosphere)
+  - ERITHACUS (k thick atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS EP0C 6011.637.099. CLASS S08 SYSTEM.
+COMPANION STARS: B,C,D. FIFTH PLANET IS A SUBSTELLAR OBJECT.
+FIRST AND ONLY MOON OF COMPANION B IS SUITABLE FOR LIFE. TWO MOONS OF
+COMPANION D ARE ALSO SUITABLE FOR LIFE.
+NOTES BY MCWGOGS EPOC 6011.637.100 HAVE A NICE DAY

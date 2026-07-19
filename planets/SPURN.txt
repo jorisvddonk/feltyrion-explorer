@@ -1,0 +1,7 @@
+Planet: SPURN
+Starmap index: 02
+Paris coordinates: 4676048, 4516473, 773026
+
+Guide entries:
+ A LARGE YELLOWY ORANGE GAS GIANT, NO OTHER OBSERVATIONS.                   
+(131, EPOC 6011:804:542)                                                    

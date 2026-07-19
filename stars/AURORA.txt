@@ -1,0 +1,23 @@
+Star: AURORA
+Star class: S01
+Paris coordinates: 2877136, 4566430, -1124365
+Bodies: 17 (3 planets, 14 moons)
+
+System:
+- BROTHER (q quartz surface)
+- Planet #1 (k thick atmosphere)
+- LAGUNA (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (n thin atmosphere)

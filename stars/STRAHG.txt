@@ -1,0 +1,31 @@
+Star: STRAHG
+Star class: S00
+Paris coordinates: 808208, 1178550, 752685
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- THEK (k thick atmosphere)
+- BRORN (d dusty, craterized)
+- CRESED (r rocky, creased)
+- HIDROXY (f felisian)
+  - RIGNE (d dusty, craterized)
+- SILCATE (f felisian)
+  - THOME (n thin atmosphere)
+- WHOT (@ large, not consistent)
+- NEME (+ substellar object)
+  - VENI (k thick atmosphere)
+  - LUMO (i icy surface)
+  - BIMON (@ large, not consistent)
+  - LATSI (r rocky, creased)
+- LHITE (d dusty, craterized)
+  - HFEA (d dusty, craterized)
+- FRAOT (d dusty, craterized)
+  - FROME (d dusty, craterized)
+
+Guide entries:
+9 PLANETS, 8 MOONS AND 1 SUBSTELLAR OBJECT. OF THOSE, 1 MOON IS A GAS       
+GIANT. ALSO, THERE ARE 2 FELISIAN PLANETS, EACH WITH 1 MOON AND 1 ICY       
+PLANET, WHICH IS A MOON OF THE SUBSTELLAR OBJECT. A STRANGE SYSTEM IN       
+THAT MY COMPUTER SAYS THAT 18 OBJECTS ARE NAMED OUT OF 17... A FEW OF       
+THESE PLANETS ARE WORTH VISITING.                                           
+(SYSTEM DISCOVERED AND NAMED BY GEEKOFDEATH CIRCA EPOC 6011:711.980)        

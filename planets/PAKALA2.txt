@@ -1,0 +1,3 @@
+Planet: PAKALA2
+Starmap index: 02
+Paris coordinates: 4248912, 4705694, -255597

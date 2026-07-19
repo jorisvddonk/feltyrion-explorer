@@ -1,0 +1,3 @@
+Planet: BOG
+Starmap index: 30
+Paris coordinates: 663568, 1836709, 279372

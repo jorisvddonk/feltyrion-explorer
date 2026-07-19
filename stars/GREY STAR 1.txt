@@ -1,0 +1,6 @@
+Star: GREY STAR 1
+Star class: S06
+Paris coordinates: 3977136, 5395690, -2198216
+Bodies: 0 (0 planets, 0 moons)
+
+System:

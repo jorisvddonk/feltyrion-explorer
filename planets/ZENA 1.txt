@@ -1,0 +1,3 @@
+Planet: ZENA 1
+Starmap index: 01
+Paris coordinates: 2257872, 8270892, -5709617

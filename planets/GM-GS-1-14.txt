@@ -1,0 +1,6 @@
+Planet: GM-GS-1-14
+Starmap index: 14
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+ GAS MOON, THIN ATMOSPHERE, NO LIFE, LOW VISIBILITY CAUTION ADVISED

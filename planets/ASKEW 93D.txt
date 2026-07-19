@@ -1,0 +1,3 @@
+Planet: ASKEW 93D
+Starmap index: 04
+Paris coordinates: 10793808, -18875421, 16913063

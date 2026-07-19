@@ -1,0 +1,3 @@
+Planet: INCREDIBLY
+Starmap index: 01
+Paris coordinates: -72528144, -1444213, 56428509

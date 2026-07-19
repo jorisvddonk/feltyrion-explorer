@@ -1,0 +1,3 @@
+Planet: PIM
+Starmap index: 02
+Paris coordinates: -1342128, 7759850, -2085923

@@ -1,0 +1,3 @@
+Planet: FRESH
+Starmap index: 04
+Paris coordinates: 3521776, 4359539, -1148567

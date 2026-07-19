@@ -1,0 +1,3 @@
+Planet: TWINKLY COMPANION
+Starmap index: 01
+Paris coordinates: -463568, -578235, -248821

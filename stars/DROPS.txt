@@ -1,0 +1,6 @@
+Star: DROPS
+Star class: S06
+Paris coordinates: 9764240, 7698994, 765359
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Star: ASKEW 184
+Star class: S05
+Paris coordinates: 3438192, 1233198, 1856484
+Bodies: 0 (0 planets, 0 moons)
+
+System:

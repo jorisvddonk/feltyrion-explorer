@@ -1,0 +1,6 @@
+Star: HAKALEM
+Star class: S06
+Paris coordinates: 6362480, 5170846, -1632221
+Bodies: 0 (0 planets, 0 moons)
+
+System:

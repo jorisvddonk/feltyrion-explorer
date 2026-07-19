@@ -1,0 +1,8 @@
+Star: ZEGUNDA ROUGE
+Star class: S03
+Paris coordinates: 3590704, 4329210, -1140169
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ALBEIT ONE (@ large, not consistent)
+- ALBEIT OSCURO (n thin atmosphere)

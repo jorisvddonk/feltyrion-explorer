@@ -1,0 +1,3 @@
+Planet: FAL RETAW
+Starmap index: 03
+Paris coordinates: -108932016, 26121020, -1827704

@@ -1,0 +1,29 @@
+Star: KEVLAR
+Star class: S08
+Paris coordinates: 2661808, -678997, -7638597
+Bodies: 23 (7 planets, 16 moons)
+
+System:
+- KEVLAR-BETA (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - KEVLAR-A-S2 (@ large, not consistent)
+- KEVLAR-A (q quartz surface)
+- KEVLAR-B (d dusty, craterized)
+  - KEVLAR-B-S1 (^ unstable)
+- KEVLAR-C (q quartz surface)
+- KEVLAR-D-FELYS (f felisian)
+- KEVLAR-E (@ large, not consistent)
+  - KEVLAR-E-S1 (d dusty, craterized)
+  - KEVALR-E-S2 (n thin atmosphere)
+  - KEVLAR-E-S3 (d dusty, craterized)
+  - KEVLAR-E-S4-FELYS (f felisian)
+  - KEVLAR-E-S5 (k thick atmosphere)
+  - KEVLAR-E-S6 (k thick atmosphere)
+  - KEVLAR-E-S7 (d dusty, craterized)
+  - KEVLAR-E-S8 (k thick atmosphere)
+  - KEVLAR-E-S9 (^ unstable)
+  - KEVLAR-E-S10 (q quartz surface)
+- KEVALR-GAMMA (* companion star)
+  - KEVLAR-F (+ substellar object)
+  - KEVLAR-E-S2 (r rocky, creased)
+  - KEVLAR-G (r rocky, creased)

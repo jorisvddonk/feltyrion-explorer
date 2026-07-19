@@ -1,0 +1,14 @@
+Star: DORESTAR
+Star class: S02
+Paris coordinates: 3928560, 4410155, -1175568
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- NYMBUS III (k thick atmosphere)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (k thick atmosphere)
+- Planet #5 (d dusty, craterized)
+- VERTIUS (k thick atmosphere)
+- Planet #7 (d dusty, craterized)

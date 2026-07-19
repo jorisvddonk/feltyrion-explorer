@@ -1,0 +1,10 @@
+Star: BLOU-6
+Star class: S07
+Paris coordinates: 4004272, 5432329, -772612
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY JUS EPOC 6011.578.781
+THIS ONE ALSO HAS NOTHING IN ORBIT. (JUS,6011.578.781)

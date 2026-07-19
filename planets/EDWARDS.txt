@@ -1,0 +1,3 @@
+Planet: EDWARDS
+Starmap index: 01
+Paris coordinates: 12646320, 12448741, 12376124

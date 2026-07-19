@@ -1,0 +1,6 @@
+Planet: SKYGEM C6
+Starmap index: 35
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ A NORMAL THIN AMTOSPHERE PLANET. AMWHERE 6011.584.971

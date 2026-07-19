@@ -1,0 +1,11 @@
+Star: MAIR'LL
+Star class: S06
+Paris coordinates: 1800457520, 1159701, 1799438053
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:589.749
+(S06) LI+
+COORDINATES = 1800457520, 1159701, 1799438053

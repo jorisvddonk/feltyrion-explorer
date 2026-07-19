@@ -1,0 +1,7 @@
+Planet: VARACYLNIA 7.4
+Starmap index: 22
+Paris coordinates: 2459632, 7706073, -15349
+
+Guide entries:
+ ICY, NO ATMOSPHERE, COLD, ALMOST FEATURELESS.
+(STARGAZER. EPOC 6011:609:529)

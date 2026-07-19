@@ -1,0 +1,7 @@
+Planet: PARIS 2
+Starmap index: 04
+Paris coordinates: -625712, 37800, 65623
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED SOME CREATURES (AT SNC 60.60)         
+(NOTES BY FRITZ, EPOC 6011:714.981)                                         

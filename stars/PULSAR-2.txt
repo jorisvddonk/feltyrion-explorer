@@ -1,0 +1,8 @@
+Star: PULSAR-2
+Star class: S11
+Paris coordinates: 3578224, 4820089, -5774411
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- PULSAR-2-A (d dusty, craterized)
+- PULSAR-2-B (n thin atmosphere)

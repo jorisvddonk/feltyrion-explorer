@@ -1,0 +1,3 @@
+Planet: Y-ETA-24
+Starmap index: 05
+Paris coordinates: 3290704, 4837570, -933229

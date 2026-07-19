@@ -1,0 +1,20 @@
+Star: LOVELY-AMBER
+Star class: S00
+Paris coordinates: -12144, 472689, 269004
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (q quartz surface)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- FURIOUS-LOVE (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ BEAUTIFUL YELLOW STAR NAMED IN HONOR OF MY FIANCEE, AMBER.

@@ -1,0 +1,3 @@
+Planet: DEMETER
+Starmap index: 03
+Paris coordinates: 4342128, 4859934, -802867

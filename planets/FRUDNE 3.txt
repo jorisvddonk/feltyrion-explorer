@@ -1,0 +1,3 @@
+Planet: FRUDNE 3
+Starmap index: 03
+Paris coordinates: -26983376, -15671371, -1000732795

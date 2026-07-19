@@ -1,0 +1,7 @@
+Planet: KALLACH IX
+Starmap index: 09
+Paris coordinates: -1405536848, -1687, 1419818841
+
+Guide entries:
+A YELLOW BALL OF ROCK, SLIGHTLY UNEVEN SURFACE.
+(SCHMERM 6011 600.975)

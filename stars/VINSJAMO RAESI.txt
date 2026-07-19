@@ -1,0 +1,6 @@
+Star: VINSJAMO RAESI
+Star class: S06
+Paris coordinates: 4251760, 4419133, 1863614
+Bodies: 0 (0 planets, 0 moons)
+
+System:

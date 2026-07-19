@@ -1,0 +1,3 @@
+Planet: AEX-07-A
+Starmap index: 28
+Paris coordinates: 598576, 4279484, -1591122

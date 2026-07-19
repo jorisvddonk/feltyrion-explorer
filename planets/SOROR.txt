@@ -1,0 +1,3 @@
+Planet: SOROR
+Starmap index: 09
+Paris coordinates: 3146064, 4414890, -1328862

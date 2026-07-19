@@ -1,0 +1,6 @@
+Star: EKA11 GROWTH
+Star class: S09
+Paris coordinates: -71248496, -719386, 53886388
+Bodies: 0 (0 planets, 0 moons)
+
+System:

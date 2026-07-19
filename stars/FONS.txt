@@ -1,0 +1,11 @@
+Star: FONS
+Star class: S06
+Paris coordinates: 5407120, 4601856, -59060
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY JAVIER, 6011:686.120.                                         
+MONOVALENT LITHIUM PRESENT, FILL RESERVES HERE. NO PLANETS LEFT.            
+(JAVIER 6011:686.120)                                                       

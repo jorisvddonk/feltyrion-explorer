@@ -1,0 +1,7 @@
+Planet: YJUELA
+Starmap index: 16
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M13/P03 MEDIUM SIZE, HOT, UNSTABLE, BROWN WITH YELLOW GLOW. PRO 0.124.      
+569 PRV 0.007.5690.071 SKINNYMON 6011 796.384                               

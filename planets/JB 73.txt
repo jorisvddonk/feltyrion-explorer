@@ -1,0 +1,3 @@
+Planet: JB 73
+Starmap index: 03
+Paris coordinates: -61470448, 29952124, 573120

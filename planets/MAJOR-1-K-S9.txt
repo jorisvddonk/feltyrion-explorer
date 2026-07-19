@@ -1,0 +1,3 @@
+Planet: MAJOR-1-K-S9
+Starmap index: 55
+Paris coordinates: 4285008, 4736436, -6124845

@@ -1,0 +1,9 @@
+Planet: ARFHALISEKIS
+Starmap index: 01
+Paris coordinates: 634178448, -10958061, 49770571
+
+Guide entries:
+P01 A LARGE NOT CONSISTENT WORLD WITH A VERY LARGE RING SYSTEM              
+(CLOSE APPROACH TO PLANET PUTS YOU INSIDE OF RING) PURPLE                   
+REFLECTIVITY WITH MANY BRIGHT STORMS. PRO 0.244.080; PRV                    
+0.021.658.594. SKINNYMON 6011 892.849                                       

@@ -1,0 +1,8 @@
+Planet: LILUYS
+Starmap index: 01
+Paris coordinates: 2051204272, -351242, 30342
+
+Guide entries:
+P01/01 MEDIUM SIZE, THICK ATMO, BRIGHT GREEN COLORED CLOUDS WITH            
+DARKER MOTTLING AND PATCHES FPR ACTIVITY. PRO 0.112.680 PRV 0.013.748.      
+282 SKINNYMON 6011 797.450                                                  

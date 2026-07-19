@@ -1,0 +1,3 @@
+Planet: HASEK
+Starmap index: 10
+Paris coordinates: -61125808, 29740310, 724290

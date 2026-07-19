@@ -1,0 +1,6 @@
+Planet: BRUTAHR
+Starmap index: 04
+Paris coordinates: 2990704, 1545929, -553777
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:584.252.440

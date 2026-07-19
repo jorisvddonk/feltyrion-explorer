@@ -1,0 +1,3 @@
+Planet: OUIDEH
+Starmap index: 02
+Paris coordinates: -487856, 526426, 372277

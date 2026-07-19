@@ -1,0 +1,26 @@
+Star: STRIMA
+Star class: S11
+Paris coordinates: 5436432, 8345927, -6073742
+Bodies: 17 (4 planets, 13 moons)
+
+System:
+- STRIMA 1 (d dusty, craterized)
+- STRIMA 2 (d dusty, craterized)
+- STRIMA 3 (@ large, not consistent)
+  - STRIMA JAI (i icy surface)
+  - STRIMA NEI (^ unstable)
+  - STRIMA KAIN (i icy surface)
+  - STRIMA IKA (i icy surface)
+  - STRIMA ZAAG (k thick atmosphere)
+  - STRIMA LAN (i icy surface)
+  - STRIMA HAI (i icy surface)
+  - STRIMA UMM (i icy surface)
+  - STRIMA NAGA (k thick atmosphere)
+  - STRIMA GIRA (k thick atmosphere)
+  - STRIMA KAL (n thin atmosphere)
+  - STRIMA JAL (r rocky, creased)
+  - STRIMA ICE (i icy surface)
+- STRIMA 4 (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.552

@@ -1,0 +1,3 @@
+Planet: MANERATES
+Starmap index: 06
+Paris coordinates: -61132592, 29530985, 540729

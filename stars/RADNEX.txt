@@ -1,0 +1,22 @@
+Star: RADNEX
+Star class: S00
+Paris coordinates: -43216, 219285, 451267
+Bodies: 16 (7 planets, 9 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- ETOPIA (f felisian)
+- YELLOW HARBOUR (f felisian)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (f felisian)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (d dusty, craterized)
+- BLUE NIGHTMARE (k thick atmosphere)

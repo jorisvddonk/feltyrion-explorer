@@ -1,0 +1,12 @@
+Star: HIUKA
+Star class: S00
+Paris coordinates: 3859632, 4954480, -1133279
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SAUNA (^ unstable)
+- KATUL (q quartz surface)
+
+Guide entries:
+SMALL S00 STAR SYSTEM. 2 PLANETS, NO MOONS.
+FOUND BY PIETARI SEPPAENEN 6011:604.615.

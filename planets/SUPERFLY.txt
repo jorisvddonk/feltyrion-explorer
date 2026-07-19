@@ -1,0 +1,3 @@
+Planet: SUPERFLY
+Starmap index: 04
+Paris coordinates: -106260240, 26101077, -2357903

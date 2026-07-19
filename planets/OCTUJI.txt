@@ -1,0 +1,7 @@
+Planet: OCTUJI
+Starmap index: 12
+Paris coordinates: 2054927472, 1424347, -408821
+
+Guide entries:
+M01/P06 SMALL SOLID DUSTY SMALLISH CRATERS WITH A MUTED ORANGE COLOR.       
+PRO 0.197.640 RV 0.004.188.993 SKINNYMON 6011 795.900                       

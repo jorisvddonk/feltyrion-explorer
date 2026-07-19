@@ -1,0 +1,3 @@
+Planet: LOSTNFOUND-02
+Starmap index: 02
+Paris coordinates: 3479984, 3304507, 183089

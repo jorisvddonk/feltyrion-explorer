@@ -1,0 +1,6 @@
+Star: AMPRELEES
+Star class: S00
+Paris coordinates: 6150000, 650000, -6250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

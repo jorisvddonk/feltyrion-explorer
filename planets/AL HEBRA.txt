@@ -1,0 +1,3 @@
+Planet: AL HEBRA
+Starmap index: 04
+Paris coordinates: 1592048, 610176, 20215061

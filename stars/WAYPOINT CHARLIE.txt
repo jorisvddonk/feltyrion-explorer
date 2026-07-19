@@ -1,0 +1,10 @@
+Star: WAYPOINT CHARLIE
+Star class: S06
+Paris coordinates: -1697168, -19982631, -74365597
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED 6011:573.700 BY SHADOWCLAW
+YOU CAN SCOPE FOR FUEL HERE.

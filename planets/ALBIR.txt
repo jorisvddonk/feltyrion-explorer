@@ -1,0 +1,3 @@
+Planet: ALBIR
+Starmap index: 08
+Paris coordinates: 125712, -63681, 567654

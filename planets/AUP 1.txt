@@ -1,0 +1,3 @@
+Planet: AUP 1
+Starmap index: 01
+Paris coordinates: 4638192, 4248129, 655268

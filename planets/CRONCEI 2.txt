@@ -1,0 +1,3 @@
+Planet: CRONCEI 2
+Starmap index: 16
+Paris coordinates: 3763568, 5569852, -2799046

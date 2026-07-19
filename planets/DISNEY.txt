@@ -1,0 +1,7 @@
+Planet: DISNEY
+Starmap index: 07
+Paris coordinates: 3628560, 4254023, -915798
+
+Guide entries:
+FOUNDED EPOC 678.979.481 BY REZA. NAME COMES FROM CRATER SHAPES.            
+1ST MOON OF ROSEBEAD (REZA, EPOC 6011, 678.979.692)                         

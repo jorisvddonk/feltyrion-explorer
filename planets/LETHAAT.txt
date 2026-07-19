@@ -1,0 +1,6 @@
+Planet: LETHAAT
+Starmap index: 19
+Paris coordinates: -1323161232, -1306991, -1179428207
+
+Guide entries:
+SOKUN 01/03; FELISIAN

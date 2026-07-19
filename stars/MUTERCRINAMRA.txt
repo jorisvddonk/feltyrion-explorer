@@ -1,0 +1,6 @@
+Star: MUTERCRINAMRA
+Star class: S05
+Paris coordinates: 950000, 51650000, -1050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

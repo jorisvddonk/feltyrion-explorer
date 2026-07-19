@@ -1,0 +1,9 @@
+Star: GRUBB
+Star class: S05
+Paris coordinates: 2863568, 6645371, -2030915
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S05 STAR NO PLANETS.RAPTORJEDI EPOC 6011 605.188

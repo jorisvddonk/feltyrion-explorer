@@ -1,0 +1,8 @@
+Star: JUAW
+Star class: S11
+Paris coordinates: 1221776, -28630014, 1165874
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MUTSHLA (d dusty, craterized)
+- GALGALA (@ large, not consistent)

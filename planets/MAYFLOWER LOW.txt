@@ -1,0 +1,6 @@
+Planet: MAYFLOWER LOW
+Starmap index: 06
+Paris coordinates: 10724880, -18971815, 16962523
+
+Guide entries:
+ FOUND EPOC 6011 588.376.750 BY ROLAND ASKEW

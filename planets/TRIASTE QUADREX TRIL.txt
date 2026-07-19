@@ -1,0 +1,3 @@
+Planet: TRIASTE QUADREX TRIL
+Starmap index: 20
+Paris coordinates: 1400245296, 1594807, 1399274759

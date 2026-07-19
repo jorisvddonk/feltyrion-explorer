@@ -1,0 +1,3 @@
+Planet: ASKEW 76E7
+Starmap index: 23
+Paris coordinates: 11352016, -19280074, 17907404

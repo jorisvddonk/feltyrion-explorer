@@ -1,0 +1,3 @@
+Planet: BLUE STRUGGLE
+Starmap index: 01
+Paris coordinates: -71430992, -593618, 53172813

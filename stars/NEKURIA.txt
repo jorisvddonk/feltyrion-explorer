@@ -1,0 +1,61 @@
+Star: NEKURIA
+Star class: S08
+Paris coordinates: 767504, 8315857, -1670814
+Bodies: 47 (7 planets, 40 moons)
+
+System:
+- NEKOSSE (* companion star)
+- EKUSSE (* companion star)
+  - CANTRUUNT (k thick atmosphere)
+- KUROSSE (* companion star)
+  - CAOTANMEC (^ unstable)
+  - YENELTI (d dusty, craterized)
+  - ACQUN (r rocky, creased)
+  - KUROS-SE'NIFF (+ substellar object)
+  - VIMISA (n thin atmosphere)
+  - CATCATMUNZALEX (d dusty, craterized)
+  - KUROS-SE'TOME (+ substellar object)
+  - MIDODHOMURDA (n thin atmosphere)
+- URIESSE (* companion star)
+  - UCBOBOLOLE (k thick atmosphere)
+  - EZWE-EMUG (f felisian)
+  - PAI LIGU (f felisian)
+  - RENOBEJINA (^ unstable)
+  - DABITQUONN (n thin atmosphere)
+  - KAOZICOL (k thick atmosphere)
+  - QWANAY-KAYMWA (@ large, not consistent)
+  - FUNCNIM (^ unstable)
+  - RUGUSAI ROO (^ unstable)
+  - ESSETAFE (+ substellar object)
+  - TAFYURZU (f felisian)
+  - URZU-URI (+ substellar object)
+  - GREDAWIQ (r rocky, creased)
+  - PYSPSYFEB (@ large, not consistent)
+- RIAOSSE (* companion star)
+  - VOMULEIR (k thick atmosphere)
+  - VAMEIRON (q quartz surface)
+  - VARMINIS (r rocky, creased)
+  - VERLAMAI (q quartz surface)
+- IANISSE (* companion star)
+  - WOAMOT (q quartz surface)
+  - DUPYD PUI (d dusty, craterized)
+  - NACUGRY (d dusty, craterized)
+  - MEYDATUF (d dusty, craterized)
+  - S'RIIT (f felisian)
+  - NACALFSE (n thin atmosphere)
+- ANEOSSE (* companion star)
+  - W'SSDOND (n thin atmosphere)
+  - GEUFIANEIBI (^ unstable)
+  - TSONDRA RAQ (k thick atmosphere)
+  - FLYGVULEA (+ substellar object)
+  - SADDAGIN (n thin atmosphere)
+  - GEENZ-GHIKU (d dusty, craterized)
+  - VENIPSY (+ substellar object)
+
+Guide entries:
+A MULTIPLE STAR SYSTEM WITH ALL 7 MAJOR BODIES BEING COMPANION STARS.       
+40 MOONS, 4 OF WHICH ARE FELISIAN. 3 ORBITING COMPANION 4, THE OTHER        
+ORBITING COMPANION 6.                                                       
+(DISCOVERED BY NEUZD 6011 776:800)                                          
+FURTHER NOTES, EXPLORATION OF THE SYSTEM HAS BEEN RESUMED.                  
+THIS STAR SHINES OF A WONDERFUL BRIGHT RED.(NOTES BY NEUZD, 6011:849.154)   

@@ -1,0 +1,15 @@
+Star: THISTHAT
+Star class: S02
+Paris coordinates: 3214992, 4379458, -1244413
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- REDIAR (@ large, not consistent)
+- RETROFILM (q quartz surface)
+- ROWENTA (n thin atmosphere)
+- UCYAN (@ large, not consistent)
+- THE OTHER (k thick atmosphere)
+
+Guide entries:
+ STAR DISCOVERED BY CHRIS E., EPOC 6011:672.314
+THIS IS THE FIRST SYSTEM I'VE EVER NAMED.

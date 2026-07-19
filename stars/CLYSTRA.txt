@@ -1,0 +1,12 @@
+Star: CLYSTRA
+Star class: S10
+Paris coordinates: 4117840, 4327381, -111080
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- OZ (k thick atmosphere)
+- LONGBOW (@ large, not consistent)
+
+Guide entries:
+UPDATE: RED DWARF RUNAWAY STAR WITH TWO PLANETS
+SKINNYMON EPOC 6011 565.445

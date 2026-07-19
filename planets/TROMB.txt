@@ -1,0 +1,6 @@
+Planet: TROMB
+Starmap index: 02
+Paris coordinates: 6860304, 14253042, 5465000
+
+Guide entries:
+PLANET DISCOVERED BY MURRMURR EPOC 6011:608.157

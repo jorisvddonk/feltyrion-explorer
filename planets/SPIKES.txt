@@ -1,0 +1,6 @@
+Planet: SPIKES
+Starmap index: 04
+Paris coordinates: 2683920, 4230319, -693965
+
+Guide entries:
+ALEXX, EPOC 6011:602.462.

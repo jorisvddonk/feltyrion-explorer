@@ -1,0 +1,3 @@
+Planet: M04-0472 2O
+Starmap index: 38
+Paris coordinates: -38816752, 1405498, 31086787

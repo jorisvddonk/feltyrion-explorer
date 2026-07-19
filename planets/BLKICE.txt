@@ -1,0 +1,3 @@
+Planet: BLKICE
+Starmap index: 07
+Paris coordinates: 1114992, 803939, 798372

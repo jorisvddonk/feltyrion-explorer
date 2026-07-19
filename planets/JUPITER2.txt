@@ -1,0 +1,6 @@
+Planet: JUPITER2
+Starmap index: 01
+Paris coordinates: 1877136, 4342805, -337055
+
+Guide entries:
+DISCOVERED BY PICHERITY, EPOC 683.397                                       

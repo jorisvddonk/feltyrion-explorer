@@ -1,0 +1,3 @@
+Planet: FUURTHIS
+Starmap index: 12
+Paris coordinates: 3352848, 5094601, -1252013

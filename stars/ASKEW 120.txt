@@ -1,0 +1,27 @@
+Star: ASKEW 120
+Star class: S05
+Paris coordinates: 2967088, -12959285, 9815055
+Bodies: 21 (3 planets, 18 moons)
+
+System:
+- ASKEW 120A (n thin atmosphere)
+- ASKEW 120B (n thin atmosphere)
+- ASKEW 120C (@ large, not consistent)
+  - ASKEW 120C1 (i icy surface)
+  - ASKEW 120C2 (i icy surface)
+  - ASKEW 120C3 (i icy surface)
+  - ASKEW 120C4 (i icy surface)
+  - ASKEW 120C5 (q quartz surface)
+  - ASKEW 120C6 (n thin atmosphere)
+  - ASKEW 120C7 (i icy surface)
+  - ASKEW 120C8 (d dusty, craterized)
+  - ASKEW 120C9 (i icy surface)
+  - ASKEW 120C10 (^ unstable)
+  - ASKEW 120C11 (n thin atmosphere)
+  - ASKEW 120C12 (r rocky, creased)
+  - ASKEW 120C13 (i icy surface)
+  - ASKEW 120C14 (i icy surface)
+  - ASKEW 120C15 (r rocky, creased)
+  - ASKEW 120C16 (r rocky, creased)
+  - ASKEW 120C17 (i icy surface)
+  - ASKEW 120C18 (k thick atmosphere)

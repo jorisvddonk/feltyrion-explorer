@@ -1,0 +1,3 @@
+Planet: CHAOS
+Starmap index: 07
+Paris coordinates: 339280, 101762, 1148923

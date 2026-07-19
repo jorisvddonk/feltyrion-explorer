@@ -1,0 +1,3 @@
+Planet: CALIOPESUGO
+Starmap index: 01
+Paris coordinates: 3252848, 4375194, -1151718

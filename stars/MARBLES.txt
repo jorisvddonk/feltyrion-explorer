@@ -1,0 +1,27 @@
+Star: MARBLES
+Star class: S08
+Paris coordinates: 6179984, 4254053, -2549392
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- GOLDSTAR (* companion star)
+  - PICNIC (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+- Planet #2 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (@ large, not consistent)
+  - Moon #2 (f felisian)
+  - Moon #3 (f felisian)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (d dusty, craterized)
+- BRIGHT SPARK (* companion star)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (^ unstable)
+  - CHOC ICE (n thin atmosphere)
+  - Moon #7 (+ substellar object)
+  - Moon #8 (q quartz surface)

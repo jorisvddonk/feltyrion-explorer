@@ -1,0 +1,3 @@
+Planet: TAVAT HAKAD
+Starmap index: 01
+Paris coordinates: 5958960, 6057590, -13180828

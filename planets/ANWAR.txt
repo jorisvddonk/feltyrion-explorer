@@ -1,0 +1,7 @@
+Planet: ANWAR
+Starmap index: 15
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.593                                    
+THERE IS A LARGE CRATER AT 205.119.                                         

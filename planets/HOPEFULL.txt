@@ -1,0 +1,3 @@
+Planet: HOPEFULL
+Starmap index: 03
+Paris coordinates: 4679984, 4440337, -1043044

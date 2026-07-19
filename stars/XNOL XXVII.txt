@@ -1,0 +1,6 @@
+Star: XNOL XXVII
+Star class: S06
+Paris coordinates: 1396400, 2640687, 5211806
+Bodies: 0 (0 planets, 0 moons)
+
+System:

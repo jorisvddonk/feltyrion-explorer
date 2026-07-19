@@ -1,0 +1,8 @@
+Planet: CU SITH
+Starmap index: 66
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.810                                    
+A TYPICAL ICY MOON                                                          
+(NOTES BY MISTRAL, EPOC 6011.797.810)                                       

@@ -1,0 +1,6 @@
+Planet: ASKEW 125L1
+Starmap index: 37
+Paris coordinates: 4972784, -14963659, 11837379
+
+Guide entries:
+FOUND EPOC 6011 589.977.100 BY ROLAND ASKEW

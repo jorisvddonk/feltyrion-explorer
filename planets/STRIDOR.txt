@@ -1,0 +1,3 @@
+Planet: STRIDOR
+Starmap index: 07
+Paris coordinates: 3153936, 4261063, -4661503

@@ -1,0 +1,6 @@
+Star: LADELKUKI
+Star class: S10
+Paris coordinates: -72548496, -1441878, 55363550
+Bodies: 0 (0 planets, 0 moons)
+
+System:

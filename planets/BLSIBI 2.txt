@@ -1,0 +1,3 @@
+Planet: BLSIBI 2
+Starmap index: 02
+Paris coordinates: 2866416, 5442081, 70254

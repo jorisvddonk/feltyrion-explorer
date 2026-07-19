@@ -1,0 +1,7 @@
+Planet: FLAMERING
+Starmap index: 02
+Paris coordinates: 32496, -155479, 1006249
+
+Guide entries:
+PLANET DISCOVERED BY CATRANGER,EPOC 6011,717.718.                           
+MASSIVE BURNING PLANET,NO LANDING,BUT NICE RING OF SMALL BODIES :)          

@@ -1,0 +1,6 @@
+Star: MORTIGO
+Star class: S06
+Paris coordinates: 1477136, 4408490, 131597
+Bodies: 0 (0 planets, 0 moons)
+
+System:

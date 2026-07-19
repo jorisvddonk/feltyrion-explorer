@@ -1,0 +1,6 @@
+Star: PITSTOP 21
+Star class: S05
+Paris coordinates: 214256, 39122, 498216136
+Bodies: 0 (0 planets, 0 moons)
+
+System:

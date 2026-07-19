@@ -1,0 +1,6 @@
+Star: YFRETH HES
+Star class: S08
+Paris coordinates: 950000, 52050000, -1050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: CENTURION
+Starmap index: 05
+Paris coordinates: 4442128, 4248589, -942984

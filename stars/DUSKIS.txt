@@ -1,0 +1,8 @@
+Star: DUSKIS
+Star class: S04
+Paris coordinates: 3952848, 4279972, -1864582
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BRAAS (r rocky, creased)
+- VYNNT (@ large, not consistent)

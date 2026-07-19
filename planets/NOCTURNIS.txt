@@ -1,0 +1,3 @@
+Planet: NOCTURNIS
+Starmap index: 14
+Paris coordinates: 4348912, 4223012, -412744

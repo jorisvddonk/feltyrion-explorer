@@ -1,0 +1,29 @@
+Star: ALEPH 0
+Star class: S00
+Paris coordinates: 4562480, 5638000, 182493
+Bodies: 16 (8 planets, 8 moons)
+
+System:
+- PROXIMA RINGORIA (+ substellar object)
+- WHESTINION (d dusty, craterized)
+- ALEPH 3 (f felisian)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (i icy surface)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+ STAR DISCOVERED BY SD FALCORI. THIS SYSTEM HAS 16 WORLDS, BUT WE CANT
+EXPLORE THEM ALL, AS WE NEED TO GET TO ANTYREN TO COMPLETE OUR MISSION
+ONLY THEN CAN BE EXPLORE THESE SYSTEMS. OTHER STARDRIFTERS SHOULD FEEL
+WELCOME TO EXPLORE AND MAP THIS SYSTEM. THIS IS THE FALCORI, NOW
+ENGAGING VIMANA-DRIVES. (STARGAZER. EPOC 6011; 585.488.195)

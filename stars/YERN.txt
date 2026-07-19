@@ -1,0 +1,17 @@
+Star: YERN
+Star class: S00
+Paris coordinates: 4270352, 4415428, -2840399
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- GAISE (@ large, not consistent)
+- MERACON (r rocky, creased)
+- ICE CROWN (n thin atmosphere)
+- DASAL (r rocky, creased)
+- MYSTEN (@ large, not consistent)
+  - REDONIS (^ unstable)
+  - COLOROLY (k thick atmosphere)
+  - ROUKEN (r rocky, creased)
+  - GERON (d dusty, craterized)
+  - QUARTON (q quartz surface)
+  - DOSAL (r rocky, creased)

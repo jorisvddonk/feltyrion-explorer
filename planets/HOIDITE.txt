@@ -1,0 +1,6 @@
+Planet: HOIDITE
+Starmap index: 05
+Paris coordinates: 5931408, 4086028, -1054222
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.845)

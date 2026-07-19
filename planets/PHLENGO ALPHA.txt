@@ -1,0 +1,3 @@
+Planet: PHLENGO ALPHA
+Starmap index: 01
+Paris coordinates: 1600572784, 2148138, 54617322

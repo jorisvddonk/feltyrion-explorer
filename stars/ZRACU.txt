@@ -1,0 +1,10 @@
+Star: ZRACU
+Star class: S06
+Paris coordinates: 500935792, 1578818, 54824546
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:789.325
+(S06) REFUELED HERE ON MY QUEST FOR THE OUTER RIM - DODO C. SNOTTS

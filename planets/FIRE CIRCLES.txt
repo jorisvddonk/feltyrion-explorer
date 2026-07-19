@@ -1,0 +1,3 @@
+Planet: FIRE CIRCLES
+Starmap index: 42
+Paris coordinates: 3377136, 4558630, -1790935

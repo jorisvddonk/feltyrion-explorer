@@ -1,0 +1,3 @@
+Planet: KURTTU
+Starmap index: 27
+Paris coordinates: 4073200, 5702744, -580029

@@ -1,0 +1,14 @@
+Star: WHITE CASTLE
+Star class: S08
+Paris coordinates: -1996747728, 55685, 1186213
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LOENTINA (d dusty, craterized)
+
+Guide entries:
+A LONELY, BRIGHT, WHITE STAR, OF S08 CLASSIFICATION EVEN THOUGH             
+IT LACKS COMPANION STARS, AND ONLY HAS ONE SMALL DUSTY PLANET.              
+QUITE PRETTY, AND OF COURSE, OF WHITE COLORATION. VERY BRIGHT AND           
+SHINY.                                                                      
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:652:634                             

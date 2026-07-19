@@ -1,0 +1,6 @@
+Star: GREY SOURCE 21
+Star class: S06
+Paris coordinates: 21356368, 52857859, -7326013
+Bodies: 0 (0 planets, 0 moons)
+
+System:

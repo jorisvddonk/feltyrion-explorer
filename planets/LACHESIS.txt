@@ -1,0 +1,6 @@
+Planet: LACHESIS
+Starmap index: 02
+Paris coordinates: -37434256, 1637172, 30859794
+
+Guide entries:
+CATALOGED BY STARSTRIDER

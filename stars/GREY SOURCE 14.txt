@@ -1,0 +1,6 @@
+Star: GREY SOURCE 14
+Star class: S06
+Paris coordinates: 24686352, 50922568, -7108344
+Bodies: 0 (0 planets, 0 moons)
+
+System:

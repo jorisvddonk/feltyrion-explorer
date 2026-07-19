@@ -1,0 +1,6 @@
+Star: HOHMAN STAR
+Star class: S00
+Paris coordinates: -122864, 909086, 1763345
+Bodies: 0 (0 planets, 0 moons)
+
+System:

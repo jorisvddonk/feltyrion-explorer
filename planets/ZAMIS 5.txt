@@ -1,0 +1,3 @@
+Planet: ZAMIS 5
+Starmap index: 05
+Paris coordinates: 4147152, 8296636, -6104665

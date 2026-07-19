@@ -1,0 +1,6 @@
+Planet: GLORBERON E
+Starmap index: 16
+Paris coordinates: -118928, 136846, 52177
+
+Guide entries:
+THIN ATMOSPHERE, POLAR CAPS. SMALL. (SCHMERM 6011 582.598)

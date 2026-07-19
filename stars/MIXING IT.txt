@@ -1,0 +1,12 @@
+Star: MIXING IT
+Star class: S00
+Paris coordinates: -3535344, -3723125, 521558
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SANDALL (q quartz surface)
+- RUSSELL (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY R.CLEAR EPOC 6011:565.994
+NAMED AFTER A UNIQUE RADIO SHOW BROADCAST BBC RADIO 3 SUNDAY NIGHTS

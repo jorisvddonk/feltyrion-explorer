@@ -1,0 +1,3 @@
+Planet: GASBAG III
+Starmap index: 30
+Paris coordinates: 3779984, 4313464, -58717

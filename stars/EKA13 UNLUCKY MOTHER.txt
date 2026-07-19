@@ -1,0 +1,13 @@
+Star: EKA13 UNLUCKY MOTHER
+Star class: S00
+Paris coordinates: -70672784, -709242, 53954850
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- SERENITY (k thick atmosphere)
+- RADIATED BABY (d dusty, craterized)
+- ADOLESCENT ANGST (n thin atmosphere)
+  - MUTILATION (d dusty, craterized)
+  - SCARRED EMOTION (d dusty, craterized)
+- BROKEN SPIRIT (r rocky, creased)
+  - BROKEN BODY (d dusty, craterized)

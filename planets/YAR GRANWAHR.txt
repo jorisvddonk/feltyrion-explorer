@@ -1,0 +1,6 @@
+Planet: YAR GRANWAHR
+Starmap index: 02
+Paris coordinates: -663568, -208988, 6842
+
+Guide entries:
+PLANET DISCOVERED BY BJS EPOC 6011:584.2

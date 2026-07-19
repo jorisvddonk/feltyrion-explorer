@@ -1,0 +1,42 @@
+Star: NEWBORN
+Star class: S09
+Paris coordinates: 1852848, 1486587, 473751
+Bodies: 31 (6 planets, 25 moons)
+
+System:
+- FISH (d dusty, craterized)
+- GASSY II (+ substellar object)
+- Planet #2 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (@ large, not consistent)
+  - MONKEY (f felisian)
+  - Moon #9 (@ large, not consistent)
+  - Moon #10 (^ unstable)
+  - Moon #11 (@ large, not consistent)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (k thick atmosphere)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:584.209
+INFANT S09 CLASS STAR WITH AT LEAST 5 PLANETS IN ORBIT. WILL REPORT
+BACK WITH AN EXACT COUNT. (NOTES BY BJS 584.209)

@@ -1,0 +1,3 @@
+Planet: BRI
+Starmap index: 13
+Paris coordinates: 3290704, 5637570, -892839

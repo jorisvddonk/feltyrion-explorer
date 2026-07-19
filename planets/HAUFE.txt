@@ -1,0 +1,3 @@
+Planet: HAUFE
+Starmap index: 06
+Paris coordinates: -494640, 30520235, -71665

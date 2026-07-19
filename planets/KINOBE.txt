@@ -1,0 +1,7 @@
+Planet: KINOBE
+Starmap index: 24
+Paris coordinates: 3959632, 5309715, -1265022
+
+Guide entries:
+ GREENBLUE BARREN SURFACE
+ FIRST MMOON OF OMENSOR

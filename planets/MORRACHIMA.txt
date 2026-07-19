@@ -1,0 +1,3 @@
+Planet: MORRACHIMA
+Starmap index: 05
+Paris coordinates: 3078224, 7621881, -5338929

@@ -1,0 +1,3 @@
+Planet: K5
+Starmap index: 05
+Paris coordinates: -4546064, 7347, 2982617

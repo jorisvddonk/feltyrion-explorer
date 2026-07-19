@@ -1,0 +1,3 @@
+Planet: STOICA QUINTUS
+Starmap index: 05
+Paris coordinates: 2147155440, 1025459, 700959331

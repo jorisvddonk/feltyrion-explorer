@@ -1,0 +1,3 @@
+Planet: NARWIN-D-S5
+Starmap index: 14
+Paris coordinates: -148912, 1540144, -3543794

@@ -1,0 +1,34 @@
+Star: VIDIVULA
+Star class: S00
+Paris coordinates: 51088, 4840830, -3844519
+Bodies: 24 (12 planets, 12 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- ERUBUS (f felisian)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (i icy surface)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (n thin atmosphere)
+  - Moon #0 (i icy surface)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+YELLOW STAR IT HAS 12 PLANETS AND 12 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:575.189

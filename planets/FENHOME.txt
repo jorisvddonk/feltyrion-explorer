@@ -1,0 +1,3 @@
+Planet: FENHOME
+Starmap index: 03
+Paris coordinates: 3811056, 707894, -212149

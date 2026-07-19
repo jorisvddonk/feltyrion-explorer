@@ -1,0 +1,13 @@
+Star: ZORA
+Star class: S05
+Paris coordinates: 5026800, 8471826, -8215371
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- LONGSIGHT (r rocky, creased)
+- SANCHIN (k thick atmosphere)
+- SANCHIN 2 (k thick atmosphere)
+
+Guide entries:
+A SMALL, BROWN, DWARF STAR; 3 ORBITING MAJOR BODIES, WITH NO MINORS.
+(DISCOVERED BY N5CORP ON 6011:625.596)

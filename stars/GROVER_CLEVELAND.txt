@@ -1,0 +1,6 @@
+Star: GROVER_CLEVELAND
+Star class: S06
+Paris coordinates: 3755696, 4139584, 602854
+Bodies: 0 (0 planets, 0 moons)
+
+System:

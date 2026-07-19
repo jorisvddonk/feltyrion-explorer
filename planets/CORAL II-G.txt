@@ -1,0 +1,3 @@
+Planet: CORAL II-G
+Starmap index: 55
+Paris coordinates: -539280, 237210, -624416

@@ -1,0 +1,6 @@
+Star: OASIS
+Star class: S06
+Paris coordinates: -594640, 332157, -15631
+Bodies: 0 (0 planets, 0 moons)
+
+System:

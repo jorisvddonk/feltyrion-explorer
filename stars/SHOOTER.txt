@@ -1,0 +1,6 @@
+Star: SHOOTER
+Star class: S10
+Paris coordinates: 4017840, 5233971, -3907
+Bodies: 0 (0 planets, 0 moons)
+
+System:

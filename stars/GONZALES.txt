@@ -1,0 +1,12 @@
+Star: GONZALES
+Star class: S10
+Paris coordinates: 26653616, 6463850, 45158089
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- THIENT (d dusty, craterized)
+- NOLITE (n thin atmosphere)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S10 STAR WITH 2 PLANETS. NONE FELYSIAN.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:633:806

@@ -1,0 +1,3 @@
+Planet: ZAFED KEFEED
+Starmap index: 02
+Paris coordinates: 5787856, 5439868, -5501181

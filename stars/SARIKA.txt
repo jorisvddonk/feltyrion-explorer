@@ -1,0 +1,37 @@
+Star: SARIKA
+Star class: S08
+Paris coordinates: 4273200, 4348925, -1047278
+Bodies: 23 (7 planets, 16 moons)
+
+System:
+- TOPRON (+ substellar object)
+- SARIKA B (* companion star)
+- SARIKA C (* companion star)
+  - MANTIS (d dusty, craterized)
+  - ROTENONE (q quartz surface)
+  - MOOT (n thin atmosphere)
+  - APPALOOSA (r rocky, creased)
+  - THALAMENCEPHALON (q quartz surface)
+  - SPLIT PEA (d dusty, craterized)
+  - KINETIC (+ substellar object)
+  - MORELLO (n thin atmosphere)
+  - APPANAGE (f felisian)
+- NAAH (f felisian)
+  - DREADNAUGHT (n thin atmosphere)
+  - KAME (d dusty, craterized)
+  - BINDLESTIFF (n thin atmosphere)
+- SARIKA D (* companion star)
+- PELON (k thick atmosphere)
+  - ARNPRIOR (d dusty, craterized)
+- BOLT (@ large, not consistent)
+  - PICRIC (q quartz surface)
+  - SANGUINE (^ unstable)
+  - GRICE (i icy surface)
+
+Guide entries:
+ 4 STARS;PLANET 4 COULD SUPPORT LIFE
+SYSTEM EXPLORED BY SKINNYMON EPOC 6011 562.519.619
+UPDATE: I HAVE RETURNED TO ADD INFORMATION ON THESE WORLDS, AND BECAUSE
+I NOW REALIZE I OMITTED AN IMPORTANT POINT OF SEARCHING FOR 'MOONS'
+ORBITING SARIKA'S COMPANION STARS(I ADDED 9) THE TOTAL BODIES IN THIS
+SYSTEM IS NOW4 STARS, 4 PLANETS, 16 MOONS. SKINNYMON EPOC 6011 565.275

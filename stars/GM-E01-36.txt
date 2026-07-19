@@ -1,0 +1,6 @@
+Star: GM-E01-36
+Star class: S10
+Paris coordinates: 12850000, 48550000, -12950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

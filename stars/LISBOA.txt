@@ -1,0 +1,17 @@
+Star: LISBOA
+Star class: S00
+Paris coordinates: 2997488, 4723118, -140904
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- SARJETA (@ large, not consistent)
+- EXPO98 (d dusty, craterized)
+- LX94 (r rocky, creased)
+  - ROSSIO (d dusty, craterized)
+  - APOLONIA (d dusty, craterized)
+- BAIXA (f felisian)
+
+Guide entries:
+THIS THE PLACE OF FADO IN THE GALAXIE. ITS INHABITED BY THE ULISIENS
+ TO FIND LIFE TRY PLANET BAIXA
+THIS SISTEM WAS CATALOGED BY RUI MOURAO IN 2002

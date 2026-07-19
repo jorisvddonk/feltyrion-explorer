@@ -1,0 +1,6 @@
+Star: ANOTHER DRY RUN
+Star class: S00
+Paris coordinates: 3850000, 8750000, -3950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

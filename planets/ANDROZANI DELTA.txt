@@ -1,0 +1,3 @@
+Planet: ANDROZANI DELTA
+Starmap index: 03
+Paris coordinates: 4066416, 4419160, -988413

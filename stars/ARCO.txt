@@ -1,0 +1,6 @@
+Star: ARCO
+Star class: S06
+Paris coordinates: 2478224, 4137036, -4434968
+Bodies: 0 (0 planets, 0 moons)
+
+System:

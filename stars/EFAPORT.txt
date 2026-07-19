@@ -1,0 +1,9 @@
+Star: EFAPORT
+Star class: S07
+Paris coordinates: -21291952, -19578033, -350135897
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY SHADOWCLAW 6011:576.106

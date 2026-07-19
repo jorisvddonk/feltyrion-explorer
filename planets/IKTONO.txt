@@ -1,0 +1,7 @@
+Planet: IKTONO
+Starmap index: 10
+Paris coordinates: 2054927472, 1424347, -408821
+
+Guide entries:
+M02/P04 SMALL SOLID THIN ATMO. FAIRLY BRIGHT, GOOD POLAR CAPS. PRO          
+0.239.400 PRV 0.004.962.642 SKINNYMON 6011 795.898                          

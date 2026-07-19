@@ -1,0 +1,3 @@
+Planet: YALCATEL
+Starmap index: 06
+Paris coordinates: 11658800, -19309869, 17985113

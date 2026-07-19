@@ -1,0 +1,6 @@
+Planet: GRAPE
+Starmap index: 02
+Paris coordinates: 3552848, 3945109, -1330204
+
+Guide entries:
+ QUARTZ SURFACE WITH PURPLE EFFECT.                                         

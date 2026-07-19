@@ -1,0 +1,7 @@
+Planet: RUTA
+Starmap index: 10
+Paris coordinates: 2656784, 5306745, -2228491
+
+Guide entries:
+TRACES OF ICE ON THE SURFACE
+(NOTES BY GARY! A EPOC 6011:571:691)

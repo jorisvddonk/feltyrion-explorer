@@ -1,0 +1,10 @@
+Star: BOORAILAAS
+Star class: S06
+Paris coordinates: 2147114832, 1901361, 349077569
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:787.305
+(S06) LI+

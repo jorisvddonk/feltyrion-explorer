@@ -1,0 +1,6 @@
+Star: TWOS OUTPOST
+Star class: S06
+Paris coordinates: -71417424, -725314, 54076286
+Bodies: 0 (0 planets, 0 moons)
+
+System:

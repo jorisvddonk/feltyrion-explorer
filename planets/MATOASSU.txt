@@ -1,0 +1,3 @@
+Planet: MATOASSU
+Starmap index: 03
+Paris coordinates: -379936080, -1443960, 54357502

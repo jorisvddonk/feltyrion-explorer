@@ -1,0 +1,8 @@
+Planet: MINIBOL
+Starmap index: 80
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+ MINIBOL DISCOVERED BY MISTRAL, EPOC 6011.797.808                           
+YET ANOTHER ICY MOON...                                                     
+(NOTES BY MISTRAL, EPOC 6011.797.808)                                       

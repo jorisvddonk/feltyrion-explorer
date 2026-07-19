@@ -1,0 +1,21 @@
+Star: KYAN
+Star class: S00
+Paris coordinates: 998576, 4955001, -1952192
+Bodies: 11 (5 planets, 6 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- TALL ROCKS (q quartz surface)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- TIRION (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+SYTEM HAS 5 PLANETS AND 6 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:575.75

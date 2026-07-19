@@ -1,0 +1,7 @@
+Planet: RARUPAN
+Starmap index: 18
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M01/P06 SMALL SOLID DUSTY VRYLARGE CRATERS, DUSTY COLOR. PRO 0.152.280      
+PRV 003.328.378 SKINNYMON 6011 797.99                                       

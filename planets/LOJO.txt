@@ -1,0 +1,3 @@
+Planet: LOJO
+Starmap index: 01
+Paris coordinates: -2124624, -11263693, -1956569

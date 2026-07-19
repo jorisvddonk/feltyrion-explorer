@@ -1,0 +1,11 @@
+Star: LOOSE
+Star class: S10
+Paris coordinates: 3359632, 4345485, -945226
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS 10 STAR DISCOVERED BY MURRMURR EPOC 6011:608.593
+NO PLANETS.
+(NOTES BY MURRMURR EPOC 6011:608.593)

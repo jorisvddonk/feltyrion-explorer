@@ -1,0 +1,14 @@
+Star: FRANDEA
+Star class: S05
+Paris coordinates: 1399500656, 2070261, 1399198309
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- FRANDEA PRIMUS (q quartz surface)
+- FRANDEA SECUNDUS (k thick atmosphere)
+- FRANDEA TRIACUS (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:600.566
+(SO5) 3 PLANETS / 0 MINOR
+COORDINATES = 1399500656, 2070261, 1399198309

@@ -1,0 +1,3 @@
+Planet: SPRECHZUSEIN
+Starmap index: 17
+Paris coordinates: 3459632, 4362483, -1005168

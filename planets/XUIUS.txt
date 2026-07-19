@@ -1,0 +1,6 @@
+Planet: XUIUS
+Starmap index: 08
+Paris coordinates: 5562480, 4129065, -750083
+
+Guide entries:
+DISCOVERED BY POKECAT(6012.000.138)

@@ -1,0 +1,3 @@
+Planet: SOLGA
+Starmap index: 05
+Paris coordinates: 3059632, 5632348, -554450

@@ -1,0 +1,6 @@
+Star: GM-E01-24
+Star class: S02
+Paris coordinates: 8750000, 49050000, -8850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

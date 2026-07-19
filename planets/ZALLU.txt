@@ -1,0 +1,3 @@
+Planet: ZALLU
+Starmap index: 08
+Paris coordinates: 5827472, 4968989, 720641

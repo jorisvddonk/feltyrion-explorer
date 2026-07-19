@@ -1,0 +1,3 @@
+Planet: ARIOUS-X
+Starmap index: 04
+Paris coordinates: 4762480, 4256213, -23545

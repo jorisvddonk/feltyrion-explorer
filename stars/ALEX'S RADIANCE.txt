@@ -1,0 +1,6 @@
+Star: ALEX'S RADIANCE
+Star class: S06
+Paris coordinates: 170352, 7731521, 1010545
+Bodies: 0 (0 planets, 0 moons)
+
+System:

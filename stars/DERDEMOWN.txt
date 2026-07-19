@@ -1,0 +1,6 @@
+Star: DERDEMOWN
+Star class: S08
+Paris coordinates: 1350000, 51350000, -1450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

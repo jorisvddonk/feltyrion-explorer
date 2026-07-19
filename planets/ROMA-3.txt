@@ -1,0 +1,3 @@
+Planet: ROMA-3
+Starmap index: 03
+Paris coordinates: 3828560, 4747754, -1135269

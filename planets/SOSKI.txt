@@ -1,0 +1,7 @@
+Planet: SOSKI
+Starmap index: 13
+Paris coordinates: 2060398160, -1842327, 78233
+
+Guide entries:
+M02/P07 SMALL SOLID DUSTY GREEN COLOR WITH VERY LARGE CRATERS. PRO 0.       
+138.600 PRV 0.004.653.180 SKINNYMON 6011 796.153                            

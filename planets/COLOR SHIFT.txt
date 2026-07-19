@@ -1,0 +1,3 @@
+Planet: COLOR SHIFT
+Starmap index: 17
+Paris coordinates: 3008208, 4283926, -1464016

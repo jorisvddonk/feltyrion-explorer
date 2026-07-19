@@ -1,0 +1,6 @@
+Star: HALBWOLFS QUASAR
+Star class: S11
+Paris coordinates: 408208, 141826, 1103489
+Bodies: 0 (0 planets, 0 moons)
+
+System:

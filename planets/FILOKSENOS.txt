@@ -1,0 +1,6 @@
+Planet: FILOKSENOS
+Starmap index: 21
+Paris coordinates: 10167600, 23999416, 48794002
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:609.8

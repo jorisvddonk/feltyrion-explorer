@@ -1,0 +1,8 @@
+Planet: PTN OBJCT
+Starmap index: 28
+Paris coordinates: -625712, 37800, 65623
+
+Guide entries:
+INITIAL PLANETARY SURVEY HAS REVEALED DIFFERENT CREATURES.                  
+(NOTES BY FRITZ, EPOC 6011:714.983)                                         
+A WOLF-LIKE CREATURE FOUND AND A NICE SCENERY AT SNC 266.59.                

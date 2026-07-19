@@ -1,0 +1,23 @@
+Star: TIFERET
+Star class: S03
+Paris coordinates: 4035344, 4784112, -864143
+Bodies: 17 (5 planets, 12 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- TIFERET-3 (+ substellar object)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (^ unstable)
+  - TIFERET-3.7 (f felisian)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (k thick atmosphere)
+  - TIFERET-3.10 (f felisian)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)

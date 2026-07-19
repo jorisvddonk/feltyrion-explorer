@@ -1,0 +1,3 @@
+Planet: SMALERINEAS
+Starmap index: 19
+Paris coordinates: -61232592, 29255171, 664579

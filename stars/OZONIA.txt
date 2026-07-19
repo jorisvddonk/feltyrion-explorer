@@ -1,0 +1,16 @@
+Star: OZONIA
+Star class: S00
+Paris coordinates: 4711056, 4770276, -1069633
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- ODYSSEY (+ substellar object)
+- ZINTH (@ large, not consistent)
+- ILLIAD (f felisian)
+
+Guide entries:
+STAR SYSTEM DISCOVERED BY SERAXIS.                                          
+CAT SOLACE                                                                  
+CLASS S00 SYSTEM. THREE PLANETS. NO MOONS OR OTHER BODIES.                  
+DISCOVERED EPOC 6011 724.780.505 BY MARTAN D'NAE.                           
+PARSIS 4711048;4770265;-1069626.                                            

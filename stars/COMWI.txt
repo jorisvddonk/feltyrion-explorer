@@ -1,0 +1,12 @@
+Star: COMWI
+Star class: S11
+Paris coordinates: 3752848, 5041158, -1710166
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- LEBEL (@ large, not consistent)
+- INAN (n thin atmosphere)
+- TECD (n thin atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 647.509

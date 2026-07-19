@@ -1,0 +1,3 @@
+Planet: BLUESANDS
+Starmap index: 07
+Paris coordinates: -106033104, 26000337, -1214087

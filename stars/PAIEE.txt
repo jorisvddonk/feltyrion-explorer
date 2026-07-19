@@ -1,0 +1,17 @@
+Star: PAIEE
+Star class: S02
+Paris coordinates: 3274288, 7682286, -3768411
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- ACK (@ large, not consistent)
+- MEERA (n thin atmosphere)
+- CURBIC (@ large, not consistent)
+- REEVA (+ substellar object)
+- MOOJI (+ substellar object)
+- CORRA (r rocky, creased)
+- ROO'KA (r rocky, creased)
+- COO'LAH (i icy surface)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.424

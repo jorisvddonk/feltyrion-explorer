@@ -1,0 +1,9 @@
+Star: MDIR 16
+Star class: S06
+Paris coordinates: -421776, 21634424, -1763570
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LEAVING THE GRID AND TEMP BEHIND, THE MDIR LINE NOW HEADS FOR MIRACLE.      

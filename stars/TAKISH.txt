@@ -1,0 +1,7 @@
+Star: TAKISH
+Star class: S10
+Paris coordinates: -1146064, 483499, -643496
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DAKISH (r rocky, creased)

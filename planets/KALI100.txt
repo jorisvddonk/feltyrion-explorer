@@ -1,0 +1,3 @@
+Planet: KALI100
+Starmap index: 08
+Paris coordinates: -105412752, 25928537, -610127

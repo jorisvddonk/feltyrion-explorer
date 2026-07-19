@@ -1,0 +1,3 @@
+Planet: FORK
+Starmap index: 04
+Paris coordinates: 2452848, 5614952, -121907

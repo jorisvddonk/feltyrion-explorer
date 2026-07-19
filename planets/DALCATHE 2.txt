@@ -1,0 +1,3 @@
+Planet: DALCATHE 2
+Starmap index: 08
+Paris coordinates: -387728, 331391, 626160721

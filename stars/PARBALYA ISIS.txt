@@ -1,0 +1,9 @@
+Star: PARBALYA ISIS
+Star class: S11
+Paris coordinates: 1893552, 31052273, 2642173
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 633.30 (NO PLANETS. AGAIN!)

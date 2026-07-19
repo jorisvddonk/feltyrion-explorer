@@ -1,0 +1,3 @@
+Planet: KWADDAK
+Starmap index: 18
+Paris coordinates: 1281072, -17832402, -1447008

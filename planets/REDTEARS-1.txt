@@ -1,0 +1,6 @@
+Planet: REDTEARS-1
+Starmap index: 01
+Paris coordinates: 3121776, 4655657, -835874
+
+Guide entries:
+GAS, HILLS, SMALL ROCKS                                                     

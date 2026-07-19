@@ -1,0 +1,40 @@
+Star: CENTRE
+Star class: S00
+Paris coordinates: -72010640, -1390290, 54985678
+Bodies: 26 (12 planets, 14 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- TWIST (r rocky, creased)
+  - ALICORA (d dusty, craterized)
+  - ARKATRA (^ unstable)
+- JUST OFF CENTRE (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- PASOIA (f felisian)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- UVONE (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- OLEMOE (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+- Planet #11 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+AT JUST 1.02LY AWAY FROM THE CENTRE OF THE GALAXY, THIS IS THE MOST
+CENTRAL OBJECT IN THE GALAXY. PROVE ME WRONG!
+CATALOGUED 6011.564.849.925 BY JEREMY HUSSELL.
+THIS STAR SEEMS THE CLOSEST TO THE 'OFFICAL' CENTER OF THE GALAXY
+(STAR DISCOVERED BY FELIX, 6011:569.288)
+BY CHANCE (?) IT IS A S00 CLASS STAR...

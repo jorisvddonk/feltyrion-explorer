@@ -1,0 +1,6 @@
+Planet: EREVOS
+Starmap index: 01
+Paris coordinates: 5048912, 4913160, -1102160
+
+Guide entries:
+DISCOVERED BY FOTIOS. EPOC 6011:609.561

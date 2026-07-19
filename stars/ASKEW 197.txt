@@ -1,0 +1,6 @@
+Star: ASKEW 197
+Star class: S11
+Paris coordinates: 5126384, -2309909, 5209831
+Bodies: 0 (0 planets, 0 moons)
+
+System:

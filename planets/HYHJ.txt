@@ -1,0 +1,7 @@
+Planet: HYHJ
+Starmap index: 05
+Paris coordinates: 3876048, 4435559, 1533268
+
+Guide entries:
+ DISCOVERED BY KROMEBOY 6011 571.712
+GAS PLANET GREEN

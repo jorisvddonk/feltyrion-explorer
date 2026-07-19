@@ -1,0 +1,3 @@
+Planet: THE GREAT GREEN SPOT
+Starmap index: 10
+Paris coordinates: 3008208, 4283926, -1464016

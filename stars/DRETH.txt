@@ -1,0 +1,6 @@
+Star: DRETH
+Star class: S02
+Paris coordinates: -2528560, 1271217, 154441
+Bodies: 0 (0 planets, 0 moons)
+
+System:

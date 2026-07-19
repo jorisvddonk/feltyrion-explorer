@@ -1,0 +1,15 @@
+Star: JRI TETISI
+Star class: S08
+Paris coordinates: 635016304, -10378690, 49052710
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (d dusty, craterized)
+
+Guide entries:
+ S08 SYSTEM WITH 2 WORLDS BUT NO COMPANION STAR. 1.09508836; TEMP           
+3991K; RAD 95.9 KR; COOR 635016304; -10378690; 49052710 SKINNYMON           
+6011.916.860                                                                
+ RETURN EXPEDITION 6012 060.287, 02 TYPE PRIMARY. FOR THE RECORD:
+P02 AT 1.83 DYAMS.

@@ -1,0 +1,23 @@
+Star: ASKEW 55
+Star class: S08
+Paris coordinates: 11038448, -19251310, 17477204
+Bodies: 14 (5 planets, 9 moons)
+
+System:
+- ASKEW 55A (* companion star)
+  - MALKINAR (q quartz surface)
+- ASKEW 55B (* companion star)
+- ASKEW 55C (* companion star)
+  - MELINDEL (f felisian)
+  - ASKEW 55C2 (d dusty, craterized)
+  - ASKEW 55C3 (d dusty, craterized)
+  - MALFEREN (q quartz surface)
+  - ASKEW 55C5 (d dusty, craterized)
+- ASKEW 55D (* companion star)
+  - ASKEW 55D1 (d dusty, craterized)
+- ASKEW 55E (r rocky, creased)
+  - ASKEW 55E1 (^ unstable)
+  - ASKEW 55E2 (d dusty, craterized)
+
+Guide entries:
+5 STARS, 1 FELISIAN, 2 QUARTZ WORLDS

@@ -1,0 +1,3 @@
+Planet: LOCAL
+Starmap index: 08
+Paris coordinates: 563568, 437608, 261632

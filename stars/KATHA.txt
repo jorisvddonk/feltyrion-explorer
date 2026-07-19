@@ -1,0 +1,17 @@
+Star: KATHA
+Star class: S08
+Paris coordinates: 4059632, 4233879, -1374725
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- AKRURA (r rocky, creased)
+- Planet #2 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+ BY HARIDAS ON 6011.570.640 - 2 STARS, 4 PLANETS, 3 MOONS
+AKRURA HAS VERY INTERESTING LOOK - SURFACE IS IN PATTERN IN FLOWERS

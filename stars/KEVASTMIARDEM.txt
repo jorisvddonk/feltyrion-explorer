@@ -1,0 +1,29 @@
+Star: KEVASTMIARDEM
+Star class: S00
+Paris coordinates: 2069605616, -2029036, 997220
+Bodies: 17 (3 planets, 14 moons)
+
+System:
+- YSTOSFHLAS (q quartz surface)
+- UBREIJI (@ large, not consistent)
+- FHRKYSFHRKOE (+ substellar object)
+  - ERYMOVI (^ unstable)
+  - PILIJIB (n thin atmosphere)
+  - CEMULAFH (k thick atmosphere)
+  - ALEJONA (r rocky, creased)
+  - ALSADAS (k thick atmosphere)
+  - RAKTAS (d dusty, craterized)
+  - ENYOMACK (k thick atmosphere)
+  - DUCLAS (d dusty, craterized)
+  - ESRYASE (^ unstable)
+  - OSKOVON (@ large, not consistent)
+  - AJIKYBE (r rocky, creased)
+  - RARPOK (n thin atmosphere)
+  - CYLISIA (k thick atmosphere)
+  - CYCLIT (r rocky, creased)
+
+Guide entries:
+CLASS S00 STAR WITH A SYSTEM OF 17 WORLDS- 3 PLANETS 14 MOONS.              
+NO ICE WORLDS, NO FELISIAN WORLDS EITHER. EVERYTHING ELSE,                  
+THOUGH. 1.90842962 BAL. M. TEMP 8337 K RAD 17 KR COOR                       
+2069605616;-2029036;997220 SKINNYMON 6011 795.109                           

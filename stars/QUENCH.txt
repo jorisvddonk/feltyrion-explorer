@@ -1,0 +1,10 @@
+Star: QUENCH
+Star class: S06
+Paris coordinates: 4673200, 4422749, -1215685
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN INDESPENSIBLY USEFUL LI+ PRODUCING GREY GIANT
+DISCOVERED BY KONNRAD. EPOCH 6011:560.651

@@ -1,0 +1,7 @@
+Planet: OPALINE
+Starmap index: 01
+Paris coordinates: 1970352, 5006442, -771498
+
+Guide entries:
+1GAS GIANT
+2.DISCOVERED BY KJ EPOC 6011:574.284

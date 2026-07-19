@@ -1,0 +1,16 @@
+Star: SARAJALEVARJEM
+Star class: S00
+Paris coordinates: 2028686512, 3015167, 208047
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- FHACKUEL (k thick atmosphere)
+- DATVOT (+ substellar object)
+- DEVERTICULI (f felisian)
+- YLABLURAR (k thick atmosphere)
+  - KYDMEL (d dusty, craterized)
+
+Guide entries:
+CLASS S00. FOUR PLANETS, ONE MOON. ONE FELISIAN WORLD.                      
+1.03628182 BAL. M. TEMP 5640 K RAD 25KR COOR 2028686512;                    
+3015567;208047; SKINNYMON 6011 797.190                                      

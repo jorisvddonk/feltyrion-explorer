@@ -1,0 +1,3 @@
+Planet: TIRREB-2
+Starmap index: 02
+Paris coordinates: 2094640, 4987707, -1440778

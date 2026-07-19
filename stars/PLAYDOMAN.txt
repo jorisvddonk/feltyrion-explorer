@@ -1,0 +1,10 @@
+Star: PLAYDOMAN
+Star class: S06
+Paris coordinates: 8063568, 12711635, -7231091
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+JUST A LONELY GIANT DEAD GREY DWARF STAR, SUITABLE FOR SCOPING.
+(NOTED AND NAMED BY N5CORP ON 6011:627.439)

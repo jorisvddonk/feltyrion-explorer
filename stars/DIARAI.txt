@@ -1,0 +1,12 @@
+Star: DIARAI
+Star class: S00
+Paris coordinates: 4404272, 4432031, -1197705
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ALPHA DIARAI (+ substellar object)
+- BETA DIARAI (@ large, not consistent)
+
+Guide entries:
+STAR DISCOVERED BY ESTEBAN SIRAVEGNA EPOC 564.499.19
+NO LANDING PLANETS - JUST GAS GIANTS

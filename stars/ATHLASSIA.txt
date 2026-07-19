@@ -1,0 +1,10 @@
+Star: ATHLASSIA
+Star class: S02
+Paris coordinates: 4217840, 4251864, -191307
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- SOWLITS (d dusty, craterized)
+- ZABRIUS (r rocky, creased)
+- LOGOS (d dusty, craterized)
+- DYCOTHILEDON (k thick atmosphere)

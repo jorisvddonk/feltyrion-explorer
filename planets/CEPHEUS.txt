@@ -1,0 +1,3 @@
+Planet: CEPHEUS
+Starmap index: 03
+Paris coordinates: 818928, 424010, -569620

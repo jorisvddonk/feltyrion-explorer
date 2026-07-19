@@ -1,0 +1,11 @@
+Star: YIAENLI
+Star class: S09
+Paris coordinates: -1996320592, 29243, 2171003
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PLIENEA (@ large, not consistent)
+
+Guide entries:
+A S09 STAR WITH ONLY 1 PLANET, A GAS GIANT.                                 
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:653:175                             

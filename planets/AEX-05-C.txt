@@ -1,0 +1,3 @@
+Planet: AEX-05-C
+Starmap index: 16
+Paris coordinates: 598576, 4279484, -1591122

@@ -1,0 +1,10 @@
+Star: HOORP
+Star class: S00
+Paris coordinates: 117168, 4734956, -5806594
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YELLOW STAR IT HAS NO PLANETS
+DISCOVERED BY KJ EPOC 6011:576.983

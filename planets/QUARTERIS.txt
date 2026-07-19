@@ -1,0 +1,3 @@
+Planet: QUARTERIS
+Starmap index: 21
+Paris coordinates: -61263664, 29271007, 710111

@@ -1,0 +1,3 @@
+Planet: WTCHALMERSPLANET
+Starmap index: 03
+Paris coordinates: -13572784, -327862, -3083831

@@ -1,0 +1,6 @@
+Star: KA HAKAM
+Star class: S06
+Paris coordinates: 5848912, 5120625, -1868781
+Bodies: 0 (0 planets, 0 moons)
+
+System:

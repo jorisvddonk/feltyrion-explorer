@@ -1,0 +1,14 @@
+Star: Z-X053
+Star class: S05
+Paris coordinates: -1405492208, 36257, 1420452049
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Z-X053 I (n thin atmosphere)
+- Z-X053 II (d dusty, craterized)
+- Z-X053 III (r rocky, creased)
+  - Z-X053 III A (^ unstable)
+
+Guide entries:
+S05 BROWN DWARF. HAS THREE PLANETS, AND A MODEST LI+ SUPPLY OF 4MTPD.
+(SCHMERM 6011 600.723)

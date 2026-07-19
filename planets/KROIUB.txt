@@ -1,0 +1,3 @@
+Planet: KROIUB
+Starmap index: 17
+Paris coordinates: 1670352, -20147273, -251169

@@ -1,0 +1,6 @@
+Star: SU 09
+Star class: S06
+Paris coordinates: -7543888, -96879, -1625456
+Bodies: 0 (0 planets, 0 moons)
+
+System:

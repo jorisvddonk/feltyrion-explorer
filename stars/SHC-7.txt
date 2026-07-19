@@ -1,0 +1,9 @@
+Star: SHC-7
+Star class: S11
+Paris coordinates: 451536, 36755, -1499495421
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED 6011:601.88 BY SHADOWCLAW

@@ -1,0 +1,12 @@
+Star: CPN 12
+Star class: S05
+Paris coordinates: -61984016, 30000869, 155241
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- CANNABINA (d dusty, craterized)
+- SPINUS (n thin atmosphere)
+
+Guide entries:
+SCOPE HERE! STSTEM DISCOVERED BY MCWGOGS EP0C 6011.636.904. CLASS S05.
+ TWO PLANETS. NOTES BY MCWGOGS EP0C 6011.636.904

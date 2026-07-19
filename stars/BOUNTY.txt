@@ -1,0 +1,36 @@
+Star: BOUNTY
+Star class: S00
+Paris coordinates: 1373200, 778257, 2089632
+Bodies: 25 (11 planets, 14 moons)
+
+System:
+- SNOWANA (n thin atmosphere)
+- BLOODBATH (k thick atmosphere)
+- GREENBALL (r rocky, creased)
+- MENSA (n thin atmosphere)
+- OBSCURUS (k thick atmosphere)
+- BEAUTY (q quartz surface)
+  - CCINI (d dusty, craterized)
+  - CHEESE (d dusty, craterized)
+- GASEORB (@ large, not consistent)
+  - BLACKTHORNE (k thick atmosphere)
+  - FIRE EGG (^ unstable)
+  - TURQUOISE DELIGHT (q quartz surface)
+  - MONA (r rocky, creased)
+  - BLACKSPIRE (q quartz surface)
+  - SHEPHERD'S DELIGHT (n thin atmosphere)
+  - BORIMON (d dusty, craterized)
+  - BORIMON II (d dusty, craterized)
+  - DEEP PURPLE TYRANT (k thick atmosphere)
+  - BORIMON III (d dusty, craterized)
+- DEEP BLUE (d dusty, craterized)
+- PHLEGM STRIATA (r rocky, creased)
+  - LUNA STRIATUS (d dusty, craterized)
+- INSANUS (k thick atmosphere)
+- DARK IMPACT (d dusty, craterized)
+  - LUNACY (d dusty, craterized)
+
+Guide entries:
+STAR DISCOVERED BY RYAN BURY
+ A CLASS S00 STAR WITH 11 PLANETS AND 14 MOONS. WHEN I CAME HERE, MANY
+BODIES WERE UNDESCRIBED. THIS WILL SOON CHANGE. SERPENS, 6011 665.707

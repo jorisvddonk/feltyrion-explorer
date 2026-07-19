@@ -1,0 +1,17 @@
+Star: CADENCE
+Star class: S02
+Paris coordinates: 3577808, 2199115, 7737615
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- CADENCE I (r rocky, creased)
+- CADENCE II (@ large, not consistent)
+- CADENCE III (k thick atmosphere)
+- CADENCE IV (@ large, not consistent)
+- CADENCE V (@ large, not consistent)
+- CADENCE VI (d dusty, craterized)
+- CADENCE VII (d dusty, craterized)
+- CADENCE VIII (n thin atmosphere)
+
+Guide entries:
+A CLASS S02 SYSTEM OF 8 PLANETS. SKINNYMON EPOC 6011 586.172

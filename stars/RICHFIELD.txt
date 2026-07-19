@@ -1,0 +1,6 @@
+Star: RICHFIELD
+Star class: S06
+Paris coordinates: 268592, 5068886, -4969992
+Bodies: 0 (0 planets, 0 moons)
+
+System:

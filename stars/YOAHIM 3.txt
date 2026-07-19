@@ -1,0 +1,12 @@
+Star: YOAHIM 3
+Star class: S02
+Paris coordinates: -61270448, 29491829, 356589
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BRACHYDACTYLA (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS EP0C 6011.636.905. S02 WHITE DARF STAR.
+TWO PLANETS. NOTES BY MCWGOGS EPOC 6011.636.905

@@ -1,0 +1,3 @@
+Planet: KOB
+Starmap index: 02
+Paris coordinates: -2731408, -11820060, -1963064

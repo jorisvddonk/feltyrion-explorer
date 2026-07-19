@@ -1,0 +1,3 @@
+Planet: BATI
+Starmap index: 05
+Paris coordinates: 4593552, 4407812, -103205

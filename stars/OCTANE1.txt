@@ -1,0 +1,10 @@
+Star: OCTANE1
+Star class: S06
+Paris coordinates: -1436432, -60324, 2243416
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 LI+ FUEL STAR DISC BY SCAREDY-CAT, EPOC 6011.596.845. PARSIS COORD
+X=-1436432; Y=-60324; Z=2243416

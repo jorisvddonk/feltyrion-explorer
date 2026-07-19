@@ -1,0 +1,6 @@
+Star: XNOL XLVIII
+Star class: S06
+Paris coordinates: -62628656, 30140266, 83350
+Bodies: 0 (0 planets, 0 moons)
+
+System:

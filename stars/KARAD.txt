@@ -1,0 +1,8 @@
+Star: KARAD
+Star class: S00
+Paris coordinates: 4014992, 4820064, -2117474
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FARTIA (d dusty, craterized)
+- DERNIO (q quartz surface)

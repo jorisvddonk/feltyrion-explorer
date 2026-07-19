@@ -1,0 +1,3 @@
+Planet: PITSTOP 39A
+Starmap index: 01
+Paris coordinates: 274928, -84114, 1900456334

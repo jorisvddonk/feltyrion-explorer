@@ -1,0 +1,17 @@
+Star: SCARLET LIGHT
+Star class: S03
+Paris coordinates: 4197488, 4371488, -1409526
+Bodies: 7 (5 planets, 2 moons)
+
+System:
+- ORBIF (+ substellar object)
+- SIRREFY (d dusty, craterized)
+- NUGMENI (n thin atmosphere)
+- NETRO (k thick atmosphere)
+  - AGORR (d dusty, craterized)
+  - CELD (d dusty, craterized)
+- SETVYKE (r rocky, creased)
+
+Guide entries:
+FURTHER NOTES: A CLASS S03 SYSTEM WITH 5 PLANETS AND 2 MOONS.
+NOT FIVE STAR RATED, I'LL SAY THAT. SKINNYMON EPOC 6011 592.408

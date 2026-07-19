@@ -1,0 +1,9 @@
+Star: LITHIANA
+Star class: S06
+Paris coordinates: -125712, 120802, -427402
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GOOD FOR FUEL

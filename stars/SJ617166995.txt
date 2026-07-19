@@ -1,0 +1,6 @@
+Star: SJ617166995
+Star class: S05
+Paris coordinates: 4673200, 4322749, -1173310
+Bodies: 0 (0 planets, 0 moons)
+
+System:

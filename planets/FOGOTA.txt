@@ -1,0 +1,3 @@
+Planet: FOGOTA
+Starmap index: 12
+Paris coordinates: 9870096, 18689224, -31714944

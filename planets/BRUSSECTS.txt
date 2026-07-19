@@ -1,0 +1,3 @@
+Planet: BRUSSECTS
+Starmap index: 53
+Paris coordinates: -614992, 734031, -1219112

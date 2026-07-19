@@ -1,0 +1,3 @@
+Planet: KIERKEGAARD
+Starmap index: 49
+Paris coordinates: 3708208, 4049889, -2205765

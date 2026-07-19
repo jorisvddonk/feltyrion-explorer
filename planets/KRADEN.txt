@@ -1,0 +1,3 @@
+Planet: KRADEN
+Starmap index: 03
+Paris coordinates: 18928, -159568, 173067

@@ -1,0 +1,3 @@
+Planet: VALYX-D-S14
+Starmap index: 25
+Paris coordinates: 2916080, -262885, -4753549

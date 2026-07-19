@@ -1,0 +1,7 @@
+Planet: TEBOJ
+Starmap index: 02
+Paris coordinates: 2061342800, -1762612, -110948
+
+Guide entries:
+P02/02 MEDIUM SIZE ROCKY ROUGH, LARGE CRATERS, SCARRING, GREEN COLOR.       
+PRO O.086.760 PRV 0.020.911.770 SKINNYMON 6011 795.207                      

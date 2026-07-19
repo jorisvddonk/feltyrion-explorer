@@ -1,0 +1,3 @@
+Planet: FENILIA 13
+Starmap index: 13
+Paris coordinates: 5638192, 5004262, -353473

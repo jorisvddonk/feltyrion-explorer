@@ -1,0 +1,6 @@
+Star: LITHU 6
+Star class: S06
+Paris coordinates: -2132496, 1863587, 1465709
+Bodies: 0 (0 planets, 0 moons)
+
+System:

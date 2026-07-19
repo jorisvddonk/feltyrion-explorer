@@ -1,0 +1,9 @@
+Star: ANCESTRY XLI
+Star class: S10
+Paris coordinates: -1430445392, 583430, 1438667446
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A RELATIVELY WARM, PLANETLESS S10. RYAN GJK E6011.787.73                    

@@ -1,0 +1,6 @@
+Star: MAJOOMAJOO
+Star class: S06
+Paris coordinates: 4173200, 4884233, -698686
+Bodies: 0 (0 planets, 0 moons)
+
+System:

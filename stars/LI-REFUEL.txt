@@ -1,0 +1,6 @@
+Star: LI-REFUEL
+Star class: S06
+Paris coordinates: 4173200, 4474602, -859250
+Bodies: 0 (0 planets, 0 moons)
+
+System:

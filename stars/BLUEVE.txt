@@ -1,0 +1,46 @@
+Star: BLUEVE
+Star class: S08
+Paris coordinates: 26677904, 6146018, 44553651
+Bodies: 34 (6 planets, 28 moons)
+
+System:
+- BLUEVE B (* companion star)
+  - ARANOS (f felisian)
+- BLUEVE C (* companion star)
+  - ARTICINI (f felisian)
+  - Moon #1 (@ large, not consistent)
+- Planet #2 (q quartz surface)
+- BLUEVE D (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (+ substellar object)
+  - Moon #4 (^ unstable)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (r rocky, creased)
+- BLUEVE E (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (+ substellar object)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (+ substellar object)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (+ substellar object)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (+ substellar object)
+  - BRISP (f felisian)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S08 STAR WITH 6 PLANETS AND 28 MOONS.
+5 STARS INCLUDING THE MAIN STAR. 3 FELYSIAN PLANETS. COLOR OF THE STARS
+IS LIGHT BLUE.
+STAR(S) DISCOVERED BY JEFF KEMP EPOC 6011:643:754

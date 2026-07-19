@@ -1,0 +1,34 @@
+Star: GRUPA 7
+Star class: S08
+Paris coordinates: -61846160, 29378084, 204968
+Bodies: 24 (6 planets, 18 moons)
+
+System:
+- GRUPA 7 B (* companion star)
+- TWOYANIA (k thick atmosphere)
+- GRUPA 7 C (* companion star)
+  - CRESKISA (r rocky, creased)
+  - MATCHENIA (d dusty, craterized)
+  - SAYSOMTIS (k thick atmosphere)
+  - SHEEPIS (d dusty, craterized)
+  - VIOLENCYA (@ large, not consistent)
+  - JB 92 (+ substellar object)
+  - NEMARIS (k thick atmosphere)
+  - NARIZENIA (k thick atmosphere)
+  - FULOFPAIN (d dusty, craterized)
+- GRUPA 7 D (* companion star)
+  - GRABKEIS (@ large, not consistent)
+  - CHANGIS (d dusty, craterized)
+  - BOOMANIS (d dusty, craterized)
+  - BROWNGASIS (@ large, not consistent)
+  - AVANEA (d dusty, craterized)
+  - NICECLOUDIS (@ large, not consistent)
+  - CANVALIS (d dusty, craterized)
+  - THICKONIS (k thick atmosphere)
+- MBTP 20 (d dusty, craterized)
+  - KISIELIS (n thin atmosphere)
+- BUNDYNIA (r rocky, creased)
+
+Guide entries:
+CLASS S08 STAR DISCOVERED BY MCWGOGS EPOC 6011.639.681.
+COMPANION STARS: B,C,D.

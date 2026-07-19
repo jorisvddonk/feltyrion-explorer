@@ -1,0 +1,11 @@
+Star: LITHIUM++2
+Star class: S06
+Paris coordinates: -34230320, -639474, 25961994
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY XVOLUTION, EPOC 6011:603.843
+A GREY GIANT WITH QUANTITIES OF LI++.
+NOTES BY XVOLUTION, EPOC 6011:603.843

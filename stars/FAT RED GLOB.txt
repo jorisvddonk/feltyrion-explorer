@@ -1,0 +1,6 @@
+Star: FAT RED GLOB
+Star class: S03
+Paris coordinates: 950000, 23650000, -1050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

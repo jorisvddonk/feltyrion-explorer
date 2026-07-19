@@ -1,0 +1,14 @@
+Star: BASSALEG
+Star class: S01
+Paris coordinates: 3601424, 4345494, -2419251
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- YANN II (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY YANN BEST EPOC 6011:560,810
+THIS STAR SYSTEM HAS SEVERAL PLANETS, BUT NOTHING SPECTACULAR.
+STILL WORTH A VISIT THOUGH...
+(NOTES BY YANN BEST, EPOC 6011:560,819)

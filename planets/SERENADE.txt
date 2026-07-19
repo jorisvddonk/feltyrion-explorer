@@ -1,0 +1,3 @@
+Planet: SERENADE
+Starmap index: 02
+Paris coordinates: 2718928, 4334162, -2459888

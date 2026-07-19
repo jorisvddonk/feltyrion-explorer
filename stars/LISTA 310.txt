@@ -1,0 +1,16 @@
+Star: LISTA 310
+Star class: S05
+Paris coordinates: 634651312, -9865207, 47638837
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+A CLASS S05 STAR. HAS FOUR WORLDS, AN ASSORTMENT OF NON-FELISIAN OR         
+QUARTZ BODIES (ROCKY, DUSTY, THICK AND THIN ATMO.) OH, LITHIUM FOR          
+REFUELING HERE. 0.06840660 BAL. M.; TEMP 1308K; RAD 7.9 KR; LI+             
+20 MTPD; COOR 634651312; -9865207; 47638837 SKINNYMON 6011.916.931          

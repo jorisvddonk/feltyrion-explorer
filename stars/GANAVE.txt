@@ -1,0 +1,6 @@
+Star: GANAVE
+Star class: S00
+Paris coordinates: -770352, 614475, -315200
+Bodies: 0 (0 planets, 0 moons)
+
+System:

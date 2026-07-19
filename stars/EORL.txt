@@ -1,0 +1,15 @@
+Star: EORL
+Star class: S11
+Paris coordinates: 785008, 4963289, -2548483
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- KURL (n thin atmosphere)
+- IADA (n thin atmosphere)
+- BAZEED (d dusty, craterized)
+- GIEX (d dusty, craterized)
+
+Guide entries:
+PULSAR-HAS 4 PLANETS
+DISCOVERED BY KJ EPOC 6011:575.161
+ALL 4 PLANETS ARE SMALL,DUSTY,AVD CRATERED WITH THIN OR NO ATMOSPHERES

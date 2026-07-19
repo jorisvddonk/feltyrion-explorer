@@ -1,0 +1,6 @@
+Star: XNO3
+Star class: S06
+Paris coordinates: 8647152, -129941, -10617960
+Bodies: 0 (0 planets, 0 moons)
+
+System:

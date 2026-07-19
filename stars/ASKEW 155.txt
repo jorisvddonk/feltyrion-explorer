@@ -1,0 +1,11 @@
+Star: ASKEW 155
+Star class: S02
+Paris coordinates: 9553104, -14821856, 15963340
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- ASKEW 155A (d dusty, craterized)
+- ASKEW 155B (k thick atmosphere)
+- ASKEW 155C (@ large, not consistent)
+- ASKEW 155D (+ substellar object)
+- ASKEW 155E (n thin atmosphere)

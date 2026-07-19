@@ -1,0 +1,3 @@
+Planet: TCG
+Starmap index: 01
+Paris coordinates: 3697488, 4716870, -875868

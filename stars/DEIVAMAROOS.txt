@@ -1,0 +1,9 @@
+Star: DEIVAMAROOS
+Star class: S06
+Paris coordinates: 1080365008, -1154298, -1000043554
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.584)                   

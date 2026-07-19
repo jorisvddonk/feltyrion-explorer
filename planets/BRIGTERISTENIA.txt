@@ -1,0 +1,3 @@
+Planet: BRIGTERISTENIA
+Starmap index: 04
+Paris coordinates: -61639376, 29482594, 659394

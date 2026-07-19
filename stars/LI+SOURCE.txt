@@ -1,0 +1,6 @@
+Star: LI+SOURCE
+Star class: S06
+Paris coordinates: 3886768, 4748498, 236143
+Bodies: 0 (0 planets, 0 moons)
+
+System:

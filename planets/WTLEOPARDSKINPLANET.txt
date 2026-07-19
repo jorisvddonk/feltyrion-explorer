@@ -1,0 +1,3 @@
+Planet: WTLEOPARDSKINPLANET
+Starmap index: 02
+Paris coordinates: -33046576, 5075331, -15095044

@@ -1,0 +1,10 @@
+Star: NX1
+Star class: S00
+Paris coordinates: 5055696, 3874401, -864939
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 570.937.860
+S00 STAR NO PLANETS

@@ -1,0 +1,9 @@
+Star: WAYPOINT OSCAR
+Star class: S06
+Paris coordinates: -33841168, -20079244, -599367020
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+YOU CAN SCOPE FOR LITHIUM HERE. (SHADOWCLAW 6011:581.554)

@@ -1,0 +1,6 @@
+Star: GARH
+Star class: S04
+Paris coordinates: 950000, 23750000, -1050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

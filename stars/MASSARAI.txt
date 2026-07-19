@@ -1,0 +1,30 @@
+Star: MASSARAI
+Star class: S00
+Paris coordinates: 1216080, 5223402, -3128874
+Bodies: 21 (12 planets, 9 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (+ substellar object)
+- Planet #2 (d dusty, craterized)
+- ISLA (f felisian)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #9 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+- Planet #11 (d dusty, craterized)
+
+Guide entries:
+(STAR DISCOVERED BY RYAN BURY)

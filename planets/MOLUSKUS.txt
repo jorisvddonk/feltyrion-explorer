@@ -1,0 +1,3 @@
+Planet: MOLUSKUS
+Starmap index: 02
+Paris coordinates: -106033104, 26000337, -1214087

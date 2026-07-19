@@ -1,0 +1,7 @@
+Planet: PONEX
+Starmap index: 12
+Paris coordinates: 11143472, 13252185, 11768133
+
+Guide entries:
+ORBITS DREAMER - WHICH CANNOT BE SEEN FROM ORBIT - NOT MUCH IS KNOWN.       
+(NOTES BY DAWIWO, EPOCH 6011:768.487)                                       

@@ -1,0 +1,3 @@
+Planet: AS12301226J6
+Starmap index: 23
+Paris coordinates: 49117584, 415460, 1979768932

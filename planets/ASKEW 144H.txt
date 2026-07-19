@@ -1,0 +1,3 @@
+Planet: ASKEW 144H
+Starmap index: 08
+Paris coordinates: 10324880, -18318396, 17337844

@@ -1,0 +1,10 @@
+Star: ASEF
+Star class: S07
+Paris coordinates: 4973200, 5331331, -1622489
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 647.511 (NO PLANETS)
+SIGH, YET ANOTHER S07 WITH NO PLANETS.

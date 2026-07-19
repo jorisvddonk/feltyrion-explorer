@@ -1,0 +1,3 @@
+Planet: CHEEKBONES
+Starmap index: 06
+Paris coordinates: 721776, 832366, 1626376

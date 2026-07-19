@@ -1,0 +1,3 @@
+Planet: FRACTURED
+Starmap index: 02
+Paris coordinates: 6200336, 5325679, -1343998

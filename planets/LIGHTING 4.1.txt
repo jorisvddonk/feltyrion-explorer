@@ -1,0 +1,7 @@
+Planet: LIGHTING 4.1
+Starmap index: 10
+Paris coordinates: 36432, 33110, -633205
+
+Guide entries:
+CLOSE TO THE MAIN PLANET. THIN ATMOSPHERE, DARK SURFACE.
+SERPENS ,6011 665.369

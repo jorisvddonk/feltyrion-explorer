@@ -1,0 +1,3 @@
+Planet: ASKEW 19H
+Starmap index: 08
+Paris coordinates: 9975632, 8195351, 8947026

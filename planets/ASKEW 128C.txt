@@ -1,0 +1,3 @@
+Planet: ASKEW 128C
+Starmap index: 03
+Paris coordinates: 5593136, -15577888, 12456506

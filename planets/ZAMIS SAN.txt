@@ -1,0 +1,3 @@
+Planet: ZAMIS SAN
+Starmap index: 12
+Paris coordinates: 4147152, 8296636, -6104665

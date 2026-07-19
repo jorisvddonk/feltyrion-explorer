@@ -1,0 +1,3 @@
+Planet: FRUFAM
+Starmap index: 01
+Paris coordinates: 4724624, 4514440, -338582

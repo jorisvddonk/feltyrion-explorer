@@ -1,0 +1,6 @@
+Star: DURST
+Star class: S10
+Paris coordinates: 960720, 3883219, -2229668
+Bodies: 0 (0 planets, 0 moons)
+
+System:

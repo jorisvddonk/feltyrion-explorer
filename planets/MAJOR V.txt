@@ -1,0 +1,7 @@
+Planet: MAJOR V
+Starmap index: 13
+Paris coordinates: -344976, 9517823, -4954054
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.849 -                                
+MEDIUM SIZE. INTERNALLY HOT. UNSTABLE SURFACE. NO ATMOSPHERE.               

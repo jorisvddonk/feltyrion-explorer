@@ -1,0 +1,9 @@
+Star: CPN 18
+Star class: S06
+Paris coordinates: -61212240, 30027616, 1671148
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE. FOUND BY MCWGOGS, EPOC 6011.646.952.

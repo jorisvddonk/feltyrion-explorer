@@ -1,0 +1,9 @@
+Star: CRUMB
+Star class: S03
+Paris coordinates: 650000, 365505, -521399
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.344

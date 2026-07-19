@@ -1,0 +1,9 @@
+Star: AS12281344
+Star class: S04
+Paris coordinates: 48272944, 559360, 1980075024
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS

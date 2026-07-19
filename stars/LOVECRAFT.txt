@@ -1,0 +1,28 @@
+Star: LOVECRAFT
+Star class: S00
+Paris coordinates: 4448912, 4540329, -496923
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- RIFT CANYON (k thick atmosphere)
+- JAAPBLONK (@ large, not consistent)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (d dusty, craterized)
+  - 6TH MOON HOSPITIBLE (f felisian)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (k thick atmosphere)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - Moon #13 (k thick atmosphere)
+- TIMALIK (f felisian)
+  - WAQAAPIT (^ unstable)
+- GROUTROU (d dusty, craterized)
+- TOKINASA (n thin atmosphere)
+  - DOTE TROOZ (d dusty, craterized)

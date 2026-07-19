@@ -1,0 +1,3 @@
+Planet: META-A
+Starmap index: 01
+Paris coordinates: 4053936, 4740501, -5784171

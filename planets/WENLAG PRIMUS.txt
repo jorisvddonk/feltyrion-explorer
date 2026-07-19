@@ -1,0 +1,3 @@
+Planet: WENLAG PRIMUS
+Starmap index: 01
+Paris coordinates: 1400345296, 2019388, 1399100780

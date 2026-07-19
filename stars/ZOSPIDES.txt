@@ -1,0 +1,24 @@
+Star: ZOSPIDES
+Star class: S00
+Paris coordinates: 3882832, 6724949, 1897262
+Bodies: 15 (6 planets, 9 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (q quartz surface)
+- Planet #3 (@ large, not consistent)
+  - VASTREIA (f felisian)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (^ unstable)
+  - Moon #5 (f felisian)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (^ unstable)
+- Planet #4 (r rocky, creased)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY POKECAT(6011.999.789)

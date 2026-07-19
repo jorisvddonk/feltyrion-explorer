@@ -1,0 +1,6 @@
+Star: GRAVITY-1
+Star class: S07
+Paris coordinates: 2174288, 4070331, -2433752
+Bodies: 0 (0 planets, 0 moons)
+
+System:

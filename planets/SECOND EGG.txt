@@ -1,0 +1,3 @@
+Planet: SECOND EGG
+Starmap index: 02
+Paris coordinates: 2018928, 4764914, -1771793

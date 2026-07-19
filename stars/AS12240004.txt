@@ -1,0 +1,20 @@
+Star: AS12240004
+Star class: S08
+Paris coordinates: -656528, 5145821, 23647094
+Bodies: 14 (3 planets, 11 moons)
+
+System:
+- AS12240004A (* companion star)
+- AS12240004B (d dusty, craterized)
+- AS12240004C (* companion star)
+  - AS12240004C1 (+ substellar object)
+  - AS12240004C2 (@ large, not consistent)
+  - AS12240004C3 (n thin atmosphere)
+  - AS12240004C4 (^ unstable)
+  - ILLINIU (f felisian)
+  - WAGHIA (f felisian)
+  - AS12240004C7 (^ unstable)
+  - HALAILA (f felisian)
+  - AS12240004C9 (n thin atmosphere)
+  - AS12240004C10 (@ large, not consistent)
+  - AS12240004C11 (+ substellar object)

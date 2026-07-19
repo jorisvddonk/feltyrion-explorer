@@ -1,0 +1,3 @@
+Planet: IRR'KA
+Starmap index: 04
+Paris coordinates: 3082160, 7638623, -6946602

@@ -1,0 +1,12 @@
+Star: BRUNUS
+Star class: S05
+Paris coordinates: 3870352, -66463721, -2675017
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BRUNUS I (d dusty, craterized)
+- BRUNUS II (@ large, not consistent)
+
+Guide entries:
+A BROWN DWARF STAR 9LY FROM FARHOME. HAS TWO PLANETS AND EMITS 1MTPD
+OF LI+ IONS. (SCHMERM 6011 593.659)

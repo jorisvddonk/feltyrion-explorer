@@ -1,0 +1,3 @@
+Planet: OPRNOP C
+Starmap index: 05
+Paris coordinates: -22925296, -20311480, -400532976

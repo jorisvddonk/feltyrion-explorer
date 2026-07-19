@@ -1,0 +1,18 @@
+Star: GEKAD XIN
+Star class: S04
+Paris coordinates: 5269264, 4948634, -244399
+Bodies: 12 (7 planets, 5 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- GREEN KEFAD (k thick atmosphere)
+- HAQIZEEM (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- JETOOCEC (d dusty, craterized)
+  - JETOOCEC V (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #6 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)

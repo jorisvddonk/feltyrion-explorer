@@ -1,0 +1,7 @@
+Planet: FARMOON 7
+Starmap index: 30
+Paris coordinates: 4173200, 5584233, -640733
+
+Guide entries:
+ ICY, NO ATMOSPHERE, LOW GRAVITY, VERY UNINTERESTING.
+(STARGAZER. EPOC 6011; 585.341)

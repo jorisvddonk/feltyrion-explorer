@@ -1,0 +1,3 @@
+Planet: ELECLERC
+Starmap index: 36
+Paris coordinates: 2721776, -23948225, -404417

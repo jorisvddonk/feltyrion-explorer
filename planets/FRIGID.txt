@@ -1,0 +1,6 @@
+Planet: FRIGID
+Starmap index: 04
+Paris coordinates: 1694640, -50788, -972174
+
+Guide entries:
+KIDITH 01/03

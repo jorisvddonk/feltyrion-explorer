@@ -1,0 +1,21 @@
+Star: STRACKONEYA
+Star class: S00
+Paris coordinates: -108932016, 26121020, -1827704
+Bodies: 15 (5 planets, 10 moons)
+
+System:
+- URSUS (@ large, not consistent)
+- SHYKOORKA (@ large, not consistent)
+- FAL RETAW (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (^ unstable)
+- EXIAS (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- MOWER (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

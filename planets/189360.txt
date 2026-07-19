@@ -1,0 +1,3 @@
+Planet: 189360
+Starmap index: 23
+Paris coordinates: 3621776, 4793277, -1241121

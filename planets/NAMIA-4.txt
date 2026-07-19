@@ -1,0 +1,3 @@
+Planet: NAMIA-4
+Starmap index: 39
+Paris coordinates: 3804272, 4398014, -524676

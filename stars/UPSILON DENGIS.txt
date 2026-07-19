@@ -1,0 +1,14 @@
+Star: UPSILON DENGIS
+Star class: S01
+Paris coordinates: 4083920, 5339555, -2057413
+Bodies: 8 (4 planets, 4 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

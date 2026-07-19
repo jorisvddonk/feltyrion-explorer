@@ -1,0 +1,3 @@
+Planet: JB 97
+Starmap index: 01
+Paris coordinates: -61432592, 29583170, 550786

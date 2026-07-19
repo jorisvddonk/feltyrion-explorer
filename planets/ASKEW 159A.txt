@@ -1,0 +1,3 @@
+Planet: ASKEW 159A
+Starmap index: 01
+Paris coordinates: 8843472, -12840671, 14055069

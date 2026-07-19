@@ -1,0 +1,3 @@
+Planet: SKIPPI
+Starmap index: 04
+Paris coordinates: 336432, 2813703, -1006390

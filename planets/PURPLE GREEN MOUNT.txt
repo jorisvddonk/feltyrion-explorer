@@ -1,0 +1,3 @@
+Planet: PURPLE GREEN MOUNT
+Starmap index: 01
+Paris coordinates: 4759632, 4727311, -2098670

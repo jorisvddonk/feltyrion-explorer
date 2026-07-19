@@ -1,0 +1,3 @@
+Planet: CHUPA
+Starmap index: 02
+Paris coordinates: -1532496, 826287, 601289

@@ -1,0 +1,3 @@
+Planet: PILANYS
+Starmap index: 03
+Paris coordinates: 3177136, 4238663, -1370334

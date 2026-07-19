@@ -1,0 +1,6 @@
+Planet: FROPLE
+Starmap index: 05
+Paris coordinates: 3683920, 4321661, -1688096
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.22.566

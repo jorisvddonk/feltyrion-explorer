@@ -1,0 +1,12 @@
+Star: RIBENA
+Star class: S05
+Paris coordinates: -825712, -1090544, 332495
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- RYE (d dusty, craterized)
+- RHYS (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY AIRCON, 6011.612.625.776
+VERY LITTLE LIGHT REACHING ITS TWO PLANETS, TRY NOT TO GET LOST!

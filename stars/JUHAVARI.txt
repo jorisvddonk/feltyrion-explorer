@@ -1,0 +1,12 @@
+Star: JUHAVARI
+Star class: S00
+Paris coordinates: 2091340880, -1273740, 693092
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- RHELFH (r rocky, creased)
+- BAFHARI (@ large, not consistent)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 3 PLANETS ONLY. 2.39203978 BAL. M. TEMP 9647K         
+RAD 14KR COOR 2091340880;-1273740;693092; SKINNYMON 6011 793.610            

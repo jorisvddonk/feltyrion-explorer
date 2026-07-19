@@ -1,0 +1,9 @@
+Star: NSF 09
+Star class: S06
+Paris coordinates: -823830960, -552500, -676288356
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+26 MTPD EST

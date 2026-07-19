@@ -1,0 +1,3 @@
+Planet: RADAX CARRIE 1
+Starmap index: 01
+Paris coordinates: -39730320, 1535785, 31426011

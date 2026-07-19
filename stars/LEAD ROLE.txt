@@ -1,0 +1,19 @@
+Star: LEAD ROLE
+Star class: S00
+Paris coordinates: 4638192, 2348129, 673775
+Bodies: 10 (4 planets, 6 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (q quartz surface)
+- Planet #2 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (^ unstable)
+
+Guide entries:
+STAR FOUND BY DR. WORM, EPOC 6011: 659.720

@@ -1,0 +1,17 @@
+Star: MOUSER
+Star class: S00
+Paris coordinates: -1104272, 324787, -1998239
+Bodies: 7 (6 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (q quartz surface)
+- MOUSER III (f felisian)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+S00 SYSTEM FOUND BY RICHARD SOLENSKY EPOC 6011-584.655.90
+THIRD PLANET (MOUSER III) IS FELISIAN

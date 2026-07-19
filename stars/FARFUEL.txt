@@ -1,0 +1,10 @@
+Star: FARFUEL
+Star class: S06
+Paris coordinates: 3970352, -66277733, -2800693
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S06 FUELSTAR AT THE BOTTOM OF THE GALAXY. 22MTPD OF LI+ IONS ARE
+GIVEN OFF. (SCHMERM 6011 592.947)

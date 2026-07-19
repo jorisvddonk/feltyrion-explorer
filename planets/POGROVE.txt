@@ -1,0 +1,3 @@
+Planet: POGROVE
+Starmap index: 01
+Paris coordinates: -2369264, -8558335, -2457338

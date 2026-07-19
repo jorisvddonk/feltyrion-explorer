@@ -1,0 +1,10 @@
+Star: NO LITH ZERO
+Star class: S06
+Paris coordinates: 3577136, 4332713, -1743177
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ UNSUITABLE FOR FUELING. INNOMINANDUS 723.735.288                           
+ EPOC 6011                                                                  

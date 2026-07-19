@@ -1,0 +1,13 @@
+Star: WITCH
+Star class: S10
+Paris coordinates: 4511056, 5078635, -871082
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- OWL (+ substellar object)
+- BLACK CAT (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY KALMAN FARAGO IN 6011.560.740
+FURTHER NOTES: A CLASS S10 SYSTEM WITH JUST 2 PLANETS, NOTHING OF NOTE.
+SKINNYMON EPOC 6011 572.800

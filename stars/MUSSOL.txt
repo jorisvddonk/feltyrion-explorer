@@ -1,0 +1,6 @@
+Star: MUSSOL
+Star class: S07
+Paris coordinates: 3366416, 3832527, -510554
+Bodies: 0 (0 planets, 0 moons)
+
+System:

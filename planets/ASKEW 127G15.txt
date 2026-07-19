@@ -1,0 +1,3 @@
+Planet: ASKEW 127G15
+Starmap index: 35
+Paris coordinates: 5386352, -15380264, 12260302

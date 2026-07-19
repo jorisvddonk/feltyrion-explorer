@@ -1,0 +1,36 @@
+Star: ANDROZANI
+Star class: S08
+Paris coordinates: 4066416, 4419160, -988413
+Bodies: 26 (6 planets, 20 moons)
+
+System:
+- ANDROZANI BETA (* companion star)
+  - JLJ-GGP-1 (@ large, not consistent)
+- ANDROZANI CETI (* companion star)
+- ANDROZANI DELTA (* companion star)
+  - JLJ-GGP-2 (+ substellar object)
+  - KADESH (k thick atmosphere)
+  - JLJ-USP-1 (^ unstable)
+  - ENLIGHTMENT (q quartz surface)
+  - JLJ-USP-2 (^ unstable)
+  - JLJ-USP-3 (^ unstable)
+  - VARGA (q quartz surface)
+  - JLJ-GGP-3 (@ large, not consistent)
+  - SHEMENOV (k thick atmosphere)
+- LONGPOINT (n thin atmosphere)
+  - TARGET RANGE (d dusty, craterized)
+  - DUSTBOWL (d dusty, craterized)
+- GLITTERING ROCK (q quartz surface)
+  - CLUMP (d dusty, craterized)
+  - VANISHING POINT (n thin atmosphere)
+  - ISOLATED (n thin atmosphere)
+- JLJ-GGP-4 (@ large, not consistent)
+  - OBSCURA (k thick atmosphere)
+  - BLANK SLATE (d dusty, craterized)
+  - ALMOST (q quartz surface)
+  - POWDER (d dusty, craterized)
+  - HUSK (d dusty, craterized)
+
+Guide entries:
+SYSTEM NOTES BY JEREMY JOHNSON, EPOC 6011 - 592.700'S
+ALL PLANETS NAMED AND EXPLORED BY JEREMY JOHNSON.

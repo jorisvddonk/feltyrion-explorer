@@ -1,0 +1,28 @@
+Star: BRIGHTNESS STAR
+Star class: S04
+Paris coordinates: 933168, 1028732, 9880851
+Bodies: 18 (9 planets, 9 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (n thin atmosphere)
+- BRIGHTNESS (q quartz surface)
+- Planet #4 (k thick atmosphere)
+- BRIGHTRING (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - BRIGHTLIFE (f felisian)
+  - Moon #2 (f felisian)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (k thick atmosphere)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY PARRY LOST, 6011.712.949                                      
+P.S. THERE IS LIFE IN THIS SYSTEM.                                          

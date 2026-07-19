@@ -1,0 +1,7 @@
+Planet: FORT FELIX
+Starmap index: 49
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ (SKYGEM IV A) A FELYISAN PLANET AROUND A RINGED GAS GIANT.
+AMWHERE 6011.585.75

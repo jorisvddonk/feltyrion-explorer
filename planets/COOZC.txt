@@ -1,0 +1,6 @@
+Planet: COOZC
+Starmap index: 21
+Paris coordinates: 2732496, 7144244, -1685433
+
+Guide entries:
+SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:797.125)               

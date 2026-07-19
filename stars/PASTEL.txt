@@ -1,0 +1,31 @@
+Star: PASTEL
+Star class: S00
+Paris coordinates: 3966416, 5566334, -844380
+Bodies: 21 (5 planets, 16 moons)
+
+System:
+- MUSTARD (@ large, not consistent)
+- BRIGHT PINK (@ large, not consistent)
+- DEEP YELLOW (k thick atmosphere)
+  - CREAM (d dusty, craterized)
+  - MINT GREEN (d dusty, craterized)
+- RAINBOW (f felisian)
+  - DEEP UMBER (n thin atmosphere)
+  - NEON BLUE (d dusty, craterized)
+  - MOON GREEN (d dusty, craterized)
+- ELECTRIC BLUE (@ large, not consistent)
+  - PEWTER GREY (k thick atmosphere)
+  - CHARTREUSE (q quartz surface)
+  - AEOLIAN (q quartz surface)
+  - KELLY GREEN (k thick atmosphere)
+  - CHESTNUT BROWN (n thin atmosphere)
+  - WALNUT BROWN (n thin atmosphere)
+  - CHALK (d dusty, craterized)
+  - OCHRE (d dusty, craterized)
+  - LIGHT GREEN (d dusty, craterized)
+  - HUNTER GREEN (r rocky, creased)
+  - LILAC (k thick atmosphere)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 5 PLANETS AND 16 MOONS, ONE FELISIAN WORLD.
+SKINNYMON EPOC 6011 593.101

@@ -1,0 +1,7 @@
+Star: YOUNG PRINC
+Star class: S09
+Paris coordinates: 3635344, 4313073, -529975
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- BUTIE (+ substellar object)

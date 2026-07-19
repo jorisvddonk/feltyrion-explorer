@@ -1,0 +1,3 @@
+Planet: OYT
+Starmap index: 19
+Paris coordinates: -64835440, 29718498, 1969366

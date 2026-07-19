@@ -1,0 +1,39 @@
+Star: RED DAWN
+Star class: S03
+Paris coordinates: 2770352, 4738986, -1565908
+Bodies: 29 (15 planets, 14 moons)
+
+System:
+- ISTOR (d dusty, craterized)
+- URSIT (d dusty, craterized)
+- CHRHYM (d dusty, craterized)
+  - OMEWO (n thin atmosphere)
+- LYGALA (r rocky, creased)
+  - RACIL (^ unstable)
+  - EARAV (^ unstable)
+- MAVAT (d dusty, craterized)
+  - HAMO (n thin atmosphere)
+- NICHAE (d dusty, craterized)
+- USQUE (d dusty, craterized)
+  - CYCA (d dusty, craterized)
+- IGVE (r rocky, creased)
+  - ZEKI (d dusty, craterized)
+  - ORDEL (i icy surface)
+- EMNAN (k thick atmosphere)
+  - VERFE (d dusty, craterized)
+  - ORON (^ unstable)
+- RANAR (d dusty, craterized)
+- MEOUS (@ large, not consistent)
+- OCUS (k thick atmosphere)
+  - HURS (n thin atmosphere)
+  - FERTOR (d dusty, craterized)
+- OUZOU (n thin atmosphere)
+- URPUR (r rocky, creased)
+  - ATICTU (d dusty, craterized)
+  - CROFIC (i icy surface)
+- THUSI (n thin atmosphere)
+  - TINGUI (d dusty, craterized)
+
+Guide entries:
+CLASS S03 SYSTEM WITH 15 PLANETS, 14 MOONS. NO FELISIAN WORLDS.
+SKINNYMON EPOC 6011 571.308

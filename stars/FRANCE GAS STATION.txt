@@ -1,0 +1,9 @@
+Star: FRANCE GAS STATION
+Star class: S06
+Paris coordinates: -20259376, -5558382, 41090490
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+THE GAS STATION OFFRANCE REGION OF MENDOZA EMPIRE.                          

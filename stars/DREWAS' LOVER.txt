@@ -1,0 +1,11 @@
+Star: DREWAS' LOVER
+Star class: S00
+Paris coordinates: -225712, -68297125, -43029
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DREWA (q quartz surface)
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:582.603
+BLUE SKY ABOVE AND LIGHT BROWN CLIFFS AROUND. UNFORTUNATELLY NO LIFE.

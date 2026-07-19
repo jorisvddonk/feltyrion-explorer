@@ -1,0 +1,8 @@
+Star: HIGHWAY 53
+Star class: S05
+Paris coordinates: -2040368, 572388, 4653171
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)

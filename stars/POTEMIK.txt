@@ -1,0 +1,50 @@
+Star: POTEMIK
+Star class: S00
+Paris coordinates: 3373200, 4101250, 120466
+Bodies: 38 (7 planets, 31 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (+ substellar object)
+- Planet #2 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (^ unstable)
+  - Moon #9 (k thick atmosphere)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (f felisian)
+  - Moon #5 (i icy surface)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (i icy surface)
+  - Moon #8 (i icy surface)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (r rocky, creased)
+  - Moon #13 (d dusty, craterized)
+  - Moon #14 (n thin atmosphere)
+
+Guide entries:
+FOUND BY P. PIHLAJANIEMI EPOC 572.645.766
+PLANET 3 IS INHABITED BY BIRDLIKE CREATURES.
+ FOUNDER SPOTTED A KANGAROOLIKE FIGURE IN THE MIST
+PLANET 4 ALSO SEEM TO CONTAIN BIRDS AND KANGAROOS

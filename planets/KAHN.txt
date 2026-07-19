@@ -1,0 +1,3 @@
+Planet: KAHN
+Starmap index: 02
+Paris coordinates: 861808, 5947580, -5741320

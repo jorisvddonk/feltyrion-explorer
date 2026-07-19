@@ -1,0 +1,43 @@
+Star: ASTARIA
+Star class: S00
+Paris coordinates: 2846064, 4721160, -1042736
+Bodies: 30 (8 planets, 22 moons)
+
+System:
+- ADSHI (k thick atmosphere)
+- ELMO 1 (d dusty, craterized)
+- RAINDROP (f felisian)
+- DARASIA (k thick atmosphere)
+  - STARBO (d dusty, craterized)
+  - LOGANI (^ unstable)
+- KOLOSIA (n thin atmosphere)
+  - TINWO (d dusty, craterized)
+- NICO 1 (n thin atmosphere)
+- FLEXCA (@ large, not consistent)
+  - HOLEIN (k thick atmosphere)
+  - THEWALL (r rocky, creased)
+  - CEPTI (k thick atmosphere)
+  - TYCH (n thin atmosphere)
+  - VETYNE (n thin atmosphere)
+  - UMMEL (n thin atmosphere)
+  - RAPHEME (i icy surface)
+  - FENDAN (q quartz surface)
+  - IVOW (q quartz surface)
+  - LATINSK (q quartz surface)
+  - EXPECTATION (f felisian)
+  - RESQUE (^ unstable)
+  - ORGO (i icy surface)
+  - EOTAX (k thick atmosphere)
+  - DIANAI (r rocky, creased)
+  - LYCERI (^ unstable)
+  - USHEE (k thick atmosphere)
+  - OSITO (n thin atmosphere)
+- HENRY 8 (d dusty, craterized)
+  - ANNEBOLEYN (i icy surface)
+
+Guide entries:
+FURTHER NOTES: WHEN I CAME TO THIS SYSTEM IT HAD JUST THE NAMED
+STAR AND 5 NAMED WORLDS, AND ONLY 2 COMMENTS. NOW IT IS A CLASS S00
+SYSTEM WITH 8 PLANETS, 22 MOONS AND 2 FELISIAN WORLDS. I JUST LOVE
+THESE RECLAMATION PROJECTS. I'LL BE BUSY FOR EPOCS. SKINNYMON EPOC
+6011 571.58

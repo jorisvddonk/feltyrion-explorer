@@ -1,0 +1,3 @@
+Planet: ISOMUSTA
+Starmap index: 03
+Paris coordinates: 3173200, 5269226, 148820

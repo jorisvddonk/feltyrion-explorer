@@ -1,0 +1,9 @@
+Star: LISTA 137
+Star class: S06
+Paris coordinates: 430333840, -1958225, -319511
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+REFUELING STOP. SKINNYMON EPOC 6011 607.447

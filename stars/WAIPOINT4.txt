@@ -1,0 +1,12 @@
+Star: WAIPOINT4
+Star class: S10
+Paris coordinates: 4844976, 5439587, 810360
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- POCKBALL 2 (+ substellar object)
+- POCKBALL 1 (+ substellar object)
+
+Guide entries:
+ANOTHER PROF.C.WAYPOINT! HOORAY!
+THIS SHOULD GET YOU FAR ENOUGH INTO DEEP SPACE FOR JUMP JOURNEYS...

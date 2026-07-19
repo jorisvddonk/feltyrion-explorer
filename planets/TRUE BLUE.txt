@@ -1,0 +1,3 @@
+Planet: TRUE BLUE
+Starmap index: 25
+Paris coordinates: -918928, 594171, 833580

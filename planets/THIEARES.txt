@@ -1,0 +1,3 @@
+Planet: THIEARES
+Starmap index: 04
+Paris coordinates: -61263664, 29271007, 710111

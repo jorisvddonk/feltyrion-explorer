@@ -1,0 +1,3 @@
+Planet: PISSOS
+Starmap index: 24
+Paris coordinates: -21393296, -5446820, 40255542

@@ -1,0 +1,13 @@
+Star: RADIANT QUEEN
+Star class: S11
+Paris coordinates: 3759632, 5130317, -1039622
+Bodies: 7 (3 planets, 4 moons)
+
+System:
+- MERRY BAUBLE (d dusty, craterized)
+- FLAWED EMERALD (@ large, not consistent)
+- DARK DISSIDENT (@ large, not consistent)
+  - ICESHARD (i icy surface)
+  - SEASHINING GEM (k thick atmosphere)
+  - GLORY WITHIN (^ unstable)
+  - VEINED CRYSTAL (i icy surface)

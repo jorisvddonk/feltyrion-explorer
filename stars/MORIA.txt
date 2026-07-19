@@ -1,0 +1,36 @@
+Star: MORIA
+Star class: S00
+Paris coordinates: 3876048, 4435559, 1533268
+Bodies: 21 (5 planets, 16 moons)
+
+System:
+- GARAK (@ large, not consistent)
+- IX (@ large, not consistent)
+- GLASS (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- BILBY (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- HYHJ (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (n thin atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (r rocky, creased)
+  - Moon #10 (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 571.710
+S00 STAR WITH 5 PLANETS
+PLANET 1 GARAK
+PLANET 2 IX
+PLANET 3 GLASS
+PLANET 4 BILBY
+PLANET 5 HYHJ

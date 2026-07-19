@@ -1,0 +1,11 @@
+Star: GORI
+Star class: S10
+Paris coordinates: 5870352, 8152104, -4645931
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- G0RI 1 (d dusty, craterized)
+- GORI 2 (k thick atmosphere)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.491

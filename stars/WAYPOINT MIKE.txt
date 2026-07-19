@@ -1,0 +1,22 @@
+Star: WAYPOINT MIKE
+Star class: S00
+Paris coordinates: -31046256, -20000567, -499915367
+Bodies: 13 (8 planets, 5 moons)
+
+System:
+- EJIPO (@ large, not consistent)
+- CUON (d dusty, craterized)
+- 67986789 (d dusty, craterized)
+- PFYR (f felisian)
+  - FYRTI (d dusty, craterized)
+- HEJK (d dusty, craterized)
+  - EKFOPFR (d dusty, craterized)
+- FYUYTP (n thin atmosphere)
+  - FYUUT (d dusty, craterized)
+- UYGG (k thick atmosphere)
+  - LITTLE ELSE (i icy surface)
+  - HAHIJK (d dusty, craterized)
+- IDENTICAL (r rocky, creased)
+
+Guide entries:
+(DISCOVERED 6011:579.646 BY SHADOWCLAW)

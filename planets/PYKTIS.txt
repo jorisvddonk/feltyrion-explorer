@@ -1,0 +1,3 @@
+Planet: PYKTIS
+Starmap index: 12
+Paris coordinates: 13778896, 7771155, -6306874

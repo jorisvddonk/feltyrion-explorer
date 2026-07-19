@@ -1,0 +1,8 @@
+Planet: PERAGE
+Starmap index: 03
+Paris coordinates: -120016, 5320411, 4043507
+
+Guide entries:
+P03/04 MEDIUM, THICK ATMO, COVERED BY CLOUDS. VERY RUSTY COLORED WITH       
+A LARGE DARK BAND. PRO 0.073.440 PRV 0.024.259.210 SKINNYMON EPOC           
+6011 791.270                                                                

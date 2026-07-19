@@ -1,0 +1,3 @@
+Planet: CALLIOPE
+Starmap index: 34
+Paris coordinates: 1975376, 4755210, -6263722

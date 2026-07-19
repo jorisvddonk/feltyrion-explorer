@@ -1,0 +1,7 @@
+Planet: ERTHULIJ
+Starmap index: 01
+Paris coordinates: 634154160, -11058310, 50011242
+
+Guide entries:
+P01 VERY LARGE SUBSTELLAR YELLOW BALL. PRO 0.111.960;                       
+PRV 0.006.019.858 SKINNYMON 6011 893.110                                    

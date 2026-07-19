@@ -1,0 +1,7 @@
+Planet: FARMOON 8
+Starmap index: 34
+Paris coordinates: 4173200, 5584233, -640733
+
+Guide entries:
+ ANOTHER ICE-BALL, NOTHING TO SEE HERE.
+(STARGAZER. EPOC 6011; 585.341)

@@ -1,0 +1,9 @@
+Star: RAMAS
+Star class: S02
+Paris coordinates: 3609296, 8257213, -5922593
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+SYSTEM DISCOVERED BY RAPTORJEDI EPOC 6011 605.660(HAS NO PLANETS)

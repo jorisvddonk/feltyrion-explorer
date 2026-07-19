@@ -1,0 +1,3 @@
+Planet: YELOMUEHN
+Starmap index: 13
+Paris coordinates: -1766416, -6455599, -921319

@@ -1,0 +1,3 @@
+Planet: UMMA TAT
+Starmap index: 19
+Paris coordinates: 5425712, 8286779, -4787371

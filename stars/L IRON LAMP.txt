@@ -1,0 +1,6 @@
+Star: L IRON LAMP
+Star class: S05
+Paris coordinates: -1419926128, 1253627, 1433107883
+Bodies: 0 (0 planets, 0 moons)
+
+System:

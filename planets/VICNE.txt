@@ -1,0 +1,6 @@
+Planet: VICNE
+Starmap index: 18
+Paris coordinates: 1374288, -67792336, -1896928
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:5584:572.

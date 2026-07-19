@@ -1,0 +1,6 @@
+Planet: SHINARA
+Starmap index: 09
+Paris coordinates: 2939280, 4388626, -1511660
+
+Guide entries:
+ DISCOVERED EPOC 6011:582.394 BY MARCUS ARAC

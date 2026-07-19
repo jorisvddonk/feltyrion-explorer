@@ -1,0 +1,11 @@
+Star: XAANT
+Star class: S06
+Paris coordinates: 1899665936, 1073901, 1899854685
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6011:589.755
+(S06) LI+
+COORDINATES = 1899665936, 1073901, 1899854685

@@ -1,0 +1,19 @@
+Star: EXTANT 128
+Star class: S00
+Paris coordinates: 58357488, -33935542, 927420570
+Bodies: 13 (9 planets, 4 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (q quartz surface)
+- Planet #3 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+- Planet #4 (f felisian)
+- Planet #5 (q quartz surface)
+  - Moon #0 (^ unstable)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)

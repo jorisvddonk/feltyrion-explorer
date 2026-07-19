@@ -1,0 +1,23 @@
+Star: STRATUS
+Star class: S00
+Paris coordinates: 3552848, 6145109, -1343871
+Bodies: 14 (8 planets, 6 moons)
+
+System:
+- FARRAR (r rocky, creased)
+- CHIBBLEY (r rocky, creased)
+- RIGAN (f felisian)
+  - GOHSEN (d dusty, craterized)
+- ROSA (@ large, not consistent)
+  - THORN (r rocky, creased)
+  - PRICKLE (d dusty, craterized)
+- IWA (d dusty, craterized)
+- VAEDER (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- THEROMANTLE (d dusty, craterized)
+- HAMRON (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+8 PLANETS AND 1 FELISIAN WORLD (KRUSTY 6011:596.999)

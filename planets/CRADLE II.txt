@@ -1,0 +1,6 @@
+Planet: CRADLE II
+Starmap index: 02
+Paris coordinates: 4190704, -10156437, -1803955
+
+Guide entries:
+ORANGE SUBSTELLAR GAS GIANT. HAS RING. (SCHMERM 6011 592.860)

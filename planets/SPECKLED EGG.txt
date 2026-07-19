@@ -1,0 +1,3 @@
+Planet: SPECKLED EGG
+Starmap index: 01
+Paris coordinates: 2018928, 4764914, -1771793

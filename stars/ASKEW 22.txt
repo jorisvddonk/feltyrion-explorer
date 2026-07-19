@@ -1,0 +1,6 @@
+Star: ASKEW 22
+Star class: S06
+Paris coordinates: 12979152, -20004163, 17980637
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: AEX-04
+Starmap index: 04
+Paris coordinates: 598576, 4279484, -1591122

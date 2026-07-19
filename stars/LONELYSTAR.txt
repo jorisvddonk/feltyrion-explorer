@@ -1,0 +1,9 @@
+Star: LONELYSTAR
+Star class: S00
+Paris coordinates: 2859632, 4626413, -229375
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR SIMILAR TO SUN WITHOUT PLANETS

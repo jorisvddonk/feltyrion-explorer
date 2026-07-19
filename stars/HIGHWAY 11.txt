@@ -1,0 +1,6 @@
+Star: HIGHWAY 11
+Star class: S06
+Paris coordinates: -18167920, -5367352, 32661185
+Bodies: 0 (0 planets, 0 moons)
+
+System:

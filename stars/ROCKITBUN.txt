@@ -1,0 +1,21 @@
+Star: ROCKITBUN
+Star class: S01
+Paris coordinates: 3101424, 4644598, -1958313
+Bodies: 10 (6 planets, 4 moons)
+
+System:
+- TOURETTES (q quartz surface)
+- ANEURYSM (q quartz surface)
+- POLLY (r rocky, creased)
+- HORGL (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- SMEAR (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- SONICVOLE (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY STARMAN,EPOC 6011-789.520.894.CLASS S01.                 
+SYSTEM AS 6 PLANETS AND 4 MINOR BODIES.P.M:40.10620117 BAL.M.               
+(NOTES BY STARMAN, EPOC 6011-789.521.40.)                                   

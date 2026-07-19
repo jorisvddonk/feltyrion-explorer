@@ -1,0 +1,9 @@
+Star: SOLONE
+Star class: S00
+Paris coordinates: 4373200, 4023248, -1145765
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FIRST SUN-LIKE STAR DISCOERED BY ERIDANI ON 6011.816.361                    

@@ -1,0 +1,6 @@
+Planet: AWNYS
+Starmap index: 27
+Paris coordinates: -251088, 1512852, 4247815
+
+Guide entries:
+ FELISIAN. HUGE CANYON AT 60.68:33.22

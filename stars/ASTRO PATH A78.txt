@@ -1,0 +1,6 @@
+Star: ASTRO PATH A78
+Star class: S01
+Paris coordinates: 4571600, 3630904, -43938166
+Bodies: 0 (0 planets, 0 moons)
+
+System:

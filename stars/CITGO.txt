@@ -1,0 +1,6 @@
+Star: CITGO
+Star class: S06
+Paris coordinates: 72103376, -1375406, 54687116
+Bodies: 0 (0 planets, 0 moons)
+
+System:

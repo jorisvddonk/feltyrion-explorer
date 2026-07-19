@@ -1,0 +1,7 @@
+Star: PUERIBUS
+Star class: S00
+Paris coordinates: 3866416, 4513508, -753788
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- NO QUALMS (q quartz surface)

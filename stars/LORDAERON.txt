@@ -1,0 +1,12 @@
+Star: LORDAERON
+Star class: S02
+Paris coordinates: 1939280, 4034008, -486886
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (q quartz surface)
+- Planet #1 (+ substellar object)
+- Planet #2 (@ large, not consistent)
+- Planet #3 (r rocky, creased)
+- Planet #4 (@ large, not consistent)
+- Planet #5 (+ substellar object)

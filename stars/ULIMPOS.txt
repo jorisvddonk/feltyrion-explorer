@@ -1,0 +1,24 @@
+Star: ULIMPOS
+Star class: S00
+Paris coordinates: 5100336, 4495542, -136525
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- ULIMPOS 1 (d dusty, craterized)
+- Planet #1 (^ unstable)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- ULIMPOS 4 (f felisian)
+- ULIMPOS 5 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 571.117.350
+S00 STAR WITH 5 PLANETS
+PLANET 1 ULIMPOS 1
+PLANET 2 ULIMPOS 2
+PLANET 3 ULIMPOS 3
+PLANET 4 ULIMPOS 4
+PLANET 5 ULIMPOS 5

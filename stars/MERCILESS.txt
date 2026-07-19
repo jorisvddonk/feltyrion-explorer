@@ -1,0 +1,22 @@
+Star: MERCILESS
+Star class: S00
+Paris coordinates: -62832592, 29548943, 2203579
+Bodies: 13 (5 planets, 8 moons)
+
+System:
+- AAARGH! (n thin atmosphere)
+- ANYTHING (d dusty, craterized)
+- MY TIME (k thick atmosphere)
+  - HOLLOW DEATH (d dusty, craterized)
+  - RIGID (n thin atmosphere)
+- GREY HEART (f felisian)
+  - UNDUE (d dusty, craterized)
+  - INFIRM (d dusty, craterized)
+  - TRYING (d dusty, craterized)
+- NOW!!! (q quartz surface)
+  - UNFAIR (d dusty, craterized)
+  - UNEVEN (n thin atmosphere)
+  - UNEASY (^ unstable)
+
+Guide entries:
+S00 DISCOVERED BY MCWGOGS, 6011.645.311.

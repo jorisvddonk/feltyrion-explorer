@@ -1,0 +1,6 @@
+Star: NOTING
+Star class: S00
+Paris coordinates: -107642736, 25024641, -2108979
+Bodies: 0 (0 planets, 0 moons)
+
+System:

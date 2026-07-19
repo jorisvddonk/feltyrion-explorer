@@ -1,0 +1,6 @@
+Star: POULIDOR
+Star class: S06
+Paris coordinates: 2563568, 5404467, -1827039
+Bodies: 0 (0 planets, 0 moons)
+
+System:

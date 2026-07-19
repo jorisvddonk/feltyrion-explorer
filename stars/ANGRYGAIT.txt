@@ -1,0 +1,11 @@
+Star: ANGRYGAIT
+Star class: S06
+Paris coordinates: 2693552, 46841546, 1827554
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY STARMAN, EPOC 6011-789.534.621.P06 DEAD STAR             
+VERY WEAK,VERY COLD,VERY SHORT OF L+IONS !!!S.O.S...STRANDED!!!!!!          
+(NOTES BY STARMAN, EPOC 6011-789.534.688.)                                  

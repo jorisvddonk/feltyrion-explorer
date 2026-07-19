@@ -1,0 +1,8 @@
+Star: GEETOO-35
+Star class: S00
+Paris coordinates: 6193968, 6167748, -15212555
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DROMIN (@ large, not consistent)
+- Planet #1 (n thin atmosphere)

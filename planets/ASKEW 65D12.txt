@@ -1,0 +1,3 @@
+Planet: ASKEW 65D12
+Starmap index: 28
+Paris coordinates: 11052016, -19159857, 17954467

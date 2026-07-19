@@ -1,0 +1,8 @@
+Planet: ASAINYCE
+Starmap index: 01
+Paris coordinates: 2101052272, -1953876, -623076
+
+Guide entries:
+P01/02 MEDIUM SIZE, THICK ATMO, CLOUD COVER IS BLUE WITH LARGE STORMS       
+HAS A MEDIUM SIZE BUT VERY TENUOUS RING, PRO 0.185.400 PRV 0.010.860.       
+809 SKINNYMON 6011 793.280                                                  

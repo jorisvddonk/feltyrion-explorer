@@ -1,0 +1,10 @@
+Star: SOLISTAR
+Star class: S00
+Paris coordinates: 2975376, 5819699, -7255047
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY TIANCRIS - EPOC 6011.691.631 -                                
+THERE ARE NO PLANETS IN THIS SYSTEM.                                        

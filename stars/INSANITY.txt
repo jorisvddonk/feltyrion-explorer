@@ -1,0 +1,11 @@
+Star: INSANITY
+Star class: S02
+Paris coordinates: 4159632, 4389114, -1467954
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ THIS IS THE FIRST SYSTEM DISCOVERED BY INSANE                              
+IT CONTAINS NO PLANETS.                                                     
+NOTES                                                                       

@@ -1,0 +1,3 @@
+Planet: SALAMIS
+Starmap index: 05
+Paris coordinates: 3821776, 4429682, -1462658

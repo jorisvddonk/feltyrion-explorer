@@ -1,0 +1,6 @@
+Planet: KALAREPA
+Starmap index: 20
+Paris coordinates: 4166416, 4703058, -1033495
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-569.235

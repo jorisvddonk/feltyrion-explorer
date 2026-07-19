@@ -1,0 +1,9 @@
+Star: AS01042146
+Star class: S03
+Paris coordinates: 53126128, 482974, 1981997230
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS.

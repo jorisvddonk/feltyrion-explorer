@@ -1,0 +1,38 @@
+Star: RANAI
+Star class: S00
+Paris coordinates: -3976048, -54394, -1317049
+Bodies: 23 (12 planets, 11 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- JALLA (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #5 (d dusty, craterized)
+- VADIL (f felisian)
+  - VALADIL (i icy surface)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (i icy surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (i icy surface)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #9 (i icy surface)
+- OPALAI (i icy surface)
+  - Moon #0 (n thin atmosphere)
+- Planet #11 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+S00; 12 PLANETS, 11 MINORS
+2 FELISIANS
+VERY WIDE-SPREAD SYSTEM FOR A S00
+ONLY VISIBLE AMPLIFIED FROM OUTERMOST PLANET
+DISCOVERED BY SHAM COURTNEY, 6011:596.396
+S01; 13 PLANETS, 32 MINORS
+1 FELISIAN

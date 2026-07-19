@@ -1,0 +1,3 @@
+Planet: ASKEW 112D
+Starmap index: 04
+Paris coordinates: 2008880, -12128966, 9171998

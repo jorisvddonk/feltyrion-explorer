@@ -1,0 +1,12 @@
+Star: AS01021606
+Star class: S02
+Paris coordinates: 50482576, 548918, 1980161030
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- AS01021606A (k thick atmosphere)
+- AS01021606B (k thick atmosphere)
+- AS01021606C (r rocky, creased)
+
+Guide entries:
+NO HABITABLE PLANETS.

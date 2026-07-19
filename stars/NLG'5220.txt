@@ -1,0 +1,6 @@
+Star: NLG'5220
+Star class: S08
+Paris coordinates: 2767504, 5338228, -3501535
+Bodies: 0 (0 planets, 0 moons)
+
+System:

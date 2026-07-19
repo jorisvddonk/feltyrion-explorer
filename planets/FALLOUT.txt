@@ -1,0 +1,3 @@
+Planet: FALLOUT
+Starmap index: 04
+Paris coordinates: 5369264, 4600105, -122686

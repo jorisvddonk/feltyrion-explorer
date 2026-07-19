@@ -1,0 +1,6 @@
+Star: SINGLE
+Star class: S08
+Paris coordinates: -336432, 445967, 1075440
+Bodies: 0 (0 planets, 0 moons)
+
+System:

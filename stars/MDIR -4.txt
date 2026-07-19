@@ -1,0 +1,9 @@
+Star: MDIR -4
+Star class: S06
+Paris coordinates: 1923536, 2604344, 6348672
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM, LITHIUM, LITHIUM, WHAT MANY A STARDRIFTER WANTS.                   

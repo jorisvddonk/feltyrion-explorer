@@ -1,0 +1,11 @@
+Star: REVANT
+Star class: S11
+Paris coordinates: 4128560, 4503885, -1348208
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SHADOWCASTER (n thin atmosphere)
+- ROCKBURST (d dusty, craterized)
+
+Guide entries:
+JEREMY JOHNSON, EPOC 6011 - 592.950

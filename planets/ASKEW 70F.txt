@@ -1,0 +1,6 @@
+Planet: ASKEW 70F
+Starmap index: 06
+Paris coordinates: 11076304, -19198926, 17684054
+
+Guide entries:
+FOUND EPOC 6011 587.491.050 BY ROLAND ASKEW

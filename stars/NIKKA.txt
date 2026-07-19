@@ -1,0 +1,11 @@
+Star: NIKKA
+Star class: S05
+Paris coordinates: 3570352, 6740459, -2423724
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ROZ (^ unstable)
+- OBI (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.188

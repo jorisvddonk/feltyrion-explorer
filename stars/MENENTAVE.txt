@@ -1,0 +1,57 @@
+Star: MENENTAVE
+Star class: S00
+Paris coordinates: -56784, -84307, -221013
+Bodies: 45 (12 planets, 33 moons)
+
+System:
+- MENENTAVE I (+ substellar object)
+- CRUCIUS (@ large, not consistent)
+- Planet #2 (n thin atmosphere)
+  - MENENTAVE IIIA (n thin atmosphere)
+  - MENENTAVE IIIB (d dusty, craterized)
+- Planet #3 (n thin atmosphere)
+  - MUSPEL A (d dusty, craterized)
+  - MUSPEL B (d dusty, craterized)
+- MENENTAVE V (d dusty, craterized)
+  - MENENTAVE VA (d dusty, craterized)
+- GRANIDOR (f felisian)
+- INVERNESS (+ substellar object)
+  - MACBETH (k thick atmosphere)
+  - MALCOLM (f felisian)
+  - BANQUO (d dusty, craterized)
+  - FLEANCE (f felisian)
+  - GLAMIS (r rocky, creased)
+  - CAWDOR (d dusty, craterized)
+- MENENTAVE VIII (n thin atmosphere)
+  - MENENTAVE VIIIA (d dusty, craterized)
+- MENENTAVE IX (d dusty, craterized)
+  - MENENTAVE IXA (d dusty, craterized)
+- MENENTAVE X (n thin atmosphere)
+  - MENENTAVE XA (d dusty, craterized)
+  - MENENTAVE XB (d dusty, craterized)
+- FRIGGA (@ large, not consistent)
+  - FRIGGA A (d dusty, craterized)
+  - GELATINUS (k thick atmosphere)
+  - FRIGGA C (i icy surface)
+  - Moon #3 (i icy surface)
+  - Moon #4 (i icy surface)
+  - FRIGGA F (i icy surface)
+  - FRIGGA G (i icy surface)
+  - FRIGGA H (i icy surface)
+  - FRIGGA I (i icy surface)
+  - FRIGGA J (i icy surface)
+  - FRIGGA K (i icy surface)
+  - FRIGGA L (i icy surface)
+  - FRIGGA M (i icy surface)
+  - FRIGGA N (i icy surface)
+  - FRIGGA O (i icy surface)
+  - FRIGGA P (i icy surface)
+  - FRIGGA Q (i icy surface)
+- MENENTAVE XII (r rocky, creased)
+  - MENENTAVE XIIA (i icy surface)
+
+Guide entries:
+AN S00 STAR 9.7LY FROM FELYSIA WITH 12 PLANETS.
+(DISCOVERED BY SCHMERM 6011 582.338)
+A CLASS S00 SYSTEM OF 12 PLANETS, 33 MOONS, THREE FELISIAN WORLDS
+(SUCH AS THEY ARE). SKINNYMON EPOC 6011 581.0

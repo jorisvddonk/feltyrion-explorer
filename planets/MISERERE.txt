@@ -1,0 +1,3 @@
+Planet: MISERERE
+Starmap index: 70
+Paris coordinates: 3804272, 4398014, -524676

@@ -1,0 +1,3 @@
+Planet: R'LYEH
+Starmap index: 01
+Paris coordinates: -194640, 6822325, -323763

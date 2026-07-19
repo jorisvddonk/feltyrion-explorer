@@ -1,0 +1,6 @@
+Star: JERWIN II
+Star class: S06
+Paris coordinates: -18532240, -5673426, 40850225
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,33 @@
+Star: INTEREST
+Star class: S00
+Paris coordinates: 7454608, -272077, 563776
+Bodies: 23 (11 planets, 12 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+- Planet #4 (f felisian)
+- Planet #5 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+- Planet #8 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (k thick atmosphere)
+- Planet #9 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+SOME COOL STUFF TO SEE HERE. NOTHING PARTICULARLY NOTABLE.
+STAR DISCOVERED BY DR. WORM, EPOC 6011: 659.750

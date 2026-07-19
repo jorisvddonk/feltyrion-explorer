@@ -1,0 +1,9 @@
+Star: KURTCOBAIN
+Star class: S06
+Paris coordinates: 5662480, 4624480, -1082346
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ CAUSE IT GAVE ME LITHIUM, NIL WITTHANEYE, 6011 664.168.460 APROX

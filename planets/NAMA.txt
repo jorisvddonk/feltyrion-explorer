@@ -1,0 +1,7 @@
+Planet: NAMA
+Starmap index: 06
+Paris coordinates: 4173200, 4174602, -869194
+
+Guide entries:
+DISCOVERED BY SHADOWSTAR ON 6011:850.601                                    
+THIS PLANET IS NEARLY THE SAME SIZE AS ITS MOON, WHICH IS ODDLY LARGER.     

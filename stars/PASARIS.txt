@@ -1,0 +1,34 @@
+Star: PASARIS
+Star class: S03
+Paris coordinates: 1067504, 1964183, -1819350
+Bodies: 25 (10 planets, 15 moons)
+
+System:
+- SOLDIC (n thin atmosphere)
+- LORZIR (@ large, not consistent)
+- PEHTOURN (n thin atmosphere)
+  - TAGASIS (d dusty, craterized)
+- DOTOR (r rocky, creased)
+  - ATMAS (n thin atmosphere)
+  - THOG (^ unstable)
+- HOLCOE (k thick atmosphere)
+  - KOHYL (d dusty, craterized)
+- QOR (q quartz surface)
+  - SOUROS (d dusty, craterized)
+- LLUF (d dusty, craterized)
+  - FIRGON (n thin atmosphere)
+- ORAGON (@ large, not consistent)
+  - BARETON (d dusty, craterized)
+  - LOLOP (d dusty, craterized)
+  - NARAN (i icy surface)
+  - KATICE (k thick atmosphere)
+  - PROBAT (n thin atmosphere)
+  - ALLON (q quartz surface)
+  - JOKORIS (d dusty, craterized)
+- YPEVRAN (r rocky, creased)
+- LONORIS (r rocky, creased)
+  - FAIST (d dusty, craterized)
+  - IRAKAH (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY FOTIOS. EPOC 6011:609.598

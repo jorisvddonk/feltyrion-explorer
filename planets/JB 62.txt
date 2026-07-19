@@ -1,0 +1,3 @@
+Planet: JB 62
+Starmap index: 01
+Paris coordinates: -61701520, 30087655, 778095

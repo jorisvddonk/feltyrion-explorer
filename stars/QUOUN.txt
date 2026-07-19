@@ -1,0 +1,32 @@
+Star: QUOUN
+Star class: S03
+Paris coordinates: 3859632, 5023690, -1372682
+Bodies: 22 (4 planets, 18 moons)
+
+System:
+- PIOTA (d dusty, craterized)
+- TREHG (n thin atmosphere)
+- GARTRAN (+ substellar object)
+  - GARTRAN ALPHA (n thin atmosphere)
+  - GARTRAN BETA (^ unstable)
+  - GARTRAN GAMMA (f felisian)
+  - GARTRAN DELTA (d dusty, craterized)
+  - GARTRAN EPSILON (@ large, not consistent)
+  - GARTRAN ZETA (k thick atmosphere)
+  - GARTRAN ETA (@ large, not consistent)
+  - GARTRAN THETA (n thin atmosphere)
+  - GARTRAN IOTA (q quartz surface)
+  - GARTRAN KAPPA (n thin atmosphere)
+  - GARTRAN LAMBDA (f felisian)
+  - GARTRAN MU (d dusty, craterized)
+  - GARTRAN NU (n thin atmosphere)
+  - GARTRAN XI (d dusty, craterized)
+  - GARTRAN OMICRON (f felisian)
+  - GARTRAN PI (r rocky, creased)
+- KYEPH (r rocky, creased)
+  - KYEPH ALPHA (d dusty, craterized)
+  - KYEPH BETA (d dusty, craterized)
+
+Guide entries:
+NAMED BY XILOSCIENT (EPOC 6011:572.307)
+TYPE S03 STAR

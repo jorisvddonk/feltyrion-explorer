@@ -1,0 +1,12 @@
+Star: JULIA
+Star class: S00
+Paris coordinates: 18928, 40432, 159913
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LINDACORA (@ large, not consistent)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.315
+FURTHER NOTES: A CLASS S00 SYSTEM WITH ONLY ONE PLANET. SKINNYMON EPOC
+6011 580.232

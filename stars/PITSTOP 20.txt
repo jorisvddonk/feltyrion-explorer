@@ -1,0 +1,6 @@
+Star: PITSTOP 20
+Star class: S06
+Paris coordinates: 97744, 38039, 435531965
+Bodies: 0 (0 planets, 0 moons)
+
+System:

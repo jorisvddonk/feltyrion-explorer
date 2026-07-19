@@ -1,0 +1,9 @@
+Planet: HORALESSA
+Starmap index: 06
+Paris coordinates: 1353936, 4952744, -3128537
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.628.89                            
+THE FIRSTE MOON OF VIOLETTESSA. COLOURED IN THREE ORANGES.                  
+INTERNALLY HOT, UNSTABLE SURFACE. I AM UNABLE TO LAND.                      
+(RT E 6011:727.628.231)                                                     

@@ -1,0 +1,3 @@
+Planet: EREK
+Starmap index: 01
+Paris coordinates: 3331408, 5456165, 1524673

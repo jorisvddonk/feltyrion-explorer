@@ -1,0 +1,6 @@
+Star: DABUNDBRAK
+Star class: S01
+Paris coordinates: 950000, 50950000, -1050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

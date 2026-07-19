@@ -1,0 +1,33 @@
+Star: HIGHWAY 35
+Star class: S09
+Paris coordinates: -11968592, -4477584, 16808554
+Bodies: 27 (4 planets, 23 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (+ substellar object)
+- Planet #2 (+ substellar object)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (k thick atmosphere)
+  - Moon #5 (@ large, not consistent)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (r rocky, creased)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (r rocky, creased)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (^ unstable)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (f felisian)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (^ unstable)
+  - Moon #10 (f felisian)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (k thick atmosphere)

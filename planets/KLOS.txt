@@ -1,0 +1,3 @@
+Planet: KLOS
+Starmap index: 09
+Paris coordinates: -370352, 661330, -712610

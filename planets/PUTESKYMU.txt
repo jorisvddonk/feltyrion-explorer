@@ -1,0 +1,8 @@
+Planet: PUTESKYMU
+Starmap index: 09
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+M06/P03 MEDIUM SIZE, THIN ATMO, VERY TURBID CLOUD COVER WITH NO             
+ACTIVITY, GREEN COLOR. PRO 0.147.240 PRV 0.005.229.950 SKINNYMON            
+6011 796.378                                                                

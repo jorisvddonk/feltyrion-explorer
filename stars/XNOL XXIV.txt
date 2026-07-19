@@ -1,0 +1,9 @@
+Star: XNOL XXIV
+Star class: S06
+Paris coordinates: 4024624, 5135637, 384778
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+VERY COOL(21 DEG SURFACE TEMP) STAR WITH...NO LITHIUM! RYAN GJK             

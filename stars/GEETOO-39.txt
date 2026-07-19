@@ -1,0 +1,11 @@
+Star: GEETOO-39
+Star class: S03
+Paris coordinates: 6428976, 6343639, -17121108
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- GREEN FAZOW (k thick atmosphere)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #3 (d dusty, craterized)

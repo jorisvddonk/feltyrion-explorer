@@ -1,0 +1,6 @@
+Star: RAMAPO
+Star class: S06
+Paris coordinates: -3527472, 319738, -2692810
+Bodies: 0 (0 planets, 0 moons)
+
+System:

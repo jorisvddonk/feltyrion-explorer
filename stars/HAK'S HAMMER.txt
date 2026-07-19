@@ -1,0 +1,10 @@
+Star: HAK'S HAMMER
+Star class: S11
+Paris coordinates: 1112144, -67571804, -1266956
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- HAK'S ANVIL (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:490

@@ -1,0 +1,52 @@
+Star: DAWN2978
+Star class: S00
+Paris coordinates: 187856, 6215683, 127905
+Bodies: 39 (11 planets, 28 moons)
+
+System:
+- CHRIS2780 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+- SR-388 (f felisian)
+- Planet #4 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (i icy surface)
+  - Moon #5 (i icy surface)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (q quartz surface)
+  - Moon #8 (n thin atmosphere)
+  - Moon #9 (i icy surface)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (^ unstable)
+  - Moon #12 (q quartz surface)
+- Planet #7 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (f felisian)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (i icy surface)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (^ unstable)
+  - Moon #7 (q quartz surface)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #9 (q quartz surface)
+  - Moon #0 (^ unstable)
+- Planet #10 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY CHRIS CROMWELL 6011.765.835                                   
+THIS IS A BRIGHT STAR THAT HAS A FEW PLANETS SUITABLE FOR LIFE.             
+AS OF THIS TIME ONLY ONE PLANET IS KNOWN TO HARBOUR SUCH THINGS.            
+STAR DAWN AND PLANET CHRIS NAMED FOR THE CLOSENESS AS IF TOGETHER.          
+CHRIS CROMWELL 6011.765.836                                                 

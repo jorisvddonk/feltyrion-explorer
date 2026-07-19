@@ -1,0 +1,3 @@
+Planet: INCONTINENT
+Starmap index: 04
+Paris coordinates: 11045232, -19173216, 17808348

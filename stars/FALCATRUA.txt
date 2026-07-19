@@ -1,0 +1,23 @@
+Star: FALCATRUA
+Star class: S00
+Paris coordinates: 4824624, 4836514, -344964
+Bodies: 17 (9 planets, 8 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- BLUE GL (k thick atmosphere)
+- SERRA 444 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- PICO (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (k thick atmosphere)
+  - FARPOINT (i icy surface)
+- Planet #8 (i icy surface)
+  - Moon #0 (n thin atmosphere)

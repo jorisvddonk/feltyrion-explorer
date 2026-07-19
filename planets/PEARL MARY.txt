@@ -1,0 +1,3 @@
+Planet: PEARL MARY
+Starmap index: 12
+Paris coordinates: 4259632, 5344350, -1544840

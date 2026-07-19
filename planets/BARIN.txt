@@ -1,0 +1,3 @@
+Planet: BARIN
+Starmap index: 20
+Paris coordinates: 2173200, 2163851, 1078175

@@ -1,0 +1,3 @@
+Planet: TRIPE
+Starmap index: 34
+Paris coordinates: 670352, 437173, 502845

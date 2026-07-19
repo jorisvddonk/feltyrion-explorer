@@ -1,0 +1,3 @@
+Planet: ASKEW 86G
+Starmap index: 07
+Paris coordinates: 10876304, -19148790, 17887850

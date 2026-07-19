@@ -1,0 +1,8 @@
+Planet: DRIXAX II
+Starmap index: 15
+Paris coordinates: 3711056, 4612074, -78250
+
+Guide entries:
+DISCOVERED BY NEURONWAKE EPOC 6011 802.529.230                              
+DID NOT LAND. LIKE MANY MOONS, IT IS A CRATERED SPACE ROCK.                 
+(NEURONWAKE 6011 802.529.516)                                               

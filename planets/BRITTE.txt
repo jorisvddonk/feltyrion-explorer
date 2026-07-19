@@ -1,0 +1,6 @@
+Planet: BRITTE
+Starmap index: 02
+Paris coordinates: 4868176, 13657481, 4132873
+
+Guide entries:
+PLANET DISCOVERED BY MURRMURR EPOC 6011:608.156

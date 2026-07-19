@@ -1,0 +1,43 @@
+Star: ARCHITECT'S AGE
+Star class: S04
+Paris coordinates: -532496, -163263, -374858
+Bodies: 33 (12 planets, 21 moons)
+
+System:
+- CALVARIUM (k thick atmosphere)
+- TOYZUMB (n thin atmosphere)
+- SPARKIHE (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- TRITWOW (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+- BREGAS (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- IVENTIGO (d dusty, craterized)
+- RUMPIK (d dusty, craterized)
+  - Moon #0 (i icy surface)
+- SSTUSSAISS (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (k thick atmosphere)
+  - TSINA (f felisian)
+  - TSUNA (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (d dusty, craterized)
+- KNOBUT (+ substellar object)
+  - Moon #0 (@ large, not consistent)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (^ unstable)
+- GAMUNDER (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- GARCIMECO (q quartz surface)
+  - Moon #0 (^ unstable)
+- RIGWYYEED (r rocky, creased)
+
+Guide entries:
+SYSTEM DISCOVERED BY ZOSETE (EPOC 6011 577.592.619)
+HOSTS 12 PLANETS, 21 MOONS. 2 FELISIAN WORLDS (4/8,5/8)

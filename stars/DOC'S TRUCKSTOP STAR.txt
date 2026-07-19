@@ -1,0 +1,11 @@
+Star: DOC'S TRUCKSTOP STAR
+Star class: S06
+Paris coordinates: 3208208, 4136752, -1650948
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+WELCOME TO DOCS TRUCKSTOP STAR,
+WEVE GOT SNACKS AND SUPPLIES!
+DISCOVERED BY DRL STARDATE 565.868.135

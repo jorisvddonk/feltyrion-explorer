@@ -1,0 +1,6 @@
+Planet: JEKIM WAD
+Starmap index: 01
+Paris coordinates: 5697488, 5266414, -2822032
+
+Guide entries:
+ MEANS ROUGHLY MOSS GROWING ON ROCK IN GAMMA GLYPH

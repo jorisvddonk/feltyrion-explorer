@@ -1,0 +1,11 @@
+Star: BIG SUR
+Star class: S00
+Paris coordinates: -1696400, 6050665, -4835932
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- ALENCON (@ large, not consistent)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

@@ -1,0 +1,6 @@
+Star: RECONDITE XVII
+Star class: S06
+Paris coordinates: 911081072, 19348173, -911162195
+Bodies: 0 (0 planets, 0 moons)
+
+System:

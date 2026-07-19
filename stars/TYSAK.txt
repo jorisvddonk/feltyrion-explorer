@@ -1,0 +1,10 @@
+Star: TYSAK
+Star class: S11
+Paris coordinates: -1521776, -266491, -687615
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY NYTAR, EPOC 6011:612.216
+CLASS S11 STAR - PULSAR.

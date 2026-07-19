@@ -1,0 +1,9 @@
+Star: EKA68 EMPTY BLUE
+Star class: S07
+Paris coordinates: 325712, 22307, 341911
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A BLUE DWARF IN THE VICINITY OF 0,0,0. NO PLANETS. --EKA

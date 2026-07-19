@@ -1,0 +1,16 @@
+Star: CEEL
+Star class: S02
+Paris coordinates: 1170352, 1373898, -11566
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- BLOO (d dusty, craterized)
+- SIFFT (@ large, not consistent)
+- OVERLAP (d dusty, craterized)
+- CHIMIA (k thick atmosphere)
+- IINARA (d dusty, craterized)
+- FLIKIA (+ substellar object)
+
+Guide entries:
+DISCOVERED BY EXPLORER EPOC 6011:568.312
+A 6 BODY SYSTEM.

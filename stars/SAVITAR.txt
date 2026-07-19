@@ -1,0 +1,6 @@
+Star: SAVITAR
+Star class: S06
+Paris coordinates: 856784, 115105, -490277
+Bodies: 0 (0 planets, 0 moons)
+
+System:

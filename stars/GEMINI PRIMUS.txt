@@ -1,0 +1,18 @@
+Star: GEMINI PRIMUS
+Star class: S08
+Paris coordinates: 239280, 632515, 1210717
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- GEMINI SECUNUDUS (* companion star)
+- Planet #1 (r rocky, creased)
+- Planet #2 (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+
+Guide entries:
+3 PLANETS AND 3 MOONS                                                       
+MOSTLY UNLABELED                                                            
+SYSTEM DISCOVERER UNKNOWN                                                   
+NOTES BY BLADE TRAIN3R 6011 705;156                                         

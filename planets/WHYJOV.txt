@@ -1,0 +1,3 @@
+Planet: WHYJOV
+Starmap index: 02
+Paris coordinates: 3252848, 5675194, -1215611

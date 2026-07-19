@@ -1,0 +1,6 @@
+Star: GM-E01-44
+Star class: S00
+Paris coordinates: 15550000, 48050000, -15650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

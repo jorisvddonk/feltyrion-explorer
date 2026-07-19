@@ -1,0 +1,11 @@
+Star: GOLIATH
+Star class: S04
+Paris coordinates: 1962480, 818203, 2606087
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- TEPID GLOBE (n thin atmosphere)
+
+Guide entries:
+FURTHER NOTES: CLASS S04 WITH 1 PLANET OF NO MAJOR INTEREST.
+SKINNYMON EPOC 6011 569.933

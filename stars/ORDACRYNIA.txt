@@ -1,0 +1,12 @@
+Star: ORDACRYNIA
+Star class: S05
+Paris coordinates: 1570352, 6924634, -352423
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- AMORPHYA (d dusty, craterized)
+- VITRINYA (r rocky, creased)
+
+Guide entries:
+A BROWN DWARF LIKE
+OTHER ONES BUT WITH A PARTICULAR PLANET,VITRINYA

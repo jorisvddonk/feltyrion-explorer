@@ -1,0 +1,6 @@
+Star: MERIDITH
+Star class: S08
+Paris coordinates: -1501424, -857517, 510322
+Bodies: 0 (0 planets, 0 moons)
+
+System:

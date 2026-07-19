@@ -1,0 +1,6 @@
+Star: L++
+Star class: S06
+Paris coordinates: 10460976, 11520372, 11459975
+Bodies: 0 (0 planets, 0 moons)
+
+System:

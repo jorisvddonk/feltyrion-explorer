@@ -1,0 +1,14 @@
+Star: UNNECESSARY ROUGHNES
+Star class: S03
+Paris coordinates: 4862480, 4208953, -288169
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- PERSONAL FOUL (n thin atmosphere)
+- LOSS OF DOWN (d dusty, craterized)
+- FIFTEEN YARDS (k thick atmosphere)
+  - PENALTY MARKED OFF (d dusty, craterized)
+
+Guide entries:
+A CLASS S03 SYSTEM OF 3 PLANETS, 1 MOON, NO FELISIAN
+WORLDS. SKINNYMON EPOC 6011 575.221

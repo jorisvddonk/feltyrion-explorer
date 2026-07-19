@@ -1,0 +1,6 @@
+Star: SOLUS
+Star class: S00
+Paris coordinates: 4755696, 4689030, -619630
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,10 @@
+Star: FUELHAM
+Star class: S06
+Paris coordinates: -243216, 361959, 568695
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ELHAM 6011.722.997.800. CLASS 6 (LITHIUM). IT'S ALL FOR       
+YOU.                                                                        

@@ -1,0 +1,3 @@
+Planet: GNALLA
+Starmap index: 03
+Paris coordinates: 5876048, 4961068, -246579

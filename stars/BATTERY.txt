@@ -1,0 +1,9 @@
+Star: BATTERY
+Star class: S06
+Paris coordinates: 1859632, 2179798, 561699
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GOOD REFUELING STAR.

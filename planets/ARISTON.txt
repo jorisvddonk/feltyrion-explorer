@@ -1,0 +1,6 @@
+Planet: ARISTON
+Starmap index: 09
+Paris coordinates: 752848, 414304, 1300716
+
+Guide entries:
+ DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.226

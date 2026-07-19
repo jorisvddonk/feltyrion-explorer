@@ -1,0 +1,9 @@
+Star: EKA70 BLUE FLAME
+Star class: S07
+Paris coordinates: -194640, 22325, -328266
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BLUE DWARF IN THE VICINITY OF 0,0,0. NO PLANETS. --EKA

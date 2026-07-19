@@ -1,0 +1,8 @@
+Star: RENDELLI
+Star class: S03
+Paris coordinates: -212400, -18652, 796576890
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- DRELLENTIE (q quartz surface)
+- JUYTHANEEM (k thick atmosphere)

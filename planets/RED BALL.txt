@@ -1,0 +1,7 @@
+Planet: RED BALL
+Starmap index: 09
+Paris coordinates: 4686768, 4539542, -584216
+
+Guide entries:
+ DISCOVERED BY SHADOWSTAR
+ ROCKY PLANET WITH AN UNUSUAL RING.

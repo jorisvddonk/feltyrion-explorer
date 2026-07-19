@@ -1,0 +1,3 @@
+Planet: VALYX-F-S10
+Starmap index: 41
+Paris coordinates: 2916080, -262885, -4753549

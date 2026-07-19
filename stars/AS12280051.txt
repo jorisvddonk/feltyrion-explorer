@@ -1,0 +1,9 @@
+Star: AS12280051
+Star class: S05
+Paris coordinates: 48813648, 246684, 1981657196
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO PLANETS

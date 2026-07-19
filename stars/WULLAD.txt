@@ -1,0 +1,31 @@
+Star: WULLAD
+Star class: S01
+Paris coordinates: 1100443536, 1644619, 54686807
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- WULLAD PRIME (r rocky, creased)
+- WULLAD 2 (d dusty, craterized)
+- WULLAD 3 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (^ unstable)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (f felisian)
+  - Moon #13 (n thin atmosphere)
+  - Moon #14 (f felisian)
+  - Moon #15 (^ unstable)
+- WULLAD 4 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.961
+(S01) 4 PLANETS / 17 MINOR

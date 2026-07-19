@@ -1,0 +1,9 @@
+Star: FORGOTTEN REALM
+Star class: S05
+Paris coordinates: 4711056, 4970276, -1052569
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)
+- Planet #2 (n thin atmosphere)

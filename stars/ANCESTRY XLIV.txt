@@ -1,0 +1,17 @@
+Star: ANCESTRY XLIV
+Star class: S02
+Paris coordinates: -1438540368, 835885, 1441005373
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (k thick atmosphere)
+- Planet #4 (d dusty, craterized)
+- Planet #5 (@ large, not consistent)
+- Planet #6 (k thick atmosphere)
+- PRIMARY SUM (+ substellar object)
+
+Guide entries:
+S02, WITH 8(!) PLANETS. RYAN GJK E6011.788.12                               

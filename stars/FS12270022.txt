@@ -1,0 +1,6 @@
+Star: FS12270022
+Star class: S06
+Paris coordinates: 49255920, 135733, 1050479545
+Bodies: 0 (0 planets, 0 moons)
+
+System:

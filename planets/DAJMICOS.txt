@@ -1,0 +1,3 @@
+Planet: DAJMICOS
+Starmap index: 02
+Paris coordinates: -105964176, 26071152, -983940

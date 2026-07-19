@@ -1,0 +1,6 @@
+Star: BARREN LITHIUM A2
+Star class: S06
+Paris coordinates: 3532496, 4462138, -2494404
+Bodies: 0 (0 planets, 0 moons)
+
+System:

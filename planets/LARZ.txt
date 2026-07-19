@@ -1,0 +1,3 @@
+Planet: LARZ
+Starmap index: 01
+Paris coordinates: 3935344, 4724120, -788840

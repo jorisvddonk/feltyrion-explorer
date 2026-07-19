@@ -1,0 +1,3 @@
+Planet: ASKEW 49E2
+Starmap index: 24
+Paris coordinates: 11331664, -19103394, 16761200

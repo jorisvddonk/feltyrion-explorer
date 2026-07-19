@@ -1,0 +1,3 @@
+Planet: GHO MEKKE
+Starmap index: 03
+Paris coordinates: 3917840, 4209488, 83793

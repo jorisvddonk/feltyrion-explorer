@@ -1,0 +1,3 @@
+Planet: MEINOS NUELLOS
+Starmap index: 09
+Paris coordinates: 2146902192, 1640336, 1610152160

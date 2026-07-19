@@ -1,0 +1,3 @@
+Planet: MARKEE
+Starmap index: 03
+Paris coordinates: 3783920, 5033902, -1784596

@@ -1,0 +1,6 @@
+Star: SINGLE WHITE MALE
+Star class: S00
+Paris coordinates: 750000, 9650000, -850000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

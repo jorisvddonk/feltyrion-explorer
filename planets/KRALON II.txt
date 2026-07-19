@@ -1,0 +1,7 @@
+Planet: KRALON II
+Starmap index: 02
+Paris coordinates: 3794640, -66477082, -3060554
+
+Guide entries:
+A DENSEWORLD WITH GREEN CLOUDS AND A VERY THIN RING.
+(SCHMERM 6011 593.659)

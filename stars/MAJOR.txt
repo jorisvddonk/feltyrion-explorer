@@ -1,0 +1,10 @@
+Star: MAJOR
+Star class: S06
+Paris coordinates: 4321776, 4667302, -1949446
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY ZAG EPOC 6011.674.649
+APPARENTLY UNSUITABLE FOR LITHIUM IONS

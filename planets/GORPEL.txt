@@ -1,0 +1,6 @@
+Planet: GORPEL
+Starmap index: 02
+Paris coordinates: 3221776, 4589395, -827691
+
+Guide entries:
+EXP BY SUNFIRE

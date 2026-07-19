@@ -1,0 +1,9 @@
+Star: BEAMBLANK
+Star class: S07
+Paris coordinates: -62321872, 29679793, 397389
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A RELATIVELY HOT S07 STAR WITH NO PLANETS. RYAN GJK E6011.792.671           

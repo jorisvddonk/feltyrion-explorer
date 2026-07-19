@@ -1,0 +1,3 @@
+Planet: DEATHSTAR
+Starmap index: 18
+Paris coordinates: 12144, 354769, -222098

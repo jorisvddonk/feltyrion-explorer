@@ -1,0 +1,8 @@
+Planet: IZANAGI
+Starmap index: 57
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+DISCOVERED BY MISTRAL, EPOC 6011.797.807                                    
+MOON IS DUSTY AND ATMOSPHERELESS                                            
+(NOTES BY MISTRAL, EPOC 6011.797.807)                                       

@@ -1,0 +1,7 @@
+Planet: MEAL
+Starmap index: 14
+Paris coordinates: -72824208, -13935588, 55276606
+
+Guide entries:
+NOT EATABLE, BORING INSTEAD.
+(DISCOVERED BY MEGAGUN)

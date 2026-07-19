@@ -1,0 +1,10 @@
+Star: LITHSTOP-3
+Star class: S06
+Paris coordinates: 2735344, 3979930, 374685
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+'DISCOVERED BY JOHN DILICK 6011:609.153'
+'SUITABLE FOR SCOPING (JOHN DILICK, 6011:609.153)'

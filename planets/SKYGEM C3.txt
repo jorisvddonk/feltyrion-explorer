@@ -1,0 +1,6 @@
+Planet: SKYGEM C3
+Starmap index: 32
+Paris coordinates: 294640, 402336, 404519
+
+Guide entries:
+ ANOTHER PLAIN, CLOUD COVERED PLANET. AMWHERE 6011.584.971

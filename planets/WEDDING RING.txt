@@ -1,0 +1,3 @@
+Planet: WEDDING RING
+Starmap index: 04
+Paris coordinates: 3559632, 3910553, -1121896

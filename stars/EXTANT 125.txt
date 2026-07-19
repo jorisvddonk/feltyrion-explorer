@@ -1,0 +1,7 @@
+Star: EXTANT 125
+Star class: S00
+Paris coordinates: 58995344, -33886898, 927175694
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)

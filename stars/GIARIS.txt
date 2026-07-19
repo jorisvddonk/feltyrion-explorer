@@ -1,0 +1,30 @@
+Star: GIARIS
+Star class: S00
+Paris coordinates: 3751760, 4461391, 2168286
+Bodies: 20 (9 planets, 11 moons)
+
+System:
+- MONTIPEY (q quartz surface)
+- DRAGON'S EYE (q quartz surface)
+- SAPTHURIL (f felisian)
+  - CHASING THE SUN (d dusty, craterized)
+- NOOST (n thin atmosphere)
+  - BIES (d dusty, craterized)
+- GEIGAS (+ substellar object)
+  - FIUTO (d dusty, craterized)
+  - TAURE (^ unstable)
+  - HOIMA (^ unstable)
+- PSEDRITE (k thick atmosphere)
+  - KSIPH (d dusty, craterized)
+  - PSEPH (d dusty, craterized)
+- ACRUD (n thin atmosphere)
+- ENGAGEMENT RING (q quartz surface)
+  - TIRTI (d dusty, craterized)
+- TEMBILGO (q quartz surface)
+  - VEYO (n thin atmosphere)
+  - FIHUE (^ unstable)
+  - PEWEIL (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES: A CLASS S00 SYSTEM OF 9 PLANETS, 11 MOONS, ONE FELISIAN
+WORLD. SKINNYMON EPOC 6011 593.962

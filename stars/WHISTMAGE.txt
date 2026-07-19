@@ -1,0 +1,8 @@
+Star: WHISTMAGE
+Star class: S00
+Paris coordinates: 3442128, 4530971, 167077
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BRITTLEBANE (@ large, not consistent)
+- COPPERSAGE (d dusty, craterized)

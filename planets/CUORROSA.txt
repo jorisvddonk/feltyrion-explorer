@@ -1,0 +1,8 @@
+Planet: CUORROSA
+Starmap index: 12
+Paris coordinates: 1353936, 4952744, -3128537
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.643.664                           
+FIRST MOON OF DESIRROSA                                                     
+THE MOON APPEARS NEAR IDENTICAL TO IT'S PARENT. (RT 6011:727.644.854)       

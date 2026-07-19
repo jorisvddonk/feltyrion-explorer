@@ -1,0 +1,10 @@
+Star: RABBIT HOP
+Star class: S06
+Paris coordinates: 3656784, 4128231, -3131101
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011.561.138
+SUITABLE FOR LITHIUM

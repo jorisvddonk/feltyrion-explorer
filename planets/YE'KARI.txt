@@ -1,0 +1,3 @@
+Planet: YE'KARI
+Starmap index: 09
+Paris coordinates: 1624624, 31139792, 2797652

@@ -1,0 +1,3 @@
+Planet: ASKEW 28D13
+Starmap index: 17
+Paris coordinates: 11383088, -19493067, 17650489

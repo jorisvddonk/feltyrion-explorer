@@ -1,0 +1,7 @@
+Planet: PHUKRATOS
+Starmap index: 03
+Paris coordinates: -1246064, -625757, -538613
+
+Guide entries:
+SMALL, SOLID, CRATERED, NO ATMOSPHERE.
+NYTAR, EPOC 6011:611.870

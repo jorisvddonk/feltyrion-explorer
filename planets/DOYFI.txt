@@ -1,0 +1,8 @@
+Planet: DOYFI
+Starmap index: 12
+Paris coordinates: 2140775312, -1801647, -339743
+
+Guide entries:
+M03/P03 MEDIUM SIZED THICK ATMO CLOUDY. HAS A RATHER MOTTLED GREY LOOK      
+WITH REFLECTIVITY. PR0 0.236.160 PRV 0.001.861.658 SKINNYMON 6011           
+791.353                                                                     

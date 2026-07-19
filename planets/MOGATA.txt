@@ -1,0 +1,3 @@
+Planet: MOGATA
+Starmap index: 03
+Paris coordinates: 3660720, 7595727, -4847289

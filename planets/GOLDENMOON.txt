@@ -1,0 +1,3 @@
+Planet: GOLDENMOON
+Starmap index: 18
+Paris coordinates: -694640, 75151, 152742

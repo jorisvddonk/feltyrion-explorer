@@ -1,0 +1,15 @@
+Star: LAGASTA
+Star class: S02
+Paris coordinates: 2759632, 5019210, -268015
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- LAGASTA 1 (d dusty, craterized)
+- LAGASTA 2 (r rocky, creased)
+- LAGASTA 3 (q quartz surface)
+- Planet #3 (@ large, not consistent)
+- LAGASTA 5 (n thin atmosphere)
+- LAGASTA 6 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY CUNICULI, 6011:587.820

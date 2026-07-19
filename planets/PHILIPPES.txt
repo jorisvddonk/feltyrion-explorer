@@ -1,0 +1,3 @@
+Planet: PHILIPPES
+Starmap index: 05
+Paris coordinates: 13203184, 7645538, -6163643

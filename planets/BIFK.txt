@@ -1,0 +1,3 @@
+Planet: BIFK
+Starmap index: 33
+Paris coordinates: 1281072, -17832402, -1447008

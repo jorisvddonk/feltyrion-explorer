@@ -1,0 +1,59 @@
+Star: NARATNOS
+Star class: S00
+Paris coordinates: 2863568, 5045371, -2030641
+Bodies: 47 (9 planets, 38 moons)
+
+System:
+- VOLTER (r rocky, creased)
+- BRAHK (n thin atmosphere)
+- TORRIN (f felisian)
+  - VERDE (d dusty, craterized)
+  - RAYN (d dusty, craterized)
+  - WYND (d dusty, craterized)
+- SAEWARD (+ substellar object)
+  - Moon #0 (q quartz surface)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (n thin atmosphere)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (f felisian)
+  - Moon #8 (@ large, not consistent)
+  - Moon #9 (f felisian)
+  - Moon #10 (^ unstable)
+  - Moon #11 (^ unstable)
+  - Moon #12 (@ large, not consistent)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (k thick atmosphere)
+  - Moon #15 (f felisian)
+  - Moon #16 (k thick atmosphere)
+- RAHM (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (^ unstable)
+  - Moon #4 (f felisian)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (q quartz surface)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (d dusty, craterized)
+  - Moon #9 (f felisian)
+  - Moon #10 (q quartz surface)
+  - Moon #11 (r rocky, creased)
+  - Moon #12 (^ unstable)
+  - Moon #13 (d dusty, craterized)
+- QADIR (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- PEREGRYNE (n thin atmosphere)
+- OTAR (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- NAVROZ (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+FIRST STAR DISCOVERED BY GARY!
+DISCOVERED EPOCH 6011:571:455
+PARSIS COORD 2863715;5045447;-2030885
+NOTES BY GARY! A, EPOC 6011:571:498

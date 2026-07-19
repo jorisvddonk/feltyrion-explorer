@@ -1,0 +1,58 @@
+Star: LIFEGIVER
+Star class: S00
+Paris coordinates: 3070352, 4834807, -1861297
+Bodies: 41 (7 planets, 34 moons)
+
+System:
+- SACRIFICE (d dusty, craterized)
+- REAN (n thin atmosphere)
+- GAMLIF (@ large, not consistent)
+  - Moon #0 (^ unstable)
+  - DUALITY (f felisian)
+  - Moon #2 (n thin atmosphere)
+  - TRANQUILITY (f felisian)
+  - GREEN (f felisian)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (^ unstable)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (d dusty, craterized)
+  - Moon #10 (r rocky, creased)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (k thick atmosphere)
+  - YELLOWLEAF (f felisian)
+  - Moon #14 (^ unstable)
+  - Moon #15 (d dusty, craterized)
+- JAMAL (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- CIMYR (k thick atmosphere)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - POTENTIAL (f felisian)
+  - KVARVRIN (q quartz surface)
+  - VIMONA (d dusty, craterized)
+  - Moon #6 (^ unstable)
+  - RHELIS (^ unstable)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (^ unstable)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (q quartz surface)
+  - Moon #13 (k thick atmosphere)
+  - Moon #14 (d dusty, craterized)
+  - CALMAPAK (f felisian)
+- GUARDIAN OF DREAMS (k thick atmosphere)
+
+Guide entries:
+STAR FOUND BY STARDRIFTER FRACTUS, EPOC 6011:571.275.
+I WANTED TO EXPLORE THE WHOLE SYSTEM BEFORE NAMING THIS STAR.
+I HAVE NOW DONE THAT...
+I HAVE DISABLED MY RADIATION LIMITING SYSTEM, AND MY SHIP IS WARMED
+BY THE YELLOW LIGHT OF THE STAR... IN THIS SYSTEM I HAVE FOUND MANY
+WONDROUS THINGS... AND IT IS WITH SADNESS THAT I LEAVE, WONDERING
+WHETHER OR NOT I WILL EVER RETURN HERE. PERHAPS YOU, THE READER OF
+THESE WORDS, WILL ALSO LEARN TO APPRECIATE THIS PLACE.
+(NOTES BY STARDRIFTER FRACTUS, EPOC 6011:571.276)

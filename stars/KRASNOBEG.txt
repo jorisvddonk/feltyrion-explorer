@@ -1,0 +1,10 @@
+Star: KRASNOBEG
+Star class: S10
+Paris coordinates: 1171024, 1031641, 9927129
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY PARRY LOST ON 6011.712.950                               
+RUNAWAY STAR; NO PLANETS. PRETTY WHITE/RED LIGHT, THOUGH.                   

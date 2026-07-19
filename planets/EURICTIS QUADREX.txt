@@ -1,0 +1,3 @@
+Planet: EURICTIS QUADREX
+Starmap index: 04
+Paris coordinates: 2146971120, 1495697, 1200751841

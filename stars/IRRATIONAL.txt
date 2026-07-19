@@ -1,0 +1,11 @@
+Star: IRRATIONAL
+Star class: S08
+Paris coordinates: 2946064, 4419070, -1044342
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+6011/713.635.227. A MULTIPLE SYSTEM WITH ONLY ONE STAR AND NO               
+OTHER BODIES. VERY ODD.                                                     
+DISCOVERED BY T.                                                            

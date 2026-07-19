@@ -1,0 +1,16 @@
+Star: SAGNAR
+Star class: S00
+Paris coordinates: 3404272, 4098312, -244696
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (n thin atmosphere)
+- CLOUDIUS (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- HILLIA (n thin atmosphere)

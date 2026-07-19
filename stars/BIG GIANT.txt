@@ -1,0 +1,6 @@
+Star: BIG GIANT
+Star class: S00
+Paris coordinates: 2811056, 4549692, 877456
+Bodies: 0 (0 planets, 0 moons)
+
+System:

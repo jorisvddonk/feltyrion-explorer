@@ -1,0 +1,11 @@
+Star: LUX
+Star class: S11
+Paris coordinates: 4879984, 4603699, -1023471
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PLANETA OSSO (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES:A CLASS S11 SYSTEM OF ONE TINY PLANET. SKINNYMON EPOC 6011
+572.801

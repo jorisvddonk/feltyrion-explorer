@@ -1,0 +1,16 @@
+Star: IMMEMORY
+Star class: S00
+Paris coordinates: 3355696, 4169919, 794913
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- HER BASILIC (n thin atmosphere)
+- MULDOON (@ large, not consistent)
+- ASHFORDAISYAK (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+CLASS 500 STAR DISCOVERED BY R.CLEAR EPOC 6011:565.968
+ONLY HAS 3 PLANETS, BUT ASHFORDAISYAK IS FELISIAN
+CLASS S00 STAR DISCOVERED BY R.CLEAR EPOC 6011:565.968

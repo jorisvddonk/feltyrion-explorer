@@ -1,0 +1,7 @@
+Planet: NATULI
+Starmap index: 31
+Paris coordinates: 2029827216, 2306055, 1542231
+
+Guide entries:
+M11/P08 SMALL SOLID THIN ATMO, SLIGHTLY DARK, FAIR POLAR CAPS. PRO 0.       
+173.160 PRV 0.002.965.046 SKINNYMON 6011 797.110                            

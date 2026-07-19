@@ -1,0 +1,3 @@
+Planet: ASKEW 136E
+Starmap index: 05
+Paris coordinates: 8463824, -17122580, 15758770

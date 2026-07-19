@@ -1,0 +1,9 @@
+Star: CARTEA
+Star class: S06
+Paris coordinates: 1056784, 341358, -666079
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NAMED BY BEN EPOC 6011 - 793.236.150                                        

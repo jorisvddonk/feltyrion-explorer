@@ -1,0 +1,11 @@
+Star: POLONIA
+Star class: S11
+Paris coordinates: 3770352, 3942875, -2360976
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- LODZ (n thin atmosphere)
+  - Moon #0 (^ unstable)
+- Planet #3 (n thin atmosphere)

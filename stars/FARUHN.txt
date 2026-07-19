@@ -1,0 +1,31 @@
+Star: FARUHN
+Star class: S00
+Paris coordinates: 2642128, 1521735, 883346
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- FARLANDOR (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (r rocky, creased)
+  - Moon #3 (q quartz surface)
+  - Moon #4 (^ unstable)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (f felisian)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (^ unstable)
+  - Moon #10 (^ unstable)
+- Planet #5 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY BJS EPOC 6011:583.903

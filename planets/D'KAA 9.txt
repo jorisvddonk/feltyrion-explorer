@@ -1,0 +1,3 @@
+Planet: D'KAA 9
+Starmap index: 09
+Paris coordinates: 4860720, 8320240, -6249233

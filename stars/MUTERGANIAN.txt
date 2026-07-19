@@ -1,0 +1,6 @@
+Star: MUTERGANIAN
+Star class: S05
+Paris coordinates: 350000, 51550000, -450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

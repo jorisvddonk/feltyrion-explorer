@@ -1,0 +1,55 @@
+Star: FREYA
+Star class: S00
+Paris coordinates: 81072, -77486, -118953
+Bodies: 43 (12 planets, 31 moons)
+
+System:
+- MARSHMELLOW (@ large, not consistent)
+- BEOWULF (+ substellar object)
+- RANOZIL (d dusty, craterized)
+- ALMAZAR (f felisian)
+  - FUPI (d dusty, craterized)
+  - REYLON (d dusty, craterized)
+- JENUVO (@ large, not consistent)
+  - MICTLO (r rocky, creased)
+  - FROOMPI (k thick atmosphere)
+  - ZENDOR (f felisian)
+  - DOLOFEB (r rocky, creased)
+  - HOTSAUCE (^ unstable)
+  - SHUD (k thick atmosphere)
+  - BALISTO (n thin atmosphere)
+  - BOGOZAX (n thin atmosphere)
+- GRUNDBERG (q quartz surface)
+- MJIDLOS (@ large, not consistent)
+  - RINKONIA (i icy surface)
+  - MUSTOZAK (k thick atmosphere)
+  - BATAXIA (f felisian)
+  - POSHO (n thin atmosphere)
+- BODERON (@ large, not consistent)
+  - VESPEX (k thick atmosphere)
+  - KOSHI (i icy surface)
+  - GRENOBLE (q quartz surface)
+  - IRIDESSE (f felisian)
+  - LOKOVAN (r rocky, creased)
+  - FESCHNOGOOR (n thin atmosphere)
+  - ELBRAX (n thin atmosphere)
+  - DELEHN (n thin atmosphere)
+  - BRUGU (r rocky, creased)
+  - FELSH (k thick atmosphere)
+  - LANIDAR (f felisian)
+  - KELENEX (k thick atmosphere)
+  - MOROLON (q quartz surface)
+- PEESHI (q quartz surface)
+  - PUUSHI (i icy surface)
+- TRAXEGON (q quartz surface)
+  - MENETIR (d dusty, craterized)
+  - MENETARA (d dusty, craterized)
+- FENECRAZOL (d dusty, craterized)
+- KHOLM (d dusty, craterized)
+  - KHALM (d dusty, craterized)
+
+Guide entries:
+THIS STAR SYSTEM WAS ORIGINALLY DISCOVERED AROUND 579.656, BUT WAS
+SOMEHOW ERASED FROM THE ARCHIVES UNTIL NOW, 592.790.
+FREYA IS 7LY FROM FELYSIA AND HAS A FEW HABITABLE PLANETS.
+(SCHMERM 6011 592.790) FORMERLY (579.656)

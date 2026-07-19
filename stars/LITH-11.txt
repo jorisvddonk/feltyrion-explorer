@@ -1,0 +1,6 @@
+Star: LITH-11
+Star class: S06
+Paris coordinates: 2825040, -373550, -11842977
+Bodies: 0 (0 planets, 0 moons)
+
+System:

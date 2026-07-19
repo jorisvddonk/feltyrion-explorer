@@ -1,0 +1,7 @@
+Star: URCHIN
+Star class: S10
+Paris coordinates: 763568, 401200, 235420
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)

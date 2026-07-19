@@ -1,0 +1,16 @@
+Star: THALOORN
+Star class: S00
+Paris coordinates: 4297488, 4641055, -1532611
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- DESMEUR (@ large, not consistent)
+- RINGTHANE (k thick atmosphere)
+- ZEDLETU (r rocky, creased)
+  - HELTUR (n thin atmosphere)
+- GRYNTI (n thin atmosphere)
+  - SWARS (d dusty, craterized)
+
+Guide entries:
+FURTHER NOTES, A CLASS S00 SYSTEM WITH 4 PLANETS, 2 MOONS, NO
+FELISIAN WORLDS. SKINNYMON EPOC 6011 598.631

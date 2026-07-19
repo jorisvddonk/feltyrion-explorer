@@ -1,0 +1,15 @@
+Star: JELAOPAM
+Star class: S08
+Paris coordinates: 635271664, -10327891, 48189533
+Bodies: 3 (2 planets, 1 moons)
+
+System:
+- Planet #0 (* companion star)
+- Planet #1 (* companion star)
+  - Moon #0 (d dusty, craterized)
+
+Guide entries:
+S08 SYSTEM. 2 COMPANIONS, 1 OTHER WORLD. 0.82876921 BAL. M.; TEMP           
+3459K; RAD 30.3 KR; COOR 635271664; -10327891; 48189533 SKINNYMON           
+6011.916.866                                                                
+RETURN EXPEDITION 6012 060.178, 09 TYPE PRIMARY, P02 27.33 DYAMS.

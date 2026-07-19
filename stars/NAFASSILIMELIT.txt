@@ -1,0 +1,6 @@
+Star: NAFASSILIMELIT
+Star class: S00
+Paris coordinates: 1150000, 43050000, -1250000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

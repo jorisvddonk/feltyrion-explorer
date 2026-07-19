@@ -1,0 +1,3 @@
+Planet: PLANET FOSK
+Starmap index: 01
+Paris coordinates: 3777136, 4724017, -2240227

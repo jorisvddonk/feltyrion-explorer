@@ -1,0 +1,10 @@
+Star: CARMILLIA
+Star class: S00
+Paris coordinates: 2659632, 5571140, -153485
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- CARMILLION (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-570.592

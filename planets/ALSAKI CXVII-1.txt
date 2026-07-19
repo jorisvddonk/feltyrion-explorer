@@ -1,0 +1,3 @@
+Planet: ALSAKI CXVII-1
+Starmap index: 01
+Paris coordinates: 15072112, 32145214, -7741950

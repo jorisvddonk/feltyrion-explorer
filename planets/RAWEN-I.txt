@@ -1,0 +1,3 @@
+Planet: RAWEN-I
+Starmap index: 09
+Paris coordinates: 553936, 3527327, -2132597

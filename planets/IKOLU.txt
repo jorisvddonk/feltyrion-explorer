@@ -1,0 +1,7 @@
+Planet: IKOLU
+Starmap index: 35
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M02/P08 MEDIUM SIZE UNSTABLE AND HOT. ALMOST ORANGE WITH BRIGHT YELLOW.     
+PRO 0.251.280 PRV 0.001.965.872 SKINNYMON 6011 792.95                       

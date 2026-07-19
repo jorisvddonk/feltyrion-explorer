@@ -1,0 +1,6 @@
+Star: GAS STATION 7
+Star class: S06
+Paris coordinates: 98636816, 30057421, 140326097
+Bodies: 0 (0 planets, 0 moons)
+
+System:

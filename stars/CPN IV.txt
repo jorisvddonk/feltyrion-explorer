@@ -1,0 +1,6 @@
+Star: CPN IV
+Star class: S06
+Paris coordinates: -107442736, 25031798, -2293714
+Bodies: 0 (0 planets, 0 moons)
+
+System:

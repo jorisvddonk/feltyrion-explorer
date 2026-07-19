@@ -1,0 +1,6 @@
+Star: HIGHWAY 37
+Star class: S07
+Paris coordinates: -11144304, -4195674, 15526968
+Bodies: 0 (0 planets, 0 moons)
+
+System:

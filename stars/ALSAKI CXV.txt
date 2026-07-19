@@ -1,0 +1,7 @@
+Star: ALSAKI CXV
+Star class: S02
+Paris coordinates: 15072112, 32345214, -7790262
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)

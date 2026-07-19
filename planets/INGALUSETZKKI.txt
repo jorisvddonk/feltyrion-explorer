@@ -1,0 +1,3 @@
+Planet: INGALUSETZKKI
+Starmap index: 13
+Paris coordinates: 32496, -31155479, 1002557

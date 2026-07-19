@@ -1,0 +1,11 @@
+Star: SILO
+Star class: S01
+Paris coordinates: -1601424, -916932, 673804
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- SILO PRIME (@ large, not consistent)
+- SILO 2 (@ large, not consistent)
+
+Guide entries:
+DUAL PLANET SYSTEM, BOTH UNINHABITABLE. AIRCON - 607.974.885

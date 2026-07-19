@@ -1,0 +1,6 @@
+Star: ZILCHO
+Star class: S00
+Paris coordinates: 3959632, 5009715, -1292955
+Bodies: 0 (0 planets, 0 moons)
+
+System:

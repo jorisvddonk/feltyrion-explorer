@@ -1,0 +1,3 @@
+Planet: LAVABALL
+Starmap index: 10
+Paris coordinates: 1032496, 1105728, -4557

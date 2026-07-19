@@ -1,0 +1,9 @@
+Star: DUNOPHEEN
+Star class: S06
+Paris coordinates: 1363568, 61794931, -353261
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+S06 UNSUITABLE FOR LITHIUM SCOPING. (DISCOVERED BY NEUZD, 6011:789.949)     

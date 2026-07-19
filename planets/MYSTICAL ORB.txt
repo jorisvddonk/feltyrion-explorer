@@ -1,0 +1,3 @@
+Planet: MYSTICAL ORB
+Starmap index: 10
+Paris coordinates: -9464912, 329770, -10628299

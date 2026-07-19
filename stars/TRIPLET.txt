@@ -1,0 +1,20 @@
+Star: TRIPLET
+Star class: S08
+Paris coordinates: 3477136, 5741968, -1662225
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (r rocky, creased)
+  - REDWOOD (f felisian)
+- Planet #1 (* companion star)
+  - Moon #0 (d dusty, craterized)
+- Planet #2 (k thick atmosphere)
+- Planet #3 (* companion star)
+
+Guide entries:
+DISCOVERED BY LOGAN, EPOC 6011:664.782
+THREE STAR SYSTEM! THE PLANETS IN THIS SYSTEM HAVE AN ASTOUNDINGLY
+FAST AND ERRATIC PATTERN OF ORBIT. THE THREE WHITE GIANT STARS MAKE
+FOR SOME GREAT PHOTOS FROM THE SURFACE OF REDWOOD (P2/1).
+(NOTES BY LOGAN, EPOC 6011:664.782)

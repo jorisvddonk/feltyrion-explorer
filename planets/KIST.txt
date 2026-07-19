@@ -1,0 +1,7 @@
+Planet: KIST
+Starmap index: 06
+Paris coordinates: 294640, 1102336, 449711
+
+Guide entries:
+ORDINARY MOON OF GLOBULE. NO ATMOSPHERE.
+-EPOC 6011 584.36.900 BY PROF.CALLAHAN

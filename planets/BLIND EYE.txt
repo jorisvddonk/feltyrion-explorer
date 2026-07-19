@@ -1,0 +1,3 @@
+Planet: BLIND EYE
+Starmap index: 02
+Paris coordinates: 3432496, 4021553, -2394337

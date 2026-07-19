@@ -1,0 +1,13 @@
+Star: GERAS
+Star class: S11
+Paris coordinates: 6462480, 5840007, -1924453
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- SQUIGGLE (@ large, not consistent)
+- BLOTCHES (n thin atmosphere)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (i icy surface)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 647.512

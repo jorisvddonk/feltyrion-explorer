@@ -1,0 +1,7 @@
+Planet: KERAMINE14-4
+Starmap index: 43
+Paris coordinates: -36432, -1290440, 1061497
+
+Guide entries:
+SMALL, ICY SURFACE. NO ATMOSPHERE.
+SEE 14-3 RE: TERRAIN.

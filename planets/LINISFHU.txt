@@ -1,0 +1,7 @@
+Planet: LINISFHU
+Starmap index: 11
+Paris coordinates: 2100590128, -1965623, -11495
+
+Guide entries:
+M01/P05 SMALL SOLID DUSTY GREYISH WITH LARGE CRATERS. PRO 0.277.920         
+PRV 0.002.232.277 SKINNYMON 6011 793.297                                    

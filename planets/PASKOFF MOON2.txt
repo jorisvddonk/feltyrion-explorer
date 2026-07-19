@@ -1,0 +1,3 @@
+Planet: PASKOFF MOON2
+Starmap index: 05
+Paris coordinates: 5017840, 4316655, -930532

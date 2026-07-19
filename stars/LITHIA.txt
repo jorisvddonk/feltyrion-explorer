@@ -1,0 +1,10 @@
+Star: LITHIA
+Star class: S06
+Paris coordinates: 2012144, 5030286, -2192245
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY BUD J. SMOKER EPOC 6011 583.265
+SEEMS A GOOD SOURCE OF LITHIUM

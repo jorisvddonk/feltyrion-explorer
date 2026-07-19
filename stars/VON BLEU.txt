@@ -1,0 +1,12 @@
+Star: VON BLEU
+Star class: S00
+Paris coordinates: 11583920, -4559842, -9560260
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- VON BLEU 1 (@ large, not consistent)
+
+Guide entries:
+ A CLASS S00 STAR, CAPABLE OF SUPPORTING LIFE ON ITS PLANETS. HOWEVER
+, THIS ONE HAS ONLY 1 PLANET, AND IT'S NOT LIKELY TO BE FELISIAN.
+SERPENS, 6011 665.335

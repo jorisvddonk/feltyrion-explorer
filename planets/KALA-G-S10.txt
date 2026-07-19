@@ -1,0 +1,3 @@
+Planet: KALA-G-S10
+Starmap index: 28
+Paris coordinates: 3841456, -366310, -9972918

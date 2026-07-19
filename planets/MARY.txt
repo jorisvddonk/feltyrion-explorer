@@ -1,0 +1,3 @@
+Planet: MARY
+Starmap index: 05
+Paris coordinates: 2708208, 4423615, -1185378

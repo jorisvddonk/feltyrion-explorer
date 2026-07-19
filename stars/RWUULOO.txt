@@ -1,0 +1,33 @@
+Star: RWUULOO
+Star class: S08
+Paris coordinates: 226800, 1068249, -3393825
+Bodies: 21 (4 planets, 17 moons)
+
+System:
+- BESTEN (* companion star)
+  - BEYASTEN (+ substellar object)
+  - HK'HIEHKE (@ large, not consistent)
+- COWKSEN (* companion star)
+- GOWLAEDO (* companion star)
+  - OUTLAW (^ unstable)
+  - IZINERIBIR (f felisian)
+  - MOSM (^ unstable)
+  - ONAYEROWRKS (k thick atmosphere)
+  - ONGJOYERTAE (@ large, not consistent)
+  - SORON-KETESS (n thin atmosphere)
+  - VASHILAEDO (+ substellar object)
+  - NIRSALAEDO (+ substellar object)
+  - SORON-FRICORF (n thin atmosphere)
+  - UNNIIMLI (@ large, not consistent)
+  - KAXAPTINUID (r rocky, creased)
+  - LASCA-ENRTI (k thick atmosphere)
+  - BUUA'YU'RERP (q quartz surface)
+  - AYGARA (f felisian)
+  - DADZSOREMNOS (d dusty, craterized)
+- JENORA TREGAYCA (r rocky, creased)
+
+Guide entries:
+DISCOVERED BY NEUZD, 6011 779:054.MULTIPLE STAR SYSTEM WITH 3 COMPANIONS,   
+ONE MORE PLANET AND 17 MOONS, 2 OF WHICH ARE FELISIAN. INTERESTING TO NOTE  
+IS THAT THE FIRST OBJECT ORBITING RWUULOO, ONE OF THE COMPANION STARS, HAS  
+TWO MOONS.                                                                  

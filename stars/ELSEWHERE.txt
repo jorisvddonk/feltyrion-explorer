@@ -1,0 +1,6 @@
+Star: ELSEWHERE
+Star class: S06
+Paris coordinates: 3173200, 5138273, 290503
+Bodies: 0 (0 planets, 0 moons)
+
+System:

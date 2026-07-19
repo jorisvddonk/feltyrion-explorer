@@ -1,0 +1,6 @@
+Planet: ASSERTIA
+Starmap index: 03
+Paris coordinates: 2601424, 4843702, -1427000
+
+Guide entries:
+DISCOVERED BY MRUQE; EPOC 6011-569.884

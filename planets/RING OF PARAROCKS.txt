@@ -1,0 +1,3 @@
+Planet: RING OF PARAROCKS
+Starmap index: 01
+Paris coordinates: -1425549328, 1932750, 1435377630

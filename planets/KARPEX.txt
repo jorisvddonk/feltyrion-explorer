@@ -1,0 +1,3 @@
+Planet: KARPEX
+Starmap index: 04
+Paris coordinates: 4190704, 4843563, -1729734

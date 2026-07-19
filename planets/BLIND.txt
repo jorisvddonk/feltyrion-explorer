@@ -1,0 +1,3 @@
+Planet: BLIND
+Starmap index: 02
+Paris coordinates: 1163568, 188344, -422812

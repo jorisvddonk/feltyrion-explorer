@@ -1,0 +1,3 @@
+Planet: ASKEW 150B
+Starmap index: 02
+Paris coordinates: 9835600, -16509715, 16452995

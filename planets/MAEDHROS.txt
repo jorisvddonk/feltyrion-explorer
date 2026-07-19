@@ -1,0 +1,3 @@
+Planet: MAEDHROS
+Starmap index: 01
+Paris coordinates: -447152, 1243563, 2559842

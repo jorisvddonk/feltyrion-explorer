@@ -1,0 +1,14 @@
+Star: LUCY
+Star class: S11
+Paris coordinates: -946064, -156848, -609785
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- LUCY-1 (n thin atmosphere)
+- LUCY-2 (d dusty, craterized)
+- LUCY-3 (n thin atmosphere)
+  - LUCY-3.1 (i icy surface)
+
+Guide entries:
+DISCOVERED BY LEE RICHARDSON EPOC 567.378.219
+NAMED AFTER THE BEAUTIFUL LUCY WHAT-MOUGH IF THATS HOW YOU SPELL IT.

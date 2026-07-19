@@ -1,0 +1,7 @@
+Planet: BACILUS
+Starmap index: 59
+Paris coordinates: 3873200, 5739766, -376082
+
+Guide entries:
+SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SKINNYMON EPOC 6011
+578.231

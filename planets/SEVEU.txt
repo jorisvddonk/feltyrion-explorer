@@ -1,0 +1,6 @@
+Planet: SEVEU
+Starmap index: 02
+Paris coordinates: 1018928, -67347327, -797231
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:584:487

@@ -1,0 +1,3 @@
+Planet: RIGUS
+Starmap index: 14
+Paris coordinates: 1583920, -27673265, 361375

@@ -1,0 +1,3 @@
+Planet: DUSTOUND
+Starmap index: 01
+Paris coordinates: 2656784, 4963163, -2146127

@@ -1,0 +1,9 @@
+Star: T BURTON
+Star class: S00
+Paris coordinates: -187856, 783432, 14491
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)

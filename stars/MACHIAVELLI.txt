@@ -1,0 +1,12 @@
+Star: MACHIAVELLI
+Star class: S00
+Paris coordinates: 3063568, 4028950, -2269590
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MANDRAKE (q quartz surface)
+- THE PRINCE (k thick atmosphere)
+
+Guide entries:
+YELLOW DWARF WITH 2 PLANETS. THE INNER ONE HAS A QUARTZ SURFACE ND
+AN OXYGEN ATMOSPHERE. DISCOVERED BY RAGENDAL 603.766.300

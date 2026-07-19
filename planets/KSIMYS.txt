@@ -1,0 +1,7 @@
+Planet: KSIMYS
+Starmap index: 02
+Paris coordinates: 2032566160, -781645, -4655133
+
+Guide entries:
+P02/02 MEDIUM SIZED, ROCKY, ROUGH, SCARRED, GREY COLOR. PRO 0.243.360       
+PRV 0.021.757.160 SKINNYMON 6911 797,456                                    

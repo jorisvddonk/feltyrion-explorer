@@ -1,0 +1,3 @@
+Planet: ASKEW 198D
+Starmap index: 04
+Paris coordinates: 5264240, -2242229, 5204013

@@ -1,0 +1,3 @@
+Planet: RESPITE I
+Starmap index: 03
+Paris coordinates: 334256, 7123352, 6659344

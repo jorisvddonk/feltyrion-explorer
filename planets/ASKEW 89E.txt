@@ -1,0 +1,3 @@
+Planet: ASKEW 89E
+Starmap index: 05
+Paris coordinates: 10976304, -19140498, 17624050

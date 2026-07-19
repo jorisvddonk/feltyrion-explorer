@@ -1,0 +1,6 @@
+Star: MARATUDEZ
+Star class: S09
+Paris coordinates: 16950000, 450000, -17050000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,20 @@
+Star: JARTISESIA
+Star class: S00
+Paris coordinates: 634485232, -10461974, 49653870
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (f felisian)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+S00 SYSTEM OF 9 WORLDS, THREE OF THEM ARE FELISIAN. 2.06513381              
+BAL. M.; TEMP 8773 K; RAD 15.8 KR; COOR 634485232; -10461974;               
+49653870; SKINNYMON 6011.916.855                                            

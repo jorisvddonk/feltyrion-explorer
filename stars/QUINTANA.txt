@@ -1,0 +1,11 @@
+Star: QUINTANA
+Star class: S00
+Paris coordinates: 2556784, 4227335, -1961444
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- NEO SUMATRA (r rocky, creased)
+- NEO RANGA JUPE (@ large, not consistent)
+- NEO RUSTY OLD K (d dusty, craterized)
+- NEO DON SATUR (@ large, not consistent)
+  - BAREFOOT MOON (q quartz surface)

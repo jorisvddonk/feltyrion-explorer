@@ -1,0 +1,6 @@
+Planet: CASTELLAN
+Starmap index: 05
+Paris coordinates: 4469264, 4387862, 683077
+
+Guide entries:
+DISCOVERED BY BRIAN KWAN, EPOC 6011:565.44

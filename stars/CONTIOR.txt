@@ -1,0 +1,9 @@
+Star: CONTIOR
+Star class: S01
+Paris coordinates: 139280, 232195, 1342933
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- SATNAR (d dusty, craterized)
+- MAYNAR (q quartz surface)
+- Planet #2 (^ unstable)

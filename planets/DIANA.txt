@@ -1,0 +1,3 @@
+Planet: DIANA
+Starmap index: 12
+Paris coordinates: 487856, 49102, -230101

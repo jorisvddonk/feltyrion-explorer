@@ -1,0 +1,6 @@
+Planet: TRISKRE
+Starmap index: 04
+Paris coordinates: 974288, -67378933, -1309413
+
+Guide entries:
+DISCOVERED BY JAFO. EPOC 6011:584:402

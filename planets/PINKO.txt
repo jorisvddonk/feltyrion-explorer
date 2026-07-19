@@ -1,0 +1,3 @@
+Planet: PINKO
+Starmap index: 02
+Paris coordinates: 3359632, 4245485, -948943

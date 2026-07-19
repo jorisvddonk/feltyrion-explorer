@@ -1,0 +1,3 @@
+Planet: HAN
+Starmap index: 03
+Paris coordinates: 4617840, 5449796, -616864

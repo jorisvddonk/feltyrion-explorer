@@ -1,0 +1,6 @@
+Planet: MAVARY
+Starmap index: 23
+Paris coordinates: 3890704, 4320850, -1439499
+
+Guide entries:
+THERE'S A TOWERING MOUNTAIN BETWEEN HILLS AT 12.62

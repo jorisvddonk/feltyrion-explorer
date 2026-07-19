@@ -1,0 +1,7 @@
+Planet: TOSAS
+Starmap index: 09
+Paris coordinates: 634309520, -10801615, 49308989
+
+Guide entries:
+M01/P05 SMALL, SOLID, DUSTY, BIG CRATERS, GREEN REFLECTIVITY.               
+PRO 0.249.120; PRV 0.0.936.018 SKINNYMON 6011 893.126                       

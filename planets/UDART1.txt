@@ -1,0 +1,6 @@
+Planet: UDART1
+Starmap index: 01
+Paris coordinates: 214992, -1241743, 1754992
+
+Guide entries:
+SMALL, NO ATMOSPHERE WITH A RING SYSTEM.

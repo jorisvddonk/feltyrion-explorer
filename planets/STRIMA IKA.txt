@@ -1,0 +1,3 @@
+Planet: STRIMA IKA
+Starmap index: 08
+Paris coordinates: 5436432, 8345927, -6073742

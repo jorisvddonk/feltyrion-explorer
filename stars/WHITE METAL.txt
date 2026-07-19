@@ -1,0 +1,6 @@
+Star: WHITE METAL
+Star class: S02
+Paris coordinates: 4286768, 4244020, -167568
+Bodies: 0 (0 planets, 0 moons)
+
+System:

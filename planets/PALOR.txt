@@ -1,0 +1,6 @@
+Planet: PALOR
+Starmap index: 05
+Paris coordinates: 1229648, 4810891, -2287914
+
+Guide entries:
+MOON DISCOVERED BY ATTRADIS, EPOC 6011:600.12

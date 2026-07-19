@@ -1,0 +1,3 @@
+Planet: LETHIS
+Starmap index: 01
+Paris coordinates: 1648912, 5048663, 2363682

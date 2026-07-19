@@ -1,0 +1,6 @@
+Star: SKT 4
+Star class: S06
+Paris coordinates: 4912144, -161035, -5149174
+Bodies: 0 (0 planets, 0 moons)
+
+System:

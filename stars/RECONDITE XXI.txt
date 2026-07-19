@@ -1,0 +1,6 @@
+Star: RECONDITE XXI
+Star class: S06
+Paris coordinates: 1067050000, 11550000, -1067150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

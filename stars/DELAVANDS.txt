@@ -1,0 +1,6 @@
+Star: DELAVANDS
+Star class: S11
+Paris coordinates: 650000, 50850000, -750000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

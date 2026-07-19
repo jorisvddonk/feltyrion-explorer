@@ -1,0 +1,8 @@
+Planet: DEINI
+Starmap index: 02
+Paris coordinates: 2140268528, -2165691, -352139
+
+Guide entries:
+P02/02 MEDIUM SIZED, SURFACE OF QUARTZ, MOSTLY A DRAB OFF WHITE COLOR       
+WITH WHITE SPOTS. PRO 0.258.120 PRV 0.010.556.136 SKINNYMON 6011 791.       
+650                                                                         

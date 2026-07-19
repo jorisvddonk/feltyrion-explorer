@@ -1,0 +1,3 @@
+Planet: RABIEN 3
+Starmap index: 03
+Paris coordinates: -5009968, 46093, -2317724

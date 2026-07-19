@@ -1,0 +1,16 @@
+Star: PLIGHT
+Star class: S00
+Paris coordinates: -32496, 1907498, -927835
+Bodies: 5 (4 planets, 1 moons)
+
+System:
+- HALDROVUAGHT (+ substellar object)
+- GAVINDOR (d dusty, craterized)
+- GANIVDOR 2 (d dusty, craterized)
+- SMOKE RING (n thin atmosphere)
+  - FLAMBOTON (^ unstable)
+
+Guide entries:
+ WHEEEE!!!
+JUST ARRIVED FROM FROSTBYTE. I'M GONNA HAVE SOME FUN HERE.
+ (DISCOVERED BY TGD)

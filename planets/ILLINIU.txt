@@ -1,0 +1,3 @@
+Planet: ILLINIU
+Starmap index: 08
+Paris coordinates: -656528, 5145821, 23647094

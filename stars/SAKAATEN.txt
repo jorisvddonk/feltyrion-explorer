@@ -1,0 +1,17 @@
+Star: SAKAATEN
+Star class: S11
+Paris coordinates: -21178064, 831929, -13241110
+Bodies: 7 (3 planets, 4 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (d dusty, craterized)
+- SAKAATEN III (@ large, not consistent)
+  - MIRJE (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (n thin atmosphere)
+
+Guide entries:
+S11; 3 PLANETS, 4 MOONS
+DISCOVERED BY SYFEN (6011:609.619)

@@ -1,0 +1,3 @@
+Planet: TYPHOID
+Starmap index: 01
+Paris coordinates: -62328656, 29573975, -169193

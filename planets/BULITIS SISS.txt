@@ -1,0 +1,3 @@
+Planet: BULITIS SISS
+Starmap index: 01
+Paris coordinates: 2759632, 4119210, -264154

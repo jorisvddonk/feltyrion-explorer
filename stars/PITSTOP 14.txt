@@ -1,0 +1,6 @@
+Star: PITSTOP 14
+Star class: S06
+Paris coordinates: -197040, 97557, 140461628
+Bodies: 0 (0 planets, 0 moons)
+
+System:

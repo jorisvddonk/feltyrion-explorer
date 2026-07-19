@@ -1,0 +1,17 @@
+Star: ANA
+Star class: S02
+Paris coordinates: 4479984, 4363093, -644809
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- Planet #2 (+ substellar object)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (+ substellar object)
+- Planet #6 (k thick atmosphere)
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.269
+OCEAN. ONLY ME AND IT.

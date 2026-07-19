@@ -1,0 +1,3 @@
+Planet: ASKEW 25A
+Starmap index: 01
+Paris coordinates: 10907376, -19713673, 17598815

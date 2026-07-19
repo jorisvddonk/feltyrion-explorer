@@ -1,0 +1,3 @@
+Planet: BLUEY1
+Starmap index: 01
+Paris coordinates: 4052848, 4799379, -2041127

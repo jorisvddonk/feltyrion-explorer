@@ -1,0 +1,9 @@
+Star: GLAUCENIA GAMMA
+Star class: S06
+Paris coordinates: 5858544, 4342967, 628645
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ ANOTHER GLAUCE-TYPE LITHIUM FUEL STAR.

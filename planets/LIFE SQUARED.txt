@@ -1,0 +1,3 @@
+Planet: LIFE SQUARED
+Starmap index: 05
+Paris coordinates: 8672112, 5924871, -1356573

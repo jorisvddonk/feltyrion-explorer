@@ -1,0 +1,28 @@
+Star: ALSAKI CXXXVII
+Star class: S08
+Paris coordinates: 16168176, 32033041, -7174135
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (* companion star)
+  - Moon #0 (f felisian)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #3 (* companion star)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+  - Moon #2 (f felisian)
+- Planet #4 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #5 (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (f felisian)
+  - Moon #2 (q quartz surface)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (@ large, not consistent)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (q quartz surface)

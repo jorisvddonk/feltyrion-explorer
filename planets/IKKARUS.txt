@@ -1,0 +1,6 @@
+Planet: IKKARUS
+Starmap index: 01
+Paris coordinates: 2363568, 4920888, -1583242
+
+Guide entries:
+GAS GIANT

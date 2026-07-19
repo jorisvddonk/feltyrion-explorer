@@ -1,0 +1,6 @@
+Star: MARRIN
+Star class: S04
+Paris coordinates: -1325712, -773546, 757027
+Bodies: 0 (0 planets, 0 moons)
+
+System:

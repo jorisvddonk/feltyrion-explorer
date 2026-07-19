@@ -1,0 +1,8 @@
+Planet: HRUAN
+Starmap index: 03
+Paris coordinates: 2140364592, -691520, 1231760
+
+Guide entries:
+P03/07 SMALL SOLID THIN ATMO. SLIGHTLY DARKER THAN THRYIT, FAIR POLAR       
+CAPS, LIGHT COLORED RINGS NOTED. PRO 0.204.480 PRV 0.023.093.884            
+SKINNYMON 6011 791.553                                                      

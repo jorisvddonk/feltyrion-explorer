@@ -1,0 +1,8 @@
+Planet: TEROXIS
+Starmap index: 01
+Paris coordinates: 9813232, 4956740, -13776711
+
+Guide entries:
+ DISCOVERED BY CRYOCAT; EPOC 6011:683.600                                   
+ RATHER LOW GRAVITY, TEMPERATURE AROUND 56C. THE ATMOSPHERE SEEMS TO        
+BE TOO THIN FOR LIFE TO EVOLVE. (CRYOCAT)                                   

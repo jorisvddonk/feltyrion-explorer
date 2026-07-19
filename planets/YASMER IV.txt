@@ -1,0 +1,3 @@
+Planet: YASMER IV
+Starmap index: 04
+Paris coordinates: 378224, 1252914, -2610252

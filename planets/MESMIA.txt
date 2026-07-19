@@ -1,0 +1,3 @@
+Planet: MESMIA
+Starmap index: 07
+Paris coordinates: 4214992, 4830216, -2254873

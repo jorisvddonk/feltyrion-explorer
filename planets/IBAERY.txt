@@ -1,0 +1,8 @@
+Planet: IBAERY
+Starmap index: 03
+Paris coordinates: 2052769264, -423632, 262976
+
+Guide entries:
+P03/03 LARGE, NOT CONSISTENT, SMALL NOT VERY REFLECTIVE DEBRIS RING,        
+GREY CLOUD COVER WITH DARK BANDS, BRIGHT STORMS. PRO 0.157.320 PRV          
+0.045.113.928 SKINNYMON 6011 796.375                                        

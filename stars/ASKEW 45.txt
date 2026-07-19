@@ -1,0 +1,10 @@
+Star: ASKEW 45
+Star class: S03
+Paris coordinates: 11714160, -19354934, 17151070
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- ASKEW 45A (@ large, not consistent)
+- KEROSENE (q quartz surface)
+- ASKEW 45C (k thick atmosphere)
+  - ASKEW 45C1 (n thin atmosphere)

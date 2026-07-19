@@ -1,0 +1,12 @@
+Star: ASKEW 135
+Star class: S00
+Paris coordinates: 8363824, -17104928, 15600988
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- ASKEW 135A (+ substellar object)
+- ASKEW 135B (@ large, not consistent)
+- STAUNCH LONER (f felisian)
+  - ASKEW 135C1 (n thin atmosphere)
+  - ASKEW 135C2 (n thin atmosphere)
+  - ASKEW 135C3 (n thin atmosphere)

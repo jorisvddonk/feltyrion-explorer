@@ -1,0 +1,30 @@
+Star: DISCOVERY
+Star class: S00
+Paris coordinates: 11268848, 10018607, 7408893
+Bodies: 24 (9 planets, 15 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (n thin atmosphere)
+- Planet #4 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (n thin atmosphere)
+- Planet #5 (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (+ substellar object)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (i icy surface)
+  - Moon #0 (d dusty, craterized)

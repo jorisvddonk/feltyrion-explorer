@@ -1,0 +1,3 @@
+Planet: ST THOMAS
+Starmap index: 02
+Paris coordinates: -38192, 6102339, -5087893

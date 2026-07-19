@@ -1,0 +1,33 @@
+Star: GRUPA 4
+Star class: S08
+Paris coordinates: -61501520, 29941691, 642079
+Bodies: 22 (5 planets, 17 moons)
+
+System:
+- GRUPA 4 B (* companion star)
+  - APUS (r rocky, creased)
+- TETRIX (n thin atmosphere)
+- MEROPS (d dusty, craterized)
+- APIASTER (@ large, not consistent)
+  - MOTACILLA (k thick atmosphere)
+  - ALBA (^ unstable)
+  - FLAVA (n thin atmosphere)
+  - CINERVA (d dusty, craterized)
+  - MUSCICAPA (q quartz surface)
+  - CINEREA (n thin atmosphere)
+  - ALBICOLLIS (q quartz surface)
+  - HYPOLUCEA (f felisian)
+  - STRIATA (q quartz surface)
+  - NUMENIUS (k thick atmosphere)
+  - ARQUATA (k thick atmosphere)
+  - OENANTHE (k thick atmosphere)
+  - ORIOLUS (n thin atmosphere)
+  - PARUS (d dusty, craterized)
+  - ATER (n thin atmosphere)
+- MICROPUS (d dusty, craterized)
+  - ATRICAPILLUS (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.638.641. 5 PLANETS
+CLASS S08 SYSTEM. ONE COMPANION STAR, 5 MAJOR BODIES.
+P01 IS A STAR. #8 MOON OF P04 IS FELISIAN. MCWGOGS EPOC 6011.638.641

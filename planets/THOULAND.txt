@@ -1,0 +1,3 @@
+Planet: THOULAND
+Starmap index: 25
+Paris coordinates: 814992, 888712, 1117449

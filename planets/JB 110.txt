@@ -1,0 +1,3 @@
+Planet: JB 110
+Starmap index: 12
+Paris coordinates: -61877232, 29332744, 538440

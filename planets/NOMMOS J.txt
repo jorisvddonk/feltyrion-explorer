@@ -1,0 +1,6 @@
+Planet: NOMMOS J
+Starmap index: 25
+Paris coordinates: 3625712, -66300682, -2983002
+
+Guide entries:
+YELLOW HELLWORLD. (SCHMERM 6011 594.63)

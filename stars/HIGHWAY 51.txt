@@ -1,0 +1,6 @@
+Star: HIGHWAY 51
+Star class: S07
+Paris coordinates: -3033584, -108297, 6052430
+Bodies: 0 (0 planets, 0 moons)
+
+System:

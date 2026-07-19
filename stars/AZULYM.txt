@@ -1,0 +1,6 @@
+Star: AZULYM
+Star class: S07
+Paris coordinates: 7482832, 5844664, -1655637
+Bodies: 0 (0 planets, 0 moons)
+
+System:

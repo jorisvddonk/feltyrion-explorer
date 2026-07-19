@@ -1,0 +1,3 @@
+Planet: ASKEW 196B
+Starmap index: 02
+Paris coordinates: 5264240, -2142229, 5191049

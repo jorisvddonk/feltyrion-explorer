@@ -1,0 +1,3 @@
+Planet: CLOUD COVER
+Starmap index: 07
+Paris coordinates: 3408208, 4220650, -1855031

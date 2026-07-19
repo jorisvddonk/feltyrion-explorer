@@ -1,0 +1,3 @@
+Planet: TREDEB
+Starmap index: 01
+Paris coordinates: -720688, 4781410, -5232889

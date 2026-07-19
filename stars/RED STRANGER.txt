@@ -1,0 +1,12 @@
+Star: RED STRANGER
+Star class: S10
+Paris coordinates: 2686768, 6361932, 1415875
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- BROKEN SKY (k thick atmosphere)
+- TRUE SON (k thick atmosphere)
+
+Guide entries:
+DISCOVERED EPOC 6012 060.682
+RUNAWAY STAR WITH TWO PLANETS.

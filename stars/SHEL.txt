@@ -1,0 +1,10 @@
+Star: SHEL
+Star class: S06
+Paris coordinates: 4155696, 5161360, 150456
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY LOGAN WALKER, EPOC 6011.612.806
+GREY GIANT USABLE FOR LITHIUM SCOPING (LOGAN WALKER, EPOC 6011.612.806)

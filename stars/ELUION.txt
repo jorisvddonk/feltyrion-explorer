@@ -1,0 +1,6 @@
+Star: ELUION
+Star class: S06
+Paris coordinates: 2721776, 3751775, -403265
+Bodies: 0 (0 planets, 0 moons)
+
+System:

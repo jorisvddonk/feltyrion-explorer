@@ -1,0 +1,33 @@
+Star: UMASI
+Star class: S00
+Paris coordinates: -3071024, 5332038, -7715152
+Bodies: 23 (3 planets, 20 moons)
+
+System:
+- XIAS (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- SHEPHERD (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (q quartz surface)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (^ unstable)
+  - Moon #11 (^ unstable)
+  - Moon #12 (d dusty, craterized)
+  - Moon #13 (q quartz surface)
+  - Moon #14 (r rocky, creased)
+  - Moon #15 (^ unstable)
+  - Moon #16 (q quartz surface)
+  - Moon #17 (q quartz surface)
+  - Moon #18 (^ unstable)
+  - IRUFO (f felisian)
+
+Guide entries:
+YELLOW STAR-HAS 3 PLANETS AND 20 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:578.519

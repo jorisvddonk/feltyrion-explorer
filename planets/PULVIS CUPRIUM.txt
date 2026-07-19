@@ -1,0 +1,3 @@
+Planet: PULVIS CUPRIUM
+Starmap index: 13
+Paris coordinates: 4348912, 3923012, -386959

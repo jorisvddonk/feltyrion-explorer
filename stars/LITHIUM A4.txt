@@ -1,0 +1,8 @@
+Star: LITHIUM A4
+Star class: S05
+Paris coordinates: 3312144, 4506123, -3534321
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (r rocky, creased)

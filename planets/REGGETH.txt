@@ -1,0 +1,6 @@
+Planet: REGGETH
+Starmap index: 27
+Paris coordinates: 3952848, 4679972, -1872131
+
+Guide entries:
+ HABITABLE. ONLY PLANT LIFE SIGHTED AS OF FIRST SURVEY.

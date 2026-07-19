@@ -1,0 +1,3 @@
+Planet: RUMPELIX
+Starmap index: 59
+Paris coordinates: -61232592, 30020466, 379974

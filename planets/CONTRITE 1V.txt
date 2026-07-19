@@ -1,0 +1,3 @@
+Planet: CONTRITE 1V
+Starmap index: 04
+Paris coordinates: 4031408, 1804535, 824431

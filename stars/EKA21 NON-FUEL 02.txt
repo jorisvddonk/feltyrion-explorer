@@ -1,0 +1,9 @@
+Star: EKA21 NON-FUEL 02
+Star class: S06
+Paris coordinates: -71844560, -777895, 52968723
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ GREY GIANT BUT NO FUEL.

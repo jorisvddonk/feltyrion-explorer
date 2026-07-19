@@ -1,0 +1,6 @@
+Planet: EFRA
+Starmap index: 06
+Paris coordinates: 2904272, 5031453, 262710
+
+Guide entries:
+DISCOVERED BY CUNICULI, 6011:587.822. VOLCANIC. UNABLE TO DEPLOY CAPSULE.

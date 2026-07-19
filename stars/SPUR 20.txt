@@ -1,0 +1,9 @@
+Star: SPUR 20
+Star class: S06
+Paris coordinates: -56871536, 27519630, -337778
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI= HERE.                                                                   

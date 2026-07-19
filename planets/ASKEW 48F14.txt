@@ -1,0 +1,3 @@
+Planet: ASKEW 48F14
+Starmap index: 31
+Paris coordinates: 11369520, -19178570, 16789632

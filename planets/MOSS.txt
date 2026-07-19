@@ -1,0 +1,3 @@
+Planet: MOSS
+Starmap index: 01
+Paris coordinates: 4363568, 5387748, -3560998

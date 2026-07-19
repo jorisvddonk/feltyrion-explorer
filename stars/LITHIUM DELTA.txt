@@ -1,0 +1,6 @@
+Star: LITHIUM DELTA
+Star class: S06
+Paris coordinates: 4135344, 3844104, -931765
+Bodies: 0 (0 planets, 0 moons)
+
+System:

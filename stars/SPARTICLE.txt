@@ -1,0 +1,10 @@
+Star: SPARTICLE
+Star class: S08
+Paris coordinates: 6091792, 10373138, -7533325
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+HAS APPROX. ZERO ORBITING BODIES. GREENISH TINT, THOUGH.
+(DISCOVERED BY N5CORP ON 6011:626.144)

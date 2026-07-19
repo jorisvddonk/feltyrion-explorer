@@ -1,0 +1,14 @@
+Star: LISTA 251
+Star class: S05
+Paris coordinates: 1569304592, -2182619, -1103211
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- GORMOH (@ large, not consistent)
+- SAGHI (d dusty, craterized)
+- WERFAT (d dusty, craterized)
+  - CAPSU (d dusty, craterized)
+
+Guide entries:
+A LITHIUM SOURCE S05 WITH 3 PLANETS, 1 MOON. SKINNYMON EPOC 6011
+622.564

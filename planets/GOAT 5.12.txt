@@ -1,0 +1,6 @@
+Planet: GOAT 5.12
+Starmap index: 33
+Paris coordinates: -401424, -59309, -558865
+
+Guide entries:
+SMALL, SOLID, DUSTY, (NOT QUITE) CRATERIZED. SERPENS, 6011 665.610

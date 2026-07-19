@@ -1,0 +1,6 @@
+Star: ALEXANDER_HAMILTON
+Star class: S06
+Paris coordinates: 1461808, 4826102, -6378702
+Bodies: 0 (0 planets, 0 moons)
+
+System:

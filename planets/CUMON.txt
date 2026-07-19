@@ -1,0 +1,7 @@
+Planet: CUMON
+Starmap index: 01
+Paris coordinates: 1404272, 699802, 1803398
+
+Guide entries:
+FIRST ROCKY PLANET OF AN S10 STAR.                                          
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.720.320)                           

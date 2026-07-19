@@ -1,0 +1,7 @@
+Planet: ONEBAS
+Starmap index: 04
+Paris coordinates: 2029806864, -1864014, 355778
+
+Guide entries:
+P04/07 SMALL SOLID THIN ATMO. SLIGHT BRIGHTNES. GOOD POLAR CAPS. PRO 0.     
+307.440 PRV 0.059,190.412 SKINNYMON 6011 797.358                            

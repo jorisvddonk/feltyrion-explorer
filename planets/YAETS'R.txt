@@ -1,0 +1,3 @@
+Planet: YAETS'R
+Starmap index: 03
+Paris coordinates: -600336, 1926450, -4140651

@@ -1,0 +1,3 @@
+Planet: HEAGOR III
+Starmap index: 03
+Paris coordinates: 178224, 906060, -2356602

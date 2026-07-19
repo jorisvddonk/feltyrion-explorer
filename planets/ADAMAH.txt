@@ -1,0 +1,6 @@
+Planet: ADAMAH
+Starmap index: 01
+Paris coordinates: 3290704, 4437570, -887888
+
+Guide entries:
+DEAD PLANET, NO ATMOSPHERE, NO MOONS

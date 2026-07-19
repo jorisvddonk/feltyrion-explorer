@@ -1,0 +1,3 @@
+Planet: DISLOCATE
+Starmap index: 05
+Paris coordinates: 2552848, 5341525, -241069

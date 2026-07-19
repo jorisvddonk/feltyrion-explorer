@@ -1,0 +1,6 @@
+Planet: SOLOMON
+Starmap index: 22
+Paris coordinates: 2381072, 4319848, -2471627
+
+Guide entries:
+ FELISIAN PLANET DISC BY SCAREDY-CAT, EPOC 6011.584.148

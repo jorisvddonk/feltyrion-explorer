@@ -1,0 +1,3 @@
+Planet: PRIMUS BETA
+Starmap index: 02
+Paris coordinates: 3490704, 4119378, -1033599

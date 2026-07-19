@@ -1,0 +1,9 @@
+Star: LISTA 82
+Star class: S06
+Paris coordinates: 3411056, 5124613, 216714
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM. SKINNYMMON EPOC 6011 595.182

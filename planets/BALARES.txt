@@ -1,0 +1,7 @@
+Planet: BALARES
+Starmap index: 10
+Paris coordinates: 3959632, 5309715, -1265022
+
+Guide entries:
+ GREY SURFACE
+ HAS 2 MOONS, ATERIA AND FIRAIS

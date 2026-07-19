@@ -1,0 +1,9 @@
+Star: MUTERNAGHI
+Star class: S05
+Paris coordinates: -469264, 9724025, -4378135
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S05. DISCOVERED BY NEUZD, 6011 786:950.                    

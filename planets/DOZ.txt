@@ -1,0 +1,6 @@
+Planet: DOZ
+Starmap index: 13
+Paris coordinates: 3625712, -66300682, -2983002
+
+Guide entries:
+GREEN DEADWORLD. (SCHMERM 6011 593.730)

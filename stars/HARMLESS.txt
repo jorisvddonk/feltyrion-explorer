@@ -1,0 +1,15 @@
+Star: HARMLESS
+Star class: S02
+Paris coordinates: 6119600, -1024009, 3853960
+Bodies: 6 (6 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- Planet #2 (r rocky, creased)
+- Planet #3 (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+- Planet #5 (k thick atmosphere)
+
+Guide entries:
+STAR FOUND BY DR. WORM, EPOC 6011: 659.746

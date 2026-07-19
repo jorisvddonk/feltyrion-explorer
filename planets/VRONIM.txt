@@ -1,0 +1,3 @@
+Planet: VRONIM
+Starmap index: 10
+Paris coordinates: 218928, 169094, -26787

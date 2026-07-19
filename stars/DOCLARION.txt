@@ -1,0 +1,12 @@
+Star: DOCLARION
+Star class: S00
+Paris coordinates: 356784, 100102863, -21217
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- DOCLARION PRIME (+ substellar object)
+- DOCLARION 2 (d dusty, craterized)
+- DOCLARION 3 (r rocky, creased)
+- DOCLARION 4 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)

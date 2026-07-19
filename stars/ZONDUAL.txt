@@ -1,0 +1,11 @@
+Star: ZONDUAL
+Star class: S06
+Paris coordinates: 2146784592, 2045285, 1551279381
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+COORDINATES = 2146784592 / 2045285 / 1551279381
+ DISCOVERED BY DODO C. SNOTTS - 6011:578.655
+(S06) LI+

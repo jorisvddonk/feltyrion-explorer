@@ -1,0 +1,27 @@
+Star: CHILD OF THE DAMNED
+Star class: S00
+Paris coordinates: 4362480, 5219787, 451177
+Bodies: 21 (12 planets, 9 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (d dusty, craterized)
+- FACETED (q quartz surface)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- MARDUK (f felisian)
+- DOROTHY NORTH (f felisian)
+  - Moon #0 (^ unstable)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+- Planet #7 (n thin atmosphere)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (q quartz surface)
+- Planet #10 (d dusty, craterized)
+- Planet #11 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

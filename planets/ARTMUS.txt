@@ -1,0 +1,8 @@
+Planet: ARTMUS
+Starmap index: 50
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+ DISCOVERED BY MISTRAL, EPOC 6011.797.811                                   
+A TYPICAL DUSTY MOON                                                        
+(NOTES BY MISTRAL, EPOC 6011.797.812)                                       

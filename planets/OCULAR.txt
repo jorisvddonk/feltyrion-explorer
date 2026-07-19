@@ -1,0 +1,7 @@
+Planet: OCULAR
+Starmap index: 07
+Paris coordinates: 46087568, 13128339, -635122313
+
+Guide entries:
+QUARTZ PLANET, NAMED FOR BLCK SPOTS THAT LOOK LIKE EYES FROM ORBIT.         
+(EXPLORED BY NEV, 6011:812.116)                                             

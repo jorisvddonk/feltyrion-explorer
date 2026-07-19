@@ -1,0 +1,17 @@
+Star: AKAISA
+Star class: S00
+Paris coordinates: 5469264, 6372338, -331449
+Bodies: 7 (4 planets, 3 moons)
+
+System:
+- JOT (d dusty, craterized)
+- TARAGUS (r rocky, creased)
+- PHAEDAR (n thin atmosphere)
+- KALAX (f felisian)
+  - NOR (d dusty, craterized)
+  - ZANEO (d dusty, craterized)
+  - THOBEAU (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY SHADOWSTAR ON 6011:604.175
+ STABLE YELLOW-STAR SYSTEM WITH 3 ESTIMATED PLANETS.

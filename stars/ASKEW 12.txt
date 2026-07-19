@@ -1,0 +1,6 @@
+Star: ASKEW 12
+Star class: S00
+Paris coordinates: 9762064, 8271485, 8321983
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,3 @@
+Planet: LV-008
+Starmap index: 02
+Paris coordinates: -107373808, 25033790, -2138490

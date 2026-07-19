@@ -1,0 +1,3 @@
+Planet: FINESIA
+Starmap index: 01
+Paris coordinates: 160720, -9347, -1243007

@@ -1,0 +1,19 @@
+Star: MILIUM
+Star class: S02
+Paris coordinates: 3611056, 4316254, 69343
+Bodies: 7 (7 planets, 0 moons)
+
+System:
+- HOBBLEDEHOY (d dusty, craterized)
+- ALIUNDE (q quartz surface)
+- JUGATE (r rocky, creased)
+- SENSATUS (n thin atmosphere)
+- DEMOISELLE (d dusty, craterized)
+- LIWOG (q quartz surface)
+- RACKLE (+ substellar object)
+
+Guide entries:
+ EXPLORED BY SKINNNYMON EPOC 6011 562.779
+UPDATE:A WHITE DWARF WITH 7 (COUNT 'EM) PLANETS. DEBRIS RINGS ABOUND.
+BUT NO MOONS- GO FIGURE
+ SKINNYMON EPOC 6011 565.473

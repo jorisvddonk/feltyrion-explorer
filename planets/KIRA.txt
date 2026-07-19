@@ -1,0 +1,3 @@
+Planet: KIRA
+Starmap index: 01
+Paris coordinates: 5970352, 7038092, -4780067

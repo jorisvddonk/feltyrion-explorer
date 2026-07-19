@@ -1,0 +1,47 @@
+Star: NEUHAUS
+Star class: S03
+Paris coordinates: -4872112, -75428596, -2064196
+Bodies: 35 (9 planets, 26 moons)
+
+System:
+- LLOBELL (q quartz surface)
+- YETTON (r rocky, creased)
+- ALPERS (n thin atmosphere)
+  - DUKOV (d dusty, craterized)
+- KHALED (n thin atmosphere)
+- CINELU (+ substellar object)
+  - PAIXAO (k thick atmosphere)
+  - QUECU (r rocky, creased)
+  - KAVAFIS (k thick atmosphere)
+  - AMARGOS (q quartz surface)
+  - ALGARRADA (@ large, not consistent)
+  - HOGUE (f felisian)
+  - SOLRAC (d dusty, craterized)
+  - MINO (q quartz surface)
+  - GOLINO (k thick atmosphere)
+  - LULO (n thin atmosphere)
+  - TABRIZ (r rocky, creased)
+  - KARPINSKI (k thick atmosphere)
+  - DREYFUS (^ unstable)
+  - BARDANI (f felisian)
+  - BUTLER (@ large, not consistent)
+  - SANBORN (f felisian)
+  - CALHOUN (^ unstable)
+  - REID (^ unstable)
+  - SAL (r rocky, creased)
+- SCHNEE (d dusty, craterized)
+- SAMPLE (k thick atmosphere)
+  - PERSING (n thin atmosphere)
+  - NARELL (i icy surface)
+- GOH (r rocky, creased)
+  - HOTODA (n thin atmosphere)
+  - POOGIE (d dusty, craterized)
+- EVERETTE (q quartz surface)
+  - SNARE (d dusty, craterized)
+  - THORNTON (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:583.286
+ HOGUE IS A FELISIAN MOON (MOON N 6 IN FIFTH PLANET)
+ BARDANI IS ANOTHER FELISIAN MOON (MOON 14 IN FIFTH PLANET)
+ SANBORN IS ANOTHER FELISIAN MOON (MOON 16 IN THE FIFTH PLANET)

@@ -1,0 +1,15 @@
+Star: KENARSEC
+Star class: S03
+Paris coordinates: 3094640, 5065016, -2343905
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- KENAGOWMA (+ substellar object)
+- ICNECUR (@ large, not consistent)
+- NESUFUR (@ large, not consistent)
+  - CLAST-ONEYMO (n thin atmosphere)
+  - SURCAST-EYMO (n thin atmosphere)
+  - LIESE (q quartz surface)
+
+Guide entries:
+DISCOVERED BY NEUZD, 6011:748.306                                           

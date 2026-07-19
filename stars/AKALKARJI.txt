@@ -1,0 +1,11 @@
+Star: AKALKARJI
+Star class: S07
+Paris coordinates: 2140626736, -2572728, 777528
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+CLASS S07 STAR, NO PLANET. 2.94960642 BAL. M. TEMP 31981 K RAD 1050         
+-1250 KR COR 2140626736; -2572728; 777528. IN LISTA 308 AREA NEAR           
+PROVEIT. SKINNYMON 6011 791.427                                             

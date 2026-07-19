@@ -1,0 +1,3 @@
+Planet: ADAMS
+Starmap index: 07
+Paris coordinates: 4335344, 4895159, -1181800

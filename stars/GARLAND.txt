@@ -1,0 +1,31 @@
+Star: GARLAND
+Star class: S00
+Paris coordinates: 4159632, 4436827, -1722935
+Bodies: 25 (9 planets, 16 moons)
+
+System:
+- SURIS (n thin atmosphere)
+- VIMIAN (n thin atmosphere)
+- TERRUSH (r rocky, creased)
+- ESPERANZA (q quartz surface)
+  - GIROM (n thin atmosphere)
+- FAERIA (r rocky, creased)
+  - MIKELUS (^ unstable)
+- PITEUS (@ large, not consistent)
+  - FIREBREATH (^ unstable)
+  - ASSUN (k thick atmosphere)
+  - MAREA (r rocky, creased)
+  - KONEKO (n thin atmosphere)
+  - DAEDALUS (r rocky, creased)
+  - CHESNIA (d dusty, craterized)
+  - DEPART (k thick atmosphere)
+  - HURSK (^ unstable)
+  - BLACK WIDOW (n thin atmosphere)
+  - ETERNAL NIGHT (k thick atmosphere)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (i icy surface)
+- Planet #8 (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (i icy surface)

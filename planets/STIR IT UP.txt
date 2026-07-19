@@ -1,0 +1,3 @@
+Planet: STIR IT UP
+Starmap index: 25
+Paris coordinates: 3559632, 4419846, -912889

@@ -1,0 +1,6 @@
+Star: LITH-08
+Star class: S06
+Paris coordinates: 3230736, -460138, -8090461
+Bodies: 0 (0 planets, 0 moons)
+
+System:

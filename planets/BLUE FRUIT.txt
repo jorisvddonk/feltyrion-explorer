@@ -1,0 +1,3 @@
+Planet: BLUE FRUIT
+Starmap index: 02
+Paris coordinates: 5982832, 5301985, -232771

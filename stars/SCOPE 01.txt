@@ -1,0 +1,6 @@
+Star: SCOPE 01
+Star class: S06
+Paris coordinates: 5142128, 4800242, -1596633
+Bodies: 0 (0 planets, 0 moons)
+
+System:

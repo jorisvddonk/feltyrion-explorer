@@ -1,0 +1,25 @@
+Star: BERDEM
+Star class: S00
+Paris coordinates: 479312, 4729315, -6303227
+Bodies: 15 (6 planets, 9 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (r rocky, creased)
+- NOSSUS (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (f felisian)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (f felisian)
+  - Moon #4 (d dusty, craterized)
+- Planet #4 (r rocky, creased)
+- Planet #5 (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+YELLOW STAR,IT HAS 6 PLANETS AND 9 MINOR BODIES
+DISCOVERED BY KJ EPOC 6011:576.983

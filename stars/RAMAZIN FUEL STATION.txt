@@ -1,0 +1,6 @@
+Star: RAMAZIN FUEL STATION
+Star class: S06
+Paris coordinates: -50477808, -257055, 39358950
+Bodies: 0 (0 planets, 0 moons)
+
+System:

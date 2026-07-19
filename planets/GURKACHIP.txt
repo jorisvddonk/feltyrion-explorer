@@ -1,0 +1,8 @@
+Planet: GURKACHIP
+Starmap index: 01
+Paris coordinates: -120016, 5320411, 4043507
+
+Guide entries:
+P01/04 SMALL SOLID DUSTY CRATERIZED, NO ATMO. SLIGHTLY PINK WITH            
+LARGE CRATERS AND SHORT RAYS. PVO 0.314.360 PRV 0.005.997.544               
+SKINNYMON EPOC 6011 791.268                                                 

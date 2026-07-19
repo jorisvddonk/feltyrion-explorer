@@ -1,0 +1,6 @@
+Planet: CRUSHEV
+Starmap index: 03
+Paris coordinates: 2673200, 4466539, 646458
+
+Guide entries:
+DISCOVERED BY KROMEBOY 6011 578.286

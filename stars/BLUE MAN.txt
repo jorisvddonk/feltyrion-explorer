@@ -1,0 +1,10 @@
+Star: BLUE MAN
+Star class: S07
+Paris coordinates: 2579984, 1977634, 1057240
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ANOTHER LONE STAR. THESE SEEM TO POP UP WHEREVER I AM.
+STAR FOUND BY DR. WORM, EPOC 6011: 659.720

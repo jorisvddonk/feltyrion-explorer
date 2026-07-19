@@ -1,0 +1,6 @@
+Star: NORTHERN WAYPOINT
+Star class: S06
+Paris coordinates: 5300336, 54042418, -426190
+Bodies: 0 (0 planets, 0 moons)
+
+System:

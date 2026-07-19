@@ -1,0 +1,3 @@
+Planet: QUARZIA
+Starmap index: 09
+Paris coordinates: 4066416, 4445367, -1188702

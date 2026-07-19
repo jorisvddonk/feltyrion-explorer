@@ -1,0 +1,10 @@
+Star: LISTA 37
+Star class: S05
+Paris coordinates: 4511056, 4578635, -936517
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S05 STAR WITH LITHIUM FOR SCOPING. NO PLANETS.
+SKINNYMON EPOC 6011 584,667

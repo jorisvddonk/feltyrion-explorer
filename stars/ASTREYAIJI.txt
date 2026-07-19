@@ -1,0 +1,18 @@
+Star: ASTREYAIJI
+Star class: S08
+Paris coordinates: 2141033520, -2063295, 879601
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- RYBEJMY (q quartz surface)
+- ASTREYAIJI B (* companion star)
+- POJDUO (r rocky, creased)
+  - KEDH (^ unstable)
+  - JNAA (d dusty, craterized)
+
+Guide entries:
+A CLASS S08 WITH TWO STELLAR BODIES, 2 OTHER PLANETS, 2 MOONS, NO           
+FELISIAN. THE MAIN STAR UPON EXAMINATION HAS CHARACTERISTICS OF A           
+S05 CLASS STAR. 0.45353499 BAL. M. TEMP 2278 K RAD 31-32 KR COR             
+2141033520;-2063295;879601STAR IN LISTA 308 AREA MAYBE OOR.                 
+SKINNYMON 6011 791.425                                                      

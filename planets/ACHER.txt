@@ -1,0 +1,6 @@
+Planet: ACHER
+Starmap index: 06
+Paris coordinates: 752848, 414304, 1300716
+
+Guide entries:
+ DISCOVERED BY FOTIOS. EPOC 6011:609.529

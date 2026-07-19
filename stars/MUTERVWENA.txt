@@ -1,0 +1,6 @@
+Star: MUTERVWENA
+Star class: S05
+Paris coordinates: 1550000, 50950000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

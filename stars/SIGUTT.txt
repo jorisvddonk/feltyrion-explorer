@@ -1,0 +1,12 @@
+Star: SIGUTT
+Star class: S11
+Paris coordinates: 4158544, 4648509, 2112777
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- PAGANANANAN (n thin atmosphere)
+- BIROS (d dusty, craterized)
+- TRAHI (d dusty, craterized)
+  - GORONH (d dusty, craterized)
+- MIWKILIUOAENAR (d dusty, craterized)
+  - DAROS INGINIOR (d dusty, craterized)

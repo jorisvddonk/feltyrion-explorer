@@ -1,0 +1,7 @@
+Planet: KELYR
+Starmap index: 02
+Paris coordinates: 2090751600, -1867804, -44748
+
+Guide entries:
+P02/06 VERY LARGE SUBSTELLAR YELLOW COLOR. PRO 0.172.080 0.029.169.708      
+SKINNYMON 6011 793.751                                                      

@@ -1,0 +1,3 @@
+Planet: TEORA STAR 1
+Starmap index: 01
+Paris coordinates: 7109968, 7308054, 351366

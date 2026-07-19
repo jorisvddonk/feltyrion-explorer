@@ -1,0 +1,3 @@
+Planet: THIRD
+Starmap index: 17
+Paris coordinates: 652848, 5094897, 1459881

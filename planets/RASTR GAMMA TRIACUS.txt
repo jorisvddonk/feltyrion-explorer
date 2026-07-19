@@ -1,0 +1,3 @@
+Planet: RASTR GAMMA TRIACUS
+Starmap index: 10
+Paris coordinates: 1400207440, 1427364, 1398908212

@@ -1,0 +1,3 @@
+Planet: CARROSSEL
+Starmap index: 09
+Paris coordinates: -144372464, -1383963, 54294690

@@ -1,0 +1,6 @@
+Planet: TTON
+Starmap index: 33
+Paris coordinates: 4513904, 4364650, 1236617
+
+Guide entries:
+SURVEYED BY EDEANP 6011.618.105.400, ABUNDANT LIFE

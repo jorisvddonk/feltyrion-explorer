@@ -1,0 +1,7 @@
+Planet: AJISYH
+Starmap index: 09
+Paris coordinates: 2052562480, 532725, 204773
+
+Guide entries:
+M05/P03 SMALL SOLID THIN ATMO, RATHER DARK BUT GOOD POLAR CAPS. PRO         
+0.331.400 PRV 0.005.853.828 SKINNYMON 6011 795.976                          

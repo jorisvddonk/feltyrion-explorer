@@ -1,0 +1,6 @@
+Planet: STEARIC
+Starmap index: 04
+Paris coordinates: -1501424, 1342483, 472938
+
+Guide entries:
+ DISCOVERED BY SEAN MCCOY AKA CLASSICO

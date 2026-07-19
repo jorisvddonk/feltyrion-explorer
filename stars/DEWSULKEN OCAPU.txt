@@ -1,0 +1,6 @@
+Star: DEWSULKEN OCAPU
+Star class: S11
+Paris coordinates: 1350000, 51750000, -1450000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

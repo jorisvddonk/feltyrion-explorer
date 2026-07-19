@@ -1,0 +1,14 @@
+Star: UNFRUITFUL
+Star class: S00
+Paris coordinates: 4311056, 4586995, -631821
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- ASHTRAY (n thin atmosphere)
+- TIGERINE (n thin atmosphere)
+- RENAISSANCE (f felisian)
+
+Guide entries:
+FURTHER NOTES: CLASS S00 SYSTEM WITH THREE WORLDS. I'M NOT SAYING
+SAYING ANYTHING, BUT THEY WERE ONLY NAMED..NO NOTES. ONE WORLD IS
+FELISIAN. EXPLORE IT, ENJOY. SKINNYMON EPOC 6011 567.893

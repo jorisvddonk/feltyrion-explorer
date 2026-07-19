@@ -1,0 +1,3 @@
+Planet: DAWNE
+Starmap index: 06
+Paris coordinates: 4055696, 5346452, 377776

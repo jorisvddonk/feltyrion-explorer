@@ -1,0 +1,7 @@
+Planet: CYCLIT
+Starmap index: 17
+Paris coordinates: 2069605616, -2029036, 997220
+
+Guide entries:
+M14/P03 MEDIUM SIZE ROCKY ROUGH AND SCARRED. PALE YELLOW COLOR. PRO         
+0.234.360 PRV 0.003.936.883 SKINNYMON 6011 795.109                          

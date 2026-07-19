@@ -1,0 +1,3 @@
+Planet: DEATH KNIGHT
+Starmap index: 79
+Paris coordinates: 3804272, 4398014, -524676

@@ -1,0 +1,12 @@
+Star: MIRACAP
+Star class: S08
+Paris coordinates: 301082736, 1470721, 54418176
+Bodies: 2 (1 planets, 1 moons)
+
+System:
+- MIRACAP ALPHA (* companion star)
+  - MIRACAP ALPHA PRIME (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:789.391
+(S08) DOUBLE STAR W/ 1 PLANET

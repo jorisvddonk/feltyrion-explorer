@@ -1,0 +1,6 @@
+Planet: JUTRE
+Starmap index: 30
+Paris coordinates: 1158546096, -274926, -1000180310
+
+Guide entries:
+MEDIUM SIZE, SOLID, THICK ATMOSPHERE. (NOTES BY NEUZD, 6011:835.980)        

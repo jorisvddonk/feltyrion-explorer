@@ -1,0 +1,3 @@
+Planet: HYDRANGEIS
+Starmap index: 01
+Paris coordinates: 6034256, 4325458, 922876

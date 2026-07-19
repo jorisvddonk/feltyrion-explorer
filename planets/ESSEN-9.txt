@@ -1,0 +1,3 @@
+Planet: ESSEN-9
+Starmap index: 09
+Paris coordinates: -12144, 72689, 302469

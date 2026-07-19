@@ -1,0 +1,10 @@
+Star: NOITUAC
+Star class: S03
+Paris coordinates: 1360720, 4807373, -2448470
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A VERY LARGE AND ANCIENT RED GIANT. NO PLANETS.
+DISCOVERED BY TIM MACE EPOC 6011 - 584.55.252

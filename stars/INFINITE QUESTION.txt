@@ -1,0 +1,10 @@
+Star: INFINITE QUESTION
+Star class: S11
+Paris coordinates: -4034256, -73015173, -2589013
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LISTENER (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY JAFO. EPOC 6011:582.659

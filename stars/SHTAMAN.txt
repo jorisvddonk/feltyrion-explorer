@@ -1,0 +1,37 @@
+Star: SHTAMAN
+Star class: S00
+Paris coordinates: -156784, 37190, -85076
+Bodies: 26 (11 planets, 15 moons)
+
+System:
+- SHUCINDRE (+ substellar object)
+- SHELEOP (+ substellar object)
+- SHIASMUS (k thick atmosphere)
+- SHIROB (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- SHETALP (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- SHEFFEYIE (+ substellar object)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (^ unstable)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (k thick atmosphere)
+  - SHAISON (f felisian)
+- SHETERC (r rocky, creased)
+  - Moon #0 (^ unstable)
+- SHERBRA (n thin atmosphere)
+- SHELLABUS (k thick atmosphere)
+  - Moon #0 (d dusty, craterized)
+- SHEGALC (i icy surface)
+  - Moon #0 (n thin atmosphere)
+- SHYGLACE (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+
+Guide entries:
+THE TWO PLACES OF INTEREST IN THIS SYSTEM ARE A FELYSIAN MOON AT THE
+SIXTH PLANET AND THE WONDEFUL DESERT PLANET SHIASMUS.
+STAR DISCOVERED BY PIERRE BOURBEAU AT EPOC 6011:561.70.783.

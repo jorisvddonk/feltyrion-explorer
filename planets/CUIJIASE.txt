@@ -1,0 +1,8 @@
+Planet: CUIJIASE
+Starmap index: 03
+Paris coordinates: 2069274544, -1807205, 1405355
+
+Guide entries:
+P03/07 MEDIUM SIZED THICK ATMO, CLOUDS INTERSPERSED WITH DULL PINK          
+AND DARK AREAS STORMS NEAR FAR SOUTH. PRO 0.189.360 PRV 0.039.220.          
+308 SKINNYMON 6011 794.931                                                  

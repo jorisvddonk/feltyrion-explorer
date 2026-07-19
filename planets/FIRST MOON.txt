@@ -1,0 +1,6 @@
+Planet: FIRST MOON
+Starmap index: 18
+Paris coordinates: 3835344, 4333056, -655559
+
+Guide entries:
+MOON DISCOVERED BY DORIAN, EPOC 6011:609.135

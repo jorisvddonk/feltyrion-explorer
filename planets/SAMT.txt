@@ -1,0 +1,3 @@
+Planet: SAMT
+Starmap index: 05
+Paris coordinates: -2324624, -8133735, -2013503

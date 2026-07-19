@@ -1,0 +1,9 @@
+Star: LISTA 7
+Star class: S06
+Paris coordinates: 8578224, -67149, -10522627
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FILL 'ER UP AND CHECK THE TIRES. SKINNYMON EPOC 6011 566.238

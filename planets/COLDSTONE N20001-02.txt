@@ -1,0 +1,3 @@
+Planet: COLDSTONE N20001-02
+Starmap index: 02
+Paris coordinates: 3052848, 4443317, -802373

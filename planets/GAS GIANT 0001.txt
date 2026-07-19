@@ -1,0 +1,6 @@
+Planet: GAS GIANT 0001
+Starmap index: 02
+Paris coordinates: 6251760, 5044996, -324250
+
+Guide entries:
+DISCOVERED BY GILBERTO EPOC 6011

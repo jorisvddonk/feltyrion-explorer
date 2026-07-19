@@ -1,0 +1,12 @@
+Star: TRAKIG
+Star class: S08
+Paris coordinates: 2101424, 4442806, -1041230
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+
+Guide entries:
+STAR DICOVERED BY TORBJORN KALLSTOM 609:590:650
+NOTHING OF INTEREST HERE, YOU'D BETTER JUST LEAVE.(NOTES BY TORBJORN
+KALLSTROM609:590:650)

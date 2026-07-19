@@ -1,0 +1,6 @@
+Star: PITSTOP 38
+Star class: S06
+Paris coordinates: 277424, -369075, 1819417661
+Bodies: 0 (0 planets, 0 moons)
+
+System:

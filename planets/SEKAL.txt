@@ -1,0 +1,3 @@
+Planet: SEKAL
+Starmap index: 01
+Paris coordinates: -83920, 6858315, -1735966

@@ -1,0 +1,10 @@
+Star: +NAN L.Y.
+Star class: S00
+Paris coordinates: -25712, -15026, -433075
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A CLASS S00 STAR WITH NO PLANETS. TRUST ME. SKINNYMON EPOC 6011
+580.218

@@ -1,0 +1,9 @@
+Star: HUR
+Star class: S08
+Paris coordinates: 2770352, 5828842, -1328582
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ SEEMS TO BE A DWARF STAR...NO PLANETS IN VINCINITY ..(KRUSTY 6011:598.969

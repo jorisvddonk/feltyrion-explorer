@@ -1,0 +1,11 @@
+Star: CPN 13
+Star class: S05
+Paris coordinates: -61639376, 29582594, 663822
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- RUBELUCA (n thin atmosphere)
+- FALCO (r rocky, creased)
+
+Guide entries:
+SCOPE HERE! S05 STAR DISCOVERED BY MCWGOGS EPOC 6011.637.101. 2 PLANETS

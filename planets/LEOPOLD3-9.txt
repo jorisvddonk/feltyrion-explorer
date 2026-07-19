@@ -1,0 +1,6 @@
+Planet: LEOPOLD3-9
+Starmap index: 13
+Paris coordinates: -29648, -1258023, 1474796
+
+Guide entries:
+MEDIUM, NO ATMOSPHERE. CREASED.

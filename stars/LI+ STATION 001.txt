@@ -1,0 +1,6 @@
+Star: LI+ STATION 001
+Star class: S06
+Paris coordinates: 5421776, 5345209, -3069734
+Bodies: 0 (0 planets, 0 moons)
+
+System:

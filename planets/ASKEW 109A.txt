@@ -1,0 +1,3 @@
+Planet: ASKEW 109A
+Starmap index: 01
+Paris coordinates: 1902096, -12067422, 8947965

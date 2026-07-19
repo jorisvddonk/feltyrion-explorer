@@ -1,0 +1,6 @@
+Planet: STRUVYA
+Starmap index: 09
+Paris coordinates: -250797360, -1406977, 54957351
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.576.299

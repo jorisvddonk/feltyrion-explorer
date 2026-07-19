@@ -1,0 +1,41 @@
+Star: LAURANA
+Star class: S00
+Paris coordinates: 2763568, 4688046, -1921440
+Bodies: 30 (11 planets, 19 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (r rocky, creased)
+- REIMER (+ substellar object)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (q quartz surface)
+  - CRYSTAL FOREST (f felisian)
+  - Moon #3 (d dusty, craterized)
+  - CYLLAN (f felisian)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (n thin atmosphere)
+  - Moon #7 (q quartz surface)
+- IDAEAN (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- FENRIS (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (^ unstable)
+
+Guide entries:
+STAR DISCOVERED BY ATTRADIS, EPOC 6011:559.224
+FOUND 2 PLANETS AND 2 MOONS PRESENTING INDIGENOUS LIFEFORMS
+NOTES BY ATTRADIS, EPOC 6011:559.224

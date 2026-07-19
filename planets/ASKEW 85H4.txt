@@ -1,0 +1,6 @@
+Planet: ASKEW 85H4
+Starmap index: 19
+Paris coordinates: 10945232, -19339777, 17862369
+
+Guide entries:
+FOUND EPOC 6011 588.351.200 BY ROLAND ASKEW

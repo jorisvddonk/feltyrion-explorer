@@ -1,0 +1,3 @@
+Planet: VALSE BIZARRE
+Starmap index: 08
+Paris coordinates: 2568176, 4269415, 6430277

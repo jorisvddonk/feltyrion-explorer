@@ -1,0 +1,3 @@
+Planet: LITHO
+Starmap index: 03
+Paris coordinates: 3779984, 4313464, -58717

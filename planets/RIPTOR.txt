@@ -1,0 +1,3 @@
+Planet: RIPTOR
+Starmap index: 43
+Paris coordinates: 70352, 945533, 1134813

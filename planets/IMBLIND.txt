@@ -1,0 +1,3 @@
+Planet: IMBLIND
+Starmap index: 04
+Paris coordinates: 3708208, 4249889, -2171700

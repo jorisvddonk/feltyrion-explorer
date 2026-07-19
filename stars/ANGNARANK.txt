@@ -1,0 +1,19 @@
+Star: ANGNARANK
+Star class: S09
+Paris coordinates: -1273200, -14300100, -1906276
+Bodies: 13 (5 planets, 8 moons)
+
+System:
+- BUER (@ large, not consistent)
+- GRON (@ large, not consistent)
+- SHEEN (@ large, not consistent)
+  - SOLDOROS (d dusty, craterized)
+  - NIE (^ unstable)
+  - SIEBA (n thin atmosphere)
+  - GSCHANK (q quartz surface)
+  - BLOWOK (n thin atmosphere)
+  - BURTZ (k thick atmosphere)
+  - SERAIL (r rocky, creased)
+- ENGH (@ large, not consistent)
+- SURGO (^ unstable)
+  - LIDIO (n thin atmosphere)

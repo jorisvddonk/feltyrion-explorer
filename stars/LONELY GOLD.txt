@@ -1,0 +1,6 @@
+Star: LONELY GOLD
+Star class: S00
+Paris coordinates: 5404272, 4296822, -2164045
+Bodies: 0 (0 planets, 0 moons)
+
+System:

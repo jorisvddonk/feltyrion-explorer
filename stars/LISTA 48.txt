@@ -1,0 +1,14 @@
+Star: LISTA 48
+Star class: S05
+Paris coordinates: 6055696, 4869327, -1856127
+Bodies: 4 (3 planets, 1 moons)
+
+System:
+- FRETFUL (n thin atmosphere)
+- SHADWELL (@ large, not consistent)
+- COMBE (d dusty, craterized)
+  - LOCKE (d dusty, craterized)
+
+Guide entries:
+S05 SYSTEM WITH LITHIUM AND 3 PLANETS, 1 MOON. SKINNYMON EPOC 6011
+584.678

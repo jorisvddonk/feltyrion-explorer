@@ -1,0 +1,22 @@
+Star: EVA
+Star class: S00
+Paris coordinates: -350382640, -1432259, 54971403
+Bodies: 10 (5 planets, 5 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (+ substellar object)
+  - Moon #0 (r rocky, creased)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (d dusty, craterized)
+- TERRA NOVA (f felisian)
+  - LUA NOVA (d dusty, craterized)
+- Planet #4 (n thin atmosphere)
+
+Guide entries:
+DISCOVERED BY PAUL EIPPER, EPOC 6011.577.25
+THIS STAR SYSTEM IS VERY SINGULAR
+MAKES ME THINK I'VE ALREADY BEEN SOME PLACE SIMILAR...
+NOTES BY PAUL EIPPER, DATE OF DISCOVERY

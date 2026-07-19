@@ -1,0 +1,3 @@
+Planet: NICK MEGLIN
+Starmap index: 20
+Paris coordinates: 257872, 4330231, -3480811

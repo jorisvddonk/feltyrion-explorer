@@ -1,0 +1,8 @@
+Star: ALSAKI CXXCI
+Star class: S05
+Paris coordinates: 16030320, 31867726, -7407534
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)

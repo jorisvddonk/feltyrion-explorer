@@ -1,0 +1,8 @@
+Planet: IZANAMI
+Starmap index: 48
+Paris coordinates: 4679984, 4340337, -1040649
+
+Guide entries:
+IZANAMIE DISCOVERED BY MISTRAL EPOC 6011.797.806                            
+PLANET IS HOT AND ATMOSPHERELESS; PRESUMABLY HAS NO LIFE                    
+(NOTES BY MISTRAL EPOC 6011.797.806)                                        

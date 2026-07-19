@@ -1,0 +1,3 @@
+Planet: NRA
+Starmap index: 20
+Paris coordinates: 11958800, -19325483, 17497781

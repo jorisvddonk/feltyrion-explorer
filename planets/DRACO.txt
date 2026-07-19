@@ -1,0 +1,6 @@
+Planet: DRACO
+Starmap index: 01
+Paris coordinates: 2939280, 4388626, -1511660
+
+Guide entries:
+ DISCOVERED EPOC 6011:582.407 BY MARCUS ARAC

@@ -1,0 +1,3 @@
+Planet: WODEFAZ SAM
+Starmap index: 02
+Paris coordinates: 5751088, 5886481, -9621758

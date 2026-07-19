@@ -1,0 +1,15 @@
+Star: FLATULA
+Star class: S00
+Paris coordinates: 8303184, 5908820, -1251717
+Bodies: 9 (4 planets, 5 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (@ large, not consistent)
+- GASSY1 (@ large, not consistent)
+  - HADEEZ (^ unstable)
+  - AAAAAARGH (f felisian)
+  - DEATHSTAR1 (d dusty, craterized)
+  - Moon #3 (n thin atmosphere)
+  - ODIFEROUS (f felisian)
+- PORTHAKIS (f felisian)

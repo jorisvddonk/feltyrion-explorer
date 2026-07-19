@@ -1,0 +1,10 @@
+Star: BARREN
+Star class: S00
+Paris coordinates: 4776048, 1351212, 873306
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FURTHER NOTES: CLASS S00, BUT EXACTLY AS ADVERTISED. SKINNYMON EPOC
+6011 569.928

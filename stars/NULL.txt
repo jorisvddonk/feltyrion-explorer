@@ -1,0 +1,10 @@
+Star: NULL
+Star class: S06
+Paris coordinates: 4862480, 5308953, -280670
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY SHADOWSTAR ON 6011:604.174
+NO REAL FUEL POTENTIAL HERE.

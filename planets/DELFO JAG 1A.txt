@@ -1,0 +1,3 @@
+Planet: DELFO JAG 1A
+Starmap index: 06
+Paris coordinates: 147056, 7086, 1986076718

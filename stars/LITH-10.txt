@@ -1,0 +1,6 @@
+Star: LITH-10
+Star class: S06
+Paris coordinates: 3761808, -156884, -8668478
+Bodies: 0 (0 planets, 0 moons)
+
+System:

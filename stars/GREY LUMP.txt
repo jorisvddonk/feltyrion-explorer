@@ -1,0 +1,9 @@
+Star: GREY LUMP
+Star class: S06
+Paris coordinates: 3921776, 4263420, -1542612
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY LEXUS- EPOC 6011.841.170.241 - UNSUITABLE FOR FUEL           

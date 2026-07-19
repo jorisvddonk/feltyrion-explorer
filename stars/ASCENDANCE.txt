@@ -1,0 +1,15 @@
+Star: ASCENDANCE
+Star class: S00
+Paris coordinates: 4679984, 4783396, -748470
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- GALIEUS (@ large, not consistent)
+- GARBELT (k thick atmosphere)
+- ALPHA POCKY (d dusty, craterized)
+- SPYRE (f felisian)
+
+Guide entries:
+SURPRISINGLY UNCHARTED YELLOW MEDIUM DISCOVERED. NO MOONS, SOME
+DISCOVERED EPOC 6011 584.27.440 BY PROF. CALLAHAN.
+FOR EZ REFERENCE, PAR IS 467997,4783394,-748463. HAPPY DRIFTING!

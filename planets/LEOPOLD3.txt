@@ -1,0 +1,6 @@
+Planet: LEOPOLD3
+Starmap index: 03
+Paris coordinates: -29648, -1258023, 1474796
+
+Guide entries:
+GAS GIANT WITH MANY MOONS.

@@ -1,0 +1,9 @@
+Star: MDIR 20
+Star class: S06
+Paris coordinates: 2818928, 12248493, -2595715
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM HERE.(SEEMS LIKE WE'RE STILL NEAR THE GRID.)                        

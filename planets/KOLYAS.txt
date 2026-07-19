@@ -1,0 +1,7 @@
+Planet: KOLYAS
+Starmap index: 07
+Paris coordinates: 2091903024, -1729241, -163145
+
+Guide entries:
+M01/P05 SMALL SOLID DUSTY VERY LARGE CRATERS WITH RAYS ON TAN COLOR.        
+PRO 0.199.800 PRV 0.004.231.286 SKINNYMON 6011 793.608                      

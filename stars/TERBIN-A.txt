@@ -1,0 +1,8 @@
+Star: TERBIN-A
+Star class: S08
+Paris coordinates: 1636432, 4116987, -2313501
+Bodies: 2 (1 planets, 1 moons)
+
+System:
+- TERBIN-B (* companion star)
+  - TERBIN-P (k thick atmosphere)

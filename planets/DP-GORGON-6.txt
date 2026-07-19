@@ -1,0 +1,6 @@
+Planet: DP-GORGON-6
+Starmap index: 12
+Paris coordinates: 4148912, 4488377, -127177
+
+Guide entries:
+DEAD PLANET, NO ATMOSPHERE

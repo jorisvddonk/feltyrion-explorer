@@ -1,0 +1,23 @@
+Star: WTOUTPOSTSTAR
+Star class: S00
+Paris coordinates: -26835184, 3915457, -12828912
+Bodies: 17 (11 planets, 6 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (@ large, not consistent)
+- Planet #2 (k thick atmosphere)
+- WTOUTPOSTPLANET (f felisian)
+- Planet #4 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #5 (r rocky, creased)
+- Planet #6 (n thin atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #7 (r rocky, creased)
+  - Moon #0 (i icy surface)
+  - Moon #1 (d dusty, craterized)
+- Planet #8 (i icy surface)
+- Planet #9 (k thick atmosphere)
+- Planet #10 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)

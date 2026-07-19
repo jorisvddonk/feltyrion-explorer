@@ -1,0 +1,6 @@
+Star: EKA19 INFERTILE
+Star class: S00
+Paris coordinates: -71279568, -742816, 54228676
+Bodies: 0 (0 planets, 0 moons)
+
+System:

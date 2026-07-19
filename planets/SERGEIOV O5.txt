@@ -1,0 +1,3 @@
+Planet: SERGEIOV O5
+Starmap index: 66
+Paris coordinates: -72317424, -1376064, 54932106

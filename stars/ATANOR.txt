@@ -1,0 +1,9 @@
+Star: ATANOR
+Star class: S06
+Paris coordinates: 3552848, 4533415, -1460079
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ DISCOVERED BY DASTARDLIKE. DEAD STAR, IT SEEMS NOT USEFUL FOR SCOPING.

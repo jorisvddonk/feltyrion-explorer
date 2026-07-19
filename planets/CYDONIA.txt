@@ -1,0 +1,3 @@
+Planet: CYDONIA
+Starmap index: 05
+Paris coordinates: 3890704, 4620850, -1463671

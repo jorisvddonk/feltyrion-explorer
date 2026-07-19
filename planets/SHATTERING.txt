@@ -1,0 +1,3 @@
+Planet: SHATTERING
+Starmap index: 04
+Paris coordinates: 2056784, 4710337, -1488534

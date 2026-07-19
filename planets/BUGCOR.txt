@@ -1,0 +1,6 @@
+Planet: BUGCOR
+Starmap index: 01
+Paris coordinates: 5376048, 9156588, 170993
+
+Guide entries:
+PLANET DISCOVERED BY MURRMURR EPOC 6011:607.898

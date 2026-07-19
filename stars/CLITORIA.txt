@@ -1,0 +1,9 @@
+Star: CLITORIA
+Star class: S06
+Paris coordinates: 3904272, 4065172, -623302
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+FOUND BY MIGUEL MOURA 6011:588.984

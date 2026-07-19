@@ -1,0 +1,6 @@
+Star: ALSAKI CCXLI
+Star class: S00
+Paris coordinates: 14841040, 32530056, -7461280
+Bodies: 0 (0 planets, 0 moons)
+
+System:

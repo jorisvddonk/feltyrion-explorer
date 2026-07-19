@@ -1,0 +1,3 @@
+Planet: REKINI-H-S2
+Starmap index: 39
+Paris coordinates: 164656, -54848, -2929708

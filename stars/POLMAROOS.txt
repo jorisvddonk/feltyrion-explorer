@@ -1,0 +1,9 @@
+Star: POLMAROOS
+Star class: S06
+Paris coordinates: 520350000, -918947, -520200741
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.568)                   

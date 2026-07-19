@@ -1,0 +1,3 @@
+Planet: COLAR
+Starmap index: 01
+Paris coordinates: 3763568, 7037011, -3022940

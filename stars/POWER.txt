@@ -1,0 +1,6 @@
+Star: POWER
+Star class: S06
+Paris coordinates: 4028560, 5341484, -1330445
+Bodies: 0 (0 planets, 0 moons)
+
+System:

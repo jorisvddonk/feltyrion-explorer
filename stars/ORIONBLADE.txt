@@ -1,0 +1,12 @@
+Star: ORIONBLADE
+Star class: S03
+Paris coordinates: 2512144, 3989701, -2674709
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- FELIPE (@ large, not consistent)
+
+Guide entries:
+A RED GIANT STAR CONTAINING A SINGLE STAR, FELIPE.
+DEDICATED TO MY BEST FRIEND PHIL.FOUND BY LAP931 AKA LAYNE PHILLIPS
+ON EPOC 562.87.985

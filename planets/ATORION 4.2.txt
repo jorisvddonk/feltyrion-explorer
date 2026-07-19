@@ -1,0 +1,7 @@
+Planet: ATORION 4.2
+Starmap index: 09
+Paris coordinates: 1939280, 7034008, -476733
+
+Guide entries:
+ SOLID, ROCKY, DUSTY, CRATERIZED, NO ATMOSPHREE.
+(STARGAZER. EPOC 6011:609:513)

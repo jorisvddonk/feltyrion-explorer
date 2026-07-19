@@ -1,0 +1,6 @@
+Planet: VICUS GIDIRIA
+Starmap index: 01
+Paris coordinates: 5544976, 4364947, 115791
+
+Guide entries:
+DESCOVERED BY ORTEGA, EPOCH 6011:621.648

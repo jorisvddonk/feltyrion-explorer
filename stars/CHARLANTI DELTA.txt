@@ -1,0 +1,10 @@
+Star: CHARLANTI DELTA
+Star class: S02
+Paris coordinates: 3566416, 4323957, -480174
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+
+Guide entries:
+ DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:601.780

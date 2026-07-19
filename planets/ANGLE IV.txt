@@ -1,0 +1,3 @@
+Planet: ANGLE IV
+Starmap index: 04
+Paris coordinates: 3652848, 3621750, -1588119

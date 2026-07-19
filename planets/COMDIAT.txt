@@ -1,0 +1,8 @@
+Planet: COMDIAT
+Starmap index: 05
+Paris coordinates: 634154160, -11058310, 50011242
+
+Guide entries:
+M02/P03 THIN ATMOSPHERE AND SMALL. DARK ALMOST GREYISH REFLECTIVITY,        
+GOOD POLAR CAPS, LIGHT AREA NOTED. PRO 0.280.440; PRV 0.001.926.624         
+SKINNYMON 6011 893.111                                                      

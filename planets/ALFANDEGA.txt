@@ -1,0 +1,6 @@
+Planet: ALFANDEGA
+Starmap index: 04
+Paris coordinates: 4873200, 4885727, -1391831
+
+Guide entries:
+LANDED 5.60 / 0.9G 0.0C 38A / EERIE MOUNTAINS (BY NBOAR 6011 588.808

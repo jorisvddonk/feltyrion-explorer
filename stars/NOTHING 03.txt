@@ -1,0 +1,8 @@
+Star: NOTHING 03
+Star class: S03
+Paris coordinates: 3816752, 4301085, 4034419
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)
+- Planet #1 (r rocky, creased)

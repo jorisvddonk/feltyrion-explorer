@@ -1,0 +1,10 @@
+Star: VENFENFH
+Star class: S07
+Paris coordinates: 8294640, -48119, -7588257
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- LEBEMEND (+ substellar object)
+
+Guide entries:
+A CLAASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011 603.734

@@ -1,0 +1,3 @@
+Planet: COLAPSERNIA
+Starmap index: 02
+Paris coordinates: -61501520, 29541691, 594007

@@ -1,0 +1,6 @@
+Star: CAUNDABEND
+Star class: S01
+Paris coordinates: 550000, 50850000, -650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

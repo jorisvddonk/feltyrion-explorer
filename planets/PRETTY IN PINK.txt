@@ -1,0 +1,3 @@
+Planet: PRETTY IN PINK
+Starmap index: 16
+Paris coordinates: 8067088, 6822211, 4701176

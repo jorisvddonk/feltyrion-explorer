@@ -1,0 +1,8 @@
+Planet: DATSFHON
+Starmap index: 04
+Paris coordinates: 2070474544, -1823143, 385289
+
+Guide entries:
+P04/04 MRDIUM SIZE QUARTZ SURFACE, GREENISH REFLECTIVITY MOTTLED WITH       
+DULL DARKER AREAS AND WHITE AREAS. PRO 0.296.280 PRV 0.093.467.128          
+SKINNYMON 6011 795.6                                                        

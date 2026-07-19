@@ -1,0 +1,9 @@
+Star: LISGRID VIEW
+Star class: S07
+Paris coordinates: -239280, 23741390, -899242
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S07 WITH NO PLANETS. RYAN GJK E6011.790.268                              

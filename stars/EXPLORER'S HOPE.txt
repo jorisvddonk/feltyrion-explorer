@@ -1,0 +1,12 @@
+Star: EXPLORER'S HOPE
+Star class: S00
+Paris coordinates: 3301424, 4040099, -2178125
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DISILLUSIONMENT (r rocky, creased)
+
+Guide entries:
+YELLOW DWARF. ONLY ONE PLANET WITH NO ATMOSPHERE. DISCOVERED
+BY RAGENDAL.
+CAT EXPLORER'S HOPE

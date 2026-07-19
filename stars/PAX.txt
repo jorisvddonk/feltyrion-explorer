@@ -1,0 +1,10 @@
+Star: PAX
+Star class: S11
+Paris coordinates: 4748912, 4661208, -765109
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- DISCORD (n thin atmosphere)
+
+Guide entries:
+ PULSAR WITH SINGLE PLANET, DISCORD

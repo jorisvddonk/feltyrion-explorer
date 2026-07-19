@@ -1,0 +1,10 @@
+Star: PRAINDIER
+Star class: S06
+Paris coordinates: 1900517904, 1823450, 54934234
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.086
+REFUELED HERE ON MY WAY TO THE OUTER RIM - DODO C. SNOTTS

@@ -1,0 +1,3 @@
+Planet: JB 111
+Starmap index: 14
+Paris coordinates: -61877232, 29332744, 538440

@@ -1,0 +1,6 @@
+Planet: DP-PINACLE-4
+Starmap index: 08
+Paris coordinates: 3804272, 4498014, -620206
+
+Guide entries:
+DEAD PLANET, NO ATMOSPHERE

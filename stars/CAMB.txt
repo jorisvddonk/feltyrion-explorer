@@ -1,0 +1,9 @@
+Star: CAMB
+Star class: S06
+Paris coordinates: 4901424, 7021609, -3812714
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+ UNSUITABLE(RAPTORJEDI EPOC 6011 605.300)

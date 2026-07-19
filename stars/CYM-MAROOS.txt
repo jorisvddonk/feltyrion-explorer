@@ -1,0 +1,9 @@
+Star: CYM-MAROOS
+Star class: S06
+Paris coordinates: 2072112, 8451855, 5017769
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. DISCOVERED BY NEUZD, 6011 786:953                     

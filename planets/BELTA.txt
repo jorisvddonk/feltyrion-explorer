@@ -1,0 +1,6 @@
+Planet: BELTA
+Starmap index: 05
+Paris coordinates: -8659216, 21938584, -7141950
+
+Guide entries:
+MOON DISCOVERED BY MURRMURR EPOC 6011:608.247

@@ -1,0 +1,6 @@
+Star: SWEET SURPRISE
+Star class: S05
+Paris coordinates: 3697488, 4316870, -862491
+Bodies: 0 (0 planets, 0 moons)
+
+System:

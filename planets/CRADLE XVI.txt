@@ -1,0 +1,3 @@
+Planet: CRADLE XVI
+Starmap index: 16
+Paris coordinates: 4190704, -10156437, -1803955

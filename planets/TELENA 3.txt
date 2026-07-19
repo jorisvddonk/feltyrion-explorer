@@ -1,0 +1,6 @@
+Planet: TELENA 3
+Starmap index: 03
+Paris coordinates: 2021776, 5377750, 335812
+
+Guide entries:
+SEC:124.55 MNT.FANG DISC BY POKECAT (6011.997.809)

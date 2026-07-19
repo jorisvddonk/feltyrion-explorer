@@ -1,0 +1,3 @@
+Planet: TAV
+Starmap index: 09
+Paris coordinates: 670352, 437173, 502845

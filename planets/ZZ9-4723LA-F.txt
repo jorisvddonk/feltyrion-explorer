@@ -1,0 +1,3 @@
+Planet: ZZ9-4723LA-F
+Starmap index: 14
+Paris coordinates: 3290704, 4837570, -933229

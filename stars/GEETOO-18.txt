@@ -1,0 +1,7 @@
+Star: GEETOO-18
+Star class: S11
+Paris coordinates: 5747152, 5731845, -7663007
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KAFE GEEKIA (d dusty, craterized)

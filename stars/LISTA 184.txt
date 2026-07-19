@@ -1,0 +1,9 @@
+Star: LISTA 184
+Star class: S05
+Paris coordinates: 900178576, -1991152, -115136
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+AN S05, NO PLANETS, BUT LITHIUM. SKINNYMON EPOC 6011 621.878

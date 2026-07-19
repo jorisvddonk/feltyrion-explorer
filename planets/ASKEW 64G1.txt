@@ -1,0 +1,6 @@
+Planet: ASKEW 64G1
+Starmap index: 40
+Paris coordinates: 11083088, -19266817, 17947109
+
+Guide entries:
+FOUND EPOC 6011 587.170.170 BY ROLAND ASKEW

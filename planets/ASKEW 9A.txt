@@ -1,0 +1,3 @@
+Planet: ASKEW 9A
+Starmap index: 01
+Paris coordinates: 4751760, 2171682, 1257539

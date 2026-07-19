@@ -1,0 +1,7 @@
+Planet: EVORA 8
+Starmap index: 08
+Paris coordinates: 456784, 5761371, 165059
+
+Guide entries:
+ SMALL, DUSTY, DARK, CRATERIZED, NO ATMOSPHERE.
+(STARGAZER. EPOC 6011:609:452)

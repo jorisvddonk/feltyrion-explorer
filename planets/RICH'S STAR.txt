@@ -1,0 +1,3 @@
+Planet: RICH'S STAR
+Starmap index: 02
+Paris coordinates: 4873200, 4725936, -1566688

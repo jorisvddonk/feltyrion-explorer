@@ -1,0 +1,3 @@
+Planet: RASCHTUL
+Starmap index: 36
+Paris coordinates: 1983920, -25155371, 68899

@@ -1,0 +1,3 @@
+Planet: DUSERNIKES
+Starmap index: 21
+Paris coordinates: -61232592, 29255171, 664579

@@ -1,0 +1,8 @@
+Planet: SYLIOJ
+Starmap index: 02
+Paris coordinates: 2029875792, -1775088, 340992
+
+Guide entries:
+P02/06 SMALL SOLID DUSTY. VERY LARGE RAYED CRATERS, SMALL REFLECTIVE        
+DEBRIS RING, DULL LIGHT GREEN COLOR. PRO 0.204.480 PRV 0.024.295.214        
+SKINNYMON 6011 797.279                                                      

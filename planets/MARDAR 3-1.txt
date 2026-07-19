@@ -1,0 +1,3 @@
+Planet: MARDAR 3-1
+Starmap index: 11
+Paris coordinates: 3955696, 4340660, 183683

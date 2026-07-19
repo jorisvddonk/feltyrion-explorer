@@ -1,0 +1,6 @@
+Planet: SPECTAR
+Starmap index: 33
+Paris coordinates: 663568, 1836709, 279372
+
+Guide entries:
+ CREEPY, AIN'T IT.

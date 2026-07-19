@@ -1,0 +1,6 @@
+Planet: ESMERALDIA
+Starmap index: 03
+Paris coordinates: 4397488, 4779550, -1620594
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.680.834 -                               

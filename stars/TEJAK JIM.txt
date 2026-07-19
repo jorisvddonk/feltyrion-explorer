@@ -1,0 +1,8 @@
+Star: TEJAK JIM
+Star class: S00
+Paris coordinates: 6262480, 5136125, -1647648
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- KEZED TOONU (q quartz surface)
+- FEZEKAD (k thick atmosphere)

@@ -1,0 +1,6 @@
+Planet: LONSAR
+Starmap index: 01
+Paris coordinates: 43216, 294196, -338795
+
+Guide entries:
+THE PLANET IS NOT CONSISTMENT IT HAS COOL ORBITAL VIEW

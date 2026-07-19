@@ -1,0 +1,8 @@
+Star: LISTA 114
+Star class: S05
+Paris coordinates: 110969872, -1830670, 270825
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FYNUM (d dusty, craterized)
+- DOTEP (k thick atmosphere)

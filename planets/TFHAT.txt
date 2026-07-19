@@ -1,0 +1,7 @@
+Planet: TFHAT
+Starmap index: 56
+Paris coordinates: 2121167184, -2143435, -449499
+
+Guide entries:
+M14/P10 SMALL SOLID ICY TAN AND VERY MOTTLED, BROWN GROOVING. PRO 0.201.    
+600 PRV 0.003.062.123 SKINNYMON 6011 792.250                                

@@ -1,0 +1,10 @@
+Star: SEVEN-21
+Star class: S07
+Paris coordinates: 14502096, 5325470, -3736912
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PUCHUCKA (+ substellar object)
+
+Guide entries:
+A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011 605.115

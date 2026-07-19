@@ -1,0 +1,3 @@
+Planet: WOP 1
+Starmap index: 01
+Paris coordinates: -107435952, 24991070, -1678282

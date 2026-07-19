@@ -1,0 +1,6 @@
+Planet: PASKOFF 2
+Starmap index: 02
+Paris coordinates: 5017840, 4316655, -930532
+
+Guide entries:
+INHOSPITABLE TO LIFE.

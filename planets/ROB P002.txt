@@ -1,0 +1,3 @@
+Planet: ROB P002
+Starmap index: 01
+Paris coordinates: 4473200, 4528699, -1033797

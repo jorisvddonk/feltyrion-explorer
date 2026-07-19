@@ -1,0 +1,10 @@
+Star: DRACUL
+Star class: S06
+Paris coordinates: -901424, 1005759, -116823
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+BLADE TRAIN3R 6011 705;155                                                  
+SUITABLE FOR FUEL                                                           

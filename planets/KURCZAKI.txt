@@ -1,0 +1,3 @@
+Planet: KURCZAKI
+Starmap index: 08
+Paris coordinates: -108435952, 25590221, -633099

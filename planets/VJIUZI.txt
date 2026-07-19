@@ -1,0 +1,6 @@
+Planet: VJIUZI
+Starmap index: 03
+Paris coordinates: 2008880, -12128966, 9171998
+
+Guide entries:
+FOUND EPOC 6011 589.075.480 BY ROLAND ASKEW

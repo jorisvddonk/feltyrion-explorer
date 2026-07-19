@@ -1,0 +1,11 @@
+Star: TRATRE ASAYDHA
+Star class: S11
+Paris coordinates: 2007120, 31234372, 3374132
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- KHAASYL (d dusty, craterized)
+
+Guide entries:
+SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 633.30
+1 PLANET, DUSTY, CRATERIZED. CALLED KHAASYL

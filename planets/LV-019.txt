@@ -1,0 +1,3 @@
+Planet: LV-019
+Starmap index: 36
+Paris coordinates: -107235952, 25138811, -1828589

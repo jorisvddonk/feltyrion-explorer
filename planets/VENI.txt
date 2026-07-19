@@ -1,0 +1,8 @@
+Planet: VENI
+Starmap index: 12
+Paris coordinates: 808208, 1178550, 752685
+
+Guide entries:
+THICK ATMOSPHERE AND THE MOON OF NEME, A SUBSTELLAR OBJECT. IT HAS THE      
+NORMAL FUZZY FOG OF A THICK ATMOSPHERED PLANET.                             
+(DISCOVERED BY GEEKOFDEATH EPOC 6011:711.984.482)                           

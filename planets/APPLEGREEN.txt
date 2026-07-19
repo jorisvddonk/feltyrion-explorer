@@ -1,0 +1,7 @@
+Planet: APPLEGREEN
+Starmap index: 02
+Paris coordinates: -112144, 651192, 480098
+
+Guide entries:
+(DISCOVERED BY FAUST. EPOC:834.142.)                                        
+THE SURFACE IS COVERED WITH SPIKY CRYSTAL NEEDLES.                          

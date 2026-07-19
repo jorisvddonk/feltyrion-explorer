@@ -1,0 +1,9 @@
+Star: HANNAKA
+Star class: S00
+Paris coordinates: 2750000, 4184912, -2582183
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011.561.139

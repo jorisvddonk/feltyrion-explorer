@@ -1,0 +1,3 @@
+Planet: TAIDDAN
+Starmap index: 27
+Paris coordinates: 2974288, 3903174, -3326370

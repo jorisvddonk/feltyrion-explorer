@@ -1,0 +1,27 @@
+Star: MACKENZIE
+Star class: S08
+Paris coordinates: -1012144, 619863, 1312269
+Bodies: 14 (3 planets, 11 moons)
+
+System:
+- FRASER (* companion star)
+- PEACE (* companion star)
+- ATHABASCA (* companion star)
+  - Moon #0 (+ substellar object)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (d dusty, craterized)
+  - CAMUMBLE (^ unstable)
+  - Moon #4 (@ large, not consistent)
+  - Moon #5 (d dusty, craterized)
+  - CRYSTAL PIZZA (q quartz surface)
+  - CHIPEYWAN (f felisian)
+  - Moon #8 (r rocky, creased)
+  - Moon #9 (r rocky, creased)
+  - PIN DYE (n thin atmosphere)
+
+Guide entries:
+S08 SYSTEM - 4 STARS TOTAL FOUND BY RICHARD SOLENSKY
+EPOC 6011-577.55.200
+MOON R7 OF THIRD PLANET (STAR) IS FELISIAN - NAMED CHIPEYWAN
+S08 POSSIBLE S02 STARS. THE PREVIOUS STARDRIFTER LEFT 10 WORLDS             
+OR SO UNAMED. RYAN GJK E6011.788.183                                        

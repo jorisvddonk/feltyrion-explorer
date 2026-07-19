@@ -1,0 +1,3 @@
+Planet: ASKEW 137A
+Starmap index: 01
+Paris coordinates: 8639536, -17137372, 16021154

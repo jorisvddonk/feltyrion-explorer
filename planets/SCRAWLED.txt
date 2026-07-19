@@ -1,0 +1,3 @@
+Planet: SCRAWLED
+Starmap index: 03
+Paris coordinates: 6200336, 5325679, -1343998

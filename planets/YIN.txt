@@ -1,0 +1,3 @@
+Planet: YIN
+Starmap index: 13
+Paris coordinates: -87856, 69100, -95029

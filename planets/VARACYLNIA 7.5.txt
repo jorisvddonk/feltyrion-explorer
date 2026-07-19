@@ -1,0 +1,7 @@
+Planet: VARACYLNIA 7.5
+Starmap index: 23
+Paris coordinates: 2459632, 7706073, -15349
+
+Guide entries:
+ COLD, THIN ATMOSPHERE, DEAD, AND DUSTY.
+(STARGAZER. EPOC 6011:609:530)

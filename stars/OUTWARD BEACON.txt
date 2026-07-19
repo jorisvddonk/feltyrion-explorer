@@ -1,0 +1,15 @@
+Star: OUTWARD BEACON
+Star class: S01
+Paris coordinates: -1416516496, 1335023, 1432002431
+Bodies: 9 (5 planets, 4 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (r rocky, creased)
+- Planet #2 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #3 (d dusty, craterized)
+  - Moon #0 (^ unstable)
+- Planet #4 (r rocky, creased)
+  - Moon #0 (^ unstable)

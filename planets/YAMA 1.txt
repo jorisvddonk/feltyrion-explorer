@@ -1,0 +1,3 @@
+Planet: YAMA 1
+Starmap index: 01
+Paris coordinates: 5681072, 8345525, -5775509

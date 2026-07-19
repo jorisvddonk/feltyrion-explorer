@@ -1,0 +1,10 @@
+Star: VOSALLIAR
+Star class: S06
+Paris coordinates: 2045457296, 809883, 49507947
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:788.030
+REFUELED HERE ON MY WAY TO THE OUTER RIM - DODO C. SNOTTS

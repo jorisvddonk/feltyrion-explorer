@@ -1,0 +1,9 @@
+Star: YOMI
+Star class: S06
+Paris coordinates: -47152, 490120, 2077531
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:563:662

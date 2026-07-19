@@ -1,0 +1,8 @@
+Planet: MAR-EUG-RITO
+Starmap index: 05
+Paris coordinates: 3170352, 4739313, -1769991
+
+Guide entries:
+ DISCOVERED BY TIANCRIS - EPOC 6011.684.86 -                                
+SMALL, SOLID, THIN ATMOSPHERE.                                              
+MOONS: 0.                                                                   

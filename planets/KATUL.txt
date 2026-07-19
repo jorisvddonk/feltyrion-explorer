@@ -1,0 +1,3 @@
+Planet: KATUL
+Starmap index: 02
+Paris coordinates: 3859632, 4954480, -1133279

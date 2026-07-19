@@ -1,0 +1,12 @@
+Star: LUPOSOLITARIO
+Star class: S08
+Paris coordinates: 23788112, 4967459, -306477
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (n thin atmosphere)
+
+Guide entries:
+ DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:579.301
+THIS IS NOT ACTUALLY A MULTIPLE SYSTEM, BUT A SINGLE STAR WITH
+JUST A SMALL PLANET

@@ -1,0 +1,14 @@
+Star: APHID
+Star class: S02
+Paris coordinates: 3609968, 2130117, 3807588
+Bodies: 5 (5 planets, 0 moons)
+
+System:
+- APHID I (+ substellar object)
+- APHID II (q quartz surface)
+- APHID III (n thin atmosphere)
+- APHID IV (d dusty, craterized)
+- APHID V (d dusty, craterized)
+
+Guide entries:
+ A CLASS S02 SYSTEM WITH 5 PLANETS. SKINNYMON EPOC 6011 585.585

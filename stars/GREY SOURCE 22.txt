@@ -1,0 +1,6 @@
+Star: GREY SOURCE 22
+Star class: S06
+Paris coordinates: 20736016, 53322666, -7850102
+Bodies: 0 (0 planets, 0 moons)
+
+System:

@@ -1,0 +1,6 @@
+Planet: N'KAAL
+Starmap index: 01
+Paris coordinates: 2563568, 5804467, -1750822
+
+Guide entries:
+DISCOVERED BY MRUQE. EPOC 6011-568.600. UNINTERESTING SMALL PLANET.

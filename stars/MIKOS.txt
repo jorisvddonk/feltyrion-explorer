@@ -1,0 +1,8 @@
+Star: MIKOS
+Star class: S10
+Paris coordinates: 1921776, 5044011, 466387
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- MIPOS (n thin atmosphere)
+- BALKI (d dusty, craterized)

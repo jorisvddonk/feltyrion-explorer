@@ -1,0 +1,12 @@
+Star: FIRELIGHT
+Star class: S00
+Paris coordinates: 4286768, 4444020, -223588
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FL-1 (n thin atmosphere)
+- FL-2 (^ unstable)
+
+Guide entries:
+CLASS S00 STAR (DISC:SILENTGREEN, EPOC 6011:630.654.293)
+ORBITED BY 2 UNINHABITABLE PLANETS

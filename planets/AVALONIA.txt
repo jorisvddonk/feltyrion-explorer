@@ -1,0 +1,6 @@
+Planet: AVALONIA
+Starmap index: 02
+Paris coordinates: 4169264, 4539675, 792675
+
+Guide entries:
+ SECOND PLANET OF RUTANA, DISCOVERED BY LINGO.

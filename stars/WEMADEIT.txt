@@ -1,0 +1,19 @@
+Star: WEMADEIT
+Star class: S00
+Paris coordinates: -43216, 19285, 437557
+Bodies: 6 (3 planets, 3 moons)
+
+System:
+- Planet #0 (@ large, not consistent)
+- Planet #1 (+ substellar object)
+- LIVESTOCK (f felisian)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (d dusty, craterized)
+
+Guide entries:
+A S00 STAR, IT IS SUITABLE FOR SUSTAINING LIFE.                             
+MOST OF THE PLANETS ARE VOID OF LIFE, THE SOLE EXCEPTION BEING              
+LIVESTOCK, THE THIRD PLANET IN THE SYSTEM.                                  
+IT IS ALSO THE ONLY MAIN SOLID PLANET WHICH CAN BE SAFELY LANDED ON.        
+(NOTES BY MINGAMANGO181, EPOC 6011:892:854)                                 

@@ -1,0 +1,3 @@
+Planet: GANDIA 1
+Starmap index: 01
+Paris coordinates: 3293552, 4810198, 1162166

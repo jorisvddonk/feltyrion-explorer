@@ -1,0 +1,7 @@
+Planet: 1'ST BLIND MOUSE
+Starmap index: 01
+Paris coordinates: 3183920, 5560454, -1209816
+
+Guide entries:
+ DISCOVERED BY MRUQE; EPOC 6011-568-471
+HAS A GREAT BELT AROUND IT.

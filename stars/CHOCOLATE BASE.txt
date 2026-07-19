@@ -1,0 +1,35 @@
+Star: CHOCOLATE BASE
+Star class: S08
+Paris coordinates: 5107120, 5642162, 170503
+Bodies: 24 (4 planets, 20 moons)
+
+System:
+- Planet #0 (* companion star)
+  - Moon #0 (d dusty, craterized)
+- Planet #1 (* companion star)
+  - LAS PINAS (f felisian)
+  - Moon #1 (+ substellar object)
+- Planet #2 (* companion star)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (@ large, not consistent)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (d dusty, craterized)
+  - Moon #6 (k thick atmosphere)
+  - Moon #7 (^ unstable)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (n thin atmosphere)
+  - Moon #10 (k thick atmosphere)
+  - Moon #11 (d dusty, craterized)
+  - Moon #12 (+ substellar object)
+  - Moon #13 (q quartz surface)
+  - Moon #14 (k thick atmosphere)
+- Planet #3 (* companion star)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+
+Guide entries:
+IMPERIAL OUTPOST OF MENDOZA EMPIRE 2000 LIGHTYEARS AWAY FROM                
+FRANCE 2, CAPITAL OF MENDOZA EMPIRE. 1 FELYSIAN PLANET FOUND.               
+(DISCOVERED BY EMPEROR JAIME MENDOZA E6011.691.616.549                      

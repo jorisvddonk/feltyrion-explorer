@@ -1,0 +1,24 @@
+Star: ADRIAN'S STAR
+Star class: S00
+Paris coordinates: 1166416, 7548349, 1746976
+Bodies: 18 (10 planets, 8 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- ADRIAN'S HOME (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+- Planet #4 (f felisian)
+- Planet #5 (@ large, not consistent)
+  - Moon #0 (q quartz surface)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (d dusty, craterized)
+- Planet #8 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)

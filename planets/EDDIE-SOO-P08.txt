@@ -1,0 +1,3 @@
+Planet: EDDIE-SOO-P08
+Starmap index: 08
+Paris coordinates: 3939280, 9043244, -2453294

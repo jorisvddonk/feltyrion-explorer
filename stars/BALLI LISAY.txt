@@ -1,0 +1,32 @@
+Star: BALLI LISAY
+Star class: S00
+Paris coordinates: 14539952, 7307815, -3397368
+Bodies: 22 (6 planets, 16 moons)
+
+System:
+- VISCUYL (k thick atmosphere)
+- PRIMHYKE (@ large, not consistent)
+- GLOGAFIDU (@ large, not consistent)
+  - IMPAB (d dusty, craterized)
+  - BLASKIDA (k thick atmosphere)
+  - GRUSTU (r rocky, creased)
+  - TURTU (r rocky, creased)
+  - SLAWA (d dusty, craterized)
+  - INVIOLATE (f felisian)
+  - GRECKI (r rocky, creased)
+  - NURNYR (k thick atmosphere)
+  - DAPLUD (k thick atmosphere)
+  - MIRMEN (k thick atmosphere)
+  - POLLEDUY (k thick atmosphere)
+  - NEKRIF (n thin atmosphere)
+  - TELLENOA (k thick atmosphere)
+  - NELLYDUI (k thick atmosphere)
+- REPUTED (f felisian)
+  - TIDOR (^ unstable)
+- ETFOIT (d dusty, craterized)
+- SESLI (n thin atmosphere)
+  - VEPLAI (d dusty, craterized)
+
+Guide entries:
+A CLASS S00 SYSTEM OF 6 PLANETS, 16 MOONS, 2 FELISIAN WORLDS.
+SKINNYMON EPOC 6011 605.547

@@ -1,0 +1,6 @@
+Star: LEWOT
+Star class: S07
+Paris coordinates: 2050000, 4650000, -2150000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

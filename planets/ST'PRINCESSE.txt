@@ -1,0 +1,6 @@
+Planet: ST'PRINCESSE
+Starmap index: 01
+Paris coordinates: 5476048, 4366316, -28049
+
+Guide entries:
+ DISCOVERED BY SAREK BLUES, EPOC 565.930

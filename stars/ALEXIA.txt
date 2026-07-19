@@ -1,0 +1,6 @@
+Star: ALEXIA
+Star class: S06
+Paris coordinates: 5342128, 5477551, -1780263
+Bodies: 0 (0 planets, 0 moons)
+
+System:

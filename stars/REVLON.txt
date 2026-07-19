@@ -1,0 +1,42 @@
+Star: REVLON
+Star class: S00
+Paris coordinates: -22713648, 17621893, 40299755
+Bodies: 33 (12 planets, 21 moons)
+
+System:
+- JUPITER II (@ large, not consistent)
+- Planet #1 (n thin atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (f felisian)
+  - Moon #1 (^ unstable)
+- Planet #3 (f felisian)
+  - Moon #0 (d dusty, craterized)
+- Planet #4 (+ substellar object)
+  - Moon #0 (f felisian)
+  - Moon #1 (r rocky, creased)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (@ large, not consistent)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (r rocky, creased)
+  - Moon #6 (d dusty, craterized)
+  - Moon #7 (^ unstable)
+  - Moon #8 (^ unstable)
+  - Moon #9 (q quartz surface)
+  - Moon #10 (d dusty, craterized)
+  - Moon #11 (k thick atmosphere)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+- Planet #8 (d dusty, craterized)
+- Planet #9 (i icy surface)
+  - Moon #0 (d dusty, craterized)
+- Planet #10 (i icy surface)
+- Planet #11 (k thick atmosphere)
+
+Guide entries:
+ S00 DISC BY SCAREDY-CAT, EPOC 6011.590.971

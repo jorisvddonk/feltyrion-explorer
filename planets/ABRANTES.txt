@@ -1,0 +1,6 @@
+Planet: ABRANTES
+Starmap index: 07
+Paris coordinates: 4466416, 4692609, -1413164
+
+Guide entries:
+LANDED 260.61 - NOTHING REMARKABLE (BY NBOAR 6011 588.393)

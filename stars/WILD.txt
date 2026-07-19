@@ -1,0 +1,10 @@
+Star: WILD
+Star class: S00
+Paris coordinates: 3014992, 4769307, -1105707
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A MEDIUM SIZED YELLOW STAR, WITH NO ORBITING BODIES.
+(N5CORP ON 6011:627.515)

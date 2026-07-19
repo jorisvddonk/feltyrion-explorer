@@ -1,0 +1,9 @@
+Star: ATUDEMAROOS
+Star class: S06
+Paris coordinates: 220305360, -614455, -220862638
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ ION EMITTING S06. (DISCOVERED BY NEUZD, 6011:814.552)                   

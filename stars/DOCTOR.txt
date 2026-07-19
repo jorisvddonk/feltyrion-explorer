@@ -1,0 +1,10 @@
+Star: DOCTOR
+Star class: S06
+Paris coordinates: 1253936, 4943489, -3030374
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.194.739                           
+PERECTLY SUITABLE FOR LITHIUM (RT)                                          

@@ -1,0 +1,8 @@
+Star: ROMEL
+Star class: S00
+Paris coordinates: 4443216, 4365831, -4690636
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- ROMEL-A (r rocky, creased)
+- ROMEL-B (k thick atmosphere)

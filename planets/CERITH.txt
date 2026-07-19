@@ -1,0 +1,7 @@
+Planet: CERITH
+Starmap index: 04
+Paris coordinates: -256784, 127615, 15421
+
+Guide entries:
+EXPLORED BY ZAP MORTON, EPOC 6011:566.362
+CONTAINS LIFE.

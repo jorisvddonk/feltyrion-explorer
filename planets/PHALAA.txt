@@ -1,0 +1,6 @@
+Planet: PHALAA
+Starmap index: 10
+Paris coordinates: 763568, 121186, 4975
+
+Guide entries:
+DISCOVERED E6011.578.3 BY DAVIN FELTH

@@ -1,0 +1,6 @@
+Star: STEPPE
+Star class: S06
+Paris coordinates: 2818928, 4348493, -2551282
+Bodies: 0 (0 planets, 0 moons)
+
+System:

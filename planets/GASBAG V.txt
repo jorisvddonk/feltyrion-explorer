@@ -1,0 +1,3 @@
+Planet: GASBAG V
+Starmap index: 32
+Paris coordinates: 3779984, 4313464, -58717

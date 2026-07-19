@@ -1,0 +1,9 @@
+Star: VOID
+Star class: S07
+Paris coordinates: 3628560, 4354023, -944058
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOTHING HERE DISCOVERED BY SHADOW151 EPOC 6011.593.109

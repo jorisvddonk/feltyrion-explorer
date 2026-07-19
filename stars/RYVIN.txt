@@ -1,0 +1,15 @@
+Star: RYVIN
+Star class: S05
+Paris coordinates: -705360, 225027, 1475553
+Bodies: 5 (3 planets, 2 moons)
+
+System:
+- Planet #0 (d dusty, craterized)
+- Planet #1 (k thick atmosphere)
+- Planet #2 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+
+Guide entries:
+DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:574.293
+IT EMITS LI+ IONS

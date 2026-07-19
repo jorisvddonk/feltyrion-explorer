@@ -1,0 +1,3 @@
+Planet: FANAANH 8
+Starmap index: 08
+Paris coordinates: -1322523376, -1322595, -1179720259

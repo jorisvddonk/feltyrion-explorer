@@ -1,0 +1,14 @@
+Star: TRIUMVIRATE - CAESAR
+Star class: S08
+Paris coordinates: 4142128, 5182625, -629021
+Bodies: 3 (3 planets, 0 moons)
+
+System:
+- CRASSUS (* companion star)
+- POMPEI (* companion star)
+- ROME (d dusty, craterized)
+
+Guide entries:
+ DISCOVERED BY KALMAN FARAGO IN 6011.560.739
+FURTHER NOTES: A CLASS S08 SYSTEM OF 3 STARS AND ONE TINY
+WORLD. SKINNYMON EPOC 6011 576.597

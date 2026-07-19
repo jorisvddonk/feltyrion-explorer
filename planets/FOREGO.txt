@@ -1,0 +1,3 @@
+Planet: FOREGO
+Starmap index: 01
+Paris coordinates: -62646160, 29840261, 1248141

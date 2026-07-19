@@ -1,0 +1,9 @@
+Star: GARTH
+Star class: S06
+Paris coordinates: 2828560, 4079102, -143723
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NO LITHIUM

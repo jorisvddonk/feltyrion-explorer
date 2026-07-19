@@ -1,0 +1,7 @@
+Planet: FELIS 5.5
+Starmap index: 12
+Paris coordinates: -1626800, 33322066, 4959862
+
+Guide entries:
+ SMALL, SOLID, THIN ATMOSPHERE AND QUITE DUSTY.
+(STARGAZER. EPOC 6011:612:388)

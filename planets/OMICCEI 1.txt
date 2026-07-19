@@ -1,0 +1,3 @@
+Planet: OMICCEI 1
+Starmap index: 13
+Paris coordinates: 3763568, 5569852, -2799046

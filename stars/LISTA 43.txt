@@ -1,0 +1,9 @@
+Star: LISTA 43
+Star class: S05
+Paris coordinates: 7279984, 4885191, -3326025
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LITHIUM AVAILABLE S05 STAR. NO PLANETS. SKINNYMON EPOC 6011 584.672

@@ -1,0 +1,3 @@
+Planet: ZONK 7
+Starmap index: 20
+Paris coordinates: -61270448, 30091829, 306909

@@ -1,0 +1,10 @@
+Star: QUIBBLE-LT-SOO
+Star class: S00
+Paris coordinates: 4883920, 8237486, -2939158
+Bodies: 4 (4 planets, 0 moons)
+
+System:
+- QUIBBLE-LT-S00-P01 (d dusty, craterized)
+- QUIBBLE-LT-S00-P02 (@ large, not consistent)
+- QUIBBLE-LT-S00-P03 (k thick atmosphere)
+- QUIBBLE-LT-S00-P04 (r rocky, creased)

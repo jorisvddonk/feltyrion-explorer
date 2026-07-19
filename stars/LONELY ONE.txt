@@ -1,0 +1,6 @@
+Star: LONELY ONE
+Star class: S00
+Paris coordinates: 1190704, 5496087, 1193665
+Bodies: 0 (0 planets, 0 moons)
+
+System:

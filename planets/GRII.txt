@@ -1,0 +1,3 @@
+Planet: GRII
+Starmap index: 04
+Paris coordinates: -835344, -14673956, -2040846

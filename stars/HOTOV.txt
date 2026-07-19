@@ -1,0 +1,18 @@
+Star: HOTOV
+Star class: S04
+Paris coordinates: -2324624, -8133735, -2013503
+Bodies: 12 (5 planets, 7 moons)
+
+System:
+- MJRYAD (@ large, not consistent)
+- STOAKAK (r rocky, creased)
+- JOGAPFLAN (r rocky, creased)
+  - GULIGUN (d dusty, craterized)
+- JOWONA (+ substellar object)
+  - XON (n thin atmosphere)
+  - BIRIKLUN (r rocky, creased)
+  - ZUKARAK (r rocky, creased)
+  - STROIBN (r rocky, creased)
+  - SPORIOT (@ large, not consistent)
+- SAMT (k thick atmosphere)
+  - NEORIBUX (d dusty, craterized)

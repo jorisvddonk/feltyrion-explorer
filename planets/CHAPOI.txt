@@ -1,0 +1,3 @@
+Planet: CHAPOI
+Starmap index: 01
+Paris coordinates: 4077136, 4486435, -2291692

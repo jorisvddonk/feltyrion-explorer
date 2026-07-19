@@ -1,0 +1,32 @@
+Star: KATA1WTSTAR
+Star class: S00
+Paris coordinates: 260720, 7135737, -1327107
+Bodies: 26 (12 planets, 14 moons)
+
+System:
+- Planet #0 (k thick atmosphere)
+- Planet #1 (q quartz surface)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (^ unstable)
+- CLOROPHYLLPLANETWT (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (d dusty, craterized)
+- KATA1WTPLANET1 (f felisian)
+- Planet #5 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)
+- Planet #7 (k thick atmosphere)
+  - Moon #0 (n thin atmosphere)
+- Planet #8 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #9 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #10 (n thin atmosphere)
+- Planet #11 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+  - Moon #2 (d dusty, craterized)

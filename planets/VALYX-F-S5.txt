@@ -1,0 +1,3 @@
+Planet: VALYX-F-S5
+Starmap index: 36
+Paris coordinates: 2916080, -262885, -4753549

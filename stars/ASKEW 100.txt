@@ -1,0 +1,10 @@
+Star: ASKEW 100
+Star class: S08
+Paris coordinates: 12269520, -19595517, 16098705
+Bodies: 4 (2 planets, 2 moons)
+
+System:
+- ASKEW 100A (* companion star)
+  - ASKEW 100A1 (+ substellar object)
+  - ASKEW 100A2 (r rocky, creased)
+- ASKEW 100B (r rocky, creased)

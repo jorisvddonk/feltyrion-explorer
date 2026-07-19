@@ -1,0 +1,8 @@
+Planet: SANSUT
+Starmap index: 03
+Paris coordinates: 2140833520, -2641384, 1001352
+
+Guide entries:
+P03/06 MEDIUM SIZE QUARTZ SURFACE. LIGHT BLUE TINGE WITH BLACK AREAS.       
+HAS SMALL TENUOUS RING. PRO 0.371.440 PRV 0.041.572.916 SKINNYMON 6011      
+791.439                                                                     

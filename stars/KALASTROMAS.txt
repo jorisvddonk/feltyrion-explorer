@@ -1,0 +1,6 @@
+Star: KALASTROMAS
+Star class: S07
+Paris coordinates: -25712, 145550, -279963
+Bodies: 0 (0 planets, 0 moons)
+
+System:

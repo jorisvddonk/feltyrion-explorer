@@ -1,0 +1,6 @@
+Star: MEDEA
+Star class: S06
+Paris coordinates: 4228560, 4235214, -1429671
+Bodies: 0 (0 planets, 0 moons)
+
+System:

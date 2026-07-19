@@ -1,0 +1,9 @@
+Star: SPUR 19
+Star class: S06
+Paris coordinates: -56409392, 23241461, -1088075
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+LI+ HERE.                                                                   

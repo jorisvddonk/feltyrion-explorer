@@ -1,0 +1,3 @@
+Planet: ELENTRA
+Starmap index: 34
+Paris coordinates: 3221776, 5789395, -822046

@@ -1,0 +1,7 @@
+Planet: EDAM
+Starmap index: 13
+Paris coordinates: 3466416, 5740059, -349098
+
+Guide entries:
+VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011
+577.358

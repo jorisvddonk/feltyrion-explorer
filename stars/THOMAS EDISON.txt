@@ -1,0 +1,6 @@
+Star: THOMAS EDISON
+Star class: S06
+Paris coordinates: 4535344, 4546215, -1434515
+Bodies: 0 (0 planets, 0 moons)
+
+System:

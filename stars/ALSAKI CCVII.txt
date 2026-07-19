@@ -1,0 +1,14 @@
+Star: ALSAKI CCVII
+Star class: S02
+Paris coordinates: 15461392, 32273833, -6924475
+Bodies: 8 (8 planets, 0 moons)
+
+System:
+- Planet #0 (r rocky, creased)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (n thin atmosphere)
+- Planet #3 (q quartz surface)
+- Planet #4 (n thin atmosphere)
+- Planet #5 (d dusty, craterized)
+- Planet #6 (n thin atmosphere)
+- Planet #7 (k thick atmosphere)

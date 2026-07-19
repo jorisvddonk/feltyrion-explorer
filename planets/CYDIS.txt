@@ -1,0 +1,3 @@
+Planet: CYDIS
+Starmap index: 39
+Paris coordinates: 3775888, 4823813, 38544600

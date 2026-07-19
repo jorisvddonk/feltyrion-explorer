@@ -1,0 +1,3 @@
+Planet: JELLY-II
+Starmap index: 02
+Paris coordinates: -61877232, 29332744, 538440

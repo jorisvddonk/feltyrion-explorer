@@ -1,0 +1,28 @@
+Star: LIGHTER
+Star class: S01
+Paris coordinates: 3655696, 5455290, 543143
+Bodies: 17 (3 planets, 14 moons)
+
+System:
+- BEATRIKS (q quartz surface)
+- BEATRIKS SISTER (k thick atmosphere)
+- FIRESTARTER (@ large, not consistent)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (q quartz surface)
+  - Moon #2 (d dusty, craterized)
+  - Moon #3 (d dusty, craterized)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (q quartz surface)
+  - Moon #6 (r rocky, creased)
+  - Moon #7 (n thin atmosphere)
+  - Moon #8 (q quartz surface)
+  - Moon #9 (k thick atmosphere)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (k thick atmosphere)
+  - Moon #12 (n thin atmosphere)
+  - Moon #13 (n thin atmosphere)
+
+Guide entries:
+ THERE IS NO PLANETS OF INTEREST BUT IF YOU WANT TO SEE A BEATIFUL
+STAR TYPE ST LIGTHTER:)).
+INTRUDER 6011:572.278.830

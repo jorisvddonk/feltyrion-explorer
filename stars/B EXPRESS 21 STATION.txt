@@ -1,0 +1,12 @@
+Star: B EXPRESS 21 STATION
+Star class: S06
+Paris coordinates: -72628144, -1407568, 56779871
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+A STATION LOCATED IN ANOTHER CLUSTER JUST OFF THE EKA                       
+CLUSTER. THERE ARE A COUPLE NAMED STARS NEARBY, AND                         
+THOUGH THERE IS A HINT OF SKINNYMON IN THE NAMES, NO                        
+COMMENTS HAVE BEEN MADE ABOUT THEM EITHER.                                  

@@ -1,0 +1,23 @@
+Star: SELINIR
+Star class: S03
+Paris coordinates: 3859632, 4554480, -1180281
+Bodies: 17 (6 planets, 11 moons)
+
+System:
+- DAWNIAN (+ substellar object)
+- Planet #1 (d dusty, craterized)
+- Planet #2 (r rocky, creased)
+  - Moon #0 (d dusty, craterized)
+- Planet #3 (q quartz surface)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (^ unstable)
+- Planet #4 (@ large, not consistent)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (^ unstable)
+  - Moon #2 (n thin atmosphere)
+  - Moon #3 (k thick atmosphere)
+  - Moon #4 (d dusty, craterized)
+  - Moon #5 (r rocky, creased)
+- Planet #5 (d dusty, craterized)
+  - Moon #0 (d dusty, craterized)

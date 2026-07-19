@@ -1,0 +1,11 @@
+Star: YEESE
+Star class: S10
+Paris coordinates: 4066416, 4819160, -926375
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- UU'SSE (r rocky, creased)
+- T'LAR (@ large, not consistent)
+
+Guide entries:
+DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.148

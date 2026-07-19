@@ -1,0 +1,3 @@
+Planet: LV-025
+Starmap index: 01
+Paris coordinates: -106760240, 25118119, -1916145

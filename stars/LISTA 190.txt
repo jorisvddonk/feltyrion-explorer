@@ -1,0 +1,12 @@
+Star: LISTA 190
+Star class: S05
+Paris coordinates: 960078672, -1944977, -80589
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- TRAIA (d dusty, craterized)
+- KREFENALKH (r rocky, creased)
+
+Guide entries:
+A CLASS S05 SYSTEM WITH TWO WORLDS AND LITHIUM. SKINNYMON EPOC 6011
+621.957

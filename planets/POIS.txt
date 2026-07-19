@@ -1,0 +1,3 @@
+Planet: POIS
+Starmap index: 01
+Paris coordinates: 4214992, 4830216, -2254873

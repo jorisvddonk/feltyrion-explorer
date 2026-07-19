@@ -1,0 +1,17 @@
+Star: QUELLO II
+Star class: S00
+Paris coordinates: 26415760, 6787591, 45079090
+Bodies: 6 (4 planets, 2 moons)
+
+System:
+- PROXITIMY (@ large, not consistent)
+- BANDS (k thick atmosphere)
+- TERSYAN (f felisian)
+- ELLOY (+ substellar object)
+  - DEON (d dusty, craterized)
+  - DUBE (d dusty, craterized)
+
+Guide entries:
+PART OF THE JEYSTAR CLUSTER. S00 STAR WITH 4 PLANETS AND 2 MOONS.
+1 PLANET IS FELYSIAN.
+STAR DISCOVERED BY JEFF KEMP EPOC 6011:634:242

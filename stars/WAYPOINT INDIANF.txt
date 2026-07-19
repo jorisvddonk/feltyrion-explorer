@@ -1,0 +1,9 @@
+Star: WAYPOINT INDIA/NF
+Star class: S06
+Paris coordinates: -20861456, -19979221, -300414761
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOTHING HERE. (SHADOWCLAW 6011:575.477)

@@ -1,0 +1,6 @@
+Star: TEXACO III
+Star class: S06
+Paris coordinates: 3301424, 4840099, -2158700
+Bodies: 0 (0 planets, 0 moons)
+
+System:

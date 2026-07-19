@@ -1,0 +1,3 @@
+Planet: DEATHMOON
+Starmap index: 69
+Paris coordinates: 70352, 945533, 1134813

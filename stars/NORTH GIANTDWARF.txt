@@ -1,0 +1,6 @@
+Star: NORTH GIANTDWARF
+Star class: S11
+Paris coordinates: 1550000, 54950000, -1650000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

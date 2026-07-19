@@ -1,0 +1,6 @@
+Star: RECONDITE IX
+Star class: S06
+Paris coordinates: 443850000, 25550000, -443950000
+Bodies: 0 (0 planets, 0 moons)
+
+System:

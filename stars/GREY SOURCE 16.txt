@@ -1,0 +1,6 @@
+Star: GREY SOURCE 16
+Star class: S06
+Paris coordinates: 23341712, 51456587, -6257837
+Bodies: 0 (0 planets, 0 moons)
+
+System:

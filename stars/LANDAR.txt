@@ -1,0 +1,33 @@
+Star: LANDAR
+Star class: S00
+Paris coordinates: 3921776, 4663420, -1624678
+Bodies: 23 (5 planets, 18 moons)
+
+System:
+- BANEDON (d dusty, craterized)
+- NADOKNAR (@ large, not consistent)
+- NAAROS (r rocky, creased)
+- NYXATOR (@ large, not consistent)
+  - ISHIR (q quartz surface)
+  - HOLMGARD (f felisian)
+  - HELGEDAD (k thick atmosphere)
+  - KIAN (d dusty, craterized)
+  - ULNAR (n thin atmosphere)
+  - MAAKEN (^ unstable)
+  - GNAAG (k thick atmosphere)
+  - IXIA (d dusty, craterized)
+  - PAIDO (q quartz surface)
+  - RIMOAH (r rocky, creased)
+  - TORGAR (k thick atmosphere)
+  - AARNAK (k thick atmosphere)
+  - KALTE (n thin atmosphere)
+  - DAZGANON (k thick atmosphere)
+  - NOLRIM (n thin atmosphere)
+- TORAN (q quartz surface)
+  - DAGE (d dusty, craterized)
+  - VONOTAR (d dusty, craterized)
+  - SOMMERSWERD (^ unstable)
+
+Guide entries:
+STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.316
+LIFE FORMS ON HOLMGARD

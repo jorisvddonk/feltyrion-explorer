@@ -1,0 +1,10 @@
+Star: KLIMAU
+Star class: S06
+Paris coordinates: 400274800, 1416777, 55185801
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+DISCOVERED BY DODO C. SNOTTS - 6014:789.381
+(S06) REFUELED HERE ON MY QUEST TO THE OUTER RIM - DODO C. SNOTTS

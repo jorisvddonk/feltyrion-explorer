@@ -1,0 +1,3 @@
+Planet: DONIA
+Starmap index: 01
+Paris coordinates: 4200336, 5681208, 670626

@@ -1,0 +1,9 @@
+Star: LITHUAR
+Star class: S06
+Paris coordinates: -250000, 532086, 362399
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+GET YOUR FUEL HERE.

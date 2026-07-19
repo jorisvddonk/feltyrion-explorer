@@ -1,0 +1,3 @@
+Planet: DU SNOZEN
+Starmap index: 01
+Paris coordinates: 4038192, 4540663, 1234849

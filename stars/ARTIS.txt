@@ -1,0 +1,47 @@
+Star: ARTIS
+Star class: S00
+Paris coordinates: 3908208, 4333788, -2413591
+Bodies: 38 (7 planets, 31 moons)
+
+System:
+- JIP (d dusty, craterized)
+- FRUNTA (k thick atmosphere)
+- Planet #2 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (k thick atmosphere)
+  - Moon #2 (^ unstable)
+- Planet #3 (+ substellar object)
+  - Moon #0 (^ unstable)
+  - Moon #1 (^ unstable)
+  - Moon #2 (k thick atmosphere)
+  - Moon #3 (r rocky, creased)
+  - Moon #4 (n thin atmosphere)
+  - Moon #5 (k thick atmosphere)
+  - Moon #6 (k thick atmosphere)
+- Planet #4 (f felisian)
+  - Moon #0 (n thin atmosphere)
+  - Moon #1 (n thin atmosphere)
+- Planet #5 (n thin atmosphere)
+  - Moon #0 (d dusty, craterized)
+  - Moon #1 (d dusty, craterized)
+- Planet #6 (@ large, not consistent)
+  - Moon #0 (k thick atmosphere)
+  - Moon #1 (n thin atmosphere)
+  - Moon #2 (f felisian)
+  - Moon #3 (f felisian)
+  - Moon #4 (r rocky, creased)
+  - Moon #5 (f felisian)
+  - Moon #6 (f felisian)
+  - Moon #7 (d dusty, craterized)
+  - Moon #8 (k thick atmosphere)
+  - Moon #9 (^ unstable)
+  - Moon #10 (n thin atmosphere)
+  - Moon #11 (n thin atmosphere)
+  - Moon #12 (^ unstable)
+  - Moon #13 (n thin atmosphere)
+  - Moon #14 (r rocky, creased)
+  - Moon #15 (^ unstable)
+  - Moon #16 (f felisian)
+
+Guide entries:
+DISCOVERED BY MATTHEW REYNOLDS. 6011.563.14.277

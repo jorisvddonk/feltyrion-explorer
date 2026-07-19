@@ -1,0 +1,7 @@
+Star: KORAN
+Star class: S07
+Paris coordinates: 3246064, 4412800, -1430942
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- Planet #0 (+ substellar object)

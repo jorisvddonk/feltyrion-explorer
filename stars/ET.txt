@@ -1,0 +1,10 @@
+Star: ET
+Star class: S00
+Paris coordinates: 3677136, 4523457, -1854652
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- CETERA (n thin atmosphere)
+
+Guide entries:
+A YELLOW STAR WITH 1 BARREN PLANET-ANGOLODH-EPOCH 6011

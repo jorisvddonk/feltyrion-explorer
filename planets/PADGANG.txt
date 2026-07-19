@@ -1,0 +1,3 @@
+Planet: PADGANG
+Starmap index: 04
+Paris coordinates: 659632, 127249, 1786696

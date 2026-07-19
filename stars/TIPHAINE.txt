@@ -1,0 +1,11 @@
+Star: TIPHAINE
+Star class: S00
+Paris coordinates: 4779984, 4243323, -1040694
+Bodies: 1 (1 planets, 0 moons)
+
+System:
+- PTITPUSS (q quartz surface)
+
+Guide entries:
+DISCOVERED BY FRANCOIS WISARD (EPOC 6011.565.750)
+HAS A SINGLE PLANET (PTITPUSS)

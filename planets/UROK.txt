@@ -1,0 +1,6 @@
+Planet: UROK
+Starmap index: 01
+Paris coordinates: 68592, 4847002, -4570782
+
+Guide entries:
+MEDIUM SIZED PLANET,IT HAS AN UNSTABLE SURFACE

@@ -1,0 +1,6 @@
+Star: USELESS
+Star class: S06
+Paris coordinates: 4496400, 4321587, 2162377
+Bodies: 0 (0 planets, 0 moons)
+
+System:

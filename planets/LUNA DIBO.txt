@@ -1,0 +1,3 @@
+Planet: LUNA DIBO
+Starmap index: 01
+Paris coordinates: 4104272, 4530559, -851560

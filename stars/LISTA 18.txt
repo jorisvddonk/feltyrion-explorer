@@ -1,0 +1,12 @@
+Star: LISTA 18
+Star class: S05
+Paris coordinates: -2129648, 19876, 3345511
+Bodies: 2 (2 planets, 0 moons)
+
+System:
+- FIPPENNY BIT (d dusty, craterized)
+- RAGBAG (q quartz surface)
+
+Guide entries:
+A CLASS S05 SYSTEM, WITH 2 PLANETS, NO MOONS. YOU CAN GET LITHIUM
+HERE. SKINNYMON EPOC 6011 569.251

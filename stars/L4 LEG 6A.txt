@@ -1,0 +1,10 @@
+Star: L4 LEG 6A
+Star class: S06
+Paris coordinates: -440641296, 105250, 609132
+Bodies: 0 (0 planets, 0 moons)
+
+System:
+
+Guide entries:
+NOPE, NO LITHIUM HERE, MOVING ON.
+STAR DISCOVERED BY LIGHTNING4 EPOC 6011:648:162

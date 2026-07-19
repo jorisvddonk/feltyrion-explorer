@@ -1,0 +1,3 @@
+Planet: MORI
+Starmap index: 12
+Paris coordinates: 456784, 31526, -25779

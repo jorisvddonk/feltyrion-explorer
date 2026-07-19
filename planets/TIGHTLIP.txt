@@ -1,0 +1,3 @@
+Planet: TIGHTLIP
+Starmap index: 02
+Paris coordinates: -1277136, 62268146, -141134

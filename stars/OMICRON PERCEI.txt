@@ -1,0 +1,27 @@
+Star: OMICRON PERCEI
+Star class: S01
+Paris coordinates: 3763568, 5569852, -2799046
+Bodies: 18 (10 planets, 8 moons)
+
+System:
+- OMICRON PERCEI 1 (q quartz surface)
+- OMICRON PERCEI 2 (r rocky, creased)
+- OMICRON PERCEI 3 (n thin atmosphere)
+- OMICRON PERCEI 4 (r rocky, creased)
+  - OMIPER 1 (d dusty, craterized)
+  - OMIPER 2 (n thin atmosphere)
+- OMICRON PERCEI 5 (k thick atmosphere)
+  - OMICCEI 1 (n thin atmosphere)
+  - OMICCEI 2 (n thin atmosphere)
+- OMICRON PERCEI 6 (+ substellar object)
+- OMICRON PERCEI 7 (n thin atmosphere)
+  - CRONCEI 1 (n thin atmosphere)
+  - CRONCEI 2 (i icy surface)
+- OMICRON PERCEI 8 (d dusty, craterized)
+  - PEROMIOUS (d dusty, craterized)
+- OMICRON PERCEI 9 (k thick atmosphere)
+- OMICRON PERCEI 10 (d dusty, craterized)
+  - LUTHICA (d dusty, craterized)
+
+Guide entries:
+ A BLUE GIANT STAR.DISCOVERED BY CAPTAIN LUTHER EPOC6011:661:12

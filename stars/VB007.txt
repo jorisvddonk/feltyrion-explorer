@@ -1,0 +1,6 @@
+Star: VB007
+Star class: S05
+Paris coordinates: 1298576, 5002175, -2308327
+Bodies: 0 (0 planets, 0 moons)
+
+System:

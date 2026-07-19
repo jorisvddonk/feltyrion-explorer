@@ -1,0 +1,6 @@
+Star: NFS01042148
+Star class: S06
+Paris coordinates: 53663984, 553235, 1981870819
+Bodies: 0 (0 planets, 0 moons)
+
+System:
