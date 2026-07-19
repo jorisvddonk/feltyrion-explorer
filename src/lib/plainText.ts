@@ -172,13 +172,45 @@ export function buildLlmsTxt(allStar: any, allPlanet: any): string {
   );
   lines.push("  the original Noctis game.");
   lines.push("");
-  lines.push(`## Stars (${stars.length})`);
+  lines.push("## Companion files");
   lines.push("");
-  lines.push(...starLines);
+  lines.push(
+    "- /index.txt: a plain-text listing of every star (name, class, body"
+  );
+  lines.push("  counts) with links to each star's .txt page.");
+  lines.push(
+    "- /stars/<name>.txt and /planets/<name>.txt: per-object plain-text pages."
+  );
+
+  return lines.join("\n") + "\n";
+}
+
+export function buildIndexText(allStar: any): string {
+  const PREFIX = "/feltyrion-explorer";
+  const stars = allStar.nodes
+    .slice()
+    .sort((a, b) => a.data.name.localeCompare(b.data.name));
+
+  const lines: string[] = [];
+  lines.push("# Feltyrion Explorer — star index");
   lines.push("");
-  lines.push(`## Named planets (${planets.length})`);
+  lines.push(
+    `Total stars: ${stars.length}. Each star has an HTML page at /stars/<name>`
+  );
+  lines.push(
+    "and a plain-text page at /stars/<name>.txt. See /llms.txt for the full"
+  );
+  lines.push("index and a description of all data fields.");
   lines.push("");
-  lines.push(...planetLines);
+  stars.forEach(n => {
+    lines.push(
+      `- [${n.data.name}](${PREFIX}${n.fields.slug}.txt): S${n.data.type} — ${
+        n.systemInfo.nob
+      } bodies (${n.systemInfo.nop} planets, ${
+        n.systemInfo.nob - n.systemInfo.nop
+      } moons)`
+    );
+  });
 
   return lines.join("\n") + "\n";
 }

@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const starmapSourceNodes = require("./StarmapSourceNodes").default;
 const sanitizeFilename = require("sanitize-filename");
-const { buildStarText, buildPlanetText, buildLlmsTxt } = require("./src/lib/plainText");
+const { buildStarText, buildPlanetText, buildLlmsTxt, buildIndexText } = require("./src/lib/plainText");
 
 exports.sourceNodes = async opts => {
   await starmapSourceNodes(opts);
@@ -50,6 +50,8 @@ exports.onPostBuild = async ({ graphql }) => {
             slug
           }
           systemInfo {
+            nop
+            nob
             bodies {
               index
               isMoon
@@ -121,8 +123,10 @@ exports.onPostBuild = async ({ graphql }) => {
     buildLlmsTxt(result.data.allStar, result.data.allPlanet)
   );
 
+  writeFile(`/index.txt`, buildIndexText(result.data.allStar));
+
   console.log(
     `onPostBuild: wrote ${result.data.allStar.nodes.length} star .txt files, ` +
-      `${result.data.allPlanet.nodes.length} planet .txt files, and /llms.txt`
+      `${result.data.allPlanet.nodes.length} planet .txt files, /llms.txt, and /index.txt`
   );
 };
