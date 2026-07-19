@@ -4,17 +4,17 @@ Paris coordinates: 3563568, 4722361, -2721466
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- PRIMO (r rocky, creased)
-- OLHADO (q quartz surface)
-- MIRO (f felisian)
-  - CHILDREN OF THE MIND (d dusty, craterized)
-- COINCIDENCE (f felisian)
-  - DRANT (d dusty, craterized)
-- HAPPENSTANCE (f felisian)
-  - ECHON (d dusty, craterized)
-  - IPTIC (d dusty, craterized)
-  - RALIG (d dusty, craterized)
-- FLUKE (f felisian)
+PRIMO (r rocky, creased)
+OLHADO (q quartz surface)
+MIRO (f felisian)
+  CHILDREN OF THE MIND (d dusty, craterized)
+COINCIDENCE (f felisian)
+  DRANT (d dusty, craterized)
+HAPPENSTANCE (f felisian)
+  ECHON (d dusty, craterized)
+  IPTIC (d dusty, craterized)
+  RALIG (d dusty, craterized)
+FLUKE (f felisian)
 
 Guide entries:
 NAMED AFTER WIFE IN ENDERS GAME SERIES BY O SCOTT CARD

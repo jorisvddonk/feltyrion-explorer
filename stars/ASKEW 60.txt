@@ -4,7 +4,7 @@ Paris coordinates: 10876304, -19348790, 17927220
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- ASKEW 60A (d dusty, craterized)
-- BERENE (q quartz surface)
-- ASKEW 60C (d dusty, craterized)
-- ASKEW 60D (d dusty, craterized)
+ASKEW 60A (d dusty, craterized)
+BERENE (q quartz surface)
+ASKEW 60C (d dusty, craterized)
+ASKEW 60D (d dusty, craterized)

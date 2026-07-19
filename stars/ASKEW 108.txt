@@ -4,6 +4,6 @@ Paris coordinates: 1802096, -12054883, 9036333
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- ASKEW 108A (n thin atmosphere)
-- ASKEW 108B (d dusty, craterized)
-- ASKEW 108C (d dusty, craterized)
+ASKEW 108A (n thin atmosphere)
+ASKEW 108B (d dusty, craterized)
+ASKEW 108C (d dusty, craterized)

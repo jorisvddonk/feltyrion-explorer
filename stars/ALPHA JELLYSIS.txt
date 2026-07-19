@@ -4,17 +4,17 @@ Paris coordinates: -60939376, 29605864, -46056
 Bodies: 11 (5 planets, 6 moons)
 
 System:
-- AMBIENTEA (d dusty, craterized)
-- RUSTEY (n thin atmosphere)
-- FLORIGREEN (f felisian)
-  - SOLIDARYA (d dusty, craterized)
-  - TIPISHMOON (d dusty, craterized)
-  - GREENBAR (n thin atmosphere)
-- ILIKECHICKENS (d dusty, craterized)
-- GOOBEY (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+AMBIENTEA (d dusty, craterized)
+RUSTEY (n thin atmosphere)
+FLORIGREEN (f felisian)
+  SOLIDARYA (d dusty, craterized)
+  TIPISHMOON (d dusty, craterized)
+  GREENBAR (n thin atmosphere)
+ILIKECHICKENS (d dusty, craterized)
+GOOBEY (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED AND LABELED BY MCWGOGS, EPOC 6011.641.602.

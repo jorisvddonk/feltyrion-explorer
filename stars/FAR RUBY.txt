@@ -4,9 +4,9 @@ Paris coordinates: 3835344, 5233056, -684851
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (@ large, not consistent)
-- THE EMERALD (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (n thin atmosphere)
+Planet #0 (+ substellar object)
+Planet #1 (@ large, not consistent)
+THE EMERALD (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (n thin atmosphere)

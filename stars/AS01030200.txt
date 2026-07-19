@@ -4,9 +4,9 @@ Paris coordinates: 52405776, 448799, 1981559135
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- AS01030200A (n thin atmosphere)
-- AS01030200B (d dusty, craterized)
-- AS01030200C (n thin atmosphere)
+AS01030200A (n thin atmosphere)
+AS01030200B (d dusty, craterized)
+AS01030200C (n thin atmosphere)
 
 Guide entries:
 NO HABITABLE PLANETS.

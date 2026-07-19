@@ -4,6 +4,6 @@ Paris coordinates: 50656208, 2547800, -94602
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (+ substellar object)
-- Planet #2 (k thick atmosphere)
+Planet #0 (+ substellar object)
+Planet #1 (+ substellar object)
+Planet #2 (k thick atmosphere)

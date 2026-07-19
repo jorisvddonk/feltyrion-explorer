@@ -4,13 +4,13 @@ Paris coordinates: 3666416, 4376784, -608561
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- SNOWMAN I (k thick atmosphere)
-- SNOWMAN II (r rocky, creased)
-- SNOWMAN'S PROTOSTAR (+ substellar object)
-- SNOWMAN IV (@ large, not consistent)
-- SNOWMAN V (d dusty, craterized)
-- SNOWMAN VI (@ large, not consistent)
-- SNOWMAN VII (+ substellar object)
+SNOWMAN I (k thick atmosphere)
+SNOWMAN II (r rocky, creased)
+SNOWMAN'S PROTOSTAR (+ substellar object)
+SNOWMAN IV (@ large, not consistent)
+SNOWMAN V (d dusty, craterized)
+SNOWMAN VI (@ large, not consistent)
+SNOWMAN VII (+ substellar object)
 
 Guide entries:
 JUST A WHITE DWARF STAR. NOTHING SPECIAL

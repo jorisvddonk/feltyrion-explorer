@@ -4,5 +4,5 @@ Paris coordinates: 10793808, -19075421, 16976495
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 96A (+ substellar object)
-- ASKEW 96B (r rocky, creased)
+ASKEW 96A (+ substellar object)
+ASKEW 96B (r rocky, creased)

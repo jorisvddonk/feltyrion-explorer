@@ -4,16 +4,16 @@ Paris coordinates: 1132496, 246313, -24173
 Bodies: 10 (5 planets, 5 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (d dusty, craterized)
-- Planet #3 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
-- Planet #4 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (^ unstable)
+Planet #0 (@ large, not consistent)
+Planet #1 (@ large, not consistent)
+Planet #2 (d dusty, craterized)
+Planet #3 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
+Planet #4 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (^ unstable)
 
 Guide entries:
 DISCOVERED E6011.578.4 BY DAVIN FELTH

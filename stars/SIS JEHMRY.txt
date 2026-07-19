@@ -4,7 +4,7 @@ Paris coordinates: 2060322448, -1970791, -262519
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- KINEFH (d dusty, craterized)
+KINEFH (d dusty, craterized)
 
 Guide entries:
 CLASS S00 WITH ONE DUSTY WORLD CLOSE TO LISTA 300. 1.02227283 BAL.          

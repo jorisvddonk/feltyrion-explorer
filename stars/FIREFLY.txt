@@ -4,8 +4,8 @@ Paris coordinates: 4411056, 4582815, -757700
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- SALADAR (k thick atmosphere)
-- RED RING (+ substellar object)
+SALADAR (k thick atmosphere)
+RED RING (+ substellar object)
 
 Guide entries:
  DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 565 956

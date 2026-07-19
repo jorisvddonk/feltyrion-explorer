@@ -4,18 +4,18 @@ Paris coordinates: 4430320, -51703, 4151881
 Bodies: 12 (7 planets, 5 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (@ large, not consistent)
-- LUCENT (f felisian)
-  - Moon #0 (^ unstable)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (q quartz surface)
-  - Moon #0 (n thin atmosphere)
-- Planet #4 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #6 (k thick atmosphere)
+Planet #0 (q quartz surface)
+Planet #1 (@ large, not consistent)
+LUCENT (f felisian)
+  Moon #0 (^ unstable)
+  Moon #1 (d dusty, craterized)
+Planet #3 (q quartz surface)
+  Moon #0 (n thin atmosphere)
+Planet #4 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #5 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #6 (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY LOGAN, EPOC 6011:664.713

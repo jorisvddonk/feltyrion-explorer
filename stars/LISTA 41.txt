@@ -4,8 +4,8 @@ Paris coordinates: 6311056, 4634471, -2701459
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- INSNARE (n thin atmosphere)
-- ENSNARE (n thin atmosphere)
+INSNARE (n thin atmosphere)
+ENSNARE (n thin atmosphere)
 
 Guide entries:
  A LITHIUM CAPABLE S05 SYSTEM WITH 2 WORLDS. SKINNYMON EPOC 6011

@@ -4,7 +4,7 @@ Paris coordinates: 5681072, 8345525, -5775509
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- YAMA 1 (@ large, not consistent)
+YAMA 1 (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 605.492

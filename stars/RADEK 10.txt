@@ -4,7 +4,7 @@ Paris coordinates: -61432592, 29583170, 550786
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- JB 97 (+ substellar object)
+JB 97 (+ substellar object)
 
 Guide entries:
 CLASS S07 STAR DISCOVERED BY MCWGOGS EPOC 6011.639.964. ONE PLANET.

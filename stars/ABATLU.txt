@@ -4,8 +4,8 @@ Paris coordinates: -71741712, -1375108, 54837204
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (r rocky, creased)
+Planet #0 (@ large, not consistent)
+Planet #1 (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:850.520.210                                

@@ -4,12 +4,12 @@ Paris coordinates: 2669264, 2239373, 2256637
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- EMOTION (d dusty, craterized)
-- RECALL (d dusty, craterized)
-- REMEMBER (n thin atmosphere)
-- IDEA (n thin atmosphere)
-- FEELING (d dusty, craterized)
-- INSPIRATION (f felisian)
+EMOTION (d dusty, craterized)
+RECALL (d dusty, craterized)
+REMEMBER (n thin atmosphere)
+IDEA (n thin atmosphere)
+FEELING (d dusty, craterized)
+INSPIRATION (f felisian)
 
 Guide entries:
 DISCOVERED BY SKALEUS, 584.636.000.

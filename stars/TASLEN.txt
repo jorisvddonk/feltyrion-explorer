@@ -4,9 +4,9 @@ Paris coordinates: 4324624, 6232930, 128489
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (+ substellar object)
-- CACELO (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (+ substellar object)
+CACELO (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)

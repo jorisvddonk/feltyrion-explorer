@@ -4,8 +4,8 @@ Paris coordinates: -11667088, -321331, -802192
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- OMEGA CHILD I (@ large, not consistent)
-- OMEGA CHILD II (@ large, not consistent)
+OMEGA CHILD I (@ large, not consistent)
+OMEGA CHILD II (@ large, not consistent)
 
 Guide entries:
 A CLASS S09 SYSTEM OF 2 WORLDS.SKINNYMON EPOC 6011 586.784

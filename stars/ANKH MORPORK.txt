@@ -4,13 +4,13 @@ Paris coordinates: 4759632, 4827311, -2108874
 Bodies: 7 (6 planets, 1 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- SHADES (q quartz surface)
-- UNSEEN UNIVERSITY (f felisian)
-- Planet #3 (d dusty, craterized)
-- Planet #4 (+ substellar object)
-- Planet #5 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+SHADES (q quartz surface)
+UNSEEN UNIVERSITY (f felisian)
+Planet #3 (d dusty, craterized)
+Planet #4 (+ substellar object)
+Planet #5 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
  FIRST EXPLORER UNKNOWN, NOTES BY KALLIOPE, 6011.617.762.

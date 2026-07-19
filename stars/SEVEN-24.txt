@@ -4,4 +4,4 @@ Paris coordinates: 14633168, 6650569, -3896591
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- HSLIBALYL (+ substellar object)
+HSLIBALYL (+ substellar object)

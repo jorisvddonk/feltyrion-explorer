@@ -4,8 +4,8 @@ Paris coordinates: 5966416, 4261492, -3111407
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GREASE MONKEY (k thick atmosphere)
-- LITHIUM GREASE (d dusty, craterized)
+GREASE MONKEY (k thick atmosphere)
+LITHIUM GREASE (d dusty, craterized)
 
 Guide entries:
 AN S05 STAR WITH 2 PLANETS, AND LITHIUM. SKINNYMON EPOC 6011 567.437

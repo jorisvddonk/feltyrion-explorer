@@ -4,5 +4,5 @@ Paris coordinates: -463568, 621765, -202320
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NEAR CHILD (d dusty, craterized)
-- FAR CHILD (@ large, not consistent)
+NEAR CHILD (d dusty, craterized)
+FAR CHILD (@ large, not consistent)

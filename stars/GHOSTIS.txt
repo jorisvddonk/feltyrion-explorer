@@ -4,5 +4,5 @@ Paris coordinates: 6052848, 4994305, -4017409
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (r rocky, creased)
+Planet #0 (q quartz surface)
+Planet #1 (r rocky, creased)

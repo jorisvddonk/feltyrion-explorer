@@ -4,9 +4,9 @@ Paris coordinates: 3604272, 4832627, -412972
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- EREBOS (k thick atmosphere)
-- VASTITAS (d dusty, craterized)
-- ICKYHOK (f felisian)
+EREBOS (k thick atmosphere)
+VASTITAS (d dusty, craterized)
+ICKYHOK (f felisian)
 
 Guide entries:
 YELLOW STAR WITH THREE PLANETS AND NO MOONS. DISCOVERER UNKNOWN.            

@@ -4,6 +4,6 @@ Paris coordinates: 15461392, 31973833, -6851695
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (r rocky, creased)
-- Planet #2 (k thick atmosphere)
+Planet #0 (@ large, not consistent)
+Planet #1 (r rocky, creased)
+Planet #2 (k thick atmosphere)

@@ -4,7 +4,7 @@ Paris coordinates: 3521776, 4459539, -1144473
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TEMPOS (d dusty, craterized)
+TEMPOS (d dusty, craterized)
 
 Guide entries:
 BORING PULSAR, THERE IS NOTHING OF INTEREST.

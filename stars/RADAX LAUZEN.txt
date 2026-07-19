@@ -4,4 +4,4 @@ Paris coordinates: -39623536, 1598313, 31505959
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- RADEL EMPTINESS (d dusty, craterized)
+RADEL EMPTINESS (d dusty, craterized)

@@ -4,13 +4,13 @@ Paris coordinates: 3654608, 2019716, 4542800
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- FOCUS I (r rocky, creased)
-- FOCUS II (d dusty, craterized)
-- FOCUS III (+ substellar object)
-- FOCUS 1V (d dusty, craterized)
-- FOCUS V (@ large, not consistent)
-- FOCUS VI (d dusty, craterized)
-- FOCUS VII (d dusty, craterized)
+FOCUS I (r rocky, creased)
+FOCUS II (d dusty, craterized)
+FOCUS III (+ substellar object)
+FOCUS 1V (d dusty, craterized)
+FOCUS V (@ large, not consistent)
+FOCUS VI (d dusty, craterized)
+FOCUS VII (d dusty, craterized)
 
 Guide entries:
 A CLASS S02 SYSTEM OF 7 PLANETS. SKINNYMON EPOC 6011 585.763

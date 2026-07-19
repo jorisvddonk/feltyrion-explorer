@@ -4,17 +4,17 @@ Paris coordinates: -37841040, 1614582, 30853830
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (+ substellar object)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-- Planet #4 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- Planet #5 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (+ substellar object)
+Planet #2 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+Planet #4 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+Planet #5 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 CATALOGED BY STARSTRIDER

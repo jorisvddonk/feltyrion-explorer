@@ -4,8 +4,8 @@ Paris coordinates: 5479984, 5133536, -1617992
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TOG 1 (+ substellar object)
-- TOG 2 (@ large, not consistent)
+TOG 1 (+ substellar object)
+TOG 2 (@ large, not consistent)
 
 Guide entries:
  A S00-SYSTEM, TWO PLANETS DETECTED WITH CLOSE-RANGE SENSORS

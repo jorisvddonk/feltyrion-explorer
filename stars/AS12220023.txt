@@ -4,7 +4,7 @@ Paris coordinates: -86512, 252083, 19358792
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- AS12220023A (d dusty, craterized)
-- AS12220023B (r rocky, creased)
-- AS12220023C (d dusty, craterized)
-  - AS12220023C1 (i icy surface)
+AS12220023A (d dusty, craterized)
+AS12220023B (r rocky, creased)
+AS12220023C (d dusty, craterized)
+  AS12220023C1 (i icy surface)

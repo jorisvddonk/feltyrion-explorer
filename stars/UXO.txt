@@ -4,12 +4,12 @@ Paris coordinates: 1400038512, 1856934, 1399035350
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- UXO PRIMUS (d dusty, craterized)
-- UXO SECUNDUS (n thin atmosphere)
-- UXO TRIACUS (r rocky, creased)
-- UXO QUADREX (d dusty, craterized)
-- UXO QUINTUS (k thick atmosphere)
-- UXO SEXTANE (+ substellar object)
+UXO PRIMUS (d dusty, craterized)
+UXO SECUNDUS (n thin atmosphere)
+UXO TRIACUS (r rocky, creased)
+UXO QUADREX (d dusty, craterized)
+UXO QUINTUS (k thick atmosphere)
+UXO SEXTANE (+ substellar object)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:607.777

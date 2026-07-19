@@ -4,9 +4,9 @@ Paris coordinates: 2156784, 4346165, -1616885
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (@ large, not consistent)
+Planet #0 (@ large, not consistent)
+Planet #1 (n thin atmosphere)
+Planet #2 (@ large, not consistent)
 
 Guide entries:
 HUGE WHITE STAR.

@@ -4,10 +4,10 @@ Paris coordinates: 4466416, 4392609, -1400758
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- ESMERALDA (d dusty, craterized)
-- BRADOCK (d dusty, craterized)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
+ESMERALDA (d dusty, craterized)
+BRADOCK (d dusty, craterized)
+Planet #2 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 FUEL STAR; DISCOVERER UNKNOWN. AMWHERE 6011.572.53

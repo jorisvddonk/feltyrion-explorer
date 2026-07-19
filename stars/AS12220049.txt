@@ -4,7 +4,7 @@ Paris coordinates: 1133840, 446663, 19306905
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- AS12220049A (k thick atmosphere)
-- AS12220049B (n thin atmosphere)
-- AS12220049C (q quartz surface)
-- AS12220049D (r rocky, creased)
+AS12220049A (k thick atmosphere)
+AS12220049B (n thin atmosphere)
+AS12220049C (q quartz surface)
+AS12220049D (r rocky, creased)

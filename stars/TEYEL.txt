@@ -4,12 +4,12 @@ Paris coordinates: 5968016, 5031694, 39757796
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- AQUIEN (d dusty, craterized)
-- GREPICK (k thick atmosphere)
-- PYROLITEMP (f felisian)
-  - PYELPRO (^ unstable)
-  - DECIPI (d dusty, craterized)
-  - BRAN (d dusty, craterized)
+AQUIEN (d dusty, craterized)
+GREPICK (k thick atmosphere)
+PYROLITEMP (f felisian)
+  PYELPRO (^ unstable)
+  DECIPI (d dusty, craterized)
+  BRAN (d dusty, craterized)
 
 Guide entries:
 A S00 STAR WITH 3 MOONS AND 3 PLANETS. 1 IS FELYSIAN. PRETTY SMALL AND

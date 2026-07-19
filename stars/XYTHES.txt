@@ -4,6 +4,6 @@ Paris coordinates: 4876048, 5003934, 528973
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (+ substellar object)
-- XYTHES3I (+ substellar object)
+Planet #0 (d dusty, craterized)
+Planet #1 (+ substellar object)
+XYTHES3I (+ substellar object)

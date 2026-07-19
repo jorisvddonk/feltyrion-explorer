@@ -4,10 +4,10 @@ Paris coordinates: -463568, -578235, -248821
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- TWINKLY COMPANION (* companion star)
-  - ORANGE BALL (+ substellar object)
-  - GREENSTONE (r rocky, creased)
-- COLD COMFORT (r rocky, creased)
+TWINKLY COMPANION (* companion star)
+  ORANGE BALL (+ substellar object)
+  GREENSTONE (r rocky, creased)
+COLD COMFORT (r rocky, creased)
 
 Guide entries:
 DISCOVERED 601.91.750 OUELLETTE - ONE OF A BINARY, SURFACE NUCLEAR

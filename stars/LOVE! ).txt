@@ -4,15 +4,15 @@ Paris coordinates: 4377136, 5125490, -2771029
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (n thin atmosphere)
-- MY DEAR ANNIJA! (f felisian)
-- Planet #3 (f felisian)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (f felisian)
-  - Moon #0 (^ unstable)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (n thin atmosphere)
+MY DEAR ANNIJA! (f felisian)
+Planet #3 (f felisian)
+  Moon #0 (d dusty, craterized)
+Planet #4 (f felisian)
+  Moon #0 (^ unstable)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)
 
 Guide entries:
 (DISCOVERED BY FAUST.EPOC:6011:834.720.)                                    

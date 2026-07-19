@@ -4,8 +4,8 @@ Paris coordinates: 4111056, 4495355, -433804
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (* companion star)
-- Planet #2 (d dusty, craterized)
-- Planet #3 (r rocky, creased)
-  - Moon #0 (^ unstable)
+Planet #0 (* companion star)
+Planet #1 (* companion star)
+Planet #2 (d dusty, craterized)
+Planet #3 (r rocky, creased)
+  Moon #0 (^ unstable)

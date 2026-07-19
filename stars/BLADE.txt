@@ -4,8 +4,8 @@ Paris coordinates: 2194640, 4737867, -1482477
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RUNNER (k thick atmosphere)
-- FURI (d dusty, craterized)
+RUNNER (k thick atmosphere)
+FURI (d dusty, craterized)
 
 Guide entries:
 INTERESTING, A MOVING STAR WITH TWO MAJOR BODIES

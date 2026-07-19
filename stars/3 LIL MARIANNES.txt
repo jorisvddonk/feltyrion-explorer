@@ -4,10 +4,10 @@ Paris coordinates: 6431408, 5601853, -1620636
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- LAURENE (r rocky, creased)
-- MANUE (k thick atmosphere)
-- SANA (d dusty, craterized)
-  - MOUFLON LAND (n thin atmosphere)
+LAURENE (r rocky, creased)
+MANUE (k thick atmosphere)
+SANA (d dusty, craterized)
+  MOUFLON LAND (n thin atmosphere)
 
 Guide entries:
  ENTRY NIL WITTHANEYE6011 664.236.42 APROX

@@ -4,7 +4,7 @@ Paris coordinates: 43216, -105804, -221848
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SCIMITAR MINOR (+ substellar object)
+SCIMITAR MINOR (+ substellar object)
 
 Guide entries:
 A BLUE DWARF STAR WITH ONE PLANET. (DISCOVERED BY SCHMERM 6011 583.20

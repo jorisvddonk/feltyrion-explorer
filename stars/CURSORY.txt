@@ -4,7 +4,7 @@ Paris coordinates: 1412681072, -81108, -1412774948
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- SMOKE RINGS (+ substellar object)
-- PAELOETORYGINE (k thick atmosphere)
-- KNOLL IT (+ substellar object)
-- COTAFRUAGE (d dusty, craterized)
+SMOKE RINGS (+ substellar object)
+PAELOETORYGINE (k thick atmosphere)
+KNOLL IT (+ substellar object)
+COTAFRUAGE (d dusty, craterized)

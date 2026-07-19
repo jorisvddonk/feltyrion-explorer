@@ -4,11 +4,11 @@ Paris coordinates: 1639280, 6595194, -141622
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- HARATHON 1 (q quartz surface)
-- HARATHON 2 (k thick atmosphere)
-- HARATHON 3 (k thick atmosphere)
-- HARATHON 4 (n thin atmosphere)
-- HARATHON 5 (r rocky, creased)
+HARATHON 1 (q quartz surface)
+HARATHON 2 (k thick atmosphere)
+HARATHON 3 (k thick atmosphere)
+HARATHON 4 (n thin atmosphere)
+HARATHON 5 (r rocky, creased)
 
 Guide entries:
  THIS STAR IS A WHITE DWARF WHICH CREATES GIGANTIC AMOUNTS OF

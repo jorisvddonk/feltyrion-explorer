@@ -4,10 +4,10 @@ Paris coordinates: 1192464, 2940016, 7082321
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (+ substellar object)
-- Planet #2 (k thick atmosphere)
-- Planet #3 (n thin atmosphere)
-- Planet #4 (k thick atmosphere)
-- Planet #5 (+ substellar object)
-- SWISS CHEESE (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (+ substellar object)
+Planet #2 (k thick atmosphere)
+Planet #3 (n thin atmosphere)
+Planet #4 (k thick atmosphere)
+Planet #5 (+ substellar object)
+SWISS CHEESE (d dusty, craterized)

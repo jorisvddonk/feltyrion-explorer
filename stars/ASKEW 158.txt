@@ -4,5 +4,5 @@ Paris coordinates: 9088112, -13275661, 14435013
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 158A (@ large, not consistent)
-- ASKEW 158B (@ large, not consistent)
+ASKEW 158A (@ large, not consistent)
+ASKEW 158B (@ large, not consistent)

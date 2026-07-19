@@ -4,10 +4,10 @@ Paris coordinates: 1939280, 4734008, -467041
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- RAETHIN (q quartz surface)
-- MAGRATHEA (r rocky, creased)
-- THANITAL (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+RAETHIN (q quartz surface)
+MAGRATHEA (r rocky, creased)
+THANITAL (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY CUNICULI, EPOC 6011:587.773

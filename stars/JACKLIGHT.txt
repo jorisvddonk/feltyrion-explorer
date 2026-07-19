@@ -4,9 +4,9 @@ Paris coordinates: -143216, 8545, 755825
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- SCUMBLE (n thin atmosphere)
-- MANIFEST DIVINITY (f felisian)
+Planet #0 (k thick atmosphere)
+SCUMBLE (n thin atmosphere)
+MANIFEST DIVINITY (f felisian)
 
 Guide entries:
 A CLASS S00 SYSTEM WITH 3 PLANETS, NO MOONS. ONE FELISIAN WORLD.

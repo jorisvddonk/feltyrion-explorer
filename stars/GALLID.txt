@@ -4,7 +4,7 @@ Paris coordinates: 3052848, 5636380, -959161
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- INU (d dusty, craterized)
-- ANU (r rocky, creased)
-- UNI (d dusty, craterized)
-  - YNU (d dusty, craterized)
+INU (d dusty, craterized)
+ANU (r rocky, creased)
+UNI (d dusty, craterized)
+  YNU (d dusty, craterized)

@@ -4,19 +4,19 @@ Paris coordinates: 3890704, 4620850, -1463671
 Bodies: 13 (5 planets, 8 moons)
 
 System:
-- SHINJUKU (d dusty, craterized)
-- AALTOPIIRI (n thin atmosphere)
-- GREINKE (+ substellar object)
-  - HUMON (d dusty, craterized)
-  - RICH (k thick atmosphere)
-  - ROSENTHAL (k thick atmosphere)
-- FARFIELD (k thick atmosphere)
-  - EDGES OF EVERYTHING (d dusty, craterized)
-  - DUST AND GLASS (n thin atmosphere)
-- CYDONIA (+ substellar object)
-  - GRAYLEY (d dusty, craterized)
-  - BAILEY (d dusty, craterized)
-  - PRIGENT (f felisian)
+SHINJUKU (d dusty, craterized)
+AALTOPIIRI (n thin atmosphere)
+GREINKE (+ substellar object)
+  HUMON (d dusty, craterized)
+  RICH (k thick atmosphere)
+  ROSENTHAL (k thick atmosphere)
+FARFIELD (k thick atmosphere)
+  EDGES OF EVERYTHING (d dusty, craterized)
+  DUST AND GLASS (n thin atmosphere)
+CYDONIA (+ substellar object)
+  GRAYLEY (d dusty, craterized)
+  BAILEY (d dusty, craterized)
+  PRIGENT (f felisian)
 
 Guide entries:
 501 STAR DISCOVERED BY RCLEAR, 6011:597.539

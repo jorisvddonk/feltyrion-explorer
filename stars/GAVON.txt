@@ -4,12 +4,12 @@ Paris coordinates: 1981072, 2048511, -2098533
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- GAVON 1 (k thick atmosphere)
-- GAVON 2 (k thick atmosphere)
-- GAVON 3 (f felisian)
-- GAVON 4 (k thick atmosphere)
-- GAVON 5 (f felisian)
-  - GAVON 5.1 (d dusty, craterized)
+GAVON 1 (k thick atmosphere)
+GAVON 2 (k thick atmosphere)
+GAVON 3 (f felisian)
+GAVON 4 (k thick atmosphere)
+GAVON 5 (f felisian)
+  GAVON 5.1 (d dusty, craterized)
 
 Guide entries:
  A S00 STAR WITH 6 WORLDS, THAT'S 5 PLANETS, AND 1 MOON.

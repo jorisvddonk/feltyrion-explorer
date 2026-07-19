@@ -4,9 +4,9 @@ Paris coordinates: 1952848, 4313160, 256946
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (* companion star)
-- Planet #2 (+ substellar object)
-  - Moon #0 (@ large, not consistent)
-  - TRION (f felisian)
-- Planet #3 (k thick atmosphere)
+Planet #0 (d dusty, craterized)
+Planet #1 (* companion star)
+Planet #2 (+ substellar object)
+  Moon #0 (@ large, not consistent)
+  TRION (f felisian)
+Planet #3 (k thick atmosphere)

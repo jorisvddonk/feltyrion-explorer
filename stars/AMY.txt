@@ -4,11 +4,11 @@ Paris coordinates: -705360, 1025027, 1439547
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- ILAMTA (d dusty, craterized)
-- DELOREAN (n thin atmosphere)
-- CALABELLA (d dusty, craterized)
-- BEIDERMAN (d dusty, craterized)
-  - WOLF (n thin atmosphere)
+ILAMTA (d dusty, craterized)
+DELOREAN (n thin atmosphere)
+CALABELLA (d dusty, craterized)
+BEIDERMAN (d dusty, craterized)
+  WOLF (n thin atmosphere)
 
 Guide entries:
 A BEAUTIFUL SMALL PULSAR, DISCOVERED BY BELCH, EPOC 6011:607:823

@@ -4,7 +4,7 @@ Paris coordinates: 1399324944, 1548910, 1398904254
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- IZRAD PRIMUS (d dusty, craterized)
+IZRAD PRIMUS (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:589.934

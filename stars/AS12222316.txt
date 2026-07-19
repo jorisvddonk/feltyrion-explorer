@@ -4,6 +4,6 @@ Paris coordinates: 574544, 1451220, 22122299
 Bodies: 3 (1 planets, 2 moons)
 
 System:
-- AS12222316A (* companion star)
-  - AS12222316A1 (n thin atmosphere)
-  - AS12222316A2 (r rocky, creased)
+AS12222316A (* companion star)
+  AS12222316A1 (n thin atmosphere)
+  AS12222316A2 (r rocky, creased)

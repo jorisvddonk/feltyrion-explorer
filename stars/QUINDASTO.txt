@@ -4,10 +4,10 @@ Paris coordinates: 2147393104, 921403, 1400485675
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- QUINDASTO PRIMUS (@ large, not consistent)
-- QUINDASTO SECUNDUS (n thin atmosphere)
-- QUINDASTO TRIACUS (d dusty, craterized)
-  - Moon #0 (^ unstable)
+QUINDASTO PRIMUS (@ large, not consistent)
+QUINDASTO SECUNDUS (n thin atmosphere)
+QUINDASTO TRIACUS (d dusty, craterized)
+  Moon #0 (^ unstable)
 
 Guide entries:
  DISCOVERED BY DODO C. SNOTTS - 6011:578.563

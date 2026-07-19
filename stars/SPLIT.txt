@@ -4,16 +4,16 @@ Paris coordinates: 594640, 21744, 54910
 Bodies: 10 (5 planets, 5 moons)
 
 System:
-- BANANA (r rocky, creased)
-- Planet #1 (n thin atmosphere)
-- H2O RAINBOW (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- SLIMEBALL (r rocky, creased)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (n thin atmosphere)
-- 2 BIRDS (f felisian)
-  - Moon #0 (d dusty, craterized)
+BANANA (r rocky, creased)
+Planet #1 (n thin atmosphere)
+H2O RAINBOW (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+SLIMEBALL (r rocky, creased)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (n thin atmosphere)
+2 BIRDS (f felisian)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 UGLY SPLITSTAR

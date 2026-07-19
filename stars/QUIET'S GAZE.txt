@@ -4,11 +4,11 @@ Paris coordinates: 3659632, 4427550, -1201496
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- QUIET'S DARLING (* companion star)
-- QUIET'S REFUGE (k thick atmosphere)
-- QUIET'S ENVY (* companion star)
-  - QUIET'S REVENGE (d dusty, craterized)
-  - QUIET'S SECRET (d dusty, craterized)
+QUIET'S DARLING (* companion star)
+QUIET'S REFUGE (k thick atmosphere)
+QUIET'S ENVY (* companion star)
+  QUIET'S REVENGE (d dusty, craterized)
+  QUIET'S SECRET (d dusty, craterized)
 
 Guide entries:
 DISCOVERD BY RYLIE THOMAS, EPOC 611:727.146.300                             

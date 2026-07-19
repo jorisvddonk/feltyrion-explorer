@@ -4,4 +4,4 @@ Paris coordinates: 387856, -72395, -86023
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- DVERNARQ LUNARA (+ substellar object)
+DVERNARQ LUNARA (+ substellar object)

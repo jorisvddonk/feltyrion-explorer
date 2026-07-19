@@ -4,6 +4,6 @@ Paris coordinates: 3452848, 4414008, -1370212
 Bodies: 3 (1 planets, 2 moons)
 
 System:
-- KER 2 (* companion star)
-  - KER 2.2 (k thick atmosphere)
-  - KER 2.1 (n thin atmosphere)
+KER 2 (* companion star)
+  KER 2.2 (k thick atmosphere)
+  KER 2.1 (n thin atmosphere)

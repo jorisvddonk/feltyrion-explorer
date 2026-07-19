@@ -4,7 +4,7 @@ Paris coordinates: -343216, 233296, 748699
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PINKIE (+ substellar object)
+PINKIE (+ substellar object)
 
 Guide entries:
  THIS SOLAR SYSTEM ONLY HOLDS ONE PLANET. FOUND BY:PONTUS OTTOSSON ON

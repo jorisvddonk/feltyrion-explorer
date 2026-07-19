@@ -4,6 +4,6 @@ Paris coordinates: 4081072, 7029104, -4229008
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- JIMA (d dusty, craterized)
-- SINA (q quartz surface)
-- GANNON (d dusty, craterized)
+JIMA (d dusty, craterized)
+SINA (q quartz surface)
+GANNON (d dusty, craterized)

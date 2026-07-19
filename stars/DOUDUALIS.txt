@@ -4,10 +4,10 @@ Paris coordinates: -61639376, 29482594, 659394
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- JB 102 (+ substellar object)
-- GASERISTERES (@ large, not consistent)
-- LUNESTERAS (d dusty, craterized)
-- BRIGTERISTENIA (@ large, not consistent)
+JB 102 (+ substellar object)
+GASERISTERES (@ large, not consistent)
+LUNESTERAS (d dusty, craterized)
+BRIGTERISTENIA (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.639.785. CLASS S02 STAR

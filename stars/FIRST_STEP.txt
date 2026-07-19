@@ -4,9 +4,9 @@ Paris coordinates: 32496, -155479, 1006249
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- ASHESLAND (d dusty, craterized)
-- FLAMERING (+ substellar object)
-- Planet #2 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+ASHESLAND (d dusty, craterized)
+FLAMERING (+ substellar object)
+Planet #2 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)

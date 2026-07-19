@@ -4,10 +4,10 @@ Paris coordinates: -1406030064, -5834, 1420916550
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- Z-X013 I (@ large, not consistent)
-- Z-X013 II (n thin atmosphere)
-- Z-X013 III (q quartz surface)
-  - Z-X013 III A (d dusty, craterized)
+Z-X013 I (@ large, not consistent)
+Z-X013 II (n thin atmosphere)
+Z-X013 III (q quartz surface)
+  Z-X013 III A (d dusty, craterized)
 
 Guide entries:
 AN S01 BLUE GIANT AT THE VERY EDGE OF THE GALAXY. HAS THREE PLANETS.

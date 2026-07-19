@@ -4,5 +4,5 @@ Paris coordinates: 6241040, 9632737, 1105476
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RED HAT (@ large, not consistent)
-- YELLOW CLOAK (+ substellar object)
+RED HAT (@ large, not consistent)
+YELLOW CLOAK (+ substellar object)

@@ -4,13 +4,13 @@ Paris coordinates: 6193552, 5324215, -1721844
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (@ large, not consistent)
-- ELM STREET (f felisian)
-  - LUCKY TARGET (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-  - TARGETED (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
+Planet #0 (+ substellar object)
+Planet #1 (@ large, not consistent)
+ELM STREET (f felisian)
+  LUCKY TARGET (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+  TARGETED (d dusty, craterized)
+Planet #3 (d dusty, craterized)
 
 Guide entries:
  NIL WITTHANEYE ENRTY, 6011 664.233.827 APROX, LIFE ON PLANET 3

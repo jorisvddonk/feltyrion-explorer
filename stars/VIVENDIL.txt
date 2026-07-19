@@ -4,16 +4,16 @@ Paris coordinates: 4459632, 4949965, -2023422
 Bodies: 10 (6 planets, 4 moons)
 
 System:
-- DORADILLO (^ unstable)
-- BRILLIAVER (q quartz surface)
-- CANGURITO (f felisian)
-  - GRAN CRATER (d dusty, craterized)
-  - VERDELUN (d dusty, craterized)
-- AZULETE (f felisian)
-- BLANQUILIN (k thick atmosphere)
-  - VERDE CRATER (d dusty, craterized)
-- SOMBRILLE (f felisian)
-  - CONFETTI (d dusty, craterized)
+DORADILLO (^ unstable)
+BRILLIAVER (q quartz surface)
+CANGURITO (f felisian)
+  GRAN CRATER (d dusty, craterized)
+  VERDELUN (d dusty, craterized)
+AZULETE (f felisian)
+BLANQUILIN (k thick atmosphere)
+  VERDE CRATER (d dusty, craterized)
+SOMBRILLE (f felisian)
+  CONFETTI (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.740 -                               

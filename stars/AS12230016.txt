@@ -4,7 +4,7 @@ Paris coordinates: 350256, 1819940, 22990842
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- AS12230016A (* companion star)
-  - AS12230016A1 (k thick atmosphere)
-  - Moon #1 (q quartz surface)
-- AS12230016B (* companion star)
+AS12230016A (* companion star)
+  AS12230016A1 (k thick atmosphere)
+  Moon #1 (q quartz surface)
+AS12230016B (* companion star)

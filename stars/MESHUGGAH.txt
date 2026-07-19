@@ -4,16 +4,16 @@ Paris coordinates: 4081072, 4229104, -4120847
 Bodies: 10 (6 planets, 4 moons)
 
 System:
-- Planet #0 (^ unstable)
-- Planet #1 (q quartz surface)
-- MESHUGGAH III (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (f felisian)
-- Planet #4 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-- MESHUGGAH VI (f felisian)
-  - Moon #0 (d dusty, craterized)
+Planet #0 (^ unstable)
+Planet #1 (q quartz surface)
+MESHUGGAH III (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+Planet #3 (f felisian)
+Planet #4 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+MESHUGGAH VI (f felisian)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 S00 STAR DISCOVERED BY RICHARD SOLENSKY EPOC 6011-572.561.550

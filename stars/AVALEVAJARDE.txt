@@ -4,11 +4,11 @@ Paris coordinates: 2081802352, -1452624, 162496
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- DHLUTOU (n thin atmosphere)
-- PUKOKU (+ substellar object)
-- SIKOIJI (k thick atmosphere)
-  - LILEDOI (d dusty, craterized)
-- DEMUM (f felisian)
+DHLUTOU (n thin atmosphere)
+PUKOKU (+ substellar object)
+SIKOIJI (k thick atmosphere)
+  LILEDOI (d dusty, craterized)
+DEMUM (f felisian)
 
 Guide entries:
 S00 SYSTEM OF 4 PLANETS AND 1 MOON, ONE FRLISIAN WORLD.                     

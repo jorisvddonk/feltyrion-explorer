@@ -4,8 +4,8 @@ Paris coordinates: -1639280, -1054080, 368672
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BRACKEN (k thick atmosphere)
-- IODIED (k thick atmosphere)
+BRACKEN (k thick atmosphere)
+IODIED (k thick atmosphere)
 
 Guide entries:
 DISCOVERED 6011.607.976 -AIRCON

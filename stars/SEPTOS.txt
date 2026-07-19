@@ -4,9 +4,9 @@ Paris coordinates: 4200336, 5681208, 670626
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- DONIA (k thick atmosphere)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (r rocky, creased)
+DONIA (k thick atmosphere)
+Planet #1 (n thin atmosphere)
+Planet #2 (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY GLENG THE GREAT (6011 566.414)

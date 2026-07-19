@@ -4,5 +4,5 @@ Paris coordinates: 3466416, 4309260, -617438
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RED HOOD (k thick atmosphere)
-- BLACK DEEP (d dusty, craterized)
+RED HOOD (k thick atmosphere)
+BLACK DEEP (d dusty, craterized)

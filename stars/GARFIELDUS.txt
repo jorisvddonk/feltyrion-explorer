@@ -4,7 +4,7 @@ Paris coordinates: 2852848, 4528638, -725581
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
+Planet #0 (@ large, not consistent)
 
 Guide entries:
 ONE PLANET

@@ -4,6 +4,6 @@ Paris coordinates: -66547920, 29022158, -758166
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (+ substellar object)
-- PLAINWEIRDMAYBE (d dusty, craterized)
+Planet #0 (+ substellar object)
+Planet #1 (+ substellar object)
+PLAINWEIRDMAYBE (d dusty, craterized)

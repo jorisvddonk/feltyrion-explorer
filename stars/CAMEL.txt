@@ -4,7 +4,7 @@ Paris coordinates: 376048, 4742863, 5251818
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ORBIT (+ substellar object)
+ORBIT (+ substellar object)
 
 Guide entries:
 (DISCOVERED 6011:571.427 BY SHADOWCLAW)

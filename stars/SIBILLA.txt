@@ -4,11 +4,11 @@ Paris coordinates: 3973200, 4621255, -443356
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- LILLAHLULLAH (k thick atmosphere)
-- CHEW BALL (+ substellar object)
-- SCORCH (f felisian)
-- RELEGATED (k thick atmosphere)
-  - EREMITE (d dusty, craterized)
+LILLAHLULLAH (k thick atmosphere)
+CHEW BALL (+ substellar object)
+SCORCH (f felisian)
+RELEGATED (k thick atmosphere)
+  EREMITE (d dusty, craterized)
 
 Guide entries:
 FURTHER NOTES: A CLASS S00 STAR WITH 4 PLANETS, 1 MOON, 1 FELISIAN

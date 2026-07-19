@@ -4,5 +4,5 @@ Paris coordinates: 5970352, 7038092, -4780067
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KIRA (q quartz surface)
-- KIRAN (r rocky, creased)
+KIRA (q quartz surface)
+KIRAN (r rocky, creased)

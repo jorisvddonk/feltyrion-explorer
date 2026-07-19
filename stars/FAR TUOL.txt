@@ -4,7 +4,7 @@ Paris coordinates: -1781744, 5302539, -7731256
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASTRAL (+ substellar object)
+ASTRAL (+ substellar object)
 
 Guide entries:
 RED GIANT STAR,HAS 1 PLANET

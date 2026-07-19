@@ -4,17 +4,17 @@ Paris coordinates: 2090958384, -1967570, -33666
 Bodies: 11 (4 planets, 7 moons)
 
 System:
-- CYPRASU (d dusty, craterized)
-- KYIJPE (d dusty, craterized)
-- EMOFHAT (@ large, not consistent)
-  - JIYSIS (r rocky, creased)
-  - IPUDMYENA (k thick atmosphere)
-  - GREGIS (f felisian)
-  - OBALVUERI (k thick atmosphere)
-- AERUMNIBLE (f felisian)
-  - VIFHTE (d dusty, craterized)
-  - JAOPE (d dusty, craterized)
-  - DAPSHE (d dusty, craterized)
+CYPRASU (d dusty, craterized)
+KYIJPE (d dusty, craterized)
+EMOFHAT (@ large, not consistent)
+  JIYSIS (r rocky, creased)
+  IPUDMYENA (k thick atmosphere)
+  GREGIS (f felisian)
+  OBALVUERI (k thick atmosphere)
+AERUMNIBLE (f felisian)
+  VIFHTE (d dusty, craterized)
+  JAOPE (d dusty, craterized)
+  DAPSHE (d dusty, craterized)
 
 Guide entries:
 S00 SYSTEM OF 4 PLANETS, 7 MOONS, 2 FELISIAN WORLDS. 1.90016782             

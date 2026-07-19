@@ -4,7 +4,7 @@ Paris coordinates: -1428500752, 655066, 1437150602
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WERDABOX (q quartz surface)
+WERDABOX (q quartz surface)
 
 Guide entries:
 (EPOC 6011.787.61)                                                          

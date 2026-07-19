@@ -4,8 +4,8 @@ Paris coordinates: 5969264, 4564576, -830164
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PALE ONE (+ substellar object)
-- UREAWORLD (+ substellar object)
+PALE ONE (+ substellar object)
+UREAWORLD (+ substellar object)
 
 Guide entries:
  DISCOVERED BY NYQUIST ON 6011.569.596

@@ -4,14 +4,14 @@ Paris coordinates: 956784, 1809441, -381050
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- CRATIERIA (d dusty, craterized)
-- GHOSTAL (n thin atmosphere)
-- MOONSIDE (d dusty, craterized)
-  - RALPHS (i icy surface)
-- BIGTOP (n thin atmosphere)
-  - GOOBERNAUGHT (n thin atmosphere)
-- DINSDALE (d dusty, craterized)
-  - Moon #0 (i icy surface)
+CRATIERIA (d dusty, craterized)
+GHOSTAL (n thin atmosphere)
+MOONSIDE (d dusty, craterized)
+  RALPHS (i icy surface)
+BIGTOP (n thin atmosphere)
+  GOOBERNAUGHT (n thin atmosphere)
+DINSDALE (d dusty, craterized)
+  Moon #0 (i icy surface)
 
 Guide entries:
 (DISCOVERED BY THEGREATDEMENTO AT APROXIMATELY 596,.205.524)

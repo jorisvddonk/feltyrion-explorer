@@ -4,13 +4,13 @@ Paris coordinates: 3660720, 7595727, -4847289
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- REMTAR (@ large, not consistent)
-- SOGRIMA (@ large, not consistent)
-- MOGATA (+ substellar object)
-- KAMIKA (d dusty, craterized)
-- KORIKO (r rocky, creased)
-- FOGIKO (r rocky, creased)
-- REFINA (r rocky, creased)
+REMTAR (@ large, not consistent)
+SOGRIMA (@ large, not consistent)
+MOGATA (+ substellar object)
+KAMIKA (d dusty, craterized)
+KORIKO (r rocky, creased)
+FOGIKO (r rocky, creased)
+REFINA (r rocky, creased)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.242

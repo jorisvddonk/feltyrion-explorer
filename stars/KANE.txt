@@ -4,12 +4,12 @@ Paris coordinates: 3004272, 3998610, 186034
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- BERNSTEIN (d dusty, craterized)
-- ROSEBUD (n thin atmosphere)
-- JEDEDIAH (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- XANADU (n thin atmosphere)
+BERNSTEIN (d dusty, craterized)
+ROSEBUD (n thin atmosphere)
+JEDEDIAH (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+XANADU (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY DOUG, EPOC 6011.561.84

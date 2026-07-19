@@ -4,13 +4,13 @@ Paris coordinates: 18928, -159568, 173067
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- MERANDI (d dusty, craterized)
-- SHEBA (r rocky, creased)
-- KRADEN (q quartz surface)
-  - CHEESE WAD (d dusty, craterized)
-  - GALAG (d dusty, craterized)
-- ALEX (k thick atmosphere)
-  - STAR DUST (d dusty, craterized)
+MERANDI (d dusty, craterized)
+SHEBA (r rocky, creased)
+KRADEN (q quartz surface)
+  CHEESE WAD (d dusty, craterized)
+  GALAG (d dusty, craterized)
+ALEX (k thick atmosphere)
+  STAR DUST (d dusty, craterized)
 
 Guide entries:
 (DISCOVERED BY THE GREAT DEMENTO)

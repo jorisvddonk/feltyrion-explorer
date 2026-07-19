@@ -4,19 +4,19 @@ Paris coordinates: -225712, 2875, -131716
 Bodies: 13 (6 planets, 7 moons)
 
 System:
-- PROSODY (k thick atmosphere)
-- TUMULT (k thick atmosphere)
-- FOATEATESVENIEN (f felisian)
-  - SATELLITE (d dusty, craterized)
-- JETTY (f felisian)
-  - VENEER (d dusty, craterized)
-  - SYNCOPE (d dusty, craterized)
-- SOLECISM (f felisian)
-  - IDLER (d dusty, craterized)
-  - RAI (^ unstable)
-- LUCITE (q quartz surface)
-  - FROWN (d dusty, craterized)
-  - LUCE (d dusty, craterized)
+PROSODY (k thick atmosphere)
+TUMULT (k thick atmosphere)
+FOATEATESVENIEN (f felisian)
+  SATELLITE (d dusty, craterized)
+JETTY (f felisian)
+  VENEER (d dusty, craterized)
+  SYNCOPE (d dusty, craterized)
+SOLECISM (f felisian)
+  IDLER (d dusty, craterized)
+  RAI (^ unstable)
+LUCITE (q quartz surface)
+  FROWN (d dusty, craterized)
+  LUCE (d dusty, craterized)
 
 Guide entries:
 A CLASS S00 SYSTEM OF 6 PLANETS AND 7 MOONS, 3 FELISIAN WORLDS.

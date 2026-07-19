@@ -4,7 +4,7 @@ Paris coordinates: -322864, -1258071, 1903070
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- URAJ1 (q quartz surface)
+URAJ1 (q quartz surface)
 
 Guide entries:
 DISCOVERED BY AIRCON. 6011.612.711

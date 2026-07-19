@@ -4,9 +4,9 @@ Paris coordinates: 5276048, 5055692, 256778
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- SAVWI (q quartz surface)
-- BARUWINBHI (q quartz surface)
-- YORLIS (+ substellar object)
-- NINKOSIRANA (r rocky, creased)
-- VINIOS (r rocky, creased)
-- BNOXWALIBO (r rocky, creased)
+SAVWI (q quartz surface)
+BARUWINBHI (q quartz surface)
+YORLIS (+ substellar object)
+NINKOSIRANA (r rocky, creased)
+VINIOS (r rocky, creased)
+BNOXWALIBO (r rocky, creased)

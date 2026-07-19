@@ -4,7 +4,7 @@ Paris coordinates: 4435344, 4855151, -1248033
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- CHOCOLATEY (k thick atmosphere)
+CHOCOLATEY (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY ZAG IN EPOC 6011:674.658

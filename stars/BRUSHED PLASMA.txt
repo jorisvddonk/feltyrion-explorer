@@ -4,10 +4,10 @@ Paris coordinates: 4379984, 4252941, -443191
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- ORIGINAL (@ large, not consistent)
-- REMNANT PRIDE (n thin atmosphere)
-- REMNANT ENERGY (@ large, not consistent)
-- LOT OCCUPIER (@ large, not consistent)
+ORIGINAL (@ large, not consistent)
+REMNANT PRIDE (n thin atmosphere)
+REMNANT ENERGY (@ large, not consistent)
+LOT OCCUPIER (@ large, not consistent)
 
 Guide entries:
 S02, 4 PLANETS. NOT EXPECTING MUCH FROM THIS SYSTEM.                        

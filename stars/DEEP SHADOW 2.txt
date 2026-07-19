@@ -4,13 +4,13 @@ Paris coordinates: 1627248, 26932, -1500180772
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- DEEP SHADOW 2-1 (@ large, not consistent)
-- DEEP SHADOW 2-2 (@ large, not consistent)
-- DEEP SHADOW 2-3 (@ large, not consistent)
-- DEEP SHADOW 2-4 (r rocky, creased)
-- DEEP SHADOW 2-5 (@ large, not consistent)
-- DEEP SHADOW 2-6 (n thin atmosphere)
-- Planet #6 (q quartz surface)
+DEEP SHADOW 2-1 (@ large, not consistent)
+DEEP SHADOW 2-2 (@ large, not consistent)
+DEEP SHADOW 2-3 (@ large, not consistent)
+DEEP SHADOW 2-4 (r rocky, creased)
+DEEP SHADOW 2-5 (@ large, not consistent)
+DEEP SHADOW 2-6 (n thin atmosphere)
+Planet #6 (q quartz surface)
 
 Guide entries:
 A NICE WHITE DWARF STAR WITH PLANETS.

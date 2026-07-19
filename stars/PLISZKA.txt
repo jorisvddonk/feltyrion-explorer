@@ -4,7 +4,7 @@ Paris coordinates: -61701520, 30087655, 778095
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- JB 62 (+ substellar object)
+JB 62 (+ substellar object)
 
 Guide entries:
 SYSTEM DISCOVERED BY MCWGOGS EP0C 6011.636.906 CLASS S07 NEUTRON STAR.

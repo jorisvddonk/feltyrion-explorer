@@ -4,7 +4,7 @@ Paris coordinates: 26577904, 6384081, 44805395
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SHADOTH (n thin atmosphere)
+SHADOTH (n thin atmosphere)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER, S05 WITH ONLY ONE PLANET, SHADOTH, A

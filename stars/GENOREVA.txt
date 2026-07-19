@@ -4,10 +4,10 @@ Paris coordinates: -144498416, -2774210, 108932822
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- DUNSTIN (n thin atmosphere)
-- ENRIQUE (* companion star)
-  - SAPO (d dusty, craterized)
-  - FUEGO (^ unstable)
+DUNSTIN (n thin atmosphere)
+ENRIQUE (* companion star)
+  SAPO (d dusty, craterized)
+  FUEGO (^ unstable)
 
 Guide entries:
 TWIN STAR DISCOVERD BY J.P.,EPOC 6011:562.719'

@@ -4,5 +4,5 @@ Paris coordinates: 5717840, 5225891, -1689187
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GREEN DOR (r rocky, creased)
-- RED WAFAM (d dusty, craterized)
+GREEN DOR (r rocky, creased)
+RED WAFAM (d dusty, craterized)

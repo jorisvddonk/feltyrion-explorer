@@ -4,7 +4,7 @@ Paris coordinates: -582832, 9841547, -5066313
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SET ARKEIKA (k thick atmosphere)
+SET ARKEIKA (k thick atmosphere)
 
 Guide entries:
 LI+ ION EMITTING S05. DISCOVERED BY NEUZD 6011 786:700. THE SYSTEM HAS      

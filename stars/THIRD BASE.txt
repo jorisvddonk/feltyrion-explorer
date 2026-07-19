@@ -4,19 +4,19 @@ Paris coordinates: 7148912, 4383605, -3189448
 Bodies: 13 (6 planets, 7 moons)
 
 System:
-- Planet #0 (* companion star)
-  - Moon #0 (^ unstable)
-  - Moon #1 (d dusty, craterized)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (* companion star)
-  - Moon #0 (n thin atmosphere)
-- Planet #3 (n thin atmosphere)
-  - Moon #0 (^ unstable)
-  - Moon #1 (d dusty, craterized)
-- Planet #4 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-- Planet #5 (n thin atmosphere)
+Planet #0 (* companion star)
+  Moon #0 (^ unstable)
+  Moon #1 (d dusty, craterized)
+Planet #1 (n thin atmosphere)
+Planet #2 (* companion star)
+  Moon #0 (n thin atmosphere)
+Planet #3 (n thin atmosphere)
+  Moon #0 (^ unstable)
+  Moon #1 (d dusty, craterized)
+Planet #4 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+Planet #5 (n thin atmosphere)
 
 Guide entries:
 ANOTHER TRIPLE STAR SYSTEM. THERE ARE ALSO THREE PLANETS THAT

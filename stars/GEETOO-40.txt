@@ -4,17 +4,17 @@ Paris coordinates: 6591120, 6362075, -17740564
 Bodies: 11 (5 planets, 6 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (k thick atmosphere)
-- QUUNDIIQ (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (^ unstable)
-- Planet #3 (+ substellar object)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (@ large, not consistent)
-- Planet #4 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
+Planet #0 (@ large, not consistent)
+Planet #1 (k thick atmosphere)
+QUUNDIIQ (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (^ unstable)
+Planet #3 (+ substellar object)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (@ large, not consistent)
+Planet #4 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY NALIX ON 6011.629.990

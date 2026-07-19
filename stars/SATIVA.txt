@@ -4,6 +4,6 @@ Paris coordinates: 2739280, 5319060, -1293595
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SATIVA 1 (q quartz surface)
-- SATIVA 2 (d dusty, craterized)
-- SATIVA 3 (n thin atmosphere)
+SATIVA 1 (q quartz surface)
+SATIVA 2 (d dusty, craterized)
+SATIVA 3 (n thin atmosphere)

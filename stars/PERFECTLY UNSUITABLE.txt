@@ -4,8 +4,8 @@ Paris coordinates: 3446064, 4908620, -1610482
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RED CRESENT (r rocky, creased)
-- Planet #1 (d dusty, craterized)
+RED CRESENT (r rocky, creased)
+Planet #1 (d dusty, craterized)
 
 Guide entries:
 NAMED BECAUSE THIS TYPE OF STAR IS UNSUITABLE FOR PLANETS

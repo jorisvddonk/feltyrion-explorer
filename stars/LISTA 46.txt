@@ -4,8 +4,8 @@ Paris coordinates: 6511056, 4326111, -2949741
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TOXIN (n thin atmosphere)
-- EXOTOXIN (@ large, not consistent)
+TOXIN (n thin atmosphere)
+EXOTOXIN (@ large, not consistent)
 
 Guide entries:
  LITHIUM BEARING S05 SYSTEM WITH 2 PLANETS. SKINNYMON EPOC 6011

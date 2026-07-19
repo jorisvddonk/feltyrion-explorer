@@ -4,15 +4,15 @@ Paris coordinates: 5800336, 6162999, -854981
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- CANDYAPPLE (f felisian)
-- Planet #4 (n thin atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (r rocky, creased)
+Planet #1 (n thin atmosphere)
+Planet #2 (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+CANDYAPPLE (f felisian)
+Planet #4 (n thin atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  GOOD SOURCE OF LITHIUM IF YOU ARE RUNNING OUT

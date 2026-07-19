@@ -4,11 +4,11 @@ Paris coordinates: 3659632, 4227550, -1146095
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- SHALE (d dusty, craterized)
-- EVERWINTER (r rocky, creased)
-- Planet #2 (d dusty, craterized)
-- BEAN1 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+SHALE (d dusty, craterized)
+EVERWINTER (r rocky, creased)
+Planet #2 (d dusty, craterized)
+BEAN1 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
  ORANGE CLASS 4 STAR. HIGH NUCLEAR MASS.

@@ -4,9 +4,9 @@ Paris coordinates: -33346576, 5360707, -14759537
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (+ substellar object)
-- WAYNEDAIMOPLANET1 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (@ large, not consistent)
+Planet #1 (+ substellar object)
+WAYNEDAIMOPLANET1 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)

@@ -4,8 +4,8 @@ Paris coordinates: 3728560, 4416425, -941518
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GIBRALTER (q quartz surface)
-- HOBOTHIA 2 (+ substellar object)
+GIBRALTER (q quartz surface)
+HOBOTHIA 2 (+ substellar object)
 
 Guide entries:
  SYSTEM DISCOVERED BY JEFFOK

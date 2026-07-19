@@ -4,8 +4,8 @@ Paris coordinates: 3997488, 4663426, -1238922
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- WHAT IS LIFE (d dusty, craterized)
-- THE GOLDEN MAXIM (d dusty, craterized)
+WHAT IS LIFE (d dusty, craterized)
+THE GOLDEN MAXIM (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-568.777

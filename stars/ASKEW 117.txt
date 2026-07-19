@@ -4,4 +4,4 @@ Paris coordinates: 2729232, -12713175, 9674887
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASKEW 117A (+ substellar object)
+ASKEW 117A (+ substellar object)

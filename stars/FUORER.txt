@@ -4,9 +4,9 @@ Paris coordinates: -5360, 82929, 726943
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- FUORERTWO (d dusty, craterized)
-- FUORERTHREE (f felisian)
-- FUORERLAST (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (n thin atmosphere)
+FUORERTWO (d dusty, craterized)
+FUORERTHREE (f felisian)
+FUORERLAST (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)

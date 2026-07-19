@@ -4,9 +4,9 @@ Paris coordinates: -42128, 1038351, -3432015
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (d dusty, craterized)
+Planet #0 (r rocky, creased)
+Planet #1 (k thick atmosphere)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED EPOC 6012 060.855

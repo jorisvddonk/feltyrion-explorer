@@ -4,7 +4,7 @@ Paris coordinates: 656784, 33028, -98036
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- DONATO (k thick atmosphere)
-- PRINCE (d dusty, craterized)
-- DONATELLA (f felisian)
-  - LUISELLA (d dusty, craterized)
+DONATO (k thick atmosphere)
+PRINCE (d dusty, craterized)
+DONATELLA (f felisian)
+  LUISELLA (d dusty, craterized)

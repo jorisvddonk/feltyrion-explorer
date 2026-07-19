@@ -4,12 +4,12 @@ Paris coordinates: 1229648, 4810891, -2287914
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (d dusty, craterized)
-- ISPILU (f felisian)
-  - PALOR (d dusty, craterized)
-- Planet #3 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
+Planet #0 (n thin atmosphere)
+Planet #1 (d dusty, craterized)
+ISPILU (f felisian)
+  PALOR (d dusty, craterized)
+Planet #3 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY ATTRADIS, EPOC 6011:600.12

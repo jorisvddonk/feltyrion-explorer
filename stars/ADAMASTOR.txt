@@ -4,10 +4,10 @@ Paris coordinates: 4873200, 4885727, -1391831
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- ALCOFORADO (^ unstable)
-- ALCOUTIM (q quartz surface)
-- ALENQUER (+ substellar object)
-- ALFANDEGA (k thick atmosphere)
+ALCOFORADO (^ unstable)
+ALCOUTIM (q quartz surface)
+ALENQUER (+ substellar object)
+ALFANDEGA (k thick atmosphere)
 
 Guide entries:
 S02 (BY NBOAR 6011 588.802)

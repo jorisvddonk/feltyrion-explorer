@@ -4,5 +4,5 @@ Paris coordinates: 4582832, 4950628, 1266235
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- TARVOLA BETA (d dusty, craterized)
+Planet #0 (n thin atmosphere)
+TARVOLA BETA (d dusty, craterized)

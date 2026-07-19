@@ -4,15 +4,15 @@ Paris coordinates: 4486768, 4507317, -341658
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- STRIPED FORM (k thick atmosphere)
-- PLANET SPOT (r rocky, creased)
-- CORDELIA (r rocky, creased)
-  - TORTURE MOON (d dusty, craterized)
-- HIGHLANDER (n thin atmosphere)
-- DARK SHADOW (k thick atmosphere)
-  - HILL MOON (n thin atmosphere)
-- JEALOUS TUNDRA (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
+STRIPED FORM (k thick atmosphere)
+PLANET SPOT (r rocky, creased)
+CORDELIA (r rocky, creased)
+  TORTURE MOON (d dusty, craterized)
+HIGHLANDER (n thin atmosphere)
+DARK SHADOW (k thick atmosphere)
+  HILL MOON (n thin atmosphere)
+JEALOUS TUNDRA (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
  THIS IS A SYSTEM I HAVE DISCOVERED, VERY BEAUTBUT NO VISIBLE LIFE.

@@ -4,8 +4,8 @@ Paris coordinates: -107435952, 24991070, -1678282
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- WOP 1 (q quartz surface)
-- WOP 2 (k thick atmosphere)
-- WOP 3 (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
+WOP 1 (q quartz surface)
+WOP 2 (k thick atmosphere)
+WOP 3 (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)

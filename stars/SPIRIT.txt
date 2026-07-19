@@ -4,13 +4,13 @@ Paris coordinates: 2556784, 4378082, -2148356
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- AFTERMATH (k thick atmosphere)
-- Planet #2 (@ large, not consistent)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (n thin atmosphere)
-- Planet #3 (n thin atmosphere)
+Planet #0 (d dusty, craterized)
+AFTERMATH (k thick atmosphere)
+Planet #2 (@ large, not consistent)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (n thin atmosphere)
+Planet #3 (n thin atmosphere)
 
 Guide entries:
 STAR DISCOVERED BY JILANTY EPOC6011 569.105

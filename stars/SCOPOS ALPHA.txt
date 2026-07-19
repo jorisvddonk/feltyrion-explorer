@@ -4,8 +4,8 @@ Paris coordinates: 3177136, 4691473, -1519950
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- SCOPOS ALPHA II (d dusty, craterized)
+Planet #0 (r rocky, creased)
+SCOPOS ALPHA II (d dusty, craterized)
 
 Guide entries:
 NAMED BY MELANC EPOC 6011.600.735.350

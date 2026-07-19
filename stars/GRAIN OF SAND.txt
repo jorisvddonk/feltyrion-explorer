@@ -4,9 +4,9 @@ Paris coordinates: -2632496, -8819671, 1657423
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- EREMO (d dusty, craterized)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-  - DARK LORD (i icy surface)
+EREMO (d dusty, craterized)
+Planet #1 (@ large, not consistent)
+Planet #2 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+  DARK LORD (i icy surface)

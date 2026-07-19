@@ -4,9 +4,9 @@ Paris coordinates: 2606448, -710817, -7025642
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- RICHESSE-A (r rocky, creased)
-- RICHESSE-B (r rocky, creased)
-- RICHESSE-C (n thin atmosphere)
-  - RICHESE-C-S1 (d dusty, craterized)
-- RICHESSE-D (d dusty, craterized)
-  - RICHESSE-D-S1 (n thin atmosphere)
+RICHESSE-A (r rocky, creased)
+RICHESSE-B (r rocky, creased)
+RICHESSE-C (n thin atmosphere)
+  RICHESE-C-S1 (d dusty, craterized)
+RICHESSE-D (d dusty, craterized)
+  RICHESSE-D-S1 (n thin atmosphere)

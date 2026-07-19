@@ -4,12 +4,12 @@ Paris coordinates: 3963568, 4820590, -3218725
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- FLICKER (n thin atmosphere)
-- MILLER'S THUMB (@ large, not consistent)
-- CUNAXA (@ large, not consistent)
-  - BALATA (k thick atmosphere)
-  - SURYLIN (k thick atmosphere)
-  - LIMACINE (q quartz surface)
+FLICKER (n thin atmosphere)
+MILLER'S THUMB (@ large, not consistent)
+CUNAXA (@ large, not consistent)
+  BALATA (k thick atmosphere)
+  SURYLIN (k thick atmosphere)
+  LIMACINE (q quartz surface)
 
 Guide entries:
 FURTHER NOTES: ONLY THE CLASS S11 STAR AND THE FIRST PLANET WERE NAMED

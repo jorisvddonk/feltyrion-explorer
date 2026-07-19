@@ -4,7 +4,7 @@ Paris coordinates: 1399393872, 1225149, 1398869741
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- MIANTA PRIMUS (+ substellar object)
+MIANTA PRIMUS (+ substellar object)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:600.644

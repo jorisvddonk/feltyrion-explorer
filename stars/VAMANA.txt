@@ -4,14 +4,14 @@ Paris coordinates: 4152848, 4342401, -1921549
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (n thin atmosphere)
-- Planet #3 (@ large, not consistent)
-- Planet #4 (n thin atmosphere)
-- Planet #5 (q quartz surface)
-- Planet #6 (q quartz surface)
-- Planet #7 (@ large, not consistent)
+Planet #0 (@ large, not consistent)
+Planet #1 (k thick atmosphere)
+Planet #2 (n thin atmosphere)
+Planet #3 (@ large, not consistent)
+Planet #4 (n thin atmosphere)
+Planet #5 (q quartz surface)
+Planet #6 (q quartz surface)
+Planet #7 (@ large, not consistent)
 
 Guide entries:
 BY HARIDAS ON 6011-570.532 - 8 PLANETS ONLY

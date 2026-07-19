@@ -4,14 +4,14 @@ Paris coordinates: 432496, 30569004, 668636
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- AKVEN (k thick atmosphere)
-- ASDHA (+ substellar object)
-- AKFHTRIS (n thin atmosphere)
-- ASLEEY (+ substellar object)
-- ASLEPARHS (@ large, not consistent)
-- AYSTREYAKRE (+ substellar object)
-- AKFHTRA (n thin atmosphere)
-- AKAYASLE (q quartz surface)
+AKVEN (k thick atmosphere)
+ASDHA (+ substellar object)
+AKFHTRIS (n thin atmosphere)
+ASLEEY (+ substellar object)
+ASLEPARHS (@ large, not consistent)
+AYSTREYAKRE (+ substellar object)
+AKFHTRA (n thin atmosphere)
+AKAYASLE (q quartz surface)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 632.828

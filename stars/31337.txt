@@ -4,13 +4,13 @@ Paris coordinates: 656784, 233028, -146739
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (+ substellar object)
-- Planet #3 (@ large, not consistent)
-- Planet #4 (n thin atmosphere)
-- Planet #5 (r rocky, creased)
-- Planet #6 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (d dusty, craterized)
+Planet #2 (+ substellar object)
+Planet #3 (@ large, not consistent)
+Planet #4 (n thin atmosphere)
+Planet #5 (r rocky, creased)
+Planet #6 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.344

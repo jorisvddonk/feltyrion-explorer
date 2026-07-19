@@ -4,8 +4,8 @@ Paris coordinates: 2061763152, -1905797, 540779
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- COPUME (@ large, not consistent)
-- CISASPRE (n thin atmosphere)
+COPUME (@ large, not consistent)
+CISASPRE (n thin atmosphere)
 
 Guide entries:
 S00 STAR, JUST TWO PLANETS. 1.69619453 BAL. M. TEMP 7728 K RAD              

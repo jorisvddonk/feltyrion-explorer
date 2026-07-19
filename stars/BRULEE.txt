@@ -4,7 +4,7 @@ Paris coordinates: 26553616, 6430705, 45256812
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- NOGNI (+ substellar object)
+NOGNI (+ substellar object)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER. S07 STAR WITH ONLY ONE PLANET, A

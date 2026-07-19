@@ -4,4 +4,4 @@ Paris coordinates: -105726320, 25974833, -1096811
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BRUZD (d dusty, craterized)
+BRUZD (d dusty, craterized)

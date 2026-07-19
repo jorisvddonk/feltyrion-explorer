@@ -4,7 +4,7 @@ Paris coordinates: 634078448, -10967068, 49836712
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- CIJRAIS (@ large, not consistent)
+CIJRAIS (@ large, not consistent)
 
 Guide entries:
 CLASS S03 SYSTEM WITH ONE WORLD. 6.01 LY FROM LISTA 309. 3.95256090         

@@ -4,4 +4,4 @@ Paris coordinates: 54108624, 320656, 1981920048
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- AS01042150A (n thin atmosphere)
+AS01042150A (n thin atmosphere)

@@ -4,17 +4,17 @@ Paris coordinates: -939280, 149204, -374227
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- SHINY CAGE (n thin atmosphere)
-- STOCHRA (n thin atmosphere)
-- TELEKI (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (^ unstable)
-- Planet #3 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-- Planet #4 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
+SHINY CAGE (n thin atmosphere)
+STOCHRA (n thin atmosphere)
+TELEKI (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (^ unstable)
+Planet #3 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+Planet #4 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #5 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY XEN MARMARIS, 6011:563.745

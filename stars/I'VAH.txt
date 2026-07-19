@@ -4,9 +4,9 @@ Paris coordinates: -494640, 30520235, -71665
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- USMAR (r rocky, creased)
-- L'UTE (n thin atmosphere)
-- U'IDE (q quartz surface)
-- TEA'RE (d dusty, craterized)
-- RY (d dusty, craterized)
-- HAUFE (r rocky, creased)
+USMAR (r rocky, creased)
+L'UTE (n thin atmosphere)
+U'IDE (q quartz surface)
+TEA'RE (d dusty, craterized)
+RY (d dusty, craterized)
+HAUFE (r rocky, creased)

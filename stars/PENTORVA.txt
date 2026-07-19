@@ -4,5 +4,5 @@ Paris coordinates: 5159632, 4993237, -2739496
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BORELL (d dusty, craterized)
-- Planet #1 (q quartz surface)
+BORELL (d dusty, craterized)
+Planet #1 (q quartz surface)

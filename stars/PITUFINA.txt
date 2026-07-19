@@ -4,7 +4,7 @@ Paris coordinates: 3452848, 4314008, -1401686
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PEYO (+ substellar object)
+PEYO (+ substellar object)
 
 Guide entries:
 PITUFINA SYS NOT DISCOVERED BY LEOW, VISITED BY HIM IN 6011-579.138.

@@ -4,7 +4,7 @@ Paris coordinates: -1136432, 55255519, 2130415
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- REGULARITY (+ substellar object)
+REGULARITY (+ substellar object)
 
 Guide entries:
 RELATIVELY COOL S07 WITH 1 PLANET. RYAN GJK E6011.789.591                   

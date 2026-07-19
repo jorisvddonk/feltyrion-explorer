@@ -4,7 +4,7 @@ Paris coordinates: 6173200, 4785353, -2825891
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TRISAK (+ substellar object)
+TRISAK (+ substellar object)
 
 Guide entries:
 A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011.99

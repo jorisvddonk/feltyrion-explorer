@@ -4,13 +4,13 @@ Paris coordinates: 256784, -25799, 162335
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (r rocky, creased)
-- SUFFERER (d dusty, craterized)
-- UNUSUAL CALM (f felisian)
-  - SHRA (d dusty, craterized)
-  - NORDUX (d dusty, craterized)
-  - DELGATO (d dusty, craterized)
+Planet #0 (r rocky, creased)
+Planet #1 (r rocky, creased)
+SUFFERER (d dusty, craterized)
+UNUSUAL CALM (f felisian)
+  SHRA (d dusty, craterized)
+  NORDUX (d dusty, craterized)
+  DELGATO (d dusty, craterized)
 
 Guide entries:
 S00 STAR WITH 4 PLANETS AND 3 MOONS. --EKA

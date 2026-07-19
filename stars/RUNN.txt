@@ -4,8 +4,8 @@ Paris coordinates: 5079984, 8324002, -1136400
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AWAY I (q quartz surface)
-- AWAY II (q quartz surface)
+AWAY I (q quartz surface)
+AWAY II (q quartz surface)
 
 Guide entries:
 SYSTEM DISCOVERED BY MURRMURR EPOC 6011:607.630

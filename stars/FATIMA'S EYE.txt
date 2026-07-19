@@ -4,8 +4,8 @@ Paris coordinates: 6913904, 4736889, -1244650
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- THE PINK STUFF (+ substellar object)
-- FISHMAN (^ unstable)
+THE PINK STUFF (+ substellar object)
+FISHMAN (^ unstable)
 
 Guide entries:
  DISCOVERED BY NYQUIST ON 6011.569.646

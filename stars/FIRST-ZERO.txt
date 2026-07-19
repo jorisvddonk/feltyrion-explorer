@@ -4,11 +4,11 @@ Paris coordinates: 3236432, 4900864, -3865708
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- FOB (k thick atmosphere)
-- NEXT (q quartz surface)
-- DUN (k thick atmosphere)
-  - MONTE (n thin atmosphere)
-  - TREPAN (d dusty, craterized)
+FOB (k thick atmosphere)
+NEXT (q quartz surface)
+DUN (k thick atmosphere)
+  MONTE (n thin atmosphere)
+  TREPAN (d dusty, craterized)
 
 Guide entries:
 FURTHER NOTES: CLASS 00 STAR NAMED BY UNKNOWN STARDRIFTER, BUT

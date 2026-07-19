@@ -4,12 +4,12 @@ Paris coordinates: 7762480, 4867266, -3018082
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- RUGOSE (r rocky, creased)
-- JELLIFY (k thick atmosphere)
-- FRESNEL (q quartz surface)
-  - SOMITE (i icy surface)
-  - HINNY (i icy surface)
-  - REBUKE (n thin atmosphere)
+RUGOSE (r rocky, creased)
+JELLIFY (k thick atmosphere)
+FRESNEL (q quartz surface)
+  SOMITE (i icy surface)
+  HINNY (i icy surface)
+  REBUKE (n thin atmosphere)
 
 Guide entries:
  A LITHIUM CARRYING S05 SYSTEM WITH 3 PLANETS AND 3 MOONS. SKINNYMON

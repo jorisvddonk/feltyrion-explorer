@@ -4,19 +4,19 @@ Paris coordinates: 2132496, 4107520, -1134734
 Bodies: 13 (8 planets, 5 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (d dusty, craterized)
-- TRISTANIA (f felisian)
-- SPECTRALIA (f felisian)
-- Planet #4 (d dusty, craterized)
-- Planet #5 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
-- Planet #6 (k thick atmosphere)
-  - Moon #0 (i icy surface)
-  - Moon #1 (n thin atmosphere)
-- Planet #7 (r rocky, creased)
+Planet #0 (+ substellar object)
+Planet #1 (d dusty, craterized)
+TRISTANIA (f felisian)
+SPECTRALIA (f felisian)
+Planet #4 (d dusty, craterized)
+Planet #5 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)
+Planet #6 (k thick atmosphere)
+  Moon #0 (i icy surface)
+  Moon #1 (n thin atmosphere)
+Planet #7 (r rocky, creased)
 
 Guide entries:
  DISCOVERED BY NICOLAI MEYER EPOC 6011 693.496.677                          

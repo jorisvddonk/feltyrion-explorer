@@ -4,11 +4,11 @@ Paris coordinates: -769264, 4828803, -4062099
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (n thin atmosphere)
+Planet #0 (n thin atmosphere)
+Planet #1 (@ large, not consistent)
+Planet #2 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+Planet #3 (n thin atmosphere)
 
 Guide entries:
 THIS STAR HAS 4 PLANETS AND 1 MINOR BODY

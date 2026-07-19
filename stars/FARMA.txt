@@ -4,15 +4,15 @@ Paris coordinates: 1608208, 5920927, -120051
 Bodies: 9 (4 planets, 5 moons)
 
 System:
-- FARMA.1(Q) (q quartz surface)
-- FARMA.2(S) (n thin atmosphere)
-- FARMA.3(F) (f felisian)
-  - FARMA.3.1(S) (d dusty, craterized)
-  - FARMA.3.2(S) (d dusty, craterized)
-  - FARMA.3.3(S) (d dusty, craterized)
-- FARMA.4(F) (f felisian)
-  - FARMA.4.1(S) (n thin atmosphere)
-  - FARMA.4.2(S) (d dusty, craterized)
+FARMA.1(Q) (q quartz surface)
+FARMA.2(S) (n thin atmosphere)
+FARMA.3(F) (f felisian)
+  FARMA.3.1(S) (d dusty, craterized)
+  FARMA.3.2(S) (d dusty, craterized)
+  FARMA.3.3(S) (d dusty, craterized)
+FARMA.4(F) (f felisian)
+  FARMA.4.1(S) (n thin atmosphere)
+  FARMA.4.2(S) (d dusty, craterized)
 
 Guide entries:
 SYSTEM DYSCOVERED BY YAYO (ROBERTO CORREZZOLA), E.6011:685.930.             

@@ -4,8 +4,8 @@ Paris coordinates: 3432496, 4021553, -2394337
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BLOODY SANDS (r rocky, creased)
-- BLIND EYE (+ substellar object)
+BLOODY SANDS (r rocky, creased)
+BLIND EYE (+ substellar object)
 
 Guide entries:
 RED GIANT WITH TWO PLANETS; THE OUTER ONE IS A SUBSTELLAR PLANET.

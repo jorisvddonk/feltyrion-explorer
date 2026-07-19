@@ -4,8 +4,8 @@ Paris coordinates: 2959632, 4184278, -481770
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DAZE (+ substellar object)
-- BOLO (@ large, not consistent)
+DAZE (+ substellar object)
+BOLO (@ large, not consistent)
 
 Guide entries:
 A MEDIUM SIZED YELLOW STAR WITH TWO ORBITING INCONSISTENT PLANETS.

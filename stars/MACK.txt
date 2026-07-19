@@ -4,4 +4,4 @@ Paris coordinates: 377136, 635675, 1401865
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LOUIS (@ large, not consistent)
+LOUIS (@ large, not consistent)

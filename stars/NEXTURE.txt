@@ -4,18 +4,18 @@ Paris coordinates: -443216, 735706, 871493
 Bodies: 12 (8 planets, 4 moons)
 
 System:
-- BRIGHT HORIZON (d dusty, craterized)
-- LONELY MONUMENT (k thick atmosphere)
-- RG-BAR03 (d dusty, craterized)
-- FEEBLE BLUE (f felisian)
-  - PROMIDE (n thin atmosphere)
-  - SEEDS IN GREEN (d dusty, craterized)
-- PLATEAU (r rocky, creased)
-- DEPTHS OF A CRATER (n thin atmosphere)
-- FROZEN SEA (d dusty, craterized)
-- IN DARKNESS (i icy surface)
-  - DESERT ETERNAL (i icy surface)
-  - UNCLEAR HORIZONS (n thin atmosphere)
+BRIGHT HORIZON (d dusty, craterized)
+LONELY MONUMENT (k thick atmosphere)
+RG-BAR03 (d dusty, craterized)
+FEEBLE BLUE (f felisian)
+  PROMIDE (n thin atmosphere)
+  SEEDS IN GREEN (d dusty, craterized)
+PLATEAU (r rocky, creased)
+DEPTHS OF A CRATER (n thin atmosphere)
+FROZEN SEA (d dusty, craterized)
+IN DARKNESS (i icy surface)
+  DESERT ETERNAL (i icy surface)
+  UNCLEAR HORIZONS (n thin atmosphere)
 
 Guide entries:
 STAR DISCOVERS BY CHRIS MARSH, EPOC 6011:566.784

@@ -4,8 +4,8 @@ Paris coordinates: 477136, 4141631, 1067236
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- CAME TO (k thick atmosphere)
-- THIS PLACE (@ large, not consistent)
+CAME TO (k thick atmosphere)
+THIS PLACE (@ large, not consistent)
 
 Guide entries:
  A CLASS S03 SYSTEM OF TWO PLANETS, CAME TO AND THIS PLACE.

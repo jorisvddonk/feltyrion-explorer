@@ -4,5 +4,5 @@ Paris coordinates: 6179984, 5354053, -2432667
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (^ unstable)
-- DEEMI (q quartz surface)
+Planet #0 (^ unstable)
+DEEMI (q quartz surface)

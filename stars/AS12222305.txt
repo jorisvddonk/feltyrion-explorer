@@ -4,4 +4,4 @@ Paris coordinates: 1812400, 720487, 21223818
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- AS12222305A (+ substellar object)
+AS12222305A (+ substellar object)

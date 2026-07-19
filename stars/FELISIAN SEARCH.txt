@@ -4,11 +4,11 @@ Paris coordinates: -1208208, 556423, -221054
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (n thin atmosphere)
+Planet #1 (@ large, not consistent)
+Planet #2 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED BY JUS EPOC 6011.578.525

@@ -4,5 +4,5 @@ Paris coordinates: 2190704, 5111912, 223546
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (q quartz surface)
+Planet #0 (d dusty, craterized)
+Planet #1 (q quartz surface)

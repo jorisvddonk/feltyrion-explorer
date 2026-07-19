@@ -4,18 +4,18 @@ Paris coordinates: 36432, 33110, -633205
 Bodies: 12 (5 planets, 7 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- LIGHTING 2 (d dusty, craterized)
-- LIGHTING 3 (@ large, not consistent)
-  - LIGHTING 3.1 (^ unstable)
-  - LIGHTING 3.2 (k thick atmosphere)
-  - LIGHTING 3.3 (n thin atmosphere)
-  - LIGHTING 3.4 (n thin atmosphere)
-- LIGHTING 4 (r rocky, creased)
-  - LIGHTING 4.1 (n thin atmosphere)
-  - LIGHTING 4.2 (d dusty, craterized)
-- LIGHTING 5 (d dusty, craterized)
-  - LIGHTING 5.1 (^ unstable)
+Planet #0 (n thin atmosphere)
+LIGHTING 2 (d dusty, craterized)
+LIGHTING 3 (@ large, not consistent)
+  LIGHTING 3.1 (^ unstable)
+  LIGHTING 3.2 (k thick atmosphere)
+  LIGHTING 3.3 (n thin atmosphere)
+  LIGHTING 3.4 (n thin atmosphere)
+LIGHTING 4 (r rocky, creased)
+  LIGHTING 4.1 (n thin atmosphere)
+  LIGHTING 4.2 (d dusty, craterized)
+LIGHTING 5 (d dusty, craterized)
+  LIGHTING 5.1 (^ unstable)
 
 Guide entries:
  A CLASS S00 STAR, HIGH HOPES FOR FELYSIAN WORLDS.

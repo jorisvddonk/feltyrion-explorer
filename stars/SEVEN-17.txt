@@ -4,4 +4,4 @@ Paris coordinates: 12961392, 5193931, -4615881
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- THRYORD (+ substellar object)
+THRYORD (+ substellar object)

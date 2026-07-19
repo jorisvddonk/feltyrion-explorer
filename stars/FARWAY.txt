@@ -4,9 +4,9 @@ Paris coordinates: -3127472, 448997, -3067933
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SOMETHINK PINK (k thick atmosphere)
-- LAURAPALMERTOMKINSON (n thin atmosphere)
-- HAIRCUTTIE ZORK (f felisian)
+SOMETHINK PINK (k thick atmosphere)
+LAURAPALMERTOMKINSON (n thin atmosphere)
+HAIRCUTTIE ZORK (f felisian)
 
 Guide entries:
 DISCOVERED BY R.CLEAR EPOC 6011:567.99

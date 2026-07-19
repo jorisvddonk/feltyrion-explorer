@@ -4,8 +4,8 @@ Paris coordinates: 3263568, 6640613, -2224383
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MIDGE (r rocky, creased)
-- FIRE ANT (^ unstable)
+MIDGE (r rocky, creased)
+FIRE ANT (^ unstable)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.188

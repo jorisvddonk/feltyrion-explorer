@@ -4,18 +4,18 @@ Paris coordinates: 2614992, 4349004, -633035
 Bodies: 12 (3 planets, 9 moons)
 
 System:
-- NELONIOUS (n thin atmosphere)
-- DARNOMIOUS (d dusty, craterized)
-- Planet #2 (+ substellar object)
-  - Moon #0 (^ unstable)
-  - Moon #1 (r rocky, creased)
-  - Moon #2 (q quartz surface)
-  - STARSHINE (f felisian)
-  - Moon #4 (k thick atmosphere)
-  - Moon #5 (r rocky, creased)
-  - Moon #6 (d dusty, craterized)
-  - Moon #7 (@ large, not consistent)
-  - Moon #8 (^ unstable)
+NELONIOUS (n thin atmosphere)
+DARNOMIOUS (d dusty, craterized)
+Planet #2 (+ substellar object)
+  Moon #0 (^ unstable)
+  Moon #1 (r rocky, creased)
+  Moon #2 (q quartz surface)
+  STARSHINE (f felisian)
+  Moon #4 (k thick atmosphere)
+  Moon #5 (r rocky, creased)
+  Moon #6 (d dusty, craterized)
+  Moon #7 (@ large, not consistent)
+  Moon #8 (^ unstable)
 
 Guide entries:
  A LIFE SUSTAINING STAR ROUGHLY 30 LY AWAY FROM ANJI

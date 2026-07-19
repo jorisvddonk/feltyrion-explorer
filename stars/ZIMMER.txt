@@ -4,9 +4,9 @@ Paris coordinates: 3917840, 5209488, 158473
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- ELURIA (d dusty, craterized)
-- CARTAUGH (d dusty, craterized)
-- ROARK (r rocky, creased)
+ELURIA (d dusty, craterized)
+CARTAUGH (d dusty, craterized)
+ROARK (r rocky, creased)
 
 Guide entries:
 IF THEIR WERE A BROWN DWARF STAR CONTEST, THIS BROWN DWARF STAR WOULD

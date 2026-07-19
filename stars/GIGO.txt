@@ -4,8 +4,8 @@ Paris coordinates: 6078224, 6311130, -8347966
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MINAMOTO (@ large, not consistent)
-- GENJI (k thick atmosphere)
+MINAMOTO (@ large, not consistent)
+GENJI (k thick atmosphere)
 
 Guide entries:
 A RUNAWAY STAR THAT'S TOWING TWO PLANETS WITH IT, NOT MUCH ELSE DIFFERENT

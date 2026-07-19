@@ -4,15 +4,15 @@ Paris coordinates: 2029806864, -1864014, 355778
 Bodies: 9 (7 planets, 2 moons)
 
 System:
-- CYLIS (r rocky, creased)
-- FHNURS (n thin atmosphere)
-- PEKUALI (k thick atmosphere)
-- ONEBAS (n thin atmosphere)
-- CAVYDORAR (q quartz surface)
-  - PIL (d dusty, craterized)
-  - TIJ (d dusty, craterized)
-- DIDIJAR (@ large, not consistent)
-- CYDASIAHS (q quartz surface)
+CYLIS (r rocky, creased)
+FHNURS (n thin atmosphere)
+PEKUALI (k thick atmosphere)
+ONEBAS (n thin atmosphere)
+CAVYDORAR (q quartz surface)
+  PIL (d dusty, craterized)
+  TIJ (d dusty, craterized)
+DIDIJAR (@ large, not consistent)
+CYDASIAHS (q quartz surface)
 
 Guide entries:
 CLASS S01, 7 PLANETS, 2 MOONS, NO FELISIAN. 23.28927803 BAL. M.             

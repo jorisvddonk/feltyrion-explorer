@@ -4,8 +4,8 @@ Paris coordinates: 2030806864, -2529132, -706012
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASHOSFYL (r rocky, creased)
-- ADIACEAM (k thick atmosphere)
+ASHOSFYL (r rocky, creased)
+ADIACEAM (k thick atmosphere)
 
 Guide entries:
 CLASS S00 WITH TWO PLANETS ONLY, NO FELISIAN. 1.99047482 BAL. M.            

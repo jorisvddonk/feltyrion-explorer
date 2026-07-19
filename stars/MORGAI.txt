@@ -4,10 +4,10 @@ Paris coordinates: -1012144, 819863, 1371743
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- FULGOR (k thick atmosphere)
-- Planet #1 (q quartz surface)
-- Planet #2 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
+FULGOR (k thick atmosphere)
+Planet #1 (q quartz surface)
+Planet #2 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:609.38

@@ -4,4 +4,4 @@ Paris coordinates: 14434256, 32207867, -7450157
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
+Planet #0 (r rocky, creased)

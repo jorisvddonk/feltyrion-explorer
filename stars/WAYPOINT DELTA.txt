@@ -4,10 +4,10 @@ Paris coordinates: -18085200, -20005619, -99786379
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (d dusty, craterized)
-- CO-ORBITAL A (d dusty, craterized)
-  - CO-ORBITAL B (i icy surface)
+Planet #0 (d dusty, craterized)
+Planet #1 (d dusty, craterized)
+CO-ORBITAL A (d dusty, craterized)
+  CO-ORBITAL B (i icy surface)
 
 Guide entries:
 DISCOVERED 6011:573.754 BY SHADOWCLAW

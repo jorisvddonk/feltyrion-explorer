@@ -4,14 +4,14 @@ Paris coordinates: 1974288, 3727656, -2263043
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- DIABLO 2 (d dusty, craterized)
-- X-WING SERIES (@ large, not consistent)
-- BATTLEZONE (q quartz surface)
-- DAGGERFALL (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
-- MECHWARRIOR (d dusty, craterized)
+DIABLO 2 (d dusty, craterized)
+X-WING SERIES (@ large, not consistent)
+BATTLEZONE (q quartz surface)
+DAGGERFALL (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
+MECHWARRIOR (d dusty, craterized)
 
 Guide entries:
 THE HALL OF FAME.GAMES THAT BELONG AMONG THE STARS. FOUND BY...

@@ -4,10 +4,10 @@ Paris coordinates: 2100238704, -1473419, -594011
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- EICUSIK (n thin atmosphere)
-- FHTAVUK (k thick atmosphere)
-- OASEDFHS (k thick atmosphere)
-- IEROD (d dusty, craterized)
+EICUSIK (n thin atmosphere)
+FHTAVUK (k thick atmosphere)
+OASEDFHS (k thick atmosphere)
+IEROD (d dusty, craterized)
 
 Guide entries:
 CLASS S00 4 PLANETS, NO MOONS, NO FELISIAN. 1.88098371 BAL. M.              

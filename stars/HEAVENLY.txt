@@ -4,19 +4,19 @@ Paris coordinates: 3666416, 4676784, -623993
 Bodies: 13 (6 planets, 7 moons)
 
 System:
-- DARLING (d dusty, craterized)
-- POLIRIX (q quartz surface)
-- JUNTAD (+ substellar object)
-  - KERDIN (f felisian)
-  - JANGL (k thick atmosphere)
-- DIVINE (f felisian)
-  - CALIBRED (d dusty, craterized)
-- GALLIANT (f felisian)
-  - VALIN (d dusty, craterized)
-  - XARSIT (d dusty, craterized)
-  - FINJUK (d dusty, craterized)
-- ALEXISE (d dusty, craterized)
-  - GARAGE (d dusty, craterized)
+DARLING (d dusty, craterized)
+POLIRIX (q quartz surface)
+JUNTAD (+ substellar object)
+  KERDIN (f felisian)
+  JANGL (k thick atmosphere)
+DIVINE (f felisian)
+  CALIBRED (d dusty, craterized)
+GALLIANT (f felisian)
+  VALIN (d dusty, craterized)
+  XARSIT (d dusty, craterized)
+  FINJUK (d dusty, craterized)
+ALEXISE (d dusty, craterized)
+  GARAGE (d dusty, craterized)
 
 Guide entries:
 2 FELISIAN ATMOSPHERE PLANET ARE SPOTED HERE.

@@ -4,8 +4,8 @@ Paris coordinates: 2601424, 5543702, -1443982
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (+ substellar object)
-- Planet #2 (f felisian)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (r rocky, creased)
+Planet #0 (@ large, not consistent)
+Planet #1 (+ substellar object)
+Planet #2 (f felisian)
+  Moon #0 (d dusty, craterized)
+Planet #3 (r rocky, creased)

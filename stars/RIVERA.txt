@@ -4,17 +4,17 @@ Paris coordinates: 2267504, 5265996, -3122477
 Bodies: 11 (5 planets, 6 moons)
 
 System:
-- LIZARDO (r rocky, creased)
-- OSICA (q quartz surface)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- REDRICK (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- RISH (f felisian)
-  - NIKKITA (d dusty, craterized)
-  - GARETH (d dusty, craterized)
+LIZARDO (r rocky, creased)
+OSICA (q quartz surface)
+Planet #2 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+REDRICK (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+RISH (f felisian)
+  NIKKITA (d dusty, craterized)
+  GARETH (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY GARY! A EPOC 571:543

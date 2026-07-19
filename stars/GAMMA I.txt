@@ -4,19 +4,19 @@ Paris coordinates: 275216, 3720430, 32304566
 Bodies: 13 (5 planets, 8 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-- XRA (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
-- Planet #4 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (^ unstable)
+Planet #0 (n thin atmosphere)
+Planet #1 (d dusty, craterized)
+Planet #2 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+XRA (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
+Planet #4 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (^ unstable)
 
 Guide entries:
 AN S00 SYSTEM WITH 5 PLANETS AND 8 MOONS, ONE BEING A FELYSIAN WORLD,

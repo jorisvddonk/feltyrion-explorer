@@ -4,5 +4,5 @@ Paris coordinates: -1426042544, 980747, 1436051835
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- LAPROCK (n thin atmosphere)
-- PARTICLE ACCRUEMENT (d dusty, craterized)
+LAPROCK (n thin atmosphere)
+PARTICLE ACCRUEMENT (d dusty, craterized)

@@ -4,14 +4,14 @@ Paris coordinates: 174288, 19297, -474884
 Bodies: 8 (6 planets, 2 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (n thin atmosphere)
-- PONDER (d dusty, craterized)
-- RITUAL (f felisian)
-  - GESTURE (d dusty, craterized)
-  - FLEXURE (d dusty, craterized)
-- SCALAR (n thin atmosphere)
-- DENTIN (d dusty, craterized)
+Planet #0 (@ large, not consistent)
+Planet #1 (n thin atmosphere)
+PONDER (d dusty, craterized)
+RITUAL (f felisian)
+  GESTURE (d dusty, craterized)
+  FLEXURE (d dusty, craterized)
+SCALAR (n thin atmosphere)
+DENTIN (d dusty, craterized)
 
 Guide entries:
 A CLASS S00 SYSTEM WITH 6 PLANETS, TWO MOONS, ONE FELISIAN WORLD.

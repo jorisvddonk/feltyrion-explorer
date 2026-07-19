@@ -4,16 +4,16 @@ Paris coordinates: 4517840, 4625313, -517790
 Bodies: 10 (7 planets, 3 moons)
 
 System:
-- SMIRK (k thick atmosphere)
-- NOT QUITE (+ substellar object)
-- FOREBODING (n thin atmosphere)
-- BOWLING BALL (d dusty, craterized)
-- BELT BUCKLE (k thick atmosphere)
-  - THE OTHER MOON (n thin atmosphere)
-  - SOMETHING AWFUL (n thin atmosphere)
-- SHINIES (q quartz surface)
-- MORE CLOUDS (k thick atmosphere)
-  - A TAD DARK (n thin atmosphere)
+SMIRK (k thick atmosphere)
+NOT QUITE (+ substellar object)
+FOREBODING (n thin atmosphere)
+BOWLING BALL (d dusty, craterized)
+BELT BUCKLE (k thick atmosphere)
+  THE OTHER MOON (n thin atmosphere)
+  SOMETHING AWFUL (n thin atmosphere)
+SHINIES (q quartz surface)
+MORE CLOUDS (k thick atmosphere)
+  A TAD DARK (n thin atmosphere)
 
 Guide entries:
 CLASS SO4, 7 PLANETS AND 3 MOONS

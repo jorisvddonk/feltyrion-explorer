@@ -4,19 +4,19 @@ Paris coordinates: 202512, 4604560, -2872243
 Bodies: 13 (7 planets, 6 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (r rocky, creased)
-  - Moon #0 (^ unstable)
-- Planet #3 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- BETA ALPHA (n thin atmosphere)
-- Planet #5 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-- Planet #6 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (n thin atmosphere)
+Planet #2 (r rocky, creased)
+  Moon #0 (^ unstable)
+Planet #3 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+BETA ALPHA (n thin atmosphere)
+Planet #5 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+Planet #6 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  RED GIANT DISC BY SCAREDY-CAT, EPOC 6011.588.723.

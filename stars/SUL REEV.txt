@@ -4,19 +4,19 @@ Paris coordinates: 1385008, 4875829, -3235634
 Bodies: 13 (5 planets, 8 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (d dusty, craterized)
-  - Moon #0 (i icy surface)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (i icy surface)
-- Planet #4 (@ large, not consistent)
-  - Moon #0 (i icy surface)
-  - Moon #1 (i icy surface)
-  - Moon #2 (i icy surface)
-  - Moon #3 (i icy surface)
-  - Moon #4 (i icy surface)
-  - Moon #5 (q quartz surface)
+Planet #0 (d dusty, craterized)
+Planet #1 (d dusty, craterized)
+Planet #2 (d dusty, craterized)
+  Moon #0 (i icy surface)
+Planet #3 (d dusty, craterized)
+  Moon #0 (i icy surface)
+Planet #4 (@ large, not consistent)
+  Moon #0 (i icy surface)
+  Moon #1 (i icy surface)
+  Moon #2 (i icy surface)
+  Moon #3 (i icy surface)
+  Moon #4 (i icy surface)
+  Moon #5 (q quartz surface)
 
 Guide entries:
 PULSAR 5 PLANETS,8 MINOR BODIES

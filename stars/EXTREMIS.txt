@@ -4,13 +4,13 @@ Paris coordinates: -481072, 199847, 706262
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- EXTREMIS 1 (* companion star)
-  - EXTREMIS 1.1 (+ substellar object)
-- EXTREMIS 2 (d dusty, craterized)
-- EXTREMIS 3 (r rocky, creased)
-  - EXTREMIS 3.1 (d dusty, craterized)
-  - EXTREMIS 3.2 (d dusty, craterized)
-- EXTREMIS 4 (d dusty, craterized)
+EXTREMIS 1 (* companion star)
+  EXTREMIS 1.1 (+ substellar object)
+EXTREMIS 2 (d dusty, craterized)
+EXTREMIS 3 (r rocky, creased)
+  EXTREMIS 3.1 (d dusty, craterized)
+  EXTREMIS 3.2 (d dusty, craterized)
+EXTREMIS 4 (d dusty, craterized)
 
 Guide entries:
 A MULTIPLE SYSTEM, FOUR MAJOR AND THREE MINOR BODIES. LOOKS QUITE

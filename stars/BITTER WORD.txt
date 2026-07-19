@@ -4,14 +4,14 @@ Paris coordinates: 4648912, 5143891, -664846
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (r rocky, creased)
-- Planet #2 (r rocky, creased)
-- Planet #3 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- IMP'S LAUGH (f felisian)
-  - IMP'S CACKLE (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (r rocky, creased)
+Planet #2 (r rocky, creased)
+Planet #3 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+IMP'S LAUGH (f felisian)
+  IMP'S CACKLE (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  THIS SYSTEM DISCOVERED BY BRINE.

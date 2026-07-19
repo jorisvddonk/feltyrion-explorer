@@ -4,8 +4,8 @@ Paris coordinates: 3659632, 4627550, -1125826
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DON'T LAND HERE (n thin atmosphere)
-- DO NOT LAND HERE (k thick atmosphere)
+DON'T LAND HERE (n thin atmosphere)
+DO NOT LAND HERE (k thick atmosphere)
 
 Guide entries:
  DO NOT COME HERE YOU WIL ONLY FIND DEATH AND DARKNESS.                     

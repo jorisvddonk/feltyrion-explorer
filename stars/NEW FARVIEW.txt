@@ -4,8 +4,8 @@ Paris coordinates: -32496, 51707498, -934078
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ECCE CANCELLI (+ substellar object)
-- ANIMADVERSOR (@ large, not consistent)
+ECCE CANCELLI (+ substellar object)
+ANIMADVERSOR (@ large, not consistent)
 
 Guide entries:
  A CLASS S00 STAR WITH 2 PLANETS, NO MOONS, NO FELISIAN. THIS               

@@ -4,10 +4,10 @@ Paris coordinates: 3903184, -41353, 3093622
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- ASKEW 181A (q quartz surface)
-- ASKEW 181B (q quartz surface)
-- ASKEW 181C (r rocky, creased)
-- ASKEW 181D (q quartz surface)
-  - ASKEW 181D1 (d dusty, craterized)
-  - ASKEW 181D2 (d dusty, craterized)
-- ASKEW181E (d dusty, craterized)
+ASKEW 181A (q quartz surface)
+ASKEW 181B (q quartz surface)
+ASKEW 181C (r rocky, creased)
+ASKEW 181D (q quartz surface)
+  ASKEW 181D1 (d dusty, craterized)
+  ASKEW 181D2 (d dusty, craterized)
+ASKEW181E (d dusty, craterized)

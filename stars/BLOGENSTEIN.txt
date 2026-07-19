@@ -4,5 +4,5 @@ Paris coordinates: 1039280, 1848638, 421636
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- OPOC (d dusty, craterized)
-- REG (q quartz surface)
+OPOC (d dusty, craterized)
+REG (q quartz surface)

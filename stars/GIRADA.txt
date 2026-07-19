@@ -4,18 +4,18 @@ Paris coordinates: 5594640, -64060639, -4847695
 Bodies: 12 (7 planets, 5 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (d dusty, craterized)
-- MAVI (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (^ unstable)
-- Planet #4 (d dusty, craterized)
-- Planet #5 (r rocky, creased)
-- Planet #6 (d dusty, craterized)
-  - Moon #0 (n thin atmosphere)
+Planet #0 (n thin atmosphere)
+Planet #1 (d dusty, craterized)
+MAVI (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+  Moon #0 (^ unstable)
+Planet #4 (d dusty, craterized)
+Planet #5 (r rocky, creased)
+Planet #6 (d dusty, craterized)
+  Moon #0 (n thin atmosphere)
 
 Guide entries:
 WITHIN VIEW OF THE WALL OF STARS

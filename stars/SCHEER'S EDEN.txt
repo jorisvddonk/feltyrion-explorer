@@ -4,18 +4,18 @@ Paris coordinates: 1846064, 5242059, -16
 Bodies: 12 (8 planets, 4 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (f felisian)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (f felisian)
-- Planet #4 (d dusty, craterized)
-  - Moon #0 (n thin atmosphere)
-- Planet #5 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #6 (d dusty, craterized)
-  - Moon #0 (n thin atmosphere)
-- Planet #7 (r rocky, creased)
+Planet #0 (r rocky, creased)
+Planet #1 (d dusty, craterized)
+Planet #2 (f felisian)
+  Moon #0 (d dusty, craterized)
+Planet #3 (f felisian)
+Planet #4 (d dusty, craterized)
+  Moon #0 (n thin atmosphere)
+Planet #5 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #6 (d dusty, craterized)
+  Moon #0 (n thin atmosphere)
+Planet #7 (r rocky, creased)
 
 Guide entries:
  THE PLANET EDEN 1 IN THIS S00 SYSTEM IS APTLY NAMED, PERFECT               

@@ -4,7 +4,7 @@ Paris coordinates: -118928, -63154, 59862
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- QUOST (q quartz surface)
+QUOST (q quartz surface)
 
 Guide entries:
 AN S00 STAR WITH A SINGLE PLANET. 9 LIGHT YEARS FROM FELYSIA.

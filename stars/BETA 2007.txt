@@ -4,4 +4,4 @@ Paris coordinates: 3470352, 5685543, -2236848
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BETA 2007/1 (r rocky, creased)
+BETA 2007/1 (r rocky, creased)

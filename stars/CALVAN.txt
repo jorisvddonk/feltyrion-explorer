@@ -4,9 +4,9 @@ Paris coordinates: 5004272, 4297120, -1734609
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- FOLCIS (k thick atmosphere)
-- POCTUS (d dusty, craterized)
-- ACRISUS (r rocky, creased)
-- GLARCE (^ unstable)
-- SERAPHIME (@ large, not consistent)
-- MIROCEA (@ large, not consistent)
+FOLCIS (k thick atmosphere)
+POCTUS (d dusty, craterized)
+ACRISUS (r rocky, creased)
+GLARCE (^ unstable)
+SERAPHIME (@ large, not consistent)
+MIROCEA (@ large, not consistent)

@@ -4,7 +4,7 @@ Paris coordinates: 634478448, -11024256, 49376256
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASIEJA (n thin atmosphere)
+ASIEJA (n thin atmosphere)
 
 Guide entries:
 A CLASS S03 SYSTEM WITH ONE PLANET. ARRIVED HERE DUE TO TECHNICAL           

@@ -4,11 +4,11 @@ Paris coordinates: 3081072, 7069688, -3236482
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- HALLID (d dusty, craterized)
-- RINGUS (r rocky, creased)
-- PURPUM (n thin atmosphere)
-  - ICEY MOON (i icy surface)
-  - CRUSTY (d dusty, craterized)
+HALLID (d dusty, craterized)
+RINGUS (r rocky, creased)
+PURPUM (n thin atmosphere)
+  ICEY MOON (i icy surface)
+  CRUSTY (d dusty, craterized)
 
 Guide entries:
 SYSTEM EXPLORED AND DISCOVERED BY RAPTORJEDI EPOC 6011 605.196

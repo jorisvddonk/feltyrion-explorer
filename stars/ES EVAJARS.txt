@@ -4,8 +4,8 @@ Paris coordinates: 2032566160, -781645, -4655133
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KSICIS (q quartz surface)
-- KSIMYS (r rocky, creased)
+KSICIS (q quartz surface)
+KSIMYS (r rocky, creased)
 
 Guide entries:
 CLASS S00, ONLY 2 PLANETS. 2.38563323 BAL/ M/ TEMP 9631 K RAD 15KR          

@@ -4,5 +4,5 @@ Paris coordinates: 325712, -677693, 291737
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (+ substellar object)
+Planet #0 (r rocky, creased)
+Planet #1 (+ substellar object)

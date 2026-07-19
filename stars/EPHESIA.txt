@@ -4,5 +4,5 @@ Paris coordinates: 3390704, 4578474, -925857
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- VANIUS (+ substellar object)
+Planet #0 (+ substellar object)
+VANIUS (+ substellar object)

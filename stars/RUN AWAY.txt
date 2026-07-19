@@ -4,5 +4,5 @@ Paris coordinates: -470352, 640152, -549872
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- THE FOLLOWER (n thin atmosphere)
-- IN TOW (n thin atmosphere)
+THE FOLLOWER (n thin atmosphere)
+IN TOW (n thin atmosphere)

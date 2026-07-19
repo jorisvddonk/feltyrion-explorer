@@ -4,8 +4,8 @@ Paris coordinates: -325712, 431538, 23415
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MISRAL (n thin atmosphere)
-- PINDISMONT (r rocky, creased)
+MISRAL (n thin atmosphere)
+PINDISMONT (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY LOGAN WALKER, EPOC 6011.612.808

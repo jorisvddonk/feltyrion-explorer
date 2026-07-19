@@ -4,9 +4,9 @@ Paris coordinates: 394640, 321424, 345557
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- TEALSTAR 1 (d dusty, craterized)
-- TEALSTAR 2 (q quartz surface)
-- TEALSTAR 3 (^ unstable)
+TEALSTAR 1 (d dusty, craterized)
+TEALSTAR 2 (q quartz surface)
+TEALSTAR 3 (^ unstable)
 
 Guide entries:
 A BLUE GIANT (S01) WITH THREE PLANETS, NO MOONS. SERPENS,

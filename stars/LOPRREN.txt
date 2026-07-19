@@ -4,8 +4,8 @@ Paris coordinates: -25369360, -19354601, -449041653
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- LOPRREN 1 (q quartz surface)
-- LOPRREN 2 (r rocky, creased)
+LOPRREN 1 (q quartz surface)
+LOPRREN 2 (r rocky, creased)
 
 Guide entries:
 (DISCOVERED 6011:577.841 BY SHADOWCLAW)

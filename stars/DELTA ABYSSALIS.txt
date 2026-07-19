@@ -4,10 +4,10 @@ Paris coordinates: 7029904, -16790780, 15131002
 Bodies: 7 (3 planets, 4 moons)
 
 System:
-- DELTA ABYSSALIS 1 (d dusty, craterized)
-- DELTA ABYSSALIS 2 (@ large, not consistent)
-- DELTS ABYSSALIS 3 (@ large, not consistent)
-  - DELTA ABYSSALIS 3A (i icy surface)
-  - DELTA ABYSSALIS 3B (k thick atmosphere)
-  - DELTA ABYSSALIS 3C (^ unstable)
-  - DELTA ABYSSALIS 3D (i icy surface)
+DELTA ABYSSALIS 1 (d dusty, craterized)
+DELTA ABYSSALIS 2 (@ large, not consistent)
+DELTS ABYSSALIS 3 (@ large, not consistent)
+  DELTA ABYSSALIS 3A (i icy surface)
+  DELTA ABYSSALIS 3B (k thick atmosphere)
+  DELTA ABYSSALIS 3C (^ unstable)
+  DELTA ABYSSALIS 3D (i icy surface)

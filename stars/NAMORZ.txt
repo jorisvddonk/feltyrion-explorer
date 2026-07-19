@@ -4,8 +4,8 @@ Paris coordinates: 3635344, 4813073, -460792
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ROG (n thin atmosphere)
-- GHOLFISH (n thin atmosphere)
+ROG (n thin atmosphere)
+GHOLFISH (n thin atmosphere)
 
 Guide entries:
 STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:571:12

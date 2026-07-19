@@ -4,17 +4,17 @@ Paris coordinates: 12144, 54769, -119378
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (+ substellar object)
-- TRENYI (f felisian)
-  - Moon #0 (^ unstable)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
-- Planet #3 (r rocky, creased)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- Planet #4 (n thin atmosphere)
-- Planet #5 (k thick atmosphere)
+Planet #0 (r rocky, creased)
+Planet #1 (+ substellar object)
+TRENYI (f felisian)
+  Moon #0 (^ unstable)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)
+Planet #3 (r rocky, creased)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+Planet #4 (n thin atmosphere)
+Planet #5 (k thick atmosphere)
 
 Guide entries:
  CLASS 00 WITH A FELISIAN PLANET.

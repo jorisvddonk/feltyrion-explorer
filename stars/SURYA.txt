@@ -4,14 +4,14 @@ Paris coordinates: 5262480, 4636210, -419139
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- GYMNOS (r rocky, creased)
-- DISKOBOLOS (@ large, not consistent)
-- ALPINUS (f felisian)
-  - ALPINULA (d dusty, craterized)
-- EREMUS (n thin atmosphere)
-  - EREMULA (n thin atmosphere)
-- UBERRIMUS (f felisian)
-  - ADVERSA (d dusty, craterized)
+GYMNOS (r rocky, creased)
+DISKOBOLOS (@ large, not consistent)
+ALPINUS (f felisian)
+  ALPINULA (d dusty, craterized)
+EREMUS (n thin atmosphere)
+  EREMULA (n thin atmosphere)
+UBERRIMUS (f felisian)
+  ADVERSA (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY JAVIER, 6011:686.109.                                         

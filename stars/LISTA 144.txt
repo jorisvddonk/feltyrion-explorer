@@ -4,6 +4,6 @@ Paris coordinates: 500379248, -1983962, 45510
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- EDOFIRK (d dusty, craterized)
-- ATHRIRK (d dusty, craterized)
-- CHOED (r rocky, creased)
+EDOFIRK (d dusty, craterized)
+ATHRIRK (d dusty, craterized)
+CHOED (r rocky, creased)

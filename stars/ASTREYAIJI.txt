@@ -4,11 +4,11 @@ Paris coordinates: 2141033520, -2063295, 879601
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- RYBEJMY (q quartz surface)
-- ASTREYAIJI B (* companion star)
-- POJDUO (r rocky, creased)
-  - KEDH (^ unstable)
-  - JNAA (d dusty, craterized)
+RYBEJMY (q quartz surface)
+ASTREYAIJI B (* companion star)
+POJDUO (r rocky, creased)
+  KEDH (^ unstable)
+  JNAA (d dusty, craterized)
 
 Guide entries:
 A CLASS S08 WITH TWO STELLAR BODIES, 2 OTHER PLANETS, 2 MOONS, NO           

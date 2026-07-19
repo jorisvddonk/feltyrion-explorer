@@ -4,8 +4,8 @@ Paris coordinates: 3001424, 4265776, -1907110
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- QWAR ZO 1 (q quartz surface)
-- ROCAVERDE (r rocky, creased)
-- PINBALLOOK (@ large, not consistent)
-  - LUNAVERDE (k thick atmosphere)
-  - CLADYLUN (k thick atmosphere)
+QWAR ZO 1 (q quartz surface)
+ROCAVERDE (r rocky, creased)
+PINBALLOOK (@ large, not consistent)
+  LUNAVERDE (k thick atmosphere)
+  CLADYLUN (k thick atmosphere)

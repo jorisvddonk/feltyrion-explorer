@@ -4,8 +4,8 @@ Paris coordinates: -1405936848, -37219, 1420171837
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Z-X001 I (n thin atmosphere)
-- Z-X001 II (@ large, not consistent)
+Z-X001 I (n thin atmosphere)
+Z-X001 II (@ large, not consistent)
 
 Guide entries:
 AN S00 STAR AT THE VERY EDGE OF THE GALAXY. ONLY HAS TWO PLANETS,

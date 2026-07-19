@@ -4,8 +4,8 @@ Paris coordinates: 1239280, 487133, 187162
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MALA (r rocky, creased)
-- LENORE (r rocky, creased)
+MALA (r rocky, creased)
+LENORE (r rocky, creased)
 
 Guide entries:
 STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.317

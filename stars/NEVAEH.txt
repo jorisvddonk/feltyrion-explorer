@@ -4,8 +4,8 @@ Paris coordinates: 4853936, 5878081, -6437847
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- EMOR (@ large, not consistent)
-- GHEE (n thin atmosphere)
+EMOR (@ large, not consistent)
+GHEE (n thin atmosphere)
 
 Guide entries:
 ONE OF THOSE WONDERFULL S00 STARS THAT ARE CAPABLE OF SUPPORTING LIFE.

@@ -4,8 +4,8 @@ Paris coordinates: 4379984, 4752941, -462900
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- WRAECA-1 (q quartz surface)
-- Planet #1 (r rocky, creased)
+WRAECA-1 (q quartz surface)
+Planet #1 (r rocky, creased)
 
 Guide entries:
 CLASS 10 RUNAWAY STAR WITH TWO PLANETS. (NAMMYUNG, 6011.561.211)

@@ -4,5 +4,5 @@ Paris coordinates: -70979568, -748790, 53950431
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GREEN-GREY (k thick atmosphere)
-- BOOM! (@ large, not consistent)
+GREEN-GREY (k thick atmosphere)
+BOOM! (@ large, not consistent)

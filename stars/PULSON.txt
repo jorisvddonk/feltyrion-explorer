@@ -4,5 +4,5 @@ Paris coordinates: 2373200, 4824218, 1104668
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- OPTI LAGI (d dusty, craterized)
-- GHIRO (@ large, not consistent)
+OPTI LAGI (d dusty, craterized)
+GHIRO (@ large, not consistent)

@@ -4,9 +4,9 @@ Paris coordinates: -62328656, 29573975, -169193
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- TYPHOID (r rocky, creased)
-- UNFORTUNATE (d dusty, craterized)
-- MORGUE (q quartz surface)
+TYPHOID (r rocky, creased)
+UNFORTUNATE (d dusty, craterized)
+MORGUE (q quartz surface)
 
 Guide entries:
 SMALL SYSTEM DISCOVERED BY MCWGOGS, EPOC 6011.648.602

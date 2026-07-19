@@ -4,10 +4,10 @@ Paris coordinates: -1996709872, 7885, 1308189
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- BYENTI B (* companion star)
-  - YIEKNA (+ substellar object)
-  - OPLETIK (r rocky, creased)
-- YEKTEN (r rocky, creased)
+BYENTI B (* companion star)
+  YIEKNA (+ substellar object)
+  OPLETIK (r rocky, creased)
+YEKTEN (r rocky, creased)
 
 Guide entries:
 A BINARY S08 SYSTEM, OF WHAT APPEARS TO BE S00-ISH STARS. 2 PLANETS,        

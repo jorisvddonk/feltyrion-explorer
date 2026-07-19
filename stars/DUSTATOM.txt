@@ -4,8 +4,8 @@ Paris coordinates: 5866416, 5015831, -2982963
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DUST I (d dusty, craterized)
-- DUST II (d dusty, craterized)
+DUST I (d dusty, craterized)
+DUST II (d dusty, craterized)
 
 Guide entries:
 FURTHER NOTES: A CLASS S00 SYSTEM OF TWO DUSTY WORLDS. SKINNYMON EPOC

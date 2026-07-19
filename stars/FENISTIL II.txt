@@ -4,5 +4,5 @@ Paris coordinates: 4083920, 4839555, -2094433
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ROKSA (q quartz surface)
-- TORRADA (r rocky, creased)
+ROKSA (q quartz surface)
+TORRADA (r rocky, creased)

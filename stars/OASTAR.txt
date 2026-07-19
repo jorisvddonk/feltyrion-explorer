@@ -4,10 +4,10 @@ Paris coordinates: 2147116240, 581198, 1910352254
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- OASTAR PRIMUS (k thick atmosphere)
-- OASTAR SECUNDUS (r rocky, creased)
-- OASTAR TRIACUS (k thick atmosphere)
-  - OASTAR SECPRIMUS (^ unstable)
+OASTAR PRIMUS (k thick atmosphere)
+OASTAR SECUNDUS (r rocky, creased)
+OASTAR TRIACUS (k thick atmosphere)
+  OASTAR SECPRIMUS (^ unstable)
 
 Guide entries:
 DISCOVEREDBY DODO C. SNOTTS - 6011:587.693

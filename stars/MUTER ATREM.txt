@@ -4,7 +4,7 @@ Paris coordinates: -14992, 110746570, -1832614
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LUBERTAKRE (q quartz surface)
+LUBERTAKRE (q quartz surface)
 
 Guide entries:
 LI+ ION EMITTING S05 WITH ONE QUARTZ PLANET. I FOUND MYSELF IN PITCH        

@@ -4,8 +4,8 @@ Paris coordinates: -418928, 58343, 349670
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DEAD FRIEND (r rocky, creased)
-- STARSHADOW (n thin atmosphere)
+DEAD FRIEND (r rocky, creased)
+STARSHADOW (n thin atmosphere)
 
 Guide entries:
 BLUE GIANT WITH A SURPRISINGLY SMALL AMOUNT OF BODIES -- TWO PLANETS AND

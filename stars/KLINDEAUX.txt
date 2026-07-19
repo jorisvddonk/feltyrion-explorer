@@ -4,8 +4,8 @@ Paris coordinates: 2147371600, 1054315, 1909573915
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KLINDEAUX PRIMUS (@ large, not consistent)
-- KLINDEAUX SECUNDUS (+ substellar object)
+KLINDEAUX PRIMUS (@ large, not consistent)
+KLINDEAUX SECUNDUS (+ substellar object)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011.587:691

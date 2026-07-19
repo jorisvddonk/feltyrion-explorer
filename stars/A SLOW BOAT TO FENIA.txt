@@ -4,10 +4,10 @@ Paris coordinates: 114992, 2253182, 1785282
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- DELUSIVE ROCK (d dusty, craterized)
-- FAIRLY ALONE (* companion star)
-  - TAKEN ASUNDER (^ unstable)
-- LICKED WHOPPER (d dusty, craterized)
+DELUSIVE ROCK (d dusty, craterized)
+FAIRLY ALONE (* companion star)
+  TAKEN ASUNDER (^ unstable)
+LICKED WHOPPER (d dusty, craterized)
 
 Guide entries:
 S08 OF THE S03 VARIETY. RYAN GJK E6011.800.737                              

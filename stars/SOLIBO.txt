@@ -4,13 +4,13 @@ Paris coordinates: 832496, -6513, 200211
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- BALBOHA (r rocky, creased)
-- BHORED (d dusty, craterized)
-- KRATER (d dusty, craterized)
-- VIVIM (f felisian)
-- SECOND CHANCE (f felisian)
-- FROMSI (q quartz surface)
-- MUSBIKIDIN (f felisian)
+BALBOHA (r rocky, creased)
+BHORED (d dusty, craterized)
+KRATER (d dusty, craterized)
+VIVIM (f felisian)
+SECOND CHANCE (f felisian)
+FROMSI (q quartz surface)
+MUSBIKIDIN (f felisian)
 
 Guide entries:
 DISCOVERED EPOC 6011:572.268 BY F.WISARD. 7 PLANETS, NO MOON.

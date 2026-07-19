@@ -4,7 +4,7 @@ Paris coordinates: 1964656, 5605759, -4837428
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- KANOPI ALPHA (n thin atmosphere)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+KANOPI ALPHA (n thin atmosphere)
+Planet #1 (@ large, not consistent)
+Planet #2 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)

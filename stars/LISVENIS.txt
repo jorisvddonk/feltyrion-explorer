@@ -4,7 +4,7 @@ Paris coordinates: 10518928, 103431, -10269038
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ANDENSIL (@ large, not consistent)
+ANDENSIL (@ large, not consistent)
 
 Guide entries:
 A CLASS S00 SYSTEM OF ONE NOPLANET. SKINNYMON POC 6011 603.719

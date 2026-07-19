@@ -4,13 +4,13 @@ Paris coordinates: 26546832, 6418955, 44905877
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- GRIWL (@ large, not consistent)
-- GLIGHT (@ large, not consistent)
-- OOLIVE (k thick atmosphere)
-  - ORYRO (^ unstable)
-  - ARMEDGELY (d dusty, craterized)
-- JUNGELGE (f felisian)
-- LUMREGE (d dusty, craterized)
+GRIWL (@ large, not consistent)
+GLIGHT (@ large, not consistent)
+OOLIVE (k thick atmosphere)
+  ORYRO (^ unstable)
+  ARMEDGELY (d dusty, craterized)
+JUNGELGE (f felisian)
+LUMREGE (d dusty, craterized)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER. S00 STAR WITH 5 PLANETS AND 2 MOONS.

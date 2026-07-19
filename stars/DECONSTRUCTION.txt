@@ -4,9 +4,9 @@ Paris coordinates: 3452848, 4418536, -1229104
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- THREE SISTERS (r rocky, creased)
-- TWIN SPIRES (q quartz surface)
-- HOWLER (@ large, not consistent)
+THREE SISTERS (r rocky, creased)
+TWIN SPIRES (q quartz surface)
+HOWLER (@ large, not consistent)
 
 Guide entries:
 THIS SYSTEM OF THREE PLANETS, THOUGH PERHAPS NOT VERY STRIKING

@@ -4,10 +4,10 @@ Paris coordinates: 4421776, 4201041, -2115273
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- EXEQUIES (r rocky, creased)
-- TEEL (r rocky, creased)
-- PONCIANA (d dusty, craterized)
-- COLUMBARIUM (d dusty, craterized)
+EXEQUIES (r rocky, creased)
+TEEL (r rocky, creased)
+PONCIANA (d dusty, craterized)
+COLUMBARIUM (d dusty, craterized)
 
 Guide entries:
 A CLASS S03 STAR WITH 4 PLANETS, NO MOONS.

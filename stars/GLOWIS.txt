@@ -4,10 +4,10 @@ Paris coordinates: 26615760, 6310886, 44914671
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- DARKENES (n thin atmosphere)
-- SHIMMEES (@ large, not consistent)
-- TRIENI (d dusty, craterized)
-  - DLEEIM (d dusty, craterized)
+DARKENES (n thin atmosphere)
+SHIMMEES (@ large, not consistent)
+TRIENI (d dusty, craterized)
+  DLEEIM (d dusty, craterized)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER. S11 STAR WITH 3 PLANETS AND ONE MOON.

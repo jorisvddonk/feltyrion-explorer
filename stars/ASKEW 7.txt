@@ -4,5 +4,5 @@ Paris coordinates: 2605360, 5598140, -3197526
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BOGEYMAN (k thick atmosphere)
-- FLYON (@ large, not consistent)
+BOGEYMAN (k thick atmosphere)
+FLYON (@ large, not consistent)

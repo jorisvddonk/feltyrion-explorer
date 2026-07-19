@@ -4,8 +4,8 @@ Paris coordinates: 2152848, 5035234, 135677
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- SPEKLE (q quartz surface)
+Planet #0 (d dusty, craterized)
+SPEKLE (q quartz surface)
 
 Guide entries:
 DISCOVERED BY POKECAT(6011.995.923)

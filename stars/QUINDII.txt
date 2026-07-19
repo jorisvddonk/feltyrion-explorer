@@ -4,7 +4,7 @@ Paris coordinates: 1400957584, 903522, 54505154
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- QUINDII PRIME (n thin atmosphere)
+QUINDII PRIME (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:788.770

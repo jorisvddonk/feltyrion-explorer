@@ -4,9 +4,9 @@ Paris coordinates: 3446064, 5308620, -1544961
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- VAURIS (k thick atmosphere)
-- SATVA BETA (* companion star)
-- CALETHANIA (d dusty, craterized)
+VAURIS (k thick atmosphere)
+SATVA BETA (* companion star)
+CALETHANIA (d dusty, craterized)
 
 Guide entries:
 STAR FOUND BY STARDRIFTER FRACTUS, EPOC 6011:573.354.

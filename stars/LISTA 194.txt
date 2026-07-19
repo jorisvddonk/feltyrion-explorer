@@ -4,7 +4,7 @@ Paris coordinates: 1000201712, -1902776, -171556
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FHBALAS (r rocky, creased)
+FHBALAS (r rocky, creased)
 
 Guide entries:
 ALL THIS WAY FOR A S05 STAR WITH ONE PLANET AND SOME LITHIUM.

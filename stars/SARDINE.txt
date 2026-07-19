@@ -4,13 +4,13 @@ Paris coordinates: 1432496, 1430211, -367094
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- SARVAK (d dusty, craterized)
-- SARFAIR (@ large, not consistent)
-- SARCRATS (d dusty, craterized)
-  - SARBLOO (d dusty, craterized)
-- SARBLAK (n thin atmosphere)
-  - SARBLAK ICE (i icy surface)
-- SARDARK (d dusty, craterized)
+SARVAK (d dusty, craterized)
+SARFAIR (@ large, not consistent)
+SARCRATS (d dusty, craterized)
+  SARBLOO (d dusty, craterized)
+SARBLAK (n thin atmosphere)
+  SARBLAK ICE (i icy surface)
+SARDARK (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY BJS EPOC 6011:584.195

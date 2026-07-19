@@ -4,9 +4,9 @@ Paris coordinates: 10976304, -19140498, 17624050
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- ASKEW 89A (n thin atmosphere)
-- ASKEW 89B (+ substellar object)
-- ASKEW 89C (n thin atmosphere)
-  - ASKEW 89C1 (d dusty, craterized)
-- ASKEW 89D (d dusty, craterized)
-- ASKEW 89E (^ unstable)
+ASKEW 89A (n thin atmosphere)
+ASKEW 89B (+ substellar object)
+ASKEW 89C (n thin atmosphere)
+  ASKEW 89C1 (d dusty, craterized)
+ASKEW 89D (d dusty, craterized)
+ASKEW 89E (^ unstable)

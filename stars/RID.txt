@@ -4,7 +4,7 @@ Paris coordinates: -605360, 444115, 1341802
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ECLI (d dusty, craterized)
+ECLI (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.425

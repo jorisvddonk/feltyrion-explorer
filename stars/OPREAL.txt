@@ -4,14 +4,14 @@ Paris coordinates: 1399800656, 1324598, 1398935270
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- OPREAL PRIMUS (k thick atmosphere)
-- OPREAL SECUNDUS (q quartz surface)
-- OPREAL TRIACUS (n thin atmosphere)
-- PREAL QUADREX (r rocky, creased)
-- OPREAL QUINTUS (r rocky, creased)
-- OPREAL SEXTANE (+ substellar object)
-- OPREAL SEPTUS (+ substellar object)
-- OPREAL OCTILLE (d dusty, craterized)
+OPREAL PRIMUS (k thick atmosphere)
+OPREAL SECUNDUS (q quartz surface)
+OPREAL TRIACUS (n thin atmosphere)
+PREAL QUADREX (r rocky, creased)
+OPREAL QUINTUS (r rocky, creased)
+OPREAL SEXTANE (+ substellar object)
+OPREAL SEPTUS (+ substellar object)
+OPREAL OCTILLE (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:601.222

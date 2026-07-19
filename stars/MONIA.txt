@@ -4,8 +4,8 @@ Paris coordinates: 3231408, 6205429, 1583335
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- HEADRING (k thick atmosphere)
-- KENNELIA (n thin atmosphere)
+HEADRING (k thick atmosphere)
+KENNELIA (n thin atmosphere)
 
 Guide entries:
 DISCOVERED EPOC 6012 060.111

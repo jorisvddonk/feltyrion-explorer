@@ -4,8 +4,8 @@ Paris coordinates: 5476048, 4366316, -28049
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ST'PRINCESSE (@ large, not consistent)
-- ST'TCHO (@ large, not consistent)
+ST'PRINCESSE (@ large, not consistent)
+ST'TCHO (@ large, not consistent)
 
 Guide entries:
  DISCOVERED BY SAREK BLUES, EPOC 565.930

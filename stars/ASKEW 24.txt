@@ -4,6 +4,6 @@ Paris coordinates: 11658800, -20075646, 17809222
 Bodies: 3 (1 planets, 2 moons)
 
 System:
-- ASKEW 24A (* companion star)
-  - ASKEW 24A1 (n thin atmosphere)
-  - MONITOR (k thick atmosphere)
+ASKEW 24A (* companion star)
+  ASKEW 24A1 (n thin atmosphere)
+  MONITOR (k thick atmosphere)

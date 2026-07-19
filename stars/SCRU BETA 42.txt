@@ -4,8 +4,8 @@ Paris coordinates: 3552848, 4345109, -1320773
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- LEO (r rocky, creased)
+Planet #0 (n thin atmosphere)
+LEO (r rocky, creased)
 
 Guide entries:
 NAMED EPOC 6011 - 517.613 BY SCOTT GOWELL

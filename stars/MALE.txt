@@ -4,5 +4,5 @@ Paris coordinates: 14743888, 8128644, -5322083
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MALE I (q quartz surface)
-- MALE II (q quartz surface)
+MALE I (q quartz surface)
+MALE II (q quartz surface)

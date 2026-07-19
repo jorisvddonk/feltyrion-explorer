@@ -4,7 +4,7 @@ Paris coordinates: -185008, 1137954, 2105182
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- ATMOSPHERIC ORB (* companion star)
-  - VIBRATING SPRAYS (^ unstable)
-  - AUMESAS (r rocky, creased)
-- THREE SPIRES (d dusty, craterized)
+ATMOSPHERIC ORB (* companion star)
+  VIBRATING SPRAYS (^ unstable)
+  AUMESAS (r rocky, creased)
+THREE SPIRES (d dusty, craterized)

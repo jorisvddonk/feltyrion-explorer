@@ -4,13 +4,13 @@ Paris coordinates: -56784, 15693, -129542
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- ABSYSTRALIS (k thick atmosphere)
-- ABSYCRALIS (k thick atmosphere)
-- ABSERYALIS (k thick atmosphere)
-  - FAL ARPHIURIS (^ unstable)
-  - TRESCRALUN (d dusty, craterized)
-- SURICRASIA (f felisian)
-- RESORACKA-OLUN (n thin atmosphere)
+ABSYSTRALIS (k thick atmosphere)
+ABSYCRALIS (k thick atmosphere)
+ABSERYALIS (k thick atmosphere)
+  FAL ARPHIURIS (^ unstable)
+  TRESCRALUN (d dusty, craterized)
+SURICRASIA (f felisian)
+RESORACKA-OLUN (n thin atmosphere)
 
 Guide entries:
 A SYSTEM WITH A WONDERFUL ASSORTMENT OF PLANETS.

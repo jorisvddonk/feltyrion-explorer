@@ -4,12 +4,12 @@ Paris coordinates: 5751088, 5886481, -9621758
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- WODEFAZ TAV (k thick atmosphere)
-- WODEFAZ SAM (k thick atmosphere)
-- WODEFAZ XREE (k thick atmosphere)
-- RAFED TAN (d dusty, craterized)
-- RAFED SAAD (d dusty, craterized)
-  - RAFED JUM (d dusty, craterized)
+WODEFAZ TAV (k thick atmosphere)
+WODEFAZ SAM (k thick atmosphere)
+WODEFAZ XREE (k thick atmosphere)
+RAFED TAN (d dusty, craterized)
+RAFED SAAD (d dusty, craterized)
+  RAFED JUM (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY NALIX ON 6011.629.978

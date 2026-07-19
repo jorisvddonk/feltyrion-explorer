@@ -4,10 +4,10 @@ Paris coordinates: 785008, 4963289, -2548483
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- KURL (n thin atmosphere)
-- IADA (n thin atmosphere)
-- BAZEED (d dusty, craterized)
-- GIEX (d dusty, craterized)
+KURL (n thin atmosphere)
+IADA (n thin atmosphere)
+BAZEED (d dusty, craterized)
+GIEX (d dusty, craterized)
 
 Guide entries:
 PULSAR-HAS 4 PLANETS

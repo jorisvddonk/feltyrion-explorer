@@ -4,4 +4,4 @@ Paris coordinates: 3759632, 4675620, -1311623
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TSCHWIKO (+ substellar object)
+TSCHWIKO (+ substellar object)

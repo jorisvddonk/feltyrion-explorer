@@ -4,7 +4,7 @@ Paris coordinates: 570352, 82257, 668065
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- CLOUD STRIFE (k thick atmosphere)
-- ALEIE (q quartz surface)
-- Planet #2 (q quartz surface)
-- Planet #3 (d dusty, craterized)
+CLOUD STRIFE (k thick atmosphere)
+ALEIE (q quartz surface)
+Planet #2 (q quartz surface)
+Planet #3 (d dusty, craterized)

@@ -4,8 +4,8 @@ Paris coordinates: 67587696, -2842, -30635287
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NOYACUSNA (k thick atmosphere)
-- SEYCUSNA (d dusty, craterized)
+NOYACUSNA (k thick atmosphere)
+SEYCUSNA (d dusty, craterized)
 
 Guide entries:
 LI+ ION EMITTING S05. DISCOVERED BY NEUZD, 6011:789.358                     

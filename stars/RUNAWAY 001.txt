@@ -4,8 +4,8 @@ Paris coordinates: 1401424, 1815338, -219861
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (+ substellar object)
+Planet #0 (d dusty, craterized)
+Planet #1 (+ substellar object)
 
 Guide entries:
  DEMENTO WUZ HERE.

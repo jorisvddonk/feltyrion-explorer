@@ -4,8 +4,8 @@ Paris coordinates: 3869264, 5844472, 1115467
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MATROX (k thick atmosphere)
-- XERTAR (n thin atmosphere)
+MATROX (k thick atmosphere)
+XERTAR (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY PAUL KIRCHBERGER IN EPOC 6011 566.43.990

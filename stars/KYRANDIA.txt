@@ -4,12 +4,12 @@ Paris coordinates: 3359632, 4340447, -669628
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- ROMEELEN (n thin atmosphere)
-- Planet #1 (^ unstable)
-- Planet #2 (d dusty, craterized)
-- GREENSLEEVES (q quartz surface)
-- LYSANDER (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
+ROMEELEN (n thin atmosphere)
+Planet #1 (^ unstable)
+Planet #2 (d dusty, craterized)
+GREENSLEEVES (q quartz surface)
+LYSANDER (d dusty, craterized)
+Planet #5 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY ASUYUKA                                                       

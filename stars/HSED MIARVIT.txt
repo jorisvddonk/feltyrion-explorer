@@ -4,10 +4,10 @@ Paris coordinates: 2070974544, -1657016, -20712
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- JIDNAEL (d dusty, craterized)
-- NHOSKIA (k thick atmosphere)
-- AMPLIUS (f felisian)
-  - VAJAR (d dusty, craterized)
+JIDNAEL (d dusty, craterized)
+NHOSKIA (k thick atmosphere)
+AMPLIUS (f felisian)
+  VAJAR (d dusty, craterized)
 
 Guide entries:
 S00 SYSTEM OF 3 PLANETS, 1 MOON, ONE FELISIAN WORLD. 1.17446902             

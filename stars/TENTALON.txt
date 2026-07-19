@@ -4,7 +4,7 @@ Paris coordinates: 4524624, 4639221, -108214
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TENTALON PRIME (d dusty, craterized)
+TENTALON PRIME (d dusty, craterized)
 
 Guide entries:
  DISCOVERD BY MARK SCHULTHEISS AT EPOC 6001:565.404

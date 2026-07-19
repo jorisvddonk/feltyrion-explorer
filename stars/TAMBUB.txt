@@ -4,8 +4,8 @@ Paris coordinates: 4166416, 4903058, -1144218
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASSIONIS (+ substellar object)
-- HURRUR (@ large, not consistent)
+ASSIONIS (+ substellar object)
+HURRUR (@ large, not consistent)
 
 Guide entries:
 SMALL S00 SYSTEM. TWO PLANETS, NO MINOR BODIES.

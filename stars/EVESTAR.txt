@@ -4,6 +4,6 @@ Paris coordinates: 3879984, 3933256, 59647
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- PATCHES (d dusty, craterized)
-- PATCHES 2 (d dusty, craterized)
-- PATCHURN (d dusty, craterized)
+PATCHES (d dusty, craterized)
+PATCHES 2 (d dusty, craterized)
+PATCHURN (d dusty, craterized)

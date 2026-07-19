@@ -4,8 +4,8 @@ Paris coordinates: 3904272, 5165172, -741591
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GWTO 1 (q quartz surface)
-- GWTO 2 (d dusty, craterized)
+GWTO 1 (q quartz surface)
+GWTO 2 (d dusty, craterized)
 
 Guide entries:
  A SYSTEM WITH 2 PLANETS; 0 MOONS.

@@ -4,5 +4,5 @@ Paris coordinates: 4979984, 4813850, -1071484
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PITSTOP 41A (k thick atmosphere)
-- PITSTOP 41B (q quartz surface)
+PITSTOP 41A (k thick atmosphere)
+PITSTOP 41B (q quartz surface)

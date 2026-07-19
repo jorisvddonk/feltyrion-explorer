@@ -4,8 +4,8 @@ Paris coordinates: 3659632, 4327550, -1239332
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- OSCURA TOO (k thick atmosphere)
-- LOW WAY 2 (n thin atmosphere)
+OSCURA TOO (k thick atmosphere)
+LOW WAY 2 (n thin atmosphere)
 
 Guide entries:
  THE PLANETS OF THIS STAR ARE COMPLETELY DESOLATE AND UNINTERESTING

@@ -4,16 +4,16 @@ Paris coordinates: 1756784, 6033924, -1223400
 Bodies: 10 (4 planets, 6 moons)
 
 System:
-- PROMAT-01 (+ substellar object)
-- PROMAT-02 (q quartz surface)
-- PROMAT-03 (q quartz surface)
-  - PROMAT-03-A (n thin atmosphere)
-  - Moon #1 (^ unstable)
-  - Moon #2 (d dusty, craterized)
-- PROMAT-04 (f felisian)
-  - PROMAT-04-A (d dusty, craterized)
-  - PROMAT-04-B (d dusty, craterized)
-  - PROMAT-04-C (^ unstable)
+PROMAT-01 (+ substellar object)
+PROMAT-02 (q quartz surface)
+PROMAT-03 (q quartz surface)
+  PROMAT-03-A (n thin atmosphere)
+  Moon #1 (^ unstable)
+  Moon #2 (d dusty, craterized)
+PROMAT-04 (f felisian)
+  PROMAT-04-A (d dusty, craterized)
+  PROMAT-04-B (d dusty, craterized)
+  PROMAT-04-C (^ unstable)
 
 Guide entries:
 SYSTEM DISCOVEDER BY YAYO (ROBERTO CORREZZOLA), E.6011:684.719.             

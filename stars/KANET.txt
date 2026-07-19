@@ -4,10 +4,10 @@ Paris coordinates: 3383920, 4684937, -1432007
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- TEXIP (n thin atmosphere)
-- BELHUS (d dusty, craterized)
-- NYAM (d dusty, craterized)
-- KENSHIN (d dusty, craterized)
-  - 142200 (i icy surface)
-- COMLANIT (d dusty, craterized)
-  - NEG (d dusty, craterized)
+TEXIP (n thin atmosphere)
+BELHUS (d dusty, craterized)
+NYAM (d dusty, craterized)
+KENSHIN (d dusty, craterized)
+  142200 (i icy surface)
+COMLANIT (d dusty, craterized)
+  NEG (d dusty, craterized)

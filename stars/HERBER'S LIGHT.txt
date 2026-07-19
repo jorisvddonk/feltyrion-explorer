@@ -4,12 +4,12 @@ Paris coordinates: 11743472, 11367418, 11248088
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- HERBER'S SPOON (q quartz surface)
-- HERBER'S SPOON II (n thin atmosphere)
-- HERBER'S THOUGHT (+ substellar object)
-- HERBER'S BOWL (n thin atmosphere)
-- HERBER'S ROTUNDA (@ large, not consistent)
-- HERBER'S REACH (k thick atmosphere)
+HERBER'S SPOON (q quartz surface)
+HERBER'S SPOON II (n thin atmosphere)
+HERBER'S THOUGHT (+ substellar object)
+HERBER'S BOWL (n thin atmosphere)
+HERBER'S ROTUNDA (@ large, not consistent)
+HERBER'S REACH (k thick atmosphere)
 
 Guide entries:
 THIS STAR,HENCE IT'S GIANT SIZE, IS FULL OF POISONIS RADIADTION

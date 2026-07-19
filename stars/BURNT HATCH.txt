@@ -4,5 +4,5 @@ Paris coordinates: -1277136, 62268146, -141134
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NOSTOP (d dusty, craterized)
-- TIGHTLIP (q quartz surface)
+NOSTOP (d dusty, craterized)
+TIGHTLIP (q quartz surface)

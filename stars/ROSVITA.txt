@@ -4,8 +4,8 @@ Paris coordinates: 5800336, 4462999, -925592
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DARK ONE (n thin atmosphere)
-- TRECRAT (r rocky, creased)
+DARK ONE (n thin atmosphere)
+TRECRAT (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY KROMEBOY 6011 570.915.470

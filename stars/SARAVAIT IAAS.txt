@@ -4,15 +4,15 @@ Paris coordinates: 2061228144, -1654027, 3059941
 Bodies: 9 (3 planets, 6 moons)
 
 System:
-- DEJHA (n thin atmosphere)
-- PAJHA (n thin atmosphere)
-- ITMYBES (+ substellar object)
-  - NASIJI (d dusty, craterized)
-  - IRJAJI (@ large, not consistent)
-  - URTYK (n thin atmosphere)
-  - PERFIDA (f felisian)
-  - OMSARIL (k thick atmosphere)
-  - MALEFIDA (f felisian)
+DEJHA (n thin atmosphere)
+PAJHA (n thin atmosphere)
+ITMYBES (+ substellar object)
+  NASIJI (d dusty, craterized)
+  IRJAJI (@ large, not consistent)
+  URTYK (n thin atmosphere)
+  PERFIDA (f felisian)
+  OMSARIL (k thick atmosphere)
+  MALEFIDA (f felisian)
 
 Guide entries:
 S00 SYSTEM 3 PLANETS, 6 MOONS, 2 FELISIAN WORLDS. 1.35273683 BAL            

@@ -4,13 +4,13 @@ Paris coordinates: 343216, 29704, -630374
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- FLATEA (r rocky, creased)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (n thin atmosphere)
-- Planet #3 (f felisian)
+FLATEA (r rocky, creased)
+Planet #1 (d dusty, craterized)
+Planet #2 (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (n thin atmosphere)
+Planet #3 (f felisian)
 
 Guide entries:
 I DON'T KNOW IF IT'S SPECIAL, BUT THIS SYSTEM HAS FOUR PLANETS, TWO

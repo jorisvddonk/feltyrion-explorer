@@ -4,6 +4,6 @@ Paris coordinates: 3259632, 3797415, -827087
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- AGRADONIOUS I (n thin atmosphere)
-- MURKY POND (@ large, not consistent)
-- AGRADONIOUS III (d dusty, craterized)
+AGRADONIOUS I (n thin atmosphere)
+MURKY POND (@ large, not consistent)
+AGRADONIOUS III (d dusty, craterized)

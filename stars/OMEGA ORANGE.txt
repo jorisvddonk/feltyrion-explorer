@@ -4,10 +4,10 @@ Paris coordinates: -11973872, -267019, -839537
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- OMEGA ORANGE I (n thin atmosphere)
-- OMEGA ORANGE II (k thick atmosphere)
-- OMEGA ORANGE III (k thick atmosphere)
-  - OMEGA ORANGE III A (d dusty, craterized)
+OMEGA ORANGE I (n thin atmosphere)
+OMEGA ORANGE II (k thick atmosphere)
+OMEGA ORANGE III (k thick atmosphere)
+  OMEGA ORANGE III A (d dusty, craterized)
 
 Guide entries:
 A CLASS S04 SYSTEM OF 3 PLANETS AND 1 MOON, NO FELISIAN WORLDS.

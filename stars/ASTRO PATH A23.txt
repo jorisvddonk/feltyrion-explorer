@@ -4,9 +4,9 @@ Paris coordinates: 6114320, 4715025, -13889694
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- Planet #0 (^ unstable)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (k thick atmosphere)
-- Planet #3 (r rocky, creased)
-- Planet #4 (q quartz surface)
-- Planet #5 (d dusty, craterized)
+Planet #0 (^ unstable)
+Planet #1 (d dusty, craterized)
+Planet #2 (k thick atmosphere)
+Planet #3 (r rocky, creased)
+Planet #4 (q quartz surface)
+Planet #5 (d dusty, craterized)

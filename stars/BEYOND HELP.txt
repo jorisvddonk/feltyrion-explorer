@@ -4,16 +4,16 @@ Paris coordinates: -222864, 4125508, 1855459
 Bodies: 10 (7 planets, 3 moons)
 
 System:
-- MAYFLY (@ large, not consistent)
-- FLOWERING CRAB (r rocky, creased)
-- ANTILEPTON (d dusty, craterized)
-- HIERODULE (k thick atmosphere)
-  - SOLAN (d dusty, craterized)
-- CRI DE COEUR (f felisian)
-  - MAFIC (n thin atmosphere)
-  - MOQUETTE (d dusty, craterized)
-- NOTE OF PROTEST (f felisian)
-- CRAPE HANGER (k thick atmosphere)
+MAYFLY (@ large, not consistent)
+FLOWERING CRAB (r rocky, creased)
+ANTILEPTON (d dusty, craterized)
+HIERODULE (k thick atmosphere)
+  SOLAN (d dusty, craterized)
+CRI DE COEUR (f felisian)
+  MAFIC (n thin atmosphere)
+  MOQUETTE (d dusty, craterized)
+NOTE OF PROTEST (f felisian)
+CRAPE HANGER (k thick atmosphere)
 
 Guide entries:
 A CLASS S00 SYSTEM WITH 7 PLANETS AND 3 MOONS. 2 FELISIAN WORLDS.

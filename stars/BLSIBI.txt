@@ -4,14 +4,14 @@ Paris coordinates: 2866416, 5442081, 70254
 Bodies: 8 (6 planets, 2 moons)
 
 System:
-- BLSIBI 1 (n thin atmosphere)
-- BLSIBI 2 (+ substellar object)
-- BLSIBI 3 (f felisian)
-  - Moon #0 (d dusty, craterized)
-- BLSIBI 4 (f felisian)
-- Planet #4 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #5 (k thick atmosphere)
+BLSIBI 1 (n thin atmosphere)
+BLSIBI 2 (+ substellar object)
+BLSIBI 3 (f felisian)
+  Moon #0 (d dusty, craterized)
+BLSIBI 4 (f felisian)
+Planet #4 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #5 (k thick atmosphere)
 
 Guide entries:
  DISCOVERED BY POKECAT(6011.997.963)

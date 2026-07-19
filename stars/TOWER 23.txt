@@ -4,7 +4,7 @@ Paris coordinates: 1366416, 813206, 1677293
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.497                               

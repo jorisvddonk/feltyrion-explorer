@@ -4,8 +4,8 @@ Paris coordinates: 3552848, 5033415, -1534372
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- OW'TR (@ large, not consistent)
-- OVANT (d dusty, craterized)
+OW'TR (@ large, not consistent)
+OVANT (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 647.509

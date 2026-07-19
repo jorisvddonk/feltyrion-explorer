@@ -4,15 +4,15 @@ Paris coordinates: 3714992, 4504837, -1815290
 Bodies: 9 (4 planets, 5 moons)
 
 System:
-- TZAR KIRO (r rocky, creased)
-- KITAECA (r rocky, creased)
-- BRIN (r rocky, creased)
-  - MISSER (d dusty, craterized)
-  - WOTHLESS (n thin atmosphere)
-- FAITHLESS (f felisian)
-  - DUST HELL (d dusty, craterized)
-  - DEVIL HOME (d dusty, craterized)
-  - TZAR SIMEON (d dusty, craterized)
+TZAR KIRO (r rocky, creased)
+KITAECA (r rocky, creased)
+BRIN (r rocky, creased)
+  MISSER (d dusty, craterized)
+  WOTHLESS (n thin atmosphere)
+FAITHLESS (f felisian)
+  DUST HELL (d dusty, craterized)
+  DEVIL HOME (d dusty, craterized)
+  TZAR SIMEON (d dusty, craterized)
 
 Guide entries:
  NOTHING OF INTEREST

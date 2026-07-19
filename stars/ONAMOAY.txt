@@ -4,7 +4,7 @@ Paris coordinates: 767504, -67794913, -1510001
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TOXADHA (q quartz surface)
+TOXADHA (q quartz surface)
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:590.

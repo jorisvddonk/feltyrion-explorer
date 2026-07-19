@@ -4,11 +4,11 @@ Paris coordinates: 2132496, 5007520, -1099311
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- GONDAGEL (r rocky, creased)
-- IONA (d dusty, craterized)
-- LOASTE (f felisian)
-  - Moon #0 (n thin atmosphere)
-- DASSER (q quartz surface)
+GONDAGEL (r rocky, creased)
+IONA (d dusty, craterized)
+LOASTE (f felisian)
+  Moon #0 (n thin atmosphere)
+DASSER (q quartz surface)
 
 Guide entries:
 1.4 PLANETS,1 MOON

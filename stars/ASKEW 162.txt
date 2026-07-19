@@ -4,6 +4,6 @@ Paris coordinates: 8171696, -11006601, 12363217
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- ASKEW 162A (r rocky, creased)
-- ASKEW 162B (k thick atmosphere)
-- ASKEW 162C (r rocky, creased)
+ASKEW 162A (r rocky, creased)
+ASKEW 162B (k thick atmosphere)
+ASKEW 162C (r rocky, creased)

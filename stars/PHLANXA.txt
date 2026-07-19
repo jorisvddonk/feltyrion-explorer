@@ -4,5 +4,5 @@ Paris coordinates: 7958544, 5805373, -1465733
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- QUARTZIA (q quartz surface)
+Planet #0 (@ large, not consistent)
+QUARTZIA (q quartz surface)

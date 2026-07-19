@@ -4,8 +4,8 @@ Paris coordinates: 3421776, 6125800, -1062368
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PASCALI (k thick atmosphere)
-- PORTIA (k thick atmosphere)
+PASCALI (k thick atmosphere)
+PORTIA (k thick atmosphere)
 
 Guide entries:
 ORANGE GIANT STAR. 2 PLANETS IN SYSTEM. HIGH NUCLEAR MASS

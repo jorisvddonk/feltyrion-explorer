@@ -4,4 +4,4 @@ Paris coordinates: 2932496, 4425414, -1880957
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SYD (@ large, not consistent)
+SYD (@ large, not consistent)

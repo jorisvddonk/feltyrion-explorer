@@ -4,11 +4,11 @@ Paris coordinates: 1739280, 5964442, -310896
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- PIGN-01 (q quartz surface)
-- PIGN-02 (k thick atmosphere)
-- PIGN-03 (f felisian)
-  - PIGN-03-A (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
+PIGN-01 (q quartz surface)
+PIGN-02 (k thick atmosphere)
+PIGN-03 (f felisian)
+  PIGN-03-A (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED BY YAYO (ROBERTO CORREZZOLA), E.6011:684.783.             

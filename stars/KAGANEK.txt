@@ -4,9 +4,9 @@ Paris coordinates: 3390704, 5478474, -954877
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- KAGANEK - 1 (n thin atmosphere)
-- Planet #1 (r rocky, creased)
-- Planet #2 (k thick atmosphere)
+KAGANEK - 1 (n thin atmosphere)
+Planet #1 (r rocky, creased)
+Planet #2 (k thick atmosphere)
 
 Guide entries:
  BROWN DWARF STAR WITH 3 PLANETS, DISCOVERED BY MRUQE; E. 6011-568.470

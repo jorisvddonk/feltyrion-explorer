@@ -4,14 +4,14 @@ Paris coordinates: 2031852592, -464651, -4802779
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- FEJIBIB (d dusty, craterized)
-- IJKIL (@ large, not consistent)
-- EVEMAT (k thick atmosphere)
-  - NATFHL (d dusty, craterized)
-  - ANINEJ (d dusty, craterized)
-- YAPELOS (r rocky, creased)
-  - ALFHPOK (d dusty, craterized)
-- YOBETIK (r rocky, creased)
+FEJIBIB (d dusty, craterized)
+IJKIL (@ large, not consistent)
+EVEMAT (k thick atmosphere)
+  NATFHL (d dusty, craterized)
+  ANINEJ (d dusty, craterized)
+YAPELOS (r rocky, creased)
+  ALFHPOK (d dusty, craterized)
+YOBETIK (r rocky, creased)
 
 Guide entries:
 CLASS S03 WITH 5 PLANETS, 3 MOONS, NO FELISIAN. 7.24622440 BAL. M.          

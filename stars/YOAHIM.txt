@@ -4,7 +4,7 @@ Paris coordinates: -105964176, 26071152, -983940
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- ROAMING (n thin atmosphere)
-- DAJMICOS (k thick atmosphere)
-- HAMBURGER PRIME (k thick atmosphere)
-- SMALFOOT (d dusty, craterized)
+ROAMING (n thin atmosphere)
+DAJMICOS (k thick atmosphere)
+HAMBURGER PRIME (k thick atmosphere)
+SMALFOOT (d dusty, craterized)

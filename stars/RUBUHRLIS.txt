@@ -4,12 +4,12 @@ Paris coordinates: 634154160, -11058310, 50011242
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- ERTHULIJ (+ substellar object)
-- SOLABESIS (@ large, not consistent)
-- PURLIJIEL (@ large, not consistent)
-  - MESED (n thin atmosphere)
-  - COMDIAT (n thin atmosphere)
-  - MELEANIJ (q quartz surface)
+ERTHULIJ (+ substellar object)
+SOLABESIS (@ large, not consistent)
+PURLIJIEL (@ large, not consistent)
+  MESED (n thin atmosphere)
+  COMDIAT (n thin atmosphere)
+  MELEANIJ (q quartz surface)
 
 Guide entries:
 A CLASS S03 SYSTEM WITH 3 PLANETS, 3 MOONS, NO FELISIAN WORLDS.             

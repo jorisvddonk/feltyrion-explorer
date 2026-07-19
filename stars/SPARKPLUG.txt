@@ -4,12 +4,12 @@ Paris coordinates: 4232496, -66360553, -3150025
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- SPARKPLUG I (n thin atmosphere)
-- SPARKPLUG II (n thin atmosphere)
-- SPARKPLUG III (n thin atmosphere)
-- SPARKPLUG IV (+ substellar object)
-- SPARKPLUG V (k thick atmosphere)
-- SPARKPLUG VI (q quartz surface)
+SPARKPLUG I (n thin atmosphere)
+SPARKPLUG II (n thin atmosphere)
+SPARKPLUG III (n thin atmosphere)
+SPARKPLUG IV (+ substellar object)
+SPARKPLUG V (k thick atmosphere)
+SPARKPLUG VI (q quartz surface)
 
 Guide entries:
 WHITE DWARF STAR ABOUT 20LY FROM FARHOME. HAS SIX PLANETS, THE FIRST

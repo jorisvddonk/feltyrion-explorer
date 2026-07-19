@@ -4,11 +4,11 @@ Paris coordinates: -8659216, 21938584, -7141950
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- SUFFRA (d dusty, craterized)
-- DROIR (+ substellar object)
-- HONKOL (k thick atmosphere)
-- INSEC (d dusty, craterized)
-  - BELTA (d dusty, craterized)
+SUFFRA (d dusty, craterized)
+DROIR (+ substellar object)
+HONKOL (k thick atmosphere)
+INSEC (d dusty, craterized)
+  BELTA (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED BY MURRMURR EPOC 6011:608.247

@@ -4,4 +4,4 @@ Paris coordinates: -562512, 121792, 249219553
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PITSTOP 18A (k thick atmosphere)
+PITSTOP 18A (k thick atmosphere)

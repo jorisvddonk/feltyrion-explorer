@@ -4,9 +4,9 @@ Paris coordinates: 3821776, 4429682, -1462658
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- SELAMINTES (@ large, not consistent)
-- ELEIA (* companion star)
-- MENANTES (d dusty, craterized)
-  - SANTANDER (d dusty, craterized)
-- SALAMIS (n thin atmosphere)
+Planet #0 (q quartz surface)
+SELAMINTES (@ large, not consistent)
+ELEIA (* companion star)
+MENANTES (d dusty, craterized)
+  SANTANDER (d dusty, craterized)
+SALAMIS (n thin atmosphere)

@@ -4,7 +4,7 @@ Paris coordinates: 1399062800, 1348759, 1399463463
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- KWILL PRIMUS (+ substellar object)
+KWILL PRIMUS (+ substellar object)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:600.643

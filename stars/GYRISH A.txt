@@ -4,7 +4,7 @@ Paris coordinates: -1994844880, 131890, 1350354
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- GYRISH B (* companion star)
+GYRISH B (* companion star)
 
 Guide entries:
 S08 SYSTEM OF WHAT APPEARS TO BE S06 TYPE STARS. ONLY ONE 'PLANET',         

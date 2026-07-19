@@ -4,16 +4,16 @@ Paris coordinates: 3405360, 5347404, -3994355
 Bodies: 10 (5 planets, 5 moons)
 
 System:
-- PALMYRA 1 (@ large, not consistent)
-- PALMYRA 2 (k thick atmosphere)
-- PALMYRA 3 (k thick atmosphere)
-- PALMYRA 4 (n thin atmosphere)
-- PALMYRA 5 (+ substellar object)
-  - MACEDON (f felisian)
-  - NEWARK (k thick atmosphere)
-  - MANCHESTER (^ unstable)
-  - FELISIA 1 (f felisian)
-  - PERINGTON (k thick atmosphere)
+PALMYRA 1 (@ large, not consistent)
+PALMYRA 2 (k thick atmosphere)
+PALMYRA 3 (k thick atmosphere)
+PALMYRA 4 (n thin atmosphere)
+PALMYRA 5 (+ substellar object)
+  MACEDON (f felisian)
+  NEWARK (k thick atmosphere)
+  MANCHESTER (^ unstable)
+  FELISIA 1 (f felisian)
+  PERINGTON (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY CAPT.LUTHER ON EPOC:6011:661:24

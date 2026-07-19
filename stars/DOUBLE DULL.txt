@@ -4,7 +4,7 @@ Paris coordinates: 3521776, 4259539, -1152662
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BRADDAN (k thick atmosphere)
+BRADDAN (k thick atmosphere)
 
 Guide entries:
  FOUNDED BY REZA, EPOC 6011, 678.971.800                                    

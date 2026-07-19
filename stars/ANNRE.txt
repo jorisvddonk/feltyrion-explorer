@@ -4,9 +4,9 @@ Paris coordinates: 2983920, 5635971, -952172
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- T'RUL (n thin atmosphere)
-- Z'LUL (@ large, not consistent)
-- N'ULL (d dusty, craterized)
+T'RUL (n thin atmosphere)
+Z'LUL (@ large, not consistent)
+N'ULL (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.186

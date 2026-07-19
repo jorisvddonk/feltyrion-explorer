@@ -4,7 +4,7 @@ Paris coordinates: 766416, 634105, 2288500
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASCHA (k thick atmosphere)
+ASCHA (k thick atmosphere)
 
 Guide entries:
 *ANOTHER* S10 PLANETARY SYSTEM. THIS IS A TRULY OUTSTANDING FIND! ONLY      

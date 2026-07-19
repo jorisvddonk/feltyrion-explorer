@@ -4,14 +4,14 @@ Paris coordinates: 294640, 1102336, 449711
 Bodies: 8 (4 planets, 4 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (@ large, not consistent)
-- GLOBULE (f felisian)
-  - EMISSION (n thin atmosphere)
-  - KIST (d dusty, craterized)
-- Planet #3 (n thin atmosphere)
-  - Moon #0 (^ unstable)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (@ large, not consistent)
+GLOBULE (f felisian)
+  EMISSION (n thin atmosphere)
+  KIST (d dusty, craterized)
+Planet #3 (n thin atmosphere)
+  Moon #0 (^ unstable)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED EPOC 6011 584.36.300BY PROF.CALLAHAN

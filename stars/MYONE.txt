@@ -4,5 +4,5 @@ Paris coordinates: 5720688, 4838292, 388146
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- WITHLIFE (@ large, not consistent)
+Planet #0 (r rocky, creased)
+WITHLIFE (@ large, not consistent)

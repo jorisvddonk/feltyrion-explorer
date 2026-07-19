@@ -4,8 +4,8 @@ Paris coordinates: 15185680, 32300053, -7239903
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (r rocky, creased)
-- Planet #2 (n thin atmosphere)
-- Planet #3 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
+Planet #0 (q quartz surface)
+Planet #1 (r rocky, creased)
+Planet #2 (n thin atmosphere)
+Planet #3 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)

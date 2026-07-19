@@ -4,7 +4,7 @@ Paris coordinates: 280255920, -1888525, 353921
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SPAYOW (d dusty, craterized)
+SPAYOW (d dusty, craterized)
 
 Guide entries:
 A CLASS S05 SYSTEM WITH 1 WORLD. FUEL HERE. SKINNYMON EPOC 6011

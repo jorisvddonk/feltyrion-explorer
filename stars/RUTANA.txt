@@ -4,12 +4,12 @@ Paris coordinates: 4169264, 4539675, 792675
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- RINGU (@ large, not consistent)
-- AVALONIA (k thick atmosphere)
-- HEATHER'S EYES (f felisian)
-- RASEN (+ substellar object)
-  - SADAKO (d dusty, craterized)
-  - SAMARA (d dusty, craterized)
+RINGU (@ large, not consistent)
+AVALONIA (k thick atmosphere)
+HEATHER'S EYES (f felisian)
+RASEN (+ substellar object)
+  SADAKO (d dusty, craterized)
+  SAMARA (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY LINGO.

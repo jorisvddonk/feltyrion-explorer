@@ -4,5 +4,5 @@ Paris coordinates: 4608208, 8899751, -3028540
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- FERGUS-LT-S00-P01 (d dusty, craterized)
-- FERGUS-LT-S00-P02 (+ substellar object)
+FERGUS-LT-S00-P01 (d dusty, craterized)
+FERGUS-LT-S00-P02 (+ substellar object)

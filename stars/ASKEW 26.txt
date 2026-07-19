@@ -4,5 +4,5 @@ Paris coordinates: 11345232, -19742459, 17488323
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GALAWAY (q quartz surface)
-- VENIL (k thick atmosphere)
+GALAWAY (q quartz surface)
+VENIL (k thick atmosphere)

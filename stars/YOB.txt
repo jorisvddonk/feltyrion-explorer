@@ -4,4 +4,4 @@ Paris coordinates: -2348912, -10777678, -1546836
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FOGIT (n thin atmosphere)
+FOGIT (n thin atmosphere)

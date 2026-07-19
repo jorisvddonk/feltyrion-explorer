@@ -4,8 +4,8 @@ Paris coordinates: 370352, 421376, 1047806
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PLANET DRAGGER 1 (r rocky, creased)
-- PLANET DRAGGER 2 (d dusty, craterized)
+PLANET DRAGGER 1 (r rocky, creased)
+PLANET DRAGGER 2 (d dusty, craterized)
 
 Guide entries:
 A CLASS 10 STAR WITH TWO PLANETS. THIS IS UNUSUAL GIVEN THAT WE

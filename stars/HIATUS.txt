@@ -4,8 +4,8 @@ Paris coordinates: 5665328, 9244775, 1215079
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- MUA-HYTROS (+ substellar object)
-- HYTROS (+ substellar object)
-- REBASTRA (f felisian)
-  - BESTARYA (d dusty, craterized)
-  - LASTARYA (d dusty, craterized)
+MUA-HYTROS (+ substellar object)
+HYTROS (+ substellar object)
+REBASTRA (f felisian)
+  BESTARYA (d dusty, craterized)
+  LASTARYA (d dusty, craterized)

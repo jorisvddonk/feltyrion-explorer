@@ -4,7 +4,7 @@ Paris coordinates: 5689616, 4314139, 534051
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- GLAMTHS (+ substellar object)
+GLAMTHS (+ substellar object)
 
 Guide entries:
  CAPABLE OF BEARING LIFE PLANETS, BUT HAS NONE.

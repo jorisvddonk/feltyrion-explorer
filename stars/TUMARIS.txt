@@ -4,16 +4,16 @@ Paris coordinates: -12144, 372689, 342906
 Bodies: 10 (4 planets, 6 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (q quartz surface)
-- GEMNA (q quartz surface)
-  - GEMNA M1 (n thin atmosphere)
-  - GEMNA M2 (^ unstable)
-  - GEMNA M3 (d dusty, craterized)
-- TUMUT (f felisian)
-  - TUMUT M1 (d dusty, craterized)
-  - TUMUT M2 (d dusty, craterized)
-  - TUMUT M3 (^ unstable)
+Planet #0 (+ substellar object)
+Planet #1 (q quartz surface)
+GEMNA (q quartz surface)
+  GEMNA M1 (n thin atmosphere)
+  GEMNA M2 (^ unstable)
+  GEMNA M3 (d dusty, craterized)
+TUMUT (f felisian)
+  TUMUT M1 (d dusty, craterized)
+  TUMUT M2 (d dusty, craterized)
+  TUMUT M3 (^ unstable)
 
 Guide entries:
 CLASS S00 YELLOW STAR, SYSTEM HAS ONE FELISIAN WORLD

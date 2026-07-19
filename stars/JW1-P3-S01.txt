@@ -4,10 +4,10 @@ Paris coordinates: 4704272, 4864576, -1488990
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (q quartz surface)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
+Planet #0 (@ large, not consistent)
+Planet #1 (q quartz surface)
+Planet #2 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY JOSHUA WICHT, EPOC 6011:849.580                               

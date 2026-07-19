@@ -4,9 +4,9 @@ Paris coordinates: -2731408, -11820060, -1963064
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- PORFO (@ large, not consistent)
-- KOB (+ substellar object)
-- DWORIK (+ substellar object)
-  - SUSTULI (q quartz surface)
-  - MAKLAN (n thin atmosphere)
-  - LIBENHEIM (d dusty, craterized)
+PORFO (@ large, not consistent)
+KOB (+ substellar object)
+DWORIK (+ substellar object)
+  SUSTULI (q quartz surface)
+  MAKLAN (n thin atmosphere)
+  LIBENHEIM (d dusty, craterized)

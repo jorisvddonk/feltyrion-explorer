@@ -4,10 +4,10 @@ Paris coordinates: -2426384, 5306919, -7626568
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- ITHAAQA (+ substellar object)
-- HALI (@ large, not consistent)
-- TAKIS (d dusty, craterized)
-  - Moon #0 (n thin atmosphere)
+ITHAAQA (+ substellar object)
+HALI (@ large, not consistent)
+TAKIS (d dusty, craterized)
+  Moon #0 (n thin atmosphere)
 
 Guide entries:
 ORANGE STAR-HAS 3 PLANETS AND 1 MINOR BODY

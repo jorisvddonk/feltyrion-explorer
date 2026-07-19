@@ -4,14 +4,14 @@ Paris coordinates: 2268592, 5848899, -7008251
 Bodies: 8 (6 planets, 2 moons)
 
 System:
-- IMBROGEN I (d dusty, craterized)
-- IMBROGEN II (k thick atmosphere)
-- IMBROGEN III (@ large, not consistent)
-- IMBROGEN IV (k thick atmosphere)
-  - IMBROGEN IV-A (n thin atmosphere)
-- IMBROGEN V (d dusty, craterized)
-  - IMBROGEN V-A (d dusty, craterized)
-- IMBROGEN VI (r rocky, creased)
+IMBROGEN I (d dusty, craterized)
+IMBROGEN II (k thick atmosphere)
+IMBROGEN III (@ large, not consistent)
+IMBROGEN IV (k thick atmosphere)
+  IMBROGEN IV-A (n thin atmosphere)
+IMBROGEN V (d dusty, craterized)
+  IMBROGEN V-A (d dusty, craterized)
+IMBROGEN VI (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.631 -                                

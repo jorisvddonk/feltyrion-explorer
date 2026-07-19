@@ -4,8 +4,8 @@ Paris coordinates: 3544976, 1934786, 2172010
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ECHINUS I (d dusty, craterized)
-- ECHINUS II (k thick atmosphere)
+ECHINUS I (d dusty, craterized)
+ECHINUS II (k thick atmosphere)
 
 Guide entries:
 A CLASS S02 SYSTEM WITH TWO PLANETS. SKINNYMON EPOC 6011 585.575

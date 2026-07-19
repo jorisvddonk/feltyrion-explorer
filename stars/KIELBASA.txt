@@ -4,18 +4,18 @@ Paris coordinates: 2547152, 4630355, -4479648
 Bodies: 12 (7 planets, 5 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (r rocky, creased)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- KIELBASA V (f felisian)
-  - Moon #0 (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
-- Planet #6 (d dusty, craterized)
-  - Moon #0 (n thin atmosphere)
+Planet #0 (d dusty, craterized)
+Planet #1 (r rocky, creased)
+Planet #2 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+Planet #3 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+KIELBASA V (f felisian)
+  Moon #0 (d dusty, craterized)
+Planet #5 (d dusty, craterized)
+Planet #6 (d dusty, craterized)
+  Moon #0 (n thin atmosphere)
 
 Guide entries:
 S04 STAR FOUND BY RICHARD SOLENSKY EPOC 6011-572.821.400

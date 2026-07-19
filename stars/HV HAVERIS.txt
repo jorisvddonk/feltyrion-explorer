@@ -4,8 +4,8 @@ Paris coordinates: 2081950928, -879718, -1036662
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- JYHSYAD (q quartz surface)
-- KOIDAFH (q quartz surface)
+JYHSYAD (q quartz surface)
+KOIDAFH (q quartz surface)
 
 Guide entries:
 A PSEUDO S08 WITH NO COMPAINION STAR BUT 2 PLANETS, BOTH QUARTZ.            

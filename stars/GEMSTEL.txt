@@ -4,17 +4,17 @@ Paris coordinates: 26708976, 6394413, 44397605
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- HEDBEND (k thick atmosphere)
-- CONTIEELAT (r rocky, creased)
-- LENSE (d dusty, craterized)
-  - THEYIAR (n thin atmosphere)
-- REONGEU (n thin atmosphere)
-- PICLYPTIC (n thin atmosphere)
-  - GREAEPE (d dusty, craterized)
-- RENGJE (+ substellar object)
-  - DASES (@ large, not consistent)
-  - CYPLIST (d dusty, craterized)
-  - FRODIM (f felisian)
+HEDBEND (k thick atmosphere)
+CONTIEELAT (r rocky, creased)
+LENSE (d dusty, craterized)
+  THEYIAR (n thin atmosphere)
+REONGEU (n thin atmosphere)
+PICLYPTIC (n thin atmosphere)
+  GREAEPE (d dusty, craterized)
+RENGJE (+ substellar object)
+  DASES (@ large, not consistent)
+  CYPLIST (d dusty, craterized)
+  FRODIM (f felisian)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER. S00 STAR WITH 6 PLANETS AND 5 MOONS.

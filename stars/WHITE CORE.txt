@@ -4,14 +4,14 @@ Paris coordinates: 3414992, 5889610, -1548918
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- DWARF COMPANION 1 (@ large, not consistent)
-- DWARF COMPANION 2 (q quartz surface)
-- DWARF COMPANION 3 (r rocky, creased)
-- DWARF COMPANION 4 (q quartz surface)
-- JOVIAN DAWN (+ substellar object)
-- DWARF COMPANION 6 (d dusty, craterized)
-- DWARF COMPANION 7 (d dusty, craterized)
-- FAR (@ large, not consistent)
+DWARF COMPANION 1 (@ large, not consistent)
+DWARF COMPANION 2 (q quartz surface)
+DWARF COMPANION 3 (r rocky, creased)
+DWARF COMPANION 4 (q quartz surface)
+JOVIAN DAWN (+ substellar object)
+DWARF COMPANION 6 (d dusty, craterized)
+DWARF COMPANION 7 (d dusty, craterized)
+FAR (@ large, not consistent)
 
 Guide entries:
  THE REMAINING CORE OF AN ANCIENT S00 STAR, 8 PLANETS DETECTED IN

@@ -4,7 +4,7 @@ Paris coordinates: 3721776, 4227015, -1407043
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- MORTIS (@ large, not consistent)
+MORTIS (@ large, not consistent)
 
 Guide entries:
 HIGH RADIATION, BRIGHT PULSAR. DISCOVERED BY STARDRIFTER SHANE FERA

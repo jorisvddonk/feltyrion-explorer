@@ -4,5 +4,5 @@ Paris coordinates: 6802768, -16485029, 13773419
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 131A (d dusty, craterized)
-- ASKEW 131B (n thin atmosphere)
+ASKEW 131A (d dusty, craterized)
+ASKEW 131B (n thin atmosphere)

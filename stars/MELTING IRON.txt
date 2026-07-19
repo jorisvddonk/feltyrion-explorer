@@ -4,7 +4,7 @@ Paris coordinates: 3938192, 6461264, 1352763
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
+Planet #0 (k thick atmosphere)
 
 Guide entries:
 DISCOVERED EPOC 6012 1049.117

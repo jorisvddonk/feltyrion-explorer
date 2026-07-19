@@ -4,12 +4,12 @@ Paris coordinates: 270352, -13563, 884672
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- GALVANA 1 (q quartz surface)
-- GALVANA 2 (q quartz surface)
-- GALVANA 3 (q quartz surface)
-  - AKNAR (d dusty, craterized)
-  - PARSIMIA (n thin atmosphere)
-- GALVANA 4 (d dusty, craterized)
+GALVANA 1 (q quartz surface)
+GALVANA 2 (q quartz surface)
+GALVANA 3 (q quartz surface)
+  AKNAR (d dusty, craterized)
+  PARSIMIA (n thin atmosphere)
+GALVANA 4 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY DOUG, EPOC 6011.560.987

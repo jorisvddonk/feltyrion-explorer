@@ -4,15 +4,15 @@ Paris coordinates: 318928, 183426, -53503
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (q quartz surface)
-- Planet #2 (k thick atmosphere)
-  - WHINST M1 (d dusty, craterized)
-  - WHINST M2 (d dusty, craterized)
-- Planet #3 (k thick atmosphere)
-- ESTHER (r rocky, creased)
-- GANT (q quartz surface)
-  - GANT M1 (d dusty, craterized)
+Planet #0 (@ large, not consistent)
+Planet #1 (q quartz surface)
+Planet #2 (k thick atmosphere)
+  WHINST M1 (d dusty, craterized)
+  WHINST M2 (d dusty, craterized)
+Planet #3 (k thick atmosphere)
+ESTHER (r rocky, creased)
+GANT (q quartz surface)
+  GANT M1 (d dusty, craterized)
 
 Guide entries:
 CLASS S00 MED SIZED YELLOW STAR. 6 PLANETS AND 3 MINOR BODIES

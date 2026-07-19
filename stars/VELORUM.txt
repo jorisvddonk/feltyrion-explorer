@@ -4,15 +4,15 @@ Paris coordinates: -439280, 182294, -649509
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- CASSEUS (n thin atmosphere)
-- ROMELLA (r rocky, creased)
-- HESPARIS (f felisian)
-  - Moon #0 (d dusty, craterized)
-- MISHARA (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-- MYTHREL (r rocky, creased)
-  - SENTRY (d dusty, craterized)
-  - MIZER (d dusty, craterized)
+CASSEUS (n thin atmosphere)
+ROMELLA (r rocky, creased)
+HESPARIS (f felisian)
+  Moon #0 (d dusty, craterized)
+MISHARA (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+MYTHREL (r rocky, creased)
+  SENTRY (d dusty, craterized)
+  MIZER (d dusty, craterized)
 
 Guide entries:
  THERE SEEMS TO BE A CONSTANT IN THIS SYSTEM, THAT CONSTANT BEING

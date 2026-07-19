@@ -4,13 +4,13 @@ Paris coordinates: 3879984, 4216450, -220990
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- JUHANI (k thick atmosphere)
-- TUOMAS (q quartz surface)
-- AAPO (n thin atmosphere)
-- SIMEONI (n thin atmosphere)
-- TIMO (n thin atmosphere)
-- LAURI (n thin atmosphere)
-- EERO (q quartz surface)
+JUHANI (k thick atmosphere)
+TUOMAS (q quartz surface)
+AAPO (n thin atmosphere)
+SIMEONI (n thin atmosphere)
+TIMO (n thin atmosphere)
+LAURI (n thin atmosphere)
+EERO (q quartz surface)
 
 Guide entries:
 DISCOVERED BY TEEMU MAKI EPOC 6011:589.587

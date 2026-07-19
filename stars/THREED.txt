@@ -4,7 +4,7 @@ Paris coordinates: 3197488, 5031180, -399806
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- DEEP DARKNESS (@ large, not consistent)
+DEEP DARKNESS (@ large, not consistent)
 
 Guide entries:
 A TINY PULSAR-ISH OBJECT, ONE LOCAL BODY. NOT A GOOD IDEA TO GET TO

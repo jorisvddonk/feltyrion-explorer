@@ -4,12 +4,12 @@ Paris coordinates: 4294640, 4842645, -3606155
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- MOSCOW (d dusty, craterized)
-- LIQUID MINSK (@ large, not consistent)
-- LAZY BOG (@ large, not consistent)
-- INDIFERENT (d dusty, craterized)
-  - MISTILE (n thin atmosphere)
-- ST. PETERSBURG (d dusty, craterized)
+MOSCOW (d dusty, craterized)
+LIQUID MINSK (@ large, not consistent)
+LAZY BOG (@ large, not consistent)
+INDIFERENT (d dusty, craterized)
+  MISTILE (n thin atmosphere)
+ST. PETERSBURG (d dusty, craterized)
 
 Guide entries:
 IT'S APULSAR, BUT I FIND IT ODD WITH ALL THESE PLANETS

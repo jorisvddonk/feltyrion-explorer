@@ -4,10 +4,10 @@ Paris coordinates: 956784, 343767, -572859
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (d dusty, craterized)
-- Planet #3 (n thin atmosphere)
+Planet #0 (d dusty, craterized)
+Planet #1 (n thin atmosphere)
+Planet #2 (d dusty, craterized)
+Planet #3 (n thin atmosphere)
 
 Guide entries:
 DISCOVERED E6011.578.8 BY DAVIN FELTH

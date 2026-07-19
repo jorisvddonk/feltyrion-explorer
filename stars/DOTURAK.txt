@@ -4,7 +4,7 @@ Paris coordinates: -822289168, -1295379, -679183759
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- NAKA'UDENAG (k thick atmosphere)
+NAKA'UDENAG (k thick atmosphere)
 
 Guide entries:
 S10; 1 PLANET

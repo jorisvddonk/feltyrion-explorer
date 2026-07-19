@@ -4,9 +4,9 @@ Paris coordinates: 2081072, 4641345, -2238278
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- FOOKY (q quartz surface)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (d dusty, craterized)
+FOOKY (q quartz surface)
+Planet #1 (d dusty, craterized)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
  BROWN DWARF DISC BY SCAREDY-CAT, 6011.588.290. 4 ORBITING PLANETS.

@@ -4,8 +4,8 @@ Paris coordinates: 16080, 853240, -1891550
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- CREAVMEN I (@ large, not consistent)
-- CREAVMEN II (@ large, not consistent)
+CREAVMEN I (@ large, not consistent)
+CREAVMEN II (@ large, not consistent)
 
 Guide entries:
  SYSTEM DISCOVERED BY S J VAN DER SCHAAF, EPOC 6011:587.913.345

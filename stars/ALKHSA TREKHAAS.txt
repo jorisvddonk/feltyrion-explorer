@@ -4,8 +4,8 @@ Paris coordinates: 1938192, 31180070, 3322706
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TRACKVEN (@ large, not consistent)
-- YASTREYAIS (@ large, not consistent)
+TRACKVEN (@ large, not consistent)
+YASTREYAIS (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 633.31

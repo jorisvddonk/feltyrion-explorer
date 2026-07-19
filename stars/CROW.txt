@@ -4,19 +4,19 @@ Paris coordinates: 5179984, 4634153, -1332711
 Bodies: 13 (8 planets, 5 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (k thick atmosphere)
-- MISS PIGGY (n thin atmosphere)
-  - DARK KERMIT (n thin atmosphere)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (d dusty, craterized)
-- Planet #5 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (n thin atmosphere)
-- Planet #6 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- MR JONES (k thick atmosphere)
+Planet #0 (@ large, not consistent)
+Planet #1 (k thick atmosphere)
+MISS PIGGY (n thin atmosphere)
+  DARK KERMIT (n thin atmosphere)
+Planet #3 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #4 (d dusty, craterized)
+Planet #5 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (n thin atmosphere)
+Planet #6 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+MR JONES (k thick atmosphere)
 
 Guide entries:
  LARGE GREY-BLUE, ENTRY NIL WITTHANEYE 6011 664.163.890 APROX

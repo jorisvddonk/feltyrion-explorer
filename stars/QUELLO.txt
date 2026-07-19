@@ -4,11 +4,11 @@ Paris coordinates: 26346832, 6741064, 45112797
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- GLINK (@ large, not consistent)
-- OLINRIPE (k thick atmosphere)
-- PELAINS (f felisian)
-  - LATALAVA (^ unstable)
-- CITINE (n thin atmosphere)
+GLINK (@ large, not consistent)
+OLINRIPE (k thick atmosphere)
+PELAINS (f felisian)
+  LATALAVA (^ unstable)
+CITINE (n thin atmosphere)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER. S00 STAR WITH 4 PLANETS AND 1 MOON.

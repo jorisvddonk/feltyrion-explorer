@@ -4,7 +4,7 @@ Paris coordinates: 5789616, 4934123, 456656
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PINKETI (@ large, not consistent)
+PINKETI (@ large, not consistent)
 
 Guide entries:
 SINGLE STAR S08 SYSTEM. HAS ONE PLANET I NAMED PINKETI.

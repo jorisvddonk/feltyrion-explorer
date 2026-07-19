@@ -4,7 +4,7 @@ Paris coordinates: 5773200, 4650198, -2320727
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- REECHY (n thin atmosphere)
+REECHY (n thin atmosphere)
 
 Guide entries:
 A S05 STAR WITH LITHIUM AND ONE PLANET.SKINNYMON EPOC 6011 584.669

@@ -4,8 +4,8 @@ Paris coordinates: 839280, 679071, 589926
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (d dusty, craterized)
 
 Guide entries:
 AFTER TRAVELLING TO 2 S00 STARS WITHOUT PLANETS I'M HOPING TO

@@ -4,7 +4,7 @@ Paris coordinates: 456784, 1061371, 144659
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- MINGUS (q quartz surface)
+MINGUS (q quartz surface)
 
 Guide entries:
  A CLASS S10 STAR WITH 1 ORBITING PLANET. MIKE HEITZ

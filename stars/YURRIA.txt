@@ -4,8 +4,8 @@ Paris coordinates: 4253936, 7759012, -6028870
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- URRIA (n thin atmosphere)
-- MURRIA (@ large, not consistent)
+URRIA (n thin atmosphere)
+MURRIA (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 605.427

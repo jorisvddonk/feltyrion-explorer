@@ -4,12 +4,12 @@ Paris coordinates: -125712, -125787, -194241
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- NUCLEOS (k thick atmosphere)
-- SKELTOR (d dusty, craterized)
-- Planet #2 (f felisian)
-  - PHANATIKA (d dusty, craterized)
-  - DUSTIS (d dusty, craterized)
-  - TATAKIKA (n thin atmosphere)
+NUCLEOS (k thick atmosphere)
+SKELTOR (d dusty, craterized)
+Planet #2 (f felisian)
+  PHANATIKA (d dusty, craterized)
+  DUSTIS (d dusty, craterized)
+  TATAKIKA (n thin atmosphere)
 
 Guide entries:
 AN UNREMARKABLE S00 CLASS STAR. NO FELISIAN PLANETS.                        

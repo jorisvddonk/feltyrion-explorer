@@ -4,5 +4,5 @@ Paris coordinates: -381072, 9614178, 601664
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- THIN MINI (q quartz surface)
-- QUICK THICK (k thick atmosphere)
+THIN MINI (q quartz surface)
+QUICK THICK (k thick atmosphere)

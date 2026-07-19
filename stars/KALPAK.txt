@@ -4,11 +4,11 @@ Paris coordinates: 3585680, 2100909, 4288481
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- KALPAK I (@ large, not consistent)
-- KALPAK II (k thick atmosphere)
-- KALPAK III (@ large, not consistent)
-- KALPAK IV (+ substellar object)
-- KALPAK V (q quartz surface)
+KALPAK I (@ large, not consistent)
+KALPAK II (k thick atmosphere)
+KALPAK III (@ large, not consistent)
+KALPAK IV (+ substellar object)
+KALPAK V (q quartz surface)
 
 Guide entries:
 A CLASS S02 SYSTEM OF 5 PLANETS. SKINNYMON EPOC 6011 585.589

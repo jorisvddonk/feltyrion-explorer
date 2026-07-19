@@ -4,11 +4,11 @@ Paris coordinates: -71862064, -760706, 53883688
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- MINISTAR (+ substellar object)
-- TWIN MINISTAR (+ substellar object)
-- Planet #2 (d dusty, craterized)
-- WHITE SPOTS (q quartz surface)
-- DARK DEMISE (@ large, not consistent)
+MINISTAR (+ substellar object)
+TWIN MINISTAR (+ substellar object)
+Planet #2 (d dusty, craterized)
+WHITE SPOTS (q quartz surface)
+DARK DEMISE (@ large, not consistent)
 
 Guide entries:
 WHITE DWARF

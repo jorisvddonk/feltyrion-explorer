@@ -4,5 +4,5 @@ Paris coordinates: -1425028976, 1134799, 1436089535
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- LOCTAR SLOW (k thick atmosphere)
+Planet #0 (d dusty, craterized)
+LOCTAR SLOW (k thick atmosphere)

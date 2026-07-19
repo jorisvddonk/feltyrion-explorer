@@ -4,7 +4,7 @@ Paris coordinates: 4807120, 3151397, 560749
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ESPEN NAMEHERE (d dusty, craterized)
+ESPEN NAMEHERE (d dusty, craterized)
 
 Guide entries:
 510 STAR WITH ONE PLANET DISCOVERED BY R.CLEAR 6011:595.612

@@ -4,13 +4,13 @@ Paris coordinates: 633440592, -10656950, 50122346
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- RUMAFHS (k thick atmosphere)
-- COLFHESIR (q quartz surface)
-- NEC TEMERE (f felisian)
-  - OMIRAL (d dusty, craterized)
-- NEC TIMIDE (f felisian)
-  - NUMTIJ (d dusty, craterized)
-  - LIRAL (d dusty, craterized)
+RUMAFHS (k thick atmosphere)
+COLFHESIR (q quartz surface)
+NEC TEMERE (f felisian)
+  OMIRAL (d dusty, craterized)
+NEC TIMIDE (f felisian)
+  NUMTIJ (d dusty, craterized)
+  LIRAL (d dusty, craterized)
 
 Guide entries:
  A CLASS S00 SYSTEM WITH 4 PLANETS AND 3 MOONS. 2 FELISIAN WORLDS.          

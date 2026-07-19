@@ -4,11 +4,11 @@ Paris coordinates: 3383920, 4384937, -1358521
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- TETA (@ large, not consistent)
-- ZORKI (+ substellar object)
-- LUSUS (q quartz surface)
-  - BALON (n thin atmosphere)
-  - OTARON (n thin atmosphere)
+TETA (@ large, not consistent)
+ZORKI (+ substellar object)
+LUSUS (q quartz surface)
+  BALON (n thin atmosphere)
+  OTARON (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY DASTARDLIKE. SYSTEM COMPOSED BY 3 PLANETS AND TWO MOONS.

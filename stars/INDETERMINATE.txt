@@ -4,5 +4,5 @@ Paris coordinates: 4066416, 4319160, -1036691
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DARK OPAL (n thin atmosphere)
-- OPAL'S TWIN (n thin atmosphere)
+DARK OPAL (n thin atmosphere)
+OPAL'S TWIN (n thin atmosphere)

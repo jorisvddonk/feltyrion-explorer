@@ -4,8 +4,8 @@ Paris coordinates: -107511664, 25038638, -2285110
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- AHMEB (@ large, not consistent)
-- ALEFAJNEKOLORY (@ large, not consistent)
-- CZEKOLADA (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- GEDAI (f felisian)
+AHMEB (@ large, not consistent)
+ALEFAJNEKOLORY (@ large, not consistent)
+CZEKOLADA (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+GEDAI (f felisian)

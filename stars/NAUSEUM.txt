@@ -4,8 +4,8 @@ Paris coordinates: 3052848, 4443317, -802373
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NASUSGOB (n thin atmosphere)
-- COLDSTONE N20001-02 (n thin atmosphere)
+NASUSGOB (n thin atmosphere)
+COLDSTONE N20001-02 (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY NYQUIST ON 6011.569.553.10

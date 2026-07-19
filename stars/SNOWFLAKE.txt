@@ -4,8 +4,8 @@ Paris coordinates: 1886768, 770887, 2235962
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- SNOWFLAKE 1 (n thin atmosphere)
-- SNOWFLAKE 2 (@ large, not consistent)
+SNOWFLAKE 1 (n thin atmosphere)
+SNOWFLAKE 2 (@ large, not consistent)
 
 Guide entries:
 WHITE DWARF (S02) DISCOVERED BY SERPENS. TWO PLANETS, NO MOONS.

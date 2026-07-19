@@ -4,9 +4,9 @@ Paris coordinates: 634354160, -10849132, 49993180
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- LYFHNA (n thin atmosphere)
-- MEFHBIJ (d dusty, craterized)
-- LEFHSIL (d dusty, craterized)
+LYFHNA (n thin atmosphere)
+MEFHBIJ (d dusty, craterized)
+LEFHSIL (d dusty, craterized)
 
 Guide entries:
 A CLASS S05 STAR WITH A SYSTEM OF 3 PLANETS (NO FELISIAN). HAS              

@@ -4,10 +4,10 @@ Paris coordinates: 4704272, 5164576, -1445736
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- COUP (r rocky, creased)
-- LYGET (k thick atmosphere)
-- UISEI (d dusty, craterized)
-- OL LO (@ large, not consistent)
+COUP (r rocky, creased)
+LYGET (k thick atmosphere)
+UISEI (d dusty, craterized)
+OL LO (@ large, not consistent)
 
 Guide entries:
 A CLASS S02 SYSTEM OF 4 PLANETS, NO MOONS. SKINNYMON EPOC 6011

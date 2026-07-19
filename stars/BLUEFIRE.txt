@@ -4,14 +4,14 @@ Paris coordinates: 902096, 1026900, 9976407
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (i icy surface)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-- GREEN DEPTHS (n thin atmosphere)
-  - LAND OF ROADS (i icy surface)
+Planet #0 (n thin atmosphere)
+Planet #1 (d dusty, craterized)
+Planet #2 (n thin atmosphere)
+  Moon #0 (i icy surface)
+  Moon #1 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+GREEN DEPTHS (n thin atmosphere)
+  LAND OF ROADS (i icy surface)
 
 Guide entries:
 STAR DISCOVERED BY PARRY LOST, 6011.712.941                                 

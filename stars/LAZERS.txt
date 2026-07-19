@@ -4,4 +4,4 @@ Paris coordinates: -106760240, 25118119, -1916145
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LV-025 (d dusty, craterized)
+LV-025 (d dusty, craterized)

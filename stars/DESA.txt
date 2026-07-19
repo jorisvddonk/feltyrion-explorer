@@ -4,7 +4,7 @@ Paris coordinates: 66416, -1278204, 2786514
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- DESA1 (k thick atmosphere)
+DESA1 (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY AIRCON. 6011.612.734

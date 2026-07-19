@@ -4,19 +4,19 @@ Paris coordinates: 6134256, 4295602, 795666
 Bodies: 13 (7 planets, 6 moons)
 
 System:
-- NANAREK (d dusty, craterized)
-- AVBARU (k thick atmosphere)
-- NEW FELIS (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- MINAAR (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-- RIANTHA (f felisian)
-- VIOLAN (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- MERNON (q quartz surface)
-  - Moon #0 (d dusty, craterized)
+NANAREK (d dusty, craterized)
+AVBARU (k thick atmosphere)
+NEW FELIS (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+MINAAR (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+RIANTHA (f felisian)
+VIOLAN (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+MERNON (q quartz surface)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
  ANOTHER HIGH LIFEBEARING STAR.

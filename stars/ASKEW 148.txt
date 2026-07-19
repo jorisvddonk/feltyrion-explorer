@@ -4,5 +4,5 @@ Paris coordinates: 9904528, -17464128, 16452814
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 148A (k thick atmosphere)
-- ASKEW 148B (n thin atmosphere)
+ASKEW 148A (k thick atmosphere)
+ASKEW 148B (n thin atmosphere)

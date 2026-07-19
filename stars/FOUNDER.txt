@@ -4,10 +4,10 @@ Paris coordinates: 4159632, 4836827, -1726052
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (r rocky, creased)
-- Planet #2 (n thin atmosphere)
-- HIJACK (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (r rocky, creased)
+Planet #2 (n thin atmosphere)
+HIJACK (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)

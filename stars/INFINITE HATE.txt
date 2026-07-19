@@ -4,9 +4,9 @@ Paris coordinates: -61515088, 29884984, -233224
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- JB 112 (+ substellar object)
-- JB 113 (+ substellar object)
-- STOPLOOKINGATME (k thick atmosphere)
+JB 112 (+ substellar object)
+JB 113 (+ substellar object)
+STOPLOOKINGATME (k thick atmosphere)
 
 Guide entries:
 STAR DISCOVERED BY MCWGOGS, EPOC 6011.645.306. 3 PLANETS.

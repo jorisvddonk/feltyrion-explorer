@@ -4,9 +4,9 @@ Paris coordinates: 4142128, 5182625, -629021
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- CRASSUS (* companion star)
-- POMPEI (* companion star)
-- ROME (d dusty, craterized)
+CRASSUS (* companion star)
+POMPEI (* companion star)
+ROME (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY KALMAN FARAGO IN 6011.560.739

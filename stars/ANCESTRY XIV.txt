@@ -4,8 +4,8 @@ Paris coordinates: -1420632912, 1164991, 1433226191
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (@ large, not consistent)
+Planet #0 (k thick atmosphere)
+Planet #1 (@ large, not consistent)
 
 Guide entries:
 S10, 2 PLANETS(1 THICK-AT, 1 GAS GIANT) RYAN GJK E6011.783.197              

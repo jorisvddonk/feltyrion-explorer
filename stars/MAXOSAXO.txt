@@ -4,10 +4,10 @@ Paris coordinates: 4304272, 4464874, -1145651
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- ARGOS (* companion star)
-  - THUNDREM (r rocky, creased)
-- ROASMYUN (q quartz surface)
-- ROHIAN (d dusty, craterized)
+ARGOS (* companion star)
+  THUNDREM (r rocky, creased)
+ROASMYUN (q quartz surface)
+ROHIAN (d dusty, craterized)
 
 Guide entries:
 A WONDERFUL EXAMPLE OF TWIN-STARS IN A SYSTEM OF 4 PLANETS. KASGOR

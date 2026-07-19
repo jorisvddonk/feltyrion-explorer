@@ -4,5 +4,5 @@ Paris coordinates: 581072, 817758, -734678
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- BLUESKY (q quartz surface)
+Planet #0 (d dusty, craterized)
+BLUESKY (q quartz surface)

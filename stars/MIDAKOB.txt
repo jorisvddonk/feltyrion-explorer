@@ -4,8 +4,8 @@ Paris coordinates: 4562480, 5238000, 156847
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (d dusty, craterized)
-- TEEZAFEV (k thick atmosphere)
-  - Moon #0 (^ unstable)
-- NASEEKIM (f felisian)
+Planet #0 (+ substellar object)
+Planet #1 (d dusty, craterized)
+TEEZAFEV (k thick atmosphere)
+  Moon #0 (^ unstable)
+NASEEKIM (f felisian)

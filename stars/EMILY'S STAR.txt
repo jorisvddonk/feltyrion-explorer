@@ -4,18 +4,18 @@ Paris coordinates: 2722864, 4994119, -4161303
 Bodies: 12 (8 planets, 4 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (r rocky, creased)
-- Planet #2 (q quartz surface)
-  - Moon #0 (n thin atmosphere)
-- INVERSE (f felisian)
-- Planet #4 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- Planet #5 (q quartz surface)
-- Planet #6 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #7 (i icy surface)
+Planet #0 (r rocky, creased)
+Planet #1 (r rocky, creased)
+Planet #2 (q quartz surface)
+  Moon #0 (n thin atmosphere)
+INVERSE (f felisian)
+Planet #4 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+Planet #5 (q quartz surface)
+Planet #6 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #7 (i icy surface)
 
 Guide entries:
 NAMED FOR MY SISTER.                                                        

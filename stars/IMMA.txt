@@ -4,7 +4,7 @@ Paris coordinates: 2594640, 6276362, -1885446
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ORI (d dusty, craterized)
+ORI (d dusty, craterized)
 
 Guide entries:
 CHARTED BY (KRUSTY 6011.600.383)

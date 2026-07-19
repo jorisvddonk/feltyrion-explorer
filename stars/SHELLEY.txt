@@ -4,13 +4,13 @@ Paris coordinates: 4162480, 4129830, 471229
 Bodies: 7 (3 planets, 4 moons)
 
 System:
-- MARSHMALLOW (r rocky, creased)
-- JADORE (d dusty, craterized)
-- BAILAMA (@ large, not consistent)
-  - Moon #0 (r rocky, creased)
-  - Moon #1 (r rocky, creased)
-  - Moon #2 (n thin atmosphere)
-  - Moon #3 (r rocky, creased)
+MARSHMALLOW (r rocky, creased)
+JADORE (d dusty, craterized)
+BAILAMA (@ large, not consistent)
+  Moon #0 (r rocky, creased)
+  Moon #1 (r rocky, creased)
+  Moon #2 (n thin atmosphere)
+  Moon #3 (r rocky, creased)
 
 Guide entries:
  FIRST STAR DISCOVERED BY LINGO.

@@ -4,9 +4,9 @@ Paris coordinates: 14992, -1251894, 1971276
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- KREME1 (@ large, not consistent)
-- KREME2 (n thin atmosphere)
-- KREME3 (d dusty, craterized)
+KREME1 (@ large, not consistent)
+KREME2 (n thin atmosphere)
+KREME3 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY AIRCON

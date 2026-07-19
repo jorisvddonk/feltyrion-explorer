@@ -4,12 +4,12 @@ Paris coordinates: 3717840, 4660522, 308917
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- CHA I (d dusty, craterized)
-- CHA II (+ substellar object)
-- AVION (CHA III) (f felisian)
-  - REBB (n thin atmosphere)
-  - BEEC (d dusty, craterized)
-  - CAHR (d dusty, craterized)
+CHA I (d dusty, craterized)
+CHA II (+ substellar object)
+AVION (CHA III) (f felisian)
+  REBB (n thin atmosphere)
+  BEEC (d dusty, craterized)
+  CAHR (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY WINGCHASER EPOC 6011:605.837

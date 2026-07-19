@@ -4,12 +4,12 @@ Paris coordinates: 47704016, 540804, 1980355236
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- AS12281338A (+ substellar object)
-- AS12281338B (d dusty, craterized)
-- AS12281338C (r rocky, creased)
-- AS12281338D (+ substellar object)
-- AS12281338E (k thick atmosphere)
-- AS12281338F (+ substellar object)
+AS12281338A (+ substellar object)
+AS12281338B (d dusty, craterized)
+AS12281338C (r rocky, creased)
+AS12281338D (+ substellar object)
+AS12281338E (k thick atmosphere)
+AS12281338F (+ substellar object)
 
 Guide entries:
 NOT WORTH A VISIT.

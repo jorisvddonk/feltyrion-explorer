@@ -4,4 +4,4 @@ Paris coordinates: 3666416, 4331653, -781911
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FIRST (q quartz surface)
+FIRST (q quartz surface)

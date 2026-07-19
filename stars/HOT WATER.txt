@@ -4,9 +4,9 @@ Paris coordinates: 4969264, 4622360, -20468
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- AQUAFUL (d dusty, craterized)
-- TURQUOIFUL (d dusty, craterized)
-- BRIGHT SKY (d dusty, craterized)
+AQUAFUL (d dusty, craterized)
+TURQUOIFUL (d dusty, craterized)
+BRIGHT SKY (d dusty, craterized)
 
 Guide entries:
 THIS AND ALL IT'S PLANETS DISCOVERED BY PICHERITY, EPOC 6011 683.398        

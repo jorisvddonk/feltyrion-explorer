@@ -4,17 +4,17 @@ Paris coordinates: -820667056, -970662, -673672866
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- TAYARAL A (* companion star)
-  - Moon #0 (+ substellar object)
-  - MORADOR (f felisian)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (d dusty, craterized)
-- SATAKHAM (f felisian)
-- Planet #4 (@ large, not consistent)
-  - Moon #0 (k thick atmosphere)
-  - Moon #1 (n thin atmosphere)
-- Planet #5 (@ large, not consistent)
-  - Moon #0 (n thin atmosphere)
+TAYARAL A (* companion star)
+  Moon #0 (+ substellar object)
+  MORADOR (f felisian)
+Planet #1 (n thin atmosphere)
+Planet #2 (d dusty, craterized)
+SATAKHAM (f felisian)
+Planet #4 (@ large, not consistent)
+  Moon #0 (k thick atmosphere)
+  Moon #1 (n thin atmosphere)
+Planet #5 (@ large, not consistent)
+  Moon #0 (n thin atmosphere)
 
 Guide entries:
 S08; 6 MAJORS, 5 MINORS

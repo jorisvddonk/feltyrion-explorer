@@ -4,4 +4,4 @@ Paris coordinates: 956784, 443767, -607581
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- CALLISTA (k thick atmosphere)
+CALLISTA (k thick atmosphere)

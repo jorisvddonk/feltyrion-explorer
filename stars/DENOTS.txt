@@ -4,9 +4,9 @@ Paris coordinates: -563568, -159147, -30446
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- DOT (q quartz surface)
-- Planet #1 (r rocky, creased)
-- Planet #2 (n thin atmosphere)
+DOT (q quartz surface)
+Planet #1 (r rocky, creased)
+Planet #2 (n thin atmosphere)
 
 Guide entries:
 STAR DISCOVERED BY BJS EPOC 6011:584.1

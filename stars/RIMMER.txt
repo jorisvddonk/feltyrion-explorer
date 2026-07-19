@@ -4,11 +4,11 @@ Paris coordinates: 5779984, 4363991, -1880236
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- ARNOLD (k thick atmosphere)
-- JUDAS (q quartz surface)
-- SMEGHEAD (q quartz surface)
-- H (n thin atmosphere)
-- ACE RIMMER (k thick atmosphere)
+ARNOLD (k thick atmosphere)
+JUDAS (q quartz surface)
+SMEGHEAD (q quartz surface)
+H (n thin atmosphere)
+ACE RIMMER (k thick atmosphere)
 
 Guide entries:
 TYPE S02, 5 PLANETS. 2 AND 3 HAVE OXYGEN ATM., BUT TOO HOT FOR COMFORT

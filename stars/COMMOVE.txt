@@ -4,9 +4,9 @@ Paris coordinates: 6658544, 5041774, -158488
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- COMMOVE I (k thick atmosphere)
-- COMMOVE II (+ substellar object)
-- COMMOVE III (k thick atmosphere)
+COMMOVE I (k thick atmosphere)
+COMMOVE II (+ substellar object)
+COMMOVE III (k thick atmosphere)
 
 Guide entries:
  A CLASS S02 SYSTEM OF 3 WORLDS. SKINNYMON EPOC 6011 585.247.

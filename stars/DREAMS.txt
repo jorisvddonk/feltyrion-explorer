@@ -4,7 +4,7 @@ Paris coordinates: -61684016, 29753985, -55639
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- HAPPYNESS (q quartz surface)
+HAPPYNESS (q quartz surface)
 
 Guide entries:
 STAR DISCOVERED BY MCWGOGS, EPOC 6011.645.210. S00, ONE QUARTZ PLANET.

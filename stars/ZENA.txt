@@ -4,8 +4,8 @@ Paris coordinates: 2257872, 8270892, -5709617
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ZENA 1 (r rocky, creased)
-- ZENA 2 (d dusty, craterized)
+ZENA 1 (r rocky, creased)
+ZENA 2 (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.660

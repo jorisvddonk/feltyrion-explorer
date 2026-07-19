@@ -4,9 +4,9 @@ Paris coordinates: 4055696, 5146452, 351675
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (n thin atmosphere)
-- XABRAN'S ROCK (f felisian)
+Planet #0 (k thick atmosphere)
+Planet #1 (n thin atmosphere)
+XABRAN'S ROCK (f felisian)
 
 Guide entries:
  NAMED TWOTWOS, 6012:249.768; DISCOVERED CIRCA 6011:707.162

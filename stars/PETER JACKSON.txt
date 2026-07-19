@@ -4,12 +4,12 @@ Paris coordinates: 3948912, 5453743, -35342
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (+ substellar object)
-- SEABREEZE (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (+ substellar object)
+SEABREEZE (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
 
 Guide entries:
 THE FIRST LIFE-SUPPORTING SYSTEM I'VE EVER BEEN TO. NOT MUCH TO

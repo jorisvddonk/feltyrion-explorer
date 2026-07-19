@@ -4,4 +4,4 @@ Paris coordinates: 3197488, 3831180, -416659
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- GOOGLY (d dusty, craterized)
+GOOGLY (d dusty, craterized)

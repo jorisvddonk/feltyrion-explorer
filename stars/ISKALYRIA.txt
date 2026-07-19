@@ -4,7 +4,7 @@ Paris coordinates: 5193552, 4976463, -640290
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- NAKRON (q quartz surface)
+NAKRON (q quartz surface)
 
 Guide entries:
  DISCOVERED BY FOTIOS. EPOC 6011:609.563

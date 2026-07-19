@@ -4,9 +4,9 @@ Paris coordinates: 634558096, -10372635, 48090201
 Bodies: 3 (2 planets, 1 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (* companion star)
-  - Moon #0 (q quartz surface)
+Planet #0 (n thin atmosphere)
+Planet #1 (* companion star)
+  Moon #0 (q quartz surface)
 
 Guide entries:
 CLASS S)8 WITH ONE COMPANION STAR AND TWO OTHER WORLDS. 0.91891229          

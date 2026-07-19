@@ -4,8 +4,8 @@ Paris coordinates: 4831408, 4303641, 41554
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GIVE (n thin atmosphere)
-- THANKS (@ large, not consistent)
+GIVE (n thin atmosphere)
+THANKS (@ large, not consistent)
 
 Guide entries:
 AFTER FOOLISHLY ATTEMPTING A JOURNEY FROM HYPERION V'S 13TH

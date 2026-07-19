@@ -4,15 +4,15 @@ Paris coordinates: -91792, 28689, 1674230
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (@ large, not consistent)
-- MIRROR OF THE SOUL (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #5 (n thin atmosphere)
+Planet #0 (+ substellar object)
+Planet #1 (@ large, not consistent)
+MIRROR OF THE SOUL (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #4 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #5 (n thin atmosphere)
 
 Guide entries:
 DISCOVERED 6011:565.835.700 BY FRANCOIS WISARD

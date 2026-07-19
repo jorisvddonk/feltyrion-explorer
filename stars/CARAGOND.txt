@@ -4,15 +4,15 @@ Paris coordinates: -332496, 238827, -579572
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- ASTEL (k thick atmosphere)
-- BLOB (+ substellar object)
-- DALBOR (d dusty, craterized)
-- ANDAL (+ substellar object)
-  - EROTH (k thick atmosphere)
-  - Moon #1 (n thin atmosphere)
-- Planet #4 (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+ASTEL (k thick atmosphere)
+BLOB (+ substellar object)
+DALBOR (d dusty, craterized)
+ANDAL (+ substellar object)
+  EROTH (k thick atmosphere)
+  Moon #1 (n thin atmosphere)
+Planet #4 (d dusty, craterized)
+Planet #5 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:569:885

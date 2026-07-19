@@ -4,8 +4,8 @@ Paris coordinates: 2535344, 5128875, 615644
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (+ substellar object)
-- VAD VACKERT (f felisian)
-- Planet #3 (f felisian)
-- Planet #4 (d dusty, craterized)
+Planet #0 (q quartz surface)
+Planet #1 (+ substellar object)
+VAD VACKERT (f felisian)
+Planet #3 (f felisian)
+Planet #4 (d dusty, craterized)

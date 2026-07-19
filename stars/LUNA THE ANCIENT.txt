@@ -4,7 +4,7 @@ Paris coordinates: 17755952, 5254232, 9793116
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
+Planet #0 (k thick atmosphere)
 
 Guide entries:
  FOUND BY PONTUS OTTOSSON 609.469.490

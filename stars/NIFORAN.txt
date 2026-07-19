@@ -4,5 +4,5 @@ Paris coordinates: 3542128, 4619626, 37971
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TJALNAR (q quartz surface)
-- YILLOS (r rocky, creased)
+TJALNAR (q quartz surface)
+YILLOS (r rocky, creased)

@@ -4,7 +4,7 @@ Paris coordinates: -525712, 733043, -46430
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- MULDON (n thin atmosphere)
+MULDON (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.741

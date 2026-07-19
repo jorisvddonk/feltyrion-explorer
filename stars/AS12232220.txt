@@ -4,5 +4,5 @@ Paris coordinates: -325456, 4221008, 23192015
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AS12232220A (q quartz surface)
-- AS12232200B (d dusty, craterized)
+AS12232220A (q quartz surface)
+AS12232200B (d dusty, craterized)

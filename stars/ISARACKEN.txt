@@ -4,10 +4,10 @@ Paris coordinates: 3779984, 5313464, -64458
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- DUMP (d dusty, craterized)
-- ISARACKEN B (* companion star)
-- NIRPORI (k thick atmosphere)
-- MOFIR (n thin atmosphere)
+DUMP (d dusty, craterized)
+ISARACKEN B (* companion star)
+NIRPORI (k thick atmosphere)
+MOFIR (n thin atmosphere)
 
 Guide entries:
 FURTHER NOTES: A CLASS S08 SYSTEM OF 2 STARS AND 3 WORLDS, NONE

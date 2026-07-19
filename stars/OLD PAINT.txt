@@ -4,8 +4,8 @@ Paris coordinates: 74288, 247959, -378606
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- CRUMBY (+ substellar object)
-- SMOLT (+ substellar object)
+CRUMBY (+ substellar object)
+SMOLT (+ substellar object)
 
 Guide entries:
 A CLASS S00 'SYSTEM' OF TWO SUBSTELLAR OBJECT PLANETS. SKINNYMON

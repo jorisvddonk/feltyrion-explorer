@@ -4,14 +4,14 @@ Paris coordinates: -165744, 3241563, 7052137
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- AMONIA (@ large, not consistent)
-- KRATAR (r rocky, creased)
-- FROCAR (f felisian)
-  - GRAYE (d dusty, craterized)
-  - TRUGE (d dusty, craterized)
-- TRITENA (n thin atmosphere)
-  - MRASA (n thin atmosphere)
-- JOTAR (d dusty, craterized)
+AMONIA (@ large, not consistent)
+KRATAR (r rocky, creased)
+FROCAR (f felisian)
+  GRAYE (d dusty, craterized)
+  TRUGE (d dusty, craterized)
+TRITENA (n thin atmosphere)
+  MRASA (n thin atmosphere)
+JOTAR (d dusty, craterized)
 
 Guide entries:
 A YELLOW STAR HOME TO 8 BODIES; 3 NORMAL PLANETS, 1 FELISIAN, 1 GAS         

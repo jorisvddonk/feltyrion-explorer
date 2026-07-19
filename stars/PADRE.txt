@@ -4,5 +4,5 @@ Paris coordinates: 5790704, 5142669, -3366881
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- COCOA (d dusty, craterized)
-- Planet #1 (d dusty, craterized)
+COCOA (d dusty, craterized)
+Planet #1 (d dusty, craterized)

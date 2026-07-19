@@ -4,5 +4,5 @@ Paris coordinates: 14026384, 8910731, -3692432
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MARKTINDORF (q quartz surface)
-- STAUB (r rocky, creased)
+MARKTINDORF (q quartz surface)
+STAUB (r rocky, creased)

@@ -4,5 +4,5 @@ Paris coordinates: 3766416, 5077313, -924962
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- CAMBRIDGE (d dusty, craterized)
+Planet #0 (n thin atmosphere)
+CAMBRIDGE (d dusty, craterized)

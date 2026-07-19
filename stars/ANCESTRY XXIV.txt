@@ -4,8 +4,8 @@ Paris coordinates: -1425563984, 838672, 1438476288
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DUSK PRIME (r rocky, creased)
-- TWIN BANDS NR (+ substellar object)
+DUSK PRIME (r rocky, creased)
+TWIN BANDS NR (+ substellar object)
 
 Guide entries:
 S10 WITH A CREASED OBJECT AND A SUBSTELLAR OBJECT.                          

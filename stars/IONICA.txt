@@ -4,12 +4,12 @@ Paris coordinates: 1870352, 6120454, -719006
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- DEVLIN (@ large, not consistent)
-- CHEN (d dusty, craterized)
-- LEE (d dusty, craterized)
-  - IMELDA (d dusty, craterized)
-- WU (d dusty, craterized)
-  - JIN (d dusty, craterized)
+DEVLIN (@ large, not consistent)
+CHEN (d dusty, craterized)
+LEE (d dusty, craterized)
+  IMELDA (d dusty, craterized)
+WU (d dusty, craterized)
+  JIN (d dusty, craterized)
 
 Guide entries:
 PULSAR OBJECT 4 PLANETS AND 2 MINOR BODIES (KRUSTY 6011:598.970)

@@ -4,7 +4,7 @@ Paris coordinates: 4742128, 4745624, -1130057
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- COMPASSION (+ substellar object)
+COMPASSION (+ substellar object)
 
 Guide entries:
 JEREMY JOHNSON, EPOC 6011 - 592.952.830

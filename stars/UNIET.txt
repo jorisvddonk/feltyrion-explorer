@@ -4,4 +4,4 @@ Paris coordinates: 4521776, 5034779, -2227769
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- CRICKTY (d dusty, craterized)
+CRICKTY (d dusty, craterized)

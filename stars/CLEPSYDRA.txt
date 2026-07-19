@@ -4,8 +4,8 @@ Paris coordinates: 3766416, 4377313, -926318
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BORDERLINE (k thick atmosphere)
-- RIVEN (k thick atmosphere)
+BORDERLINE (k thick atmosphere)
+RIVEN (k thick atmosphere)
 
 Guide entries:
 STRANGE! WHERE HAVE ALL THE PLANETS GONE? THOUGH THE GUIDE SAYS THAT

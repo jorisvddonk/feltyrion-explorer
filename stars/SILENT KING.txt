@@ -4,8 +4,8 @@ Paris coordinates: 4642128, 4525898, -1103723
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PINKY (@ large, not consistent)
-- MIRAGE (n thin atmosphere)
+PINKY (@ large, not consistent)
+MIRAGE (n thin atmosphere)
 
 Guide entries:
 FURTHER NOTES: A SOMEWHAT DISAPPOINTING CLASS S00 SYSTEM, WITH

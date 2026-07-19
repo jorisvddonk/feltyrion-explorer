@@ -4,7 +4,7 @@ Paris coordinates: 3563568, 5622361, -2841865
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LUTHERON (r rocky, creased)
+LUTHERON (r rocky, creased)
 
 Guide entries:
  DISCOVERED 601:661:01 BY CAPTAIN LUTHER

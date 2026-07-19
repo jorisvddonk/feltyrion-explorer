@@ -4,4 +4,4 @@ Paris coordinates: 577136, 125210, 990992
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- APAGAO (k thick atmosphere)
+APAGAO (k thick atmosphere)

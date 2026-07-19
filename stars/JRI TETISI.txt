@@ -4,8 +4,8 @@ Paris coordinates: 635016304, -10378690, 49052710
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (d dusty, craterized)
+Planet #0 (q quartz surface)
+Planet #1 (d dusty, craterized)
 
 Guide entries:
  S08 SYSTEM WITH 2 WORLDS BUT NO COMPANION STAR. 1.09508836; TEMP           

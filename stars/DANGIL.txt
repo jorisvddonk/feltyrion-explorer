@@ -4,10 +4,10 @@ Paris coordinates: 516080, 5527861, -2330081
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (@ large, not consistent)
-- ZAMASA (@ large, not consistent)
-- Planet #3 (q quartz surface)
-- Planet #4 (n thin atmosphere)
-- Planet #5 (r rocky, creased)
-- Planet #6 (+ substellar object)
+Planet #0 (k thick atmosphere)
+Planet #1 (@ large, not consistent)
+ZAMASA (@ large, not consistent)
+Planet #3 (q quartz surface)
+Planet #4 (n thin atmosphere)
+Planet #5 (r rocky, creased)
+Planet #6 (+ substellar object)

@@ -4,8 +4,8 @@ Paris coordinates: -325712, -38613, -130511
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (^ unstable)
-- CONTRAST (q quartz surface)
+Planet #0 (^ unstable)
+CONTRAST (q quartz surface)
 
 Guide entries:
 AN S00 STAR WITH ONLY TWO PLANETS AND NO MOONS. --EKA

@@ -4,14 +4,14 @@ Paris coordinates: 3621776, 4393277, -1326104
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- PLASTIC WRAP (d dusty, craterized)
-- GLOWSTICK (@ large, not consistent)
-- PITCH BLACK (n thin atmosphere)
-  - FLECTOR (i icy surface)
-  - MEATSHIELD (d dusty, craterized)
-- ANOMALY (d dusty, craterized)
-- MOUTHWASH (d dusty, craterized)
-  - IT BURNS MY EYES (i icy surface)
+PLASTIC WRAP (d dusty, craterized)
+GLOWSTICK (@ large, not consistent)
+PITCH BLACK (n thin atmosphere)
+  FLECTOR (i icy surface)
+  MEATSHIELD (d dusty, craterized)
+ANOMALY (d dusty, craterized)
+MOUTHWASH (d dusty, craterized)
+  IT BURNS MY EYES (i icy surface)
 
 Guide entries:
  MY PROFESSIONAL OPINION: THIS SYSTEM IS *WEIRD*. JUST PLAIN *WEIRD*.

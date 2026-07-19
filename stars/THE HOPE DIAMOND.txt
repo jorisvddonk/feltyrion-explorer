@@ -4,4 +4,4 @@ Paris coordinates: 3821776, 4629682, -1537994
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- THE PINK PANTHER (+ substellar object)
+THE PINK PANTHER (+ substellar object)

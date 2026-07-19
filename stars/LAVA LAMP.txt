@@ -4,16 +4,16 @@ Paris coordinates: 3690704, 4370114, -1304184
 Bodies: 10 (7 planets, 3 moons)
 
 System:
-- CRYSTAL BLUE (d dusty, craterized)
-- LAWSDUN JAUJ (d dusty, craterized)
-- GREEN MOUNTAIN (r rocky, creased)
-- SHERE JAUJ (n thin atmosphere)
-  - SHERE JAUJ-KYN (d dusty, craterized)
-  - SHERE JAUJ-BRED (d dusty, craterized)
-- FRODO (n thin atmosphere)
-  - QIOUG JAUJ-KYN (d dusty, craterized)
-- RHAEDREEJ JAUJ (q quartz surface)
-- YTHURD JAUJ (n thin atmosphere)
+CRYSTAL BLUE (d dusty, craterized)
+LAWSDUN JAUJ (d dusty, craterized)
+GREEN MOUNTAIN (r rocky, creased)
+SHERE JAUJ (n thin atmosphere)
+  SHERE JAUJ-KYN (d dusty, craterized)
+  SHERE JAUJ-BRED (d dusty, craterized)
+FRODO (n thin atmosphere)
+  QIOUG JAUJ-KYN (d dusty, craterized)
+RHAEDREEJ JAUJ (q quartz surface)
+YTHURD JAUJ (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY MATTHEW REYNOLDS. 6011.563.12.40

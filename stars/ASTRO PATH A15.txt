@@ -4,4 +4,4 @@ Paris coordinates: 4475376, 4685361, -8826979
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
+Planet #0 (+ substellar object)

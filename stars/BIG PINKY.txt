@@ -4,5 +4,5 @@ Paris coordinates: 3735344, 3673064, -640347
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- HILLY GREEN (q quartz surface)
-- Planet #1 (q quartz surface)
+HILLY GREEN (q quartz surface)
+Planet #1 (q quartz surface)

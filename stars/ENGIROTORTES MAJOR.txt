@@ -4,10 +4,10 @@ Paris coordinates: 2952848, 4848045, -883575
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- ENGIROTORTES MINOR (* companion star)
-  - BETWEEN (+ substellar object)
-  - INDIFFERENT (n thin atmosphere)
-- GHISLEMBE (n thin atmosphere)
+ENGIROTORTES MINOR (* companion star)
+  BETWEEN (+ substellar object)
+  INDIFFERENT (n thin atmosphere)
+GHISLEMBE (n thin atmosphere)
 
 Guide entries:
 FURTHER NOTES: A CLASS S08 TWO STAR SYSTEM. ONLY 3 WORLDS

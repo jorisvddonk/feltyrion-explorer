@@ -4,5 +4,5 @@ Paris coordinates: -839280, 4633030, -282228
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- IMPERIAL (+ substellar object)
-- GYUM (@ large, not consistent)
+IMPERIAL (+ substellar object)
+GYUM (@ large, not consistent)

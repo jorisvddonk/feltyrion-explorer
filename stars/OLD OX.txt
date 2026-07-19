@@ -4,8 +4,8 @@ Paris coordinates: 2805360, 4443224, -3354369
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- HOT OX (+ substellar object)
-- DIVIDED OX (+ substellar object)
+HOT OX (+ substellar object)
+DIVIDED OX (+ substellar object)
 
 Guide entries:
 AN S10 WITH 2 SUBSTELLAR COMPANIONS. RYAN GJK E6011.791.132                 

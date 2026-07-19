@@ -4,7 +4,7 @@ Paris coordinates: 2141206384, -1103101, -960429
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FAWAA (n thin atmosphere)
+FAWAA (n thin atmosphere)
 
 Guide entries:
  S11 STAR OVER 50 L.Y. FROM LISTA 308. PROBABLY NOT TO BE                   

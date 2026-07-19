@@ -4,7 +4,7 @@ Paris coordinates: 1901255760, 2110239, 54522031
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- UNDREA PRIME (q quartz surface)
+UNDREA PRIME (q quartz surface)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:788.082

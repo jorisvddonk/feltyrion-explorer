@@ -4,4 +4,4 @@ Paris coordinates: 1928560, 4141780, 852839
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PINK RING (+ substellar object)
+PINK RING (+ substellar object)

@@ -4,12 +4,12 @@ Paris coordinates: 900717616, 1531014, 55773082
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- CIROLAAN PRIME (@ large, not consistent)
-- CIROLAAN 2 (r rocky, creased)
-- CIROLAAN 3 (@ large, not consistent)
-- CIROLAAN 4 (@ large, not consistent)
-- CIROLAAN 5 (n thin atmosphere)
-- CIROLAAN 6 (k thick atmosphere)
+CIROLAAN PRIME (@ large, not consistent)
+CIROLAAN 2 (r rocky, creased)
+CIROLAAN 3 (@ large, not consistent)
+CIROLAAN 4 (@ large, not consistent)
+CIROLAAN 5 (n thin atmosphere)
+CIROLAAN 6 (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:789.36

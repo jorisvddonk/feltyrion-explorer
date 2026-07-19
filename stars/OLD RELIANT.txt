@@ -4,14 +4,14 @@ Paris coordinates: -1343216, 571821, 1870155
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- NO CREAM PROVIDED (r rocky, creased)
-- RETINA (d dusty, craterized)
-- BIG SWIRL (@ large, not consistent)
-- HALF POINT (d dusty, craterized)
-- DUSTRAKER (r rocky, creased)
-- MELLOWLY DESCENT (n thin atmosphere)
-- CRYSTAL SPREAD (q quartz surface)
-- BLAEIGEIPHORA (i icy surface)
+NO CREAM PROVIDED (r rocky, creased)
+RETINA (d dusty, craterized)
+BIG SWIRL (@ large, not consistent)
+HALF POINT (d dusty, craterized)
+DUSTRAKER (r rocky, creased)
+MELLOWLY DESCENT (n thin atmosphere)
+CRYSTAL SPREAD (q quartz surface)
+BLAEIGEIPHORA (i icy surface)
 
 Guide entries:
 AN S02 WITH 8 BODIES, MOSTLY DUSTY WORLDS(AGH?!). I'LL PROBABLY             

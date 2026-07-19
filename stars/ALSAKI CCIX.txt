@@ -4,5 +4,5 @@ Paris coordinates: 15568176, 32297623, -6833269
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (d dusty, craterized)
+Planet #0 (k thick atmosphere)
+Planet #1 (d dusty, craterized)

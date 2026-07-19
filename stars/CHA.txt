@@ -4,4 +4,4 @@ Paris coordinates: -420421264, -1424324, 54985058
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- OOMER (k thick atmosphere)
+OOMER (k thick atmosphere)

@@ -4,4 +4,4 @@ Paris coordinates: 3146064, 3814890, -1245904
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SATURN REVISITED (@ large, not consistent)
+SATURN REVISITED (@ large, not consistent)

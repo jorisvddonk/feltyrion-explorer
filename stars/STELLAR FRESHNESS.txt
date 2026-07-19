@@ -4,7 +4,7 @@ Paris coordinates: 4186768, 4143444, -134465
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- YOG (+ substellar object)
+YOG (+ substellar object)
 
 Guide entries:
 S07 WITH ONE ORBITING SUBSTELLAR OBJECT. RYAN GJK E6011.780                 

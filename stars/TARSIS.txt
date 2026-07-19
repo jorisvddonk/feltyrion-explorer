@@ -4,5 +4,5 @@ Paris coordinates: -218928, 244011, 97180
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TORVAHLUS (n thin atmosphere)
-- SAANDAR (r rocky, creased)
+TORVAHLUS (n thin atmosphere)
+SAANDAR (r rocky, creased)

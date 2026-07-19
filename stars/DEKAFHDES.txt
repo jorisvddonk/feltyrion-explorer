@@ -4,8 +4,8 @@ Paris coordinates: 634116304, -10940159, 49876301
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PIPALYS (r rocky, creased)
-- LOLAUMAR (@ large, not consistent)
+PIPALYS (r rocky, creased)
+LOLAUMAR (@ large, not consistent)
 
 Guide entries:
 A PSEUDO S08 WITH NO COMPANION STAR AND 2 WORLDS. ONLY 6.18 LY FROM         

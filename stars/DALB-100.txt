@@ -4,7 +4,7 @@ Paris coordinates: 3417840, 4918145, 586133
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- DALB-100 I (k thick atmosphere)
+DALB-100 I (k thick atmosphere)
 
 Guide entries:
 ONLY ONE PLANET, DALB-100 I,VERY CLOSE TO THE STAR. NICE PICTURE, BUT

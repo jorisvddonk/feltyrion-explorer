@@ -4,4 +4,4 @@ Paris coordinates: 2452848, -23285048, -227234
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- EXGE (q quartz surface)
+EXGE (q quartz surface)

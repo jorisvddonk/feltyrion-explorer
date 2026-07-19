@@ -4,8 +4,8 @@ Paris coordinates: 4111056, 4395355, -467643
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- NOCTURNE IV (d dusty, craterized)
-- DON'S WORLD (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - LISA'S PURCHASE (n thin atmosphere)
+Planet #0 (d dusty, craterized)
+NOCTURNE IV (d dusty, craterized)
+DON'S WORLD (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  LISA'S PURCHASE (n thin atmosphere)

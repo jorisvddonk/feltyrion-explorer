@@ -4,12 +4,12 @@ Paris coordinates: 4385680, 2042094, 3564625
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- CABRILLA I (n thin atmosphere)
-- CABRILLA II (^ unstable)
-- CABRILLA III (d dusty, craterized)
-- CABRILLA IV (q quartz surface)
-- CABRILLA V (d dusty, craterized)
-- CABRILLA VI (d dusty, craterized)
+CABRILLA I (n thin atmosphere)
+CABRILLA II (^ unstable)
+CABRILLA III (d dusty, craterized)
+CABRILLA IV (q quartz surface)
+CABRILLA V (d dusty, craterized)
+CABRILLA VI (d dusty, craterized)
 
 Guide entries:
 A CLASS S02 SYSTEM OF 6 WORLDS. SKINNYMON EPOC 6011 585.599

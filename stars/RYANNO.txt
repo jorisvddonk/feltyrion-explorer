@@ -4,15 +4,15 @@ Paris coordinates: 601679280, 1439556, 55169372
 Bodies: 9 (3 planets, 6 moons)
 
 System:
-- RYANNO ALPHA (* companion star)
-  - RYANNO ALPHA PRIME (q quartz surface)
-  - RYANNO ALPHA 2 (f felisian)
-- RYANNO BETA (* companion star)
-  - RYANNO BETA PRIME (r rocky, creased)
-- RYANNO GAMMA (* companion star)
-  - RYANNO GAMMA PRIME (k thick atmosphere)
-  - RYANNO GAMMA 2 (@ large, not consistent)
-  - RYANNO GAMMA 3 (d dusty, craterized)
+RYANNO ALPHA (* companion star)
+  RYANNO ALPHA PRIME (q quartz surface)
+  RYANNO ALPHA 2 (f felisian)
+RYANNO BETA (* companion star)
+  RYANNO BETA PRIME (r rocky, creased)
+RYANNO GAMMA (* companion star)
+  RYANNO GAMMA PRIME (k thick atmosphere)
+  RYANNO GAMMA 2 (@ large, not consistent)
+  RYANNO GAMMA 3 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:789.127

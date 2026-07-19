@@ -4,8 +4,8 @@ Paris coordinates: 4473200, 4228644, -1195059
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- SLEEPINGLANDS (n thin atmosphere)
-- HARSHLANDS (@ large, not consistent)
+SLEEPINGLANDS (n thin atmosphere)
+HARSHLANDS (@ large, not consistent)
 
 Guide entries:
  DISCOVERED EPOC 6011, 658.697

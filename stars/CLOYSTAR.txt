@@ -4,6 +4,6 @@ Paris coordinates: 4073200, 4402744, -540117
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- QUARTAIN (d dusty, craterized)
-- Planet #1 (q quartz surface)
-- WASTLANDIA (k thick atmosphere)
+QUARTAIN (d dusty, craterized)
+Planet #1 (q quartz surface)
+WASTLANDIA (k thick atmosphere)

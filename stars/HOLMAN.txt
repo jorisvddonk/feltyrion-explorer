@@ -4,13 +4,13 @@ Paris coordinates: -305360, -1036478, 1027323
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- HOLMAN1 (d dusty, craterized)
-- HOLMAN2 (+ substellar object)
-- HOLMAN3 (d dusty, craterized)
-- HOLMAN4 (n thin atmosphere)
-- HOLMAN5 (d dusty, craterized)
-- HOLMAN6 (n thin atmosphere)
-- HOLMAN7 (q quartz surface)
+HOLMAN1 (d dusty, craterized)
+HOLMAN2 (+ substellar object)
+HOLMAN3 (d dusty, craterized)
+HOLMAN4 (n thin atmosphere)
+HOLMAN5 (d dusty, craterized)
+HOLMAN6 (n thin atmosphere)
+HOLMAN7 (q quartz surface)
 
 Guide entries:
 DISCOVERED BY AIRCON. 6011.612.631.300

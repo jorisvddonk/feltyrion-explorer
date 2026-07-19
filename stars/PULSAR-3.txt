@@ -4,5 +4,5 @@ Paris coordinates: 2081072, 4141345, -2140325
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PULSAR-3-A (n thin atmosphere)
-- PULSA-3-B (d dusty, craterized)
+PULSAR-3-A (n thin atmosphere)
+PULSA-3-B (d dusty, craterized)

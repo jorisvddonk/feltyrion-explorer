@@ -4,5 +4,5 @@ Paris coordinates: 5965744, 6008246, -12736624
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TALIM YUSAG (@ large, not consistent)
-- Planet #1 (r rocky, creased)
+TALIM YUSAG (@ large, not consistent)
+Planet #1 (r rocky, creased)

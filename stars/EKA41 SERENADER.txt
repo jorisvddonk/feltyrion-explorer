@@ -4,7 +4,7 @@ Paris coordinates: 356784, 25543, 201616
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BASHFUL (+ substellar object)
+BASHFUL (+ substellar object)
 
 Guide entries:
 THIS BLUE DWARF HAS EXACTLY ONE PLANET -- A PINK MINISTAR. IT SEEMS TO

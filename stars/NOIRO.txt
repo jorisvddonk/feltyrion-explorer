@@ -4,18 +4,18 @@ Paris coordinates: 1491792, 10700311, -2916727
 Bodies: 12 (7 planets, 5 moons)
 
 System:
-- NOIRO 1 (q quartz surface)
-- NOIRO 2 (@ large, not consistent)
-- NOIRO 3 (f felisian)
-  - NOIRO 3.1 (^ unstable)
-  - NOIRO 3.2 (d dusty, craterized)
-- NOIRO 4 (q quartz surface)
-  - NOIRO 4.1 (n thin atmosphere)
-- NOIRO 5 (d dusty, craterized)
-  - NOIRO 5.1 (d dusty, craterized)
-- NOIRO 6 (d dusty, craterized)
-  - NOIRO 6.1 (d dusty, craterized)
-- NOIRO 7 (k thick atmosphere)
+NOIRO 1 (q quartz surface)
+NOIRO 2 (@ large, not consistent)
+NOIRO 3 (f felisian)
+  NOIRO 3.1 (^ unstable)
+  NOIRO 3.2 (d dusty, craterized)
+NOIRO 4 (q quartz surface)
+  NOIRO 4.1 (n thin atmosphere)
+NOIRO 5 (d dusty, craterized)
+  NOIRO 5.1 (d dusty, craterized)
+NOIRO 6 (d dusty, craterized)
+  NOIRO 6.1 (d dusty, craterized)
+NOIRO 7 (k thick atmosphere)
 
 Guide entries:
  A SMALL, G-TYPE YELLOW DWARF STAR WITH 7 PLANETS AND 5 MOONS.

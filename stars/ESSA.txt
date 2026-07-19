@@ -4,8 +4,8 @@ Paris coordinates: 2563568, 4504467, -1834688
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KID ICARUS (d dusty, craterized)
-- AGENT ORANGE (+ substellar object)
+KID ICARUS (d dusty, craterized)
+AGENT ORANGE (+ substellar object)
 
 Guide entries:
 DISCOVERED BY ADAM DALY (TACOFERNANDEZ), E6011.664.603

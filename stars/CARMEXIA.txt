@@ -4,16 +4,16 @@ Paris coordinates: 2994640, 4045928, -2255363
 Bodies: 10 (3 planets, 7 moons)
 
 System:
-- COLDSOR (@ large, not consistent)
-- CHAP (+ substellar object)
-- LIPITUNE (@ large, not consistent)
-  - MENTHOL (n thin atmosphere)
-  - LANOLIN (k thick atmosphere)
-  - SALIC (d dusty, craterized)
-  - ALUM (r rocky, creased)
-  - CAMPHOR (k thick atmosphere)
-  - PHENOL (d dusty, craterized)
-  - BLISTERIA (k thick atmosphere)
+COLDSOR (@ large, not consistent)
+CHAP (+ substellar object)
+LIPITUNE (@ large, not consistent)
+  MENTHOL (n thin atmosphere)
+  LANOLIN (k thick atmosphere)
+  SALIC (d dusty, craterized)
+  ALUM (r rocky, creased)
+  CAMPHOR (k thick atmosphere)
+  PHENOL (d dusty, craterized)
+  BLISTERIA (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY LOGAN, EPOC 6011:664.634

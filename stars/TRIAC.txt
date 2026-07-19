@@ -4,12 +4,12 @@ Paris coordinates: 4704272, 4564576, -1532243
 Bodies: 6 (2 planets, 4 moons)
 
 System:
-- Planet #0 (* companion star)
-  - Moon #0 (^ unstable)
-  - Moon #1 (f felisian)
-- Planet #1 (* companion star)
-  - Moon #0 (r rocky, creased)
-  - Moon #1 (^ unstable)
+Planet #0 (* companion star)
+  Moon #0 (^ unstable)
+  Moon #1 (f felisian)
+Planet #1 (* companion star)
+  Moon #0 (r rocky, creased)
+  Moon #1 (^ unstable)
 
 Guide entries:
 TRIPLE STAAR SYSTEM. NO PLANETS. DISCOVERED EPOC 6011 486.536.970 BY

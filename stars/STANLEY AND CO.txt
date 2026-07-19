@@ -4,9 +4,9 @@ Paris coordinates: 2446064, 4329519, -551480
 Bodies: 3 (2 planets, 1 moons)
 
 System:
-- EXTRAEXPANSE (n thin atmosphere)
-- FLAMING STUFFING (* companion star)
-  - NOT IN A GOOD MOOD (@ large, not consistent)
+EXTRAEXPANSE (n thin atmosphere)
+FLAMING STUFFING (* companion star)
+  NOT IN A GOOD MOOD (@ large, not consistent)
 
 Guide entries:
 PROBABLY AN S02. RYAN GJKE6011.798.393                                      

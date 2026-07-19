@@ -4,6 +4,6 @@ Paris coordinates: -1139280, 128850, 12123
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- GREENHEAT (k thick atmosphere)
-- GREENDARK (n thin atmosphere)
-- FELIS SIMMERIC (f felisian)
+GREENHEAT (k thick atmosphere)
+GREENDARK (n thin atmosphere)
+FELIS SIMMERIC (f felisian)

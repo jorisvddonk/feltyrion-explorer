@@ -4,14 +4,14 @@ Paris coordinates: 3059632, 4836884, -345819
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- TOLSVAG (@ large, not consistent)
-- BRARSAGE (r rocky, creased)
-- Planet #2 (f felisian)
-  - GRENK (d dusty, craterized)
-- GRARS (d dusty, craterized)
-- CRUGALF (k thick atmosphere)
-  - GLOEB (d dusty, craterized)
-  - GLUDIR (d dusty, craterized)
+TOLSVAG (@ large, not consistent)
+BRARSAGE (r rocky, creased)
+Planet #2 (f felisian)
+  GRENK (d dusty, craterized)
+GRARS (d dusty, craterized)
+CRUGALF (k thick atmosphere)
+  GLOEB (d dusty, craterized)
+  GLUDIR (d dusty, craterized)
 
 Guide entries:
 FURTHER NOTES: DUE TO TECHNICAL DIFFICULTIES, NOTES I MADE FOR THE

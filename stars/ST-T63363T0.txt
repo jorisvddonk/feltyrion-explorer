@@ -4,8 +4,8 @@ Paris coordinates: -25712, 45550, -339519
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (@ large, not consistent)
-- MECTARES (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- MORAVIA (f felisian)
+Planet #0 (@ large, not consistent)
+Planet #1 (@ large, not consistent)
+MECTARES (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+MORAVIA (f felisian)

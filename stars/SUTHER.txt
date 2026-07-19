@@ -4,8 +4,8 @@ Paris coordinates: 6316080, 6026683, -8178955
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BRADBURY (r rocky, creased)
-- MONTAG (q quartz surface)
+BRADBURY (r rocky, creased)
+MONTAG (q quartz surface)
 
 Guide entries:
 A RUNAWAY WITH TWO ORBITING PLANETS.

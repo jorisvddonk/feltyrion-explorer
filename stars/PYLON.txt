@@ -4,11 +4,11 @@ Paris coordinates: 4170352, -66267901, -3045501
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- PYLON I (n thin atmosphere)
-- Planet #1 (d dusty, craterized)
-- PYLON III (d dusty, craterized)
-  - PYLON III A (i icy surface)
-- PYLON IV (d dusty, craterized)
+PYLON I (n thin atmosphere)
+Planet #1 (d dusty, craterized)
+PYLON III (d dusty, craterized)
+  PYLON III A (i icy surface)
+PYLON IV (d dusty, craterized)
 
 Guide entries:
 S11 PULSAR 17LY FROM FARHOME. HAS 4 PLANETS. (SCHMERM 6011 593.729)

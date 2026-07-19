@@ -4,15 +4,15 @@ Paris coordinates: 3955696, 6200472, 411097
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- TEANUS (f felisian)
-  - VERAZ (n thin atmosphere)
-  - XANDEZ (d dusty, craterized)
-- ZALADO (f felisian)
+Planet #0 (r rocky, creased)
+Planet #1 (n thin atmosphere)
+Planet #2 (n thin atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+TEANUS (f felisian)
+  VERAZ (n thin atmosphere)
+  XANDEZ (d dusty, craterized)
+ZALADO (f felisian)
 
 Guide entries:
 DISCOVERED BY POKECAT(6011.998.660)

@@ -4,8 +4,8 @@ Paris coordinates: 2346064, 5031609, -426552
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (r rocky, creased)
+Planet #0 (r rocky, creased)
+Planet #1 (r rocky, creased)
 
 Guide entries:
 1.WHITE DWARF,2 PLANETS

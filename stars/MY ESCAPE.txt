@@ -4,12 +4,12 @@ Paris coordinates: 1601424, 5741910, -536110
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- SPACE RIPPLES (@ large, not consistent)
-- PEACFULL QUARTZ (q quartz surface)
-- Planet #2 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-- Planet #3 (d dusty, craterized)
+SPACE RIPPLES (@ large, not consistent)
+PEACFULL QUARTZ (q quartz surface)
+Planet #2 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+Planet #3 (d dusty, craterized)
 
 Guide entries:
 JUST GOTTEN AWAY FROM FORGOTTEN HOME, AND COULDN'T BE TOO PLEASED TO

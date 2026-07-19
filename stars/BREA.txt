@@ -4,16 +4,16 @@ Paris coordinates: 2147193584, 2118476, 2109816668
 Bodies: 10 (4 planets, 6 moons)
 
 System:
-- BREA ALPHA (* companion star)
-- BREA BETA (* companion star)
-  - BREA BETA PRIMUS (^ unstable)
-- BREA PRIMUS (@ large, not consistent)
-  - BREA PRIMUS PREALUNA (^ unstable)
-  - Moon #1 (k thick atmosphere)
-  - Moon #2 (k thick atmosphere)
-  - Moon #3 (d dusty, craterized)
-  - Moon #4 (k thick atmosphere)
-- BREA SECUNDUS (r rocky, creased)
+BREA ALPHA (* companion star)
+BREA BETA (* companion star)
+  BREA BETA PRIMUS (^ unstable)
+BREA PRIMUS (@ large, not consistent)
+  BREA PRIMUS PREALUNA (^ unstable)
+  Moon #1 (k thick atmosphere)
+  Moon #2 (k thick atmosphere)
+  Moon #3 (d dusty, craterized)
+  Moon #4 (k thick atmosphere)
+BREA SECUNDUS (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:588.886

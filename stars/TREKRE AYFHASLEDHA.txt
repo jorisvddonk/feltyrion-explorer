@@ -4,8 +4,8 @@ Paris coordinates: 1555696, 31145531, 2790355
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TRACKISASLE (d dusty, craterized)
-- AKSASA (@ large, not consistent)
+TRACKISASLE (d dusty, craterized)
+AKSASA (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 633.30

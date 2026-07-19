@@ -4,7 +4,7 @@ Paris coordinates: 1399107440, 1024508, 1400060268
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- YUREAST PRIMUS (+ substellar object)
+YUREAST PRIMUS (+ substellar object)
 
 Guide entries:
  DISCOVERED BY DODO C. SNOTTS - 6011:608.949

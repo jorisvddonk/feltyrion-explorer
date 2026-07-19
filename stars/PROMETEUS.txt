@@ -4,9 +4,9 @@ Paris coordinates: -3823536, 18957286, -4223780
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (n thin atmosphere)
+Planet #0 (n thin atmosphere)
+Planet #1 (k thick atmosphere)
+Planet #2 (n thin atmosphere)
 
 Guide entries:
  A S05 STAR WITH 3 PLANETS, ALL PLANETS ARE UNINTERESTING AND WITH

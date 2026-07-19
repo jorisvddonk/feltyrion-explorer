@@ -4,16 +4,16 @@ Paris coordinates: 2659632, 5047014, -45246
 Bodies: 10 (8 planets, 2 moons)
 
 System:
-- CHREPKO (@ large, not consistent)
-- LIROKS (d dusty, craterized)
-- DESTRUCYION (d dusty, craterized)
-- PETILETKA (n thin atmosphere)
-- GARIBALDI (r rocky, creased)
-  - LIANA (n thin atmosphere)
-- LENORD (d dusty, craterized)
-  - PROCION (d dusty, craterized)
-- Planet #6 (d dusty, craterized)
-- Planet #7 (n thin atmosphere)
+CHREPKO (@ large, not consistent)
+LIROKS (d dusty, craterized)
+DESTRUCYION (d dusty, craterized)
+PETILETKA (n thin atmosphere)
+GARIBALDI (r rocky, creased)
+  LIANA (n thin atmosphere)
+LENORD (d dusty, craterized)
+  PROCION (d dusty, craterized)
+Planet #6 (d dusty, craterized)
+Planet #7 (n thin atmosphere)
 
 Guide entries:
 INTRUDE3R 6011:572.973.645

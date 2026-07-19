@@ -4,11 +4,11 @@ Paris coordinates: 3011056, 5741333, 660151
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- MORNING ROCK (n thin atmosphere)
-- DARK MARBLE (@ large, not consistent)
-- CUYAHOGA (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+MORNING ROCK (n thin atmosphere)
+DARK MARBLE (@ large, not consistent)
+CUYAHOGA (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY LINGO.

@@ -4,7 +4,7 @@ Paris coordinates: 5570352, 5346778, -4231936
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FEZIN (k thick atmosphere)
+FEZIN (k thick atmosphere)
 
 Guide entries:
  FUEL MAY BE FOUND AT THE NEXT STOP

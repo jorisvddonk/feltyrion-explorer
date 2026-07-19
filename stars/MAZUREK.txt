@@ -4,8 +4,8 @@ Paris coordinates: -61339376, 29956249, 167273
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- STELLARIS (r rocky, creased)
-- BUBO (q quartz surface)
+STELLARIS (r rocky, creased)
+BUBO (q quartz surface)
 
 Guide entries:
 SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.636.902. STAR CLASS S10

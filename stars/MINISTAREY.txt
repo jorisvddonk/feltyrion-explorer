@@ -4,9 +4,9 @@ Paris coordinates: -72734928, -1416788, 56351694
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- MASSIVEY (+ substellar object)
-- BROWNY (r rocky, creased)
-- GRANDEY (@ large, not consistent)
-- DARKY (n thin atmosphere)
-- BIGCRATEY (r rocky, creased)
-- INTRINCATTY (k thick atmosphere)
+MASSIVEY (+ substellar object)
+BROWNY (r rocky, creased)
+GRANDEY (@ large, not consistent)
+DARKY (n thin atmosphere)
+BIGCRATEY (r rocky, creased)
+INTRINCATTY (k thick atmosphere)

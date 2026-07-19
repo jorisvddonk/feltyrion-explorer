@@ -4,7 +4,7 @@ Paris coordinates: 2959632, 5084278, -484861
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- NAKRI (r rocky, creased)
+NAKRI (r rocky, creased)
 
 Guide entries:
 A BLUE GIANT STAR DISCOVERED BY MRUQE; EPOC 6011-570.590

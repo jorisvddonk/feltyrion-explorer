@@ -4,11 +4,11 @@ Paris coordinates: -1394640, 5313966, 754093
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- ASPIRE (q quartz surface)
-- FORBIDDEN (k thick atmosphere)
-- TORI (f felisian)
-  - UNDER THE YELLOW (n thin atmosphere)
-  - SPARK (d dusty, craterized)
+ASPIRE (q quartz surface)
+FORBIDDEN (k thick atmosphere)
+TORI (f felisian)
+  UNDER THE YELLOW (n thin atmosphere)
+  SPARK (d dusty, craterized)
 
 Guide entries:
 A PROMISING S0 CLASS STAR.

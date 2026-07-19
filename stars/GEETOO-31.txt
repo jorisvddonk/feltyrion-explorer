@@ -4,5 +4,5 @@ Paris coordinates: 5958960, 6057590, -13180828
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- TAVAT HAKAD (d dusty, craterized)
-- Planet #1 (+ substellar object)
+TAVAT HAKAD (d dusty, craterized)
+Planet #1 (+ substellar object)

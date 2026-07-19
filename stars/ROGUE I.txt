@@ -4,5 +4,5 @@ Paris coordinates: 3683920, 4221661, -1662156
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- YANN I (d dusty, craterized)
-- Planet #1 (@ large, not consistent)
+YANN I (d dusty, craterized)
+Planet #1 (@ large, not consistent)

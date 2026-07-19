@@ -4,14 +4,14 @@ Paris coordinates: 4746736, 1995819, 6865765
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- POTHER I (@ large, not consistent)
-- POTHER II (+ substellar object)
-- POTHER III (n thin atmosphere)
-- POTHER IV (d dusty, craterized)
-- POTHER V (n thin atmosphere)
-- POTHER VI (n thin atmosphere)
-- POTHER VII (n thin atmosphere)
-- POTHER VIII (d dusty, craterized)
+POTHER I (@ large, not consistent)
+POTHER II (+ substellar object)
+POTHER III (n thin atmosphere)
+POTHER IV (d dusty, craterized)
+POTHER V (n thin atmosphere)
+POTHER VI (n thin atmosphere)
+POTHER VII (n thin atmosphere)
+POTHER VIII (d dusty, craterized)
 
 Guide entries:
 A CLASS S02 SYSTEM OF 8 PLANETS. SKINNYMON EPOC 6011 586.105

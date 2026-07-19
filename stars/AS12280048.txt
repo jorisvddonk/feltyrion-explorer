@@ -4,8 +4,8 @@ Paris coordinates: 49451504, -15796, 1981352124
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AS12280048A (d dusty, craterized)
-- AS12280048B (* companion star)
+AS12280048A (d dusty, craterized)
+AS12280048B (* companion star)
 
 Guide entries:
 SYSTEM WITH 2 STARS AND 1 UNINHABITABLE PLANET.

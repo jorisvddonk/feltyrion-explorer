@@ -4,4 +4,4 @@ Paris coordinates: 820016, -266048, -4413975
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SIGLAR-2-A (n thin atmosphere)
+SIGLAR-2-A (n thin atmosphere)

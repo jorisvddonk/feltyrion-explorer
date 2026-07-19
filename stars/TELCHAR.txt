@@ -4,8 +4,8 @@ Paris coordinates: -36432, 609560, 1046854
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (^ unstable)
-- Planet #1 (^ unstable)
+Planet #0 (^ unstable)
+Planet #1 (^ unstable)
 
 Guide entries:
 DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:575.70.

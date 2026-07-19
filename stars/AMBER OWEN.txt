@@ -4,8 +4,8 @@ Paris coordinates: 3917840, 4109488, 63218
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NILES PAXTON (@ large, not consistent)
-- Planet #1 (d dusty, craterized)
+NILES PAXTON (@ large, not consistent)
+Planet #1 (d dusty, craterized)
 
 Guide entries:
 AN ALL AROUND BORING RUN AWAY STAR.

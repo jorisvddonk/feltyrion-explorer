@@ -4,9 +4,9 @@ Paris coordinates: 2826800, 7635723, -6040026
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- IDTHI (n thin atmosphere)
-- POCHIMA (n thin atmosphere)
-- NOCTIBA (@ large, not consistent)
+IDTHI (n thin atmosphere)
+POCHIMA (n thin atmosphere)
+NOCTIBA (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.425

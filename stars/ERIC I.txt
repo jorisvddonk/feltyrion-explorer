@@ -4,7 +4,7 @@ Paris coordinates: -1132496, 330467, 265328
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ROSIE (d dusty, craterized)
+ROSIE (d dusty, craterized)
 
 Guide entries:
 UNUSUAL STAR AS IT ONLY HAS ONE SMALL PLANET ORBITING IT.

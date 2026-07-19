@@ -4,5 +4,5 @@ Paris coordinates: 608208, 2225724, 878597
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- FAUX SPIRE (n thin atmosphere)
-- BLUE PALL (k thick atmosphere)
+FAUX SPIRE (n thin atmosphere)
+BLUE PALL (k thick atmosphere)

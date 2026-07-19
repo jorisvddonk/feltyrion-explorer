@@ -4,8 +4,8 @@ Paris coordinates: -187856, 483432, -10261
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GOZOTAN (d dusty, craterized)
-- BLOXBAX (d dusty, craterized)
+GOZOTAN (d dusty, craterized)
+BLOXBAX (d dusty, craterized)
 
 Guide entries:
  (DISCOVERED BY DEMENTO)

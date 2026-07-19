@@ -4,15 +4,15 @@ Paris coordinates: -178224, -1278064, 2452536
 Bodies: 9 (4 planets, 5 moons)
 
 System:
-- BYFI1 (* companion star)
-  - BYFI1-1 (^ unstable)
-  - BYFI1-2 (d dusty, craterized)
-- BYFI2 (* companion star)
-  - BYFI2-1 (d dusty, craterized)
-  - BYFI2-2 (+ substellar object)
-- BYFI3 (d dusty, craterized)
-  - BYFI3-1 (d dusty, craterized)
-- BYFI4 (d dusty, craterized)
+BYFI1 (* companion star)
+  BYFI1-1 (^ unstable)
+  BYFI1-2 (d dusty, craterized)
+BYFI2 (* companion star)
+  BYFI2-1 (d dusty, craterized)
+  BYFI2-2 (+ substellar object)
+BYFI3 (d dusty, craterized)
+  BYFI3-1 (d dusty, craterized)
+BYFI4 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY AIRCON 6011.612.725

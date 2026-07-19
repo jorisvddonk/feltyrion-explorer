@@ -4,11 +4,11 @@ Paris coordinates: 4779984, 5143323, -1032993
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- LESPE (n thin atmosphere)
-- KLIE (d dusty, craterized)
-- XPEN (d dusty, craterized)
-  - CHUKI (^ unstable)
-- COMPA (d dusty, craterized)
+LESPE (n thin atmosphere)
+KLIE (d dusty, craterized)
+XPEN (d dusty, craterized)
+  CHUKI (^ unstable)
+COMPA (d dusty, craterized)
 
 Guide entries:
 A CLASS S04 SYSTEM WITH 4 PLANETS, 1 MOON, NO FELISIAN WORLDS.

@@ -4,8 +4,8 @@ Paris coordinates: -29049520, -19019074, -900080466
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- W.T. 1 (n thin atmosphere)
-- W.T. 2 (d dusty, craterized)
+W.T. 1 (n thin atmosphere)
+W.T. 2 (d dusty, craterized)
 
 Guide entries:
 WHITE. AND SMALL. ENOUGH SAID. (SHADOWCLAW 6011:581.819)

@@ -4,7 +4,7 @@ Paris coordinates: 1053936, 3309433, -2578877
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- K192.1 (k thick atmosphere)
+K192.1 (k thick atmosphere)
 
 Guide entries:
  A G02V SPECTRAL-TYPE STAR, WITH ONLY ONE PLANET.

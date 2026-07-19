@@ -4,9 +4,9 @@ Paris coordinates: 4873200, 4725936, -1566688
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- KAYLA'S PLANET (d dusty, craterized)
-- RICH'S STAR (n thin atmosphere)
-- PLANET OF FALS HOPES (k thick atmosphere)
-- Planet #3 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
+KAYLA'S PLANET (d dusty, craterized)
+RICH'S STAR (n thin atmosphere)
+PLANET OF FALS HOPES (k thick atmosphere)
+Planet #3 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)

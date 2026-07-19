@@ -4,7 +4,7 @@ Paris coordinates: 11639536, 13023269, 12967721
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TALLCHILD (d dusty, craterized)
+TALLCHILD (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERD BY DAWIWO, EPOCH 6011:768.481                                

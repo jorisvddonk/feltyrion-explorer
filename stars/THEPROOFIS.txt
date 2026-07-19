@@ -4,18 +4,18 @@ Paris coordinates: 2140833520, -2641384, 1001352
 Bodies: 12 (6 planets, 6 moons)
 
 System:
-- NITHYS (r rocky, creased)
-- MESPYFH (k thick atmosphere)
-- SANSUT (q quartz surface)
-  - ITRE (d dusty, craterized)
-- SUTACK (q quartz surface)
-  - YNERE (d dusty, craterized)
-  - AJNAT (n thin atmosphere)
-  - IRJEY (d dusty, craterized)
-- INADMISSIBLEINCOURT (f felisian)
-- JUCLUR (k thick atmosphere)
-  - PRARA (n thin atmosphere)
-  - IKLOS (d dusty, craterized)
+NITHYS (r rocky, creased)
+MESPYFH (k thick atmosphere)
+SANSUT (q quartz surface)
+  ITRE (d dusty, craterized)
+SUTACK (q quartz surface)
+  YNERE (d dusty, craterized)
+  AJNAT (n thin atmosphere)
+  IRJEY (d dusty, craterized)
+INADMISSIBLEINCOURT (f felisian)
+JUCLUR (k thick atmosphere)
+  PRARA (n thin atmosphere)
+  IKLOS (d dusty, craterized)
 
 Guide entries:
 CLASS S00 SYSTEM OF 6 PLANETS, 6 MOONS, ONE FELISIAN WORLD HERE             

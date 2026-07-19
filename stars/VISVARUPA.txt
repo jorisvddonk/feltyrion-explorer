@@ -4,19 +4,19 @@ Paris coordinates: 2074288, 1798994, -2427302
 Bodies: 13 (4 planets, 9 moons)
 
 System:
-- Planet #0 (* companion star)
-  - Moon #0 (d dusty, craterized)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (n thin atmosphere)
-- Planet #3 (* companion star)
-  - Moon #0 (k thick atmosphere)
-  - Moon #1 (f felisian)
-  - Moon #2 (d dusty, craterized)
-  - Moon #3 (n thin atmosphere)
-  - Moon #4 (+ substellar object)
-  - Moon #5 (d dusty, craterized)
-  - Moon #6 (f felisian)
-  - Moon #7 (k thick atmosphere)
+Planet #0 (* companion star)
+  Moon #0 (d dusty, craterized)
+Planet #1 (@ large, not consistent)
+Planet #2 (n thin atmosphere)
+Planet #3 (* companion star)
+  Moon #0 (k thick atmosphere)
+  Moon #1 (f felisian)
+  Moon #2 (d dusty, craterized)
+  Moon #3 (n thin atmosphere)
+  Moon #4 (+ substellar object)
+  Moon #5 (d dusty, craterized)
+  Moon #6 (f felisian)
+  Moon #7 (k thick atmosphere)
 
 Guide entries:
 STAR DISCOVERED BY DANE, EPOC 6011:669.682

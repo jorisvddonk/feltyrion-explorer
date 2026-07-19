@@ -4,15 +4,15 @@ Paris coordinates: 4293552, 3757950, 243471
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- LUSANA REE (n thin atmosphere)
-- CARTA-NEE (@ large, not consistent)
-- DOUGLAS ADAMS (k thick atmosphere)
-  - LUDLOW (d dusty, craterized)
-- SHURI-RYU (r rocky, creased)
-  - ULNAREE (^ unstable)
-  - Moon #1 (d dusty, craterized)
-- BILL OSTRI (d dusty, craterized)
-  - HANZO (^ unstable)
+LUSANA REE (n thin atmosphere)
+CARTA-NEE (@ large, not consistent)
+DOUGLAS ADAMS (k thick atmosphere)
+  LUDLOW (d dusty, craterized)
+SHURI-RYU (r rocky, creased)
+  ULNAREE (^ unstable)
+  Moon #1 (d dusty, craterized)
+BILL OSTRI (d dusty, craterized)
+  HANZO (^ unstable)
 
 Guide entries:
 WATCHING AN ALIEN SUNRISE WAS NEVER SO SPECTACULAR.

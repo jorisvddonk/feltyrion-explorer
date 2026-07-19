@@ -4,13 +4,13 @@ Paris coordinates: 26646832, 6023437, 44755504
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- SWELT (r rocky, creased)
-- MARBELEN (r rocky, creased)
-- BRUSTINE (d dusty, craterized)
-- AUTGEL (f felisian)
-  - PEAEEA (d dusty, craterized)
-  - GLOTONE (d dusty, craterized)
-  - CYEAL (d dusty, craterized)
+SWELT (r rocky, creased)
+MARBELEN (r rocky, creased)
+BRUSTINE (d dusty, craterized)
+AUTGEL (f felisian)
+  PEAEEA (d dusty, craterized)
+  GLOTONE (d dusty, craterized)
+  CYEAL (d dusty, craterized)
 
 Guide entries:
 PART OF THE JEYSTAR CLUSTER, S00 STAR WITH 4 PLANETS AND 3 MOONS,

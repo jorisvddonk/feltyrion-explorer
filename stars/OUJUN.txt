@@ -4,7 +4,7 @@ Paris coordinates: 4531408, 4420360, 324033
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TALLOWGLASS (q quartz surface)
+TALLOWGLASS (q quartz surface)
 
 Guide entries:
 1.ONE PLANET

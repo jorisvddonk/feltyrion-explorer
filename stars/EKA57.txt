@@ -4,7 +4,7 @@ Paris coordinates: 143216, -27301, -449706
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- STRAWBERRY (+ substellar object)
+STRAWBERRY (+ substellar object)
 
 Guide entries:
 BLUE GIANT WITH A SINGLE MINISTAR PLANET AND NO MOONS. COULDN'T THINK OF

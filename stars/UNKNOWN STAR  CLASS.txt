@@ -4,7 +4,7 @@ Paris coordinates: 3924624, 4582492, 478346
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- NEUTRONUS (* companion star)
-- Planet #1 (* companion star)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (k thick atmosphere)
+NEUTRONUS (* companion star)
+Planet #1 (* companion star)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (k thick atmosphere)

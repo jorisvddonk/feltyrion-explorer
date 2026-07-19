@@ -4,8 +4,8 @@ Paris coordinates: -1041040, 8860728, -5985832
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- CORTONA I (d dusty, craterized)
-- CORTONA II (k thick atmosphere)
+CORTONA I (d dusty, craterized)
+CORTONA II (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.680 -                                

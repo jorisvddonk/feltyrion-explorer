@@ -4,8 +4,8 @@ Paris coordinates: 425712, 934229, 162875
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DARK ALLEY\ (n thin atmosphere)
-- DARK ROAD (d dusty, craterized)
+DARK ALLEY\ (n thin atmosphere)
+DARK ROAD (d dusty, craterized)
 
 Guide entries:
 (DISCOVERED 6011:571.108 BY SHADOWCLAW)

@@ -4,14 +4,14 @@ Paris coordinates: 848912, 6341198, 3139412
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- GREENER (f felisian)
-- Planet #4 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (@ large, not consistent)
+Planet #2 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+GREENER (f felisian)
+Planet #4 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY JOHN POPE, EPOC 6011:585:30

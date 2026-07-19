@@ -4,8 +4,8 @@ Paris coordinates: -1183920, -285851, -658429
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BORAUK (r rocky, creased)
-- TARBALL (n thin atmosphere)
+BORAUK (r rocky, creased)
+TARBALL (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY NYTAR, EPOC 6011:611.789

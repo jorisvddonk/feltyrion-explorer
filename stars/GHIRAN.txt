@@ -4,5 +4,5 @@ Paris coordinates: 4518928, 7029982, -4274515
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AGAN (k thick atmosphere)
-- BAGA (q quartz surface)
+AGAN (k thick atmosphere)
+BAGA (q quartz surface)

@@ -4,8 +4,8 @@ Paris coordinates: -1076048, 4642017, -4165830
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (* companion star)
+Planet #0 (* companion star)
+Planet #1 (* companion star)
 
 Guide entries:
 S08 STAR FOUND BY RICHARD SOLENSKY EPOC 6011-568.932.761

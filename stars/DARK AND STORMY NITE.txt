@@ -4,11 +4,11 @@ Paris coordinates: -12144, 272689, 285737
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- SCINTILLATE (q quartz surface)
-- SUNDIAL (r rocky, creased)
-- WEATHERMAP (@ large, not consistent)
-  - Moon #0 (k thick atmosphere)
-  - FUZZY (k thick atmosphere)
+SCINTILLATE (q quartz surface)
+SUNDIAL (r rocky, creased)
+WEATHERMAP (@ large, not consistent)
+  Moon #0 (k thick atmosphere)
+  FUZZY (k thick atmosphere)
 
 Guide entries:
 (DISCOVERED BY DFARAN L'ENIARC EPOC 6011:674.257)

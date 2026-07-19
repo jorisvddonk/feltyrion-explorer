@@ -4,6 +4,6 @@ Paris coordinates: 3946064, 4598171, -2025951
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- TURMIO (r rocky, creased)
-- RUPION (q quartz surface)
-- TAFFION (k thick atmosphere)
+TURMIO (r rocky, creased)
+RUPION (q quartz surface)
+TAFFION (k thick atmosphere)

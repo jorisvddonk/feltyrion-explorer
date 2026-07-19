@@ -4,8 +4,8 @@ Paris coordinates: 5262480, 4336210, -502049
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PIGOT (d dusty, craterized)
-- MAMIBLUE (q quartz surface)
+PIGOT (d dusty, craterized)
+MAMIBLUE (q quartz surface)
 
 Guide entries:
  DISCOVERED BY SAREK BLUES, EPOC 565.925

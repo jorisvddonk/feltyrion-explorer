@@ -4,10 +4,10 @@ Paris coordinates: 2305360, 4296051, -2854289
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- BILLING (* companion star)
-- FILE COPY (* companion star)
-  - CUSTOMER COPY (f felisian)
-  - Moon #1 (n thin atmosphere)
+BILLING (* companion star)
+FILE COPY (* companion star)
+  CUSTOMER COPY (f felisian)
+  Moon #1 (n thin atmosphere)
 
 Guide entries:
 S08 SYSTEM WITH 3 STARS. 'MOON' R01/P02 (CUSTOMER COPY) IS FELISIAN

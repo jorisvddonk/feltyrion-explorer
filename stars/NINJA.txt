@@ -4,8 +4,8 @@ Paris coordinates: -61915088, 29975142, 159290
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GALLINULA (n thin atmosphere)
-- JB 72 (+ substellar object)
+GALLINULA (n thin atmosphere)
+JB 72 (+ substellar object)
 
 Guide entries:
 SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.638.029 CLASS S10 RUNAWAY STAR

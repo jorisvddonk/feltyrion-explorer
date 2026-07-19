@@ -4,11 +4,11 @@ Paris coordinates: 2131226064, -1582473, 462983
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- MEJHI (n thin atmosphere)
-- DASOI (n thin atmosphere)
-- KYNAU (r rocky, creased)
-  - KUNON (d dusty, craterized)
-- LEDAE (n thin atmosphere)
+MEJHI (n thin atmosphere)
+DASOI (n thin atmosphere)
+KYNAU (r rocky, creased)
+  KUNON (d dusty, craterized)
+LEDAE (n thin atmosphere)
 
 Guide entries:
 S01 SYSTEM OF 4 PLANETS 1 MOON NO FELISIAN. 71.05533600 BAL. M.             

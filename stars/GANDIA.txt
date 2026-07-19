@@ -4,7 +4,7 @@ Paris coordinates: 3293552, 4810198, 1162166
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- GANDIA 1 (@ large, not consistent)
+GANDIA 1 (@ large, not consistent)
 
 Guide entries:
 NOTES                                                                       

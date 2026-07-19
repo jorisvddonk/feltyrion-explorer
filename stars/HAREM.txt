@@ -4,18 +4,18 @@ Paris coordinates: 1353936, 4952744, -3128537
 Bodies: 12 (4 planets, 8 moons)
 
 System:
-- LARGESS (* companion star)
-  - LARGETTA (+ substellar object)
-- MAIDEN (* companion star)
-- VIOLETTESSA (@ large, not consistent)
-  - HORALESSA (^ unstable)
-  - LIMONELLA (d dusty, craterized)
-  - TANNORE (r rocky, creased)
-  - RHOSSINA (q quartz surface)
-  - BOORNENNA (^ unstable)
-  - DULLULLA (r rocky, creased)
-- DESIRROSA (d dusty, craterized)
-  - CUORROSA (d dusty, craterized)
+LARGESS (* companion star)
+  LARGETTA (+ substellar object)
+MAIDEN (* companion star)
+VIOLETTESSA (@ large, not consistent)
+  HORALESSA (^ unstable)
+  LIMONELLA (d dusty, craterized)
+  TANNORE (r rocky, creased)
+  RHOSSINA (q quartz surface)
+  BOORNENNA (^ unstable)
+  DULLULLA (r rocky, creased)
+DESIRROSA (d dusty, craterized)
+  CUORROSA (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY RYLIE THOMAS, EOPC 6011:727.626.618                          

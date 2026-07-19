@@ -4,8 +4,8 @@ Paris coordinates: 4060720, 4579038, -5412646
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- BO14-A (q quartz surface)
-- BO14-B (r rocky, creased)
-- BO14-C (@ large, not consistent)
-  - BO14-C-S1 (k thick atmosphere)
-  - BO14-C-S2 (k thick atmosphere)
+BO14-A (q quartz surface)
+BO14-B (r rocky, creased)
+BO14-C (@ large, not consistent)
+  BO14-C-S1 (k thick atmosphere)
+  BO14-C-S2 (k thick atmosphere)

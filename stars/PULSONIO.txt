@@ -4,9 +4,9 @@ Paris coordinates: 4397488, 4779550, -1620594
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SUPER BRILLO (d dusty, craterized)
-- TOPAZZ (d dusty, craterized)
-- ESMERALDIA (d dusty, craterized)
+SUPER BRILLO (d dusty, craterized)
+TOPAZZ (d dusty, craterized)
+ESMERALDIA (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.812 -                               

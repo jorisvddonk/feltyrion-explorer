@@ -4,7 +4,7 @@ Paris coordinates: -290413616, -1404408, 54909941
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TUNGUSES (@ large, not consistent)
+TUNGUSES (@ large, not consistent)
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.576.812

@@ -4,9 +4,9 @@ Paris coordinates: 4504272, 4730261, -1221398
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- TAYLA (@ large, not consistent)
-- VIRTUE OF PATIENCE (d dusty, craterized)
-- DASHED HOPES (r rocky, creased)
+TAYLA (@ large, not consistent)
+VIRTUE OF PATIENCE (d dusty, craterized)
+DASHED HOPES (r rocky, creased)
 
 Guide entries:
 BLADE TRAIN3R 6011 705;155                                                  

@@ -4,10 +4,10 @@ Paris coordinates: 2132663920, -1770074, -569834
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- IBVARUOR (d dusty, craterized)
-- ACKURIAD (q quartz surface)
-- YLIRISFHK (k thick atmosphere)
-  - HLISIDAR (d dusty, craterized)
+IBVARUOR (d dusty, craterized)
+ACKURIAD (q quartz surface)
+YLIRISFHK (k thick atmosphere)
+  HLISIDAR (d dusty, craterized)
 
 Guide entries:
 CLASS S04, 3 PLANETS, 1 MOON, NO FELISIAN. 67.60649872 BAL. M. TEMP         

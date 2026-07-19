@@ -4,9 +4,9 @@ Paris coordinates: 5224624, 5118024, -817434
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (d dusty, craterized)
+Planet #0 (n thin atmosphere)
+Planet #1 (n thin atmosphere)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
 BLADE TRAIN3R 6011 705.166                                                  

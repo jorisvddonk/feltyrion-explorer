@@ -4,5 +4,5 @@ Paris coordinates: 556784, 397200, 69785
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NIGHTLIGHT (q quartz surface)
-- HOTFOOT 457 (^ unstable)
+NIGHTLIGHT (q quartz surface)
+HOTFOOT 457 (^ unstable)

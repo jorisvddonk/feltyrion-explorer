@@ -4,19 +4,19 @@ Paris coordinates: -1328560, 339628, -1234512
 Bodies: 13 (5 planets, 8 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (* companion star)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (q quartz surface)
-  - Moon #3 (^ unstable)
-  - Moon #4 (@ large, not consistent)
-- Planet #4 (* companion star)
-  - Moon #0 (q quartz surface)
+Planet #0 (* companion star)
+Planet #1 (n thin atmosphere)
+Planet #2 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+Planet #3 (* companion star)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (q quartz surface)
+  Moon #3 (^ unstable)
+  Moon #4 (@ large, not consistent)
+Planet #4 (* companion star)
+  Moon #0 (q quartz surface)
 
 Guide entries:
 STAR DISCOVERED BY ALESSANDRO ROBERTI, EPOC 6011:573.758

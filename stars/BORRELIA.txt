@@ -4,5 +4,5 @@ Paris coordinates: 3986768, 4680147, 134861
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- FELDEMON (@ large, not consistent)
-- PIXIA (@ large, not consistent)
+FELDEMON (@ large, not consistent)
+PIXIA (@ large, not consistent)

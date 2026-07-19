@@ -4,8 +4,8 @@ Paris coordinates: -1183920, -585851, -665106
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KRAETOR (d dusty, craterized)
-- SATIRA (+ substellar object)
+KRAETOR (d dusty, craterized)
+SATIRA (+ substellar object)
 
 Guide entries:
 DISCOVERED BY NYTAR, EPOC 6011:611.868

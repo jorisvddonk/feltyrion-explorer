@@ -4,7 +4,7 @@ Paris coordinates: 1579312, -2614, -7423355
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- QUADRIA-A (+ substellar object)
-- QUADRIA-B (@ large, not consistent)
-- QUADRIA-C (d dusty, craterized)
-  - QUADRIA-C-S1 (n thin atmosphere)
+QUADRIA-A (+ substellar object)
+QUADRIA-B (@ large, not consistent)
+QUADRIA-C (d dusty, craterized)
+  QUADRIA-C-S1 (n thin atmosphere)

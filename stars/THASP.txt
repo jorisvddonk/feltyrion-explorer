@@ -4,9 +4,9 @@ Paris coordinates: -12144, 172689, 359639
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- LIHACO (n thin atmosphere)
-- NOAT (d dusty, craterized)
+Planet #0 (k thick atmosphere)
+LIHACO (n thin atmosphere)
+NOAT (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.423

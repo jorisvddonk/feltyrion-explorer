@@ -4,10 +4,10 @@ Paris coordinates: -1994931312, 127278, 2165854
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (r rocky, creased)
-- Planet #2 (d dusty, craterized)
-- Planet #3 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (r rocky, creased)
+Planet #1 (r rocky, creased)
+Planet #2 (d dusty, craterized)
+Planet #3 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)

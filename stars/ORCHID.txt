@@ -4,5 +4,5 @@ Paris coordinates: -863568, -69039740, 242100
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DLMATIA (q quartz surface)
-- PRISDAL (r rocky, creased)
+DLMATIA (q quartz surface)
+PRISDAL (r rocky, creased)

@@ -4,17 +4,17 @@ Paris coordinates: 4774288, -88467, -5061867
 Bodies: 11 (7 planets, 4 moons)
 
 System:
-- TUNA (@ large, not consistent)
-- VETERINARY (^ unstable)
-- FLEA COLLAR (n thin atmosphere)
-  - FLEA (n thin atmosphere)
-- NEPETA CATARIA (d dusty, craterized)
-- SCRATCHING POST (n thin atmosphere)
-  - SOFA (d dusty, craterized)
-  - ARMCHAIR (d dusty, craterized)
-- YARNBALL (d dusty, craterized)
-- CANNED FOOD (k thick atmosphere)
-  - DRY FOOD (d dusty, craterized)
+TUNA (@ large, not consistent)
+VETERINARY (^ unstable)
+FLEA COLLAR (n thin atmosphere)
+  FLEA (n thin atmosphere)
+NEPETA CATARIA (d dusty, craterized)
+SCRATCHING POST (n thin atmosphere)
+  SOFA (d dusty, craterized)
+  ARMCHAIR (d dusty, craterized)
+YARNBALL (d dusty, craterized)
+CANNED FOOD (k thick atmosphere)
+  DRY FOOD (d dusty, craterized)
 
 Guide entries:
 SO, I NAMED IT AFTER MY VEHICLE, THE SD (STARDRIFTER) LITTERBOX.

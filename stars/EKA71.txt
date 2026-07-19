@@ -4,8 +4,8 @@ Paris coordinates: 294640, 2336, 472318
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BURNING ARCTIC (@ large, not consistent)
-- PINK PLAGUE (q quartz surface)
+BURNING ARCTIC (@ large, not consistent)
+PINK PLAGUE (q quartz surface)
 
 Guide entries:
 AN S00 STAR WITH TWO PLANETS AND NO MOONS. --EKA

@@ -4,6 +4,6 @@ Paris coordinates: 4181072, 4821938, -4274269
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (+ substellar object)
-- SEA OF LIGHT (q quartz surface)
+Planet #0 (r rocky, creased)
+Planet #1 (+ substellar object)
+SEA OF LIGHT (q quartz surface)

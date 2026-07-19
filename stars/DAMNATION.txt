@@ -4,7 +4,7 @@ Paris coordinates: -72041712, -1381056, 55128174
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- YBRIS (+ substellar object)
+YBRIS (+ substellar object)
 
 Guide entries:
 FEEL THE PULL OF HUGE FORCES, NEAR THIS TINY GUY

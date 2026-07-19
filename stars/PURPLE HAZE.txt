@@ -4,7 +4,7 @@ Paris coordinates: 3742128, 4428007, -203501
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WATCHTOWER (+ substellar object)
+WATCHTOWER (+ substellar object)
 
 Guide entries:
 NAMED 6011:562.863 BY TACKAT

@@ -4,12 +4,12 @@ Paris coordinates: 2570352, 5898082, -1391976
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- KAFFIN (n thin atmosphere)
-- PRISMIA (d dusty, craterized)
-- IXTLAN (f felisian)
-  - CHUPACABRA (^ unstable)
-- GAAHL (n thin atmosphere)
-- CALAMASTRA (r rocky, creased)
+KAFFIN (n thin atmosphere)
+PRISMIA (d dusty, craterized)
+IXTLAN (f felisian)
+  CHUPACABRA (^ unstable)
+GAAHL (n thin atmosphere)
+CALAMASTRA (r rocky, creased)
 
 Guide entries:
 STAR WITH SMALL PLANETARY SYSTEM, DISCOVERED BY MRUQE;EPOC 6011-568.643

@@ -4,7 +4,7 @@ Paris coordinates: -61194736, 29391324, 692184
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- KISIELIS 2 (@ large, not consistent)
+KISIELIS 2 (@ large, not consistent)
 
 Guide entries:
 CLASS S02 WHITE DARF DISCOVERED BY MCWGGOS EPOC 6011.639.692 1 PLANET

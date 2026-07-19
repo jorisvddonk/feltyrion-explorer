@@ -4,10 +4,10 @@ Paris coordinates: 1970352, -22293558, -810792
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- YXU (d dusty, craterized)
-- RAVVIN (q quartz surface)
-- AREUBE (r rocky, creased)
-- HOTZENPLOTZ (q quartz surface)
-- KIRUBE (@ large, not consistent)
-- NERUTEN (n thin atmosphere)
-- SISSJYS (d dusty, craterized)
+YXU (d dusty, craterized)
+RAVVIN (q quartz surface)
+AREUBE (r rocky, creased)
+HOTZENPLOTZ (q quartz surface)
+KIRUBE (@ large, not consistent)
+NERUTEN (n thin atmosphere)
+SISSJYS (d dusty, craterized)

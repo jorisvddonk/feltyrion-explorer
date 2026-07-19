@@ -4,7 +4,7 @@ Paris coordinates: 2777136, 4526086, -1142082
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FRANGITUR ANNULUS (d dusty, craterized)
+FRANGITUR ANNULUS (d dusty, craterized)
 
 Guide entries:
  HAS ONE PLANET, DISCOVERED EPOC 6012

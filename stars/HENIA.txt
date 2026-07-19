@@ -4,4 +4,4 @@ Paris coordinates: 3790704, 5411018, -1402566
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- HENIA 1 (@ large, not consistent)
+HENIA 1 (@ large, not consistent)

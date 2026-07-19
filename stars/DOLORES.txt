@@ -4,10 +4,10 @@ Paris coordinates: -104623472, 25720132, -33552
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- BERG (d dusty, craterized)
-- ALFA ARKARRIS (q quartz surface)
-- YUNOS (k thick atmosphere)
-- DRING (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-- SHTANGA (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+BERG (d dusty, craterized)
+ALFA ARKARRIS (q quartz surface)
+YUNOS (k thick atmosphere)
+DRING (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+SHTANGA (d dusty, craterized)
+  Moon #0 (d dusty, craterized)

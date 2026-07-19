@@ -4,9 +4,9 @@ Paris coordinates: -2307120, -6491705, -2857422
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- SCHIMMEL (d dusty, craterized)
-- BRUCK (k thick atmosphere)
-- BUR (n thin atmosphere)
-  - SKMUSS (d dusty, craterized)
-  - WALDMEISTER (d dusty, craterized)
-- DUNG (n thin atmosphere)
+SCHIMMEL (d dusty, craterized)
+BRUCK (k thick atmosphere)
+BUR (n thin atmosphere)
+  SKMUSS (d dusty, craterized)
+  WALDMEISTER (d dusty, craterized)
+DUNG (n thin atmosphere)

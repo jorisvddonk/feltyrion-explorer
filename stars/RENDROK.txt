@@ -4,11 +4,11 @@ Paris coordinates: 2852848, 4890171, -624238
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- WALLAH-WALLAH (q quartz surface)
-- DROG (n thin atmosphere)
-- HMMM (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+WALLAH-WALLAH (q quartz surface)
+DROG (n thin atmosphere)
+HMMM (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 (DISCOVERED 6011:571.16.300 BY SHADOWCLAW)

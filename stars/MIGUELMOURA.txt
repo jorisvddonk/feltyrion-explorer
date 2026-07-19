@@ -4,10 +4,10 @@ Paris coordinates: 3666416, 4076784, -593130
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (* companion star)
-- Planet #2 (* companion star)
-  - Moon #0 (+ substellar object)
+Planet #0 (k thick atmosphere)
+Planet #1 (* companion star)
+Planet #2 (* companion star)
+  Moon #0 (+ substellar object)
 
 Guide entries:
 FOUND BY MIGUEL MOURA EPOC 6011:588.985

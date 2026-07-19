@@ -4,8 +4,8 @@ Paris coordinates: 2147475920, 1314587, 99327211
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- FIERANE PRIME (n thin atmosphere)
-- FIERANE 2 (d dusty, craterized)
+FIERANE PRIME (n thin atmosphere)
+FIERANE 2 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:787.829

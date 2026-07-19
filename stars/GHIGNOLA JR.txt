@@ -4,17 +4,17 @@ Paris coordinates: -1431183248, 1122582, 1439019398
 Bodies: 11 (5 planets, 6 moons)
 
 System:
-- TABBED EJECTIONS (r rocky, creased)
-- FAULTY ILLUSIONIST (q quartz surface)
-- SKIMSTREAK (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - VIGREEN (n thin atmosphere)
-  - TACK RING (d dusty, craterized)
-- FAL NOKTAS (f felisian)
-  - EXPOSED PEAK (d dusty, craterized)
-- MARCLINE (f felisian)
-  - MASS FQUARTZ (d dusty, craterized)
-  - TWIN BURNS (d dusty, craterized)
+TABBED EJECTIONS (r rocky, creased)
+FAULTY ILLUSIONIST (q quartz surface)
+SKIMSTREAK (f felisian)
+  Moon #0 (d dusty, craterized)
+  VIGREEN (n thin atmosphere)
+  TACK RING (d dusty, craterized)
+FAL NOKTAS (f felisian)
+  EXPOSED PEAK (d dusty, craterized)
+MARCLINE (f felisian)
+  MASS FQUARTZ (d dusty, craterized)
+  TWIN BURNS (d dusty, craterized)
 
 Guide entries:
 (NAMED AFTER ALEX) S00, 5 PLANETS, P 3-5 ARE FELISIANS WITH                 

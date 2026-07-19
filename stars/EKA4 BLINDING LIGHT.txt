@@ -4,5 +4,5 @@ Paris coordinates: -71668848, -580907, 53302099
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BURNING ICE (q quartz surface)
-- BUBBLE (d dusty, craterized)
+BURNING ICE (q quartz surface)
+BUBBLE (d dusty, craterized)

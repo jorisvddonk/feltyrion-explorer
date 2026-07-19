@@ -4,8 +4,8 @@ Paris coordinates: 48575792, 284191, 1981629679
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AS12280057A (k thick atmosphere)
-- AS12280057B (@ large, not consistent)
+AS12280057A (k thick atmosphere)
+AS12280057B (@ large, not consistent)
 
 Guide entries:
 NOT WORTH A VISIT.

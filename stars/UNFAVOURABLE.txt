@@ -4,11 +4,11 @@ Paris coordinates: -63546160, 29543814, 1960842
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- UNGRATEFUL (d dusty, craterized)
-- JB 114 (+ substellar object)
-- UNHAPPY 1 (k thick atmosphere)
-- UNHEALTHY (d dusty, craterized)
-  - UNKIND (d dusty, craterized)
+UNGRATEFUL (d dusty, craterized)
+JB 114 (+ substellar object)
+UNHAPPY 1 (k thick atmosphere)
+UNHEALTHY (d dusty, craterized)
+  UNKIND (d dusty, craterized)
 
 Guide entries:
 CLASS S00 DISCOVERED BY MCWGOGS, 6011,645,311

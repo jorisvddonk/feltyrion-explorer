@@ -4,7 +4,7 @@ Paris coordinates: -1994744880, 121633, 1270993
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WHYEL (+ substellar object)
+WHYEL (+ substellar object)
 
 Guide entries:
 S07 WITH ONLY ONE PLANET, WHYEL, THE USUAL SUBSTELLAR OBJECT.               

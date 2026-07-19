@@ -4,7 +4,7 @@ Paris coordinates: 1205360, 60044697, -1770311
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TSUC ETERMO (k thick atmosphere)
+TSUC ETERMO (k thick atmosphere)
 
 Guide entries:
 LI+ ION EMITTING S05 WITH ONE THICK ATMOSPHERE PLANET.                      

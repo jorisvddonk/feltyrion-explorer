@@ -4,13 +4,13 @@ Paris coordinates: 3935344, 4724120, -788840
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- LARZ (d dusty, craterized)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (i icy surface)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (i icy surface)
-- Planet #4 (d dusty, craterized)
+LARZ (d dusty, craterized)
+Planet #1 (n thin atmosphere)
+Planet #2 (n thin atmosphere)
+  Moon #0 (i icy surface)
+Planet #3 (d dusty, craterized)
+  Moon #0 (i icy surface)
+Planet #4 (d dusty, craterized)
 
 Guide entries:
 INTRUDER

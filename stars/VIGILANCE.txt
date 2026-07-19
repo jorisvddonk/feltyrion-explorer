@@ -4,9 +4,9 @@ Paris coordinates: 3297488, 4500747, -460615
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SHOTOKAN (n thin atmosphere)
-- IPPON (k thick atmosphere)
-- ILIAD (d dusty, craterized)
+SHOTOKAN (n thin atmosphere)
+IPPON (k thick atmosphere)
+ILIAD (d dusty, craterized)
 
 Guide entries:
 A WHITE DWARF STAR WITH THREE ORBITING BODIES, ALL LIFELESS.

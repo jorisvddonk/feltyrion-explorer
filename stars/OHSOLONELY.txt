@@ -4,7 +4,7 @@ Paris coordinates: 3159632, 4949345, -683883
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ONLY (d dusty, craterized)
+ONLY (d dusty, craterized)
 
 Guide entries:
  THIS STAR HAS ONLY ONE COMPAINION, THE PLANET 'ONLY'.

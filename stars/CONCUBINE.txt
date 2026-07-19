@@ -4,7 +4,7 @@ Paris coordinates: 112144, -59562, -234333
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- CONCUBINE MINOR (+ substellar object)
+CONCUBINE MINOR (+ substellar object)
 
 Guide entries:
 A BLUE DWARF STAR 11LY FROM FELYSIA. HAS ONE PLANET.

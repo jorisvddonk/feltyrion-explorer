@@ -4,9 +4,9 @@ Paris coordinates: 1755696, 7604252, 2399357
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (k thick atmosphere)
-- PINK PLANET (f felisian)
-- Planet #3 (k thick atmosphere)
-- GREENIUM (f felisian)
-  - Moon #0 (d dusty, craterized)
+Planet #0 (k thick atmosphere)
+Planet #1 (k thick atmosphere)
+PINK PLANET (f felisian)
+Planet #3 (k thick atmosphere)
+GREENIUM (f felisian)
+  Moon #0 (d dusty, craterized)

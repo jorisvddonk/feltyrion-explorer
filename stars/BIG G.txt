@@ -4,8 +4,8 @@ Paris coordinates: 2859632, 4636208, -356909
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- SILENT (n thin atmosphere)
-- ILLUMINUS (n thin atmosphere)
+SILENT (n thin atmosphere)
+ILLUMINUS (n thin atmosphere)
 
 Guide entries:
 PULSAR WITH TWO PLANETS. NO MOONS. NIETHER SUPPORT LIFE, BUT SOLID

@@ -4,7 +4,7 @@ Paris coordinates: 14726384, 6334300, -4332710
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- GOLEEPIT (+ substellar object)
+GOLEEPIT (+ substellar object)
 
 Guide entries:
 A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011 605.117

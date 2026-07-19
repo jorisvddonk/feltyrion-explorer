@@ -4,9 +4,9 @@ Paris coordinates: 3077136, 5007894, -1447173
 Bodies: 3 (2 planets, 1 moons)
 
 System:
-- AEYR PRIME (* companion star)
-  - AEYR PRIME ALPHA (n thin atmosphere)
-- VAYPAR (@ large, not consistent)
+AEYR PRIME (* companion star)
+  AEYR PRIME ALPHA (n thin atmosphere)
+VAYPAR (@ large, not consistent)
 
 Guide entries:
 NAMED BY XILOSCIENT EPOC 6011:573.79

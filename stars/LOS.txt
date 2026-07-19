@@ -4,13 +4,13 @@ Paris coordinates: 339280, 101762, 1148923
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- TIME (d dusty, craterized)
-- THE 6 ELEMENTS (q quartz surface)
-- DERE (k thick atmosphere)
-- HALLS OF BORON (k thick atmosphere)
-- AL'VERAN (@ large, not consistent)
-- THE STARS (+ substellar object)
-- CHAOS (r rocky, creased)
+TIME (d dusty, craterized)
+THE 6 ELEMENTS (q quartz surface)
+DERE (k thick atmosphere)
+HALLS OF BORON (k thick atmosphere)
+AL'VERAN (@ large, not consistent)
+THE STARS (+ substellar object)
+CHAOS (r rocky, creased)
 
 Guide entries:
 WHITE DWARV STAR; POSSIBLE HARMFUL RADIATION

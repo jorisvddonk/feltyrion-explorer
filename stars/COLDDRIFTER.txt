@@ -4,8 +4,8 @@ Paris coordinates: 4028560, 5541484, -1277808
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- OUTCASTED (r rocky, creased)
-- CUNJO (@ large, not consistent)
-- DECEPTIVE SKY (k thick atmosphere)
-  - FROZEN EYE (d dusty, craterized)
-  - CRATER OF HORIZONS (d dusty, craterized)
+OUTCASTED (r rocky, creased)
+CUNJO (@ large, not consistent)
+DECEPTIVE SKY (k thick atmosphere)
+  FROZEN EYE (d dusty, craterized)
+  CRATER OF HORIZONS (d dusty, craterized)

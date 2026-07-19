@@ -4,11 +4,11 @@ Paris coordinates: 4679984, 7940337, -995777
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- REP I (q quartz surface)
-- REP II (n thin atmosphere)
-- Planet #2 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+REP I (q quartz surface)
+REP II (n thin atmosphere)
+Planet #2 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  STAR DISCOVERED BY MURRMURR EPOC 6011:607.630

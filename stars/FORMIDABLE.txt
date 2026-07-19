@@ -4,11 +4,11 @@ Paris coordinates: 5211056, 4249377, -1602231
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- COYOTILLO (n thin atmosphere)
-- PRITHEE (n thin atmosphere)
-- GHILLIE (n thin atmosphere)
-  - ROQUE (d dusty, craterized)
-  - JUST PLAIN COLD (i icy surface)
+COYOTILLO (n thin atmosphere)
+PRITHEE (n thin atmosphere)
+GHILLIE (n thin atmosphere)
+  ROQUE (d dusty, craterized)
+  JUST PLAIN COLD (i icy surface)
 
 Guide entries:
 TYPE S11 STAR WITH THREE PLANETS AND TWO MOONS, ALL SOILD.

@@ -4,19 +4,19 @@ Paris coordinates: 3587856, 4660150, -3339201
 Bodies: 13 (6 planets, 7 moons)
 
 System:
-- PETEN (n thin atmosphere)
-- STLON (k thick atmosphere)
-- ORTMA (k thick atmosphere)
-- HORX (d dusty, craterized)
-  - UDWI (d dusty, craterized)
-- LETAI (@ large, not consistent)
-  - BOYM (n thin atmosphere)
-  - URVO (q quartz surface)
-  - CHYMI (k thick atmosphere)
-  - OTSK (r rocky, creased)
-  - DYSHA (r rocky, creased)
-- KHARK (n thin atmosphere)
-  - GALU (d dusty, craterized)
+PETEN (n thin atmosphere)
+STLON (k thick atmosphere)
+ORTMA (k thick atmosphere)
+HORX (d dusty, craterized)
+  UDWI (d dusty, craterized)
+LETAI (@ large, not consistent)
+  BOYM (n thin atmosphere)
+  URVO (q quartz surface)
+  CHYMI (k thick atmosphere)
+  OTSK (r rocky, creased)
+  DYSHA (r rocky, creased)
+KHARK (n thin atmosphere)
+  GALU (d dusty, craterized)
 
 Guide entries:
 A CLASS S00 SYSTEM CONSISTING OF 6 PLANETS, 7 MOONS, NO FELISIAN WORLDS.

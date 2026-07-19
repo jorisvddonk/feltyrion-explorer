@@ -4,7 +4,7 @@ Paris coordinates: 2273200, 1938174, 1059603
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SIMILAR (n thin atmosphere)
+SIMILAR (n thin atmosphere)
 
 Guide entries:
  STAR FOUND BY DR. WORM, EPOC 6011: 659.719

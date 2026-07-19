@@ -4,7 +4,7 @@ Paris coordinates: 6439280, 8160862, -4947557
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- URR'KAAL 1 (n thin atmosphere)
+URR'KAAL 1 (n thin atmosphere)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 605.491

@@ -4,7 +4,7 @@ Paris coordinates: 632496, 3581245, 399663
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BLISTER (d dusty, craterized)
+BLISTER (d dusty, craterized)
 
 Guide entries:
 DISCOVERED EPOC 6011 584.201.525 BY PROF.CALLAHAN. VERY REMOTE.

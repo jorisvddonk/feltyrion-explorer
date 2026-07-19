@@ -4,7 +4,7 @@ Paris coordinates: 2542128, 4033081, 1058998
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (r rocky, creased)
+Planet #0 (r rocky, creased)
 
 Guide entries:
 AN ANCIENT RUN AWAY STAR, NO ORBITING BODIES.

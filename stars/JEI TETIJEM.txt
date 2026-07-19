@@ -4,7 +4,7 @@ Paris coordinates: 2051204272, -351242, 30342
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LILUYS (k thick atmosphere)
+LILUYS (k thick atmosphere)
 
 Guide entries:
 CLASS S00 STAR, ONLY ONE PLANET. 1.16353345 BAL. M. TEMP 6071 K             

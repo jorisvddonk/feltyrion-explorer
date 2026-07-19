@@ -4,7 +4,7 @@ Paris coordinates: 1122864, 4909945, -2578195
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ARMOUR SON (n thin atmosphere)
+ARMOUR SON (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.191.764                          

@@ -4,4 +4,4 @@ Paris coordinates: 7675632, -9821843, 11421058
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASKEW 165A (+ substellar object)
+ASKEW 165A (+ substellar object)

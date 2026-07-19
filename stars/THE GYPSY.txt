@@ -4,7 +4,7 @@ Paris coordinates: 2308208, 4917962, -807668
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- THE ORPHAN (@ large, not consistent)
+THE ORPHAN (@ large, not consistent)
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.895

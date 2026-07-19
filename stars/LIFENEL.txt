@@ -4,14 +4,14 @@ Paris coordinates: -1290448, 2491256, 22212119
 Bodies: 8 (4 planets, 4 moons)
 
 System:
-- BABLUE (@ large, not consistent)
-- OLIB (k thick atmosphere)
-- JUNGAL (f felisian)
-  - GOLDE (d dusty, craterized)
-  - TEALIN (d dusty, craterized)
-  - HALUS (d dusty, craterized)
-- PIRUNING (n thin atmosphere)
-  - DORNGE (n thin atmosphere)
+BABLUE (@ large, not consistent)
+OLIB (k thick atmosphere)
+JUNGAL (f felisian)
+  GOLDE (d dusty, craterized)
+  TEALIN (d dusty, craterized)
+  HALUS (d dusty, craterized)
+PIRUNING (n thin atmosphere)
+  DORNGE (n thin atmosphere)
 
 Guide entries:
 4 PLANETS, 4 MOONS.

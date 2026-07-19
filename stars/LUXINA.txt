@@ -4,14 +4,14 @@ Paris coordinates: 3363568, 4338782, -2645725
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- QALIB (q quartz surface)
-- TAMZAR (d dusty, craterized)
-- DENUMBRA (n thin atmosphere)
-- KARSIF (f felisian)
-  - GLOKAR (d dusty, craterized)
-  - SHOKAR (n thin atmosphere)
-  - BUKAR (d dusty, craterized)
-- KARIDE (f felisian)
+QALIB (q quartz surface)
+TAMZAR (d dusty, craterized)
+DENUMBRA (n thin atmosphere)
+KARSIF (f felisian)
+  GLOKAR (d dusty, craterized)
+  SHOKAR (n thin atmosphere)
+  BUKAR (d dusty, craterized)
+KARIDE (f felisian)
 
 Guide entries:
 CHARTED BY ADAMANT, EPOC 6011 915.746.863.                                  

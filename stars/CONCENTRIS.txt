@@ -4,4 +4,4 @@ Paris coordinates: 3897488, 5024932, -1047852
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- STOP OVER (r rocky, creased)
+STOP OVER (r rocky, creased)

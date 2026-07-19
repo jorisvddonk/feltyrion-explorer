@@ -4,10 +4,10 @@ Paris coordinates: 3452848, 4218536, -1189215
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- EMERALD RING (r rocky, creased)
-- GRECRATAR (d dusty, craterized)
-- SOSOPAT (d dusty, craterized)
-  - SURPRISA (n thin atmosphere)
+EMERALD RING (r rocky, creased)
+GRECRATAR (d dusty, craterized)
+SOSOPAT (d dusty, craterized)
+  SURPRISA (n thin atmosphere)
 
 Guide entries:
 WAS DISCVERED BY GEOFFROY CHARTRAND, 689.425.700.                           

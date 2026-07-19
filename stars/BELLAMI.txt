@@ -4,7 +4,7 @@ Paris coordinates: 2314992, 4633776, -411379
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- B 1 (+ substellar object)
+B 1 (+ substellar object)
 
 Guide entries:
 DISCOVERER ALEXX, EPOC 6011:602.468.

@@ -4,8 +4,8 @@ Paris coordinates: -107022384, 25048212, -1468240
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- MASTER OF ORION B (* companion star)
-  - SENIA (k thick atmosphere)
-  - RONK (d dusty, craterized)
-- ORANGUTAN (q quartz surface)
-- NATUGNARO (q quartz surface)
+MASTER OF ORION B (* companion star)
+  SENIA (k thick atmosphere)
+  RONK (d dusty, craterized)
+ORANGUTAN (q quartz surface)
+NATUGNARO (q quartz surface)

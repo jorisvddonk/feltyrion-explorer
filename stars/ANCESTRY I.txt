@@ -4,5 +4,5 @@ Paris coordinates: -1406454352, 14465, 1421845137
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ANCIENT CLOUD (@ large, not consistent)
-- FORMER HARBINGER (q quartz surface)
+ANCIENT CLOUD (@ large, not consistent)
+FORMER HARBINGER (q quartz surface)

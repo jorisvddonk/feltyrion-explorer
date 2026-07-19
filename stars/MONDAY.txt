@@ -4,11 +4,11 @@ Paris coordinates: 5179984, 4424194, -1495125
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- BLUE NOON (q quartz surface)
-- DARK GEM (r rocky, creased)
-- DUSK (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (^ unstable)
+BLUE NOON (q quartz surface)
+DARK GEM (r rocky, creased)
+DUSK (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (^ unstable)
 
 Guide entries:
 A BLUE GIANT NAMED MONDAY, THE BRAINCHILD OF A TWISTED HUMOUR.

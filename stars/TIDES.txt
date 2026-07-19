@@ -4,8 +4,8 @@ Paris coordinates: -1363568, 548914, 761894
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- MARINE (d dusty, craterized)
-- ACIDIA (k thick atmosphere)
+MARINE (d dusty, craterized)
+ACIDIA (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY LOGAN, EPOC 6011:664.719

@@ -4,11 +4,11 @@ Paris coordinates: 163568, 107470, 773613
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- DIERON (k thick atmosphere)
-- ROWE (d dusty, craterized)
-- GALTOR (r rocky, creased)
-  - ROBINSON (^ unstable)
-  - KENTARES (i icy surface)
+DIERON (k thick atmosphere)
+ROWE (d dusty, craterized)
+GALTOR (r rocky, creased)
+  ROBINSON (^ unstable)
+  KENTARES (i icy surface)
 
 Guide entries:
  CALSS 5 STAR; SMALL, WEAK, COLD; BROWN SUBSTELLAR OBJECT

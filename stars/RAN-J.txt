@@ -4,14 +4,14 @@ Paris coordinates: 5703184, 4943425, 1251410
 Bodies: 8 (4 planets, 4 moons)
 
 System:
-- LIXIR (+ substellar object)
-- J-RAN (* companion star)
-  - RERTHUX (^ unstable)
-  - PENCHT (^ unstable)
-- WORBYCK (k thick atmosphere)
-  - YISMU (n thin atmosphere)
-  - PILBER (n thin atmosphere)
-- RYSHREKA (k thick atmosphere)
+LIXIR (+ substellar object)
+J-RAN (* companion star)
+  RERTHUX (^ unstable)
+  PENCHT (^ unstable)
+WORBYCK (k thick atmosphere)
+  YISMU (n thin atmosphere)
+  PILBER (n thin atmosphere)
+RYSHREKA (k thick atmosphere)
 
 Guide entries:
 FURTHER NOTES: A CLASS S08 SYSTEM OF 2 STARS AND 7 WORLDS, NO FELISIAN

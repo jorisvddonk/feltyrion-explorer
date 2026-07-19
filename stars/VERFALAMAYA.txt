@@ -4,9 +4,9 @@ Paris coordinates: 356784, 302863, -10167
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- GREENCRALARAYA (d dusty, craterized)
-- FOGGALARYA (k thick atmosphere)
-- FELLAMABADYA (f felisian)
-  - CRATERALA (d dusty, craterized)
-  - BLOWARAYA (d dusty, craterized)
-  - PUNCALARA (d dusty, craterized)
+GREENCRALARAYA (d dusty, craterized)
+FOGGALARYA (k thick atmosphere)
+FELLAMABADYA (f felisian)
+  CRATERALA (d dusty, craterized)
+  BLOWARAYA (d dusty, craterized)
+  PUNCALARA (d dusty, craterized)

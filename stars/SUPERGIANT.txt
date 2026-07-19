@@ -4,11 +4,11 @@ Paris coordinates: 1218928, 781336, -929477
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- GIANT COMPANION 1 (d dusty, craterized)
-- GIANT COMPANION 2 (r rocky, creased)
-- GIANT COMPANION 3 (d dusty, craterized)
-- GIANT COMPANION 4 (d dusty, craterized)
-  - GIANT COMPANION 4.1 (d dusty, craterized)
+GIANT COMPANION 1 (d dusty, craterized)
+GIANT COMPANION 2 (r rocky, creased)
+GIANT COMPANION 3 (d dusty, craterized)
+GIANT COMPANION 4 (d dusty, craterized)
+  GIANT COMPANION 4.1 (d dusty, craterized)
 
 Guide entries:
  A HUGE ORANGE GIANT STAR, WHICH HAS ALREADY ENGULFED MOST OF ITS

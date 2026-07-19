@@ -4,12 +4,12 @@ Paris coordinates: 3335344, 4102025, -194226
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- CRATEREO (d dusty, craterized)
-- BLAZED (+ substellar object)
-- FLATILLIAN (f felisian)
-  - LEADIUS (d dusty, craterized)
-  - PENNY (d dusty, craterized)
-  - HOLIUS (d dusty, craterized)
+CRATEREO (d dusty, craterized)
+BLAZED (+ substellar object)
+FLATILLIAN (f felisian)
+  LEADIUS (d dusty, craterized)
+  PENNY (d dusty, craterized)
+  HOLIUS (d dusty, craterized)
 
 Guide entries:
 YELLOW STAR, 3 PLANETS, 1 SUPPORTS LIFE THOUGH NONE SEEN EXCEPT BIRDS

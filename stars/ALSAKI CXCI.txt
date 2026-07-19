@@ -4,5 +4,5 @@ Paris coordinates: 15416752, 32655442, -7587566
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (@ large, not consistent)
+Planet #0 (* companion star)
+Planet #1 (@ large, not consistent)

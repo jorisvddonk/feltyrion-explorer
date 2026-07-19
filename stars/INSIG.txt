@@ -4,8 +4,8 @@ Paris coordinates: 26615760, 6410886, 44980527
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- JUPI (@ large, not consistent)
-- DUSTEE (d dusty, craterized)
+JUPI (@ large, not consistent)
+DUSTEE (d dusty, craterized)
 
 Guide entries:
 PART OF THE JEYSTAR NEBULA. S00 STAR WITH 2 PLANETS. NONE FELYSIAN.

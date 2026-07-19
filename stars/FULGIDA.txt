@@ -4,4 +4,4 @@ Paris coordinates: 14595312, 8218755, -4127301
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FULGIDA UNICO (r rocky, creased)
+FULGIDA UNICO (r rocky, creased)

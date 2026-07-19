@@ -4,7 +4,7 @@ Paris coordinates: 4273200, 4565722, -747991
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- TITANIA (@ large, not consistent)
+TITANIA (@ large, not consistent)
 
 Guide entries:
 FURTHER NOTES: A CLASS S02 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011

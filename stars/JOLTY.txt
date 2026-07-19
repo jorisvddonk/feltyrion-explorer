@@ -4,4 +4,4 @@ Paris coordinates: 177136, 554186, 1656999
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- JOLTY PRIME (q quartz surface)
+JOLTY PRIME (q quartz surface)

@@ -4,8 +4,8 @@ Paris coordinates: -105657392, 25872251, -859369
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- ALPHA PLANET (@ large, not consistent)
-- SPONH (n thin atmosphere)
-- ISLAND WORLD (f felisian)
-  - Moon #0 (d dusty, craterized)
-- DRIVE (r rocky, creased)
+ALPHA PLANET (@ large, not consistent)
+SPONH (n thin atmosphere)
+ISLAND WORLD (f felisian)
+  Moon #0 (d dusty, craterized)
+DRIVE (r rocky, creased)

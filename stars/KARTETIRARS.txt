@@ -4,16 +4,16 @@ Paris coordinates: 2060873872, -1780546, 127470
 Bodies: 10 (5 planets, 5 moons)
 
 System:
-- OMIDYKRE (r rocky, creased)
-- PANYFHS (n thin atmosphere)
-- ALLUVIONIS (f felisian)
-  - MAJEH (n thin atmosphere)
-  - EMARIK (d dusty, craterized)
-- OVERIRFH (r rocky, creased)
-  - SAFHYM (n thin atmosphere)
-  - LIFHYM (n thin atmosphere)
-- PANIFICIUM (f felisian)
-  - ASUVIK (d dusty, craterized)
+OMIDYKRE (r rocky, creased)
+PANYFHS (n thin atmosphere)
+ALLUVIONIS (f felisian)
+  MAJEH (n thin atmosphere)
+  EMARIK (d dusty, craterized)
+OVERIRFH (r rocky, creased)
+  SAFHYM (n thin atmosphere)
+  LIFHYM (n thin atmosphere)
+PANIFICIUM (f felisian)
+  ASUVIK (d dusty, craterized)
 
 Guide entries:
  CLASS S00 SYSTEM OF 5 PLANETS AND 5 MOONS WITH 2 FELISIAN WORLDS.          

@@ -4,17 +4,17 @@ Paris coordinates: 4855696, 5021075, -427237
 Bodies: 11 (8 planets, 3 moons)
 
 System:
-- RINGED JADE (k thick atmosphere)
-- OBSIDIAN (d dusty, craterized)
-- HALO (^ unstable)
-  - DEAD EMERALD (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (n thin atmosphere)
-- Planet #4 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-- CROWNED SAPPHIRE (@ large, not consistent)
-- Planet #6 (d dusty, craterized)
-- Planet #7 (d dusty, craterized)
+RINGED JADE (k thick atmosphere)
+OBSIDIAN (d dusty, craterized)
+HALO (^ unstable)
+  DEAD EMERALD (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+  Moon #0 (n thin atmosphere)
+Planet #4 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+CROWNED SAPPHIRE (@ large, not consistent)
+Planet #6 (d dusty, craterized)
+Planet #7 (d dusty, craterized)
 
 Guide entries:
 THE ORBIT AROUND HALO IS A WONDERFUL SIGHT, WHITH THE RING SO CLOSE TO

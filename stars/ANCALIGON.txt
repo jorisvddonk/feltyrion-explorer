@@ -4,9 +4,9 @@ Paris coordinates: 5259632, 4541345, -2547047
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (^ unstable)
-- Planet #3 (d dusty, craterized)
-- Planet #4 (d dusty, craterized)
+Planet #0 (@ large, not consistent)
+Planet #1 (d dusty, craterized)
+Planet #2 (n thin atmosphere)
+  Moon #0 (^ unstable)
+Planet #3 (d dusty, craterized)
+Planet #4 (d dusty, craterized)

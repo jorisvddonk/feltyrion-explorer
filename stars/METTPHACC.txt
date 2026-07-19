@@ -4,11 +4,11 @@ Paris coordinates: -301424, -130966, -695252
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- BIT 4 (n thin atmosphere)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (d dusty, craterized)
-- PREP GWARL 36 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
+BIT 4 (n thin atmosphere)
+Planet #1 (@ large, not consistent)
+Planet #2 (d dusty, craterized)
+PREP GWARL 36 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOEVERED BY JILANTY EPOC6011 568.994

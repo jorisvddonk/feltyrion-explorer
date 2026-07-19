@@ -4,5 +4,5 @@ Paris coordinates: 4046064, 5296081, -2136675
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (+ substellar object)
+Planet #0 (q quartz surface)
+Planet #1 (+ substellar object)

@@ -4,9 +4,9 @@ Paris coordinates: 2028560, 3604181, 732400
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- GRINDAG 1 (@ large, not consistent)
-- GRINDAG 2 (k thick atmosphere)
-- GRINDAG 3 (r rocky, creased)
-  - GRINDAGMOO 31 (n thin atmosphere)
-- GRINDAG 4 (n thin atmosphere)
-  - GRINDAG REBEL BASE (d dusty, craterized)
+GRINDAG 1 (@ large, not consistent)
+GRINDAG 2 (k thick atmosphere)
+GRINDAG 3 (r rocky, creased)
+  GRINDAGMOO 31 (n thin atmosphere)
+GRINDAG 4 (n thin atmosphere)
+  GRINDAG REBEL BASE (d dusty, craterized)

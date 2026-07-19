@@ -4,8 +4,8 @@ Paris coordinates: 3804272, 4298014, -560218
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (@ large, not consistent)
+Planet #0 (d dusty, craterized)
+Planet #1 (@ large, not consistent)
 
 Guide entries:
 BY HARIDAS, EPOC 6011, 2 PROTOPLANETS, DEAD

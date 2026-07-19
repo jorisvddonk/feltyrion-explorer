@@ -4,12 +4,12 @@ Paris coordinates: 4352848, 4395547, -2049316
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- TROPICANA (q quartz surface)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+TROPICANA (q quartz surface)
+Planet #1 (k thick atmosphere)
+Planet #2 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 CLASS S04 STAR, 4 PLANETS

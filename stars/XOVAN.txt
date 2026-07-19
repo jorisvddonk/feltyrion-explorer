@@ -4,15 +4,15 @@ Paris coordinates: 5778896, 4368741, 1774831
 Bodies: 9 (4 planets, 5 moons)
 
 System:
-- Q0-1 (q quartz surface)
-- XORA (n thin atmosphere)
-- SNOWFALL (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
-- DANAR (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
+Q0-1 (q quartz surface)
+XORA (n thin atmosphere)
+SNOWFALL (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
+DANAR (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  KALLIOPE. 6011.617.765 (TARDY RECORDING). ONE WORLD, SNOWFALL.

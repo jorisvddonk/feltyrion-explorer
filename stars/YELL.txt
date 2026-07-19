@@ -4,14 +4,14 @@ Paris coordinates: 3887856, 4324641, -3534520
 Bodies: 8 (4 planets, 4 moons)
 
 System:
-- YELL1 (q quartz surface)
-- YELL2 (n thin atmosphere)
-- YELL3 (d dusty, craterized)
-  - YELL3A (d dusty, craterized)
-- YELL4 (f felisian)
-  - YELL4A (d dusty, craterized)
-  - YELL4B (n thin atmosphere)
-  - YELL4C (d dusty, craterized)
+YELL1 (q quartz surface)
+YELL2 (n thin atmosphere)
+YELL3 (d dusty, craterized)
+  YELL3A (d dusty, craterized)
+YELL4 (f felisian)
+  YELL4A (d dusty, craterized)
+  YELL4B (n thin atmosphere)
+  YELL4C (d dusty, craterized)
 
 Guide entries:
 NAMED BY DEREK YEUNG 6011 581.30.523

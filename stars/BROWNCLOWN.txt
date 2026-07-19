@@ -4,11 +4,11 @@ Paris coordinates: -2742128, 3746358, -471469
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- BROWNCLOWN I (r rocky, creased)
-- BROWNCLOWN II (d dusty, craterized)
-- BROWNCLOWN III (n thin atmosphere)
-  - BROWNCLOWN III A (d dusty, craterized)
-  - BROWNCLOWN III B (i icy surface)
+BROWNCLOWN I (r rocky, creased)
+BROWNCLOWN II (d dusty, craterized)
+BROWNCLOWN III (n thin atmosphere)
+  BROWNCLOWN III A (d dusty, craterized)
+  BROWNCLOWN III B (i icy surface)
 
 Guide entries:
 A BROWN DWARF WITH 3 PLANETS. (SCHMERM 6011 583.25)

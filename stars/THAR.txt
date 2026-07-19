@@ -4,8 +4,8 @@ Paris coordinates: 1067504, 2853456, -2022590
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- THAR-A (r rocky, creased)
-- THAR-B (+ substellar object)
-- THAR-C (r rocky, creased)
-  - THAR-C-S1 (d dusty, craterized)
-  - THAR-C-S2 (d dusty, craterized)
+THAR-A (r rocky, creased)
+THAR-B (+ substellar object)
+THAR-C (r rocky, creased)
+  THAR-C-S1 (d dusty, craterized)
+  THAR-C-S2 (d dusty, craterized)

@@ -4,5 +4,5 @@ Paris coordinates: 12144, 654769, -193747
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GURTEN (r rocky, creased)
-- AUGSTGRAD (@ large, not consistent)
+GURTEN (r rocky, creased)
+AUGSTGRAD (@ large, not consistent)

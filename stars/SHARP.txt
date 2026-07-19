@@ -4,9 +4,9 @@ Paris coordinates: 4346736, 2176410, 7261628
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SHARP I (d dusty, craterized)
-- SHARP II (@ large, not consistent)
-- SHARP III (d dusty, craterized)
+SHARP I (d dusty, craterized)
+SHARP II (@ large, not consistent)
+SHARP III (d dusty, craterized)
 
 Guide entries:
 A CLASS S)2 SYSTEM WITH 3 PLANETS. SKINNYMON EPOC 6011 586.106

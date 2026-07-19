@@ -4,12 +4,12 @@ Paris coordinates: 312144, 142847, -534272
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- ETHOS (q quartz surface)
-- QUAIGH (q quartz surface)
-- HOTCHPOT (r rocky, creased)
-- VIZSLA (@ large, not consistent)
-- SCAUP (@ large, not consistent)
-- DIGHT (@ large, not consistent)
+ETHOS (q quartz surface)
+QUAIGH (q quartz surface)
+HOTCHPOT (r rocky, creased)
+VIZSLA (@ large, not consistent)
+SCAUP (@ large, not consistent)
+DIGHT (@ large, not consistent)
 
 Guide entries:
 A CLASS S02 SYSTEM OF 6 PLANETS, NON FELISIAN. SKINNYMON EPOC 6011

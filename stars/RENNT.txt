@@ -4,7 +4,7 @@ Paris coordinates: -98576, -1287350, 1185237
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- RENNT1 (d dusty, craterized)
+RENNT1 (d dusty, craterized)
 
 Guide entries:
 S00 STAR WITH ONE PLANET THAT HAS NO ATMOSPHERE.

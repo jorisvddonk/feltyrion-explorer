@@ -4,8 +4,8 @@ Paris coordinates: 52848, 5109527, 1966880
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KORIANDER (d dusty, craterized)
-- LOKIATRETROP (n thin atmosphere)
+KORIANDER (d dusty, craterized)
+LOKIATRETROP (n thin atmosphere)
 
 Guide entries:
 INTRUDER 6011:573.395.900

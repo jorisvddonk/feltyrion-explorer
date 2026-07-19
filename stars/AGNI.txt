@@ -4,13 +4,13 @@ Paris coordinates: 4611056, 4574456, -924719
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (n thin atmosphere)
-- Planet #3 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- Planet #4 (k thick atmosphere)
+Planet #0 (k thick atmosphere)
+Planet #1 (d dusty, craterized)
+Planet #2 (n thin atmosphere)
+Planet #3 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+Planet #4 (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY JAVIER, 6011:686.97.                                          

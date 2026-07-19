@@ -4,8 +4,8 @@ Paris coordinates: 6887856, 12214191, -6523034
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NIKTO (n thin atmosphere)
-- AMDO (k thick atmosphere)
+NIKTO (n thin atmosphere)
+AMDO (k thick atmosphere)
 
 Guide entries:
 A RUNAWAY STAR WITH TWO PLANETS IN TOW.

@@ -4,7 +4,7 @@ Paris coordinates: 1577136, 1492069, -37268
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- RUBALLIN (d dusty, craterized)
+RUBALLIN (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY BJS EPOC 6011:584.209

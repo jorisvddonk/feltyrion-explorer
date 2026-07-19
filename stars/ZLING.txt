@@ -4,16 +4,16 @@ Paris coordinates: 4074288, 4350028, -4440065
 Bodies: 10 (7 planets, 3 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- L-ONE (r rocky, creased)
-- Planet #2 (d dusty, craterized)
-- Planet #3 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- Planet #5 (f felisian)
-- Planet #6 (k thick atmosphere)
+Planet #0 (@ large, not consistent)
+L-ONE (r rocky, creased)
+Planet #2 (d dusty, craterized)
+Planet #3 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+Planet #4 (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+Planet #5 (f felisian)
+Planet #6 (k thick atmosphere)
 
 Guide entries:
 A NICE LOOKING YELLOW STAR

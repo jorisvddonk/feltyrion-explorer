@@ -4,10 +4,10 @@ Paris coordinates: 3544976, 5434786, 2062216
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (* companion star)
-  - Moon #0 (r rocky, creased)
-  - Moon #1 (k thick atmosphere)
+Planet #0 (* companion star)
+Planet #1 (* companion star)
+  Moon #0 (r rocky, creased)
+  Moon #1 (k thick atmosphere)
 
 Guide entries:
 A TRIPLE STAR SYSTEM, VERY UNUSUAL. DISCOVERED EPOC 6011,713.461.           

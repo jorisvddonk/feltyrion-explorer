@@ -4,10 +4,10 @@ Paris coordinates: 3966416, 4299706, -1061190
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- GEIDI (@ large, not consistent)
-- BOLTON (n thin atmosphere)
-- KAMA (d dusty, craterized)
-  - KUMA (^ unstable)
+GEIDI (@ large, not consistent)
+BOLTON (n thin atmosphere)
+KAMA (d dusty, craterized)
+  KUMA (^ unstable)
 
 Guide entries:
 A RED GIANT WITH THREE PLANETS. THE FIRST PLANETBEING A LARGE GASEOUS

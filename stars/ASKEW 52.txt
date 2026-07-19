@@ -4,4 +4,4 @@ Paris coordinates: 10969520, -19066055, 17224999
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASKEW 52A (k thick atmosphere)
+ASKEW 52A (k thick atmosphere)

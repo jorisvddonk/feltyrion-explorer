@@ -4,9 +4,9 @@ Paris coordinates: 5112144, 4110303, -5325494
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (@ large, not consistent)
-- LENNY (f felisian)
+Planet #0 (+ substellar object)
+Planet #1 (@ large, not consistent)
+LENNY (f felisian)
 
 Guide entries:
  SOO DISCBY SCAREDY-CAT, EPOC 6011.585.953. 3 ORBITING BODIES,1FELISIAN

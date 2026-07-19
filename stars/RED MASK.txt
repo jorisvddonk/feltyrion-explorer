@@ -4,8 +4,8 @@ Paris coordinates: 4042128, 4393971, -537189
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (+ substellar object)
+Planet #0 (@ large, not consistent)
+Planet #1 (+ substellar object)
 
 Guide entries:
 STAR DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:561.243

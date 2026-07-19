@@ -4,13 +4,13 @@ Paris coordinates: 4821776, 4604922, -2453236
 Bodies: 7 (3 planets, 4 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (* companion star)
-  - Moon #0 (q quartz surface)
-- Planet #2 (* companion star)
-  - Moon #0 (n thin atmosphere)
-  - CORONAE (f felisian)
-  - Moon #2 (@ large, not consistent)
+Planet #0 (* companion star)
+Planet #1 (* companion star)
+  Moon #0 (q quartz surface)
+Planet #2 (* companion star)
+  Moon #0 (n thin atmosphere)
+  CORONAE (f felisian)
+  Moon #2 (@ large, not consistent)
 
 Guide entries:
 STAR DISCOVERED BY OBLIVIATOR, EPOC 6011:595.640

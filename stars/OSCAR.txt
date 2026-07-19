@@ -4,8 +4,8 @@ Paris coordinates: 5342128, 7777551, -1720892
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- JAKE I (d dusty, craterized)
-- JAKE II (d dusty, craterized)
+JAKE I (d dusty, craterized)
+JAKE II (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED BY MURRMURR EPOC 6011:607.629

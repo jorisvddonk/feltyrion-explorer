@@ -4,11 +4,11 @@ Paris coordinates: 3952848, 4479972, -1933892
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- WITHER (n thin atmosphere)
-- JLJ-GGP-5 (@ large, not consistent)
-- ETERNITY (n thin atmosphere)
-- BASE STATE (d dusty, craterized)
-  - WRACK (d dusty, craterized)
+WITHER (n thin atmosphere)
+JLJ-GGP-5 (@ large, not consistent)
+ETERNITY (n thin atmosphere)
+BASE STATE (d dusty, craterized)
+  WRACK (d dusty, craterized)
 
 Guide entries:
 STAR LABELED BY JEREMY JOHNSON, EPOC 6011 - 592.786.75

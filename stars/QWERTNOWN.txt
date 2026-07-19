@@ -4,5 +4,5 @@ Paris coordinates: -1425793968, 1597378, 1434962482
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- WUXING DEXTER (n thin atmosphere)
-- SESQWERT (n thin atmosphere)
+WUXING DEXTER (n thin atmosphere)
+SESQWERT (n thin atmosphere)

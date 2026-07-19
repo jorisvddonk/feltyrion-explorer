@@ -4,5 +4,5 @@ Paris coordinates: 4744976, 3731526, 975618
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- NIKKO (+ substellar object)
-- URBAN (@ large, not consistent)
+NIKKO (+ substellar object)
+URBAN (@ large, not consistent)

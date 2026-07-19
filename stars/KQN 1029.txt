@@ -4,14 +4,14 @@ Paris coordinates: -675376, 5328164, 5102857
 Bodies: 8 (5 planets, 3 moons)
 
 System:
-- MURK (k thick atmosphere)
-- TIK (k thick atmosphere)
-- ARENDIA (f felisian)
-  - EXTANT (d dusty, craterized)
-  - NOT EXTANT (d dusty, craterized)
-- SYSTEM LIMITS (f felisian)
-- OVERLOOKED (f felisian)
-  - NO PRIZE (d dusty, craterized)
+MURK (k thick atmosphere)
+TIK (k thick atmosphere)
+ARENDIA (f felisian)
+  EXTANT (d dusty, craterized)
+  NOT EXTANT (d dusty, craterized)
+SYSTEM LIMITS (f felisian)
+OVERLOOKED (f felisian)
+  NO PRIZE (d dusty, craterized)
 
 Guide entries:
 (DISCOVERED 6011:571.510 BY SHADOWCLAW)

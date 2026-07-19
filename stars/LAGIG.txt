@@ -4,13 +4,13 @@ Paris coordinates: 1377136, 5474191, 421310
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- LAGIG.1(S) (n thin atmosphere)
-- LAGIG.2(S) (d dusty, craterized)
-- LAGIG.3(Q) (q quartz surface)
-  - LAGIG.3.1(S) (d dusty, craterized)
-- LAGIG.4(F) (f felisian)
-- LAGIG.5(S) (n thin atmosphere)
-  - LAGIG.5.1(S) (d dusty, craterized)
+LAGIG.1(S) (n thin atmosphere)
+LAGIG.2(S) (d dusty, craterized)
+LAGIG.3(Q) (q quartz surface)
+  LAGIG.3.1(S) (d dusty, craterized)
+LAGIG.4(F) (f felisian)
+LAGIG.5(S) (n thin atmosphere)
+  LAGIG.5.1(S) (d dusty, craterized)
 
 Guide entries:
 SYSTEM DISCOVERED BY YAYO (ROBERTO CORREZZOLA).                             

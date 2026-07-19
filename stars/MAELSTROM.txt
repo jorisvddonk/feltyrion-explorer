@@ -4,10 +4,10 @@ Paris coordinates: 3214992, 4279458, -1320284
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- DEUS (n thin atmosphere)
-- OCULUS (d dusty, craterized)
-- RYDER (d dusty, craterized)
-- BROMLEY (n thin atmosphere)
+DEUS (n thin atmosphere)
+OCULUS (d dusty, craterized)
+RYDER (d dusty, craterized)
+BROMLEY (n thin atmosphere)
 
 Guide entries:
  STAR DISCOVERED EPOC 6011:582.391 BY MARCUS ARAC

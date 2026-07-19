@@ -4,12 +4,12 @@ Paris coordinates: 5179984, 5034153, -1328806
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- STALWART (n thin atmosphere)
-- EYE IN THE SKY (d dusty, craterized)
-- JLJ-GGP-6 (@ large, not consistent)
-- ENDURANCE (q quartz surface)
-- DARKHOUSE (k thick atmosphere)
-- BLEAK (n thin atmosphere)
+STALWART (n thin atmosphere)
+EYE IN THE SKY (d dusty, craterized)
+JLJ-GGP-6 (@ large, not consistent)
+ENDURANCE (q quartz surface)
+DARKHOUSE (k thick atmosphere)
+BLEAK (n thin atmosphere)
 
 Guide entries:
 DISCOVED BY JEREMY JOHNSON, EPOC 6011 - 593.288.815

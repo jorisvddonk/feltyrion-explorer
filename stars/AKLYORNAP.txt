@@ -4,14 +4,14 @@ Paris coordinates: -568592, 5042444, 5419815
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- GOTIOPER (d dusty, craterized)
-- QOLKA (d dusty, craterized)
-- ROLTYON (+ substellar object)
-- Planet #3 (q quartz surface)
-- Planet #4 (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
-- Planet #6 (d dusty, craterized)
-- Planet #7 (d dusty, craterized)
+GOTIOPER (d dusty, craterized)
+QOLKA (d dusty, craterized)
+ROLTYON (+ substellar object)
+Planet #3 (q quartz surface)
+Planet #4 (d dusty, craterized)
+Planet #5 (d dusty, craterized)
+Planet #6 (d dusty, craterized)
+Planet #7 (d dusty, craterized)
 
 Guide entries:
 (DISCOVERED 6011:573.233 BY SHADOWCLAW)

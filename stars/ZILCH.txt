@@ -4,8 +4,8 @@ Paris coordinates: 312144, 42847, -433379
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- SEVER (q quartz surface)
-- CLING (k thick atmosphere)
+SEVER (q quartz surface)
+CLING (k thick atmosphere)
 
 Guide entries:
 A CLASS S00 SYSTEM OF TWO PLANETS. SKINNYMON EPOC 6011 580.751

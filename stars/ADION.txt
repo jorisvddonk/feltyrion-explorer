@@ -4,14 +4,14 @@ Paris coordinates: 4159632, 4036827, -1719818
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- ADION 1 (d dusty, craterized)
-- ADION 2 (n thin atmosphere)
-- ADION 3 (@ large, not consistent)
-- ADION 4 (n thin atmosphere)
-- Planet #4 (n thin atmosphere)
-- Planet #5 (r rocky, creased)
-- Planet #6 (d dusty, craterized)
-- ADION 8 (q quartz surface)
+ADION 1 (d dusty, craterized)
+ADION 2 (n thin atmosphere)
+ADION 3 (@ large, not consistent)
+ADION 4 (n thin atmosphere)
+Planet #4 (n thin atmosphere)
+Planet #5 (r rocky, creased)
+Planet #6 (d dusty, craterized)
+ADION 8 (q quartz surface)
 
 Guide entries:
 STAR DISCOVERED BY ERIDANI ON 6011.816.362                                  

@@ -4,5 +4,5 @@ Paris coordinates: 1002125712, 19333909, -1001548891
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- INFRARED (d dusty, craterized)
-- A STUDY IN GREY (n thin atmosphere)
+INFRARED (d dusty, craterized)
+A STUDY IN GREY (n thin atmosphere)

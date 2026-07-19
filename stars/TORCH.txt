@@ -4,9 +4,9 @@ Paris coordinates: 4304272, 4664874, -1062549
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- CASSIUS (k thick atmosphere)
-- SAVAGE (q quartz surface)
-- GHOST (n thin atmosphere)
+CASSIUS (k thick atmosphere)
+SAVAGE (q quartz surface)
+GHOST (n thin atmosphere)
 
 Guide entries:
 FURTHER NOTES: A CLASS S05 SYSTEM OF 3 PLANETS. NOTHING OF NOTE.

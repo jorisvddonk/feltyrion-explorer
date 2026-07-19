@@ -4,18 +4,18 @@ Paris coordinates: 3008208, 5683926, -1431904
 Bodies: 12 (3 planets, 9 moons)
 
 System:
-- SIBLINGBLIGHT (n thin atmosphere)
-- LUSTY MAIDEN (q quartz surface)
-- LITTLE BROTHER (* companion star)
-  - LITTLE FRIEND I (k thick atmosphere)
-  - LITTLE FRIEND II (d dusty, craterized)
-  - LITTLE FRIEND III (d dusty, craterized)
-  - LITTLE FRIEND IV (d dusty, craterized)
-  - LITTLE FRIEND V (k thick atmosphere)
-  - LITTLE FRIEND VI (@ large, not consistent)
-  - LITTLE FRIEND VII (q quartz surface)
-  - LITTLE FRIEND VIII (k thick atmosphere)
-  - Moon #8 (n thin atmosphere)
+SIBLINGBLIGHT (n thin atmosphere)
+LUSTY MAIDEN (q quartz surface)
+LITTLE BROTHER (* companion star)
+  LITTLE FRIEND I (k thick atmosphere)
+  LITTLE FRIEND II (d dusty, craterized)
+  LITTLE FRIEND III (d dusty, craterized)
+  LITTLE FRIEND IV (d dusty, craterized)
+  LITTLE FRIEND V (k thick atmosphere)
+  LITTLE FRIEND VI (@ large, not consistent)
+  LITTLE FRIEND VII (q quartz surface)
+  LITTLE FRIEND VIII (k thick atmosphere)
+  Moon #8 (n thin atmosphere)
 
 Guide entries:
 STAR DISCOVERED BY RYAN BURY, EPOC 6011:558.289

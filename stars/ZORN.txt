@@ -4,15 +4,15 @@ Paris coordinates: 4055696, 5346452, 377776
 Bodies: 9 (4 planets, 5 moons)
 
 System:
-- CARTH (r rocky, creased)
-- TAROS (r rocky, creased)
-- RENAR (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-  - DAWNE (n thin atmosphere)
-- Planet #3 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
+CARTH (r rocky, creased)
+TAROS (r rocky, creased)
+RENAR (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+  DAWNE (n thin atmosphere)
+Planet #3 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
 
 Guide entries:
  DISCOVERED IN EPOC 6011 566.41.990 BY PAUL KIRCHBERGER

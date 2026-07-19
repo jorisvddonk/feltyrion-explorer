@@ -4,5 +4,5 @@ Paris coordinates: 956784, -21156233, -578583
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KRAERU (d dusty, craterized)
-- KISTE (k thick atmosphere)
+KRAERU (d dusty, craterized)
+KISTE (k thick atmosphere)

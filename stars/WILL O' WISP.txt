@@ -4,4 +4,4 @@ Paris coordinates: 4793552, 4997362, -232985
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WILL O' WISP-1 (d dusty, craterized)
+WILL O' WISP-1 (d dusty, craterized)

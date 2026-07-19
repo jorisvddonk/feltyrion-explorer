@@ -4,5 +4,5 @@ Paris coordinates: 7981328, -16959998, 15097044
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 134A (k thick atmosphere)
-- ASKEW 134B (q quartz surface)
+ASKEW 134A (k thick atmosphere)
+ASKEW 134B (q quartz surface)

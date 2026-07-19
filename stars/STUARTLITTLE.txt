@@ -4,8 +4,8 @@ Paris coordinates: 370352, -58647, 837467
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- MATTHEW (+ substellar object)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (d dusty, craterized)
-- SNOBALL (n thin atmosphere)
-- Planet #4 (r rocky, creased)
+MATTHEW (+ substellar object)
+Planet #1 (d dusty, craterized)
+Planet #2 (d dusty, craterized)
+SNOBALL (n thin atmosphere)
+Planet #4 (r rocky, creased)

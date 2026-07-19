@@ -4,4 +4,4 @@ Paris coordinates: 4073200, 4700279, -800989
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PHYNANCES (r rocky, creased)
+PHYNANCES (r rocky, creased)

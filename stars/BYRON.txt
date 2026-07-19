@@ -4,11 +4,11 @@ Paris coordinates: 412144, 28516, -525534
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- OPERA (q quartz surface)
-- CANARIUS (+ substellar object)
-- AMAZON (f felisian)
-- PANNA (f felisian)
-- JASTOR (d dusty, craterized)
+OPERA (q quartz surface)
+CANARIUS (+ substellar object)
+AMAZON (f felisian)
+PANNA (f felisian)
+JASTOR (d dusty, craterized)
 
 Guide entries:
 CLASS S00 YELLOW STAR 5 PLANETS AND 2 FELISIAN

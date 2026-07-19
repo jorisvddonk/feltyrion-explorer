@@ -4,11 +4,11 @@ Paris coordinates: 363568, 1522957, 392575
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (k thick atmosphere)
-  - Moon #0 (^ unstable)
-  - HUESAT DOWN (n thin atmosphere)
+Planet #0 (r rocky, creased)
+Planet #1 (k thick atmosphere)
+Planet #2 (k thick atmosphere)
+  Moon #0 (^ unstable)
+  HUESAT DOWN (n thin atmosphere)
 
 Guide entries:
 AN S03 SYSTEM. NO FELISIANS OR SSDC BODIES.RYAN GJK E6011.804               

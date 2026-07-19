@@ -4,4 +4,4 @@ Paris coordinates: 3608208, 4273476, -2115401
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LOST LOVE (* companion star)
+LOST LOVE (* companion star)

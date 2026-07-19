@@ -4,10 +4,10 @@ Paris coordinates: 4466416, 4292609, -1396622
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- VANITY SMURF (d dusty, craterized)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (i icy surface)
-- Planet #3 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - SMURFETTE (d dusty, craterized)
+Planet #0 (@ large, not consistent)
+VANITY SMURF (d dusty, craterized)
+Planet #2 (n thin atmosphere)
+  Moon #0 (i icy surface)
+Planet #3 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  SMURFETTE (d dusty, craterized)

@@ -4,12 +4,12 @@ Paris coordinates: -21285168, -20036552, -349703136
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- NEARLY (+ substellar object)
-- HUPARNASEKLIN II (r rocky, creased)
-- DERELICT (d dusty, craterized)
-- Planet #3 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
+NEARLY (+ substellar object)
+HUPARNASEKLIN II (r rocky, creased)
+DERELICT (d dusty, craterized)
+Planet #3 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
 
 Guide entries:
 (DISCOVERED BY SHADOWCLAW 6011:575.481)

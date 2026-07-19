@@ -4,6 +4,6 @@ Paris coordinates: 3614992, 4599761, -1671484
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- GEMELA BETA (* companion star)
-- CUASI-GEMELA GAMMA (+ substellar object)
-- SAURON'S EYE (^ unstable)
+GEMELA BETA (* companion star)
+CUASI-GEMELA GAMMA (+ substellar object)
+SAURON'S EYE (^ unstable)

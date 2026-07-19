@@ -4,5 +4,5 @@ Paris coordinates: 4166416, 4822099, -1266982
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- CAT (r rocky, creased)
-- KITTEN (k thick atmosphere)
+CAT (r rocky, creased)
+KITTEN (k thick atmosphere)

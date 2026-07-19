@@ -4,8 +4,8 @@ Paris coordinates: 12370608, 12557194, 12037378
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (@ large, not consistent)
+Planet #0 (n thin atmosphere)
+Planet #1 (@ large, not consistent)
 
 Guide entries:
 STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.498                               

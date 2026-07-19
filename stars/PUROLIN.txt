@@ -4,6 +4,6 @@ Paris coordinates: 959632, -29159614, 1576490
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SEGAN (q quartz surface)
-- GSCHAERR (n thin atmosphere)
-- RUNSE (n thin atmosphere)
+SEGAN (q quartz surface)
+GSCHAERR (n thin atmosphere)
+RUNSE (n thin atmosphere)

@@ -4,12 +4,12 @@ Paris coordinates: 3453520, 2222752, 8349944
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- RENCONTRE I (k thick atmosphere)
-- RENCONTRE II (k thick atmosphere)
-- RENCONTRE III (r rocky, creased)
-- RENCONTRE IV (d dusty, craterized)
-- RENCONTRE V (n thin atmosphere)
-- RENCONTRE VI (n thin atmosphere)
+RENCONTRE I (k thick atmosphere)
+RENCONTRE II (k thick atmosphere)
+RENCONTRE III (r rocky, creased)
+RENCONTRE IV (d dusty, craterized)
+RENCONTRE V (n thin atmosphere)
+RENCONTRE VI (n thin atmosphere)
 
 Guide entries:
 A CLASS S02 SYSTEM WITH 6 PLANETS. SKINNYMON EPOC 6011 586.182

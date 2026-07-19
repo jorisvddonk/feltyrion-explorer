@@ -4,7 +4,7 @@ Paris coordinates: -94640, 1879331, -528829
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FROSTBYTE (+ substellar object)
+FROSTBYTE (+ substellar object)
 
 Guide entries:
  WELL, HERE WE ARE. I'LL CHECK OUT A FEW PLANETS BEFORE I LEAVE.

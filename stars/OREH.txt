@@ -4,19 +4,19 @@ Paris coordinates: -495728, -131550, 3777911
 Bodies: 13 (7 planets, 6 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (f felisian)
-- Planet #3 (f felisian)
-  - Moon #0 (n thin atmosphere)
-- Planet #4 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
-- TAMBO (f felisian)
-- Planet #6 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (q quartz surface)
+Planet #1 (@ large, not consistent)
+Planet #2 (f felisian)
+Planet #3 (f felisian)
+  Moon #0 (n thin atmosphere)
+Planet #4 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
+TAMBO (f felisian)
+Planet #6 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  S00 DISC BY SCAREDY-CAT, EPOC 6011.599.582. X=-495180;Y=-131546;Z3777382

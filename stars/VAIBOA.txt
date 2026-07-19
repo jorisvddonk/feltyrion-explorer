@@ -4,5 +4,5 @@ Paris coordinates: 714992, 83636, 1227612
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- UMIA (n thin atmosphere)
-- MENER (@ large, not consistent)
+UMIA (n thin atmosphere)
+MENER (@ large, not consistent)

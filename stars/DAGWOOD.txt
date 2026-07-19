@@ -4,4 +4,4 @@ Paris coordinates: 3155696, 4823363, 1066660
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BREAD (d dusty, craterized)
+BREAD (d dusty, craterized)

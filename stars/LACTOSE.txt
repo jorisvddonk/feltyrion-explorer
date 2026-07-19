@@ -4,10 +4,10 @@ Paris coordinates: 3646064, 4404440, -1810153
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- ERSTAL (q quartz surface)
-- RYNGOS (d dusty, craterized)
-- BONIFER (d dusty, craterized)
-- ONTGOM (@ large, not consistent)
+ERSTAL (q quartz surface)
+RYNGOS (d dusty, craterized)
+BONIFER (d dusty, craterized)
+ONTGOM (@ large, not consistent)
 
 Guide entries:
 CLASS S02 SYSTEM WITH 4 PLANETS, NO MOONS. SKINNYMON EPOC 6011 570.977

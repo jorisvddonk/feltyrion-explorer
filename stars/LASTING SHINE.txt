@@ -4,9 +4,9 @@ Paris coordinates: 6860304, 14253042, 5465000
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- GRADIAN (+ substellar object)
-- TROMB (n thin atmosphere)
-- YAYTON (f felisian)
+GRADIAN (+ substellar object)
+TROMB (n thin atmosphere)
+YAYTON (f felisian)
 
 Guide entries:
  SYSTEM DISCOVERED BY MURRMURR EPOC 6011:608.157

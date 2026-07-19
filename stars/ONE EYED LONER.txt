@@ -4,7 +4,7 @@ Paris coordinates: 797470352, 19876694, -796311946
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PERFIDIA (n thin atmosphere)
+PERFIDIA (n thin atmosphere)
 
 Guide entries:
 AN S03 WITH ONE PLANET. RYAN GJK E6011.808.582                              

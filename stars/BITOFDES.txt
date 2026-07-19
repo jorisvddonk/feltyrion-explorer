@@ -4,9 +4,9 @@ Paris coordinates: 1401424, -184662, -225378
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (d dusty, craterized)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (d dusty, craterized)
+Planet #0 (d dusty, craterized)
+Planet #1 (d dusty, craterized)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED EPOC 6011:572.366 BY F. WISARD.

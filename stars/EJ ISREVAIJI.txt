@@ -4,9 +4,9 @@ Paris coordinates: 2111011152, -1375530, 556166
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- COFHCOT (+ substellar object)
-- SUOLHT (n thin atmosphere)
-- GADGET PLAY (f felisian)
+COFHCOT (+ substellar object)
+SUOLHT (n thin atmosphere)
+GADGET PLAY (f felisian)
 
 Guide entries:
 S00 SYSTEM, 3 PLANETS 1 FELISIAN, NO MOONS. 2.43936968 BAL. M.              

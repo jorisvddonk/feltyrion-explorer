@@ -4,15 +4,15 @@ Paris coordinates: 4021776, 4697159, -1738166
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- STOOFER (d dusty, craterized)
-- ROCKVILLE (d dusty, craterized)
-- CAKEY SHOE (d dusty, craterized)
-- PEASOUP (n thin atmosphere)
-  - OLD DUSTY (d dusty, craterized)
-- WATERMELON (n thin atmosphere)
-  - POTSHOT (d dusty, craterized)
-- Planet #5 (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
+STOOFER (d dusty, craterized)
+ROCKVILLE (d dusty, craterized)
+CAKEY SHOE (d dusty, craterized)
+PEASOUP (n thin atmosphere)
+  OLD DUSTY (d dusty, craterized)
+WATERMELON (n thin atmosphere)
+  POTSHOT (d dusty, craterized)
+Planet #5 (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY ZAG EPOC 6011

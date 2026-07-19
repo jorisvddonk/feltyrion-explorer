@@ -4,11 +4,11 @@ Paris coordinates: 2594640, 4276362, -1859682
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- CONCORDIA (@ large, not consistent)
-- GOLDEN RING (+ substellar object)
-- VICTORIA'S BEAUTY (f felisian)
-  - VICTORIA'S GUARDIAN (d dusty, craterized)
-- ROCKY OPAL (r rocky, creased)
+CONCORDIA (@ large, not consistent)
+GOLDEN RING (+ substellar object)
+VICTORIA'S BEAUTY (f felisian)
+  VICTORIA'S GUARDIAN (d dusty, craterized)
+ROCKY OPAL (r rocky, creased)
 
 Guide entries:
  CLASS S00

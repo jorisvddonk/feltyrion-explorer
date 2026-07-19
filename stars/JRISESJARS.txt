@@ -4,8 +4,8 @@ Paris coordinates: 2101052272, -1953876, -623076
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASAINYCE (k thick atmosphere)
-- INIUITIDY (@ large, not consistent)
+ASAINYCE (k thick atmosphere)
+INIUITIDY (@ large, not consistent)
 
 Guide entries:
 S00 SYSTEM OF 2 RINGED PLANETS, NOT FELISIAN, NO MOONS. 1.67925525          

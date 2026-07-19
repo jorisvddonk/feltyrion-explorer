@@ -4,5 +4,5 @@ Paris coordinates: -72824208, -1235588, 55234821
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- CRATERS (d dusty, craterized)
-- REDGLOW (@ large, not consistent)
+CRATERS (d dusty, craterized)
+REDGLOW (@ large, not consistent)

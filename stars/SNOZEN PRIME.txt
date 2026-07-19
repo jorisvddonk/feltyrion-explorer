@@ -4,8 +4,8 @@ Paris coordinates: 4038192, 4540663, 1234849
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DU SNOZEN (+ substellar object)
-- AU SNOZEN (k thick atmosphere)
+DU SNOZEN (+ substellar object)
+AU SNOZEN (k thick atmosphere)
 
 Guide entries:
 LABELED ON EPOC 6011- 567.258.100 *APPROX* HAS 2 OTHER PLANETS.

@@ -4,10 +4,10 @@ Paris coordinates: 3866416, 4322974, -971980
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- KAYIN MINOR A (* companion star)
-- KAYIN MINOR B (* companion star)
-  - QYN (r rocky, creased)
-  - BERN (^ unstable)
+KAYIN MINOR A (* companion star)
+KAYIN MINOR B (* companion star)
+  QYN (r rocky, creased)
+  BERN (^ unstable)
 
 Guide entries:
 TRIPLE STAR SYSTEM DISCOVERED BY KAYIN ANGEL, EPOC 6011 577.80.702

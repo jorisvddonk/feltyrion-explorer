@@ -4,10 +4,10 @@ Paris coordinates: 618928, 26420, -407051
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- FAAARRTTIO (@ large, not consistent)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (d dusty, craterized)
-- Planet #3 (f felisian)
+FAAARRTTIO (@ large, not consistent)
+Planet #1 (k thick atmosphere)
+Planet #2 (d dusty, craterized)
+Planet #3 (f felisian)
 
 Guide entries:
  ONE PLANET INHABITED BY PLANT LIFE. REST ARE DEAD.

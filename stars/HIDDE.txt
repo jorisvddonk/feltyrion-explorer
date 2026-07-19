@@ -4,4 +4,4 @@ Paris coordinates: 4893552, 4526601, -435894
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- IDIOTA (n thin atmosphere)
+IDIOTA (n thin atmosphere)

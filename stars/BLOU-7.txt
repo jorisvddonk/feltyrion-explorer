@@ -4,7 +4,7 @@ Paris coordinates: 4342128, 5459934, -792876
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
+Planet #0 (+ substellar object)
 
 Guide entries:
 STAR DISCOVERED BY JUS EPOC 6011.578.781

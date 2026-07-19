@@ -4,7 +4,7 @@ Paris coordinates: 4586768, 4338966, -492917
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- PRETENDER (+ substellar object)
+PRETENDER (+ substellar object)
 
 Guide entries:
  SYSTEM EXPLORED BY SKINNYMONEPOC 6011 562.780

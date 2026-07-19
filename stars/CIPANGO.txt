@@ -4,4 +4,4 @@ Paris coordinates: 5652848, 4947777, -3346875
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SMIRNE (k thick atmosphere)
+SMIRNE (k thick atmosphere)

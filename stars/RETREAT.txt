@@ -4,13 +4,13 @@ Paris coordinates: 4162480, 6132645, 587893
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- LOGET (k thick atmosphere)
-- PULOUS (^ unstable)
-- TUNDRA (f felisian)
-- EGONGIN (n thin atmosphere)
-  - AZOB (d dusty, craterized)
-- ELEUSINIAN (f felisian)
-  - UIKA (d dusty, craterized)
+LOGET (k thick atmosphere)
+PULOUS (^ unstable)
+TUNDRA (f felisian)
+EGONGIN (n thin atmosphere)
+  AZOB (d dusty, craterized)
+ELEUSINIAN (f felisian)
+  UIKA (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY KALMAN FARAGO IN 6011.560.761. THE PLANET TUNDRA

@@ -4,9 +4,9 @@ Paris coordinates: 4379984, 4552941, -533660
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (r rocky, creased)
+Planet #0 (q quartz surface)
+Planet #1 (d dusty, craterized)
+Planet #2 (r rocky, creased)
 
 Guide entries:
 STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.520                               

@@ -4,7 +4,7 @@ Paris coordinates: 1139280, 217885, 350858
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- FUNKADELIC (@ large, not consistent)
+FUNKADELIC (@ large, not consistent)
 
 Guide entries:
 A FALSE MULTIPLE STAR SYSTEM (ONLY ONE STAR). IT HAS A SOLE PLANET: A

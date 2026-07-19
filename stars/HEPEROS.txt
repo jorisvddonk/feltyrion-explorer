@@ -4,7 +4,7 @@ Paris coordinates: 2066416, 5483581, 823400
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- Planet #0 (q quartz surface)
+Planet #0 (q quartz surface)
 
 Guide entries:
 DISCOVERED BY DARKSTONE, 654.33. 1 PLANET, UNINHABITED

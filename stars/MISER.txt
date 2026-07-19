@@ -4,4 +4,4 @@ Paris coordinates: 4955696, 4335983, -631819
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- NOCTURN (n thin atmosphere)
+NOCTURN (n thin atmosphere)

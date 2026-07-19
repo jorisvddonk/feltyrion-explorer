@@ -4,5 +4,5 @@ Paris coordinates: 9639536, -14273467, 14968843
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 194A (@ large, not consistent)
-- ASKEW 194B (r rocky, creased)
+ASKEW 194A (@ large, not consistent)
+ASKEW 194B (r rocky, creased)

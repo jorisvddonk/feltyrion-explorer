@@ -4,10 +4,10 @@ Paris coordinates: 3252848, 4475194, -1237292
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- N04001-01 (@ large, not consistent)
-- Planet #1 (r rocky, creased)
-- N04001-03 (n thin atmosphere)
-  - JADE-N1 (n thin atmosphere)
+N04001-01 (@ large, not consistent)
+Planet #1 (r rocky, creased)
+N04001-03 (n thin atmosphere)
+  JADE-N1 (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY NYQUIST ON 6011.569.551.669; UNREMARKABLE SYSTEM

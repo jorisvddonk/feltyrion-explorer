@@ -4,18 +4,18 @@ Paris coordinates: 2054927472, 1424347, -408821
 Bodies: 12 (7 planets, 5 moons)
 
 System:
-- OPLEJA (r rocky, creased)
-- JARHUDI (k thick atmosphere)
-- HAPSIJA (d dusty, craterized)
-  - FHIJILI (d dusty, craterized)
-- PULVERULENTUS (f felisian)
-  - ACANU (d dusty, craterized)
-  - IKTONO (n thin atmosphere)
-  - YAMVAL (d dusty, craterized)
-- AKTAJE (d dusty, craterized)
-- USVASE (d dusty, craterized)
-  - OCTUJI (d dusty, craterized)
-- OJVALI (d dusty, craterized)
+OPLEJA (r rocky, creased)
+JARHUDI (k thick atmosphere)
+HAPSIJA (d dusty, craterized)
+  FHIJILI (d dusty, craterized)
+PULVERULENTUS (f felisian)
+  ACANU (d dusty, craterized)
+  IKTONO (n thin atmosphere)
+  YAMVAL (d dusty, craterized)
+AKTAJE (d dusty, craterized)
+USVASE (d dusty, craterized)
+  OCTUJI (d dusty, craterized)
+OJVALI (d dusty, craterized)
 
 Guide entries:
  S00 STAR WITH 7 PLANETS 5 MOONS, ONE FELISIAN WORLD.                       

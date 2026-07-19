@@ -4,11 +4,11 @@ Paris coordinates: 6082832, 5024378, -346802
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (k thick atmosphere)
-  - MINERIA (n thin atmosphere)
-- Planet #3 (^ unstable)
+Planet #0 (r rocky, creased)
+Planet #1 (k thick atmosphere)
+Planet #2 (k thick atmosphere)
+  MINERIA (n thin atmosphere)
+Planet #3 (^ unstable)
 
 Guide entries:
  DISCOVERED BY GILBERTO EPOC 6011 PROBABLY THE MINERIA IS ITS ONLY VALUE

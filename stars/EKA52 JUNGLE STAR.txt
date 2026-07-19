@@ -4,11 +4,11 @@ Paris coordinates: -387856, 12094, 201267
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- MURKY DEPTHS (n thin atmosphere)
-- CLOD OF DIRT (n thin atmosphere)
-- SPARKLING WATER (d dusty, craterized)
-  - POISONOUS BERRY (d dusty, craterized)
-- BEAUTIFUL BIRD (d dusty, craterized)
+MURKY DEPTHS (n thin atmosphere)
+CLOD OF DIRT (n thin atmosphere)
+SPARKLING WATER (d dusty, craterized)
+  POISONOUS BERRY (d dusty, craterized)
+BEAUTIFUL BIRD (d dusty, craterized)
 
 Guide entries:
 CLASS S00 STAR IN THE VICINITY OF 0,0,0. --EKA

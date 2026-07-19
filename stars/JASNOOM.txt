@@ -4,10 +4,10 @@ Paris coordinates: 4873200, 4685727, -1430466
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (k thick atmosphere)
-- Planet #3 (d dusty, craterized)
+Planet #0 (k thick atmosphere)
+Planet #1 (n thin atmosphere)
+Planet #2 (k thick atmosphere)
+Planet #3 (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.475                               

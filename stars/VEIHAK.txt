@@ -4,13 +4,13 @@ Paris coordinates: -19992720, 825692, -11405730
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (d dusty, craterized)
-  - Moon #0 (i icy surface)
-- Planet #3 (@ large, not consistent)
-  - DESCHAN (q quartz surface)
-  - Moon #1 (i icy surface)
+Planet #0 (@ large, not consistent)
+Planet #1 (n thin atmosphere)
+Planet #2 (d dusty, craterized)
+  Moon #0 (i icy surface)
+Planet #3 (@ large, not consistent)
+  DESCHAN (q quartz surface)
+  Moon #1 (i icy surface)
 
 Guide entries:
 S11; 4 PLANETS, 3 MINORS

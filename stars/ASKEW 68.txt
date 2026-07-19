@@ -4,19 +4,19 @@ Paris coordinates: 11314160, -19380914, 17626244
 Bodies: 13 (6 planets, 7 moons)
 
 System:
-- ASKEW 68A (k thick atmosphere)
-- ASKEW 68B (k thick atmosphere)
-- AIR SMITHY (f felisian)
-  - ASKEW 68C1 (d dusty, craterized)
-- SEA SMITHY (f felisian)
-  - ASKEW 68D1 (d dusty, craterized)
-  - ASKEW 68D2 (d dusty, craterized)
-- DIRT SMITHY (f felisian)
-  - ASKEW 68E1 (d dusty, craterized)
-  - ASKEW 68E2 (^ unstable)
-- ASKEW 68F (q quartz surface)
-  - ASKEW 68F1 (d dusty, craterized)
-  - ASKEW 68F2 (d dusty, craterized)
+ASKEW 68A (k thick atmosphere)
+ASKEW 68B (k thick atmosphere)
+AIR SMITHY (f felisian)
+  ASKEW 68C1 (d dusty, craterized)
+SEA SMITHY (f felisian)
+  ASKEW 68D1 (d dusty, craterized)
+  ASKEW 68D2 (d dusty, craterized)
+DIRT SMITHY (f felisian)
+  ASKEW 68E1 (d dusty, craterized)
+  ASKEW 68E2 (^ unstable)
+ASKEW 68F (q quartz surface)
+  ASKEW 68F1 (d dusty, craterized)
+  ASKEW 68F2 (d dusty, craterized)
 
 Guide entries:
 3 FELISIAN, 1 QUARTZ WORLDS

@@ -4,10 +4,10 @@ Paris coordinates: 2966416, 5344856, 145965
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- WISH (q quartz surface)
-- LAST CHANCE (r rocky, creased)
-- DULL (d dusty, craterized)
-  - MOOMIN (d dusty, craterized)
+WISH (q quartz surface)
+LAST CHANCE (r rocky, creased)
+DULL (d dusty, craterized)
+  MOOMIN (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY MARK SHUTTLEWORTH EPOC 6011:576:632

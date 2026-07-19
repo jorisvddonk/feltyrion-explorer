@@ -4,13 +4,13 @@ Paris coordinates: 3535344, 5122009, -387026
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- STAROS (d dusty, craterized)
-- DARIARTA (@ large, not consistent)
-- GOSOVIA (k thick atmosphere)
-  - JOVA (n thin atmosphere)
-  - TRANATOS (n thin atmosphere)
-- VILAMORI (f felisian)
-  - CRISOR (d dusty, craterized)
+STAROS (d dusty, craterized)
+DARIARTA (@ large, not consistent)
+GOSOVIA (k thick atmosphere)
+  JOVA (n thin atmosphere)
+  TRANATOS (n thin atmosphere)
+VILAMORI (f felisian)
+  CRISOR (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY MARK SHUTTLEWORTH

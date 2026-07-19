@@ -4,4 +4,4 @@ Paris coordinates: 3052848, 4436380, -1038398
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LUMINAE I (+ substellar object)
+LUMINAE I (+ substellar object)

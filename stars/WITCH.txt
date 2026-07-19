@@ -4,8 +4,8 @@ Paris coordinates: 4511056, 5078635, -871082
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- OWL (+ substellar object)
-- BLACK CAT (n thin atmosphere)
+OWL (+ substellar object)
+BLACK CAT (n thin atmosphere)
 
 Guide entries:
  DISCOVERED BY KALMAN FARAGO IN 6011.560.740

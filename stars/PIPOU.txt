@@ -4,9 +4,9 @@ Paris coordinates: 3979984, 4519436, -341641
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- PLOTTE (@ large, not consistent)
-- ITAMPEARS (n thin atmosphere)
-- BLETTE (d dusty, craterized)
+PLOTTE (@ large, not consistent)
+ITAMPEARS (n thin atmosphere)
+BLETTE (d dusty, craterized)
 
 Guide entries:
 FURTHER NOTES: A CLASS S11 SYSTEM OF 3 PLANETS OF ONLY MINOR INTEREST.

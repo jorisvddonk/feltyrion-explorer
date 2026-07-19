@@ -4,10 +4,10 @@ Paris coordinates: 2601424, 4843702, -1427000
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- ARLETTA (r rocky, creased)
-- ATELLA (d dusty, craterized)
-- ASSERTIA (d dusty, craterized)
-  - AKRON (^ unstable)
+ARLETTA (r rocky, creased)
+ATELLA (d dusty, craterized)
+ASSERTIA (d dusty, craterized)
+  AKRON (^ unstable)
 
 Guide entries:
 SMALL SYSTEM DISCOVERED BY MRUQE; EPOC 6011-569.883

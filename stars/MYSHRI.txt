@@ -4,6 +4,6 @@ Paris coordinates: 4511056, 5278635, -949765
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (n thin atmosphere)
-- FLISLIFE (f felisian)
+Planet #0 (+ substellar object)
+Planet #1 (n thin atmosphere)
+FLISLIFE (f felisian)

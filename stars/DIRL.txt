@@ -4,11 +4,11 @@ Paris coordinates: 3809968, 1942060, 3675292
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- DIRL I (q quartz surface)
-- DIRL II (r rocky, creased)
-- DIRL III (n thin atmosphere)
-- DIRL IV (@ large, not consistent)
-- DIRL V (+ substellar object)
+DIRL I (q quartz surface)
+DIRL II (r rocky, creased)
+DIRL III (n thin atmosphere)
+DIRL IV (@ large, not consistent)
+DIRL V (+ substellar object)
 
 Guide entries:
 A CLASS S02 SYSTEM WITH 5 PLANETS. SKINNYMON EPOC 6011 585.597

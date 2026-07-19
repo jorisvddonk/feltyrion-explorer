@@ -4,8 +4,8 @@ Paris coordinates: -932496, 32557, 870
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GONZOLIA 1 (+ substellar object)
-- GONZOILA 2 (@ large, not consistent)
+GONZOLIA 1 (+ substellar object)
+GONZOILA 2 (@ large, not consistent)
 
 Guide entries:
 CLASS S00 STAR, TWO PLANETS. SERPENS, 6011 665.410

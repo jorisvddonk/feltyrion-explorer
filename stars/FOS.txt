@@ -4,7 +4,7 @@ Paris coordinates: 739280, 409824, 758782
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- SKOTOS (d dusty, craterized)
+SKOTOS (d dusty, craterized)
 
 Guide entries:
  DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.225

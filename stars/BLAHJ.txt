@@ -4,11 +4,11 @@ Paris coordinates: 1400252080, 1929570, 1399397714
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- BLAHJ PRIMUS (r rocky, creased)
-- BLAHJ SECUNDUS (+ substellar object)
-- BLAHJ TRIACUS (r rocky, creased)
-  - BLAHJ TRIACUS PRIL (d dusty, craterized)
-  - BLAHJ TRIACUS DREA (d dusty, craterized)
+BLAHJ PRIMUS (r rocky, creased)
+BLAHJ SECUNDUS (+ substellar object)
+BLAHJ TRIACUS (r rocky, creased)
+  BLAHJ TRIACUS PRIL (d dusty, craterized)
+  BLAHJ TRIACUS DREA (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:612.230

@@ -4,7 +4,7 @@ Paris coordinates: -1187856, 195673, 1064757
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- EEAF (+ substellar object)
+EEAF (+ substellar object)
 
 Guide entries:
 A SINGLE BODY SYSTEM.

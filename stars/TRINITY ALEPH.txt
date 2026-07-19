@@ -4,19 +4,19 @@ Paris coordinates: -230689232, -1421079, 54560199
 Bodies: 13 (4 planets, 9 moons)
 
 System:
-- TRINITY BETH (* companion star)
-- TRINITY GIMEL (* companion star)
-  - Moon #0 (d dusty, craterized)
-- Planet #2 (@ large, not consistent)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- TRINITY DALETH (* companion star)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (@ large, not consistent)
-  - Moon #2 (^ unstable)
-  - Moon #3 (k thick atmosphere)
-  - SON OF TITANS (f felisian)
-  - Moon #5 (@ large, not consistent)
+TRINITY BETH (* companion star)
+TRINITY GIMEL (* companion star)
+  Moon #0 (d dusty, craterized)
+Planet #2 (@ large, not consistent)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+TRINITY DALETH (* companion star)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (@ large, not consistent)
+  Moon #2 (^ unstable)
+  Moon #3 (k thick atmosphere)
+  SON OF TITANS (f felisian)
+  Moon #5 (@ large, not consistent)
 
 Guide entries:
 A FOUR STAR SYSTEM, CALLED TRINITY BECAUSE THE FOURTH IS SO FAR

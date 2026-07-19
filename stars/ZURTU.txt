@@ -4,5 +4,5 @@ Paris coordinates: -621776, -15685632, -1404056
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RURTU (* companion star)
-- KURTU (* companion star)
+RURTU (* companion star)
+KURTU (* companion star)

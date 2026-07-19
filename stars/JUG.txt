@@ -4,9 +4,9 @@ Paris coordinates: -2638192, -8864335, -2266709
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- ULUNDU (n thin atmosphere)
-- HUBRON (@ large, not consistent)
-- SPIRO (@ large, not consistent)
-- NIGGUD (n thin atmosphere)
-- KULUMB (n thin atmosphere)
-- CHARUN (k thick atmosphere)
+ULUNDU (n thin atmosphere)
+HUBRON (@ large, not consistent)
+SPIRO (@ large, not consistent)
+NIGGUD (n thin atmosphere)
+KULUMB (n thin atmosphere)
+CHARUN (k thick atmosphere)

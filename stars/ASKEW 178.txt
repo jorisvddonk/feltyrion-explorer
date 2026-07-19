@@ -4,4 +4,4 @@ Paris coordinates: 4537104, -1660531, 4552191
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASKEW 178A (r rocky, creased)
+ASKEW 178A (r rocky, creased)

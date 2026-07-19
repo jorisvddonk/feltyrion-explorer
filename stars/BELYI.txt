@@ -4,8 +4,8 @@ Paris coordinates: 4279984, 4342790, -412583
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BATYUK (n thin atmosphere)
-- YEROKHIN (@ large, not consistent)
+BATYUK (n thin atmosphere)
+YEROKHIN (@ large, not consistent)
 
 Guide entries:
  DISCOVERED BY MIN KA, EPOC 6011:605.677, 2 PLANETS, NO MOONS.

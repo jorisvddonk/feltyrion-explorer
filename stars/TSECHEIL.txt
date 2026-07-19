@@ -4,13 +4,13 @@ Paris coordinates: -1214807504, -1252934, -1077971830
 Bodies: 7 (3 planets, 4 moons)
 
 System:
-- TSECHEIL A (* companion star)
-- TSECHEIL B (* companion star)
-  - Moon #0 (q quartz surface)
-- TSECHEIL C (* companion star)
-  - Moon #0 (n thin atmosphere)
-  - DANAAF (f felisian)
-  - Moon #2 (@ large, not consistent)
+TSECHEIL A (* companion star)
+TSECHEIL B (* companion star)
+  Moon #0 (q quartz surface)
+TSECHEIL C (* companion star)
+  Moon #0 (n thin atmosphere)
+  DANAAF (f felisian)
+  Moon #2 (@ large, not consistent)
 
 Guide entries:
 S08; 3 MAJORS, 4 MINORS

@@ -4,8 +4,8 @@ Paris coordinates: 1186768, 31211492, 2883452
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- KREYLKHA (d dusty, craterized)
-- LAYL (r rocky, creased)
+KREYLKHA (d dusty, craterized)
+LAYL (r rocky, creased)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 633.742 (S05 STAR)

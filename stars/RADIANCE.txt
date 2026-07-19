@@ -4,16 +4,16 @@ Paris coordinates: -532496, 136737, -369097
 Bodies: 10 (9 planets, 1 moons)
 
 System:
-- ARUN (q quartz surface)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (k thick atmosphere)
-- Planet #3 (q quartz surface)
-- Planet #4 (n thin atmosphere)
-  - Moon #0 (n thin atmosphere)
-- Planet #5 (k thick atmosphere)
-- Planet #6 (d dusty, craterized)
-- Planet #7 (i icy surface)
-- Planet #8 (i icy surface)
+ARUN (q quartz surface)
+Planet #1 (k thick atmosphere)
+Planet #2 (k thick atmosphere)
+Planet #3 (q quartz surface)
+Planet #4 (n thin atmosphere)
+  Moon #0 (n thin atmosphere)
+Planet #5 (k thick atmosphere)
+Planet #6 (d dusty, craterized)
+Planet #7 (i icy surface)
+Planet #8 (i icy surface)
 
 Guide entries:
 DISCOVERED BY ADAM DALY (TACOFERNANDEZ), E6011:664.605

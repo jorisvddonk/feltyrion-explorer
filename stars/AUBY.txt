@@ -4,10 +4,10 @@ Paris coordinates: -839280, 30533030, -330230
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- FAHI (k thick atmosphere)
-- AFHU (r rocky, creased)
-- N'CA (q quartz surface)
-- Y'RA (@ large, not consistent)
+FAHI (k thick atmosphere)
+AFHU (r rocky, creased)
+N'CA (q quartz surface)
+Y'RA (@ large, not consistent)
 
 Guide entries:
 SYSTEM DISCOVERED AND EXPLORED BY RAPTORJEDI EPOC 6011 632.723

@@ -4,10 +4,10 @@ Paris coordinates: 5360, 36337, -545027
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- FOX 1 (r rocky, creased)
-- Planet #1 (k thick atmosphere)
-- FOX 3 (d dusty, craterized)
-  - FOX 3.1 (n thin atmosphere)
+FOX 1 (r rocky, creased)
+Planet #1 (k thick atmosphere)
+FOX 3 (d dusty, craterized)
+  FOX 3.1 (n thin atmosphere)
 
 Guide entries:
 A CLASS S00 STAR, CAPABLE OF SUPPORTING LIFE. HAS THREE PLANET AND ONE

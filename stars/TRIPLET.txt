@@ -4,13 +4,13 @@ Paris coordinates: 3477136, 5741968, -1662225
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (* companion star)
-  - Moon #0 (r rocky, creased)
-  - REDWOOD (f felisian)
-- Planet #1 (* companion star)
-  - Moon #0 (d dusty, craterized)
-- Planet #2 (k thick atmosphere)
-- Planet #3 (* companion star)
+Planet #0 (* companion star)
+  Moon #0 (r rocky, creased)
+  REDWOOD (f felisian)
+Planet #1 (* companion star)
+  Moon #0 (d dusty, craterized)
+Planet #2 (k thick atmosphere)
+Planet #3 (* companion star)
 
 Guide entries:
 DISCOVERED BY LOGAN, EPOC 6011:664.782

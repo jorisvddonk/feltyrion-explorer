@@ -4,15 +4,15 @@ Paris coordinates: 2466416, 4128367, 479619
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- FROM THE AIR (k thick atmosphere)
-- BIG SCIENCE (r rocky, creased)
-- SWEATERS (r rocky, creased)
-  - EXAMPLE 22 (d dusty, craterized)
-- WALKING AND FALLING (n thin atmosphere)
-- BORN, NEVER ASKED (k thick atmosphere)
-  - LET X=X (n thin atmosphere)
-- O SUPERMAN (k thick atmosphere)
-  - IT TANGO (d dusty, craterized)
+FROM THE AIR (k thick atmosphere)
+BIG SCIENCE (r rocky, creased)
+SWEATERS (r rocky, creased)
+  EXAMPLE 22 (d dusty, craterized)
+WALKING AND FALLING (n thin atmosphere)
+BORN, NEVER ASKED (k thick atmosphere)
+  LET X=X (n thin atmosphere)
+O SUPERMAN (k thick atmosphere)
+  IT TANGO (d dusty, craterized)
 
 Guide entries:
 CLASS 0 STAR, DISCOVERED BY RCLEAR 6011:598.14

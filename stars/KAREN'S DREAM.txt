@@ -4,9 +4,9 @@ Paris coordinates: 1608208, 2420927, -98459
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- EMERALD CHARM (n thin atmosphere)
-- GOLDEN RINGED (+ substellar object)
-- NIGHTMARE (n thin atmosphere)
+EMERALD CHARM (n thin atmosphere)
+GOLDEN RINGED (+ substellar object)
+NIGHTMARE (n thin atmosphere)
 
 Guide entries:
 FOUNDED BY EXPLORER EPOC 6011:567.136.129

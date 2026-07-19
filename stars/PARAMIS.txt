@@ -4,8 +4,8 @@ Paris coordinates: 401333008, 1709634, 55709224
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PARAMIS PRIME (k thick atmosphere)
-- PARAMIS 2 (r rocky, creased)
+PARAMIS PRIME (k thick atmosphere)
+PARAMIS 2 (r rocky, creased)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:789.380

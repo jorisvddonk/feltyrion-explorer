@@ -4,8 +4,8 @@ Paris coordinates: 1611056, 768778, 1968943
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- FEYNMANN (r rocky, creased)
-- WHISPER (d dusty, craterized)
+FEYNMANN (r rocky, creased)
+WHISPER (d dusty, craterized)
 
 Guide entries:
 THIS STAR ACTUALLY HAS PLANETS. MAYBE ONLY 2, BUT THATS A HECKUVALOT FOR    

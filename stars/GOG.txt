@@ -4,8 +4,8 @@ Paris coordinates: 163568, 1839378, 667181
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (q quartz surface)
+Planet #0 (k thick atmosphere)
+Planet #1 (q quartz surface)
 
 Guide entries:
 (DISCOVERED BY THE GREAT DEMENTO AT 583.812.329)

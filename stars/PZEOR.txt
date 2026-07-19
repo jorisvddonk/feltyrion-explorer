@@ -4,14 +4,14 @@ Paris coordinates: 1399769584, 1431519, 1399013199
 Bodies: 8 (8 planets, 0 moons)
 
 System:
-- PZEOR PRIMUS (n thin atmosphere)
-- PZEOR SECUNDUS (n thin atmosphere)
-- PZEOR TRIACUS (q quartz surface)
-- PZEOR QUADREX (+ substellar object)
-- PZEOR QUINTUS (n thin atmosphere)
-- PZEOR SEXTANE (n thin atmosphere)
-- PZEOR SEPTUS (n thin atmosphere)
-- PZEOR OCTILLE (k thick atmosphere)
+PZEOR PRIMUS (n thin atmosphere)
+PZEOR SECUNDUS (n thin atmosphere)
+PZEOR TRIACUS (q quartz surface)
+PZEOR QUADREX (+ substellar object)
+PZEOR QUINTUS (n thin atmosphere)
+PZEOR SEXTANE (n thin atmosphere)
+PZEOR SEPTUS (n thin atmosphere)
+PZEOR OCTILLE (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:601.223

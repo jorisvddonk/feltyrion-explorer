@@ -4,8 +4,8 @@ Paris coordinates: 1870352, 62807962, -466758
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RANEVA DUC DYPY (n thin atmosphere)
-- STCH'INGHEL (n thin atmosphere)
+RANEVA DUC DYPY (n thin atmosphere)
+STCH'INGHEL (n thin atmosphere)
 
 Guide entries:
 LI+ ION EMITTING S05 ORBITED BY TWO THIN ATMOSPHERE PLANETS.                

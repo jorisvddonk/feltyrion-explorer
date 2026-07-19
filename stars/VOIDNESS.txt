@@ -4,8 +4,8 @@ Paris coordinates: -1997899152, 41706, 1210090
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- IKLEJIN (q quartz surface)
-- RYLEN (k thick atmosphere)
+IKLEJIN (q quartz surface)
+RYLEN (k thick atmosphere)
 
 Guide entries:
 A LONELY S00 STAR OUT HERE. SADLY, IT ONLY HAS TWO PLANETS, A QUARTZ

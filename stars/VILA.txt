@@ -4,8 +4,8 @@ Paris coordinates: 525712, -22777, 143187
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- WAVEROCK (n thin atmosphere)
-- MADNO (n thin atmosphere)
-- FRIDA (d dusty, craterized)
-  - Moon #0 (d dusty, craterized)
-- ANTISEPTIC (d dusty, craterized)
+WAVEROCK (n thin atmosphere)
+MADNO (n thin atmosphere)
+FRIDA (d dusty, craterized)
+  Moon #0 (d dusty, craterized)
+ANTISEPTIC (d dusty, craterized)

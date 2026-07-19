@@ -4,13 +4,13 @@ Paris coordinates: 4079984, 5322487, -148429
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- BAIX (d dusty, craterized)
-- BLOND (q quartz surface)
-- AMEW (k thick atmosphere)
-- TEITAR (k thick atmosphere)
-  - CITOK (d dusty, craterized)
-- ILPIN (d dusty, craterized)
-  - WANSK (d dusty, craterized)
+BAIX (d dusty, craterized)
+BLOND (q quartz surface)
+AMEW (k thick atmosphere)
+TEITAR (k thick atmosphere)
+  CITOK (d dusty, craterized)
+ILPIN (d dusty, craterized)
+  WANSK (d dusty, craterized)
 
 Guide entries:
 SIXTEEN PLANETS

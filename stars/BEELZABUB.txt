@@ -4,11 +4,11 @@ Paris coordinates: 4755696, 4489030, -548211
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- HADESS (* companion star)
-- DEMONIKA (* companion star)
-- DIABOLIC (d dusty, craterized)
-- SATANOV (r rocky, creased)
-  - DEVIL'S OWN (^ unstable)
+HADESS (* companion star)
+DEMONIKA (* companion star)
+DIABOLIC (d dusty, craterized)
+SATANOV (r rocky, creased)
+  DEVIL'S OWN (^ unstable)
 
 Guide entries:
 A WONDERFUL SET OF MULTIPLE STARS, ALLIGNED IN A MAJESTIC RED

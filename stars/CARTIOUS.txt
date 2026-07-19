@@ -4,5 +4,5 @@ Paris coordinates: 3177136, 4391473, -1641045
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GREANDIOUS (d dusty, craterized)
-- DARIUS (n thin atmosphere)
+GREANDIOUS (d dusty, craterized)
+DARIUS (n thin atmosphere)

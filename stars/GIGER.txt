@@ -4,9 +4,9 @@ Paris coordinates: -318928, 51177, 201500
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- ZION (k thick atmosphere)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (f felisian)
+ZION (k thick atmosphere)
+Planet #1 (n thin atmosphere)
+Planet #2 (f felisian)
 
 Guide entries:
 STAR DISCOVERED BY DAWIWO, EPOCH 6011:768.513                               

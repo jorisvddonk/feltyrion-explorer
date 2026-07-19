@@ -4,6 +4,6 @@ Paris coordinates: 4773200, 4851613, -1483503
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (q quartz surface)
-- Planet #2 (q quartz surface)
+Planet #0 (k thick atmosphere)
+Planet #1 (q quartz surface)
+Planet #2 (q quartz surface)

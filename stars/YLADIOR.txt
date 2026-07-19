@@ -4,11 +4,11 @@ Paris coordinates: 5393552, 5166013, -832123
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- ELERIUS (+ substellar object)
-- ETHERIA (+ substellar object)
-- EPISODE IV (f felisian)
-  - BIG HOLES (d dusty, craterized)
-  - ELOVANA (d dusty, craterized)
+ELERIUS (+ substellar object)
+ETHERIA (+ substellar object)
+EPISODE IV (f felisian)
+  BIG HOLES (d dusty, craterized)
+  ELOVANA (d dusty, craterized)
 
 Guide entries:
 BLADE TRAIN3R 6011 705.168                                                  

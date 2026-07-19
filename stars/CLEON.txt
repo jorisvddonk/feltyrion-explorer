@@ -4,17 +4,17 @@ Paris coordinates: 4413904, 6249423, 1267797
 Bodies: 11 (4 planets, 7 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (@ large, not consistent)
-  - Moon #0 (^ unstable)
-  - Moon #1 (k thick atmosphere)
-  - Moon #2 (d dusty, craterized)
-  - Moon #3 (r rocky, creased)
-  - Moon #4 (q quartz surface)
-  - Moon #5 (f felisian)
-- MAELARA (f felisian)
-  - HAELARA (d dusty, craterized)
+Planet #0 (r rocky, creased)
+Planet #1 (@ large, not consistent)
+Planet #2 (@ large, not consistent)
+  Moon #0 (^ unstable)
+  Moon #1 (k thick atmosphere)
+  Moon #2 (d dusty, craterized)
+  Moon #3 (r rocky, creased)
+  Moon #4 (q quartz surface)
+  Moon #5 (f felisian)
+MAELARA (f felisian)
+  HAELARA (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BE POKECAT(6011.999.773)

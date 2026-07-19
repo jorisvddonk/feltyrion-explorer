@@ -4,19 +4,19 @@ Paris coordinates: 2790704, 4295193, -442131
 Bodies: 13 (7 planets, 6 moons)
 
 System:
-- SILENCE II (k thick atmosphere)
-- GENST (n thin atmosphere)
-- LILTANCE (f felisian)
-  - MARSONI (d dusty, craterized)
-  - KLORTH (d dusty, craterized)
-- SELITH (d dusty, craterized)
-  - CATALYST (n thin atmosphere)
-- SOLACE (k thick atmosphere)
-  - FORTHSWIDE (d dusty, craterized)
-  - MISTREL (n thin atmosphere)
-- PHONTS (d dusty, craterized)
-- ALTYR (d dusty, craterized)
-  - VOLSAK (^ unstable)
+SILENCE II (k thick atmosphere)
+GENST (n thin atmosphere)
+LILTANCE (f felisian)
+  MARSONI (d dusty, craterized)
+  KLORTH (d dusty, craterized)
+SELITH (d dusty, craterized)
+  CATALYST (n thin atmosphere)
+SOLACE (k thick atmosphere)
+  FORTHSWIDE (d dusty, craterized)
+  MISTREL (n thin atmosphere)
+PHONTS (d dusty, craterized)
+ALTYR (d dusty, craterized)
+  VOLSAK (^ unstable)
 
 Guide entries:
 THIS STAR WAS DISCOVERED BY THRONUS DALVI IN EPOC 6011.659.852.225.

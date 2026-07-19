@@ -4,7 +4,7 @@ Paris coordinates: 2467504, 1368086, -3376450
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WATCHING EYE (r rocky, creased)
+WATCHING EYE (r rocky, creased)
 
 Guide entries:
 DISCOVERED EPOC 6012 060.886

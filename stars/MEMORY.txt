@@ -4,13 +4,13 @@ Paris coordinates: -1221776, -261, -795876
 Bodies: 7 (6 planets, 1 moons)
 
 System:
-- GOODBYE (k thick atmosphere)
-- DEAD YET (r rocky, creased)
-- INSIDE (d dusty, craterized)
-- WHATWEARE (f felisian)
-- KILLER (d dusty, craterized)
-  - CREATE (d dusty, craterized)
-- ONLY THING (^ unstable)
+GOODBYE (k thick atmosphere)
+DEAD YET (r rocky, creased)
+INSIDE (d dusty, craterized)
+WHATWEARE (f felisian)
+KILLER (d dusty, craterized)
+  CREATE (d dusty, craterized)
+ONLY THING (^ unstable)
 
 Guide entries:
 SYSTEM DISCOVERED BY MCWGOGS, EPOC 6011.646.340. SIX PLANETS, ONE MOON

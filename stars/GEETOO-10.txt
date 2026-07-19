@@ -4,12 +4,12 @@ Paris coordinates: 5625712, 5341695, -4946514
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- Planet #0 (k thick atmosphere)
-- Planet #1 (@ large, not consistent)
-- QINEEKIA (f felisian)
-- Planet #3 (k thick atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (k thick atmosphere)
+Planet #1 (@ large, not consistent)
+QINEEKIA (f felisian)
+Planet #3 (k thick atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
  THIS SYSTEM HAS LIFE IN IT

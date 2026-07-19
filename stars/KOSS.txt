@@ -4,11 +4,11 @@ Paris coordinates: -1501424, 1342483, 472938
 Bodies: 5 (4 planets, 1 moons)
 
 System:
-- Planet #0 (@ large, not consistent)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-- STEARIC (f felisian)
+Planet #0 (@ large, not consistent)
+Planet #1 (@ large, not consistent)
+Planet #2 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+STEARIC (f felisian)
 
 Guide entries:
  SYSTEM CONTAINS ONE PLANET WITH LIFE IT IS CALLED STEARIC. DISCOVERED IN

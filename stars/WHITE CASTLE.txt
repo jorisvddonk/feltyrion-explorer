@@ -4,7 +4,7 @@ Paris coordinates: -1996747728, 55685, 1186213
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LOENTINA (d dusty, craterized)
+LOENTINA (d dusty, craterized)
 
 Guide entries:
 A LONELY, BRIGHT, WHITE STAR, OF S08 CLASSIFICATION EVEN THOUGH             

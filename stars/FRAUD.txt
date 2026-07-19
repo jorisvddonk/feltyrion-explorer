@@ -4,6 +4,6 @@ Paris coordinates: 70352, -64869, 1319764
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- SHAWSHANK (k thick atmosphere)
-- Planet #1 (q quartz surface)
-- Planet #2 (q quartz surface)
+SHAWSHANK (k thick atmosphere)
+Planet #1 (q quartz surface)
+Planet #2 (q quartz surface)

@@ -4,8 +4,8 @@ Paris coordinates: 2082664496, -1337026, -728338
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- SYERET (q quartz surface)
-- LYOVA (r rocky, creased)
+SYERET (q quartz surface)
+LYOVA (r rocky, creased)
 
 Guide entries:
 S00 STAR, 2 PLANETS IS ALL. 2.59298396 BAL. M. TEMP 10165 K RAD 14KR        

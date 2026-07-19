@@ -4,10 +4,10 @@ Paris coordinates: 3921776, 3763420, -1571101
 Bodies: 7 (3 planets, 4 moons)
 
 System:
-- BALDIOS (n thin atmosphere)
-- BOUSK (r rocky, creased)
-- JORGAN (+ substellar object)
-  - IL-3 (n thin atmosphere)
-  - HELIOS (k thick atmosphere)
-  - CREMATORIA (k thick atmosphere)
-  - IL-2 (n thin atmosphere)
+BALDIOS (n thin atmosphere)
+BOUSK (r rocky, creased)
+JORGAN (+ substellar object)
+  IL-3 (n thin atmosphere)
+  HELIOS (k thick atmosphere)
+  CREMATORIA (k thick atmosphere)
+  IL-2 (n thin atmosphere)

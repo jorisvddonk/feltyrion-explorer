@@ -4,5 +4,5 @@ Paris coordinates: 104784, -8554, 49535587
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PITSTOP 12A (q quartz surface)
-- PITSTOP 12B (r rocky, creased)
+PITSTOP 12A (q quartz surface)
+PITSTOP 12B (r rocky, creased)

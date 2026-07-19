@@ -4,8 +4,8 @@ Paris coordinates: 917840, -2069638, 3110664
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- DASRY1 (d dusty, craterized)
-- DASRY2 (k thick atmosphere)
+DASRY1 (d dusty, craterized)
+DASRY2 (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY AIRCON. 6011.612.735

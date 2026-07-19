@@ -4,7 +4,7 @@ Paris coordinates: 318928, -16574, -129965
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- REDUNDANCY (r rocky, creased)
+REDUNDANCY (r rocky, creased)
 
 Guide entries:
 A CLASS S00 SYSTEM WITH ONE MINOR PLANET. SKINNYMON EPOC 6011 580.121

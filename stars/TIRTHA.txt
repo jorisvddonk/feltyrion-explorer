@@ -4,18 +4,18 @@ Paris coordinates: 4452848, 4322120, -2158611
 Bodies: 12 (6 planets, 6 moons)
 
 System:
-- Planet #0 (r rocky, creased)
-- Planet #1 (k thick atmosphere)
-- Planet #2 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
-- NAMASTE (f felisian)
-- Planet #5 (k thick atmosphere)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
+Planet #0 (r rocky, creased)
+Planet #1 (k thick atmosphere)
+Planet #2 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+Planet #3 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)
+NAMASTE (f felisian)
+Planet #5 (k thick atmosphere)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 BY HARIDAS ON 6011.570.435.9516 PLANETS AND 6 MINOR BODIES

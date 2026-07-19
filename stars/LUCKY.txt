@@ -4,10 +4,10 @@ Paris coordinates: 172112, 3084692, 6978293
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- ULTRAGREEN (d dusty, craterized)
-- IMPOSING (q quartz surface)
-- BROWN LIFE (f felisian)
-  - ETERNAL (i icy surface)
+ULTRAGREEN (d dusty, craterized)
+IMPOSING (q quartz surface)
+BROWN LIFE (f felisian)
+  ETERNAL (i icy surface)
 
 Guide entries:
  HOLY, THIS STAR DESERVES TO BE CALLED LUCKY; EVEN THOUGH IT'S A MERE       

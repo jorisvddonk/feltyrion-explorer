@@ -4,7 +4,7 @@ Paris coordinates: 4062480, 2158003, 653795
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- DAUGHTER (r rocky, creased)
+DAUGHTER (r rocky, creased)
 
 Guide entries:
 SINGLE-PLANET SYSTEM. IT'S JUST NO FUN RUNNING INTO THESE CONSTANTLY.

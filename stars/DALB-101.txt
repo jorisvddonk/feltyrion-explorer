@@ -4,4 +4,4 @@ Paris coordinates: 3773200, 4846237, -462749
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- DALB-101 I (n thin atmosphere)
+DALB-101 I (n thin atmosphere)

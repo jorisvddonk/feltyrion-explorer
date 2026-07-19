@@ -4,10 +4,10 @@ Paris coordinates: 3377136, 4858630, -1777198
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- GRABEN (r rocky, creased)
-- EDWARD (+ substellar object)
-- SQUORNSHELLUS ZETA (k thick atmosphere)
-- ANIARA (@ large, not consistent)
+GRABEN (r rocky, creased)
+EDWARD (+ substellar object)
+SQUORNSHELLUS ZETA (k thick atmosphere)
+ANIARA (@ large, not consistent)
 
 Guide entries:
  STAR DISCOVERED BY DORIAN EPOC 6011:609.287

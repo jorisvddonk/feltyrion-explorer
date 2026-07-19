@@ -13,8 +13,8 @@ moons from its Paris coordinates.
 - Every named planet has an HTML page at /planets/<name> and a
   plain-text equivalent at /planets/<name>.txt.
 - Plain-text pages use a simple, predictable format: header lines,
-  a `System:` section listing planets (`-`) and their moons
-  (indented `  -`), and any `Guide entries:`.
+  a `System:` section listing planets and their moons (indented),
+  and any `Guide entries:`.
 
 ## Data fields
 
@@ -34,6 +34,5 @@ moons from its Paris coordinates.
 
 ## Companion files
 
-- /index.txt: a plain-text listing of every star (name, class, body
-  counts) with links to each star's .txt page.
+- /index.txt: plain-text listing of every star (name, class, body counts).
 - /stars/<name>.txt and /planets/<name>.txt: per-object plain-text pages.

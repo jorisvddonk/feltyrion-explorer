@@ -4,5 +4,5 @@ Paris coordinates: 4186768, 4243444, -51906
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- Planet #0 (* companion star)
-- STYE (d dusty, craterized)
+Planet #0 (* companion star)
+STYE (d dusty, craterized)

@@ -4,13 +4,13 @@ Paris coordinates: -432496, -96682, -427855
 Bodies: 7 (7 planets, 0 moons)
 
 System:
-- SIZZLING HOT (d dusty, craterized)
-- SHINING PURE (+ substellar object)
-- JADED (k thick atmosphere)
-- CORRUPTED GLOW (n thin atmosphere)
-- JADED MARBLE (k thick atmosphere)
-- GLOWING GLOBE (+ substellar object)
-- EMERALD SHINE (d dusty, craterized)
+SIZZLING HOT (d dusty, craterized)
+SHINING PURE (+ substellar object)
+JADED (k thick atmosphere)
+CORRUPTED GLOW (n thin atmosphere)
+JADED MARBLE (k thick atmosphere)
+GLOWING GLOBE (+ substellar object)
+EMERALD SHINE (d dusty, craterized)
 
 Guide entries:
 WHITE DWARF WITH 7 PLANETS AND NO MOONS. THIS MAY JUST BE ME SINCE I

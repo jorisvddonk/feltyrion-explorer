@@ -4,7 +4,7 @@ Paris coordinates: 4017840, 4633971, 46396
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- CASTOR PRIME (k thick atmosphere)
+CASTOR PRIME (k thick atmosphere)
 
 Guide entries:
  DISCOVERD BY MARK SCHULTHEISSAT EPOC 6001:565.405;JUST ONE DULL PLANET

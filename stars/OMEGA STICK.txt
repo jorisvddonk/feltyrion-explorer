@@ -4,7 +4,7 @@ Paris coordinates: -11736016, -316173, -827682
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- OMEGA WORLD (k thick atmosphere)
+OMEGA WORLD (k thick atmosphere)
 
 Guide entries:
 ANOTHER LITHIUM STAR ON MY SEARCH. SKINNYMON EPOC 6011 586.198

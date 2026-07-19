@@ -4,12 +4,12 @@ Paris coordinates: -843216, 21055, 1259908
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- HAPTEN (d dusty, craterized)
-- HEMIN (n thin atmosphere)
-- TABULA (d dusty, craterized)
-- LEADING EDGE (d dusty, craterized)
-- SEEL (k thick atmosphere)
-- ERUMPENT (+ substellar object)
+HAPTEN (d dusty, craterized)
+HEMIN (n thin atmosphere)
+TABULA (d dusty, craterized)
+LEADING EDGE (d dusty, craterized)
+SEEL (k thick atmosphere)
+ERUMPENT (+ substellar object)
 
 Guide entries:
 CLASS S02 STAR WITH A SYSTEM OF 6 PLANETS, NO MOONS. A FOOTNOTE OF A

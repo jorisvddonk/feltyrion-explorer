@@ -4,12 +4,12 @@ Paris coordinates: 4773200, 5404238, -1317021
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- SHINE (@ large, not consistent)
-- DEEP (k thick atmosphere)
-- MOONLIGHT (k thick atmosphere)
-- SANDSTONE (d dusty, craterized)
-- Planet #4 (d dusty, craterized)
-  - Moon #0 (^ unstable)
+SHINE (@ large, not consistent)
+DEEP (k thick atmosphere)
+MOONLIGHT (k thick atmosphere)
+SANDSTONE (d dusty, craterized)
+Planet #4 (d dusty, craterized)
+  Moon #0 (^ unstable)
 
 Guide entries:
 1:SYSTEM HAS: 5 PLANETS 1 MINOR BODIES

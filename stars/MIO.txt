@@ -4,7 +4,7 @@ Paris coordinates: -1888528, 5288815, -8036947
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- AO (@ large, not consistent)
+AO (@ large, not consistent)
 
 Guide entries:
 RUNAWAY STAR,HAS 1 PLANET

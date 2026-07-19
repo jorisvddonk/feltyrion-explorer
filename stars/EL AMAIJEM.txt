@@ -4,13 +4,13 @@ Paris coordinates: -120016, 5320411, 4043507
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- GURKACHIP (d dusty, craterized)
-- SOHENE (k thick atmosphere)
-- PERAGE (k thick atmosphere)
-- REINA DE LOS ANGELES (q quartz surface)
-  - ENCTER (d dusty, craterized)
-  - THAVUL (n thin atmosphere)
-  - INDRER (d dusty, craterized)
+GURKACHIP (d dusty, craterized)
+SOHENE (k thick atmosphere)
+PERAGE (k thick atmosphere)
+REINA DE LOS ANGELES (q quartz surface)
+  ENCTER (d dusty, craterized)
+  THAVUL (n thin atmosphere)
+  INDRER (d dusty, craterized)
 
 Guide entries:
 A S03 STAR WITH 4 PLANETS, 3 MOONS, NO FELISIAN. 1.76711142 BAL. M          

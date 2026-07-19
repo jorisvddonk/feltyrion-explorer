@@ -4,13 +4,13 @@ Paris coordinates: -18928, -70320, -32484
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- EARLAP (r rocky, creased)
-- Planet #1 (d dusty, craterized)
-- LEADING QUESTION (f felisian)
-  - CRUTCH (n thin atmosphere)
-  - PAPPUS (d dusty, craterized)
-  - LYRIST (n thin atmosphere)
-- HOSTILE WITNESS (f felisian)
+EARLAP (r rocky, creased)
+Planet #1 (d dusty, craterized)
+LEADING QUESTION (f felisian)
+  CRUTCH (n thin atmosphere)
+  PAPPUS (d dusty, craterized)
+  LYRIST (n thin atmosphere)
+HOSTILE WITNESS (f felisian)
 
 Guide entries:
 A CLASS S00 SYSTEM OF 4 PLANETS, 3 MOONS, TWO FELISIAN WORLDS.

@@ -4,9 +4,9 @@ Paris coordinates: 3794640, -66477082, -3060554
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- KRALON I (r rocky, creased)
-- KRALON II (k thick atmosphere)
-- KRALON III (d dusty, craterized)
+KRALON I (r rocky, creased)
+KRALON II (k thick atmosphere)
+KRALON III (d dusty, craterized)
 
 Guide entries:
 AN S00 STAR 12LY FROM FARHOME. HAS THREE PLANETS, ALL OF WHICH ARE

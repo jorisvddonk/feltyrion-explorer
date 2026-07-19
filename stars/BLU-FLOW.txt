@@ -4,7 +4,7 @@ Paris coordinates: 3328560, 4328964, -529244
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WEAK ESS OH SIX (+ substellar object)
+WEAK ESS OH SIX (+ substellar object)
 
 Guide entries:
 COMPARATIVELY WEAK BLUE DWARF. 1 COMPANION SUBSTELLAR OBJECT.               

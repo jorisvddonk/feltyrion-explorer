@@ -4,7 +4,7 @@ Paris coordinates: 6748912, 4745408, -2848957
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BENTIN (+ substellar object)
+BENTIN (+ substellar object)
 
 Guide entries:
 A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011 605.100

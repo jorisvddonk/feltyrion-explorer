@@ -4,9 +4,9 @@ Paris coordinates: 4711056, 4770276, -1069633
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- ODYSSEY (+ substellar object)
-- ZINTH (@ large, not consistent)
-- ILLIAD (f felisian)
+ODYSSEY (+ substellar object)
+ZINTH (@ large, not consistent)
+ILLIAD (f felisian)
 
 Guide entries:
 STAR SYSTEM DISCOVERED BY SERAXIS.                                          

@@ -4,18 +4,18 @@ Paris coordinates: 2939280, 4388626, -1511660
 Bodies: 12 (8 planets, 4 moons)
 
 System:
-- DRACO (r rocky, creased)
-- KRYTEN (d dusty, craterized)
-- REGENT (f felisian)
-  - SHINARA (d dusty, craterized)
-- ARACIA (f felisian)
-- FUSION (d dusty, craterized)
-  - DECAY (n thin atmosphere)
-- HAWRYLOW (d dusty, craterized)
-  - ENTROPY (d dusty, craterized)
-- PUNISHMENT (d dusty, craterized)
-  - VERDANT (n thin atmosphere)
-- LAMENT (r rocky, creased)
+DRACO (r rocky, creased)
+KRYTEN (d dusty, craterized)
+REGENT (f felisian)
+  SHINARA (d dusty, craterized)
+ARACIA (f felisian)
+FUSION (d dusty, craterized)
+  DECAY (n thin atmosphere)
+HAWRYLOW (d dusty, craterized)
+  ENTROPY (d dusty, craterized)
+PUNISHMENT (d dusty, craterized)
+  VERDANT (n thin atmosphere)
+LAMENT (r rocky, creased)
 
 Guide entries:
  DISCOVERED EPOC 6011:582.393 BY MARCUS ARAC

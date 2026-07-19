@@ -4,4 +4,4 @@ Paris coordinates: 4589616, 3976815, 1601700
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- MANHANHAN (+ substellar object)
+MANHANHAN (+ substellar object)

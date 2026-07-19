@@ -4,10 +4,10 @@ Paris coordinates: 4679984, 4783396, -748470
 Bodies: 4 (4 planets, 0 moons)
 
 System:
-- GALIEUS (@ large, not consistent)
-- GARBELT (k thick atmosphere)
-- ALPHA POCKY (d dusty, craterized)
-- SPYRE (f felisian)
+GALIEUS (@ large, not consistent)
+GARBELT (k thick atmosphere)
+ALPHA POCKY (d dusty, craterized)
+SPYRE (f felisian)
 
 Guide entries:
 SURPRISINGLY UNCHARTED YELLOW MEDIUM DISCOVERED. NO MOONS, SOME

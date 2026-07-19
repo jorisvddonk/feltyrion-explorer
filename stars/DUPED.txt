@@ -4,8 +4,8 @@ Paris coordinates: -654352, 2177068, 16078090
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- YERTZ (q quartz surface)
-- YESTA (+ substellar object)
-- LUSHEN (f felisian)
-- REDEGE (f felisian)
-- YELOUT (d dusty, craterized)
+YERTZ (q quartz surface)
+YESTA (+ substellar object)
+LUSHEN (f felisian)
+REDEGE (f felisian)
+YELOUT (d dusty, craterized)

@@ -4,5 +4,5 @@ Paris coordinates: -39730320, 1535785, 31426011
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- RADAX CARRIE 1 (q quartz surface)
-- RADAX CARRIE 2 (r rocky, creased)
+RADAX CARRIE 1 (q quartz surface)
+RADAX CARRIE 2 (r rocky, creased)

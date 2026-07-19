@@ -4,6 +4,6 @@ Paris coordinates: -71837776, -597799, 53406694
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- FUTURE DECAY (k thick atmosphere)
-- MODERN CONFLICT (q quartz surface)
-- ANCIENT POWER (d dusty, craterized)
+FUTURE DECAY (k thick atmosphere)
+MODERN CONFLICT (q quartz surface)
+ANCIENT POWER (d dusty, craterized)

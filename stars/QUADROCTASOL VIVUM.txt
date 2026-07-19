@@ -4,14 +4,14 @@ Paris coordinates: -2139280, 902299, 1032805
 Bodies: 8 (4 planets, 4 moons)
 
 System:
-- DULCEAS (q quartz surface)
-- DARK GAITY (n thin atmosphere)
-- GLOWSTONE (d dusty, craterized)
-  - VIRIDIA (d dusty, craterized)
-- PEBREAH (f felisian)
-  - PEBREAH LUNA I (d dusty, craterized)
-  - PEBREAH LUNA II (n thin atmosphere)
-  - PEBREAH LUNA III (d dusty, craterized)
+DULCEAS (q quartz surface)
+DARK GAITY (n thin atmosphere)
+GLOWSTONE (d dusty, craterized)
+  VIRIDIA (d dusty, craterized)
+PEBREAH (f felisian)
+  PEBREAH LUNA I (d dusty, craterized)
+  PEBREAH LUNA II (n thin atmosphere)
+  PEBREAH LUNA III (d dusty, craterized)
 
 Guide entries:
 STAR DISCOVERED BY RYAN BURY, EPOC 6011

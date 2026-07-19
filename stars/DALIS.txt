@@ -4,7 +4,7 @@ Paris coordinates: 2140557808, -1954219, 754309
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- ASDAL (n thin atmosphere)
+ASDAL (n thin atmosphere)
 
 Guide entries:
 S10 STAR WITH ONE SMALL PLANET. 8.39397526 BAL. M. TEMP 7494 K RAD 1.0      

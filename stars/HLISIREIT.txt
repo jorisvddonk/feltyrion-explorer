@@ -4,7 +4,7 @@ Paris coordinates: 2100527984, -2233309, 411027
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- BAON (k thick atmosphere)
+BAON (k thick atmosphere)
 
 Guide entries:
 CLASS S00 WITH ONE PLANET. 1.14447010 BAL. M. TEMP 6008 K RAD 30KR          

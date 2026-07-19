@@ -4,6 +4,6 @@ Paris coordinates: 3191280, 3526797, -51009003
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (n thin atmosphere)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (r rocky, creased)
+Planet #0 (n thin atmosphere)
+Planet #1 (n thin atmosphere)
+Planet #2 (r rocky, creased)

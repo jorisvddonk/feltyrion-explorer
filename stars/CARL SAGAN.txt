@@ -4,8 +4,8 @@ Paris coordinates: 5976048, 5034967, -629066
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- COSMOS (d dusty, craterized)
-- QUARTZ ISLE (q quartz surface)
+COSMOS (d dusty, craterized)
+QUARTZ ISLE (q quartz surface)
 
 Guide entries:
  MY FIRST S-00, NIL WITTHANEYE ENTRY 6011 664.169.19 APROX

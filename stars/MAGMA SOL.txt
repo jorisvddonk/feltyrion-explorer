@@ -4,4 +4,4 @@ Paris coordinates: 1555696, 7226623, 2670883
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- HATE (k thick atmosphere)
+HATE (k thick atmosphere)

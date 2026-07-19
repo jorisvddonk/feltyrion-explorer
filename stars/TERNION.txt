@@ -4,15 +4,15 @@ Paris coordinates: 45874000, 13259263, -635467729
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- TERNION B (* companion star)
-- Planet #1 (k thick atmosphere)
-- TERNION C (* companion star)
-  - Moon #0 (d dusty, craterized)
-- Planet #3 (@ large, not consistent)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
+TERNION B (* companion star)
+Planet #1 (k thick atmosphere)
+TERNION C (* companion star)
+  Moon #0 (d dusty, craterized)
+Planet #3 (@ large, not consistent)
+  Moon #0 (d dusty, craterized)
+Planet #4 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
 
 Guide entries:
 TRINARY SYSTEM. TERNION A AND B APPEAR TO BE OF SIMILAR SIZE, WHILE         

@@ -4,13 +4,13 @@ Paris coordinates: 2070474544, -1823143, 385289
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- LOYLSAT (r rocky, creased)
-- JEMBAR (n thin atmosphere)
-- TATBA (n thin atmosphere)
-  - TIPRIC (n thin atmosphere)
-- DATSFHON (q quartz surface)
-  - KIOPRAM (d dusty, craterized)
-  - INPAJAS (n thin atmosphere)
+LOYLSAT (r rocky, creased)
+JEMBAR (n thin atmosphere)
+TATBA (n thin atmosphere)
+  TIPRIC (n thin atmosphere)
+DATSFHON (q quartz surface)
+  KIOPRAM (d dusty, craterized)
+  INPAJAS (n thin atmosphere)
 
 Guide entries:
 A CLASS S00 SYSTEM OF 4 PLANETS 3 MOONS NO FELISIAN WORLDS/                 

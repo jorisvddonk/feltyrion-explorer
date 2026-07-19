@@ -4,17 +4,17 @@ Paris coordinates: 634360944, -10288539, 50176301
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- Planet #0 (* companion star)
-- Planet #1 (@ large, not consistent)
-- Planet #2 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (r rocky, creased)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (* companion star)
-- Planet #5 (q quartz surface)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (^ unstable)
+Planet #0 (* companion star)
+Planet #1 (@ large, not consistent)
+Planet #2 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+Planet #3 (r rocky, creased)
+  Moon #0 (d dusty, craterized)
+Planet #4 (* companion star)
+Planet #5 (q quartz surface)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (^ unstable)
 
 Guide entries:
 CLASS S08 WITH 2 COMPANION STARS, 11 BODIES TOTAL. NO FELISIAN              

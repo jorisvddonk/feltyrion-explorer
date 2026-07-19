@@ -4,9 +4,9 @@ Paris coordinates: 4842128, 4534279, -1240066
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (* companion star)
-- Planet #2 (d dusty, craterized)
+Planet #0 (+ substellar object)
+Planet #1 (* companion star)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
 TULIP IS A MULTIPLE STAR SYSTEM CONSISTING OF A LARGE BROWN STAR AND A

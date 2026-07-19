@@ -4,7 +4,7 @@ Paris coordinates: 1400345296, 2019388, 1399100780
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- WENLAG PRIMUS (+ substellar object)
+WENLAG PRIMUS (+ substellar object)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6011:608.948

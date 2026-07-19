@@ -4,12 +4,12 @@ Paris coordinates: 3552848, 3945109, -1330204
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- ROSALIA (q quartz surface)
-- GRAPE (q quartz surface)
-- QUARTZIX (q quartz surface)
-  - VALORIA II (d dusty, craterized)
-  - VALORIA (n thin atmosphere)
-- FLASH101 (d dusty, craterized)
+ROSALIA (q quartz surface)
+GRAPE (q quartz surface)
+QUARTZIX (q quartz surface)
+  VALORIA II (d dusty, craterized)
+  VALORIA (n thin atmosphere)
+FLASH101 (d dusty, craterized)
 
 Guide entries:
  WAS DISCOVERED BY GEOFFROY CHARTRAND, 689.447.165.                         

@@ -4,8 +4,8 @@ Paris coordinates: 1504272, 666960, 1770662
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GRAR (r rocky, creased)
-- QURAR (q quartz surface)
+GRAR (r rocky, creased)
+QURAR (q quartz surface)
 
 Guide entries:
 WHOA, AFTER NOTING ON THE PLANETS OF *ANOTHER* S10 SYSTEM NOT THAT FAR      

@@ -4,5 +4,5 @@ Paris coordinates: 3442128, 4530971, 167077
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BRITTLEBANE (@ large, not consistent)
-- COPPERSAGE (d dusty, craterized)
+BRITTLEBANE (@ large, not consistent)
+COPPERSAGE (d dusty, craterized)

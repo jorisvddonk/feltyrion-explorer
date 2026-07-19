@@ -4,10 +4,10 @@ Paris coordinates: 2147407344, 2335430, 1001378966
 Bodies: 4 (2 planets, 2 moons)
 
 System:
-- QUYL ALPHA (* companion star)
-  - QUYL ALPHA PRIMUS (@ large, not consistent)
-  - QUYL ALPHA SECUNDUS (r rocky, creased)
-- QUYL PRIMUS (@ large, not consistent)
+QUYL ALPHA (* companion star)
+  QUYL ALPHA PRIMUS (@ large, not consistent)
+  QUYL ALPHA SECUNDUS (r rocky, creased)
+QUYL PRIMUS (@ large, not consistent)
 
 Guide entries:
 DISSCOVERED BY DODO C. SNOTTS - 6014:785.758

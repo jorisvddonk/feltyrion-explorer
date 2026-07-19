@@ -4,12 +4,12 @@ Paris coordinates: 4546064, 5785631, -2639428
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- MAMFUL (q quartz surface)
-- RETOR (q quartz surface)
-- SORTAN (r rocky, creased)
-  - LIFBASE (n thin atmosphere)
-  - CHOLA (d dusty, craterized)
-- Planet #3 (q quartz surface)
+MAMFUL (q quartz surface)
+RETOR (q quartz surface)
+SORTAN (r rocky, creased)
+  LIFBASE (n thin atmosphere)
+  CHOLA (d dusty, craterized)
+Planet #3 (q quartz surface)
 
 Guide entries:
  SYSTEM DISCOVERED BY MURRMURR (EPOC 6011:607.554)

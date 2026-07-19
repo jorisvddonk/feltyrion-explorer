@@ -4,13 +4,13 @@ Paris coordinates: -1312144, 1355372, 1599802
 Bodies: 7 (4 planets, 3 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (@ large, not consistent)
-- SUBGIRLIE 3 (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (d dusty, craterized)
-- Planet #3 (d dusty, craterized)
+Planet #0 (+ substellar object)
+Planet #1 (@ large, not consistent)
+SUBGIRLIE 3 (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (d dusty, craterized)
+Planet #3 (d dusty, craterized)
 
 Guide entries:
 S00 SYSTEM WITH 4 PLANETS - THIRD IS FELISIAN

@@ -4,15 +4,15 @@ Paris coordinates: 528560, 785668, 2181784
 Bodies: 9 (4 planets, 5 moons)
 
 System:
-- ORYOUS (n thin atmosphere)
-- HIROS (n thin atmosphere)
-- Planet #2 (r rocky, creased)
-  - Moon #0 (^ unstable)
-  - Moon #1 (d dusty, craterized)
-- Planet #3 (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (d dusty, craterized)
-  - Moon #2 (n thin atmosphere)
+ORYOUS (n thin atmosphere)
+HIROS (n thin atmosphere)
+Planet #2 (r rocky, creased)
+  Moon #0 (^ unstable)
+  Moon #1 (d dusty, craterized)
+Planet #3 (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (d dusty, craterized)
+  Moon #2 (n thin atmosphere)
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.002.975)

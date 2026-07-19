@@ -4,18 +4,18 @@ Paris coordinates: 2673200, 4466539, 646458
 Bodies: 12 (5 planets, 7 moons)
 
 System:
-- LENIN (n thin atmosphere)
-- STALIN (d dusty, craterized)
-- CRUSHEV (@ large, not consistent)
-  - Moon #0 (^ unstable)
-  - Moon #1 (k thick atmosphere)
-  - Moon #2 (n thin atmosphere)
-  - Moon #3 (n thin atmosphere)
-- BREZNEW (r rocky, creased)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (d dusty, craterized)
-- GORBACEV (d dusty, craterized)
-  - Moon #0 (^ unstable)
+LENIN (n thin atmosphere)
+STALIN (d dusty, craterized)
+CRUSHEV (@ large, not consistent)
+  Moon #0 (^ unstable)
+  Moon #1 (k thick atmosphere)
+  Moon #2 (n thin atmosphere)
+  Moon #3 (n thin atmosphere)
+BREZNEW (r rocky, creased)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (d dusty, craterized)
+GORBACEV (d dusty, craterized)
+  Moon #0 (^ unstable)
 
 Guide entries:
 DISCOVERED BY KROMEBOY 6011 578.285

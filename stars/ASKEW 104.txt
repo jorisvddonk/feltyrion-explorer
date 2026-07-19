@@ -4,5 +4,5 @@ Paris coordinates: 2039952, -12063304, 9072522
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ASKEW 104A (n thin atmosphere)
-- ASKEW 104B (n thin atmosphere)
+ASKEW 104A (n thin atmosphere)
+ASKEW 104B (n thin atmosphere)

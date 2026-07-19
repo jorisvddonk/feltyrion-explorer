@@ -4,9 +4,9 @@ Paris coordinates: -23392208, 17679121, 38350899
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- JOKER (+ substellar object)
-- Planet #1 (* companion star)
-- Planet #2 (d dusty, craterized)
+JOKER (+ substellar object)
+Planet #1 (* companion star)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
 TWIN WHITE STAR SYSTEM DISC BY SCAREDY-CAT,6011.590.365

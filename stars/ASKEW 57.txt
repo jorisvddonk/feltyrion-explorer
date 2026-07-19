@@ -4,8 +4,8 @@ Paris coordinates: 10838448, -19158180, 17674354
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GLOW WORM (q quartz surface)
-- ASKEW 57B (+ substellar object)
+GLOW WORM (q quartz surface)
+ASKEW 57B (+ substellar object)
 
 Guide entries:
 1 QUARTZ WORLD

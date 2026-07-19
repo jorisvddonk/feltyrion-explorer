@@ -4,8 +4,8 @@ Paris coordinates: -1424942544, 1712873, 1435170489
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- HUE-STRIKE (+ substellar object)
-- PADAPIT (d dusty, craterized)
+HUE-STRIKE (+ substellar object)
+PADAPIT (d dusty, craterized)
 
 Guide entries:
 AN S10 WITH 2 PLANETS. RYAN GJK E6011.785.333                               

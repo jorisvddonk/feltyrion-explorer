@@ -4,12 +4,12 @@ Paris coordinates: 263568, -3297, 572181
 Bodies: 6 (4 planets, 2 moons)
 
 System:
-- FLOOP (d dusty, craterized)
-- UKREY (n thin atmosphere)
-- KRETAIS (r rocky, creased)
-  - KRATERAESTIS (d dusty, craterized)
-  - PLUTONIUM (d dusty, craterized)
-- DERISTIS (n thin atmosphere)
+FLOOP (d dusty, craterized)
+UKREY (n thin atmosphere)
+KRETAIS (r rocky, creased)
+  KRATERAESTIS (d dusty, craterized)
+  PLUTONIUM (d dusty, craterized)
+DERISTIS (n thin atmosphere)
 
 Guide entries:
 SYSTEM DISCOVERED BY MCWGOGS EPOC 6011.647.435. FOUR PLANETS, TWO MOONS.

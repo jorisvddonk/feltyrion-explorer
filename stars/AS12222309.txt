@@ -4,5 +4,5 @@ Paris coordinates: 1267760, 827005, 21196340
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AS12222309A (d dusty, craterized)
-- AS12222309B (d dusty, craterized)
+AS12222309A (d dusty, craterized)
+AS12222309B (d dusty, craterized)

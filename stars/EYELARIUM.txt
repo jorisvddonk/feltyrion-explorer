@@ -4,5 +4,5 @@ Paris coordinates: 1187856, 100068510, -905330
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- ALPHA EYELARIUM (* companion star)
-- EYELARIUM BETA (d dusty, craterized)
+ALPHA EYELARIUM (* companion star)
+EYELARIUM BETA (d dusty, craterized)

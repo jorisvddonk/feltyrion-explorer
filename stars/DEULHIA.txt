@@ -4,7 +4,7 @@ Paris coordinates: 4262480, 4297307, 380227
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- HAUCEY (n thin atmosphere)
+HAUCEY (n thin atmosphere)
 
 Guide entries:
 DISCOVERED EPOC 6011:565.800.151 BY FRANCOIS WISARD

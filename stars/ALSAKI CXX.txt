@@ -4,4 +4,4 @@ Paris coordinates: 14903184, 32253007, -7941049
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- NOVAMONIA (+ substellar object)
+NOVAMONIA (+ substellar object)

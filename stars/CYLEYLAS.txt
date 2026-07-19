@@ -4,7 +4,7 @@ Paris coordinates: 634316304, -11055626, 49664486
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- AJEISA (n thin atmosphere)
+AJEISA (n thin atmosphere)
 
 Guide entries:
 A CLASS S04 SYSTEM WITH ONE PLANET. NOT TO BE CONFUSED WITH CLYELYAS        

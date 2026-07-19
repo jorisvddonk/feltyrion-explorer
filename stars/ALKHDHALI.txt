@@ -4,11 +4,11 @@ Paris coordinates: 7674288, 66747, -7938951
 Bodies: 5 (3 planets, 2 moons)
 
 System:
-- DOYUEN (d dusty, craterized)
-- RETAIFH (d dusty, craterized)
-- YOQUEEHE (n thin atmosphere)
-  - SLIEL (i icy surface)
-  - SEOMI (n thin atmosphere)
+DOYUEN (d dusty, craterized)
+RETAIFH (d dusty, craterized)
+YOQUEEHE (n thin atmosphere)
+  SLIEL (i icy surface)
+  SEOMI (n thin atmosphere)
 
 Guide entries:
 A CLASS S97 SYSTEM OF 3 PLANETS AND 2 MOONS. SKINNYMON EPOC 6011

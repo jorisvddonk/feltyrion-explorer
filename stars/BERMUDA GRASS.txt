@@ -4,8 +4,8 @@ Paris coordinates: 3352848, 5891963, -1044753
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- 19TH HOLE (r rocky, creased)
-- ROLLING HILLS (q quartz surface)
+19TH HOLE (r rocky, creased)
+ROLLING HILLS (q quartz surface)
 
 Guide entries:
 A CLASS S01 SYSTEM OF 2 PLANETS AND THAT'S IT. SKINNYMON EPOC

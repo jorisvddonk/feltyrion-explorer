@@ -4,15 +4,15 @@ Paris coordinates: 2152848, 5123860, -111648
 Bodies: 9 (5 planets, 4 moons)
 
 System:
-- Planet #0 (q quartz surface)
-- Planet #1 (+ substellar object)
-- RO VERDAN I (f felisian)
-  - Moon #0 (n thin atmosphere)
-- Planet #3 (n thin atmosphere)
-- RO VERDAN II (f felisian)
-  - Moon #0 (d dusty, craterized)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (d dusty, craterized)
+Planet #0 (q quartz surface)
+Planet #1 (+ substellar object)
+RO VERDAN I (f felisian)
+  Moon #0 (n thin atmosphere)
+Planet #3 (n thin atmosphere)
+RO VERDAN II (f felisian)
+  Moon #0 (d dusty, craterized)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (d dusty, craterized)
 
 Guide entries:
  AN INTERESTING FIVE-PLANET SYSTEM. TWO OF THE FIVE PLANETS HOLD

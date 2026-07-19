@@ -4,8 +4,8 @@ Paris coordinates: 994640, -139762, -233042
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- AILA (q quartz surface)
-- NIDAC (k thick atmosphere)
+AILA (q quartz surface)
+NIDAC (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.248

@@ -4,9 +4,9 @@ Paris coordinates: 3832496, 4746036, -2820713
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- NICAL (n thin atmosphere)
-- CISTAN (d dusty, craterized)
-- RIOGRA (r rocky, creased)
+NICAL (n thin atmosphere)
+CISTAN (d dusty, craterized)
+RIOGRA (r rocky, creased)
 
 Guide entries:
 A CLASS S02 SYSTEM WITH 3 PLANETS. NO CHANCE OF ANYTHING FELISIAN HERE

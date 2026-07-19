@@ -4,9 +4,9 @@ Paris coordinates: 11183088, -19054853, 17846687
 Bodies: 6 (5 planets, 1 moons)
 
 System:
-- ASKEW 72A (@ large, not consistent)
-- ASKEW 72B (k thick atmosphere)
-- ASKEW 72C (k thick atmosphere)
-- ASKEW 72D (d dusty, craterized)
-- ASKEW 72E (d dusty, craterized)
-  - ASKEW 72E1 (^ unstable)
+ASKEW 72A (@ large, not consistent)
+ASKEW 72B (k thick atmosphere)
+ASKEW 72C (k thick atmosphere)
+ASKEW 72D (d dusty, craterized)
+ASKEW 72E (d dusty, craterized)
+  ASKEW 72E1 (^ unstable)

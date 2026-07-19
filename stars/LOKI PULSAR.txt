@@ -4,4 +4,4 @@ Paris coordinates: 4279984, 4542790, -403559
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- LITTLE MISCHIEF (n thin atmosphere)
+LITTLE MISCHIEF (n thin atmosphere)

@@ -4,7 +4,7 @@ Paris coordinates: 13274960, 5294120, -3930129
 Bodies: 1 (1 planets, 0 moons)
 
 System:
-- KREAKISFH (+ substellar object)
+KREAKISFH (+ substellar object)
 
 Guide entries:
 A CLASS S07 SYSTEM WITH ONE PLANET. SKINNYMON EPOC 6011 605.114

@@ -4,8 +4,8 @@ Paris coordinates: 6489616, 5129368, -342488
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- FOISON (q quartz surface)
-- OSIER (r rocky, creased)
+FOISON (q quartz surface)
+OSIER (r rocky, creased)
 
 Guide entries:
 A CLASS S05 SYSTEM WITH LITHIUM AND 2 PLANETS. SKINNYMON EPOC 6011

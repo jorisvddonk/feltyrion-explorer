@@ -4,5 +4,5 @@ Paris coordinates: 3056784, 5190324, -2624302
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- GOD'S RING (+ substellar object)
-- Planet #1 (@ large, not consistent)
+GOD'S RING (+ substellar object)
+Planet #1 (@ large, not consistent)

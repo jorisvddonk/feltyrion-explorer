@@ -4,9 +4,9 @@ Paris coordinates: 3066416, 5164474, -234173
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- DEMENTIA (r rocky, creased)
-- ORPHALIS (q quartz surface)
-- MALANDER (k thick atmosphere)
+DEMENTIA (r rocky, creased)
+ORPHALIS (q quartz surface)
+MALANDER (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-570.590

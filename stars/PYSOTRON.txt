@@ -4,9 +4,9 @@ Paris coordinates: 3852848, 4360565, -1796331
 Bodies: 3 (3 planets, 0 moons)
 
 System:
-- GAS BALL (@ large, not consistent)
-- Planet #1 (n thin atmosphere)
-- Planet #2 (d dusty, craterized)
+GAS BALL (@ large, not consistent)
+Planet #1 (n thin atmosphere)
+Planet #2 (d dusty, craterized)
 
 Guide entries:
 DISCOVERED BY MATTHEW REYNOLDS. 6011.563.13.586

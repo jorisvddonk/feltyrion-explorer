@@ -4,11 +4,11 @@ Paris coordinates: 2147155440, 1025459, 700959331
 Bodies: 5 (5 planets, 0 moons)
 
 System:
-- STOICA PRIME (n thin atmosphere)
-- STOICA SECUNDUS (d dusty, craterized)
-- STOICA TRIACUS (r rocky, creased)
-- STOICUS QUADREX (@ large, not consistent)
-- STOICA QUINTUS (k thick atmosphere)
+STOICA PRIME (n thin atmosphere)
+STOICA SECUNDUS (d dusty, craterized)
+STOICA TRIACUS (r rocky, creased)
+STOICUS QUADREX (@ large, not consistent)
+STOICA QUINTUS (k thick atmosphere)
 
 Guide entries:
 DISCOVERED BY DODO C. SNOTTS - 6014:786.913

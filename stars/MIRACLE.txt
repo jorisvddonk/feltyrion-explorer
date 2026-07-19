@@ -4,10 +4,10 @@ Paris coordinates: 3979984, 5143407, -98451
 Bodies: 7 (5 planets, 2 moons)
 
 System:
-- Planet #0 (+ substellar object)
-- Planet #1 (d dusty, craterized)
-- Planet #2 (k thick atmosphere)
-- PIECE OF ICE (f felisian)
-  - Moon #0 (d dusty, craterized)
-- Planet #4 (n thin atmosphere)
-  - Moon #0 (d dusty, craterized)
+Planet #0 (+ substellar object)
+Planet #1 (d dusty, craterized)
+Planet #2 (k thick atmosphere)
+PIECE OF ICE (f felisian)
+  Moon #0 (d dusty, craterized)
+Planet #4 (n thin atmosphere)
+  Moon #0 (d dusty, craterized)

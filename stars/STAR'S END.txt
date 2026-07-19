@@ -4,10 +4,10 @@ Paris coordinates: -1405047568, -17845, 1420680459
 Bodies: 4 (3 planets, 1 moons)
 
 System:
-- STAR'S END I (d dusty, craterized)
-- STAR'S END II (d dusty, craterized)
-- TRANTOR (f felisian)
-  - YAMBRU (d dusty, craterized)
+STAR'S END I (d dusty, craterized)
+STAR'S END II (d dusty, craterized)
+TRANTOR (f felisian)
+  YAMBRU (d dusty, craterized)
 
 Guide entries:
 SOMEHOW, I'VE MANAGED TO OUTSMART MY STARDRIFTER'S COMPUTER AND

@@ -4,17 +4,17 @@ Paris coordinates: 2446064, 4229519, -567104
 Bodies: 11 (6 planets, 5 moons)
 
 System:
-- DARKINA (n thin atmosphere)
-- MELLONIA (n thin atmosphere)
-- LIVONIA (f felisian)
-  - ELUSINA 1 (n thin atmosphere)
-  - ELUSINA 2 (^ unstable)
-- CRONIA (r rocky, creased)
-  - ELUSINA 3 (d dusty, craterized)
-  - ELUSINA 4 (n thin atmosphere)
-- CRONIA II (d dusty, craterized)
-  - ELUSINA 5 (d dusty, craterized)
-- CRONIA III (d dusty, craterized)
+DARKINA (n thin atmosphere)
+MELLONIA (n thin atmosphere)
+LIVONIA (f felisian)
+  ELUSINA 1 (n thin atmosphere)
+  ELUSINA 2 (^ unstable)
+CRONIA (r rocky, creased)
+  ELUSINA 3 (d dusty, craterized)
+  ELUSINA 4 (n thin atmosphere)
+CRONIA II (d dusty, craterized)
+  ELUSINA 5 (d dusty, craterized)
+CRONIA III (d dusty, craterized)
 
 Guide entries:
  AT FIRST I COULD NOT SEE THIS STAR.. BUT AT PLANET 1, IT IS VISIBLE.

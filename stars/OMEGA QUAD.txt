@@ -4,19 +4,19 @@ Paris coordinates: -11867088, -664921, -560296
 Bodies: 13 (4 planets, 9 moons)
 
 System:
-- OMEGA QUAD A (* companion star)
-- OMEGA QUAD B (* companion star)
-  - OMEGA QUAD B 1 (d dusty, craterized)
-  - OMEGA QUAD B 2 (@ large, not consistent)
-- OMEGA QUAD C (* companion star)
-  - OMEGA ALPHA (f felisian)
-  - OMEGA QUAD C 2 (d dusty, craterized)
-  - OMEGA QUAD C 3 (n thin atmosphere)
-  - OMEGA QUAD C 4 (r rocky, creased)
-  - OMEGA QUAD C 5 (+ substellar object)
-- OMEGA QUAD IV (n thin atmosphere)
-  - OMEGA QUAD IV A (n thin atmosphere)
-  - OMEGA QUAD IV B (d dusty, craterized)
+OMEGA QUAD A (* companion star)
+OMEGA QUAD B (* companion star)
+  OMEGA QUAD B 1 (d dusty, craterized)
+  OMEGA QUAD B 2 (@ large, not consistent)
+OMEGA QUAD C (* companion star)
+  OMEGA ALPHA (f felisian)
+  OMEGA QUAD C 2 (d dusty, craterized)
+  OMEGA QUAD C 3 (n thin atmosphere)
+  OMEGA QUAD C 4 (r rocky, creased)
+  OMEGA QUAD C 5 (+ substellar object)
+OMEGA QUAD IV (n thin atmosphere)
+  OMEGA QUAD IV A (n thin atmosphere)
+  OMEGA QUAD IV B (d dusty, craterized)
 
 Guide entries:
 A CLASS S08 SYSTEM. THE MAIN STAR HAS ONE ACTUAL PLANET WITH 2

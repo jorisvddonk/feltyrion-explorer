@@ -4,8 +4,8 @@ Paris coordinates: -477136, -174230, -971079
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- PETIATIL CX (k thick atmosphere)
-- Planet #1 (@ large, not consistent)
+PETIATIL CX (k thick atmosphere)
+Planet #1 (@ large, not consistent)
 
 Guide entries:
 RUNAWAY STAR DISCOVERED BY JILANTY EPOC6011 568.996

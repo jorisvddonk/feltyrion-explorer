@@ -4,8 +4,8 @@ Paris coordinates: 1266416, 1529308, 1784829
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- STEAMBOAT'S BOTTOM (k thick atmosphere)
-- PRICKLE ORB (k thick atmosphere)
+STEAMBOAT'S BOTTOM (k thick atmosphere)
+PRICKLE ORB (k thick atmosphere)
 
 Guide entries:
 AN S01 SYSTEM OF TWO THICK-AT PLANETS. THE FIRST IS SLIGHTLY 'OUT           

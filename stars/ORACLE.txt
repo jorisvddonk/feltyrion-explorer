@@ -4,9 +4,9 @@ Paris coordinates: -107380592, 25021568, -2511344
 Bodies: 6 (3 planets, 3 moons)
 
 System:
-- JAWBREAKER VII (+ substellar object)
-- HIEDDY (@ large, not consistent)
-- STREECH (f felisian)
-  - Moon #0 (n thin atmosphere)
-  - Moon #1 (n thin atmosphere)
-  - Moon #2 (n thin atmosphere)
+JAWBREAKER VII (+ substellar object)
+HIEDDY (@ large, not consistent)
+STREECH (f felisian)
+  Moon #0 (n thin atmosphere)
+  Moon #1 (n thin atmosphere)
+  Moon #2 (n thin atmosphere)

@@ -4,8 +4,8 @@ Paris coordinates: 3835344, 4433056, -746195
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- VERDANA (n thin atmosphere)
-- RUSSET (r rocky, creased)
+VERDANA (n thin atmosphere)
+RUSSET (r rocky, creased)
 
 Guide entries:
 CLASS 00 STAR WITH TWO PLANETS. DISCOVERED BY NAMMYUNG IN

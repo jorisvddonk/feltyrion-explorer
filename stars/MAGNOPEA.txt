@@ -4,15 +4,15 @@ Paris coordinates: 181072, 146421, -286406
 Bodies: 9 (6 planets, 3 moons)
 
 System:
-- BARNEYSIA (k thick atmosphere)
-- BALBOAKIS (r rocky, creased)
-- BALD SPOT (r rocky, creased)
-  - OBELIZE (d dusty, craterized)
-- RANJOPEA (n thin atmosphere)
-- KLEFTY (k thick atmosphere)
-  - GRUM (n thin atmosphere)
-- SAPROPEL (k thick atmosphere)
-  - BRACH (d dusty, craterized)
+BARNEYSIA (k thick atmosphere)
+BALBOAKIS (r rocky, creased)
+BALD SPOT (r rocky, creased)
+  OBELIZE (d dusty, craterized)
+RANJOPEA (n thin atmosphere)
+KLEFTY (k thick atmosphere)
+  GRUM (n thin atmosphere)
+SAPROPEL (k thick atmosphere)
+  BRACH (d dusty, craterized)
 
 Guide entries:
 FURTHER NOTES: A CLASS S00 SYSTEM OF 6 PLANETS, 3 MOONS, NO FELISIAN

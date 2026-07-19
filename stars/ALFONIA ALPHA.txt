@@ -4,5 +4,5 @@ Paris coordinates: 2763568, 5188046, -2004236
 Bodies: 2 (2 planets, 0 moons)
 
 System:
-- BETINIA (k thick atmosphere)
-- ALFONIA BETA (* companion star)
+BETINIA (k thick atmosphere)
+ALFONIA BETA (* companion star)

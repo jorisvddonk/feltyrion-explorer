@@ -4,9 +4,9 @@ Paris coordinates: 9839952, 7080026, 1305269
 Bodies: 6 (6 planets, 0 moons)
 
 System:
-- HER VOICE AND WORDS (n thin atmosphere)
-- THE WAY SHE LAUGHS (d dusty, craterized)
-- HER SOFT DARK HAIR (q quartz surface)
-- HER SMILE (d dusty, craterized)
-- HER WARM BREATH (q quartz surface)
-- TOUCH OF HER LIPS (@ large, not consistent)
+HER VOICE AND WORDS (n thin atmosphere)
+THE WAY SHE LAUGHS (d dusty, craterized)
+HER SOFT DARK HAIR (q quartz surface)
+HER SMILE (d dusty, craterized)
+HER WARM BREATH (q quartz surface)
+TOUCH OF HER LIPS (@ large, not consistent)
