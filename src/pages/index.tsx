@@ -24,7 +24,8 @@ export default class extends React.Component<Props, {}> {
           {sortBy(this.props.data.allStar.nodes, x => x.data.name).map(node => {
             return (
               <li key={node.id}>
-                <Link to={node.fields.slug}>{node.data.name}</Link>
+                <Link to={node.fields.slug}>{node.data.name}</Link>{" "}
+                (S{node.data.type})
               </li>
             );
           })}
@@ -41,6 +42,7 @@ export const pageQuery = graphql`
         id
         data {
           name
+          type
         }
         fields {
           slug
