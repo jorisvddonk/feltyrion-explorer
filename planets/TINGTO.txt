@@ -1,6 +1,8 @@
-Planet: TINGTO
+Moon: TINGTO
 Starmap index: 33
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAR ATTEMPT
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. HIGHLY

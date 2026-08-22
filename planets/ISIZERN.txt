@@ -1,6 +1,8 @@
-Planet: ISIZERN
+Moon: ISIZERN
 Starmap index: 04
 Paris coordinates: -10272112, 5725739, 3356349
+Orbits: RASACAT UNTIMA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE. (NOTES BY NEUZD, 6011:801.937)                   

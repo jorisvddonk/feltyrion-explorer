@@ -1,3 +1,5 @@
-Planet: SHC-1 6A
+Moon: SHC-1 6A
 Starmap index: 32
 Paris coordinates: -26583376, -15647682, -1001175282
+Orbits: SHC-1 6
+Moon id: 0

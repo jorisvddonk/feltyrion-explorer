@@ -1,6 +1,8 @@
-Planet: ATORION 4.9
+Moon: ATORION 4.9
 Starmap index: 16
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 4
+Moon id: 8
 
 Guide entries:
  THE FOURTH GAS-GIANT DETECTED AROUND THIS STAR SO FAR.

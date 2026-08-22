@@ -1,6 +1,8 @@
-Planet: MUSPEL B
+Moon: MUSPEL B
 Starmap index: 16
 Paris coordinates: -56784, -84307, -221013
+Orbits: planet index 04
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY DUSTY, AS ARE EVEN

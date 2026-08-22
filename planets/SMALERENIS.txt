@@ -1,3 +1,5 @@
-Planet: SMALERENIS
+Moon: SMALERENIS
 Starmap index: 20
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: LARNERIDGES
+Moon id: 0

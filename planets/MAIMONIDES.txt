@@ -1,6 +1,8 @@
-Planet: MAIMONIDES
+Moon: MAIMONIDES
 Starmap index: 13
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: SUAWA
+Moon id: 0
 
 Guide entries:
 A FELISIAN WORLD- HAS A BLUE APPEARANCE AND APPARENTLY LARGE BODIES

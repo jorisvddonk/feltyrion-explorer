@@ -1,6 +1,8 @@
-Planet: DAVIN ZETA
+Moon: DAVIN ZETA
 Starmap index: 38
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

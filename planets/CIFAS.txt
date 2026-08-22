@@ -1,6 +1,8 @@
-Planet: CIFAS
+Moon: CIFAS
 Starmap index: 08
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK, SOME LIGHT AREAS, GOOD

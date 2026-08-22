@@ -1,6 +1,8 @@
-Planet: QOUIR 7.5
+Moon: QOUIR 7.5
 Starmap index: 18
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 4
 
 Guide entries:
  A FAR-MOON, FULLY COVERED WITH ICE, SMOOTH SURFACE.

@@ -1,6 +1,8 @@
-Planet: MR. WINTERBOTOM
+Moon: MR. WINTERBOTOM
 Starmap index: 34
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: NUFIOUS
+Moon id: 6
 
 Guide entries:
 SOMETHING ABOUT THE NAME TOLD ME THAT THIS PLACE WAS GOING TO               

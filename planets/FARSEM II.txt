@@ -1,6 +1,8 @@
-Planet: FARSEM II
+Moon: FARSEM II
 Starmap index: 09
 Paris coordinates: 4366416, 4639783, -1313897
+Orbits: FARSE
+Moon id: 1
 
 Guide entries:
  2ND MOON OF FARSE. NO ATMOSPHERE, LOOKS BORING.

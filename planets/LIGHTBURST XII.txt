@@ -1,3 +1,5 @@
-Planet: LIGHTBURST XII
+Moon: LIGHTBURST XII
 Starmap index: 25
 Paris coordinates: 3779984, 4313464, -58717
+Orbits: LIGHTBURST
+Moon id: 11

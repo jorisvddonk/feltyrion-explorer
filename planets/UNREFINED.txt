@@ -1,3 +1,5 @@
-Planet: UNREFINED
+Moon: UNREFINED
 Starmap index: 09
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: HUGSTONE
+Moon id: 0

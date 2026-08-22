@@ -1,6 +1,8 @@
-Planet: VESTIBULE
+Moon: VESTIBULE
 Starmap index: 48
 Paris coordinates: -21340784, 17982045, 37379397
+Orbits: planet index 06
+Moon id: 3
 
 Guide entries:
  THIN ATMOS PLANET OF THE FODUCK SYSTEM. DISC BY SCAREDY-CAT,

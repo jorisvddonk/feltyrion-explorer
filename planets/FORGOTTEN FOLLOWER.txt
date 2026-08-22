@@ -1,3 +1,5 @@
-Planet: FORGOTTEN FOLLOWER
+Moon: FORGOTTEN FOLLOWER
 Starmap index: 15
 Paris coordinates: -70572784, -326262, 53980485
+Orbits: PINK GIANT
+Moon id: 1

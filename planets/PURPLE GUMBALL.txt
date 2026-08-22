@@ -1,6 +1,8 @@
-Planet: PURPLE GUMBALL
+Moon: PURPLE GUMBALL
 Starmap index: 33
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: WARM EMBRACE
+Moon id: 0
 
 Guide entries:
 CLOUD-COVERED MOON ORBITING PLANET WARM EMBRACE. --EKA

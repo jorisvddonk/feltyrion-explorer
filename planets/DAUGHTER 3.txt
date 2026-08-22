@@ -1,3 +1,5 @@
-Planet: DAUGHTER 3
+Moon: DAUGHTER 3
 Starmap index: 32
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 16

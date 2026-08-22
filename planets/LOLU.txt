@@ -1,6 +1,8 @@
-Planet: LOLU
+Moon: LOLU
 Starmap index: 53
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: DEISY
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE REFLECTIVE WITH YELLOWISH

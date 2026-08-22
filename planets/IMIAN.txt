@@ -1,6 +1,8 @@
-Planet: IMIAN
+Moon: IMIAN
 Starmap index: 15
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BROOD
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE WITH MORE

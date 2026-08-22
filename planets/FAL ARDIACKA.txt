@@ -1,6 +1,8 @@
-Planet: FAL ARDIACKA
+Moon: FAL ARDIACKA
 Starmap index: 15
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 9
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO

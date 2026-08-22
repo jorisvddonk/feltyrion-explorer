@@ -1,6 +1,8 @@
-Planet: BALLON 6.1
+Moon: BALLON 6.1
 Starmap index: 35
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 6
+Moon id: 0
 
 Guide entries:
 THIS IS THE LARGE MOON I MENTIONED, THOUGH THIS TIME IT'S                   

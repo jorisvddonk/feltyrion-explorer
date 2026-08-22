@@ -1,3 +1,5 @@
-Planet: WINDALL ALPHA PRIME
+Moon: WINDALL ALPHA PRIME
 Starmap index: 07
 Paris coordinates: 2147342544, 2227004, 300300652
+Orbits: WINDALL ALPHA
+Moon id: 0

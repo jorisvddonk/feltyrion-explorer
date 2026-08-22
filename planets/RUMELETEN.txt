@@ -1,6 +1,8 @@
-Planet: RUMELETEN
+Moon: RUMELETEN
 Starmap index: 20
 Paris coordinates: 191792, 393743, -1607331
+Orbits: SELLO
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE FOURTH PLANET. A TAN ROCKY MOON. VERY DIM,

@@ -1,6 +1,8 @@
-Planet: FELICITY
+Moon: FELICITY
 Starmap index: 12
 Paris coordinates: 56784, -50870, 565621
+Orbits: HUT
+Moon id: 0
 
 Guide entries:
  FELISIAN MOON DISC. BY SCAREDY-CAT, 6011.583.794

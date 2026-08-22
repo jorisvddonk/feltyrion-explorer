@@ -1,3 +1,5 @@
-Planet: RASTR GAMMA QUADREX
+Moon: RASTR GAMMA QUADREX
 Starmap index: 11
 Paris coordinates: 1400207440, 1427364, 1398908212
+Orbits: RASTR GAMMA
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: BLUE DANUBE
+Moon: BLUE DANUBE
 Starmap index: 17
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 0
 
 Guide entries:
  THIS MOON GOT ITS NAME FORM THE MELODY I WAS LISENING TO WHILE

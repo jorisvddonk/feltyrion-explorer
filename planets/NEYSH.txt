@@ -1,6 +1,8 @@
-Planet: NEYSH
+Moon: NEYSH
 Starmap index: 12
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: HELYA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. STRANGE REFLECTIVITY

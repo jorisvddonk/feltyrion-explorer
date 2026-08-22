@@ -1,6 +1,8 @@
-Planet: DAVIN KAPPA
+Moon: DAVIN KAPPA
 Starmap index: 42
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 9
 
 Guide entries:
 TENTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

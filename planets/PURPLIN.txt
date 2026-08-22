@@ -1,6 +1,8 @@
-Planet: PURPLIN
+Moon: PURPLIN
 Starmap index: 20
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 12
 
 Guide entries:
 AN AVERAGE THICK ATMO MOON. THIRTEENTH OF THE THIRD PLANET.

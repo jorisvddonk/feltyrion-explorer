@@ -1,6 +1,8 @@
-Planet: VOWBIN IX A
+Moon: VOWBIN IX A
 Starmap index: 29
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 0
 
 Guide entries:
 YELLOW DEADWORLD. VERY BUMPY WITH A LARGE CRATER OR TWO.

@@ -1,3 +1,5 @@
-Planet: FORDUBOR
+Moon: FORDUBOR
 Starmap index: 24
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZURCON
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: VALYX-D-S10-FELYS
+Moon: VALYX-D-S10-FELYS
 Starmap index: 21
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-D
+Moon id: 9

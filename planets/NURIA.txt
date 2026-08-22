@@ -1,3 +1,5 @@
-Planet: NURIA
+Moon: NURIA
 Starmap index: 17
 Paris coordinates: 4090704, 4802659, -1642921
+Orbits: VANSON I
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: ARGONAS 14.9
+Moon: ARGONAS 14.9
 Starmap index: 55
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 14
+Moon id: 8
 
 Guide entries:
  SMALL, LITTLE ICE-BALL. NO SHORTAGE OF THOSE.

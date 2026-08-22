@@ -1,6 +1,8 @@
-Planet: OSPUG
+Moon: OSPUG
 Starmap index: 08
 Paris coordinates: 11019600, 102584, -1066214
+Orbits: EURMIS
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

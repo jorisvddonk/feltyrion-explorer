@@ -1,6 +1,8 @@
-Planet: NAILLE
+Moon: NAILLE
 Starmap index: 21
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 6
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. DARKISH IN APPEARANCE

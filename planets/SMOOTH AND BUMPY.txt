@@ -1,6 +1,8 @@
-Planet: SMOOTH AND BUMPY
+Moon: SMOOTH AND BUMPY
 Starmap index: 23
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 2
 
 Guide entries:
 A GREEN CRATERED MOON OF 'ODD' ON EKA75. SURFACE IS UNIFORMLY

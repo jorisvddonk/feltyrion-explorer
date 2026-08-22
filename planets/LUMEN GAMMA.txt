@@ -1,6 +1,8 @@
-Planet: LUMEN GAMMA
+Moon: LUMEN GAMMA
 Starmap index: 08
 Paris coordinates: 3666416, 5031653, -821054
+Orbits: LUMEN
+Moon id: 2
 
 Guide entries:
 THRID MOON OF PLANET LUMEN IN THE CELESTRA SYSTEM

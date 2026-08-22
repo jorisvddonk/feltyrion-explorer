@@ -1,6 +1,8 @@
-Planet: JOIR
+Moon: JOIR
 Starmap index: 54
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 11
 
 Guide entries:
 M12/P10 SMALL SOLID ICY LIGHT PINK VERY REFLECTIVE, GROOVES INVISIBLE.      

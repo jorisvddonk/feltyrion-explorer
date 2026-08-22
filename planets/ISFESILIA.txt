@@ -1,6 +1,8 @@
-Planet: ISFESILIA
+Moon: ISFESILIA
 Starmap index: 14
 Paris coordinates: 3857872, 5537093, -7120928
+Orbits: planet index 05
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.689.269 -                                

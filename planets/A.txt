@@ -1,6 +1,8 @@
-Planet: A
+Moon: A
 Starmap index: 21
 Paris coordinates: 3497488, 4808808, -704715
+Orbits: TASLARMONN
+Moon id: 0
 
 Guide entries:
 A MOON WITH THIN ATMOSPHERE. POLES APPEAR MUCH BRIGHTER FROM ORBIT THAN THE

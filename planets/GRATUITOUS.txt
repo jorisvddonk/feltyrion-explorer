@@ -1,6 +1,8 @@
-Planet: GRATUITOUS
+Moon: GRATUITOUS
 Starmap index: 16
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: STEX
+Moon id: 3
 
 Guide entries:
 A FELISIAN WORLD- AT 249.60, IT IS HILLY AN WELL FORESTED AND

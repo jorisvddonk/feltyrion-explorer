@@ -1,3 +1,5 @@
-Planet: AE'NDERET  H
+Moon: AE'NDERET  H
 Starmap index: 65
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: AE'NDERET
+Moon id: 7

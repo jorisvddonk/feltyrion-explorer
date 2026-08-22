@@ -1,3 +1,5 @@
-Planet: KARUBY-F-S1
+Moon: KARUBY-F-S1
 Starmap index: 14
 Paris coordinates: 264656, 434473, -3302103
+Orbits: KARUBY-F-FELYS
+Moon id: 0

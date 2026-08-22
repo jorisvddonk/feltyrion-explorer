@@ -1,3 +1,5 @@
-Planet: BLOWOK
+Moon: BLOWOK
 Starmap index: 10
 Paris coordinates: -1273200, -14300100, -1906276
+Orbits: SHEEN
+Moon id: 4

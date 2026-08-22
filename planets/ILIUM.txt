@@ -1,6 +1,8 @@
-Planet: ILIUM
+Moon: ILIUM
 Starmap index: 78
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PARAPET
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY DARK WITH DARK GROOVING.

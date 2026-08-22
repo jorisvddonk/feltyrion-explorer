@@ -1,3 +1,5 @@
-Planet: SPLOTCH
+Moon: SPLOTCH
 Starmap index: 08
 Paris coordinates: 3621776, 4593277, -1283613
+Orbits: QUADSTAR GAMMA
+Moon id: 1

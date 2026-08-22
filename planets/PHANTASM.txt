@@ -1,6 +1,8 @@
-Planet: PHANTASM
+Moon: PHANTASM
 Starmap index: 30
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 5
 
 Guide entries:
 UPDATE:MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN

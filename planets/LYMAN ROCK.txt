@@ -1,6 +1,8 @@
-Planet: LYMAN ROCK
+Moon: LYMAN ROCK
 Starmap index: 19
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: LYMAN RESERVE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NICE DEEP CRATERS

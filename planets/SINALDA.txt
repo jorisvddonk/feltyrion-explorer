@@ -1,3 +1,5 @@
-Planet: SINALDA
+Moon: SINALDA
 Starmap index: 20
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: KLOERP
+Moon id: 0

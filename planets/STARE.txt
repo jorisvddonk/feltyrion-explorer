@@ -1,6 +1,8 @@
-Planet: STARE
+Moon: STARE
 Starmap index: 25
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 4
 
 Guide entries:
 A GREY-GREEN-PINK MOON OF 'ODD' ON EKA75. CLOUD-COVERED. THE VARIOUS

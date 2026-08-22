@@ -1,3 +1,5 @@
-Planet: RYANNO BETA PRIME
+Moon: RYANNO BETA PRIME
 Starmap index: 06
 Paris coordinates: 601679280, 1439556, 55169372
+Orbits: RYANNO BETA
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: BIRD 9.15
+Moon: BIRD 9.15
 Starmap index: 30
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 9
+Moon id: 14
 
 Guide entries:
 FROZEN SOLID, BUT VERY DIFFRENT FROM REGULAR ICEBALLS. IT'S SURFACE

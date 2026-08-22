@@ -1,6 +1,8 @@
-Planet: FRUSTUM
+Moon: FRUSTUM
 Starmap index: 10
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY

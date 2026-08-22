@@ -1,3 +1,5 @@
-Planet: QUITCH
+Moon: QUITCH
 Starmap index: 16
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: QUADRITEIS
+Moon id: 0

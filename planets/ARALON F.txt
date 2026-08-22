@@ -1,6 +1,8 @@
-Planet: ARALON F
+Moon: ARALON F
 Starmap index: 29
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 5
 
 Guide entries:
 A YELLOWISH-BROWN HELLWORLD. (SCHMERM 6011 584.201)

@@ -1,6 +1,8 @@
-Planet: STORMY
+Moon: STORMY
 Starmap index: 21
 Paris coordinates: 1708208, -171588, -197336
+Orbits: planet index 03
+Moon id: 10
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.59

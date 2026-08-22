@@ -1,6 +1,8 @@
-Planet: EVALLO
+Moon: EVALLO
 Starmap index: 27
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. QUITE

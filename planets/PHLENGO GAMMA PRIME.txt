@@ -1,3 +1,5 @@
-Planet: PHLENGO GAMMA PRIME
+Moon: PHLENGO GAMMA PRIME
 Starmap index: 10
 Paris coordinates: 1600572784, 2148138, 54617322
+Orbits: PHLENGO GAMMA
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: CHOLA
+Moon: CHOLA
 Starmap index: 06
 Paris coordinates: 4546064, 5785631, -2639428
+Orbits: SORTAN
+Moon id: 1

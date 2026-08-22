@@ -1,6 +1,8 @@
-Planet: PAMPH
+Moon: PAMPH
 Starmap index: 08
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION II
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH, CRATERED, AND

@@ -1,3 +1,5 @@
-Planet: FELARABALLA
+Moon: FELARABALLA
 Starmap index: 36
 Paris coordinates: 81072, 322514, -244542
+Orbits: GLOBLARA
+Moon id: 17

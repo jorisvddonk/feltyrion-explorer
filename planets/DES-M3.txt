@@ -1,6 +1,8 @@
-Planet: DES-M3
+Moon: DES-M3
 Starmap index: 25
 Paris coordinates: 36432, 433110, -621435
+Orbits: DES4
+Moon id: 5
 
 Guide entries:
 IT IS IMPOSSIBLE TO LAND ON THIS MOON

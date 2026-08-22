@@ -1,6 +1,8 @@
-Planet: BIRD 6.1
+Moon: BIRD 6.1
 Starmap index: 13
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 6
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. QUITE CLOSE TO ITS PLANET.

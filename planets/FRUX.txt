@@ -1,6 +1,8 @@
-Planet: FRUX
+Moon: FRUX
 Starmap index: 21
 Paris coordinates: -3251760, -55767, -2466093
+Orbits: MAYIS 03
+Moon id: 14
 
 Guide entries:
 MAYIS 15/03; FELISIAN

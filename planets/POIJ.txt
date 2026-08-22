@@ -1,6 +1,8 @@
-Planet: POIJ
+Moon: POIJ
 Starmap index: 40
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ILFHLEJ
+Moon id: 6
 
 Guide entries:
 M07/P08 SMALL SOLID ICY. MEDIUM GREY WITH DARK GROOVES THAT SEEM TO BE      

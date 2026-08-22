@@ -1,3 +1,5 @@
-Planet: ZAMIS GAM
+Moon: ZAMIS GAM
 Starmap index: 16
 Paris coordinates: 4147152, 8296636, -6104665
+Orbits: ZAMIS 5
+Moon id: 7

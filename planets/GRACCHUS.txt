@@ -1,6 +1,8 @@
-Planet: GRACCHUS
+Moon: GRACCHUS
 Starmap index: 12
 Paris coordinates: 8898576, -169784, -9929350
+Orbits: ENIGMA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS APPEAR

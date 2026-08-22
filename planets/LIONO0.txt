@@ -1,3 +1,5 @@
-Planet: LIONO0
+Moon: LIONO0
 Starmap index: 24
 Paris coordinates: -363568, 871605, -260129
+Orbits: planet index 05
+Moon id: 2

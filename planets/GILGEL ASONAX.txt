@@ -1,3 +1,5 @@
-Planet: GILGEL ASONAX
+Moon: GILGEL ASONAX
 Starmap index: 11
 Paris coordinates: 32496, -31155479, 1002557
+Orbits: PILOKE 3
+Moon id: 1

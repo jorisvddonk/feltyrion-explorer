@@ -1,6 +1,8 @@
-Planet: HEART ATTACK
+Moon: HEART ATTACK
 Starmap index: 10
 Paris coordinates: 3973200, 4221255, -548021
+Orbits: SHOCK
+Moon id: 2
 
 Guide entries:
 DISCOVERED 6011.564.763.495 BY JEREMY HUSSELL

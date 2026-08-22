@@ -1,3 +1,5 @@
-Planet: OPALE
+Moon: OPALE
 Starmap index: 24
 Paris coordinates: 3473200, 4782739, 43271
+Orbits: GIALDORIA VII/LOCKET
+Moon id: 9

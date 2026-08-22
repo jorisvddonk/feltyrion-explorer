@@ -1,3 +1,5 @@
-Planet: JACKHAMMER
+Moon: JACKHAMMER
 Starmap index: 64
 Paris coordinates: 70352, 945533, 1134813
+Orbits: GASTRIX
+Moon id: 10

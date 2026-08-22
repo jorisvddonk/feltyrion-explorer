@@ -1,3 +1,5 @@
-Planet: MELOGRANO
+Moon: MELOGRANO
 Starmap index: 29
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 13

@@ -1,6 +1,8 @@
-Planet: EVORA 4.7
+Moon: EVORA 4.7
 Starmap index: 17
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 4
+Moon id: 6
 
 Guide entries:
 ANOTHER ONE OF THOSE ICY WORLDS - POSSIBLY A REMNANT FROM THE

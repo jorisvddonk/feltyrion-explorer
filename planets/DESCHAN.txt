@@ -1,6 +1,8 @@
-Planet: DESCHAN
+Moon: DESCHAN
 Starmap index: 06
 Paris coordinates: -19992720, 825692, -11405730
+Orbits: planet index 04
+Moon id: 0
 
 Guide entries:
 VEIHAK 01/04; QUARTZ

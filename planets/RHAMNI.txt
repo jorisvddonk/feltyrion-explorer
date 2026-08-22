@@ -1,3 +1,5 @@
-Planet: RHAMNI
+Moon: RHAMNI
 Starmap index: 18
 Paris coordinates: -61439376, 29916264, 239760
+Orbits: JB 78
+Moon id: 5

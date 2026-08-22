@@ -1,6 +1,8 @@
-Planet: OUCA
+Moon: OUCA
 Starmap index: 21
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK BUT A LIGHT AREA IS NOTED, GOOD

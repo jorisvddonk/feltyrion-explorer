@@ -1,3 +1,5 @@
-Planet: EDAK
+Moon: EDAK
 Starmap index: 16
 Paris coordinates: -83920, 6858315, -1735966
+Orbits: TIMIKO
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: H20
+Moon: H20
 Starmap index: 35
 Paris coordinates: -21340784, 17982045, 37379397
+Orbits: planet index 05
+Moon id: 7
 
 Guide entries:
  FELISIAN PLANET OF STAR FODUCK. THIS PLANET CONSISTS MOSTLY OF OCEAN,

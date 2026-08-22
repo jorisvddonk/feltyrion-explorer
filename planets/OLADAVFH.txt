@@ -1,6 +1,8 @@
-Planet: OLADAVFH
+Moon: OLADAVFH
 Starmap index: 13
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 9
 
 Guide entries:
 M10/P03 SMALL SOLID DUSTY, SMALLISH CRATERS WITH BRIGHT GREEN               

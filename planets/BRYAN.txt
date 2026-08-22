@@ -1,6 +1,8 @@
-Planet: BRYAN
+Moon: BRYAN
 Starmap index: 10
 Paris coordinates: -525712, 333043, 1256
+Orbits: ELIZABETH'S PARADISE
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERD BY ASHNOD. EPOC 6011 - 663.282.

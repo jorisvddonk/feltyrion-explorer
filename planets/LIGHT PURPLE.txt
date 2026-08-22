@@ -1,6 +1,8 @@
-Planet: LIGHT PURPLE
+Moon: LIGHT PURPLE
 Starmap index: 65
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 15
 
 Guide entries:
 CRATERIZED MOON ORBITING FERTILE MINISTAR ON EKA24. --EKA

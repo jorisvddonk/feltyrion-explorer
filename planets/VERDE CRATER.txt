@@ -1,6 +1,8 @@
-Planet: VERDE CRATER
+Moon: VERDE CRATER
 Starmap index: 09
 Paris coordinates: 4459632, 4949965, -2023422
+Orbits: BLANQUILIN
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.751 -                               

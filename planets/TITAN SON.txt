@@ -1,3 +1,5 @@
-Planet: TITAN SON
+Moon: TITAN SON
 Starmap index: 09
 Paris coordinates: 4904272, 4729963, -1676767
+Orbits: PROMETEI
+Moon id: 0

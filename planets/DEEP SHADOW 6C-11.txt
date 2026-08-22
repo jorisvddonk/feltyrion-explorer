@@ -1,3 +1,5 @@
-Planet: DEEP SHADOW 6C-11
+Moon: DEEP SHADOW 6C-11
 Starmap index: 21
 Paris coordinates: 1396176, 219138, -1499926110
+Orbits: DEEP SHADOW 6C
+Moon id: 10

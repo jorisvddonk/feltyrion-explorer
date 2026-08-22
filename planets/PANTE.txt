@@ -1,6 +1,8 @@
-Planet: PANTE
+Moon: PANTE
 Starmap index: 17
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: MOGHA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATELY REFLECTIVITE

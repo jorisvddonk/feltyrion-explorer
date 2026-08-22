@@ -1,6 +1,8 @@
-Planet: SEYMOUR
+Moon: SEYMOUR
 Starmap index: 07
 Paris coordinates: 181072, 46421, -227392
+Orbits: SPECIOUS
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.344

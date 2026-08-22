@@ -1,6 +1,8 @@
-Planet: SKYGEM B5
+Moon: SKYGEM B5
 Starmap index: 14
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 4
 
 Guide entries:
  A SMALL PLANET, ONLY NOTED FOR ITS HIGH NUMBER OF IMPACT CRATERS.

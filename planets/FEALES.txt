@@ -1,6 +1,8 @@
-Planet: FEALES
+Moon: FEALES
 Starmap index: 21
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: RIAS
+Moon id: 1
 
 Guide entries:
 A DIM PLANET, NOTHING OF REAL INTEREST, BRIGHT SPOTS TAKE ON

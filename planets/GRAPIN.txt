@@ -1,6 +1,8 @@
-Planet: GRAPIN
+Moon: GRAPIN
 Starmap index: 20
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: GASSY 1
+Moon id: 3
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.189

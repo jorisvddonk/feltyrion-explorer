@@ -1,6 +1,8 @@
-Planet: GRETEAL
+Moon: GRETEAL
 Starmap index: 31
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 12
 
 Guide entries:
 *NINTH* PLANET OF ITS KIND ALREADY! YAY!

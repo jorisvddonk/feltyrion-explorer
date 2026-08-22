@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 5
+Moon: CONGLOMOON 5
 Starmap index: 14
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 8
 
 Guide entries:
 FIFTH MOON AND COUNTING. WILL LAND IN SINGLE CRATER:PURPLE...?

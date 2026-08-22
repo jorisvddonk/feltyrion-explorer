@@ -1,3 +1,5 @@
-Planet: GOZ
+Moon: GOZ
 Starmap index: 24
 Paris coordinates: 670352, 437173, 502845
+Orbits: CLAVAIRIUM
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: CIVILIS
+Moon: CIVILIS
 Starmap index: 29
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 11
 
 Guide entries:
 A FELISIAN WORLD-BLUE IN COLOR WITH LARGE BODIES OF WATER. AT 252.60

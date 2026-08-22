@@ -1,3 +1,5 @@
-Planet: LIVING MOON
+Moon: LIVING MOON
 Starmap index: 06
 Paris coordinates: 4259632, 5344350, -1544840
+Orbits: planet index 03
+Moon id: 0

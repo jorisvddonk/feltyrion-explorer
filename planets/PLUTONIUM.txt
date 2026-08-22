@@ -1,3 +1,5 @@
-Planet: PLUTONIUM
+Moon: PLUTONIUM
 Starmap index: 06
 Paris coordinates: 263568, -3297, 572181
+Orbits: KRETAIS
+Moon id: 1

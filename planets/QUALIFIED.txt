@@ -1,6 +1,8 @@
-Planet: QUALIFIED
+Moon: QUALIFIED
 Starmap index: 24
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, GOOD POLAR CAPS. SKINNYMON

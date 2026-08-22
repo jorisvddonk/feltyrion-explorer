@@ -1,3 +1,5 @@
-Planet: BRACHTAR M
+Moon: BRACHTAR M
 Starmap index: 27
 Paris coordinates: 4277136, -66332076, -2510220
+Orbits: BRACHTAR
+Moon id: 12

@@ -1,6 +1,8 @@
-Planet: GOAT 7.1
+Moon: GOAT 7.1
 Starmap index: 38
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 7
+Moon id: 0
 
 Guide entries:
 IT'S A WONDER THAT THIS MOON STILL EXISTS - ABOUT 50 PERCENT OF ITS

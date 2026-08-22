@@ -1,6 +1,8 @@
-Planet: ATICTU
+Moon: ATICTU
 Starmap index: 27
 Paris coordinates: 2770352, 4738986, -1565908
+Orbits: URPUR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SOMEWHAT DARK IN

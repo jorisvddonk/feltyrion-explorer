@@ -1,6 +1,8 @@
-Planet: MANTIS
+Moon: MANTIS
 Starmap index: 08
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 0
 
 Guide entries:
 UPDATE: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SMALL AND LARGE

@@ -1,6 +1,8 @@
-Planet: FELIS 5.2
+Moon: FELIS 5.2
 Starmap index: 09
 Paris coordinates: -1626800, 33322066, 4959862
+Orbits: FELIS 5
+Moon id: 1
 
 Guide entries:
  THIS IS THE FIRST FELISIAN WORLD SO FAR DETECTED IN THIS SYSTEM.

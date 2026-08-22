@@ -1,6 +1,8 @@
-Planet: ATAFOTJI
+Moon: ATAFOTJI
 Starmap index: 23
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 15
 
 Guide entries:
 M16/P04DUSTY. FAIR REFLECTIVITY WITH LARGES RAYED CRATERS LOST AMONG

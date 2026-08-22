@@ -1,6 +1,8 @@
-Planet: SUPERPOSE
+Moon: SUPERPOSE
 Starmap index: 24
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERCHARGER
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

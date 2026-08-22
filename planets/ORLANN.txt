@@ -1,6 +1,8 @@
-Planet: ORLANN
+Moon: ORLANN
 Starmap index: 18
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 7
 
 Guide entries:
 A PALE YELLOW DEADWORLD. SEVERAL VERY LARGE DEEP CRATERS ALONG WITH

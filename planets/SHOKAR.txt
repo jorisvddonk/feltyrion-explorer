@@ -1,6 +1,8 @@
-Planet: SHOKAR
+Moon: SHOKAR
 Starmap index: 07
 Paris coordinates: 3363568, 4338782, -2645725
+Orbits: KARSIF
+Moon id: 1
 
 Guide entries:
  A DIMLY LIT MOON WITH IRON-RICH RED SOIL.                                  

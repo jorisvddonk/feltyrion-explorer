@@ -1,3 +1,5 @@
-Planet: AZUL
+Moon: AZUL
 Starmap index: 17
 Paris coordinates: 5190704, 5528316, -2752182
+Orbits: VENOM
+Moon id: 8

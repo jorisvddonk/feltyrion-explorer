@@ -1,3 +1,5 @@
-Planet: M04-0472 C9
+Moon: M04-0472 C9
 Starmap index: 15
 Paris coordinates: -38816752, 1405498, 31086787
+Orbits: M04-0472 C
+Moon id: 8

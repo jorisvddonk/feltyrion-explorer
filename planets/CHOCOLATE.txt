@@ -1,6 +1,8 @@
-Planet: CHOCOLATE
+Moon: CHOCOLATE
 Starmap index: 32
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 6
 
 Guide entries:
 A GAS GIANT THAT HAS VERY CHOCOLATEY-LOOKING COLORS.

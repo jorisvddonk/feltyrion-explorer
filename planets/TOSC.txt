@@ -1,6 +1,8 @@
-Planet: TOSC
+Moon: TOSC
 Starmap index: 25
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SLIGHTLY DARKISH MAIN

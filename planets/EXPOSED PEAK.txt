@@ -1,6 +1,8 @@
-Planet: EXPOSED PEAK
+Moon: EXPOSED PEAK
 Starmap index: 09
 Paris coordinates: -1431183248, 1122582, 1439019398
+Orbits: FAL NOKTAS
+Moon id: 0
 
 Guide entries:
 SMALL, DUSTY, CRATERIZED, NO-AT. SOLE LANDING BROUGHT ME TO                 

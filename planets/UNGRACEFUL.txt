@@ -1,6 +1,8 @@
-Planet: UNGRACEFUL
+Moon: UNGRACEFUL
 Starmap index: 24
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: DOWNER
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO

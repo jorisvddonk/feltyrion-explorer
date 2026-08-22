@@ -1,3 +1,5 @@
-Planet: FESCHNOGOOR
+Moon: FESCHNOGOOR
 Starmap index: 32
 Paris coordinates: 81072, -77486, -118953
+Orbits: BODERON
+Moon id: 5

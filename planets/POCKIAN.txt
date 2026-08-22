@@ -1,6 +1,8 @@
-Planet: POCKIAN
+Moon: POCKIAN
 Starmap index: 31
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 7
 
 Guide entries:
 PINK PLANET, NOT SEE THROUGH, HOWEVER, RARE SIGHTINGS OF 6 SIDED

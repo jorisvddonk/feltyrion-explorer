@@ -1,6 +1,8 @@
-Planet: LOCKE
+Moon: LOCKE
 Starmap index: 04
 Paris coordinates: 6055696, 4869327, -1856127
+Orbits: COMBE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE TO MEDIUM SIZED

@@ -1,6 +1,8 @@
-Planet: TATRON IOTA
+Moon: TATRON IOTA
 Starmap index: 75
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 8
 
 Guide entries:
 NINETH MOON OF PLANET TATRON IN THE GENISI SYSTEM

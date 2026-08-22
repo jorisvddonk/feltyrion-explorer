@@ -1,3 +1,5 @@
-Planet: ASKEW 61P1
+Moon: ASKEW 61P1
 Starmap index: 50
 Paris coordinates: 11052016, -19359857, 17958827
+Orbits: ALABRASTERA
+Moon id: 0

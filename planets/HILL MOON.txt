@@ -1,3 +1,5 @@
-Planet: HILL MOON
+Moon: HILL MOON
 Starmap index: 08
 Paris coordinates: 4486768, 4507317, -341658
+Orbits: DARK SHADOW
+Moon id: 0

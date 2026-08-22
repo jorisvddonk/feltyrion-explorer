@@ -1,6 +1,8 @@
-Planet: IMPAR
+Moon: IMPAR
 Starmap index: 32
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, HAS A COUPLE OF POSSIBLE

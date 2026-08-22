@@ -1,6 +1,8 @@
-Planet: DUIZ ALPHA
+Moon: DUIZ ALPHA
 Starmap index: 15
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DUIZ
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET DUIZ IN THE GENISI SYSTEM

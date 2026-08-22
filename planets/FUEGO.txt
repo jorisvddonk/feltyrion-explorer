@@ -1,3 +1,5 @@
-Planet: FUEGO
+Moon: FUEGO
 Starmap index: 04
 Paris coordinates: -144498416, -2774210, 108932822
+Orbits: ENRIQUE
+Moon id: 1

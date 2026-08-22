@@ -1,3 +1,5 @@
-Planet: SCATHED
+Moon: SCATHED
 Starmap index: 14
 Paris coordinates: 5086768, 5035065, -926113
+Orbits: planet index 05
+Moon id: 2

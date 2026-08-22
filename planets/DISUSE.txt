@@ -1,6 +1,8 @@
-Planet: DISUSE
+Moon: DISUSE
 Starmap index: 13
 Paris coordinates: 87856, -5814, 275087
+Orbits: SWANK
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. EXTREME REFLECTIVITY

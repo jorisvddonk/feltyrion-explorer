@@ -1,3 +1,5 @@
-Planet: SARASTADT
+Moon: SARASTADT
 Starmap index: 11
 Paris coordinates: 1424, 60400, 1154420
+Orbits: KREUBER
+Moon id: 2

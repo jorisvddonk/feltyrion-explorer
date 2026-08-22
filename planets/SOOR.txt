@@ -1,6 +1,8 @@
-Planet: SOOR
+Moon: SOOR
 Starmap index: 17
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SCARRED AND CRATERED.

@@ -1,3 +1,5 @@
-Planet: JOLONUSAT
+Moon: JOLONUSAT
 Starmap index: 10
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: SECYAMAN C
+Moon id: 0

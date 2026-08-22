@@ -1,3 +1,5 @@
-Planet: AEX-05-E
+Moon: AEX-05-E
 Starmap index: 18
 Paris coordinates: 598576, 4279484, -1591122
+Orbits: AEX-05
+Moon id: 4

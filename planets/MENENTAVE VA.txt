@@ -1,6 +1,8 @@
-Planet: MENENTAVE VA
+Moon: MENENTAVE VA
 Starmap index: 17
 Paris coordinates: -56784, -84307, -221013
+Orbits: MENENTAVE V
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ALMOST A TWIN FOR

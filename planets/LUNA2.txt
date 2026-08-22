@@ -1,6 +1,8 @@
-Planet: LUNA2
+Moon: LUNA2
 Starmap index: 05
 Paris coordinates: 1877136, 4342805, -337055
+Orbits: EARTH2
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY PICHERITY, EPOC 6011 683.397                                  

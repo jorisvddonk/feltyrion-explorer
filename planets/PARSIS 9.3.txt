@@ -1,6 +1,8 @@
-Planet: PARSIS 9.3
+Moon: PARSIS 9.3
 Starmap index: 28
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 2
 
 Guide entries:
  AN ICE WORLD WITH AN EXTREMELY SMOOTH SURFACE, INDICATING THAT ITS

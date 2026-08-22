@@ -1,6 +1,8 @@
-Planet: INSIDIOR
+Moon: INSIDIOR
 Starmap index: 44
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 1
 
 Guide entries:
 M03/10 FELISIAN, WITH A SLIGHT GREEN GLOW ON THE CLODTOPS OF THIS           

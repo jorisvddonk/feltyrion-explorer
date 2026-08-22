@@ -1,6 +1,8 @@
-Planet: TRIVIALITY
+Moon: TRIVIALITY
 Starmap index: 47
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 7
 
 Guide entries:
 A FELISIAN WORLD- YES, OUT HERE. IT HAS A SURFACE TEMPERATURE NEAR

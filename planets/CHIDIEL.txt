@@ -1,6 +1,8 @@
-Planet: CHIDIEL
+Moon: CHIDIEL
 Starmap index: 35
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 3
 
 Guide entries:
 THE FOURTH MOON OF THE FIFTEENTH PLANET, PERDISTA. DARK BROWN ICY MOON

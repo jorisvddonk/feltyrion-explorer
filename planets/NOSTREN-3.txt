@@ -1,3 +1,5 @@
-Planet: NOSTREN-3
+Moon: NOSTREN-3
 Starmap index: 66
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NIDALIS
+Moon id: 6

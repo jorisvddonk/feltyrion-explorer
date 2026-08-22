@@ -1,6 +1,8 @@
-Planet: SOME CALL ME TIM
+Moon: SOME CALL ME TIM
 Starmap index: 09
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. BIRDS AND

@@ -1,6 +1,8 @@
-Planet: RAUNASIA
+Moon: RAUNASIA
 Starmap index: 11
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: GANAIA
+Moon id: 4
 
 Guide entries:
  BREATHABLE ATMOSPHERE. NO LIFE SEEN ON FIRST VISIT TO SURFACE.

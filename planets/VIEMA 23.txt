@@ -1,6 +1,8 @@
-Planet: VIEMA 23
+Moon: VIEMA 23
 Starmap index: 23
 Paris coordinates: 1670352, 5452727, -278138
+Orbits: planet index 05
+Moon id: 4
 
 Guide entries:
  FELISIAN WORLD DISCOVERED BY POKECAT(997.195.220)

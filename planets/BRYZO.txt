@@ -1,6 +1,8 @@
-Planet: BRYZO
+Moon: BRYZO
 Starmap index: 17
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: STEX
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. MANY LARGE CRATERS.

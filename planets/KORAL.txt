@@ -1,3 +1,5 @@
-Planet: KORAL
+Moon: KORAL
 Starmap index: 18
 Paris coordinates: 270352, 5086437, 857022
+Orbits: ROWLING
+Moon id: 5

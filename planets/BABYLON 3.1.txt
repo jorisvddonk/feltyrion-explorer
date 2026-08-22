@@ -1,6 +1,8 @@
-Planet: BABYLON 3.1
+Moon: BABYLON 3.1
 Starmap index: 13
 Paris coordinates: 453936, 4600516, -2135969
+Orbits: BABYLON 3
+Moon id: 0
 
 Guide entries:
  THIS MOON HAS ALMOST BROKEN APPART DUE TO GRAVETATIONAL STRESS.

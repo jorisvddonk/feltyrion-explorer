@@ -1,3 +1,5 @@
-Planet: WILL BE
+Moon: WILL BE
 Starmap index: 18
 Paris coordinates: 356784, -74457, 270756
+Orbits: planet index 05
+Moon id: 4

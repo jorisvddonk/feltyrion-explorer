@@ -1,3 +1,5 @@
-Planet: EXXEQUIS-3
+Moon: EXXEQUIS-3
 Starmap index: 80
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NESIMA
+Moon id: 6

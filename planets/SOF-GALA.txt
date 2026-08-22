@@ -1,6 +1,8 @@
-Planet: SOF-GALA
+Moon: SOF-GALA
 Starmap index: 27
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 15
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.901 -                               

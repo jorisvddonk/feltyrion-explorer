@@ -1,6 +1,8 @@
-Planet: FAJAD ETA
+Moon: FAJAD ETA
 Starmap index: 22
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

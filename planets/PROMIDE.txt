@@ -1,6 +1,8 @@
-Planet: PROMIDE
+Moon: PROMIDE
 Starmap index: 09
 Paris coordinates: -443216, 735706, 871493
+Orbits: FEEBLE BLUE
+Moon id: 0
 
 Guide entries:
 STRANGELY I FOUND HOPE AND PROMISE ON THIS DESOLATE MOON

@@ -1,6 +1,8 @@
-Planet: SURYLIN
+Moon: SURYLIN
 Starmap index: 05
 Paris coordinates: 3963568, 4820590, -3218725
+Orbits: CUNAXA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. NO STORMS

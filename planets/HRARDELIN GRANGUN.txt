@@ -1,3 +1,5 @@
-Planet: HRARDELIN GRANGUN
+Moon: HRARDELIN GRANGUN
 Starmap index: 17
 Paris coordinates: 58795344, -33712659, 927379101
+Orbits: URUTHERNARITHIM
+Moon id: 0

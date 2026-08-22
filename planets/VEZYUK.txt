@@ -1,6 +1,8 @@
-Planet: VEZYUK
+Moon: VEZYUK
 Starmap index: 11
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. VERY

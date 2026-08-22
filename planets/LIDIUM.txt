@@ -1,6 +1,8 @@
-Planet: LIDIUM
+Moon: LIDIUM
 Starmap index: 24
 Paris coordinates: 377136, 935675, 1401841
+Orbits: ZUPITER
+Moon id: 11
 
 Guide entries:
 (INHABITABLE PLANET DISCOVERED BY THE GREAT DEMENTO)

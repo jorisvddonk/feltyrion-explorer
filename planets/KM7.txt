@@ -1,3 +1,5 @@
-Planet: KM7
+Moon: KM7
 Starmap index: 07
 Paris coordinates: -4546064, 7347, 2982617
+Orbits: K4
+Moon id: 0

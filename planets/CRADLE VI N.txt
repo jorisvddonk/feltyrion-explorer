@@ -1,6 +1,8 @@
-Planet: CRADLE VI N
+Moon: CRADLE VI N
 Starmap index: 55
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VI
+Moon id: 13
 
 Guide entries:
 PINK DEADWORLD WITH SOME NASTY CRATERS. (SCHMERM 6011 592.878)

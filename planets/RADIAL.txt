@@ -1,6 +1,8 @@
-Planet: RADIAL
+Moon: RADIAL
 Starmap index: 25
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE, CRATERIZED. SKINNYMON EPOC

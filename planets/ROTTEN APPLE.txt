@@ -1,6 +1,8 @@
-Planet: ROTTEN APPLE
+Moon: ROTTEN APPLE
 Starmap index: 35
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 4
 
 Guide entries:
 SECOND HELLWORLD MOON OF ZEMERON. (SCHMERM 6011 582.657)

@@ -1,6 +1,8 @@
-Planet: KECTO
+Moon: KECTO
 Starmap index: 34
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DIFLAE
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATE GREY REFLECTIVITY

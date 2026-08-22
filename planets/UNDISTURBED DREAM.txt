@@ -1,3 +1,5 @@
-Planet: UNDISTURBED DREAM
+Moon: UNDISTURBED DREAM
 Starmap index: 40
 Paris coordinates: 570352, -17743, 592279
+Orbits: SHIMMER
+Moon id: 0

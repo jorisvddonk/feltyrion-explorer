@@ -1,6 +1,8 @@
-Planet: SODIC
+Moon: SODIC
 Starmap index: 38
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY LIGHTFEATURES NOTED.

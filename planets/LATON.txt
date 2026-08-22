@@ -1,6 +1,8 @@
-Planet: LATON
+Moon: LATON
 Starmap index: 30
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: ERMION
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

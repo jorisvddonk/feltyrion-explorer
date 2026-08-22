@@ -1,6 +1,8 @@
-Planet: EGENER
+Moon: EGENER
 Starmap index: 10
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: DELBER
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.A VERY STRANGE COMPOSITE

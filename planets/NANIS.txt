@@ -1,3 +1,5 @@
-Planet: NANIS
+Moon: NANIS
 Starmap index: 47
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: ATOMIKA
+Moon id: 13

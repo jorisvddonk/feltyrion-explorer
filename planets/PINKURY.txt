@@ -1,6 +1,8 @@
-Planet: PINKURY
+Moon: PINKURY
 Starmap index: 24
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: BRIDAR
+Moon id: 2
 
 Guide entries:
 A PINK INTERNALLY HOT MOON. THIRD OF THE EIGHTH PLANET.

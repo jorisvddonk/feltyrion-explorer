@@ -1,6 +1,8 @@
-Planet: ALIRM
+Moon: ALIRM
 Starmap index: 28
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. NOT VERY REFLECTIVE, ON THE

@@ -1,6 +1,8 @@
-Planet: KAFESEEB
+Moon: KAFESEEB
 Starmap index: 13
 Paris coordinates: 4700336, 5332862, 183252
+Orbits: planet index 07
+Moon id: 0
 
 Guide entries:
 NAME MEANS ROUGHLY 'THE FROZEN ONE' IN GAMMA GLYPH.

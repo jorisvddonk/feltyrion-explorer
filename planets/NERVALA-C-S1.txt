@@ -1,3 +1,5 @@
-Planet: NERVALA-C-S1
+Moon: NERVALA-C-S1
 Starmap index: 06
 Paris coordinates: 3027888, -571017, -9937342
+Orbits: NERVALA-C
+Moon id: 0

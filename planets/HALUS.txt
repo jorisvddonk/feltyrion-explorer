@@ -1,6 +1,8 @@
-Planet: HALUS
+Moon: HALUS
 Starmap index: 07
 Paris coordinates: -1290448, 2491256, 22212119
+Orbits: JUNGAL
+Moon id: 2
 
 Guide entries:
 PRETTY INTERESTING MOON, SURFACE COLOR RANGES FROM YELLOW TO GREENISH

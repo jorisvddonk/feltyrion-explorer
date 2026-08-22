@@ -1,6 +1,8 @@
-Planet: BASP GAMMA
+Moon: BASP GAMMA
 Starmap index: 78
 Paris coordinates: 612144, 6999853, -833727
+Orbits: BASP
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF PLANET BASP IN THE GENISI SYSTEM

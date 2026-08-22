@@ -1,6 +1,8 @@
-Planet: SUPERFIX
+Moon: SUPERFIX
 Starmap index: 17
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERCHARGER
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLE CAPS, BORING.

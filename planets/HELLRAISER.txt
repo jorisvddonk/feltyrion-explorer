@@ -1,6 +1,8 @@
-Planet: HELLRAISER
+Moon: HELLRAISER
 Starmap index: 32
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 7
 
 Guide entries:
 UPDATE:SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ACTUALLY

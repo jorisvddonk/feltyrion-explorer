@@ -1,6 +1,8 @@
-Planet: NAKIFOR
+Moon: NAKIFOR
 Starmap index: 31
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 16
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. FAIR GREEN REFLECTIVITY

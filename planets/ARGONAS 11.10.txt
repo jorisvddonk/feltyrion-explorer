@@ -1,6 +1,8 @@
-Planet: ARGONAS 11.10
+Moon: ARGONAS 11.10
 Starmap index: 39
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 11
+Moon id: 9
 
 Guide entries:
  AN ICE-BALL WITH A STRANGE LOOKING, ORANGE SURFACE. LOTS OF

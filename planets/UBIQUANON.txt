@@ -1,6 +1,8 @@
-Planet: UBIQUANON
+Moon: UBIQUANON
 Starmap index: 29
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 18
 
 Guide entries:
 THIS IS A GREEN DEADWORLD WHICH IS HEAVILY CRATERED BY SEVERAL

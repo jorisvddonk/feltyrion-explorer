@@ -1,6 +1,8 @@
-Planet: LACQUER
+Moon: LACQUER
 Starmap index: 29
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: OBOVOID
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK WITH SOME LIGHT AREAS NOTED,

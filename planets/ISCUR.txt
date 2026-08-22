@@ -1,6 +1,8 @@
-Planet: ISCUR
+Moon: ISCUR
 Starmap index: 24
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: POYSUR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATE BLUE

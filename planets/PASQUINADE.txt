@@ -1,6 +1,8 @@
-Planet: PASQUINADE
+Moon: PASQUINADE
 Starmap index: 25
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 12
 
 Guide entries:
 A FELISIAN WORLD. ALL 3 LANDINGS (306.62, 217.88, AND 300.41) WERE

@@ -1,3 +1,5 @@
-Planet: ABAHLIKIS
+Moon: ABAHLIKIS
 Starmap index: 27
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: SECYAMAN D
+Moon id: 7

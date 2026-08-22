@@ -1,3 +1,5 @@
-Planet: QWAHR PREDEX PRIL
+Moon: QWAHR PREDEX PRIL
 Starmap index: 79
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR PREDEX
+Moon id: 0

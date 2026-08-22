@@ -1,6 +1,8 @@
-Planet: HADCHA
+Moon: HADCHA
 Starmap index: 24
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A FEW STORMS

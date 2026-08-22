@@ -1,3 +1,5 @@
-Planet: DREILIASDRENG
+Moon: DREILIASDRENG
 Starmap index: 22
 Paris coordinates: 58564272, -34151242, 927662134
+Orbits: GRUELIHEHNGEL
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: MOOT
+Moon: MOOT
 Starmap index: 10
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 2
 
 Guide entries:
 UPDATE:SMALL, SOLID, THIN ATMOSPHERE. A DARK WORLD WITH NICE POLAR CAPS

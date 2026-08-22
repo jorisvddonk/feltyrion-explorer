@@ -1,6 +1,8 @@
-Planet: AVRIL 14
+Moon: AVRIL 14
 Starmap index: 35
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 17
 
 Guide entries:
 THIS FELISIAN MOON HAS MUCH OF ITS SURFACE AREA COVERED BY OCEANS.

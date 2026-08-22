@@ -1,6 +1,8 @@
-Planet: BYFI2-2
+Moon: BYFI2-2
 Starmap index: 08
 Paris coordinates: -178224, -1278064, 2452536
+Orbits: BYFI2
+Moon id: 1
 
 Guide entries:
 GAS GIANT.

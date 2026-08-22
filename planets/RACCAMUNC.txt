@@ -1,6 +1,8 @@
-Planet: RACCAMUNC
+Moon: RACCAMUNC
 Starmap index: 43
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO SOLA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:797.629)             

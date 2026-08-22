@@ -1,6 +1,8 @@
-Planet: YUINCA B XIII
+Moon: YUINCA B XIII
 Starmap index: 29
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA B
+Moon id: 12
 
 Guide entries:
  A THIN ATMOSPHERE WORLD.

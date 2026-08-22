@@ -1,3 +1,5 @@
-Planet: SHAISON
+Moon: SHAISON
 Starmap index: 21
 Paris coordinates: -156784, 37190, -85076
+Orbits: SHEFFEYIE
+Moon id: 6

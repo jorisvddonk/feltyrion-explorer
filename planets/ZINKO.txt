@@ -1,3 +1,5 @@
-Planet: ZINKO
+Moon: ZINKO
 Starmap index: 13
 Paris coordinates: 4097488, 5032993, -1271647
+Orbits: BINK
+Moon id: 2

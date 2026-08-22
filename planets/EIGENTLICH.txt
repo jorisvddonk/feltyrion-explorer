@@ -1,3 +1,5 @@
-Planet: EIGENTLICH
+Moon: EIGENTLICH
 Starmap index: 32
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: NUFIOUS
+Moon id: 4

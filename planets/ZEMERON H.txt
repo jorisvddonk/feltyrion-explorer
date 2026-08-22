@@ -1,6 +1,8 @@
-Planet: ZEMERON H
+Moon: ZEMERON H
 Starmap index: 38
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 7
 
 Guide entries:
 A SMALL SHINY GREEN QUARTZWORLD. (SCHMERM 6011 582.860)

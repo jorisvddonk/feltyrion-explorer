@@ -1,6 +1,8 @@
-Planet: PABULUM
+Moon: PABULUM
 Starmap index: 33
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED. SKINNYMON

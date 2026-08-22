@@ -1,6 +1,8 @@
-Planet: MUAK
+Moon: MUAK
 Starmap index: 21
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: ASRESQUED
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A FAIRLY REFLECTIVE GREY

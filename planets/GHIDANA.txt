@@ -1,6 +1,8 @@
-Planet: GHIDANA
+Moon: GHIDANA
 Starmap index: 65
 Paris coordinates: -1128560, -539771, -1463575
+Orbits: ZARA 15
+Moon id: 9
 
 Guide entries:
 ZARA 10/15

@@ -1,3 +1,5 @@
-Planet: YNBERULLINA
+Moon: YNBERULLINA
 Starmap index: 06
 Paris coordinates: 14847824, 32038901, -7119055
+Orbits: AUSTENAEDERN'S WIFE
+Moon id: 0

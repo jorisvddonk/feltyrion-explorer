@@ -1,6 +1,8 @@
-Planet: VACANCY
+Moon: VACANCY
 Starmap index: 38
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: OXALIS
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, GOOD POLAR CAPS.

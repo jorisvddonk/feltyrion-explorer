@@ -1,3 +1,5 @@
-Planet: 3DACTIONPLANET
+Moon: 3DACTIONPLANET
 Starmap index: 15
 Paris coordinates: 3194640, 4015176, -2454232
+Orbits: PLANET HARDWARE
+Moon id: 9

@@ -1,3 +1,5 @@
-Planet: BRAZA18
+Moon: BRAZA18
 Starmap index: 18
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 11

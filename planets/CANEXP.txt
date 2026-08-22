@@ -1,6 +1,8 @@
-Planet: CANEXP
+Moon: CANEXP
 Starmap index: 15
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 7
 
 Guide entries:
 AN AVERAGE THICK ATMO WORLD, THE EIGHTH MOON OF THE THIRD PLANET.

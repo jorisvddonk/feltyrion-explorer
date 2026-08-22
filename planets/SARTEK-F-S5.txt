@@ -1,3 +1,5 @@
-Planet: SARTEK-F-S5
+Moon: SARTEK-F-S5
 Starmap index: 19
 Paris coordinates: 1336432, 2836394, -1949812
+Orbits: SARTEK-F
+Moon id: 4

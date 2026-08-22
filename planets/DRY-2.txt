@@ -1,6 +1,8 @@
-Planet: DRY-2
+Moon: DRY-2
 Starmap index: 45
 Paris coordinates: 3381072, 4748191, -3496654
+Orbits: planet index 06
+Moon id: 3
 
 Guide entries:
  FELISIA PLANET OF SO3 STAR SOHO.DISC BY SCAREDY-CAT6011.586.907

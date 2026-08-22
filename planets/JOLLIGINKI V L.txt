@@ -1,3 +1,5 @@
-Planet: JOLLIGINKI V L
+Moon: JOLLIGINKI V L
 Starmap index: 28
 Paris coordinates: 3160720, 4132452, -4243297
+Orbits: planet index 05
+Moon id: 11

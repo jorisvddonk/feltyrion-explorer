@@ -1,3 +1,5 @@
-Planet: ASIIGNA
+Moon: ASIIGNA
 Starmap index: 13
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: FEXIA
+Moon id: 0

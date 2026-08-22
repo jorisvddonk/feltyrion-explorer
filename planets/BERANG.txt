@@ -1,6 +1,8 @@
-Planet: BERANG
+Moon: BERANG
 Starmap index: 10
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: BIRONG
+Moon id: 1
 
 Guide entries:
 MOON OF BIRONG, ANOTHER CRATERIZED PLANET...                                

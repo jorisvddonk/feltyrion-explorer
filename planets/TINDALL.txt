@@ -1,6 +1,8 @@
-Planet: TINDALL
+Moon: TINDALL
 Starmap index: 15
 Paris coordinates: -625712, 1137800, 123585
+Orbits: PAX
+Moon id: 2
 
 Guide entries:
 FLAT, ICY, SMALL, VERY INTERESTING... OH WAIT.

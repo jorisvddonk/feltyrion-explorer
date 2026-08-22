@@ -1,3 +1,5 @@
-Planet: MY SELF
+Moon: MY SELF
 Starmap index: 07
 Paris coordinates: -60819024, 30074513, 831429
+Orbits: IWANNADIE
+Moon id: 2

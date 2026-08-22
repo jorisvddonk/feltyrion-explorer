@@ -1,6 +1,8 @@
-Planet: CRYSTALIS
+Moon: CRYSTALIS
 Starmap index: 36
 Paris coordinates: 2777136, 4626086, -1230145
+Orbits: CORONA AUREA
+Moon id: 16
 
 Guide entries:
  QUARTZ/OXYGEN ATM. LOVELY IN THE SUN, BEAUTIFUL PLANET

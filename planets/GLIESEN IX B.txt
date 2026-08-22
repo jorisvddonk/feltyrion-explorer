@@ -1,6 +1,8 @@
-Planet: GLIESEN IX B
+Moon: GLIESEN IX B
 Starmap index: 16
 Paris coordinates: -999742544, -1308, 1419595540
+Orbits: GLIESEN IX
+Moon id: 1
 
 Guide entries:
 BLUE ICEWORLD. (SCHMERM 6011 597.865)

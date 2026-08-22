@@ -1,3 +1,5 @@
-Planet: BROODING KEST
+Moon: BROODING KEST
 Starmap index: 14
 Paris coordinates: 2935344, 4530986, 217285
+Orbits: QUIET KEST
+Moon id: 0

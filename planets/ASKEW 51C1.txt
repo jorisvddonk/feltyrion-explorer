@@ -1,3 +1,5 @@
-Planet: ASKEW 51C1
+Moon: ASKEW 51C1
 Starmap index: 04
 Paris coordinates: 11376304, -19389667, 17396435
+Orbits: NAZARUS
+Moon id: 0

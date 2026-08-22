@@ -1,3 +1,5 @@
-Planet: DERLITH
+Moon: DERLITH
 Starmap index: 11
 Paris coordinates: -194640, 6822325, -323763
+Orbits: YUGGOTH
+Moon id: 1

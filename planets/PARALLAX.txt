@@ -1,6 +1,8 @@
-Planet: PARALLAX
+Moon: PARALLAX
 Starmap index: 50
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: SABULOSE
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MOTTLED TO THE POINT OF

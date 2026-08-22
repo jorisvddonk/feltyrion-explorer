@@ -1,6 +1,8 @@
-Planet: OUTCAST
+Moon: OUTCAST
 Starmap index: 46
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 15
 
 Guide entries:
 ALRIGHT THIS IS NOT FUNNY ANYMORE. WHAT'S A THIRD GAS GIANT DOING HERE

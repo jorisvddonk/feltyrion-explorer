@@ -1,6 +1,8 @@
-Planet: PALAMA
+Moon: PALAMA
 Starmap index: 27
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS NOTED.

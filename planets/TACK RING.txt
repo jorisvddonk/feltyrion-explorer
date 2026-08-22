@@ -1,6 +1,8 @@
-Planet: TACK RING
+Moon: TACK RING
 Starmap index: 08
 Paris coordinates: -1431183248, 1122582, 1439019398
+Orbits: SKIMSTREAK
+Moon id: 2
 
 Guide entries:
 SMALL,NO-AT, CRATERIZED, BRILLIANT GREEN APPEARANCE FROM ORBIT;             

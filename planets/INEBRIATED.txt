@@ -1,6 +1,8 @@
-Planet: INEBRIATED
+Moon: INEBRIATED
 Starmap index: 24
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 4
 
 Guide entries:
 A FELISIAN WORLD- AT 36.60 I FOUND A HILLY, FORESTED AREA WITH MANY

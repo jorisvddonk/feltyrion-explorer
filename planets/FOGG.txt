@@ -1,3 +1,5 @@
-Planet: FOGG
+Moon: FOGG
 Starmap index: 18
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZENTORGO
+Moon id: 6

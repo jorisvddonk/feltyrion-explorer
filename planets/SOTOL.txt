@@ -1,6 +1,8 @@
-Planet: SOTOL
+Moon: SOTOL
 Starmap index: 19
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-C
+Moon id: 8
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011

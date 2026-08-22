@@ -1,6 +1,8 @@
-Planet: ARBOGAST
+Moon: ARBOGAST
 Starmap index: 13
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: REVENUE
+Moon id: 1
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO

@@ -1,3 +1,5 @@
-Planet: KORS
+Moon: KORS
 Starmap index: 15
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: ATRIGA KOMAJUL
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: PARSIS 11.8
+Moon: PARSIS 11.8
 Starmap index: 50
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 7
 
 Guide entries:
  AS THE MANY OTHER WORLDS ORBITING PARSIS 11, THIS ONE IS YET

@@ -1,6 +1,8 @@
-Planet: PEDRA VIVA1
+Moon: PEDRA VIVA1
 Starmap index: 05
 Paris coordinates: 3090704, 4686833, -647137
+Orbits: SARAIVA
+Moon id: 1
 
 Guide entries:
 PLANET SUITABLE FOR LIFE. CONTAINS AMPLE SUNLIGHT AND LIQUID WATER

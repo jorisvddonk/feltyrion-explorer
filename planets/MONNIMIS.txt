@@ -1,3 +1,5 @@
-Planet: MONNIMIS
+Moon: MONNIMIS
 Starmap index: 28
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: SATYRE
+Moon id: 3

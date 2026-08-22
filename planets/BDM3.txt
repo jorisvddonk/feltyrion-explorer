@@ -1,3 +1,5 @@
-Planet: BDM3
+Moon: BDM3
 Starmap index: 10
 Paris coordinates: 4190704, 4843563, -1729734
+Orbits: WCPATO
+Moon id: 2

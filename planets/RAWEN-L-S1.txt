@@ -1,3 +1,5 @@
-Planet: RAWEN-L-S1
+Moon: RAWEN-L-S1
 Starmap index: 32
 Paris coordinates: 553936, 3527327, -2132597
+Orbits: RAWEN-L
+Moon id: 0

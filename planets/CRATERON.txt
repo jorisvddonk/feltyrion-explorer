@@ -1,3 +1,5 @@
-Planet: CRATERON
+Moon: CRATERON
 Starmap index: 10
 Paris coordinates: 8067088, 6822211, 4701176
+Orbits: SECOND SUN
+Moon id: 6

@@ -1,3 +1,5 @@
-Planet: DIMECRES8
+Moon: DIMECRES8
 Starmap index: 08
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 1

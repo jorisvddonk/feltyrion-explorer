@@ -1,3 +1,5 @@
-Planet: KRAVER-C-S3
+Moon: KRAVER-C-S3
 Starmap index: 15
 Paris coordinates: 3421104, -457417, -10795963
+Orbits: KRAVER-C-FELYS
+Moon id: 2

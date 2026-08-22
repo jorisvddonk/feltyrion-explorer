@@ -1,3 +1,5 @@
-Planet: GASALAN
+Moon: GASALAN
 Starmap index: 11
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: PURPLOSE
+Moon id: 5

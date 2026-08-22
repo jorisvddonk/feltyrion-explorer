@@ -1,6 +1,8 @@
-Planet: KURBIJ
+Moon: KURBIJ
 Starmap index: 11
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 2
 
 Guide entries:
 M03/P05 SMALL, THIN ATMOSPHERE. GREYISH REFLECTIVITY AND MODERATE POLAR     

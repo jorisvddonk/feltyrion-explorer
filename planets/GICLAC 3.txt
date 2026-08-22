@@ -1,3 +1,5 @@
-Planet: GICLAC 3
+Moon: GICLAC 3
 Starmap index: 15
 Paris coordinates: -387728, 331391, 626160721
+Orbits: CERES GICLAC
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: TRANSGRASIS
+Moon: TRANSGRASIS
 Starmap index: 22
 Paris coordinates: -61232592, 29255171, 664579
+Orbits: JB 100
+Moon id: 8
 
 Guide entries:
 PLANET DISCOVERED BY MCWGOGS 6011.639.768. FELYSIAN, COMMON LIFE

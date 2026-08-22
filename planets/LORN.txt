@@ -1,6 +1,8 @@
-Planet: LORN
+Moon: LORN
 Starmap index: 50
 Paris coordinates: -890704, 333652, -1384376
+Orbits: KRAAGENSKUL
+Moon id: 1
 
 Guide entries:
  THIS MOON IS INHABITED

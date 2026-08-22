@@ -1,6 +1,8 @@
-Planet: MAITO
+Moon: MAITO
 Starmap index: 14
 Paris coordinates: -481072, -153, 650323
+Orbits: CHIBI
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.428

@@ -1,6 +1,8 @@
-Planet: LIVING OPAL
+Moon: LIVING OPAL
 Starmap index: 19
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: TREASURER
+Moon id: 0
 
 Guide entries:
 IT'S A MYSTERY HOW A PLANET SO FAR FROM ITS PRIMARY CAN CARRY LIFE

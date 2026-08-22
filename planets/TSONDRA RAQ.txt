@@ -1,3 +1,5 @@
-Planet: TSONDRA RAQ
+Moon: TSONDRA RAQ
 Starmap index: 43
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: ANEOSSE
+Moon id: 2

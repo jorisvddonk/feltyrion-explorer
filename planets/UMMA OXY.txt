@@ -1,3 +1,5 @@
-Planet: UMMA OXY
+Moon: UMMA OXY
 Starmap index: 14
 Paris coordinates: 5425712, 8286779, -4787371
+Orbits: UMMA 3
+Moon id: 10

@@ -1,6 +1,8 @@
-Planet: FISLUN
+Moon: FISLUN
 Starmap index: 31
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: SAFEN
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD GREY REFLECTIVITY WITH

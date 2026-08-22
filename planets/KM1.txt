@@ -1,3 +1,5 @@
-Planet: KM1
+Moon: KM1
 Starmap index: 09
 Paris coordinates: -4546064, 7347, 2982617
+Orbits: K5
+Moon id: 1

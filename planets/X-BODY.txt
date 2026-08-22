@@ -1,6 +1,8 @@
-Planet: X-BODY
+Moon: X-BODY
 Starmap index: 40
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: OXALIS
+Moon id: 8
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. QUITE REFLECTIVE WITH

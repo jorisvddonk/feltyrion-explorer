@@ -1,3 +1,5 @@
-Planet: SLACK
+Moon: SLACK
 Starmap index: 50
 Paris coordinates: 377136, 935675, 1401841
+Orbits: GUNK
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: FROME
+Moon: FROME
 Starmap index: 17
 Paris coordinates: 808208, 1178550, 752685
+Orbits: FRAOT
+Moon id: 0
 
 Guide entries:
 MOON OF FRAOT. BOTH ARE ATLEAST 0.43 LIGHTYEARS FROM THEIR SUN, MAKING      

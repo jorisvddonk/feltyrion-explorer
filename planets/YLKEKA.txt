@@ -1,6 +1,8 @@
-Planet: YLKEKA
+Moon: YLKEKA
 Starmap index: 14
 Paris coordinates: 2060398160, -1842327, 78233
+Orbits: ROMOSVY
+Moon id: 2
 
 Guide entries:
 M03/P07 SMALL SOLID ICY. BLUISH GREY COLOR LOTS OF DARK GROOVING. PRO       

@@ -1,6 +1,8 @@
-Planet: EVERSTRETCH
+Moon: EVERSTRETCH
 Starmap index: 13
 Paris coordinates: 2428560, 5391642, 309596
+Orbits: planet index 07
+Moon id: 3
 
 Guide entries:
  NAMED AFTER ITS DESERTS OF NEVERENDING ICE.

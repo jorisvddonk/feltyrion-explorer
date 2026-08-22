@@ -1,6 +1,8 @@
-Planet: QUADRATIC
+Moon: QUADRATIC
 Starmap index: 35
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: OXALIS
+Moon id: 3
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. QUITE UNREFLECTIVE

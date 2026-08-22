@@ -1,3 +1,5 @@
-Planet: ASKEW 112C2
+Moon: ASKEW 112C2
 Starmap index: 08
 Paris coordinates: 2008880, -12128966, 9171998
+Orbits: VJIUZI
+Moon id: 1

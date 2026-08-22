@@ -1,3 +1,5 @@
-Planet: NEBULAE
+Moon: NEBULAE
 Starmap index: 18
 Paris coordinates: 487856, 49102, -230101
+Orbits: TRIGONOMETRIC
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: IABAS
+Moon: IABAS
 Starmap index: 39
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 6
+Moon id: 2
 
 Guide entries:
 PINK, BANDED CLOUDY WORLD

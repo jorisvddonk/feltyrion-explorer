@@ -1,6 +1,8 @@
-Planet: SPOTTY
+Moon: SPOTTY
 Starmap index: 12
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 5
 
 Guide entries:
  AT 7.71 YOU'LL FIND THE DODONGO MOUNTAIN RANGE.

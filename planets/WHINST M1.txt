@@ -1,3 +1,5 @@
-Planet: WHINST M1
+Moon: WHINST M1
 Starmap index: 07
 Paris coordinates: 318928, 183426, -53503
+Orbits: planet index 03
+Moon id: 0

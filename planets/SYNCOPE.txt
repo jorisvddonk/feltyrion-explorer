@@ -1,6 +1,8 @@
-Planet: SYNCOPE
+Moon: SYNCOPE
 Starmap index: 09
 Paris coordinates: -225712, 2875, -131716
+Orbits: JETTY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH

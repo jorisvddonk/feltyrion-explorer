@@ -1,6 +1,8 @@
-Planet: SIAM AA
+Moon: SIAM AA
 Starmap index: 11
 Paris coordinates: 3707120, 4668114, 1667215
+Orbits: planet index 03
+Moon id: 5
 
 Guide entries:
 NOTES                                                                       

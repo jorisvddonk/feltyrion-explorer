@@ -1,6 +1,8 @@
-Planet: GRAVLIS
+Moon: GRAVLIS
 Starmap index: 09
 Paris coordinates: -801424, -65898, -243734
+Orbits: FOGAROS
+Moon id: 1
 
 Guide entries:
 MOON OF FOGAROS. IT HAS LOW GRAVITY, MAKING FOR LONG LANDINGS.

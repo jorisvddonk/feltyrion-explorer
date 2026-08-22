@@ -1,3 +1,5 @@
-Planet: VIMARAES-C-S12
+Moon: VIMARAES-C-S12
 Starmap index: 22
 Paris coordinates: 3661808, 108183, -8606009
+Orbits: VIMARAES-C
+Moon id: 11

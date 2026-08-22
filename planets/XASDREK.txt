@@ -1,3 +1,5 @@
-Planet: XASDREK
+Moon: XASDREK
 Starmap index: 15
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASSMARTIN
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 4.5
+Moon: GRANTED WISH 4.5
 Starmap index: 15
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 4
+Moon id: 4
 
 Guide entries:
 WELL, A FELYSIAN PLANET OUT HERE! FROM ORBIT, AN INTERESTING                

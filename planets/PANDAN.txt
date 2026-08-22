@@ -1,6 +1,8 @@
-Planet: PANDAN
+Moon: PANDAN
 Starmap index: 23
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: BALOONE
+Moon id: 1
 
 Guide entries:
 FOUNDED EPOC 6011:681.407.593 BY REZA. 2ND SATELLITE OF BALOONE.            

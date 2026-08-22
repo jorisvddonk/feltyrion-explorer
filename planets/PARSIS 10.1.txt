@@ -1,6 +1,8 @@
-Planet: PARSIS 10.1
+Moon: PARSIS 10.1
 Starmap index: 42
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 10
+Moon id: 0
 
 Guide entries:
  I DIDNT EXPECT TO FIND MOONS AROUND THE SMALL PLANETOID NAMED

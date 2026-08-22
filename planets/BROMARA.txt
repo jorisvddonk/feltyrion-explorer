@@ -1,6 +1,8 @@
-Planet: BROMARA
+Moon: BROMARA
 Starmap index: 20
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 1
 
 Guide entries:
 THE *FOURTH* PLANET OF IT'S KIND IN THIS SOLAR SYSTEM!

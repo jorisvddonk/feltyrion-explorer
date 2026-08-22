@@ -1,6 +1,8 @@
-Planet: VOWBIN IX N
+Moon: VOWBIN IX N
 Starmap index: 42
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 13
 
 Guide entries:
 ROUGH GREY ICEWORLD WITH NOT MANY CANALS. (SCHMERM 6011 600.721)

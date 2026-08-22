@@ -1,3 +1,5 @@
-Planet: MUCK
+Moon: MUCK
 Starmap index: 16
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 9

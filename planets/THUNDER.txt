@@ -1,6 +1,8 @@
-Planet: THUNDER
+Moon: THUNDER
 Starmap index: 20
 Paris coordinates: 4842128, 4434279, -1348838
+Orbits: planet index 04
+Moon id: 2
 
 Guide entries:
 MOON OF FOURTH PLANET IN UMBER SYSTEM

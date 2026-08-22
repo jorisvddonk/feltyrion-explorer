@@ -1,3 +1,5 @@
-Planet: OBELIX
+Moon: OBELIX
 Starmap index: 21
 Paris coordinates: 3146064, 4414890, -1328862
+Orbits: SOROR
+Moon id: 0

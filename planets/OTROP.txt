@@ -1,6 +1,8 @@
-Planet: OTROP
+Moon: OTROP
 Starmap index: 27
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NICE LARGE RAYED CRATERS

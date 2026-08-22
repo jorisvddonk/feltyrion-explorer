@@ -1,6 +1,8 @@
-Planet: ZEBRIM B
+Moon: ZEBRIM B
 Starmap index: 09
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 1
 
 Guide entries:
 A HELLWORLD. (SCHMERM 6011 584.404)

@@ -1,6 +1,8 @@
-Planet: NIDEB
+Moon: NIDEB
 Starmap index: 10
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. GOOD

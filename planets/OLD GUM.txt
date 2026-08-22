@@ -1,6 +1,8 @@
-Planet: OLD GUM
+Moon: OLD GUM
 Starmap index: 20
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 12
 
 Guide entries:
 A PINK CRATERED MOON OF INSANITY ON EKA75. LOOKS LIKE A CHEWED UP WAD

@@ -1,3 +1,5 @@
-Planet: AILAP IV
+Moon: AILAP IV
 Starmap index: 10
 Paris coordinates: 14316752, 7867680, -6513449
+Orbits: JAYMEE V
+Moon id: 1

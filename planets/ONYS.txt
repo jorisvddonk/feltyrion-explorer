@@ -1,6 +1,8 @@
-Planet: ONYS
+Moon: ONYS
 Starmap index: 50
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 16
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. IT JUST

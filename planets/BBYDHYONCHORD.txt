@@ -1,6 +1,8 @@
-Planet: BBYDHYONCHORD
+Moon: BBYDHYONCHORD
 Starmap index: 32
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 14
 
 Guide entries:
 THIS QUARTZ MOON HAS A VERY BRIGHT SKY. BE CAREFUL IF YOU LAND

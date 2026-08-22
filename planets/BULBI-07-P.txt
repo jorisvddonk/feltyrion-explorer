@@ -1,3 +1,5 @@
-Planet: BULBI-07-P
+Moon: BULBI-07-P
 Starmap index: 46
 Paris coordinates: 2101424, 6142806, -960659
+Orbits: BULBI-07
+Moon id: 15

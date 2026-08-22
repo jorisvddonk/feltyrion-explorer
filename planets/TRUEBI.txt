@@ -1,3 +1,5 @@
-Planet: TRUEBI
+Moon: TRUEBI
 Starmap index: 15
 Paris coordinates: -474288, -31859501, 1067415
+Orbits: ENKO
+Moon id: 0

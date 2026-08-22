@@ -1,6 +1,8 @@
-Planet: ETALECOPA
+Moon: ETALECOPA
 Starmap index: 09
 Paris coordinates: -43376, 4332103, 37107834
+Orbits: BINBLUE B
+Moon id: 3
 
 Guide entries:
 ODD PLANET, ITS COLORS ARE ALMOST AN EXACT REVERSE OF THE OTHER

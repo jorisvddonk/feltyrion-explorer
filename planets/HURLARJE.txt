@@ -1,6 +1,8 @@
-Planet: HURLARJE
+Moon: HURLARJE
 Starmap index: 15
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: REMEMOROR
+Moon id: 1
 
 Guide entries:
 M02P04, SMALL, DUSTY, CRATERIZED, PRO 0.200.880; PRV 0.004.467.996

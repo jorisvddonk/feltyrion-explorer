@@ -1,6 +1,8 @@
-Planet: IRFHDOS
+Moon: IRFHDOS
 Starmap index: 44
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 8
 
 Guide entries:
 M09/P09 SMALL SOLID ICY. VIOLET COLOR WITH SPARSE WHITE GROOVING.           

@@ -1,6 +1,8 @@
-Planet: SUS-GIMENEZ
+Moon: SUS-GIMENEZ
 Starmap index: 14
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 2
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.837 -                               

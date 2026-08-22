@@ -1,6 +1,8 @@
-Planet: ANGYOR
+Moon: ANGYOR
 Starmap index: 23
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: BOUNCIS
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

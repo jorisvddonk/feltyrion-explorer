@@ -1,6 +1,8 @@
-Planet: OURUDAC
+Moon: OURUDAC
 Starmap index: 32
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: KINTAR
+Moon id: 0
 
 Guide entries:
 KINTAR'S ONLY MOON, A DEADWORLD THAT APPEARS GREEN AND SHINY FROM

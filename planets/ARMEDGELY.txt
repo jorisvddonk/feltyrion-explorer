@@ -1,6 +1,8 @@
-Planet: ARMEDGELY
+Moon: ARMEDGELY
 Starmap index: 07
 Paris coordinates: 26546832, 6418955, 44905877
+Orbits: OOLIVE
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE THIRD PLANET, A DUSTY MOON. LAND FEATURES

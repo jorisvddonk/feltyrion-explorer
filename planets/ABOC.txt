@@ -1,6 +1,8 @@
-Planet: ABOC
+Moon: ABOC
 Starmap index: 50
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 6
 
 Guide entries:
 AN AVERAGE, GREYISH, ICY MOON.

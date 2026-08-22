@@ -1,6 +1,8 @@
-Planet: LISTETIS
+Moon: LISTETIS
 Starmap index: 13
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: HAESITO
+Moon id: 2
 
 Guide entries:
 M03P03, SMALL SIZED, DUSTY, PRO 0.203.040; PRV 0.012.136.328 /// GOOD

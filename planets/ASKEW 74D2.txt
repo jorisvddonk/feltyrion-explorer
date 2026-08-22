@@ -1,3 +1,5 @@
-Planet: ASKEW 74D2
+Moon: ASKEW 74D2
 Starmap index: 11
 Paris coordinates: 11052016, -19059857, 17952287
+Orbits: ASKEW 74D
+Moon id: 1

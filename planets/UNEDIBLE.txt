@@ -1,6 +1,8 @@
-Planet: UNEDIBLE
+Moon: UNEDIBLE
 Starmap index: 22
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: WETWICK
+Moon id: 0
 
 Guide entries:
 STRANGE EVENTS OCCUR ON THE 1ST MOON OF FENIA.

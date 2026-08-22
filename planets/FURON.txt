@@ -1,3 +1,5 @@
-Planet: FURON
+Moon: FURON
 Starmap index: 16
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: BITTER
+Moon id: 0

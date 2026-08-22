@@ -1,6 +1,8 @@
-Planet: SATANAS
+Moon: SATANAS
 Starmap index: 25
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 14
 
 Guide entries:
 A RED HELLWORLD. LIKE ALL OTHERS OF ITS KIND, IT IS IMPOSSIBLE TO

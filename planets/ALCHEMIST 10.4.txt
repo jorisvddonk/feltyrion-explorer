@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 10.4
+Moon: ALCHEMIST 10.4
 Starmap index: 34
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 10
+Moon id: 3
 
 Guide entries:
 SECOND ICEBALL OF THIS SYSTEM. FLAT, FROZEN, PURPLISH

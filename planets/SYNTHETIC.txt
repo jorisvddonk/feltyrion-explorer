@@ -1,6 +1,8 @@
-Planet: SYNTHETIC
+Moon: SYNTHETIC
 Starmap index: 46
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 8
 
 Guide entries:
 A FELISIAN WORLD- LANDINGS AT 288.59, 292.48, AND 287.86 PROVIDED

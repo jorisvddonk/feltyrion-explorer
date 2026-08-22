@@ -1,6 +1,8 @@
-Planet: MASS FQUARTZ
+Moon: MASS FQUARTZ
 Starmap index: 10
 Paris coordinates: -1431183248, 1122582, 1439019398
+Orbits: MARCLINE
+Moon id: 0
 
 Guide entries:
 REALLY BRIGHT APPEARANCE FROM ORBIT. LANDED AND TRUE TO MY                  

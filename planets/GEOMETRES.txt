@@ -1,6 +1,8 @@
-Planet: GEOMETRES
+Moon: GEOMETRES
 Starmap index: 19
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY CRATERS, SOME

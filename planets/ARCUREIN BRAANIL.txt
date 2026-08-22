@@ -1,3 +1,5 @@
-Planet: ARCUREIN BRAANIL
+Moon: ARCUREIN BRAANIL
 Starmap index: 11
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: ARCUREIN WEREING
+Moon id: 0

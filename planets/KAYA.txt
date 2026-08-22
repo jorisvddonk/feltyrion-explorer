@@ -1,6 +1,8 @@
-Planet: KAYA
+Moon: KAYA
 Starmap index: 08
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: MARLEY
+Moon id: 2
 
 Guide entries:
 FELISIAN, SLIGHTLY MORE WATER THAN LAND. APPEARS RATHER MOTTLED FROM ORBI   

@@ -1,6 +1,8 @@
-Planet: FELIS 5.4
+Moon: FELIS 5.4
 Starmap index: 11
 Paris coordinates: -1626800, 33322066, 4959862
+Orbits: FELIS 5
+Moon id: 3
 
 Guide entries:
  THIS IS A VOLCANIC WASTELAND WITH A VERY UNSTABLE, VERY HOT, VERY

@@ -1,3 +1,5 @@
-Planet: Y'DLOG
+Moon: Y'DLOG
 Starmap index: 12
 Paris coordinates: -1604272, 7386891, -1484699
+Orbits: MING GAMMA
+Moon id: 6

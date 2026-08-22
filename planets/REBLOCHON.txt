@@ -1,6 +1,8 @@
-Planet: REBLOCHON
+Moon: REBLOCHON
 Starmap index: 37
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATELY REFLECTIVE WITH

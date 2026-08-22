@@ -1,6 +1,8 @@
-Planet: SERPENTINE 4.1
+Moon: SERPENTINE 4.1
 Starmap index: 14
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 4
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, BROWNISH APPEARANCE, LOTS OF

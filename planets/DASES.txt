@@ -1,6 +1,8 @@
-Planet: DASES
+Moon: DASES
 Starmap index: 09
 Paris coordinates: 26708976, 6394413, 44397605
+Orbits: RENGJE
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE SIXTH PLANET, A DIM GAS GIANT OF LITTLE NOTE.

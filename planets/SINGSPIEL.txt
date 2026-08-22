@@ -1,6 +1,8 @@
-Planet: SINGSPIEL
+Moon: SINGSPIEL
 Starmap index: 25
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: DETINUE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ITS HIGHLY

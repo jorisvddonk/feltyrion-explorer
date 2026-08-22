@@ -1,3 +1,5 @@
-Planet: YELLOW FUZZ
+Moon: YELLOW FUZZ
 Starmap index: 13
 Paris coordinates: 3328560, 3928964, -618003
+Orbits: CUSTODIAN
+Moon id: 6

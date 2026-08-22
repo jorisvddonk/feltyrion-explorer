@@ -1,3 +1,5 @@
-Planet: DUMEN
+Moon: DUMEN
 Starmap index: 40
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: JUMOR
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: URSALIN
+Moon: URSALIN
 Starmap index: 20
 Paris coordinates: 3466416, 4540059, -395069
+Orbits: PROTICUS DRIFTER
+Moon id: 9
 
 Guide entries:
 SMALL AND FULL OF LOTS OF NOTHING.URSALIN IS ONE OF THOSE PLANETS YOU

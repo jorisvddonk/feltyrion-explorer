@@ -1,6 +1,8 @@
-Planet: SO FIVE
+Moon: SO FIVE
 Starmap index: 09
 Paris coordinates: -481072, -153, 650323
+Orbits: SOFLAPE
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.427

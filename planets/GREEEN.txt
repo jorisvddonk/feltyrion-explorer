@@ -1,6 +1,8 @@
-Planet: GREEEN
+Moon: GREEEN
 Starmap index: 53
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 9
 
 Guide entries:
 AN AVERAGE ICY MOON, GREEN SEEN FROM SPACE.

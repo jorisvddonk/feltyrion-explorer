@@ -1,3 +1,5 @@
-Planet: PAUL 6 POLARA
+Moon: PAUL 6 POLARA
 Starmap index: 28
 Paris coordinates: 4821776, 4404922, -2423773
+Orbits: PAUL 6
+Moon id: 1

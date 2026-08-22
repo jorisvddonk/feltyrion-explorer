@@ -1,6 +1,8 @@
-Planet: PLATT
+Moon: PLATT
 Starmap index: 17
 Paris coordinates: 4004272, 4432329, -752067
+Orbits: planet index 05
+Moon id: 9
 
 Guide entries:
 DISCOVERED BY XYXYLPHRAX 6011 665.408

@@ -1,6 +1,8 @@
-Planet: PAISIP
+Moon: PAISIP
 Starmap index: 19
 Paris coordinates: 1274288, 4443493, -1784892
+Orbits: TIAM 3
+Moon id: 12
 
 Guide entries:
 THICK, GREEN, HOT. NO, I'M NOT TALKING ABOUT SOUP.

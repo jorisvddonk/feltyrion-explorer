@@ -1,6 +1,8 @@
-Planet: VOWBIN VII A
+Moon: VOWBIN VII A
 Starmap index: 18
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VII
+Moon id: 0
 
 Guide entries:
 YELLOW HELLWORLD. (SCHMERM 6011 600.394)

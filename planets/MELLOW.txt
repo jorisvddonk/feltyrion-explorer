@@ -1,3 +1,5 @@
-Planet: MELLOW
+Moon: MELLOW
 Starmap index: 71
 Paris coordinates: 1405360, 789781, -1941535
+Orbits: planet index 07
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: WUNDERKLEIN
+Moon: WUNDERKLEIN
 Starmap index: 07
 Paris coordinates: 2332496, 4519761, -1238026
+Orbits: WUNDER 3
+Moon id: 1
 
 Guide entries:
  THE CRATERED MOON HAS A VERY LOW GRAVITY, NINICE OVERLAPPING CRAT          

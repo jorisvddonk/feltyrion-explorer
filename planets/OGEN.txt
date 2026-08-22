@@ -1,6 +1,8 @@
-Planet: OGEN
+Moon: OGEN
 Starmap index: 12
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: PROSI
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SEVERAL STORMS

@@ -1,6 +1,8 @@
-Planet: ARGONAS 13.1
+Moon: ARGONAS 13.1
 Starmap index: 44
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 13
+Moon id: 0
 
 Guide entries:
  SOLID, USTY, CRATERISED, NO ATMOSPHERE.

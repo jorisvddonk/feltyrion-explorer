@@ -1,6 +1,8 @@
-Planet: GEIME
+Moon: GEIME
 Starmap index: 12
 Paris coordinates: 2140268528, -2165691, -352139
+Orbits: PUFHCFH
+Moon id: 0
 
 Guide entries:
 M01/P06 SMALL SOLID DUSTY CRATERIZED. HAS A YELLOW GREEN REFLECTIVITY       

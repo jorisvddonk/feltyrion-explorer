@@ -1,3 +1,5 @@
-Planet: ZONK 5
+Moon: ZONK 5
 Starmap index: 37
 Paris coordinates: -61270448, 30091829, 306909
+Orbits: LOXIA
+Moon id: 0

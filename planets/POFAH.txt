@@ -1,6 +1,8 @@
-Planet: POFAH
+Moon: POFAH
 Starmap index: 31
 Paris coordinates: 908208, 554963, 552389
+Orbits: BRIGHT
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.697

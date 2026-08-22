@@ -1,6 +1,8 @@
-Planet: EDATE
+Moon: EDATE
 Starmap index: 63
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

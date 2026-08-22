@@ -1,6 +1,8 @@
-Planet: POFE
+Moon: POFE
 Starmap index: 52
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: DEISY
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. HAS A GOOD REFLECTIVITY OF A

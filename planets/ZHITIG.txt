@@ -1,6 +1,8 @@
-Planet: ZHITIG
+Moon: ZHITIG
 Starmap index: 68
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NOI ATMOSPHERE. A QUITE REFLECTIVE GREY WITH

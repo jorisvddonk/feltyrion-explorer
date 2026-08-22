@@ -1,6 +1,8 @@
-Planet: VOIGOL
+Moon: VOIGOL
 Starmap index: 10
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, GOOD POLAR CAPS.

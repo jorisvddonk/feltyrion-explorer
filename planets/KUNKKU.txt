@@ -1,3 +1,5 @@
-Planet: KUNKKU
+Moon: KUNKKU
 Starmap index: 23
 Paris coordinates: 4073200, 5702744, -580029
+Orbits: ZIUKAHAL
+Moon id: 1

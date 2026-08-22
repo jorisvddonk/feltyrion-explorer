@@ -1,6 +1,8 @@
-Planet: MINUR
+Moon: MINUR
 Starmap index: 18
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 9
 
 Guide entries:
 M10/P05 ANOTHER SMALL AND DUSTY WITH LARGE DARK CRATERS AND A LIGHT         

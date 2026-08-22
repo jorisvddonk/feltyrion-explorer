@@ -1,3 +1,5 @@
-Planet: PAUL 3 ULYSSES
+Moon: PAUL 3 ULYSSES
 Starmap index: 13
 Paris coordinates: 4821776, 4404922, -2423773
+Orbits: PAUL 3
+Moon id: 0

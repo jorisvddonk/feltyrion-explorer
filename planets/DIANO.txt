@@ -1,6 +1,8 @@
-Planet: DIANO
+Moon: DIANO
 Starmap index: 06
 Paris coordinates: -280275088, -1411417, 54856035
+Orbits: TAORI
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.576.807

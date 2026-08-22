@@ -1,3 +1,5 @@
-Planet: ASKEW 48E1
+Moon: ASKEW 48E1
 Starmap index: 11
 Paris coordinates: 11369520, -19178570, 16789632
+Orbits: ASKEW 48E
+Moon id: 0

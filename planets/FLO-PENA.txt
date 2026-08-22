@@ -1,6 +1,8 @@
-Planet: FLO-PENA
+Moon: FLO-PENA
 Starmap index: 39
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 6
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.755 -                               

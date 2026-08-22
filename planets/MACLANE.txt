@@ -1,3 +1,5 @@
-Planet: MACLANE
+Moon: MACLANE
 Starmap index: 45
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: TETSUROU
+Moon id: 17

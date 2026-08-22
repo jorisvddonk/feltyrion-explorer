@@ -1,3 +1,5 @@
-Planet: REBECCHI M1
+Moon: REBECCHI M1
 Starmap index: 15
 Paris coordinates: 4066416, 5645367, -1158831
+Orbits: REBECCHI
+Moon id: 0

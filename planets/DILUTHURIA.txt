@@ -1,6 +1,8 @@
-Planet: DILUTHURIA
+Moon: DILUTHURIA
 Starmap index: 20
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 6
 
 Guide entries:
 QUARTZ WORLD, FGS 0.51, TEMP -25, ATM PRS 0.58, SUN DISC 1.5CM WIDE

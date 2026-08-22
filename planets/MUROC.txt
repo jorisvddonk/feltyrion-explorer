@@ -1,6 +1,8 @@
-Planet: MUROC
+Moon: MUROC
 Starmap index: 29
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: OMLANTH
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE, GOOD REFLECTIVITY, MEDIUM TO

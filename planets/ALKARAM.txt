@@ -1,6 +1,8 @@
-Planet: ALKARAM
+Moon: ALKARAM
 Starmap index: 07
 Paris coordinates: 10976304, -19358322, 17808074
+Orbits: ASKEW 59C
+Moon id: 3
 
 Guide entries:
 FOUND EPOC 6011 586.900.111 BY ROLAND ASKEW

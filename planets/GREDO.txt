@@ -1,6 +1,8 @@
-Planet: GREDO
+Moon: GREDO
 Starmap index: 25
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 1
 
 Guide entries:
 VERY DARK, GREEN PLANET, ONLY REALLY EXPLORABLE IN ATMOSPHERIC

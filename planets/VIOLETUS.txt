@@ -1,3 +1,5 @@
-Planet: VIOLETUS
+Moon: VIOLETUS
 Starmap index: 19
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: LEVIATHAN
+Moon id: 1

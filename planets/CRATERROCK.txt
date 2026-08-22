@@ -1,3 +1,5 @@
-Planet: CRATERROCK
+Moon: CRATERROCK
 Starmap index: 16
 Paris coordinates: 4173200, 4174602, -869194
+Orbits: GIANT RAISIN
+Moon id: 7

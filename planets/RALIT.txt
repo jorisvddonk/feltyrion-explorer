@@ -1,6 +1,8 @@
-Planet: RALIT
+Moon: RALIT
 Starmap index: 16
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. JUST THE TRACERIES OF

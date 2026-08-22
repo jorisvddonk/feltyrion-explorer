@@ -1,3 +1,5 @@
-Planet: MOIA
+Moon: MOIA
 Starmap index: 45
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: LEG
+Moon id: 0

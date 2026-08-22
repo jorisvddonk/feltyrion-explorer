@@ -1,3 +1,5 @@
-Planet: ORANGE FIRE
+Moon: ORANGE FIRE
 Starmap index: 06
 Paris coordinates: -71593136, -672408, 53770643
+Orbits: OLD OLIVE
+Moon id: 0

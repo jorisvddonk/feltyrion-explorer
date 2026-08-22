@@ -1,6 +1,8 @@
-Planet: ARGEC
+Moon: ARGEC
 Starmap index: 17
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A LARGE STORM

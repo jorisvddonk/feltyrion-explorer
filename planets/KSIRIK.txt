@@ -1,3 +1,5 @@
-Planet: KSIRIK
+Moon: KSIRIK
 Starmap index: 06
 Paris coordinates: -835344, -14673956, -2040846
+Orbits: GLUEORN
+Moon id: 0

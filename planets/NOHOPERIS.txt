@@ -1,3 +1,5 @@
-Planet: NOHOPERIS
+Moon: NOHOPERIS
 Starmap index: 13
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: GASELIRDES
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: SERRA
+Moon: SERRA
 Starmap index: 11
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: SECYAMAN C
+Moon id: 1

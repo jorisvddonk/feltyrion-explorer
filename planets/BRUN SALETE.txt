@@ -1,3 +1,5 @@
-Planet: BRUN SALETE
+Moon: BRUN SALETE
 Starmap index: 06
 Paris coordinates: -1604272, 7386891, -1484699
+Orbits: MING GAMMA
+Moon id: 0

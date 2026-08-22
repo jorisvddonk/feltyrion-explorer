@@ -1,6 +1,8 @@
-Planet: CRESCENT ROCK
+Moon: CRESCENT ROCK
 Starmap index: 07
 Paris coordinates: 908208, 554963, 552389
+Orbits: GOLDEN BUCKLE
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.297

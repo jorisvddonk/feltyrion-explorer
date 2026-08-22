@@ -1,6 +1,8 @@
-Planet: LATALAVA
+Moon: LATALAVA
 Starmap index: 05
 Paris coordinates: 26346832, 6741064, 45112797
+Orbits: PELAINS
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE THIRD PLANET. INTERNALLY HOT MOON.

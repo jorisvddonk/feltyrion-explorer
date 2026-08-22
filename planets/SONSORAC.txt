@@ -1,6 +1,8 @@
-Planet: SONSORAC
+Moon: SONSORAC
 Starmap index: 13
 Paris coordinates: 1158546096, -274926, -1000180310
+Orbits: HATAMECSAI
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZE, ROCKY, CREASED. (NOTES BY NEUZD, 6011:820, 803)                

@@ -1,6 +1,8 @@
-Planet: ZANTOG
+Moon: ZANTOG
 Starmap index: 14
 Paris coordinates: 4497488, 5149116, -1701105
+Orbits: CRINA
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. WEIRDLY REFLECTIVE WITH

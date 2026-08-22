@@ -1,6 +1,8 @@
-Planet: TOS 7.3
+Moon: TOS 7.3
 Starmap index: 16
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: TOS 7
+Moon id: 2
 
 Guide entries:
  A MOON TAHT LIES FAR FROM ITS HOST-PLANET. THIN ATMOSPHERE;

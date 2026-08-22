@@ -1,3 +1,5 @@
-Planet: ASKEW 40C1
+Moon: ASKEW 40C1
 Starmap index: 12
 Paris coordinates: 11958800, -19325483, 17497781
+Orbits: ASKEW 40C
+Moon id: 0

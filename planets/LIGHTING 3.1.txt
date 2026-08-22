@@ -1,6 +1,8 @@
-Planet: LIGHTING 3.1
+Moon: LIGHTING 3.1
 Starmap index: 06
 Paris coordinates: 36432, 33110, -633205
+Orbits: LIGHTING 3
+Moon id: 0
 
 Guide entries:
  VERY BRIGHT, BUT UNSTABLE SURFACE. LANDING NOT POSSIBLE.

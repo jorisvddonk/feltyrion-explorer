@@ -1,3 +1,5 @@
-Planet: IKRANA
+Moon: IKRANA
 Starmap index: 08
 Paris coordinates: 470352, -472659, 722038
+Orbits: UYRGRANA
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: SUNLIGHT OASIS
+Moon: SUNLIGHT OASIS
 Starmap index: 09
 Paris coordinates: 3283920, 5272695, -1249674
+Orbits: ASKEW 200C
+Moon id: 0

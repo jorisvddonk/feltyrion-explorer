@@ -1,3 +1,5 @@
-Planet: EPSILON DENGUEDU 14
+Moon: EPSILON DENGUEDU 14
 Starmap index: 33
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: EPSILON DENGUEDU
+Moon id: 13

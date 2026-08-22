@@ -1,6 +1,8 @@
-Planet: SCARTA
+Moon: SCARTA
 Starmap index: 13
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY AGITATED

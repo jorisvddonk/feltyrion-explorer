@@ -1,6 +1,8 @@
-Planet: OMEGA BIG BLUE VIIIA
+Moon: OMEGA BIG BLUE VIIIA
 Starmap index: 17
 Paris coordinates: -11567088, -299536, -851430
+Orbits: OMEGA BIG BLUE VIII
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, EXTREMELY DARK, SLIGHT POLAR CAPS.

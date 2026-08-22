@@ -1,3 +1,5 @@
-Planet: QWAHR QUADREX QUAL
+Moon: QWAHR QUADREX QUAL
 Starmap index: 35
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR QUADREX
+Moon id: 3

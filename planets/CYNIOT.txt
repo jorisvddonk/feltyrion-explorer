@@ -1,6 +1,8 @@
-Planet: CYNIOT
+Moon: CYNIOT
 Starmap index: 15
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 4
 
 Guide entries:
 A CYAN THICK ATMO MOON, THE FIFTH OF THE FOURTH PLANET. IT IS QUITE

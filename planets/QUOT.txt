@@ -1,3 +1,5 @@
-Planet: QUOT
+Moon: QUOT
 Starmap index: 06
 Paris coordinates: 1425712, -18029047, -838747
+Orbits: LUXY
+Moon id: 0

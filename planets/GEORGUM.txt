@@ -1,3 +1,5 @@
-Planet: GEORGUM
+Moon: GEORGUM
 Starmap index: 49
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: ATOMIKA
+Moon id: 15

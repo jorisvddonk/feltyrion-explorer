@@ -1,3 +1,5 @@
-Planet: MASAFRED38
+Moon: MASAFRED38
 Starmap index: 38
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: PAUL AUSTER
+Moon id: 2

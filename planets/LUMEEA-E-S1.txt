@@ -1,3 +1,5 @@
-Planet: LUMEEA-E-S1
+Moon: LUMEEA-E-S1
 Starmap index: 15
 Paris coordinates: 3348240, -260838, -9137523
+Orbits: LUMEEA-E
+Moon id: 0

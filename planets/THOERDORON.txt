@@ -1,6 +1,8 @@
-Planet: THOERDORON
+Moon: THOERDORON
 Starmap index: 42
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 11
 
 Guide entries:
 A TINY FELYSIAN MOON. COLD, BUT VERY GREEN AND GRASSY.

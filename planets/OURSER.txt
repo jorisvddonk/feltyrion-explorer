@@ -1,6 +1,8 @@
-Planet: OURSER
+Moon: OURSER
 Starmap index: 10
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HIGH

@@ -1,6 +1,8 @@
-Planet: KERAMINE8-1
+Moon: KERAMINE8-1
 Starmap index: 36
 Paris coordinates: -36432, -1290440, 1061497
+Orbits: KERAMINE8
+Moon id: 0
 
 Guide entries:
 SMALL, NO ATMOSPHERE. CRATERISED.

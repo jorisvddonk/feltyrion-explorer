@@ -1,3 +1,5 @@
-Planet: D'KAA LUMA
+Moon: D'KAA LUMA
 Starmap index: 18
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 7
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: CRAENU
+Moon: CRAENU
 Starmap index: 07
 Paris coordinates: 4297488, 4541055, -1442103
+Orbits: CANTABER
+Moon id: 0

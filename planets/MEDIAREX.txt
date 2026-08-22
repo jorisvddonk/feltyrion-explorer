@@ -1,3 +1,5 @@
-Planet: MEDIAREX
+Moon: MEDIAREX
 Starmap index: 21
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: JB 93
+Moon id: 0

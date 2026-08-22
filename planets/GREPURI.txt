@@ -1,6 +1,8 @@
-Planet: GREPURI
+Moon: GREPURI
 Starmap index: 33
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 9
 
 Guide entries:
 GREEN FROM SPACE, BUT EERIE PURPLE COLOR FROM SURFACE. PLANET SEEMS TO

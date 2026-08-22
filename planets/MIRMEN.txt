@@ -1,6 +1,8 @@
-Planet: MIRMEN
+Moon: MIRMEN
 Starmap index: 16
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STRANGE

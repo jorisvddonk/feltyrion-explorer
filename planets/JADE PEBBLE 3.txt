@@ -1,3 +1,5 @@
-Planet: JADE PEBBLE 3
+Moon: JADE PEBBLE 3
 Starmap index: 15
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: SWIRLING MIST
+Moon id: 2

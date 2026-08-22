@@ -1,6 +1,8 @@
-Planet: CORAL II-5I
+Moon: CORAL II-5I
 Starmap index: 47
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-5
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. VERY DARK, FAIR POLAR CAPS.

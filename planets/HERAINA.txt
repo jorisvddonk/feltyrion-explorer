@@ -1,6 +1,8 @@
-Planet: HERAINA
+Moon: HERAINA
 Starmap index: 24
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA B
+Moon id: 7
 
 Guide entries:
  (YUINCA B VIII). A FELISIAN MOON. AMWHERE 6011.586.384

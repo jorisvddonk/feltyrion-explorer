@@ -1,6 +1,8 @@
-Planet: SERPENTINE 8.1
+Moon: SERPENTINE 8.1
 Starmap index: 23
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 8
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, TENUOUS ATMOSPHERE, EXTREMELY DARK.

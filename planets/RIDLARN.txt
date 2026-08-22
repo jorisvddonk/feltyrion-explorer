@@ -1,6 +1,8 @@
-Planet: RIDLARN
+Moon: RIDLARN
 Starmap index: 04
 Paris coordinates: 1670352, 1452727, -253444
+Orbits: RADASPOTTER
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.209

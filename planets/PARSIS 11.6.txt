@@ -1,6 +1,8 @@
-Planet: PARSIS 11.6
+Moon: PARSIS 11.6
 Starmap index: 48
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 5
 
 Guide entries:
  YET ANOTHER ONE OF THOSE FROZEN SOLID ICE-WORLDS, ORBITING PARSIS

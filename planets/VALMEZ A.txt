@@ -1,6 +1,8 @@
-Planet: VALMEZ A
+Moon: VALMEZ A
 Starmap index: 07
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: VALMEZ
+Moon id: 0
 
 Guide entries:
 A SMALL MOON, PEACH OR GOLD IN APPEARANCE, WITH LOTS OF CRATERS.

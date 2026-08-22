@@ -1,6 +1,8 @@
-Planet: MOYFAYRS
+Moon: MOYFAYRS
 Starmap index: 12
 Paris coordinates: 2977136, 4524315, -1356906
+Orbits: MOYSIARI
+Moon id: 0
 
 Guide entries:
  UNSTABLE HEAVY VOLCANIC SURFACE -UNAPPROACHABLE                            

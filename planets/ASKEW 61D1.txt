@@ -1,3 +1,5 @@
-Planet: ASKEW 61D1
+Moon: ASKEW 61D1
 Starmap index: 21
 Paris coordinates: 11052016, -19359857, 17958827
+Orbits: YABAGAGA
+Moon id: 0

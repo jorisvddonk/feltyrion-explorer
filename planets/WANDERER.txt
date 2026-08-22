@@ -1,6 +1,8 @@
-Planet: WANDERER
+Moon: WANDERER
 Starmap index: 23
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-GGP-8
+Moon id: 1
 
 Guide entries:
 THIS CLOUDY PLANET IS WELL ILLUMINATED, AND HAS VERY INTRESTING...

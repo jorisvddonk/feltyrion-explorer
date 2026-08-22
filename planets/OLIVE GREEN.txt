@@ -1,3 +1,5 @@
-Planet: OLIVE GREEN
+Moon: OLIVE GREEN
 Starmap index: 35
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: YELLOW CRAYON
+Moon id: 2

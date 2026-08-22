@@ -1,6 +1,8 @@
-Planet: PYREDIAL
+Moon: PYREDIAL
 Starmap index: 24
 Paris coordinates: 191792, 393743, -1607331
+Orbits: DOUEK
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE SIXTH PLANET. A RED INTERNALLY HOT MOON.

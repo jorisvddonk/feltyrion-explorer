@@ -1,6 +1,8 @@
-Planet: HEUL
+Moon: HEUL
 Starmap index: 08
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 1
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011

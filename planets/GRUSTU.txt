@@ -1,6 +1,8 @@
-Planet: GRUSTU
+Moon: GRUSTU
 Starmap index: 09
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE, MODERATE GREENISH GREY

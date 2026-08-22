@@ -1,6 +1,8 @@
-Planet: KUMA
+Moon: KUMA
 Starmap index: 04
 Paris coordinates: 3966416, 4299706, -1061190
+Orbits: KAMA
+Moon id: 0
 
 Guide entries:
 MOON OF KAMA, THIRD PLANET OF THE MYANMAR RED STAR SYSTEM.

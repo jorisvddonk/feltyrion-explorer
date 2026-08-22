@@ -1,3 +1,5 @@
-Planet: MONKEY
+Moon: MONKEY
 Starmap index: 15
 Paris coordinates: 1852848, 1486587, 473751
+Orbits: planet index 03
+Moon id: 8

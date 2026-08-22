@@ -1,3 +1,5 @@
-Planet: 00000000000000000000
+Moon: 00000000000000000000
 Starmap index: 15
 Paris coordinates: 574288, 535718, -933464
+Orbits: planet index 03
+Moon id: 10

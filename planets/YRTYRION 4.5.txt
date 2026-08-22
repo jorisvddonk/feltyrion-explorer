@@ -1,6 +1,8 @@
-Planet: YRTYRION 4.5
+Moon: YRTYRION 4.5
 Starmap index: 19
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 4
+Moon id: 12
 
 Guide entries:
  A INTERNALLY HOT PLANET DUE TO THE GRAVITASIONAL FORCES OF ITS

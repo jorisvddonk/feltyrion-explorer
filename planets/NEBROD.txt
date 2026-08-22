@@ -1,6 +1,8 @@
-Planet: NEBROD
+Moon: NEBROD
 Starmap index: 18
 Paris coordinates: -729648, -55940, 1873342
+Orbits: CRAZYCOL
+Moon id: 0
 
 Guide entries:
 NICE LIGHT EFFECTS ON CRYSTALS

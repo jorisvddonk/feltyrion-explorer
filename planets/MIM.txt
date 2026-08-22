@@ -1,6 +1,8 @@
-Planet: MIM
+Moon: MIM
 Starmap index: 50
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 6
 
 Guide entries:
 COME TO MIM, THE FROZEN PARADISE, ANOTHER STRANGE SON OF AMATISTA. LIFE

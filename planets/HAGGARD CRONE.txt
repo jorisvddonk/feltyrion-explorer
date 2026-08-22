@@ -1,3 +1,5 @@
-Planet: HAGGARD CRONE
+Moon: HAGGARD CRONE
 Starmap index: 13
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MINOR
+Moon id: 2

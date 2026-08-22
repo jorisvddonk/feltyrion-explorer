@@ -1,6 +1,8 @@
-Planet: DISNEY
+Moon: DISNEY
 Starmap index: 07
 Paris coordinates: 3628560, 4254023, -915798
+Orbits: ROSEBEAD
+Moon id: 0
 
 Guide entries:
 FOUNDED EPOC 678.979.481 BY REZA. NAME COMES FROM CRATER SHAPES.            

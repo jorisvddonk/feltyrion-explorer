@@ -1,6 +1,8 @@
-Planet: LUKUBIRF
+Moon: LUKUBIRF
 Starmap index: 14
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: FORDINARM
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. HAS A GOOD

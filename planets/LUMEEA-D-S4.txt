@@ -1,3 +1,5 @@
-Planet: LUMEEA-D-S4
+Moon: LUMEEA-D-S4
 Starmap index: 14
 Paris coordinates: 3348240, -260838, -9137523
+Orbits: LUMEEA-D
+Moon id: 3

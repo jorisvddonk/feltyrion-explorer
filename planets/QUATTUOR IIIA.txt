@@ -1,3 +1,5 @@
-Planet: QUATTUOR IIIA
+Moon: QUATTUOR IIIA
 Starmap index: 08
 Paris coordinates: 3174288, 4345848, -3434396
+Orbits: QUATTUOR III
+Moon id: 0

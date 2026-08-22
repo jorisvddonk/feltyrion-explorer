@@ -1,6 +1,8 @@
-Planet: THYRGE
+Moon: THYRGE
 Starmap index: 43
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: DIMTO
+Moon id: 0
 
 Guide entries:
 AN AVERAGE, GREEN, DUSTY MOON. LAND FEATURES ARE SOMETIMES INTERESTING,

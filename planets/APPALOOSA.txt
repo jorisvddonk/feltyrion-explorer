@@ -1,6 +1,8 @@
-Planet: APPALOOSA
+Moon: APPALOOSA
 Starmap index: 11
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 3
 
 Guide entries:
 UPDATE: MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. A INTERESTING

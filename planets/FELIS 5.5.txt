@@ -1,6 +1,8 @@
-Planet: FELIS 5.5
+Moon: FELIS 5.5
 Starmap index: 12
 Paris coordinates: -1626800, 33322066, 4959862
+Orbits: FELIS 5
+Moon id: 4
 
 Guide entries:
  SMALL, SOLID, THIN ATMOSPHERE AND QUITE DUSTY.

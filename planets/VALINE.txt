@@ -1,6 +1,8 @@
-Planet: VALINE
+Moon: VALINE
 Starmap index: 36
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: NEEP
+Moon id: 6
 
 Guide entries:
  SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY AND UNREFLECTIVE

@@ -1,3 +1,5 @@
-Planet: ELRANESIS
+Moon: ELRANESIS
 Starmap index: 10
 Paris coordinates: -61808304, 29569120, 567616
+Orbits: MIRETAES
+Moon id: 0

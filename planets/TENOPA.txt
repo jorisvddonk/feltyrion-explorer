@@ -1,6 +1,8 @@
-Planet: TENOPA
+Moon: TENOPA
 Starmap index: 46
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: BANOCES
+Moon id: 0
 
 Guide entries:
 M01/P12 SMALL SOLD DUSTY, HAS LARGE RAYED CRATERS, A PURPLISH GREY          

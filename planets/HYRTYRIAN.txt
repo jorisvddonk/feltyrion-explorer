@@ -1,6 +1,8 @@
-Planet: HYRTYRIAN
+Moon: HYRTYRIAN
 Starmap index: 21
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 4
 
 Guide entries:
  A MOON OF THE 6TH PLANET OF THE DRAKHNATORIA SYSTEM.

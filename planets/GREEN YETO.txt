@@ -1,3 +1,5 @@
-Planet: GREEN YETO
+Moon: GREEN YETO
 Starmap index: 18
 Paris coordinates: 5855696, 5122770, -1659619
+Orbits: DWAMEE
+Moon id: 5

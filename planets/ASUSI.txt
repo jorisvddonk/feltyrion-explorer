@@ -1,6 +1,8 @@
-Planet: ASUSI
+Moon: ASUSI
 Starmap index: 31
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 15
 
 Guide entries:
 M16/P07 MEDIUM SIZED, ROCKY. ROUGH SURFACED A FEW SIZEABLE CRATERS, SOME    

@@ -1,3 +1,5 @@
-Planet: FOCALA
+Moon: FOCALA
 Starmap index: 16
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: GANAIA
+Moon id: 9

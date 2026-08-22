@@ -1,6 +1,8 @@
-Planet: TANTALUM
+Moon: TANTALUM
 Starmap index: 67
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SEVERAL

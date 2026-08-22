@@ -1,3 +1,5 @@
-Planet: LIANGMA
+Moon: LIANGMA
 Starmap index: 42
 Paris coordinates: 14872112, 32430695, -7740461
+Orbits: ALTRUZAXN
+Moon id: 1

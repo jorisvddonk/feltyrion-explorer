@@ -1,3 +1,5 @@
-Planet: DEATH KNIGHT
+Moon: DEATH KNIGHT
 Starmap index: 79
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NESIMA
+Moon id: 5

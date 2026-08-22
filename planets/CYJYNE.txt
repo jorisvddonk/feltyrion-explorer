@@ -1,6 +1,8 @@
-Planet: CYJYNE
+Moon: CYJYNE
 Starmap index: 07
 Paris coordinates: 2130850352, -1636894, 447026
+Orbits: CIBONE
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY CRATERIZED. MUCH LIKE CIBONE THOUGH YELLOWER      

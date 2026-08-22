@@ -1,3 +1,5 @@
-Planet: ASKEW 10F1
+Moon: ASKEW 10F1
 Starmap index: 31
 Paris coordinates: 5265328, 2222843, 1446761
+Orbits: NEREINTED
+Moon id: 0

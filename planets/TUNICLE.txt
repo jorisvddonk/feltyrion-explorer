@@ -1,6 +1,8 @@
-Planet: TUNICLE
+Moon: TUNICLE
 Starmap index: 17
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: INDICANT
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. IF ONE

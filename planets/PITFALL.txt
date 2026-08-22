@@ -1,6 +1,8 @@
-Planet: PITFALL
+Moon: PITFALL
 Starmap index: 19
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 3
+Moon id: 6
 
 Guide entries:
 DOTTED WITH JAGGED, DEEP,  DANGEROUS  CANYONS

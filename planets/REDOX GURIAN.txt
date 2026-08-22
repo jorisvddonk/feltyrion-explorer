@@ -1,3 +1,5 @@
-Planet: REDOX GURIAN
+Moon: REDOX GURIAN
 Starmap index: 23
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: ZERIBALD
+Moon id: 1

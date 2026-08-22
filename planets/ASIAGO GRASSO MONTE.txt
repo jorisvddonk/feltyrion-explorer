@@ -1,6 +1,8 @@
-Planet: ASIAGO GRASSO MONTE
+Moon: ASIAGO GRASSO MONTE
 Starmap index: 57
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: MAASDAM
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DULL WITH

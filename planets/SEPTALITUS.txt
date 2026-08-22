@@ -1,6 +1,8 @@
-Planet: SEPTALITUS
+Moon: SEPTALITUS
 Starmap index: 19
 Paris coordinates: 4972784, -14963659, 11837379
+Orbits: ASKEW 125E
+Moon id: 2
 
 Guide entries:
 FOUND EPOC 6011 589.976.250 BY ROLAND ASKEW

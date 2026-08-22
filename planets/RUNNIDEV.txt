@@ -1,6 +1,8 @@
-Planet: RUNNIDEV
+Moon: RUNNIDEV
 Starmap index: 12
 Paris coordinates: -267504, 1291695, 1373831
+Orbits: VALEN
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE PLANET VALEN

@@ -1,6 +1,8 @@
-Planet: MADUENYSEL
+Moon: MADUENYSEL
 Starmap index: 46
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO SOLA
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:797.633)               

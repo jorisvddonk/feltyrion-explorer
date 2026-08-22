@@ -1,3 +1,5 @@
-Planet: DUKOV
+Moon: DUKOV
 Starmap index: 10
 Paris coordinates: -4872112, -75428596, -2064196
+Orbits: ALPERS
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 7.5
+Moon: VARACYLNIA 7.5
 Starmap index: 23
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 7
+Moon id: 4
 
 Guide entries:
  COLD, THIN ATMOSPHERE, DEAD, AND DUSTY.

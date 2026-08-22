@@ -1,3 +1,5 @@
-Planet: ORAVRABUSHEV
+Moon: ORAVRABUSHEV
 Starmap index: 13
 Paris coordinates: 470352, -472659, 722038
+Orbits: RYRAMALIADRAN
+Moon id: 4

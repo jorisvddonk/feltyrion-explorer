@@ -1,3 +1,5 @@
-Planet: ZEKK
+Moon: ZEKK
 Starmap index: 20
 Paris coordinates: 4142128, 4782625, -641787
+Orbits: JEKK
+Moon id: 0

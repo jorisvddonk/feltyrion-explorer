@@ -1,3 +1,5 @@
-Planet: KMD1
+Moon: KMD1
 Starmap index: 11
 Paris coordinates: 4190704, 4843563, -1729734
+Orbits: KARPEX
+Moon id: 0

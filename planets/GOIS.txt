@@ -1,6 +1,8 @@
-Planet: GOIS
+Moon: GOIS
 Starmap index: 37
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRORN
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, LIGHT AREA NOTED, FAIR POLAR

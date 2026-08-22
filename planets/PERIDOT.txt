@@ -1,3 +1,5 @@
-Planet: PERIDOT
+Moon: PERIDOT
 Starmap index: 15
 Paris coordinates: 3966416, 4366334, -852728
+Orbits: CROWN
+Moon id: 4

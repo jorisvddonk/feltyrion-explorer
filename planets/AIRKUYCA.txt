@@ -1,3 +1,5 @@
-Planet: AIRKUYCA
+Moon: AIRKUYCA
 Starmap index: 41
 Paris coordinates: -614992, 734031, -1219112
+Orbits: PYCOLDUS
+Moon id: 0

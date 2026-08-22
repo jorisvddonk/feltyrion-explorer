@@ -1,6 +1,8 @@
-Planet: GRAN CYAN
+Moon: GRAN CYAN
 Starmap index: 27
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 17
 
 Guide entries:
  (SKYGEM B18) A FELYISAN PLANET, WITH EQUAL PROPORTIONS OF LAND AND

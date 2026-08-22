@@ -1,6 +1,8 @@
-Planet: FOOTBOY
+Moon: FOOTBOY
 Starmap index: 23
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

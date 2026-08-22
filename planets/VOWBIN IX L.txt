@@ -1,6 +1,8 @@
-Planet: VOWBIN IX L
+Moon: VOWBIN IX L
 Starmap index: 40
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 11
 
 Guide entries:
 BRIGHT NEON-GREEN ICEWORLD. (SCHMERM 6011 600.721)

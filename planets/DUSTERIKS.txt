@@ -1,3 +1,5 @@
-Planet: DUSTERIKS
+Moon: DUSTERIKS
 Starmap index: 20
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: REKUREKURE 31
+Moon id: 0

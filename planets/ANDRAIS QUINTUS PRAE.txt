@@ -1,3 +1,5 @@
-Planet: ANDRAIS QUINTUS PRAE
+Moon: ANDRAIS QUINTUS PRAE
 Starmap index: 45
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS QUINTUS
+Moon id: 10

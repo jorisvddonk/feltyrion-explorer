@@ -1,3 +1,5 @@
-Planet: BURNEDY
+Moon: BURNEDY
 Starmap index: 19
 Paris coordinates: 487856, 49102, -230101
+Orbits: TRIGONOMETRIC
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: SKYGEM C8
+Moon: SKYGEM C8
 Starmap index: 37
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 7
 
 Guide entries:
  A UNINPRESSIVE BARREN ROCK. AMWHERE 6011.584.972

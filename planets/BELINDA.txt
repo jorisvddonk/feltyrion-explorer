@@ -1,3 +1,5 @@
-Planet: BELINDA
+Moon: BELINDA
 Starmap index: 21
 Paris coordinates: 4187856, 4758060, -3857377
+Orbits: EMM
+Moon id: 5

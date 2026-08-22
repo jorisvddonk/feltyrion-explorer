@@ -1,3 +1,5 @@
-Planet: GUIK
+Moon: GUIK
 Starmap index: 08
 Paris coordinates: -2162480, -7768489, -2349162
+Orbits: SMUDO
+Moon id: 0

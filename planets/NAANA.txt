@@ -1,6 +1,8 @@
-Planet: NAANA
+Moon: NAANA
 Starmap index: 20
 Paris coordinates: 1413381072, -31268, -1413496484
+Orbits: planet index 05
+Moon id: 1
 
 Guide entries:
 THIN-AT PLANET...0.2 ATM, ACTUALLY. RATHER GLOOMY, DARK TEAL SURFACE.       

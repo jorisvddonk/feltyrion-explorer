@@ -1,6 +1,8 @@
-Planet: SEMATIC
+Moon: SEMATIC
 Starmap index: 13
 Paris coordinates: 3797488, 4355365, -1030058
+Orbits: PWILL
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

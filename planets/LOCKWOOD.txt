@@ -1,3 +1,5 @@
-Planet: LOCKWOOD
+Moon: LOCKWOOD
 Starmap index: 10
 Paris coordinates: 283920, 1098668, 1693952
+Orbits: planet index 03
+Moon id: 6

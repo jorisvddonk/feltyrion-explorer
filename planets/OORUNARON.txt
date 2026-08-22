@@ -1,6 +1,8 @@
-Planet: OORUNARON
+Moon: OORUNARON
 Starmap index: 29
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 15
 
 Guide entries:
 REDDISH GAS GIANT, IT TAKES 41.96 OORUNARON DAYS TO ORBIT GREL VREUNARLYA

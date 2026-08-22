@@ -1,3 +1,5 @@
-Planet: OLGROTZ
+Moon: OLGROTZ
 Starmap index: 09
 Paris coordinates: -835344, -14673956, -2040846
+Orbits: GRUEGOR
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: MARON
+Moon: MARON
 Starmap index: 49
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 5
 
 Guide entries:
 AN AVERAGE, MAROON-ISH, ICY WORLD.

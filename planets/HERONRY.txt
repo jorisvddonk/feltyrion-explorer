@@ -1,6 +1,8 @@
-Planet: HERONRY
+Moon: HERONRY
 Starmap index: 18
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: INDICANT
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOTS OF LOVELY LARGE

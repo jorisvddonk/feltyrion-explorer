@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 4A
+Moon: RADAX DANIELLER 4A
 Starmap index: 17
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 4
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: DEEP PURPLE
+Moon: DEEP PURPLE
 Starmap index: 26
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 6

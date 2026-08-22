@@ -1,3 +1,5 @@
-Planet: MUONA
+Moon: MUONA
 Starmap index: 12
 Paris coordinates: 3204272, 4732925, 16061
+Orbits: OXEQUA
+Moon id: 0

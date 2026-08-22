@@ -1,6 +1,8 @@
-Planet: MORA
+Moon: MORA
 Starmap index: 69
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: POOKIE
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. APPEARS MOTTLED FROM ORBIT.

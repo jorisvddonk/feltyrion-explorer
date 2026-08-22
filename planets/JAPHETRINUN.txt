@@ -1,6 +1,8 @@
-Planet: JAPHETRINUN
+Moon: JAPHETRINUN
 Starmap index: 18
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 12
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

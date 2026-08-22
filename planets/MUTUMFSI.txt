@@ -1,3 +1,5 @@
-Planet: MUTUMFSI
+Moon: MUTUMFSI
 Starmap index: 35
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 18

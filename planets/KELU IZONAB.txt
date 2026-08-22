@@ -1,3 +1,5 @@
-Planet: KELU IZONAB
+Moon: KELU IZONAB
 Starmap index: 23
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: JAKAB
+Moon id: 8

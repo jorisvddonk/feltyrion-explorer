@@ -1,3 +1,5 @@
-Planet: SKADIA-3
+Moon: SKADIA-3
 Starmap index: 52
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 8

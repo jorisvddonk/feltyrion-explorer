@@ -1,6 +1,8 @@
-Planet: DORUN
+Moon: DORUN
 Starmap index: 23
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. APPEARANCE CAN ONLY BE

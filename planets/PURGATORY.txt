@@ -1,6 +1,8 @@
-Planet: PURGATORY
+Moon: PURGATORY
 Starmap index: 17
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD- OF A VIOLET TONE WITH SOME LARGE BODIES OF WATER.

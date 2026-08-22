@@ -1,6 +1,8 @@
-Planet: KHAI
+Moon: KHAI
 Starmap index: 43
 Paris coordinates: -1128560, -539771, -1463575
+Orbits: ZARA 14
+Moon id: 2
 
 Guide entries:
 ZARA 03/14

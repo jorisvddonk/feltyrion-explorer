@@ -1,6 +1,8 @@
-Planet: MERODE NEGUS
+Moon: MERODE NEGUS
 Starmap index: 32
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED MOON, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN

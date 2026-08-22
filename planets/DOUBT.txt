@@ -1,6 +1,8 @@
-Planet: DOUBT
+Moon: DOUBT
 Starmap index: 13
 Paris coordinates: 2374288, 4344078, -2741157
+Orbits: SATIE
+Moon id: 4
 
 Guide entries:
 THIS MOON HAS A THICK ATMOSPHERE AND A STRANGE RED/BROWN TINGE TO IT.

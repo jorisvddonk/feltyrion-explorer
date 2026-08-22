@@ -1,6 +1,8 @@
-Planet: BULBI-03-E
+Moon: BULBI-03-E
 Starmap index: 16
 Paris coordinates: 2101424, 6142806, -960659
+Orbits: BULBI-03
+Moon id: 4
 
 Guide entries:
 THIS MOON HAS A WONDERFUL TRANSPARENT GROUND ICE LAND!                      

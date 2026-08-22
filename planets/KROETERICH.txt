@@ -1,3 +1,5 @@
-Planet: KROETERICH
+Moon: KROETERICH
 Starmap index: 25
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: JAKAB
+Moon id: 10

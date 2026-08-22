@@ -1,6 +1,8 @@
-Planet: REW-WU-NORMA
+Moon: REW-WU-NORMA
 Starmap index: 40
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:797.628)             

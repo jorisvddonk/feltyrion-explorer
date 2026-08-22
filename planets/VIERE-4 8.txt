@@ -1,3 +1,5 @@
-Planet: VIERE-4 8
+Moon: VIERE-4 8
 Starmap index: 21
 Paris coordinates: 514992, 473485, 1377492
+Orbits: JANIZWALD
+Moon id: 7

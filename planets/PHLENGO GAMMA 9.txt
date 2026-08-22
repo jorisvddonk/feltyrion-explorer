@@ -1,3 +1,5 @@
-Planet: PHLENGO GAMMA 9
+Moon: PHLENGO GAMMA 9
 Starmap index: 18
 Paris coordinates: 1600572784, 2148138, 54617322
+Orbits: PHLENGO GAMMA
+Moon id: 8

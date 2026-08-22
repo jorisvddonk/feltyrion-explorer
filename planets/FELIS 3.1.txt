@@ -1,6 +1,8 @@
-Planet: FELIS 3.1
+Moon: FELIS 3.1
 Starmap index: 06
 Paris coordinates: -1626800, 33322066, 4959862
+Orbits: FELIS 3
+Moon id: 0
 
 Guide entries:
  THIS MOON IS A VERY SMALL PLANETOID WITH A THIN ATMOSPHERE.

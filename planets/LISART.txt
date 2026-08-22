@@ -1,6 +1,8 @@
-Planet: LISART
+Moon: LISART
 Starmap index: 20
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: ILLAUDATUS
+Moon id: 1
 
 Guide entries:
 M02P06, THIN ATMOSPHERE, SMALL WORLD, PRO 0.111.240; PRV 0.004.464.058

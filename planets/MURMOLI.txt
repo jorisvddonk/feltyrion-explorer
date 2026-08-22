@@ -1,3 +1,5 @@
-Planet: MURMOLI
+Moon: MURMOLI
 Starmap index: 13
 Paris coordinates: 3790704, 5311018, -1433729
+Orbits: KALLIS
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: AMBERIA
+Moon: AMBERIA
 Starmap index: 23
 Paris coordinates: 3735344, 5373064, -622706
+Orbits: AMBERJADE
+Moon id: 1
 
 Guide entries:
  MOON DISCOVERED BY MRUQE; EPOC 6011-568.267

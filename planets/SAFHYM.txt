@@ -1,6 +1,8 @@
-Planet: SAFHYM
+Moon: SAFHYM
 Starmap index: 08
 Paris coordinates: 2060873872, -1780546, 127470
+Orbits: OVERIRFH
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID THIN ATMO FAIRLY DARK, FAIR POLAR CAPS. PRO             

@@ -1,6 +1,8 @@
-Planet: PYSISCAR
+Moon: PYSISCAR
 Starmap index: 45
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: ABEBOK
+Moon id: 0
 
 Guide entries:
 M01/P10 SMALL SOLID DUSTY, GOOD SIZE CRATERS ARE WHAT KEEPS FROM            

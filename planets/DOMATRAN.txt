@@ -1,3 +1,5 @@
-Planet: DOMATRAN
+Moon: DOMATRAN
 Starmap index: 39
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: LEGORINI
+Moon id: 11

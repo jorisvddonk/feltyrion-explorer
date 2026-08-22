@@ -1,3 +1,5 @@
-Planet: GREEN SPIRE
+Moon: GREEN SPIRE
 Starmap index: 27
 Paris coordinates: 1577136, 4292069, 78342
+Orbits: BIG MOM
+Moon id: 2

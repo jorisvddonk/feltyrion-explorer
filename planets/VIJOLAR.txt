@@ -1,6 +1,8 @@
-Planet: VIJOLAR
+Moon: VIJOLAR
 Starmap index: 27
 Paris coordinates: 3866416, 4622974, -953228
+Orbits: VIJOLKO
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY JOZE MAUCEC, EPOC 6011:565.446

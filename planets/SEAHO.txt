@@ -1,6 +1,8 @@
-Planet: SEAHO
+Moon: SEAHO
 Starmap index: 34
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAR ATTEMPT
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED WITH CRATERS.

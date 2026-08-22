@@ -1,6 +1,8 @@
-Planet: BALLON 17.10
+Moon: BALLON 17.10
 Starmap index: 58
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 9
 
 Guide entries:
 OH YES, MOVING FURTHER AND ENCOUNTERING MOVE AMAZING WORLDS WITH            

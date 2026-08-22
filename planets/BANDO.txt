@@ -1,3 +1,5 @@
-Planet: BANDO
+Moon: BANDO
 Starmap index: 18
 Paris coordinates: 3290704, 5637570, -892839
+Orbits: KERMIT
+Moon id: 2

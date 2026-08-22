@@ -1,6 +1,8 @@
-Planet: TADEL
+Moon: TADEL
 Starmap index: 25
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. BECAUSE BOTH THE CRATERS

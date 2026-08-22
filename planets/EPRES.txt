@@ -1,6 +1,8 @@
-Planet: EPRES
+Moon: EPRES
 Starmap index: 10
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: JOKE OF THE GODS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK, THIN POLES. SKINNYMON EPOC

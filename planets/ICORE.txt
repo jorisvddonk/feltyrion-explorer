@@ -1,6 +1,8 @@
-Planet: ICORE
+Moon: ICORE
 Starmap index: 26
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 2
 
 Guide entries:
 SURFACE COLORS ARE A VARIETY RANGING FROM BLUE, PINK, TO GREY. OTHERWISE

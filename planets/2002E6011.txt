@@ -1,3 +1,5 @@
-Planet: 2002E6011
+Moon: 2002E6011
 Starmap index: 08
 Paris coordinates: 574288, 535718, -933464
+Orbits: planet index 03
+Moon id: 3

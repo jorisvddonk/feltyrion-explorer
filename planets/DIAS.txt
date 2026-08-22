@@ -1,6 +1,8 @@
-Planet: DIAS
+Moon: DIAS
 Starmap index: 44
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE RAYED CRATERS.

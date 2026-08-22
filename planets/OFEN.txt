@@ -1,6 +1,8 @@
-Planet: OFEN
+Moon: OFEN
 Starmap index: 05
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 0
 
 Guide entries:
 ATMOSPHERE IS BLUISH GREEN, LANDSCAPE RANGING FROM DULL ORANGE TO YELLOW.

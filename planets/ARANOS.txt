@@ -1,3 +1,5 @@
-Planet: ARANOS
+Moon: ARANOS
 Starmap index: 07
 Paris coordinates: 26677904, 6146018, 44553651
+Orbits: BLUEVE B
+Moon id: 0

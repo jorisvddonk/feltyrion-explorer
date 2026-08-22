@@ -1,3 +1,5 @@
-Planet: LAND O' LAVA
+Moon: LAND O' LAVA
 Starmap index: 18
 Paris coordinates: -71562064, -598009, 53608687
+Orbits: MALT
+Moon id: 2

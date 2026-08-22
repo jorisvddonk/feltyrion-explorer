@@ -1,3 +1,5 @@
-Planet: QUARTZ MARY
+Moon: QUARTZ MARY
 Starmap index: 09
 Paris coordinates: 4259632, 5344350, -1544840
+Orbits: planet index 03
+Moon id: 3

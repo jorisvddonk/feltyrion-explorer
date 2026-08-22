@@ -1,6 +1,8 @@
-Planet: FOUNDLAND
+Moon: FOUNDLAND
 Starmap index: 15
 Paris coordinates: 3663568, 4179686, -2879759
+Orbits: MOONPULLER
+Moon id: 4
 
 Guide entries:
  MULTIPLE VISITS PRODUCED SUN, RAIN, AND COOL TO WARM TEMPS. NICE PL

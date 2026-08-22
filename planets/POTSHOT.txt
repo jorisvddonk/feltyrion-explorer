@@ -1,3 +1,5 @@
-Planet: POTSHOT
+Moon: POTSHOT
 Starmap index: 08
 Paris coordinates: 4021776, 4697159, -1738166
+Orbits: WATERMELON
+Moon id: 0

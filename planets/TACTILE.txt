@@ -1,6 +1,8 @@
-Planet: TACTILE
+Moon: TACTILE
 Starmap index: 23
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SHOWS ONLY

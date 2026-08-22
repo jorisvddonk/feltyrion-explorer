@@ -1,3 +1,5 @@
-Planet: ZETA ABYSSALIS 3A
+Moon: ZETA ABYSSALIS 3A
 Starmap index: 04
 Paris coordinates: 7298832, -16764526, 14912992
+Orbits: ZETA ABYSSALIS 3
+Moon id: 0

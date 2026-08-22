@@ -1,6 +1,8 @@
-Planet: QOUIR 7.7
+Moon: QOUIR 7.7
 Starmap index: 20
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 6
 
 Guide entries:
  A SOLID PLANETOID, FULLY COVERED BY DENCE CLOUDS.

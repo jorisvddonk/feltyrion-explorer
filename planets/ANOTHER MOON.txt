@@ -1,6 +1,8 @@
-Planet: ANOTHER MOON
+Moon: ANOTHER MOON
 Starmap index: 19
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 2
 
 Guide entries:
  NAME SAYS IT ALL. YET ANOTHER DEAD ROCK IN SPACE. CRATERIZED,

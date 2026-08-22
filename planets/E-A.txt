@@ -1,6 +1,8 @@
-Planet: E-A
+Moon: E-A
 Starmap index: 36
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-E
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SURFACE SLIGHTLY DARKER

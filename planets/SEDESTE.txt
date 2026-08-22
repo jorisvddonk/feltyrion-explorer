@@ -1,6 +1,8 @@
-Planet: SEDESTE
+Moon: SEDESTE
 Starmap index: 19
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED MOON, NO ATMOSPHERE. SUITABLE FOR

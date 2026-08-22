@@ -1,3 +1,5 @@
-Planet: CRINKLE
+Moon: CRINKLE
 Starmap index: 17
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: BITTER
+Moon id: 1

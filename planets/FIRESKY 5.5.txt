@@ -1,6 +1,8 @@
-Planet: FIRESKY 5.5
+Moon: FIRESKY 5.5
 Starmap index: 34
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 5
+Moon id: 4
 
 Guide entries:
 MEDIUM-SIZED, ROCKY, CREASED, NO ATMOSPHERE. REALLY UNINTERESTING.

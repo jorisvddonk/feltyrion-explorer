@@ -1,6 +1,8 @@
-Planet: BREDNI
+Moon: BREDNI
 Starmap index: 34
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 10
 
 Guide entries:
 REALLY DARK PLANET, BLUE SURFACE, AND RED ATMOSHPERE. LARGELY

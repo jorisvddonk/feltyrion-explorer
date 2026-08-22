@@ -1,3 +1,5 @@
-Planet: SEASHINING GEM
+Moon: SEASHINING GEM
 Starmap index: 05
 Paris coordinates: 3759632, 5130317, -1039622
+Orbits: DARK DISSIDENT
+Moon id: 1

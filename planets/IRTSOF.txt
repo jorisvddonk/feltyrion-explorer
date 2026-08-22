@@ -1,6 +1,8 @@
-Planet: IRTSOF
+Moon: IRTSOF
 Starmap index: 36
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: SAFEN
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A FAIR BLUIE REFLECTIVITY

@@ -1,6 +1,8 @@
-Planet: TYCO
+Moon: TYCO
 Starmap index: 17
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 3
 
 Guide entries:
 MOON #4 OF THE SEVENTH PLANET, MEGAVENE. EXTREMELY ICY, NO ATMOSPHERE.      

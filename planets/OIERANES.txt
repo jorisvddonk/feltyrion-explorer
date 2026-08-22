@@ -1,3 +1,5 @@
-Planet: OIERANES
+Moon: OIERANES
 Starmap index: 17
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: RINGERIS
+Moon id: 1

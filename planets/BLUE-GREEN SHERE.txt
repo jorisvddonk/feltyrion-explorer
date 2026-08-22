@@ -1,6 +1,8 @@
-Planet: BLUE-GREEN SHERE
+Moon: BLUE-GREEN SHERE
 Starmap index: 09
 Paris coordinates: -525712, 133043, 25099
+Orbits: DECEPTION
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY JUS EPOC 6011.578.511

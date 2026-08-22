@@ -1,6 +1,8 @@
-Planet: BIRD 9.9
+Moon: BIRD 9.9
 Starmap index: 24
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 9
+Moon id: 8
 
 Guide entries:
 ANOTHER ICEBALL, BUT SOMEWHAT UNUSUALLY COLOURED.

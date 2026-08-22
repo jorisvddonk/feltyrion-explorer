@@ -1,6 +1,8 @@
-Planet: STEP SON
+Moon: STEP SON
 Starmap index: 20
 Paris coordinates: 56784, -50870, 565621
+Orbits: HUT
+Moon id: 8
 
 Guide entries:
  FELISIAN MOON DISC BY SCAREDY-CAT, EPOC 6011.583.792

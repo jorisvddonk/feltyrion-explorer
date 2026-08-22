@@ -1,6 +1,8 @@
-Planet: WUNDER LIEBLING
+Moon: WUNDER LIEBLING
 Starmap index: 08
 Paris coordinates: 2332496, 4519761, -1238026
+Orbits: WUNDER 4
+Moon id: 0
 
 Guide entries:
 DARK CRYSTALIC UNINTERESTING FLAT SURFACE                                   

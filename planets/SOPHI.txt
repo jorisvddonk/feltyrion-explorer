@@ -1,6 +1,8 @@
-Planet: SOPHI
+Moon: SOPHI
 Starmap index: 54
 Paris coordinates: 4955696, 4635983, -633493
+Orbits: planet index 08
+Moon id: 9
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.000.124)

@@ -1,6 +1,8 @@
-Planet: FINIS
+Moon: FINIS
 Starmap index: 33
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 19
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SEVERAL DEEP CRATERS AND

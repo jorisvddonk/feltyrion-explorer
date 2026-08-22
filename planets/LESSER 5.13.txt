@@ -1,6 +1,8 @@
-Planet: LESSER 5.13
+Moon: LESSER 5.13
 Starmap index: 19
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 12
 
 Guide entries:
 MEDIUM-SIZED, ROCKY, CREASED, NO ATMOSPHERE. AN ENORMOUS CRATERS

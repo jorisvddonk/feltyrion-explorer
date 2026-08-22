@@ -1,6 +1,8 @@
-Planet: LEYLAND
+Moon: LEYLAND
 Starmap index: 11
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 0
 
 Guide entries:
 VERY LOW VISIBILITY ON SURFACE, APPARENTLY ROUGH TERRAIN.

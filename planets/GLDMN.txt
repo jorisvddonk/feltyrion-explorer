@@ -1,3 +1,5 @@
-Planet: GLDMN
+Moon: GLDMN
 Starmap index: 12
 Paris coordinates: 2166416, 6329242, 692078
+Orbits: planet index 03
+Moon id: 0

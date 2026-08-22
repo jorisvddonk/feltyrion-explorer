@@ -1,3 +1,5 @@
-Planet: RADIATOR
+Moon: RADIATOR
 Starmap index: 05
 Paris coordinates: 563568, 437608, 261632
+Orbits: ELECTRON
+Moon id: 0

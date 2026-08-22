@@ -1,6 +1,8 @@
-Planet: GOLDILOX
+Moon: GOLDILOX
 Starmap index: 09
 Paris coordinates: 3628560, 4254023, -915798
+Orbits: ROSEBEAD
+Moon id: 2
 
 Guide entries:
 FOUNDED EPOC 6011, 678.979.769 BY REZA. O2 ATMOSPHERE.                      

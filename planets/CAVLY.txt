@@ -1,6 +1,8 @@
-Planet: CAVLY
+Moon: CAVLY
 Starmap index: 16
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 2
 
 Guide entries:
 M03/P05 MEDIUM SIZE ROCKY CREASED HAS A VERY ROUGH SURFAVE WITH A FEW       

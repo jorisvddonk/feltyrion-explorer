@@ -1,3 +1,5 @@
-Planet: BLUE HASEK
+Moon: BLUE HASEK
 Starmap index: 17
 Paris coordinates: 5817840, 5150374, -1805571
+Orbits: planet index 04
+Moon id: 8

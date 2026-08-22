@@ -1,6 +1,8 @@
-Planet: BERLYE
+Moon: BERLYE
 Starmap index: 26
 Paris coordinates: 191792, 393743, -1607331
+Orbits: DISTELIM
+Moon id: 0
 
 Guide entries:
 THE FIRST AND ONLY MOON OF THE EIGHTH PLANET, A DUSTY MOON. NOT MUCH

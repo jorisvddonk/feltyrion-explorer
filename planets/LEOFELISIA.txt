@@ -1,6 +1,8 @@
-Planet: LEOFELISIA
+Moon: LEOFELISIA
 Starmap index: 05
 Paris coordinates: -29648, -1258023, 1474796
+Orbits: LEOPOLD3
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF LEOPOLD3, MEDIUM SIZE FELISIAN WORLD.

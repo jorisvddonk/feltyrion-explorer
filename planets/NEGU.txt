@@ -1,6 +1,8 @@
-Planet: NEGU
+Moon: NEGU
 Starmap index: 24
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: ENTIN
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE RAYED CRATERS.

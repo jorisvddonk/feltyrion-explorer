@@ -1,3 +1,5 @@
-Planet: MALKON
+Moon: MALKON
 Starmap index: 12
 Paris coordinates: 2656784, 5306745, -2228491
+Orbits: AKENDUNN
+Moon id: 2

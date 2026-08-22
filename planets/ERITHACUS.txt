@@ -1,3 +1,5 @@
-Planet: ERITHACUS
+Moon: ERITHACUS
 Starmap index: 29
 Paris coordinates: -61921872, 30034719, 15299
+Orbits: JB 65
+Moon id: 5

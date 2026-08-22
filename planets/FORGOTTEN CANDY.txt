@@ -1,6 +1,8 @@
-Planet: FORGOTTEN CANDY
+Moon: FORGOTTEN CANDY
 Starmap index: 19
 Paris coordinates: -332496, -19693, -380818
+Orbits: SPECKLE
+Moon id: 1
 
 Guide entries:
 DARK, DUSTY-GREEN THIN-ATMOSPHERE MOON OF LAYERED JAWBREAKER

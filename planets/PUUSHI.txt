@@ -1,6 +1,8 @@
-Planet: PUUSHI
+Moon: PUUSHI
 Starmap index: 40
 Paris coordinates: 81072, -77486, -118953
+Orbits: PEESHI
+Moon id: 0
 
 Guide entries:
 HAS A FLAT, SMOOTH, GROOVED ICY SURFACE.

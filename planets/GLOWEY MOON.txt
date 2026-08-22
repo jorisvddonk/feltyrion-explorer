@@ -1,3 +1,5 @@
-Planet: GLOWEY MOON
+Moon: GLOWEY MOON
 Starmap index: 12
 Paris coordinates: -72872784, -1428037, 56200949
+Orbits: QUARTZY
+Moon id: 0

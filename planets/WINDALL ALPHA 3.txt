@@ -1,3 +1,5 @@
-Planet: WINDALL ALPHA 3
+Moon: WINDALL ALPHA 3
 Starmap index: 09
 Paris coordinates: 2147342544, 2227004, 300300652
+Orbits: WINDALL ALPHA
+Moon id: 2

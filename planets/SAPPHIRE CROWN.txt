@@ -1,6 +1,8 @@
-Planet: SAPPHIRE CROWN
+Moon: SAPPHIRE CROWN
 Starmap index: 09
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 3
 
 Guide entries:
 WHEN NAMING THIS PLANET, BOTH BLUE MARBLE AND TO MY VAST

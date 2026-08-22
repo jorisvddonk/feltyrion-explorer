@@ -1,6 +1,8 @@
-Planet: KLYSTRON IX A
+Moon: KLYSTRON IX A
 Starmap index: 31
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: KLYSTRON IX
+Moon id: 0
 
 Guide entries:
 SMOOTH BROWN DEADWORLD WITH SMALL AND VERY WELL-DEFINED CRATERS.

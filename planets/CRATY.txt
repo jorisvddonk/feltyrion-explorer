@@ -1,3 +1,5 @@
-Planet: CRATY
+Moon: CRATY
 Starmap index: 06
 Paris coordinates: 3621776, 4593277, -1283613
+Orbits: QUADSTAR BETA
+Moon id: 0

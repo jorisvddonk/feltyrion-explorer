@@ -1,3 +1,5 @@
-Planet: SICK FROM THE RIDE
+Moon: SICK FROM THE RIDE
 Starmap index: 08
 Paris coordinates: -71593136, -672408, 53770643
+Orbits: TILT A WHIRL
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: ACID DRIZZLES
+Moon: ACID DRIZZLES
 Starmap index: 14
 Paris coordinates: 425712, -65771, 156278
+Orbits: PLACID STORM
+Moon id: 0
 
 Guide entries:
 OLIVE-GREEN CRATERED MOON ORBITING PLACID STROM ON EKA60.--EKA

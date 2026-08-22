@@ -1,6 +1,8 @@
-Planet: UNNY
+Moon: UNNY
 Starmap index: 20
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

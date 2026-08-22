@@ -1,6 +1,8 @@
-Planet: STROTHA TYNHE
+Moon: STROTHA TYNHE
 Starmap index: 30
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 12
 
 Guide entries:
 THIS MOON IS COVERED WITH NICE IMPACT CRATERS. THERE IS A REALLY

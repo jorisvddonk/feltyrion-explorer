@@ -1,6 +1,8 @@
-Planet: VOWBIN IX C
+Moon: VOWBIN IX C
 Starmap index: 31
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 2
 
 Guide entries:
 BRIGHT BLUE REFLECTIVE ICEWORLD. (SCHMERM 6011 600.721)

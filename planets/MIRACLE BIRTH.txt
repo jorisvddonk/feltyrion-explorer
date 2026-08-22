@@ -1,6 +1,8 @@
-Planet: MIRACLE BIRTH
+Moon: MIRACLE BIRTH
 Starmap index: 32
 Paris coordinates: 5438192, 26445464, -185384
+Orbits: planet index 09
+Moon id: 0
 
 Guide entries:
 AN EXTREMELY RARE FIND, A FELISIAN PLANET (MOON, ACTUALLY) IN A

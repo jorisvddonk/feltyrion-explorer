@@ -1,6 +1,8 @@
-Planet: TRILUMI-1-1
+Moon: TRILUMI-1-1
 Starmap index: 03
 Paris coordinates: -1332496, 128377, 402960
+Orbits: TRILUMI-1
+Moon id: 0
 
 Guide entries:
 PLANET DISCOVERED BY JUS EPOC 6011.578.518

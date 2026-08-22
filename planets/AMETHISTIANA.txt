@@ -1,6 +1,8 @@
-Planet: AMETHISTIANA
+Moon: AMETHISTIANA
 Starmap index: 23
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 6
 
 Guide entries:
 FURTHER NOTES: ANOTHER FELISIAN WORLD NAMED BY AN UNKNOWN

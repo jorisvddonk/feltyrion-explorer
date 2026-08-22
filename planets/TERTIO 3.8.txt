@@ -1,6 +1,8 @@
-Planet: TERTIO 3.8
+Moon: TERTIO 3.8
 Starmap index: 13
 Paris coordinates: 11828560, -4640891, -9107608
+Orbits: TERTIO 3
+Moon id: 7
 
 Guide entries:
 A HELLWORLD BEING TORN APART FROM INSIDE BY SOME KIND OF ORBITAL

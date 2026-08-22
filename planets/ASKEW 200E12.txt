@@ -1,3 +1,5 @@
-Planet: ASKEW 200E12
+Moon: ASKEW 200E12
 Starmap index: 43
 Paris coordinates: 3283920, 5272695, -1249674
+Orbits: ASKEW 200E
+Moon id: 11

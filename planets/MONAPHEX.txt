@@ -1,6 +1,8 @@
-Planet: MONAPHEX
+Moon: MONAPHEX
 Starmap index: 07
 Paris coordinates: 1485008, 4177919, -3294996
+Orbits: FIREGLOBE
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY NYO,EPOC 6011:575.826

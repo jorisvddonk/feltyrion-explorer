@@ -1,6 +1,8 @@
-Planet: COPUR
+Moon: COPUR
 Starmap index: 16
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY MEDIUM TO LARGE

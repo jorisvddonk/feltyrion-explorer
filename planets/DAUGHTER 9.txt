@@ -1,3 +1,5 @@
-Planet: DAUGHTER 9
+Moon: DAUGHTER 9
 Starmap index: 17
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 1

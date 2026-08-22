@@ -1,6 +1,8 @@
-Planet: ATORION 1.1
+Moon: ATORION 1.1
 Starmap index: 05
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 1
+Moon id: 0
 
 Guide entries:
  THIS SMALL, MARS-SIZED PLANET APPEARS TO BE A FELISIAN WORLD.

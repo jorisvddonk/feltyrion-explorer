@@ -1,3 +1,5 @@
-Planet: HEND-6 1
+Moon: HEND-6 1
 Starmap index: 21
 Paris coordinates: -98576, 812650, 1187944
+Orbits: HEND-6
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: COPISFHO
+Moon: COPISFHO
 Starmap index: 33
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 12
 
 Guide entries:
 M13/P08 MEDIUM SIZE INTERNALLY HOT, UNSTABLE, APPEARS DULLRED WITH          

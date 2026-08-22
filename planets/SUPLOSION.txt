@@ -1,3 +1,5 @@
-Planet: SUPLOSION
+Moon: SUPLOSION
 Starmap index: 63
 Paris coordinates: 70352, 945533, 1134813
+Orbits: GASTRIX
+Moon id: 9

@@ -1,6 +1,8 @@
-Planet: GONTAR
+Moon: GONTAR
 Starmap index: 14
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: NADIR
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY AND CREASED, THE MOON OF NADIR.

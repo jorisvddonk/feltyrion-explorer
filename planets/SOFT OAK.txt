@@ -1,6 +1,8 @@
-Planet: SOFT OAK
+Moon: SOFT OAK
 Starmap index: 24
 Paris coordinates: -436432, 188642, 1163637
+Orbits: OAK
+Moon id: 17
 
 Guide entries:
 DISCOVERED BY ZOSETE (EPOC6011. 577.543.129)

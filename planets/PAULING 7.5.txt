@@ -1,6 +1,8 @@
-Planet: PAULING 7.5
+Moon: PAULING 7.5
 Starmap index: 30
 Paris coordinates: 12052848, -4655501, -9731942
+Orbits: PAULING 7
+Moon id: 4
 
 Guide entries:
 ONE MORE OF THOSE MOONS. HAS A BIG BELT AT THE EQUATOR AND A

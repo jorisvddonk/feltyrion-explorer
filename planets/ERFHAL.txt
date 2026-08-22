@@ -1,3 +1,5 @@
-Planet: ERFHAL
+Moon: ERFHAL
 Starmap index: 16
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: SECYAMAN C
+Moon id: 6

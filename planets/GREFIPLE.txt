@@ -1,6 +1,8 @@
-Planet: GREFIPLE
+Moon: GREFIPLE
 Starmap index: 05
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT A
+Moon id: 0
 
 Guide entries:
 MOON HAS DARK GREEN SURFACE AREA, NOT VERY BRIGHT, EVEN IF BOTH SUNS

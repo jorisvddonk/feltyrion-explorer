@@ -1,6 +1,8 @@
-Planet: LETER
+Moon: LETER
 Starmap index: 23
 Paris coordinates: 1158546096, -274926, -1000180310
+Orbits: HATAMECSAI
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZE, ROCKY, CREASED. (NOTES BY NEUZD, 6011:835.978)                 

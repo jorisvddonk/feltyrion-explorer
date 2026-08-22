@@ -1,6 +1,8 @@
-Planet: MONA
+Moon: MONA
 Starmap index: 17
 Paris coordinates: 1373200, 778257, 2089632
+Orbits: GASEORB
+Moon id: 3
 
 Guide entries:
 MEDIUM-SIZED, ROCKY AND CREASED SURFACE, NO ATMOSPHERE. THE SURFACE IS

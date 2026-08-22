@@ -1,6 +1,8 @@
-Planet: CORAL II-5B
+Moon: CORAL II-5B
 Starmap index: 40
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-5
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE

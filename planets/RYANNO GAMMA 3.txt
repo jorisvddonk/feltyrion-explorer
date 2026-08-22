@@ -1,3 +1,5 @@
-Planet: RYANNO GAMMA 3
+Moon: RYANNO GAMMA 3
 Starmap index: 09
 Paris coordinates: 601679280, 1439556, 55169372
+Orbits: RYANNO GAMMA
+Moon id: 2

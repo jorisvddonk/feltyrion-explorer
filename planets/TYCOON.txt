@@ -1,6 +1,8 @@
-Planet: TYCOON
+Moon: TYCOON
 Starmap index: 30
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: TETLEY
+Moon id: 1
 
 Guide entries:
 QUITE AN INTERESTING MOON WITH A BEAUTIFUL SKY.

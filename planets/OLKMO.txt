@@ -1,6 +1,8 @@
-Planet: OLKMO
+Moon: OLKMO
 Starmap index: 56
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK WITH ONE SMALL LIGHT PATCH,

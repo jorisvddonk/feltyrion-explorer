@@ -1,6 +1,8 @@
-Planet: YEFE
+Moon: YEFE
 Starmap index: 10
 Paris coordinates: 281744, 1534683, 9315465
+Orbits: PEARF
+Moon id: 0
 
 Guide entries:
 MOON HAS GREEN, YELLOW, TO GREY SURFACE, COVERED WITH HILLS, CRATERS, AND

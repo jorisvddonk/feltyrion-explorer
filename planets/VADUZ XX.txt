@@ -1,3 +1,5 @@
-Planet: VADUZ XX
+Moon: VADUZ XX
 Starmap index: 25
 Paris coordinates: 3770352, 4542875, -2364699
+Orbits: VADUZ
+Moon id: 19

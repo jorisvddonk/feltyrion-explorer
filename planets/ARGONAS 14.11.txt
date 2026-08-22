@@ -1,6 +1,8 @@
-Planet: ARGONAS 14.11
+Moon: ARGONAS 14.11
 Starmap index: 57
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 14
+Moon id: 10
 
 Guide entries:
  ICE, COLD, SMALL, NOPE.

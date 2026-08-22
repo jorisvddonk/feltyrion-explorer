@@ -1,6 +1,8 @@
-Planet: BOFFACSAL
+Moon: BOFFACSAL
 Starmap index: 23
 Paris coordinates: 1194640, 62929486, -441858
+Orbits: MATE KALAS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE. (NOTES BY NEUZD, 6011:798.209)                   

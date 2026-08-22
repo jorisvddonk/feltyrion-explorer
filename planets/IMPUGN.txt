@@ -1,6 +1,8 @@
-Planet: IMPUGN
+Moon: IMPUGN
 Starmap index: 21
 Paris coordinates: -163568, 2358, -418951
+Orbits: PIQUE
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. WELL SCARRED WITH LARGE

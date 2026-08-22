@@ -1,3 +1,5 @@
-Planet: PYKTIS
+Moon: PYKTIS
 Starmap index: 12
 Paris coordinates: 13778896, 7771155, -6306874
+Orbits: BAIME
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: CHRZAN
+Moon: CHRZAN
 Starmap index: 17
 Paris coordinates: 918928, -67261658, -687914
+Orbits: FORSYTH
+Moon id: 4
 
 Guide entries:
  DISCOVERD BY JAFO. EPOC 6011:584:375

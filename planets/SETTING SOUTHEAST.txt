@@ -1,3 +1,5 @@
-Planet: SETTING SOUTHEAST
+Moon: SETTING SOUTHEAST
 Starmap index: 14
 Paris coordinates: 3677136, 4440439, -2078563
+Orbits: planet index 03
+Moon id: 10

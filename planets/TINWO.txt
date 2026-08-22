@@ -1,6 +1,8 @@
-Planet: TINWO
+Moon: TINWO
 Starmap index: 11
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: KOLOSIA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE

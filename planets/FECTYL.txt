@@ -1,6 +1,8 @@
-Planet: FECTYL
+Moon: FECTYL
 Starmap index: 12
 Paris coordinates: 4497488, 5149116, -1701105
+Orbits: CRINA
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY

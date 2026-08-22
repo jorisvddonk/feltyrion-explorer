@@ -1,6 +1,8 @@
-Planet: LUMEN ZETA
+Moon: LUMEN ZETA
 Starmap index: 11
 Paris coordinates: 3666416, 5031653, -821054
+Orbits: LUMEN
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF PLANET LUMEN IN THE CELESTRA SYSTEM

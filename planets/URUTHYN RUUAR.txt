@@ -1,3 +1,5 @@
-Planet: URUTHYN RUUAR
+Moon: URUTHYN RUUAR
 Starmap index: 27
 Paris coordinates: 58819632, -33812924, 926872580
+Orbits: RUUAR ILN GRARN
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: RHOMB
+Moon: RHOMB
 Starmap index: 04
 Paris coordinates: 3666416, 4631653, -817411
+Orbits: SMALL-FRENZAL
+Moon id: 1
 
 Guide entries:
  YELLOW COLOUR, UNSTABLE SURFACE NO ATMOSPHERE.DISCOVERED BY DR. FRASER

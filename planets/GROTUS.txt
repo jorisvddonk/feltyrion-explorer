@@ -1,6 +1,8 @@
-Planet: GROTUS
+Moon: GROTUS
 Starmap index: 32
 Paris coordinates: 2935344, 4630986, 272990
+Orbits: VIRIDIANA
+Moon id: 14
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.388 -                               

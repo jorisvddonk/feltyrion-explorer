@@ -1,6 +1,8 @@
-Planet: ANETORIAFECH
+Moon: ANETORIAFECH
 Starmap index: 25
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:797.127)             

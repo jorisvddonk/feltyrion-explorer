@@ -1,6 +1,8 @@
-Planet: EVORA 6.3
+Moon: EVORA 6.3
 Starmap index: 23
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 6
+Moon id: 2
 
 Guide entries:
  SAME AS THE SECOND MOON OF EVORA 6 - THIS WORLD IS ALSO A SMALL

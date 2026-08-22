@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.13
+Moon: GRANTED WISH 7.13
 Starmap index: 32
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 12
 
 Guide entries:
 I'D WRITE 'SEE 7,12', BUT THIS SUBSTELLAR OBJECT IS                         

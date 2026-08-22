@@ -1,3 +1,5 @@
-Planet: OTSEGO
+Moon: OTSEGO
 Starmap index: 13
 Paris coordinates: 4166416, 4103058, -1094541
+Orbits: TRIPLESTAR-BETA
+Moon id: 4

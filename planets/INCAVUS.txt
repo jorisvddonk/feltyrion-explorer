@@ -1,6 +1,8 @@
-Planet: INCAVUS
+Moon: INCAVUS
 Starmap index: 07
 Paris coordinates: -71941712, -1356971, 55222507
+Orbits: POLLUX II
+Moon id: 3
 
 Guide entries:
 ENORMOUS CHASM FOUND AT SECTOR 79,96 HEADING SOUTH

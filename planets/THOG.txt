@@ -1,3 +1,5 @@
-Planet: THOG
+Moon: THOG
 Starmap index: 13
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: DOTOR
+Moon id: 1

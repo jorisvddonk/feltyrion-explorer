@@ -1,6 +1,8 @@
-Planet: REFHIJIL
+Moon: REFHIJIL
 Starmap index: 21
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 13
 
 Guide entries:
 M14/P04HOT AND UNSTABLE SURFACE. LIGHT REFLECTIVITY SPLATTERED WITH

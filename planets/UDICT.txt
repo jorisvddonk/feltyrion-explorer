@@ -1,6 +1,8 @@
-Planet: UDICT
+Moon: UDICT
 Starmap index: 30
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY UNREFLECTIVE ON THE VERGE

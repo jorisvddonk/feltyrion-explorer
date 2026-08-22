@@ -1,6 +1,8 @@
-Planet: CORAL II-6E
+Moon: CORAL II-6E
 Starmap index: 53
 Paris coordinates: -539280, 237210, -624416
+Orbits: planet index 06
+Moon id: 4
 
 Guide entries:
 A FELISIAN WORLD- AT 347.60 IT IS HILLY AND FORESTED. AT 256.32

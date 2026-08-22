@@ -1,6 +1,8 @@
-Planet: BABICHE
+Moon: BABICHE
 Starmap index: 53
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: PERNICIOUS
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAPS QUITE VISIBLE..

@@ -1,6 +1,8 @@
-Planet: BLEFEN
+Moon: BLEFEN
 Starmap index: 25
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: BRISIMI
+Moon id: 0
 
 Guide entries:
 A BLUE, DUSTY MOON, THE ONLY ONE OF THE NINTH PLANET. SURFACE COLOR

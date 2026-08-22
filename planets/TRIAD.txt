@@ -1,6 +1,8 @@
-Planet: TRIAD
+Moon: TRIAD
 Starmap index: 17
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 11
 
 Guide entries:
 THIS MOON IS SUITABLE FOR LIFE! I MUST EXPLORE IMMEDIATELY!!!

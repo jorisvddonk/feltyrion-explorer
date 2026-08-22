@@ -1,3 +1,5 @@
-Planet: SCHORCHEL
+Moon: SCHORCHEL
 Starmap index: 56
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: INSEL DER DUNKELHEIT
+Moon id: 5

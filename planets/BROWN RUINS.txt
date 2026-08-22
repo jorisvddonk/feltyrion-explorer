@@ -1,6 +1,8 @@
-Planet: BROWN RUINS
+Moon: BROWN RUINS
 Starmap index: 06
 Paris coordinates: -68592, 5027197, 4888264
+Orbits: GREEN JEWEL
+Moon id: 2
 
 Guide entries:
 THIS MOON SEEMS TO BE COVERED WITH *HUGE* OVERLAPPING CRATERS,

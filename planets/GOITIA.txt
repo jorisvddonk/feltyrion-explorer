@@ -1,3 +1,5 @@
-Planet: GOITIA
+Moon: GOITIA
 Starmap index: 59
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 15

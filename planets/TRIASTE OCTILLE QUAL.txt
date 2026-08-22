@@ -1,3 +1,5 @@
-Planet: TRIASTE OCTILLE QUAL
+Moon: TRIASTE OCTILLE QUAL
 Starmap index: 26
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE OCTILLE
+Moon id: 3

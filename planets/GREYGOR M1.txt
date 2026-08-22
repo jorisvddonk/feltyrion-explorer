@@ -1,6 +1,8 @@
-Planet: GREYGOR M1
+Moon: GREYGOR M1
 Starmap index: 10
 Paris coordinates: -18928, 229680, -137040
+Orbits: GREYGOR
+Moon id: 0
 
 Guide entries:
 I DECIDED TO GO CHECK OUT THE ANOMALY AT 263.79 AFTER LANDING I RAN

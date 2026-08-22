@@ -1,6 +1,8 @@
-Planet: MUSAKA
+Moon: MUSAKA
 Starmap index: 13
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: LATERZ
+Moon id: 2
 
 Guide entries:
 INTRUDER HERE YOU CAN FIND A PLENTY OF BIRDS AND WILDWIFE.

@@ -1,6 +1,8 @@
-Planet: BRIGHTLIFE
+Moon: BRIGHTLIFE
 Starmap index: 11
 Paris coordinates: 933168, 1028732, 9880851
+Orbits: BRIGHTRING
+Moon id: 1
 
 Guide entries:
 THIS MOON OF BRIGHTRING IS FELISIAN AND SWARMING WITH LIFE. LARGE           

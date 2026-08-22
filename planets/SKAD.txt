@@ -1,6 +1,8 @@
-Planet: SKAD
+Moon: SKAD
 Starmap index: 34
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: DRACERTON
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATE GREENISH-BLUE

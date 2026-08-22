@@ -1,6 +1,8 @@
-Planet: CLOPA
+Moon: CLOPA
 Starmap index: 42
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. AN AGITATED

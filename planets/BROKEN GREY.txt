@@ -1,6 +1,8 @@
-Planet: BROKEN GREY
+Moon: BROKEN GREY
 Starmap index: 48
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: WARM EMBRACE
+Moon id: 15
 
 Guide entries:
 GREY CREASED MOON ORBITING PLANET WARM EMBRACE. --EKA

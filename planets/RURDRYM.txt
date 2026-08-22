@@ -1,6 +1,8 @@
-Planet: RURDRYM
+Moon: RURDRYM
 Starmap index: 20
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 11
 
 Guide entries:
 ROSE-COLORED GAS GIANT WITH A YELLOW BAND NEAR THE NORTH POLE.

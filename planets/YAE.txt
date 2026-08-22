@@ -1,6 +1,8 @@
-Planet: YAE
+Moon: YAE
 Starmap index: 18
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: GEI
+Moon id: 4
 
 Guide entries:
 YAY! A QUARTZ PLANET, THE FIRST I FOUND IN THIS SYSTEM AFTER ABOUT 10       

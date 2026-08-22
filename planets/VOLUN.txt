@@ -1,6 +1,8 @@
-Planet: VOLUN
+Moon: VOLUN
 Starmap index: 24
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

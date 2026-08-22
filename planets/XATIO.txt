@@ -1,6 +1,8 @@
-Planet: XATIO
+Moon: XATIO
 Starmap index: 08
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: ADGLA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE SURFACE

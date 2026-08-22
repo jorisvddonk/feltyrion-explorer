@@ -1,6 +1,8 @@
-Planet: DAVIN LAMBDA
+Moon: DAVIN LAMBDA
 Starmap index: 43
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 10
 
 Guide entries:
 ELEVENTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

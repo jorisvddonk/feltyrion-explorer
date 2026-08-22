@@ -1,6 +1,8 @@
-Planet: NORWEGIAN BLUE
+Moon: NORWEGIAN BLUE
 Starmap index: 13
 Paris coordinates: 3548912, 5115546, 351991
+Orbits: BRIGHTON
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A VERY

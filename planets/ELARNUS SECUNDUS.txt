@@ -1,3 +1,5 @@
-Planet: ELARNUS SECUNDUS
+Moon: ELARNUS SECUNDUS
 Starmap index: 09
 Paris coordinates: 4755696, 4375095, -401376
+Orbits: ELARNUS PRIME
+Moon id: 0

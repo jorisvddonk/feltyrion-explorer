@@ -1,3 +1,5 @@
-Planet: VIERE-6 1
+Moon: VIERE-6 1
 Starmap index: 27
 Paris coordinates: 514992, 473485, 1377492
+Orbits: VIERE-6
+Moon id: 0

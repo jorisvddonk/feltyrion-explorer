@@ -1,3 +1,5 @@
-Planet: NAMIA-1
+Moon: NAMIA-1
 Starmap index: 22
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 2

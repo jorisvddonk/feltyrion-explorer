@@ -1,3 +1,5 @@
-Planet: SYBIR 2
+Moon: SYBIR 2
 Starmap index: 36
 Paris coordinates: -61270448, 30091829, 306909
+Orbits: EXCUBITOR
+Moon id: 10

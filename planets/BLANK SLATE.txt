@@ -1,6 +1,8 @@
-Planet: BLANK SLATE
+Moon: BLANK SLATE
 Starmap index: 23
 Paris coordinates: 4066416, 4419160, -988413
+Orbits: JLJ-GGP-4
+Moon id: 1
 
 Guide entries:
 NO AMOSPHERE, HILLY SURFACE. NOTHING OF INTEREST.

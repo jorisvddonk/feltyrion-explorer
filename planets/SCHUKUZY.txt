@@ -1,3 +1,5 @@
-Planet: SCHUKUZY
+Moon: SCHUKUZY
 Starmap index: 46
 Paris coordinates: -614992, 734031, -1219112
+Orbits: GOPSESSA
+Moon id: 2

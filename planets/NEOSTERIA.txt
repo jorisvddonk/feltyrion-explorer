@@ -1,3 +1,5 @@
-Planet: NEOSTERIA
+Moon: NEOSTERIA
 Starmap index: 09
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: PHLEASIS
+Moon id: 0

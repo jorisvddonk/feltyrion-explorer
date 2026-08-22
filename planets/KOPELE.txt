@@ -1,3 +1,5 @@
-Planet: KOPELE
+Moon: KOPELE
 Starmap index: 12
 Paris coordinates: 3773200, 4546237, -530012
+Orbits: PIKADILI
+Moon id: 0

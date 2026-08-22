@@ -1,6 +1,8 @@
-Planet: EDIVAL
+Moon: EDIVAL
 Starmap index: 08
 Paris coordinates: -5009968, 46093, -2317724
+Orbits: RABIEN 3
+Moon id: 3
 
 Guide entries:
 RABIEN 04/03; QUARTZ

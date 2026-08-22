@@ -1,6 +1,8 @@
-Planet: RESEY
+Moon: RESEY
 Starmap index: 22
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: PARFHSTREYA
+Moon id: 13
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:404

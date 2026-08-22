@@ -1,6 +1,8 @@
-Planet: ACQUN
+Moon: ACQUN
 Starmap index: 11
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: KUROSSE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZE, ROCKY, CREASED. NOT A BAD VIEW FROM ORBIT, BUT THE SURFACE     

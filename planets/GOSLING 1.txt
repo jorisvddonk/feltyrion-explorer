@@ -1,3 +1,5 @@
-Planet: GOSLING 1
+Moon: GOSLING 1
 Starmap index: 14
 Paris coordinates: 3952848, 5179972, -1848799
+Orbits: PLORENGE GOOSE
+Moon id: 0

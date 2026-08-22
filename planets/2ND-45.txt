@@ -1,3 +1,5 @@
-Planet: 2ND-45
+Moon: 2ND-45
 Starmap index: 45
 Paris coordinates: 3752848, 4941158, -1623997
+Orbits: 2ND-12
+Moon id: 7

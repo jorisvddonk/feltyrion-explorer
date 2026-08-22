@@ -1,6 +1,8 @@
-Planet: BALLON 17.4
+Moon: BALLON 17.4
 Starmap index: 52
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 3
 
 Guide entries:
 FOURTH MOON, AGAIN SMALL, SOLID, ICY, THIS ONE IS SUPRISINGLY               

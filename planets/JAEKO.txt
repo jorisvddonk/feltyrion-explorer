@@ -1,6 +1,8 @@
-Planet: JAEKO
+Moon: JAEKO
 Starmap index: 25
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: PEONTY
+Moon id: 1
 
 Guide entries:
 M02/P06 MEDIUM SIZED INTERNALLY HOT, UNSTABLE. HAS A RUDDY COLOR AND        

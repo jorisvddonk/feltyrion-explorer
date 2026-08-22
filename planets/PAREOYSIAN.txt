@@ -1,6 +1,8 @@
-Planet: PAREOYSIAN
+Moon: PAREOYSIAN
 Starmap index: 12
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 1
 
 Guide entries:
 A FELYSIAN MOON, THE SECOND OF THE FOURTH PLANET. VERY BRIGHT.

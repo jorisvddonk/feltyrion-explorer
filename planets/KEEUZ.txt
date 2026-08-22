@@ -1,6 +1,8 @@
-Planet: KEEUZ
+Moon: KEEUZ
 Starmap index: 16
 Paris coordinates: -2512, 333266, 2788927
+Orbits: FLORESTIA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATELY REFLECTIVE WITH

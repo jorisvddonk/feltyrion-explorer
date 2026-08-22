@@ -1,6 +1,8 @@
-Planet: GORDIAN
+Moon: GORDIAN
 Starmap index: 08
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, WITH SMALL

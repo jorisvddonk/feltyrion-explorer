@@ -1,3 +1,5 @@
-Planet: SOCKET
+Moon: SOCKET
 Starmap index: 45
 Paris coordinates: 4059632, 4388757, -1624134
+Orbits: SPARKLES
+Moon id: 7

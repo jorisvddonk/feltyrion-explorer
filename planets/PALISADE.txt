@@ -1,6 +1,8 @@
-Planet: PALISADE
+Moon: PALISADE
 Starmap index: 39
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: ECHO
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY

@@ -1,6 +1,8 @@
-Planet: GAOED
+Moon: GAOED
 Starmap index: 15
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. CRATERS AND MUCH SCARRING.

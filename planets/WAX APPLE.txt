@@ -1,6 +1,8 @@
-Planet: WAX APPLE
+Moon: WAX APPLE
 Starmap index: 13
 Paris coordinates: 281072, 39255, -448498
+Orbits: WRAPPING PAPER
+Moon id: 0
 
 Guide entries:
 GREEN CRATERED MOON OF WRAPPING PAPER ON EKA59. THE CRATERS HERE ARE

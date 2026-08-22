@@ -1,6 +1,8 @@
-Planet: PLEAR
+Moon: PLEAR
 Starmap index: 21
 Paris coordinates: 191792, 393743, -1607331
+Orbits: SELLO
+Moon id: 3
 
 Guide entries:
 THE FOURTH MOON OF THE FOURTH PLANET. A VERY RARE ROCKY PLANET. IT SEEMS

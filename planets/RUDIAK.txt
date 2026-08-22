@@ -1,6 +1,8 @@
-Planet: RUDIAK
+Moon: RUDIAK
 Starmap index: 39
 Paris coordinates: 381072, 1932089, -429498
+Orbits: planet index 08
+Moon id: 8
 
 Guide entries:
 THIN-AT, 0.023 ATM PRESSURE, PURPLISH POLAR CAPS. RYAN GJK E6011.789.50     

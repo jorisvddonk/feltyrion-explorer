@@ -1,6 +1,8 @@
-Planet: FARMOON II
+Moon: FARMOON II
 Starmap index: 57
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: OUTTAREACH
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.291.420

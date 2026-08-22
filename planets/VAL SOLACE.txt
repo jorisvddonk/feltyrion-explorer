@@ -1,3 +1,5 @@
-Planet: VAL SOLACE
+Moon: VAL SOLACE
 Starmap index: 07
 Paris coordinates: 2552848, 4541525, -310791
+Orbits: VAL TERMIN
+Moon id: 0

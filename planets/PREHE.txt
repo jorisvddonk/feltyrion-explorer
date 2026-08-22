@@ -1,6 +1,8 @@
-Planet: PREHE
+Moon: PREHE
 Starmap index: 18
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SOME VERY LARGE CRATERS

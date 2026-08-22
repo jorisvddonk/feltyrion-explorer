@@ -1,6 +1,8 @@
-Planet: LIGHTING 3.2
+Moon: LIGHTING 3.2
 Starmap index: 07
 Paris coordinates: 36432, 33110, -633205
+Orbits: LIGHTING 3
+Moon id: 1
 
 Guide entries:
 VERY THICK ATMOSPHERE. HAS SOME DECENT STORMS.

@@ -1,6 +1,8 @@
-Planet: DLINKI
+Moon: DLINKI
 Starmap index: 11
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF THIRD PLANET. THICK ATMO MOON, IN CERTAIN SECTIONS IT IS

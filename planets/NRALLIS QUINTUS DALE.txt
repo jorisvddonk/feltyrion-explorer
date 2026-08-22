@@ -1,3 +1,5 @@
-Planet: NRALLIS QUINTUS DALE
+Moon: NRALLIS QUINTUS DALE
 Starmap index: 24
 Paris coordinates: 1399669584, 1320927, 1399310799
+Orbits: NRALLIS QUINTUS
+Moon id: 11

@@ -1,6 +1,8 @@
-Planet: PRAG
+Moon: PRAG
 Starmap index: 08
 Paris coordinates: 752848, 414304, 1300716
+Orbits: CORLAIN
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY FOTIOS. EPOC 6011:609.529

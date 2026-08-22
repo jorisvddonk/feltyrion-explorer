@@ -1,3 +1,5 @@
-Planet: NOSTREN-1
+Moon: NOSTREN-1
 Starmap index: 54
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 10

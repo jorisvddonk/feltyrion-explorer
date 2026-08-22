@@ -1,6 +1,8 @@
-Planet: TAL BREQUI
+Moon: TAL BREQUI
 Starmap index: 50
 Paris coordinates: 54591120, 440076, 1982299900
+Orbits: AS01042152G
+Moon id: 15
 
 Guide entries:
 A COLD PLACE WITH LITTLE GOING ON.

@@ -1,6 +1,8 @@
-Planet: BORILEY
+Moon: BORILEY
 Starmap index: 09
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK, FAIR POLAR CAPS.

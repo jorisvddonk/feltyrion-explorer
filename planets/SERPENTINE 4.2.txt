@@ -1,6 +1,8 @@
-Planet: SERPENTINE 4.2
+Moon: SERPENTINE 4.2
 Starmap index: 15
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 4
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, GREEN COLOUR, ONE HUGE CRATER.

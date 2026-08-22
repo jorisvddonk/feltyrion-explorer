@@ -1,6 +1,8 @@
-Planet: PEAEEA
+Moon: PEAEEA
 Starmap index: 05
 Paris coordinates: 26646832, 6023437, 44755504
+Orbits: AUTGEL
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE FOURTH PLANET, A GREEN DUSTY MOON. LAND FEATURES

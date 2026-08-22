@@ -1,6 +1,8 @@
-Planet: SPREE
+Moon: SPREE
 Starmap index: 34
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY DARK WITH MUCH GROOVING.

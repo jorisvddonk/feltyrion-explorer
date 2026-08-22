@@ -1,6 +1,8 @@
-Planet: EDELPILZ
+Moon: EDELPILZ
 Starmap index: 27
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY DUSTY LOOKING

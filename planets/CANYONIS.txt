@@ -1,6 +1,8 @@
-Planet: CANYONIS
+Moon: CANYONIS
 Starmap index: 19
 Paris coordinates: 2108208, 4934064, -601836
+Orbits: FAMISIA
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.901

@@ -1,6 +1,8 @@
-Planet: CYBEK
+Moon: CYBEK
 Starmap index: 13
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: PAMVISY
+Moon id: 0
 
 Guide entries:
 M01/P03 MEDIUM SIZE, INTERNALLY HOT, UNSTABLE. VERY GLOWING. PR0 0.244.     

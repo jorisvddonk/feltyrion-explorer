@@ -1,3 +1,5 @@
-Planet: GENGO
+Moon: GENGO
 Starmap index: 15
 Paris coordinates: 2628560, -26514628, 119618
+Orbits: PRUXY
+Moon id: 7

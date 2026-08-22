@@ -1,3 +1,5 @@
-Planet: GOOD
+Moon: GOOD
 Starmap index: 23
 Paris coordinates: -64835440, 29718498, 1969366
+Orbits: BRAIN
+Moon id: 0

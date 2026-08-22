@@ -1,6 +1,8 @@
-Planet: TUMFH
+Moon: TUMFH
 Starmap index: 42
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 6
 
 Guide entries:
 M07/P09 SMALL SOLID, ICY. LIGHT TAN COLOR WITH MUCH PURPLISH GROOVING       

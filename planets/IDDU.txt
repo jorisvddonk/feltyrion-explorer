@@ -1,6 +1,8 @@
-Planet: IDDU
+Moon: IDDU
 Starmap index: 12
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK WITH A COUPLE OF LIGHT AREAS

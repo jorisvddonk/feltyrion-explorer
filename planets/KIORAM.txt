@@ -1,6 +1,8 @@
-Planet: KIORAM
+Moon: KIORAM
 Starmap index: 15
 Paris coordinates: 3677136, 4840439, -2061394
+Orbits: CALNOGOR
+Moon id: 4
 
 Guide entries:
 FELISIAN MOON (R05/P03) IN ATVATBAR SYSTEM

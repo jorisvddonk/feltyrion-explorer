@@ -1,6 +1,8 @@
-Planet: TREVSKA
+Moon: TREVSKA
 Starmap index: 37
 Paris coordinates: -250797360, -1406977, 54957351
+Orbits: POLVNA
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.576.300

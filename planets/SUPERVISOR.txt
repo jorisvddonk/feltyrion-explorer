@@ -1,6 +1,8 @@
-Planet: SUPERVISOR
+Moon: SUPERVISOR
 Starmap index: 35
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERINTENDENT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. AGAIN, BIG CRATERS

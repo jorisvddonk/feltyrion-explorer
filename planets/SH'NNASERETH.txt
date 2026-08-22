@@ -1,6 +1,8 @@
-Planet: SH'NNASERETH
+Moon: SH'NNASERETH
 Starmap index: 33
 Paris coordinates: 11083088, -19266817, 17947109
+Orbits: ASKEW 64F
+Moon id: 11
 
 Guide entries:
 FOUND EPOC 6011 587.169.750 BY ROLAND ASKEW

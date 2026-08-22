@@ -1,3 +1,5 @@
-Planet: ESSEN-8 1
+Moon: ESSEN-8 1
 Starmap index: 42
 Paris coordinates: -12144, 72689, 302469
+Orbits: planet index 08
+Moon id: 0

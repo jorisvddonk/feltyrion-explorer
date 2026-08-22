@@ -1,3 +1,5 @@
-Planet: NYGDZIEE
+Moon: NYGDZIEE
 Starmap index: 47
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: JB 119
+Moon id: 15

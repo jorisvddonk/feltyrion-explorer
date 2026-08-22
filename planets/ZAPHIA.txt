@@ -1,3 +1,5 @@
-Planet: ZAPHIA
+Moon: ZAPHIA
 Starmap index: 10
 Paris coordinates: 2101424, 2442806, -935556
+Orbits: GUMBLIS TWE
+Moon id: 3

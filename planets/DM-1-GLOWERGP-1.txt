@@ -1,6 +1,8 @@
-Planet: DM-1-GLOWERGP-1
+Moon: DM-1-GLOWERGP-1
 Starmap index: 09
 Paris coordinates: 4035344, 4484112, -905031
+Orbits: GP-GLOWER-1
+Moon id: 0
 
 Guide entries:
 DEAD MOON, NO ATMOSPHERE

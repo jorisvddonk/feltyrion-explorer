@@ -1,6 +1,8 @@
-Planet: DOSAL
+Moon: DOSAL
 Starmap index: 11
 Paris coordinates: 4270352, 4415428, -2840399
+Orbits: MYSTEN
+Moon id: 5
 
 Guide entries:
  DISCOVERED BY CAPTAIN ELDRIS GIAC ON EPOC 6011 674.422.163

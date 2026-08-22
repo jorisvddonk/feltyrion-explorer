@@ -1,6 +1,8 @@
-Planet: PRETEND
+Moon: PRETEND
 Starmap index: 14
 Paris coordinates: 74288, 47959, -394282
+Orbits: KRO
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR REFLECTIVITY WITH

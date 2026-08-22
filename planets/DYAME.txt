@@ -1,6 +1,8 @@
-Planet: DYAME
+Moon: DYAME
 Starmap index: 15
 Paris coordinates: 2140268528, -2165691, -352139
+Orbits: JIFHDFH
+Moon id: 0
 
 Guide entries:
 M01/P08 SMALL SOLID DUSTY CRATERIZED. GREEN COLOR, LARGE CRATERS. PRO       

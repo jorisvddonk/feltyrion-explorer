@@ -1,3 +1,5 @@
-Planet: VIOLET BLUE
+Moon: VIOLET BLUE
 Starmap index: 51
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: TAN
+Moon id: 0

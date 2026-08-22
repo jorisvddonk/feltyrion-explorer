@@ -1,6 +1,8 @@
-Planet: SACRUM
+Moon: SACRUM
 Starmap index: 55
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NOT ATMOSPHERE.

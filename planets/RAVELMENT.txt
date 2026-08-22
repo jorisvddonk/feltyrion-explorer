@@ -1,6 +1,8 @@
-Planet: RAVELMENT
+Moon: RAVELMENT
 Starmap index: 32
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERES. A FEW LARGER CRATER

@@ -1,3 +1,5 @@
-Planet: AMMANN-3 2
+Moon: AMMANN-3 2
 Starmap index: 08
 Paris coordinates: 1424, 60400, 1154420
+Orbits: AMMANN-3
+Moon id: 1

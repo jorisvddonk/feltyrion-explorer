@@ -1,3 +1,5 @@
-Planet: STICHED BALL
+Moon: STICHED BALL
 Starmap index: 09
 Paris coordinates: 563568, 437608, 261632
+Orbits: ELECTRON
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: ASKEW 38J6
+Moon: ASKEW 38J6
 Starmap index: 23
 Paris coordinates: 11996656, -18940405, 17834589
+Orbits: ASKEW 38J
+Moon id: 5

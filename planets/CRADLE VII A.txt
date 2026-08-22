@@ -1,6 +1,8 @@
-Planet: CRADLE VII A
+Moon: CRADLE VII A
 Starmap index: 56
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VII
+Moon id: 0
 
 Guide entries:
 DEEP PURPLE THINWORLD. (SCHMERM 6011 592.878)

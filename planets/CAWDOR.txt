@@ -1,6 +1,8 @@
-Planet: CAWDOR
+Moon: CAWDOR
 Starmap index: 23
 Paris coordinates: -56784, -84307, -221013
+Orbits: INVERNESS
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY MUCH REFLECTIVE

@@ -1,6 +1,8 @@
-Planet: PRIMOLTENAL
+Moon: PRIMOLTENAL
 Starmap index: 26
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 0
 
 Guide entries:
 AN INTERNALLY HOT MOON.

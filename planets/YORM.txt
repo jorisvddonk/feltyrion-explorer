@@ -1,6 +1,8 @@
-Planet: YORM
+Moon: YORM
 Starmap index: 24
 Paris coordinates: 4413904, 4349423, 1348058
+Orbits: planet index 05
+Moon id: 6
 
 Guide entries:
 SURVEYED BY EDEANP 6011.618.6.474, ABUNDANT LIFE

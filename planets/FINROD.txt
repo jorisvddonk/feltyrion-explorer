@@ -1,6 +1,8 @@
-Planet: FINROD
+Moon: FINROD
 Starmap index: 13
 Paris coordinates: 1156784, -29979, -782766
+Orbits: planet index 05
+Moon id: 1
 
 Guide entries:
 I FOUND A MOUNTAIN WITH A LARGE CRATER ON THE TOP AT 102:91

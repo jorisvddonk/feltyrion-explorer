@@ -1,6 +1,8 @@
-Planet: QUIET'S REVENGE
+Moon: QUIET'S REVENGE
 Starmap index: 04
 Paris coordinates: 3659632, 4427550, -1201496
+Orbits: QUIET'S ENVY
+Moon id: 0
 
 Guide entries:
 FAIRLY UNINTERESTING PLANET. SURFACE COVERED WITH LOW HILLS AND             

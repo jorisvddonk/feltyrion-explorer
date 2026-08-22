@@ -1,6 +1,8 @@
-Planet: SLIENZ
+Moon: SLIENZ
 Starmap index: 36
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 5
 
 Guide entries:
 A MODERATE-SIZED FELYSIAN MOON. VERY COLD, BUT WARM AREAS EXIST NEAR

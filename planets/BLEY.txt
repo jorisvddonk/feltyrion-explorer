@@ -1,6 +1,8 @@
-Planet: BLEY
+Moon: BLEY
 Starmap index: 38
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 14
 
 Guide entries:
 BLUE FROM SPACE, GREY AT SURFACE AREA, VOLCANOS, MOUNTAINS, AND HILLS

@@ -1,3 +1,5 @@
-Planet: BALON
+Moon: BALON
 Starmap index: 04
 Paris coordinates: 3383920, 4384937, -1358521
+Orbits: LUSUS
+Moon id: 0

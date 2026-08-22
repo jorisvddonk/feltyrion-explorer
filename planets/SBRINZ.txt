@@ -1,6 +1,8 @@
-Planet: SBRINZ
+Moon: SBRINZ
 Starmap index: 23
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: CAERPHILLY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARG DEEP CRATERS.

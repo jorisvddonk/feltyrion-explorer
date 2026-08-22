@@ -1,6 +1,8 @@
-Planet: PARSIS 9.8
+Moon: PARSIS 9.8
 Starmap index: 33
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 7
 
 Guide entries:
  THE EIGHT MOON ORBITING THE ANCIENT AND COLD DWARF STAR PARSIS 9,

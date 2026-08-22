@@ -1,6 +1,8 @@
-Planet: ALTERNATUS
+Moon: ALTERNATUS
 Starmap index: 14
 Paris coordinates: 2029875792, -1775088, 340992
+Orbits: CUBYAS
+Moon id: 6
 
 Guide entries:
 M07/P06 FELISIAN. 247.96HILLY, BARREN AND COLD. CREVASSE (OR MAYBE          

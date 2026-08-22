@@ -1,3 +1,5 @@
-Planet: FIRST PITCH
+Moon: FIRST PITCH
 Starmap index: 16
 Paris coordinates: 2935344, 4530986, 217285
+Orbits: GREATER COIN
+Moon id: 1

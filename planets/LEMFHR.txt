@@ -1,6 +1,8 @@
-Planet: LEMFHR
+Moon: LEMFHR
 Starmap index: 40
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 4
 
 Guide entries:
 M05/P09 SMALL SOLID ICY. RED COLOR WITH MOSTLY DARK GROOVING. PRO           

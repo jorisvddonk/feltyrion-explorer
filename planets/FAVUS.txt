@@ -1,6 +1,8 @@
-Planet: FAVUS
+Moon: FAVUS
 Starmap index: 29
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 15
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. A COUPLE

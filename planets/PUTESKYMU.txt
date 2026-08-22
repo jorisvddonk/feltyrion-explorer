@@ -1,6 +1,8 @@
-Planet: PUTESKYMU
+Moon: PUTESKYMU
 Starmap index: 09
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 5
 
 Guide entries:
 M06/P03 MEDIUM SIZE, THIN ATMO, VERY TURBID CLOUD COVER WITH NO             

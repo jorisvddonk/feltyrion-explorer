@@ -1,6 +1,8 @@
-Planet: PYELPRO
+Moon: PYELPRO
 Starmap index: 04
 Paris coordinates: 5968016, 5031694, 39757796
+Orbits: PYROLITEMP
+Moon id: 0
 
 Guide entries:
 AN INTERNALLY HOT WORLD ORBITING THE FELYSIAN PLANET.

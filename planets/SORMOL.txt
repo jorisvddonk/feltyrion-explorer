@@ -1,6 +1,8 @@
-Planet: SORMOL
+Moon: SORMOL
 Starmap index: 16
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: DOGHES
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY CRATERIZED, NO ATMOSPHERE. FAIR PINKISH DUSTY

@@ -1,6 +1,8 @@
-Planet: PAVUDIMODO
+Moon: PAVUDIMODO
 Starmap index: 19
 Paris coordinates: 1194640, 62929486, -441858
+Orbits: NYTT-YLO
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:798.171)               

@@ -1,3 +1,5 @@
-Planet: GOLF
+Moon: GOLF
 Starmap index: 11
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MINOR
+Moon id: 0

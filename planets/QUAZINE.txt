@@ -1,3 +1,5 @@
-Planet: QUAZINE
+Moon: QUAZINE
 Starmap index: 24
 Paris coordinates: 4628560, 4422675, -1868141
+Orbits: RICHARDIN
+Moon id: 6

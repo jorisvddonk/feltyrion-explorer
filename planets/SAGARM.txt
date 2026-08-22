@@ -1,6 +1,8 @@
-Planet: SAGARM
+Moon: SAGARM
 Starmap index: 17
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZE, SOLID, THICK ATMOSPHERE, FULLY COVERED BY CLOUDS.              

@@ -1,3 +1,5 @@
-Planet: SCARLET MIST
+Moon: SCARLET MIST
 Starmap index: 10
 Paris coordinates: 3373200, 4448945, -113757
+Orbits: VALLEY LAND
+Moon id: 0

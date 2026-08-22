@@ -1,6 +1,8 @@
-Planet: WINNOWER
+Moon: WINNOWER
 Starmap index: 16
 Paris coordinates: 753936, 4228283, -2523610
+Orbits: planet index 03
+Moon id: 9
 
 Guide entries:
  FELISIAN PLANET DISC BY SCAREDY-CAT, EPOC 6011.584.351

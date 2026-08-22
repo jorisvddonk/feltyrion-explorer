@@ -1,6 +1,8 @@
-Planet: GRANDDANNA
+Moon: GRANDDANNA
 Starmap index: 30
 Paris coordinates: 11352016, -19280074, 17907404
+Orbits: ASKEW 76E
+Moon id: 13
 
 Guide entries:
 FOUND EPOC 6011 588.107.100 BY ROLAND ASKEW

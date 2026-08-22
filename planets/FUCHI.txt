@@ -1,6 +1,8 @@
-Planet: FUCHI
+Moon: FUCHI
 Starmap index: 25
 Paris coordinates: 2935344, 4630986, 272990
+Orbits: VIRIDIANA
+Moon id: 7
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.926 -                               

@@ -1,3 +1,5 @@
-Planet: BURIDAN
+Moon: BURIDAN
 Starmap index: 34
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: DUNS SCOTUS
+Moon id: 1

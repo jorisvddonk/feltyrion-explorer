@@ -1,3 +1,5 @@
-Planet: FINESSE M2
+Moon: FINESSE M2
 Starmap index: 06
 Paris coordinates: -436432, 188642, 1163637
+Orbits: FINESSE
+Moon id: 1

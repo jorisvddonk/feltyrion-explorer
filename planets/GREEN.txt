@@ -1,3 +1,5 @@
-Planet: GREEN
+Moon: GREEN
 Starmap index: 12
 Paris coordinates: 3070352, 4834807, -1861297
+Orbits: GAMLIF
+Moon id: 4

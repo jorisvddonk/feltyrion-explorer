@@ -1,6 +1,8 @@
-Planet: MACULAR
+Moon: MACULAR
 Starmap index: 12
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: VALL
+Moon id: 2
 
 Guide entries:
 ANOTHER UNDESCRIPT PLANET, SMALL DUSTY AND CRATERY, NO ATMOSPHERE.

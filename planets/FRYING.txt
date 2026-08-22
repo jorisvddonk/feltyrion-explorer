@@ -1,6 +1,8 @@
-Planet: FRYING
+Moon: FRYING
 Starmap index: 27
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 1
 
 Guide entries:
 AN ODD, PINK INTERNALLY HOT MOON.

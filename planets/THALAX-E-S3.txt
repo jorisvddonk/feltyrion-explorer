@@ -1,3 +1,5 @@
-Planet: THALAX-E-S3
+Moon: THALAX-E-S3
 Starmap index: 18
 Paris coordinates: 2987856, 4262240, -2661222
+Orbits: THALAX-E
+Moon id: 2

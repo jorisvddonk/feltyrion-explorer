@@ -1,6 +1,8 @@
-Planet: STRATOCASTER
+Moon: STRATOCASTER
 Starmap index: 22
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED MOON, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS.

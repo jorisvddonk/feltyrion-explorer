@@ -1,6 +1,8 @@
-Planet: GARTRAN ALPHA
+Moon: GARTRAN ALPHA
 Starmap index: 05
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

@@ -1,3 +1,5 @@
-Planet: GABOL-D-S1
+Moon: GABOL-D-S1
 Starmap index: 12
 Paris coordinates: 3717168, -357866, -9332558
+Orbits: GABOL-D
+Moon id: 0

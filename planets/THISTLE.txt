@@ -1,3 +1,5 @@
-Planet: THISTLE
+Moon: THISTLE
 Starmap index: 46
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: MIDNIGHT BLUE
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: EPASH
+Moon: EPASH
 Starmap index: 69
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKLY PURPLR REFLECTIVITY

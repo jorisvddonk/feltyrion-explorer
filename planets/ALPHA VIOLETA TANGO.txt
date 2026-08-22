@@ -1,6 +1,8 @@
-Planet: ALPHA VIOLETA TANGO
+Moon: ALPHA VIOLETA TANGO
 Starmap index: 08
 Paris coordinates: -230344592, -1360030, 54971502
+Orbits: VIOLETA TANGO
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.574.444

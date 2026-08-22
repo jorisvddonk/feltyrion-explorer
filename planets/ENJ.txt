@@ -1,6 +1,8 @@
-Planet: ENJ
+Moon: ENJ
 Starmap index: 16
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: ANTA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

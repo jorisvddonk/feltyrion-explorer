@@ -1,6 +1,8 @@
-Planet: NARTHEX
+Moon: NARTHEX
 Starmap index: 46
 Paris coordinates: -21340784, 17982045, 37379397
+Orbits: planet index 06
+Moon id: 1
 
 Guide entries:
  FELISIAN MOON OF THE FODUCK SYSTEM,DISC BY SCAREDY-CAT,6011.589.584

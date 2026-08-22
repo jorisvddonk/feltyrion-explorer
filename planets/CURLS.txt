@@ -1,3 +1,5 @@
-Planet: CURLS
+Moon: CURLS
 Starmap index: 18
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: CLEARLY NOT ALIVE
+Moon id: 0

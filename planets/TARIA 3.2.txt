@@ -1,6 +1,8 @@
-Planet: TARIA 3.2
+Moon: TARIA 3.2
 Starmap index: 05
 Paris coordinates: 1047152, 3482904, -3009819
+Orbits: TARIA 3
+Moon id: 1
 
 Guide entries:
  SAME AS THE HOST PLANET, AND THE FIRST MOON; THIS MOON HAS ALSO A

@@ -1,6 +1,8 @@
-Planet: GLIESEN VII A
+Moon: GLIESEN VII A
 Starmap index: 13
 Paris coordinates: -999742544, -1308, 1419595540
+Orbits: GLIESEN VII
+Moon id: 0
 
 Guide entries:
 A VERY BRIGHT ICEWORLD. (SCHMERM 6011 597.865)

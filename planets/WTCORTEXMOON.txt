@@ -1,3 +1,5 @@
-Planet: WTCORTEXMOON
+Moon: WTCORTEXMOON
 Starmap index: 06
 Paris coordinates: -33046576, 5075331, -15095044
+Orbits: WTPURPLESOILPLANET
+Moon id: 0

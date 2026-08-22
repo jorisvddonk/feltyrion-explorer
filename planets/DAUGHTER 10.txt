@@ -1,3 +1,5 @@
-Planet: DAUGHTER 10
+Moon: DAUGHTER 10
 Starmap index: 18
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: DEEP SHADOW 1-5-4
+Moon: DEEP SHADOW 1-5-4
 Starmap index: 13
 Paris coordinates: 1096176, 108005, -1499570283
+Orbits: DEEP SHADOW 1-5
+Moon id: 2
 
 Guide entries:
 HAVE A LOOK AT 0:60 SQC 15.-60

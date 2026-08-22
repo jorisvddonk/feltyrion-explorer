@@ -1,6 +1,8 @@
-Planet: BILLESTA ROBO
+Moon: BILLESTA ROBO
 Starmap index: 19
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 14
 
 Guide entries:
 15TH MOON OF RUFUSA - NO ATMOSPHERE AND VOLCANIC SURFACE

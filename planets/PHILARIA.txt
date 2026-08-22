@@ -1,3 +1,5 @@
-Planet: PHILARIA
+Moon: PHILARIA
 Starmap index: 13
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: JADISSENT
+Moon id: 0

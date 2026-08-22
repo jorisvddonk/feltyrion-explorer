@@ -1,6 +1,8 @@
-Planet: CORPSE OF DUST
+Moon: CORPSE OF DUST
 Starmap index: 12
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 6
 
 Guide entries:
 THIN-ATMOSPHERE MOON OF SANITY WARP ON EKA56. UNLIKE THE OTHER

@@ -1,3 +1,5 @@
-Planet: FALSE COLOURS
+Moon: FALSE COLOURS
 Starmap index: 07
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: BENNY MEDIUM
+Moon id: 1

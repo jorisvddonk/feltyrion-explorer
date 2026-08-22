@@ -1,6 +1,8 @@
-Planet: PYRAKTONIS
+Moon: PYRAKTONIS
 Starmap index: 07
 Paris coordinates: 752848, 414304, 1300716
+Orbits: CORLAIN
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY FOTIOS. EPOC 6011:609.528

@@ -1,6 +1,8 @@
-Planet: YUSKOF
+Moon: YUSKOF
 Starmap index: 55
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: WACTOHOL
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVVERED BY CLOUDS. MODERATE

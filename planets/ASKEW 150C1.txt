@@ -1,3 +1,5 @@
-Planet: ASKEW 150C1
+Moon: ASKEW 150C1
 Starmap index: 10
 Paris coordinates: 9835600, -16509715, 16452995
+Orbits: ASKEW 150C
+Moon id: 0

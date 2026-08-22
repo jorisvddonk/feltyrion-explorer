@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.8
+Moon: FIRESKY 3.8
 Starmap index: 21
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 7
 
 Guide entries:
 A BEAUTIFUL, NOT CONSISTENT GIANT MOON. GREAT, DEEP PURPLE COLOUR,

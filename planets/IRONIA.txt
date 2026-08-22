@@ -1,6 +1,8 @@
-Planet: IRONIA
+Moon: IRONIA
 Starmap index: 14
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERED, NO ATMOSPHERE. SEVERAL LARGE CRATERS,

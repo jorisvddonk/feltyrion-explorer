@@ -1,6 +1,8 @@
-Planet: OMEGA ALPHA
+Moon: OMEGA ALPHA
 Starmap index: 07
 Paris coordinates: -11867088, -664921, -560296
+Orbits: OMEGA QUAD C
+Moon id: 0
 
 Guide entries:
 A FELISIAN WORLD- AT 359.61 IT WAS A SLIGHTLY ROLLING ICY PLAIN,

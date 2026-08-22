@@ -1,6 +1,8 @@
-Planet: RITSKY
+Moon: RITSKY
 Starmap index: 24
 Paris coordinates: 2990704, 1545929, -553777
+Orbits: planet index 07
+Moon id: 7
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.388.690

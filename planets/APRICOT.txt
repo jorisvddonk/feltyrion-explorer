@@ -1,3 +1,5 @@
-Planet: APRICOT
+Moon: APRICOT
 Starmap index: 19
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: BROWN CRAYON
+Moon id: 0

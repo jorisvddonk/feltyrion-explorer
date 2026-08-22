@@ -1,6 +1,8 @@
-Planet: JUNA
+Moon: JUNA
 Starmap index: 37
 Paris coordinates: 2052848, 5339733, 188079
+Orbits: planet index 06
+Moon id: 1
 
 Guide entries:
 2ND MOON OF THE 6TH PLANET OF BABYSUN. GENERALY COLD WITH TUNDA COVERING

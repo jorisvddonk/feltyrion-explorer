@@ -1,6 +1,8 @@
-Planet: IJANOM
+Moon: IJANOM
 Starmap index: 09
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 1
 
 Guide entries:
 M02/P04 INTERNALLY HOT. BRIGTH GLOWING AREAS ON SLIGHTLY DARK SURFACE.

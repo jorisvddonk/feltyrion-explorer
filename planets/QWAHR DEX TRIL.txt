@@ -1,3 +1,5 @@
-Planet: QWAHR DEX TRIL
+Moon: QWAHR DEX TRIL
 Starmap index: 68
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 2

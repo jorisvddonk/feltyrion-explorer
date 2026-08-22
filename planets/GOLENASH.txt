@@ -1,6 +1,8 @@
-Planet: GOLENASH
+Moon: GOLENASH
 Starmap index: 12
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 1
 
 Guide entries:
 A SMALLER GAS GIANT, BROWN IN COLOR WITH BRIGHT SPOTS AND DULL BANDS

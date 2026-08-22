@@ -1,6 +1,8 @@
-Planet: KATABATIC
+Moon: KATABATIC
 Starmap index: 69
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: HAEMAL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK WITH DARK GROOVING.

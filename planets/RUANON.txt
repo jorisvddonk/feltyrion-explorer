@@ -1,6 +1,8 @@
-Planet: RUANON
+Moon: RUANON
 Starmap index: 34
 Paris coordinates: -890704, 333652, -1384376
+Orbits: VAAG
+Moon id: 5
 
 Guide entries:
 FELISIAN,BUT NO LIFE DETECTED SO FAR. ALESSANDRO ROBERTI, 6011:573,746

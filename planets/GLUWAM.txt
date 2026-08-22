@@ -1,3 +1,5 @@
-Planet: GLUWAM
+Moon: GLUWAM
 Starmap index: 14
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: LJUBVO
+Moon id: 1

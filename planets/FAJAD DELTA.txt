@@ -1,6 +1,8 @@
-Planet: FAJAD DELTA
+Moon: FAJAD DELTA
 Starmap index: 19
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

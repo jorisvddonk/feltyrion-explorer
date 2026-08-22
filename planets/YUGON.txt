@@ -1,3 +1,5 @@
-Planet: YUGON
+Moon: YUGON
 Starmap index: 25
 Paris coordinates: 3966416, 4566334, -873182
+Orbits: ROOLAN
+Moon id: 7

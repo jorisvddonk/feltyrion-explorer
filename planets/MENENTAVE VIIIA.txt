@@ -1,6 +1,8 @@
-Planet: MENENTAVE VIIIA
+Moon: MENENTAVE VIIIA
 Starmap index: 24
 Paris coordinates: -56784, -84307, -221013
+Orbits: MENENTAVE VIII
+Moon id: 0
 
 Guide entries:
 VERY BRIGHT AND GREEN FROM ORBIT (SCHMERM 6011 582.415)

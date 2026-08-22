@@ -1,3 +1,5 @@
-Planet: WARMY MOON
+Moon: WARMY MOON
 Starmap index: 26
 Paris coordinates: -72872784, -1428037, 56200949
+Orbits: FLATEY
+Moon id: 0

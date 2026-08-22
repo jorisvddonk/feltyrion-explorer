@@ -1,6 +1,8 @@
-Planet: SSENKRAD
+Moon: SSENKRAD
 Starmap index: 60
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: CREB
+Moon id: 1
 
 Guide entries:
 TOO DARK TO EXPLORE, SOME HILLS, THOUGH, AND SURFACE APPEARS TO BE

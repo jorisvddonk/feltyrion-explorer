@@ -1,3 +1,5 @@
-Planet: JB 80
+Moon: JB 80
 Starmap index: 31
 Paris coordinates: -61439376, 29916264, 239760
+Orbits: GRUPA 5 F
+Moon id: 5

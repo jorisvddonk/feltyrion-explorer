@@ -1,3 +1,5 @@
-Planet: BOLUS
+Moon: BOLUS
 Starmap index: 07
 Paris coordinates: 271440, 6335982, -2700286
+Orbits: FELIS GRIS
+Moon id: 1

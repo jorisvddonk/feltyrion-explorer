@@ -1,6 +1,8 @@
-Planet: FROWN
+Moon: FROWN
 Starmap index: 12
 Paris coordinates: -225712, 2875, -131716
+Orbits: LUCITE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH

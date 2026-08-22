@@ -1,6 +1,8 @@
-Planet: BLUE SWIRL
+Moon: BLUE SWIRL
 Starmap index: 12
 Paris coordinates: -776048, 4351251, -4442859
+Orbits: TROPIC DE SINE
+Moon id: 5
 
 Guide entries:
  LIFE FOUND BY KUNIO...WHO ALSO FOUND BROWN BOTTOM

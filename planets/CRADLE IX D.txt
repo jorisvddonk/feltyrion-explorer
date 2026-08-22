@@ -1,6 +1,8 @@
-Planet: CRADLE IX D
+Moon: CRADLE IX D
 Starmap index: 68
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IX
+Moon id: 3
 
 Guide entries:
 GREENISH DEADWORLD, VERY CREASED AND MILDLY CRATERED.

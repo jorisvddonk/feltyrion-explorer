@@ -1,6 +1,8 @@
-Planet: ARNPRIOR
+Moon: ARNPRIOR
 Starmap index: 20
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: PELON
+Moon id: 0
 
 Guide entries:
 UPDATE:SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOTS OF DARK

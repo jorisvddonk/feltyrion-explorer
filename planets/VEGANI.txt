@@ -1,6 +1,8 @@
-Planet: VEGANI
+Moon: VEGANI
 Starmap index: 47
 Paris coordinates: 10700592, -19048169, 17432791
+Orbits: ASKEW 54O
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 586.379.100 BY ROLAND ASKEW

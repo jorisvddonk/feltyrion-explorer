@@ -1,3 +1,5 @@
-Planet: PURIFICATION 387
+Moon: PURIFICATION 387
 Starmap index: 53
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 18

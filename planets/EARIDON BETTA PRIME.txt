@@ -1,3 +1,5 @@
-Planet: EARIDON BETTA PRIME
+Moon: EARIDON BETTA PRIME
 Starmap index: 07
 Paris coordinates: 99064688, 1346115, 54624595
+Orbits: EARIDON BETA
+Moon id: 0

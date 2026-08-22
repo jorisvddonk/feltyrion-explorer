@@ -1,6 +1,8 @@
-Planet: GLORBERON I
+Moon: GLORBERON I
 Starmap index: 20
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 8
 
 Guide entries:
 SMALL, AIRLESS, CRATERED. (SCHMERM 6011 582.599)

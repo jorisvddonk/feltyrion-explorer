@@ -1,6 +1,8 @@
-Planet: SHEOL
+Moon: SHEOL
 Starmap index: 13
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. OMINOUS

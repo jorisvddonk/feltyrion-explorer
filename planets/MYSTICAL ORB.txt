@@ -1,3 +1,5 @@
-Planet: MYSTICAL ORB
+Moon: MYSTICAL ORB
 Starmap index: 10
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MAJOR
+Moon id: 3

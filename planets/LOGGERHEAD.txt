@@ -1,3 +1,5 @@
-Planet: LOGGERHEAD
+Moon: LOGGERHEAD
 Starmap index: 18
 Paris coordinates: -701424, 293517, -259154
+Orbits: GYGES
+Moon id: 0

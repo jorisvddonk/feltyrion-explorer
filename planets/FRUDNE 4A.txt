@@ -1,3 +1,5 @@
-Planet: FRUDNE 4A
+Moon: FRUDNE 4A
 Starmap index: 10
 Paris coordinates: -26983376, -15671371, -1000732795
+Orbits: FRUDNE 4
+Moon id: 0

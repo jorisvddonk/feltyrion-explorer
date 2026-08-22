@@ -1,3 +1,5 @@
-Planet: LULRE
+Moon: LULRE
 Starmap index: 23
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 9

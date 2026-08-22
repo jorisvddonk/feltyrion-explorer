@@ -1,6 +1,8 @@
-Planet: DESERTS
+Moon: DESERTS
 Starmap index: 33
 Paris coordinates: -1904272, 1497938, -1187751
+Orbits: PINK AND RINGED
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY M. MARSHALL ON EPOC 6011 584 676

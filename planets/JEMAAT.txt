@@ -1,6 +1,8 @@
-Planet: JEMAAT
+Moon: JEMAAT
 Starmap index: 33
 Paris coordinates: -1120222288, -1036059, -976227211
+Orbits: FESAA'UREITH 14
+Moon id: 1
 
 Guide entries:
 FESAA'UREITH 02/14; FELISIAN

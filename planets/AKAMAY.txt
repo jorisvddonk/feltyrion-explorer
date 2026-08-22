@@ -1,6 +1,8 @@
-Planet: AKAMAY
+Moon: AKAMAY
 Starmap index: 11
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: REVELATION
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY CRUMB, EPOC 6011:570.85

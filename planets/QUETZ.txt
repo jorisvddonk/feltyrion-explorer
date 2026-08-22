@@ -1,6 +1,8 @@
-Planet: QUETZ
+Moon: QUETZ
 Starmap index: 27
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SOME GROOVING AND SLIGHTLY

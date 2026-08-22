@@ -1,3 +1,5 @@
-Planet: S'AA
+Moon: S'AA
 Starmap index: 14
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: IADHA
+Moon id: 0

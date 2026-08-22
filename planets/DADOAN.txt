@@ -1,6 +1,8 @@
-Planet: DADOAN
+Moon: DADOAN
 Starmap index: 36
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. BARELY REFLECTIVE SURFACE

@@ -1,3 +1,5 @@
-Planet: DIEN SIOD
+Moon: DIEN SIOD
 Starmap index: 61
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NIDALIS
+Moon id: 1

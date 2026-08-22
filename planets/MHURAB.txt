@@ -1,6 +1,8 @@
-Planet: MHURAB
+Moon: MHURAB
 Starmap index: 13
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 2
 
 Guide entries:
 PURPLE PLANET, THIN ATMOSPHERE.

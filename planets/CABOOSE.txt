@@ -1,6 +1,8 @@
-Planet: CABOOSE
+Moon: CABOOSE
 Starmap index: 65
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS NOTED

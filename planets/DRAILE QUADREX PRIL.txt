@@ -1,3 +1,5 @@
-Planet: DRAILE QUADREX PRIL
+Moon: DRAILE QUADREX PRIL
 Starmap index: 12
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE QUADREX
+Moon id: 0

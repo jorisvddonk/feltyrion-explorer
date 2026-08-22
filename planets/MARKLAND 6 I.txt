@@ -1,3 +1,5 @@
-Planet: MARKLAND 6 I
+Moon: MARKLAND 6 I
 Starmap index: 27
 Paris coordinates: 5177136, 4515695, -3362491
+Orbits: planet index 06
+Moon id: 8

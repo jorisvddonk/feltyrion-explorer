@@ -1,3 +1,5 @@
-Planet: HOWL V1 M.8
+Moon: HOWL V1 M.8
 Starmap index: 19
 Paris coordinates: 4666416, 3329333, -1614139
+Orbits: HOWL VI
+Moon id: 7

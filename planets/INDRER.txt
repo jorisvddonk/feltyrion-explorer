@@ -1,6 +1,8 @@
-Planet: INDRER
+Moon: INDRER
 Starmap index: 07
 Paris coordinates: -120016, 5320411, 4043507
+Orbits: REINA DE LOS ANGELES
+Moon id: 2
 
 Guide entries:
 M03/P04 SMALL SOLID DUSTY CRATERIZED NO ATMO. A SLIGHT PINKISH TINGE        

@@ -1,6 +1,8 @@
-Planet: CRADLE IX H
+Moon: CRADLE IX H
 Starmap index: 72
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IX
+Moon id: 7
 
 Guide entries:
 PURPLE ICEWORLD, BLACK DOTTED STREAKS. (SCHMERM 6011 592.943)

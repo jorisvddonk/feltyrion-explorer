@@ -1,6 +1,8 @@
-Planet: GEAN
+Moon: GEAN
 Starmap index: 07
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 2
 
 Guide entries:
  DARK GREEN PLANET. (NOTES BY JEFF KEMP EPOC 6011:621:89)

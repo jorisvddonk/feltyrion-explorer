@@ -1,6 +1,8 @@
-Planet: DARMATRIN
+Moon: DARMATRIN
 Starmap index: 08
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: DARMORIN
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY NEURONWAKE EPOC 6011 802.522                             

@@ -1,6 +1,8 @@
-Planet: SILCIEAR
+Moon: SILCIEAR
 Starmap index: 15
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 8
 
 Guide entries:
 AN ODD DUSTY MOON, THE NINTH OF THE THIRD PLANET. THE SURFACE OF THIS

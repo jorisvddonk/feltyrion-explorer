@@ -1,3 +1,5 @@
-Planet: AVAIQ
+Moon: AVAIQ
 Starmap index: 04
 Paris coordinates: 3459632, 5095682, -784034
+Orbits: KALAALA
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: IRJAJI
+Moon: IRJAJI
 Starmap index: 05
 Paris coordinates: 2061228144, -1654027, 3059941
+Orbits: ITMYBES
+Moon id: 1
 
 Guide entries:
 M02/P03 LARGE NOT CONSISTENT, CLOUD COVER A GREY SHADE WITH DARK BANDS,     

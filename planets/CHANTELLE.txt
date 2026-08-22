@@ -1,6 +1,8 @@
-Planet: CHANTELLE
+Moon: CHANTELLE
 Starmap index: 17
 Paris coordinates: 3290704, 5637570, -892839
+Orbits: KERMIT
+Moon id: 1
 
 Guide entries:
 HOW CAN THERE BE A FELISIAN WORLD THIS FAR OUT IN THE SYSTEM? IT

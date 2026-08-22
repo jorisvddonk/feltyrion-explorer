@@ -1,3 +1,5 @@
-Planet: DK5
+Moon: DK5
 Starmap index: 69
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: DAKERDE
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: LOGANI
+Moon: LOGANI
 Starmap index: 10
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: DARASIA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SOME

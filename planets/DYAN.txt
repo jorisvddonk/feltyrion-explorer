@@ -1,6 +1,8 @@
-Planet: DYAN
+Moon: DYAN
 Starmap index: 08
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE FOURTH PLANET, A THICK ATMO PLANET WITH A VERY DARK

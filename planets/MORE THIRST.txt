@@ -1,6 +1,8 @@
-Planet: MORE THIRST
+Moon: MORE THIRST
 Starmap index: 30
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 9
 
 Guide entries:
 THIS MOON IS CLOSE TO IDENTICAL TO 'THIRST'. THEY BOTH ORBIT THE

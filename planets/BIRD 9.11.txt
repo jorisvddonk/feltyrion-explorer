@@ -1,6 +1,8 @@
-Planet: BIRD 9.11
+Moon: BIRD 9.11
 Starmap index: 26
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 9
+Moon id: 10
 
 Guide entries:
 SMALL. SOLID. ICY. NO ATMOSPHERE. SERPENS, 6011 665.409

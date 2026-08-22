@@ -1,3 +1,5 @@
-Planet: MREK
+Moon: MREK
 Starmap index: 14
 Paris coordinates: 4142128, 4782625, -641787
+Orbits: DEK
+Moon id: 5

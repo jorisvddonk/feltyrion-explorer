@@ -1,3 +1,5 @@
-Planet: KLEPPO
+Moon: KLEPPO
 Starmap index: 07
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: DUEHI
+Moon id: 0

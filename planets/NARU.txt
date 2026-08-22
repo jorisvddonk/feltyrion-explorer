@@ -1,6 +1,8 @@
-Planet: NARU
+Moon: NARU
 Starmap index: 28
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: CLYPHER
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD PURPLE REFLECTIVITY

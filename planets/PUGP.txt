@@ -1,3 +1,5 @@
-Planet: PUGP
+Moon: PUGP
 Starmap index: 08
 Paris coordinates: 2283920, -26018647, -222425
+Orbits: NEGOR
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: DIRAC'S TELESCOPE
+Moon: DIRAC'S TELESCOPE
 Starmap index: 19
 Paris coordinates: 3620688, 634106, 2456427
+Orbits: ASKEW 183H
+Moon id: 2

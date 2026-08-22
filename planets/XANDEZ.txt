@@ -1,3 +1,5 @@
-Planet: XANDEZ
+Moon: XANDEZ
 Starmap index: 09
 Paris coordinates: 3955696, 6200472, 411097
+Orbits: TEANUS
+Moon id: 1

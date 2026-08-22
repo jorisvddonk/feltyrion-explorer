@@ -1,6 +1,8 @@
-Planet: SHADES OF GREEN
+Moon: SHADES OF GREEN
 Starmap index: 04
 Paris coordinates: -21767664, -20022887, -350089203
+Orbits: ROMEO
+Moon id: 1
 
 Guide entries:
 WELL EVERYTHING DOWN THERE *IS* GREEN! (SHADOWCLAW)

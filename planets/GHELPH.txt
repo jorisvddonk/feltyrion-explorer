@@ -1,6 +1,8 @@
-Planet: GHELPH
+Moon: GHELPH
 Starmap index: 73
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. LOW

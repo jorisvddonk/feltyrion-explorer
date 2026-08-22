@@ -1,6 +1,8 @@
-Planet: GARTRAN KAPPA
+Moon: GARTRAN KAPPA
 Starmap index: 14
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 9
 
 Guide entries:
 TENTH MOON OF PLANET GRTRAN IN THE QUOUN SYSTEM

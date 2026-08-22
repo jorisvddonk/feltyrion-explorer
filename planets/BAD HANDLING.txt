@@ -1,6 +1,8 @@
-Planet: BAD HANDLING
+Moon: BAD HANDLING
 Starmap index: 14
 Paris coordinates: 281072, 39255, -448498
+Orbits: WRAPPING PAPER
+Moon id: 1
 
 Guide entries:
 GREY CRATERIZED MOON OF WRAPPING PAPER ON EKA59. LOOKS LIKE THE

@@ -1,3 +1,5 @@
-Planet: GEWOLOP
+Moon: GEWOLOP
 Starmap index: 42
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: LAENOEWWIEM
+Moon id: 3

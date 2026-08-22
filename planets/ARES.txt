@@ -1,6 +1,8 @@
-Planet: ARES
+Moon: ARES
 Starmap index: 17
 Paris coordinates: 43216, 394196, -236960
+Orbits: SMARAG
+Moon id: 10
 
 Guide entries:
 DISCOVERED BY FOTIOS. EPOC 6011:609.544

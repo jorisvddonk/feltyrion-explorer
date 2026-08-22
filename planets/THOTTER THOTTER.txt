@@ -1,3 +1,5 @@
-Planet: THOTTER THOTTER
+Moon: THOTTER THOTTER
 Starmap index: 15
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: SNOWBALL
+Moon id: 0

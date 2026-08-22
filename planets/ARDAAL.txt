@@ -1,6 +1,8 @@
-Planet: ARDAAL
+Moon: ARDAAL
 Starmap index: 20
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: VYSTIAG
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATELY REFLECTIVE,

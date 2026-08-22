@@ -1,6 +1,8 @@
-Planet: JILEN
+Moon: JILEN
 Starmap index: 34
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE FIFTEENTH PLANET, PERDISTA. PURPLE-ISH ICY MOON

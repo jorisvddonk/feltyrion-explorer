@@ -1,6 +1,8 @@
-Planet: OVERLIE
+Moon: OVERLIE
 Starmap index: 12
 Paris coordinates: -218928, 44011, 180703
+Orbits: NOCK
+Moon id: 1
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. VERY REFLECTIVE

@@ -1,3 +1,5 @@
-Planet: TRIYON-BETA-B
+Moon: TRIYON-BETA-B
 Starmap index: 06
 Paris coordinates: 395728, -199378, -3486792
+Orbits: TRIYON-BETA
+Moon id: 1

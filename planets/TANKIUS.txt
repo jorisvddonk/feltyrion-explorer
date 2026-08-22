@@ -1,3 +1,5 @@
-Planet: TANKIUS
+Moon: TANKIUS
 Starmap index: 24
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 2

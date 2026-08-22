@@ -1,6 +1,8 @@
-Planet: VETYNE
+Moon: VETYNE
 Starmap index: 16
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, GOOD POLAR CAPS. SKINNYMON

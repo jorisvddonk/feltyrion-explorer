@@ -1,6 +1,8 @@
-Planet: LESSER 5.7
+Moon: LESSER 5.7
 Starmap index: 13
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 6
 
 Guide entries:
 MEDIUM-SIZED, FELISIAN... JUST KIDDING. IT'S AN ICEBALL. EXTREMELY

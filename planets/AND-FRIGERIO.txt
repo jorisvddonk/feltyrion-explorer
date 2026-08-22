@@ -1,6 +1,8 @@
-Planet: AND-FRIGERIO
+Moon: AND-FRIGERIO
 Starmap index: 34
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.754 -                               

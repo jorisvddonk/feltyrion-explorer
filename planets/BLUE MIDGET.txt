@@ -1,3 +1,5 @@
-Planet: BLUE MIDGET
+Moon: BLUE MIDGET
 Starmap index: 08
 Paris coordinates: 271440, 6335982, -2700286
+Orbits: MYRKA
+Moon id: 0

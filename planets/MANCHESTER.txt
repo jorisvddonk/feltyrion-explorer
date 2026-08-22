@@ -1,6 +1,8 @@
-Planet: MANCHESTER
+Moon: MANCHESTER
 Starmap index: 08
 Paris coordinates: 3405360, 5347404, -3994355
+Orbits: PALMYRA 5
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY CAPT. LUTHERON EPOC:6011:661.27

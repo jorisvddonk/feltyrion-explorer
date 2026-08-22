@@ -1,6 +1,8 @@
-Planet: TRASDENOKY
+Moon: TRASDENOKY
 Starmap index: 38
 Paris coordinates: 1158546096, -274926, -1000180310
+Orbits: HATAMARENI
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZE, QUARTZ SURFACE. (NOTES BY NEUZD, 6011:835.980)                 

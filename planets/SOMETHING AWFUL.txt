@@ -1,3 +1,5 @@
-Planet: SOMETHING AWFUL
+Moon: SOMETHING AWFUL
 Starmap index: 09
 Paris coordinates: 4517840, 4625313, -517790
+Orbits: BELT BUCKLE
+Moon id: 1

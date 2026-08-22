@@ -1,6 +1,8 @@
-Planet: GREEN CANDY
+Moon: GREEN CANDY
 Starmap index: 09
 Paris coordinates: 118928, -45237, 83832
+Orbits: CHOCOLATE SUNDAE
+Moon id: 4
 
 Guide entries:
 A CLOUD-COVERED MOON OF CHOCOLATE SUNDAE ON EKA69. TEAL COLOR, NO

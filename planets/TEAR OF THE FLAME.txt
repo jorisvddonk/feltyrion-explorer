@@ -1,6 +1,8 @@
-Planet: TEAR OF THE FLAME
+Moon: TEAR OF THE FLAME
 Starmap index: 17
 Paris coordinates: 2557456, 2106610, 7526289
+Orbits: TEAR OF THE GLOBULE
+Moon id: 6
 
 Guide entries:
 INTERNALLY HOT MOON. ONE OF THE BRIGHTEST, MOST MOTTLED I'VE                

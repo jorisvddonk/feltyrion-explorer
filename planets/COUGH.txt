@@ -1,6 +1,8 @@
-Planet: COUGH
+Moon: COUGH
 Starmap index: 24
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 3
 
 Guide entries:
 A CLOUD-COVERED MOON OF 'ODD' ON EKA75. LOOKS SMOKY. --EKA

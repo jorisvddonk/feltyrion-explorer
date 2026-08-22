@@ -1,3 +1,5 @@
-Planet: FIGUR-VOCAPEM
+Moon: FIGUR-VOCAPEM
 Starmap index: 22
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 5

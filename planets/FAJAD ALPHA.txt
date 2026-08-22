@@ -1,6 +1,8 @@
-Planet: FAJAD ALPHA
+Moon: FAJAD ALPHA
 Starmap index: 16
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET FAJAD IN THE GENISI SYSTEM

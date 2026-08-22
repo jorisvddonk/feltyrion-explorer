@@ -1,3 +1,5 @@
-Planet: VINO ROSATO
+Moon: VINO ROSATO
 Starmap index: 07
 Paris coordinates: 2521776, 5015370, -132554
+Orbits: IL NULLA CHE AVANZA
+Moon id: 0

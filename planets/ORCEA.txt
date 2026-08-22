@@ -1,6 +1,8 @@
-Planet: ORCEA
+Moon: ORCEA
 Starmap index: 22
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE DUSTY WITH SOME

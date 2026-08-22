@@ -1,3 +1,5 @@
-Planet: FEUERBALL
+Moon: FEUERBALL
 Starmap index: 19
 Paris coordinates: -2255696, -5301817, -1726973
+Orbits: PROGGO
+Moon id: 4

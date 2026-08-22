@@ -1,3 +1,5 @@
-Planet: GREEN GLORY MINOR
+Moon: GREEN GLORY MINOR
 Starmap index: 20
 Paris coordinates: 3652848, 4640609, -1423469
+Orbits: GREEN GLORY
+Moon id: 0

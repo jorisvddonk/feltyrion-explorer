@@ -1,6 +1,8 @@
-Planet: NUNFI
+Moon: NUNFI
 Starmap index: 37
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH GREEN

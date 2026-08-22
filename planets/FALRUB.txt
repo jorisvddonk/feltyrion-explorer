@@ -1,3 +1,5 @@
-Planet: FALRUB
+Moon: FALRUB
 Starmap index: 15
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: BAGRO
+Moon id: 0

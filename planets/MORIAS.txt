@@ -1,3 +1,5 @@
-Planet: MORIAS
+Moon: MORIAS
 Starmap index: 17
 Paris coordinates: 4166416, 4103058, -1094541
+Orbits: TRIPLESTAR-BETA
+Moon id: 8

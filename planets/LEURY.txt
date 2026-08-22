@@ -1,6 +1,8 @@
-Planet: LEURY
+Moon: LEURY
 Starmap index: 13
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

@@ -1,3 +1,5 @@
-Planet: KEIKO
+Moon: KEIKO
 Starmap index: 13
 Paris coordinates: 2821776, 4685513, -444062
+Orbits: LEON
+Moon id: 9

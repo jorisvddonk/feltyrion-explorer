@@ -1,6 +1,8 @@
-Planet: EVORA 5.2
+Moon: EVORA 5.2
 Starmap index: 20
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 5
+Moon id: 1
 
 Guide entries:
  THE SECOND MOON OF EVORA 5 IS A SMALL PLANETOID WITH A THIN

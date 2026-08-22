@@ -1,6 +1,8 @@
-Planet: SUPERNAL
+Moon: SUPERNAL
 Starmap index: 36
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERIOR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE OLD CRATERS.

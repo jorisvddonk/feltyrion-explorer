@@ -1,3 +1,5 @@
-Planet: TONIC
+Moon: TONIC
 Starmap index: 79
 Paris coordinates: 70352, 945533, 1134813
+Orbits: SEVER
+Moon id: 4

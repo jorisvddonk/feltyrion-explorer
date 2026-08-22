@@ -1,3 +1,5 @@
-Planet: FARPOINT
+Moon: FARPOINT
 Starmap index: 16
 Paris coordinates: 4824624, 4836514, -344964
+Orbits: planet index 08
+Moon id: 0

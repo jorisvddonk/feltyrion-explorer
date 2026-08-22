@@ -1,6 +1,8 @@
-Planet: YUINCA V A
+Moon: YUINCA V A
 Starmap index: 14
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA V
+Moon id: 0
 
 Guide entries:
  A SMALL DUSTY MOON. AMWHERE 6011.586.376

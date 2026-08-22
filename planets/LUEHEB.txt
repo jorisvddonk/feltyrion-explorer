@@ -1,6 +1,8 @@
-Planet: LUEHEB
+Moon: LUEHEB
 Starmap index: 13
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. FAIR GREENISH REFLECTIVITY

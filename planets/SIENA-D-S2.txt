@@ -1,3 +1,5 @@
-Planet: SIENA-D-S2
+Moon: SIENA-D-S2
 Starmap index: 23
 Paris coordinates: 3363568, 4274032, -2404452
+Orbits: SIENA-D
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: PUNGENT
+Moon: PUNGENT
 Starmap index: 19
 Paris coordinates: 87856, -5814, 275087
+Orbits: NE EXEAT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTY DARK, GOOD POLAR CAPS.

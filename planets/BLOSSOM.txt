@@ -1,6 +1,8 @@
-Planet: BLOSSOM
+Moon: BLOSSOM
 Starmap index: 22
 Paris coordinates: -1132496, 30467, 201715
+Orbits: CUPOLA
+Moon id: 10
 
 Guide entries:
 TEMPERATE PLANET COVERED IN PEACH COLOURED TREES. PRONE TO STORMS.

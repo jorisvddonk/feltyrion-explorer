@@ -1,6 +1,8 @@
-Planet: HYPERION VI-B
+Moon: HYPERION VI-B
 Starmap index: 48
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION VI
+Moon id: 1
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. CATALOGED

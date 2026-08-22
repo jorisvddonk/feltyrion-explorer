@@ -1,3 +1,5 @@
-Planet: PIOA
+Moon: PIOA
 Starmap index: 57
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: NUGBOIAOU
+Moon id: 5

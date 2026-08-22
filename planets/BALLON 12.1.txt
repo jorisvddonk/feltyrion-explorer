@@ -1,6 +1,8 @@
-Planet: BALLON 12.1
+Moon: BALLON 12.1
 Starmap index: 43
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 12
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON. SMALL, SOLID, DUSTY ETC. IT'S DIFFICULT TO                  

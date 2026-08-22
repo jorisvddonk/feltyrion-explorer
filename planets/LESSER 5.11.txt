@@ -1,6 +1,8 @@
-Planet: LESSER 5.11
+Moon: LESSER 5.11
 Starmap index: 17
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 10
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT, UNSTABLE SURFACE. THIS TIME, I'M NOT

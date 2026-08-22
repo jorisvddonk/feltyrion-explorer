@@ -1,3 +1,5 @@
-Planet: NRALLIS TRIACUS PRIL
+Moon: NRALLIS TRIACUS PRIL
 Starmap index: 09
 Paris coordinates: 1399669584, 1320927, 1399310799
+Orbits: NRALLIS TRIACUS
+Moon id: 0

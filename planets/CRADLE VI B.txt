@@ -1,6 +1,8 @@
-Planet: CRADLE VI B
+Moon: CRADLE VI B
 Starmap index: 43
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VI
+Moon id: 1
 
 Guide entries:
 TURQUOISE THINWORLD. (SCHMERM 601 592.878)

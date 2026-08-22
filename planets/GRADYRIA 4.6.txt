@@ -1,6 +1,8 @@
-Planet: GRADYRIA 4.6
+Moon: GRADYRIA 4.6
 Starmap index: 08
 Paris coordinates: 4990704, 5477580, -2586619
+Orbits: GRADYRIA 4
+Moon id: 0
 
 Guide entries:
  TOUGH ITS NAME MIGHT BE A LITTLE MISSLEADING, THIS PLANET IS THE

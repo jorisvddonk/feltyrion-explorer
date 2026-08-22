@@ -1,6 +1,8 @@
-Planet: SIANDA
+Moon: SIANDA
 Starmap index: 13
 Paris coordinates: -24140208, 724689, -10071605
+Orbits: DARAMA C
+Moon id: 3
 
 Guide entries:
 DARAMA 04/06. FELISIAN WORLD

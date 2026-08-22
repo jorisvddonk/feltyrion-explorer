@@ -1,3 +1,5 @@
-Planet: BLUT
+Moon: BLUT
 Starmap index: 11
 Paris coordinates: 14757456, 8159489, -4721068
+Orbits: HOELLE
+Moon id: 1

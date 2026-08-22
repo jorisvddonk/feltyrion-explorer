@@ -1,3 +1,5 @@
-Planet: SILDA
+Moon: SILDA
 Starmap index: 14
 Paris coordinates: -835344, -14673956, -2040846
+Orbits: GRUEGOR
+Moon id: 6

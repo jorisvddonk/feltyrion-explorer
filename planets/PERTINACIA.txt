@@ -1,6 +1,8 @@
-Planet: PERTINACIA
+Moon: PERTINACIA
 Starmap index: 30
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 14
 
 Guide entries:
 M15/P07 A FELISIAN WORLD. GREEN HUE, LARGE BODIES OF WATER. LANDED          

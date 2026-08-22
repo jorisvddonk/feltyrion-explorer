@@ -1,6 +1,8 @@
-Planet: RACHIS
+Moon: RACHIS
 Starmap index: 48
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: SABULOSE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE EXCEPT

@@ -1,6 +1,8 @@
-Planet: MENDERES
+Moon: MENDERES
 Starmap index: 10
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: SCAMANDER
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ALMOST A TWIN OF

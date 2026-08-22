@@ -1,3 +1,5 @@
-Planet: CHILD GOBLIN
+Moon: CHILD GOBLIN
 Starmap index: 09
 Paris coordinates: -71899920, -587551, 53664334
+Orbits: WOUNDED GOBLIN
+Moon id: 0

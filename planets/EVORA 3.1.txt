@@ -1,6 +1,8 @@
-Planet: EVORA 3.1
+Moon: EVORA 3.1
 Starmap index: 10
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 3
+Moon id: 0
 
 Guide entries:
 THE MOON OF THE THIRD PLANET IN THE EVORA SYSTEM, IS ACTUALLY JUST A

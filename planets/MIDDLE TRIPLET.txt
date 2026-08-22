@@ -1,6 +1,8 @@
-Planet: MIDDLE TRIPLET
+Moon: MIDDLE TRIPLET
 Starmap index: 36
 Paris coordinates: 156784, -15042, 351717
+Orbits: OLDEST TRIPLET
+Moon id: 0
 
 Guide entries:
 A GREEN CRATERED MOON OF 'OLDEST TRIPLET' ON EKA75. --EKA

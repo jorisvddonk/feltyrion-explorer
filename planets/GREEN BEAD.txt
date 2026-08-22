@@ -1,6 +1,8 @@
-Planet: GREEN BEAD
+Moon: GREEN BEAD
 Starmap index: 19
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 13
 
 Guide entries:
 CRATERED MOON OF SANITY WARP ON EKA56. --EKA

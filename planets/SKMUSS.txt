@@ -1,3 +1,5 @@
-Planet: SKMUSS
+Moon: SKMUSS
 Starmap index: 05
 Paris coordinates: -2307120, -6491705, -2857422
+Orbits: BUR
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: SKELETON OF DUST
+Moon: SKELETON OF DUST
 Starmap index: 10
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 4
 
 Guide entries:
 THIN ATMOSPHERE MOON OF SANITY WARP ON EKA56. DUSTY TEXTURE

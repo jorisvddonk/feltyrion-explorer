@@ -1,3 +1,5 @@
-Planet: BODY BELOW
+Moon: BODY BELOW
 Starmap index: 19
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: NADIR
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: FETA
+Moon: FETA
 Starmap index: 55
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: BABYBEL
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

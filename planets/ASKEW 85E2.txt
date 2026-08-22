@@ -1,3 +1,5 @@
-Planet: ASKEW 85E2
+Moon: ASKEW 85E2
 Starmap index: 12
 Paris coordinates: 10945232, -19339777, 17862369
+Orbits: LEVELING ROD
+Moon id: 1

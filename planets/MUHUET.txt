@@ -1,3 +1,5 @@
-Planet: MUHUET
+Moon: MUHUET
 Starmap index: 27
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: GFUT
+Moon id: 8

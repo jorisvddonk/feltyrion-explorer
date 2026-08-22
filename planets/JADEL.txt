@@ -1,6 +1,8 @@
-Planet: JADEL
+Moon: JADEL
 Starmap index: 18
 Paris coordinates: 11052016, -19159857, 17954467
+Orbits: ASKEW 65D
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 587.302.650 BY ROLAND ASKEW

@@ -1,3 +1,5 @@
-Planet: GOLDENROD
+Moon: GOLDENROD
 Starmap index: 55
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: WHITE
+Moon id: 3

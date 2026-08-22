@@ -1,6 +1,8 @@
-Planet: MUNSTER
+Moon: MUNSTER
 Starmap index: 32
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 7
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. VERY UNREFLECTIVE

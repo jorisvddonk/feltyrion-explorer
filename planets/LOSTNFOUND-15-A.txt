@@ -1,3 +1,5 @@
-Planet: LOSTNFOUND-15-A
+Moon: LOSTNFOUND-15-A
 Starmap index: 39
 Paris coordinates: 3479984, 3304507, 183089
+Orbits: LOSTNFOUND-15
+Moon id: 0

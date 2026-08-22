@@ -1,6 +1,8 @@
-Planet: BRAIGUE
+Moon: BRAIGUE
 Starmap index: 12
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 6
 
 Guide entries:
 THE SEVENTH MOON OF THE THIRD PLANET. A THICK ATMO. QUITE DIM,

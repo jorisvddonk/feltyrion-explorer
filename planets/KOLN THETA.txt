@@ -1,6 +1,8 @@
-Planet: KOLN THETA
+Moon: KOLN THETA
 Starmap index: 61
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 7
 
 Guide entries:
 EIGHTH MOON OF PLANET KOLN IN THE GENISI SYSTEM

@@ -1,3 +1,5 @@
-Planet: TRIASTE OCTILLE SECT
+Moon: TRIASTE OCTILLE SECT
 Starmap index: 28
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE OCTILLE
+Moon id: 5

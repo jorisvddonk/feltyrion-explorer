@@ -1,6 +1,8 @@
-Planet: XZANADU 4.6
+Moon: XZANADU 4.6
 Starmap index: 13
 Paris coordinates: 6571024, 19797331, 4477221
+Orbits: XZANADU 4
+Moon id: 5
 
 Guide entries:
  SMALL, CRATERIZED WORLD WITH NO ATMOSPHERE, NO LIFEFORMS, AND

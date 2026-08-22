@@ -1,6 +1,8 @@
-Planet: CORAL II-6D
+Moon: CORAL II-6D
 Starmap index: 52
 Paris coordinates: -539280, 237210, -624416
+Orbits: planet index 06
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: FRULD
+Moon: FRULD
 Starmap index: 10
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

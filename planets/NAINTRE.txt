@@ -1,6 +1,8 @@
-Planet: NAINTRE
+Moon: NAINTRE
 Starmap index: 15
 Paris coordinates: 3797488, 4355365, -1030058
+Orbits: SHARDS
+Moon id: 0
 
 Guide entries:
 THIS PLANET HAS ABSOLUTELY NO MERIT WHATSOEVER. THE IMPACT LINES LOOK

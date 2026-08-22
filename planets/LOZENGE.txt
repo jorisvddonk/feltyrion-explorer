@@ -1,6 +1,8 @@
-Planet: LOZENGE
+Moon: LOZENGE
 Starmap index: 11
 Paris coordinates: 87856, -5814, 275087
+Orbits: SWANK
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE, DEEP

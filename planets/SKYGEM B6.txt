@@ -1,6 +1,8 @@
-Planet: SKYGEM B6
+Moon: SKYGEM B6
 Starmap index: 15
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 5
 
 Guide entries:
  A NORMAL ROCKY, CRATERED WORLD. AMWHERE 6011.584.920

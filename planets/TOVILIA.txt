@@ -1,6 +1,8 @@
-Planet: TOVILIA
+Moon: TOVILIA
 Starmap index: 50
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PERIP
+Moon id: 7
 
 Guide entries:
 PURPLE SEEN FROM SPACE, TAN TO YELLOW SURFACE AREA. LANDSCAPE IS

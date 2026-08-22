@@ -1,3 +1,5 @@
-Planet: OLDMAN
+Moon: OLDMAN
 Starmap index: 74
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NESIMA
+Moon id: 0

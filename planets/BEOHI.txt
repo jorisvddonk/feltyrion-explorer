@@ -1,3 +1,5 @@
-Planet: BEOHI
+Moon: BEOHI
 Starmap index: 08
 Paris coordinates: 4377136, 4125490, -2745837
+Orbits: PETRION
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: PAETYLAR
+Moon: PAETYLAR
 Starmap index: 15
 Paris coordinates: -614992, 734031, -1219112
+Orbits: NUCAGE
+Moon id: 1

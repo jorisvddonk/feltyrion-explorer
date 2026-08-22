@@ -1,6 +1,8 @@
-Planet: BARON
+Moon: BARON
 Starmap index: 37
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: SIRE
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SEMI-MOTTLED APPEARANCE FROM

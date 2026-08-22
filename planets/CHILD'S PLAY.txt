@@ -1,6 +1,8 @@
-Planet: CHILD'S PLAY
+Moon: CHILD'S PLAY
 Starmap index: 29
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 4
 
 Guide entries:
 UPDATE: INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. PROBABLY

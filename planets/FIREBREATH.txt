@@ -1,3 +1,5 @@
-Planet: FIREBREATH
+Moon: FIREBREATH
 Starmap index: 12
 Paris coordinates: 4159632, 4436827, -1722935
+Orbits: PITEUS
+Moon id: 0

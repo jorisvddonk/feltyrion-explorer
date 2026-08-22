@@ -1,3 +1,5 @@
-Planet: YKRE
+Moon: YKRE
 Starmap index: 30
 Paris coordinates: 1624624, 31139792, 2797652
+Orbits: NKEREK
+Moon id: 0

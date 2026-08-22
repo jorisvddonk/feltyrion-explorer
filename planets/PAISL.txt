@@ -1,6 +1,8 @@
-Planet: PAISL
+Moon: PAISL
 Starmap index: 18
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 13
 
 Guide entries:
 SMALL, DUSTY, CRATERIZED, NO ATMOSPHERE. DEEP RING CRATERS NOTED.

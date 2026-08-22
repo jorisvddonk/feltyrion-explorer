@@ -1,3 +1,5 @@
-Planet: ROCK-FROST
+Moon: ROCK-FROST
 Starmap index: 20
 Paris coordinates: -1425442544, 1128397, 1435681725
+Orbits: planet index 07
+Moon id: 4

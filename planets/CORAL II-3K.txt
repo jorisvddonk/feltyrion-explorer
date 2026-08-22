@@ -1,6 +1,8 @@
-Planet: CORAL II-3K
+Moon: CORAL II-3K
 Starmap index: 31
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-3
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. LOTS OF CRATERS.

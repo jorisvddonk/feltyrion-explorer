@@ -1,6 +1,8 @@
-Planet: CHYMI
+Moon: CHYMI
 Starmap index: 10
 Paris coordinates: 3587856, 4660150, -3339201
+Orbits: LETAI
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE STORMS

@@ -1,3 +1,5 @@
-Planet: BRIGHTENED
+Moon: BRIGHTENED
 Starmap index: 45
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: LOLLIPOP
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: HAUNTED HILL
+Moon: HAUNTED HILL
 Starmap index: 12
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 2
 
 Guide entries:
 UPDATE:MEDIUM SIZE, BREATHABLE ATMOSPHERE, SUITABLE FOR LIFE.

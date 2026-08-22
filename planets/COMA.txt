@@ -1,6 +1,8 @@
-Planet: COMA
+Moon: COMA
 Starmap index: 16
 Paris coordinates: 3677136, 4440439, -2078563
+Orbits: planet index 03
+Moon id: 12
 
 Guide entries:
 COMA HAS LIFE, BUT IT EITHER COVERED WITH ISLANDS OR MANY BODIES OF H20.

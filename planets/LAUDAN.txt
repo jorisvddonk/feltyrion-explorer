@@ -1,6 +1,8 @@
-Planet: LAUDAN
+Moon: LAUDAN
 Starmap index: 19
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH, CRATERED, SCARRED.

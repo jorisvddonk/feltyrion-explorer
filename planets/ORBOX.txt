@@ -1,6 +1,8 @@
-Planet: ORBOX
+Moon: ORBOX
 Starmap index: 42
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: YORBAN
+Moon id: 9
 
 Guide entries:
 A DENSEWORLD WITH VERY WELL-DEFINED DULL PINK CLOUDS.

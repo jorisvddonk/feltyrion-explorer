@@ -1,3 +1,5 @@
-Planet: ICECAP
+Moon: ICECAP
 Starmap index: 43
 Paris coordinates: 2067504, 5563906, -2988222
+Orbits: ASKEW 4H
+Moon id: 2

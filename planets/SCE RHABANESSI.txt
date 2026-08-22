@@ -1,6 +1,8 @@
-Planet: SCE RHABANESSI
+Moon: SCE RHABANESSI
 Starmap index: 14
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 3
 
 Guide entries:
 A THICK ATMOSPHERE WORLD WITH A CURIOUS WEATHER PATTERN. INSTEAD OF         

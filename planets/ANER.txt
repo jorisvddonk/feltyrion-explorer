@@ -1,3 +1,5 @@
-Planet: ANER
+Moon: ANER
 Starmap index: 16
 Paris coordinates: 4555696, 6114207, -211628
+Orbits: LIFE'S CRADLE
+Moon id: 2

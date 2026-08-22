@@ -1,3 +1,5 @@
-Planet: KOUN
+Moon: KOUN
 Starmap index: 16
 Paris coordinates: 652848, 5094897, 1459881
+Orbits: POSTERIX
+Moon id: 0

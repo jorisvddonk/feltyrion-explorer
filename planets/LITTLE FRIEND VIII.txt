@@ -1,3 +1,5 @@
-Planet: LITTLE FRIEND VIII
+Moon: LITTLE FRIEND VIII
 Starmap index: 11
 Paris coordinates: 3008208, 5683926, -1431904
+Orbits: LITTLE BROTHER
+Moon id: 7

@@ -1,6 +1,8 @@
-Planet: SIDAFH
+Moon: SIDAFH
 Starmap index: 38
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 2
 
 Guide entries:
 M03/P09 SMALL S0OOLID ICY, DARK PINKISH COLOR WIYH MUCH GROOVING. PRO       

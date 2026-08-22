@@ -1,3 +1,5 @@
-Planet: TELLINO
+Moon: TELLINO
 Starmap index: 10
 Paris coordinates: 2839280, 5119379, -1347871
+Orbits: PLUMTENS
+Moon id: 1

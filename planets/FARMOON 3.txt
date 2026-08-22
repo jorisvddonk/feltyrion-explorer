@@ -1,6 +1,8 @@
-Planet: FARMOON 3
+Moon: FARMOON 3
 Starmap index: 38
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 10
 
 Guide entries:
  YET ANOTHER ICY WORLD AT THE EDGE OF THE DRACHNATORIA SYSTEM.

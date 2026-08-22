@@ -1,3 +1,5 @@
-Planet: IBN DHA AL KRA
+Moon: IBN DHA AL KRA
 Starmap index: 39
 Paris coordinates: 3283920, 5272695, -1249674
+Orbits: ASKEW 200E
+Moon id: 7

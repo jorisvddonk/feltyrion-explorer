@@ -1,3 +1,5 @@
-Planet: ASKEW 168F3
+Moon: ASKEW 168F3
 Starmap index: 34
 Paris coordinates: 7010640, -7971256, 10079905
+Orbits: BARNARABAN
+Moon id: 2

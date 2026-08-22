@@ -1,6 +1,8 @@
-Planet: YOKE
+Moon: YOKE
 Starmap index: 35
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS NOTED.

@@ -1,6 +1,8 @@
-Planet: MENENTAVE IIIB
+Moon: MENENTAVE IIIB
 Starmap index: 14
 Paris coordinates: -56784, -84307, -221013
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 A TINY MOON WITH FEEBLE GRAVITY (.166FG) AND NO ATMOSPHERE.

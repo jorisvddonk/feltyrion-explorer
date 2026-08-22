@@ -1,6 +1,8 @@
-Planet: ARGONAS 3.5
+Moon: ARGONAS 3.5
 Starmap index: 19
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 3
+Moon id: 4
 
 Guide entries:
  THE FIFTH MOON OF THE ARGONAS 3 GAS-GIANT, IS A RED, HOT PLANET.

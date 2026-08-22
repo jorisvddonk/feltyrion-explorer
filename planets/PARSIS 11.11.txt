@@ -1,6 +1,8 @@
-Planet: PARSIS 11.11
+Moon: PARSIS 11.11
 Starmap index: 53
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 10
 
 Guide entries:
  ICY LITTLE PLANETOID. SEEMS TO BE QUITE COMMON OUT HERE.

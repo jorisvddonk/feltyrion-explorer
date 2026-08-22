@@ -1,6 +1,8 @@
-Planet: NARWHAITAIA
+Moon: NARWHAITAIA
 Starmap index: 23
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 9
 
 Guide entries:
 BRIGHT GREEN, THICK ATMOSPHERE WITH BIG WHITE CLOUDS. FGS 0.83, TEMP 88,

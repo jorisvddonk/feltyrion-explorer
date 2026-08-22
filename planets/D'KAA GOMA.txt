@@ -1,3 +1,5 @@
-Planet: D'KAA GOMA
+Moon: D'KAA GOMA
 Starmap index: 24
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 12
+Moon id: 1

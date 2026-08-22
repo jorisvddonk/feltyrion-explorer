@@ -1,3 +1,5 @@
-Planet: MISKHA
+Moon: MISKHA
 Starmap index: 20
 Paris coordinates: 3677136, 4440439, -2078563
+Orbits: planet index 03
+Moon id: 16

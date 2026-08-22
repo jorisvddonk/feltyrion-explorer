@@ -1,3 +1,5 @@
-Planet: ISTIA
+Moon: ISTIA
 Starmap index: 41
 Paris coordinates: 257040, 3635948, 23276965
+Orbits: AS12231247E
+Moon id: 13

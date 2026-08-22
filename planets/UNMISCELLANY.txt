@@ -1,6 +1,8 @@
-Planet: UNMISCELLANY
+Moon: UNMISCELLANY
 Starmap index: 21
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: PSEUDOQUARTZ
+Moon id: 1
 
 Guide entries:
 TYPICAL THIN ATMOSPHERE WORLD. DARK SURFACE, ICE CAPS, ROCK.                

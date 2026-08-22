@@ -1,3 +1,5 @@
-Planet: TITANERIS
+Moon: TITANERIS
 Starmap index: 52
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: GIANTIS
+Moon id: 0

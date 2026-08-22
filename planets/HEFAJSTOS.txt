@@ -1,3 +1,5 @@
-Planet: HEFAJSTOS
+Moon: HEFAJSTOS
 Starmap index: 35
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: BIGGREYTHING
+Moon id: 5

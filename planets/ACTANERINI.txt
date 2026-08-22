@@ -1,6 +1,8 @@
-Planet: ACTANERINI
+Moon: ACTANERINI
 Starmap index: 07
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINOR
+Moon id: 0
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT. (NOTES BY NEUZD, 6011:796.964)               

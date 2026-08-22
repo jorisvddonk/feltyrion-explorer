@@ -1,3 +1,5 @@
-Planet: SORON-FRICORF
+Moon: SORON-FRICORF
 Starmap index: 15
 Paris coordinates: 226800, 1068249, -3393825
+Orbits: GOWLAEDO
+Moon id: 8

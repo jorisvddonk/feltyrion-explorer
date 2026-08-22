@@ -1,3 +1,5 @@
-Planet: ASKEW 90D1
+Moon: ASKEW 90D1
 Starmap index: 06
 Paris coordinates: 10769520, -19005089, 17556771
+Orbits: ASKEW 90D
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: RS 4/1
+Moon: RS 4/1
 Starmap index: 14
 Paris coordinates: 2683920, 4230319, -693965
+Orbits: SPIKES
+Moon id: 0

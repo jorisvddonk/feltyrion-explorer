@@ -1,6 +1,8 @@
-Planet: ARMAGED
+Moon: ARMAGED
 Starmap index: 11
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 5
 
 Guide entries:
 THE SIXTH MOON OF THE FOURTH PLANET, THIS POOR THING HAS BEEN BEAT

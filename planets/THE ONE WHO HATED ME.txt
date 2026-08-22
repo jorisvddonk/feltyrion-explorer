@@ -1,3 +1,5 @@
-Planet: THE ONE WHO HATED ME
+Moon: THE ONE WHO HATED ME
 Starmap index: 05
 Paris coordinates: 14741040, 32431250, -7368054
+Orbits: REQUIEM FOR A FOE
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: NABHAV
+Moon: NABHAV
 Starmap index: 38
 Paris coordinates: -1218798544, -1041409, -1081208337
+Orbits: SADA'UKEIRIT 6
+Moon id: 6
 
 Guide entries:
 SADA'UKEIRIT 07/06; FELISIAN

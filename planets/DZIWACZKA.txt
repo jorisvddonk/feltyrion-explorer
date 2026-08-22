@@ -1,3 +1,5 @@
-Planet: DZIWACZKA
+Moon: DZIWACZKA
 Starmap index: 16
 Paris coordinates: -64835440, 29718498, 1969366
+Orbits: JB 115
+Moon id: 4

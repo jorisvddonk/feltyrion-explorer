@@ -1,3 +1,5 @@
-Planet: THIRD GRAY
+Moon: THIRD GRAY
 Starmap index: 13
 Paris coordinates: 3973200, 4425956, -714317
+Orbits: MANAGAROV
+Moon id: 5

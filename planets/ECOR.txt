@@ -1,6 +1,8 @@
-Planet: ECOR
+Moon: ECOR
 Starmap index: 37
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-F
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. TWO VERY

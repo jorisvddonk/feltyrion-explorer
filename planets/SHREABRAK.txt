@@ -1,3 +1,5 @@
-Planet: SHREABRAK
+Moon: SHREABRAK
 Starmap index: 12
 Paris coordinates: 470352, -472659, 722038
+Orbits: RYRAMALIADRAN
+Moon id: 3

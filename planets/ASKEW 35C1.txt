@@ -1,3 +1,5 @@
-Planet: ASKEW 35C1
+Moon: ASKEW 35C1
 Starmap index: 10
 Paris coordinates: 11865584, -18961787, 17976433
+Orbits: KELLEGAR
+Moon id: 0

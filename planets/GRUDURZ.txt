@@ -1,3 +1,5 @@
-Planet: GRUDURZ
+Moon: GRUDURZ
 Starmap index: 37
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: SURENJEJ
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: CCINI
+Moon: CCINI
 Starmap index: 12
 Paris coordinates: 1373200, 778257, 2089632
+Orbits: BEAUTY
+Moon id: 0
 
 Guide entries:
 SMALL, DUSTY AND CRATERIZED, NO ATMOSPHERE. THE SURFACE IS PINK TO

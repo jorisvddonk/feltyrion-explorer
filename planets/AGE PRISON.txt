@@ -1,6 +1,8 @@
-Planet: AGE PRISON
+Moon: AGE PRISON
 Starmap index: 10
 Paris coordinates: 908208, 554963, 552389
+Orbits: BLACK HEART
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.691

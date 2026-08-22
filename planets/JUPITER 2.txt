@@ -1,3 +1,5 @@
-Planet: JUPITER 2
+Moon: JUPITER 2
 Starmap index: 13
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZENTORGO
+Moon id: 1

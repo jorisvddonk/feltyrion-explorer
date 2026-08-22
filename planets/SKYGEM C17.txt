@@ -1,6 +1,8 @@
-Planet: SKYGEM C17
+Moon: SKYGEM C17
 Starmap index: 46
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 16
 
 Guide entries:
  A THCK ATMOSPHERE GREENHOUSE. AMWHERE 6011.584.75

@@ -1,3 +1,5 @@
-Planet: POCK
+Moon: POCK
 Starmap index: 18
 Paris coordinates: 3490704, 4119378, -1033599
+Orbits: BINGO
+Moon id: 5

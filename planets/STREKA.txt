@@ -1,6 +1,8 @@
-Planet: STREKA
+Moon: STREKA
 Starmap index: 09
 Paris coordinates: 4173200, 4174602, -869194
+Orbits: GIANT RAISIN
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:850.528                                    

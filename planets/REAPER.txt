@@ -1,6 +1,8 @@
-Planet: REAPER
+Moon: REAPER
 Starmap index: 14
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 9
 
 Guide entries:
 10TH MOON OF PLANET RUFUSA - THICK ATMOSPHERE AND A MASSIVE STORM...

@@ -1,3 +1,5 @@
-Planet: PRIBBI
+Moon: PRIBBI
 Starmap index: 24
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: LUEB
+Moon id: 16

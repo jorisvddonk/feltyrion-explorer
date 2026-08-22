@@ -1,6 +1,8 @@
-Planet: LUMO
+Moon: LUMO
 Starmap index: 13
 Paris coordinates: 808208, 1178550, 752685
+Orbits: NEME
+Moon id: 1
 
 Guide entries:
 ICY MOON OF NEME, A SUBSTELLAR OBJECT. NO INTERESTING CRACKS FOUND, THE     

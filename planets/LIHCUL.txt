@@ -1,6 +1,8 @@
-Planet: LIHCUL
+Moon: LIHCUL
 Starmap index: 06
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: RIMYEKUR
+Moon id: 0
 
 Guide entries:
 M01/P03 INTERNALLY HOT WITH LIGHT BROWN REFLECTIVITY AND RELATIVELY         

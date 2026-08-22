@@ -1,3 +1,5 @@
-Planet: BEHOLDER
+Moon: BEHOLDER
 Starmap index: 21
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: LEVIATHAN
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: SIEZE
+Moon: SIEZE
 Starmap index: 20
 Paris coordinates: -218928, 44011, 180703
+Orbits: NOCK
+Moon id: 9
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. QUITE REFLECTIVE CLOUD

@@ -1,6 +1,8 @@
-Planet: ZEBRIM P
+Moon: ZEBRIM P
 Starmap index: 23
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 15
 
 Guide entries:
 A BRIGHT GREEN DEADWORLD WITH LARGE CONCENTRIC CRATERS.

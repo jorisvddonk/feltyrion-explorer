@@ -1,3 +1,5 @@
-Planet: VIMARAES-C-S10-FELYS
+Moon: VIMARAES-C-S10-FELYS
 Starmap index: 20
 Paris coordinates: 3661808, 108183, -8606009
+Orbits: VIMARAES-C
+Moon id: 9

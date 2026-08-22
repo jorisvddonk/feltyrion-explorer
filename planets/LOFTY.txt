@@ -1,3 +1,5 @@
-Planet: LOFTY
+Moon: LOFTY
 Starmap index: 23
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: LEVIATHAN
+Moon id: 5

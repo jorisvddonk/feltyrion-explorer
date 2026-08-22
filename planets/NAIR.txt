@@ -1,6 +1,8 @@
-Planet: NAIR
+Moon: NAIR
 Starmap index: 09
 Paris coordinates: 4831408, 4803641, -36528
+Orbits: DISES
+Moon id: 4
 
 Guide entries:
 ICY GREEN MOON OF DISES IN CISCOSIS SYSTEM.

@@ -1,3 +1,5 @@
-Planet: VORINAR
+Moon: VORINAR
 Starmap index: 37
 Paris coordinates: -190841520, 789656, -115880313
+Orbits: KOTOCHA 6
+Moon id: 16

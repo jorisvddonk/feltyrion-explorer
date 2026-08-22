@@ -1,6 +1,8 @@
-Planet: TOYN
+Moon: TOYN
 Starmap index: 60
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 17
 
 Guide entries:
 M19/P10 SMALL SOLID ICY LIGHT PURPLE WITH MUCH WHITE GROOVING. PRO 0.077.   

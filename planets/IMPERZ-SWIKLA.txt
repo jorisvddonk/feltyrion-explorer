@@ -1,3 +1,5 @@
-Planet: IMPERZ-SWIKLA
+Moon: IMPERZ-SWIKLA
 Starmap index: 47
 Paris coordinates: -614992, 734031, -1219112
+Orbits: GOPSESSA
+Moon id: 3

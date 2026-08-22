@@ -1,3 +1,5 @@
-Planet: CRACKY
+Moon: CRACKY
 Starmap index: 06
 Paris coordinates: 2394640, 4207114, -1644127
+Orbits: AZUL
+Moon id: 1

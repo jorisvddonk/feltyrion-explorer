@@ -1,6 +1,8 @@
-Planet: DIDAM
+Moon: DIDAM
 Starmap index: 10
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: OLLIC
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

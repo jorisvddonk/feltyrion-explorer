@@ -1,6 +1,8 @@
-Planet: NEW FORTUNE
+Moon: NEW FORTUNE
 Starmap index: 16
 Paris coordinates: 1977136, 5126384, -394992
+Orbits: planet index 05
+Moon id: 2
 
 Guide entries:
 FELISIAN MOON AROUND THE 5TH PLANET OF THE AWELER SYSTEM.

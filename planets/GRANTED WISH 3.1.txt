@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 3.1
+Moon: GRANTED WISH 3.1
 Starmap index: 08
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 3
+Moon id: 0
 
 Guide entries:
 HEH, DID I MENTION SOMETHING ABOUT A FELYSIAN MOON? IT                      

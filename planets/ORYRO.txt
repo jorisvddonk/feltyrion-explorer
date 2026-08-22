@@ -1,6 +1,8 @@
-Planet: ORYRO
+Moon: ORYRO
 Starmap index: 06
 Paris coordinates: 26546832, 6418955, 44905877
+Orbits: OOLIVE
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE THIRD PLANET, AN ORANGE INTERNALLY HOT MOON.

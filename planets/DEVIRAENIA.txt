@@ -1,6 +1,8 @@
-Planet: DEVIRAENIA
+Moon: DEVIRAENIA
 Starmap index: 21
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 7
 
 Guide entries:
 BRIGHT YELLOW ROCKY WORLD WITH MANY RAY CRATERS. FGS 0.16, TEMP -265,

@@ -1,3 +1,5 @@
-Planet: GOOBERNAUGHT
+Moon: GOOBERNAUGHT
 Starmap index: 07
 Paris coordinates: 956784, 1809441, -381050
+Orbits: BIGTOP
+Moon id: 0

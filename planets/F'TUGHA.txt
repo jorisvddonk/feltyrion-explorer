@@ -1,6 +1,8 @@
-Planet: F'TUGHA
+Moon: F'TUGHA
 Starmap index: 06
 Paris coordinates: 1770352, 4945881, -410751
+Orbits: HA-KARI
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-570.28

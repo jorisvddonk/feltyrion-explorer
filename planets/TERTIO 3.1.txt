@@ -1,6 +1,8 @@
-Planet: TERTIO 3.1
+Moon: TERTIO 3.1
 Starmap index: 06
 Paris coordinates: 11828560, -4640891, -9107608
+Orbits: TERTIO 3
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, CRATERIZED. VERY CLOSE TO ITS PLANET. HIGHLY REFLEC-

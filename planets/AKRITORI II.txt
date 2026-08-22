@@ -1,6 +1,8 @@
-Planet: AKRITORI II
+Moon: AKRITORI II
 Starmap index: 23
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: AKRITORI
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY NEURONWAKE EPOC 6011 802.532.600                              

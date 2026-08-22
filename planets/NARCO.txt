@@ -1,6 +1,8 @@
-Planet: NARCO
+Moon: NARCO
 Starmap index: 16
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: DREAMSCAPE
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. DARK WORLD WITH FAIR SIZED SOUTH POLE CAP

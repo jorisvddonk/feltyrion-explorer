@@ -1,6 +1,8 @@
-Planet: POTAYT
+Moon: POTAYT
 Starmap index: 09
 Paris coordinates: 2029875792, -1775088, 340992
+Orbits: CUBYAS
+Moon id: 1
 
 Guide entries:
 M02/P06 SMALL, SOLID, DUSTY, VERY LARGE CRATERS, MILD GREEN COLOR. PRO      

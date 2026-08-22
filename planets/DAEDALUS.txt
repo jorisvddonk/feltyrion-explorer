@@ -1,3 +1,5 @@
-Planet: DAEDALUS
+Moon: DAEDALUS
 Starmap index: 16
 Paris coordinates: 4159632, 4436827, -1722935
+Orbits: PITEUS
+Moon id: 4

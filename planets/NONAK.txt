@@ -1,6 +1,8 @@
-Planet: NONAK
+Moon: NONAK
 Starmap index: 25
 Paris coordinates: 974288, 1321067, -1251662
+Orbits: JOHANN
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY FOTIOS. EPOC 6011:609.531

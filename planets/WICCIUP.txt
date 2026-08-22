@@ -1,6 +1,8 @@
-Planet: WICCIUP
+Moon: WICCIUP
 Starmap index: 25
 Paris coordinates: 1109296, 4614243, -3321680
+Orbits: planet index 04
+Moon id: 17
 
 Guide entries:
 12TH MOON OF 4TH PLANET, FELISIAN, DISC BY SCAREDY-CAT,6011.589.331

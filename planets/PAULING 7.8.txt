@@ -1,6 +1,8 @@
-Planet: PAULING 7.8
+Moon: PAULING 7.8
 Starmap index: 33
 Paris coordinates: 12052848, -4655501, -9731942
+Orbits: PAULING 7
+Moon id: 7
 
 Guide entries:
 ONE MORE. I'M OUT OF WORDS... OK, THE MOON HASVIOLET CLOUDS AND

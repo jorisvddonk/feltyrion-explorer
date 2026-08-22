@@ -1,6 +1,8 @@
-Planet: SEHEIRIT
+Moon: SEHEIRIT
 Starmap index: 16
 Paris coordinates: -921743312, -975136, -775992144
+Orbits: SUCHAARAG C
+Moon id: 0
 
 Guide entries:
 SUCHAARAG 01/04; FELISIAN

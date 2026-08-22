@@ -1,6 +1,8 @@
-Planet: CORDELLE
+Moon: CORDELLE
 Starmap index: 12
 Paris coordinates: 3797488, 4355365, -1030058
+Orbits: PWILL
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

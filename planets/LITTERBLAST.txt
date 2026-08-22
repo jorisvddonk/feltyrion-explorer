@@ -1,6 +1,8 @@
-Planet: LITTERBLAST
+Moon: LITTERBLAST
 Starmap index: 16
 Paris coordinates: -1425456112, 2129157, 1434927061
+Orbits: planet index 05
+Moon id: 1
 
 Guide entries:
 THIN-AT WORLD. DECENT SURFACE. RYAN GJK E6011.787.58                        

@@ -1,3 +1,5 @@
-Planet: ASKEW 173L12
+Moon: ASKEW 173L12
 Starmap index: 39
 Paris coordinates: 5673872, -4854505, 7465503
+Orbits: ASKEW 173L
+Moon id: 11

@@ -1,3 +1,5 @@
-Planet: JOUDAS
+Moon: JOUDAS
 Starmap index: 11
 Paris coordinates: 13778896, 7771155, -6306874
+Orbits: LATVIA
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: HELLE
+Moon: HELLE
 Starmap index: 16
 Paris coordinates: 5827472, 4968989, 720641
+Orbits: SYNKKYYS
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: BAYL
+Moon: BAYL
 Starmap index: 37
 Paris coordinates: -123583024, -54967750, -1864646
+Orbits: RAVALISS 5
+Moon id: 2
 
 Guide entries:
 RAVALISS 03/05; HOT, INCONSISTENT

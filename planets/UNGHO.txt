@@ -1,3 +1,5 @@
-Planet: UNGHO
+Moon: UNGHO
 Starmap index: 22
 Paris coordinates: 1583920, -27673265, 361375
+Orbits: LUCHS
+Moon id: 0

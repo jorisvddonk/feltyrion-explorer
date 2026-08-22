@@ -1,6 +1,8 @@
-Planet: HEOLM
+Moon: HEOLM
 Starmap index: 07
 Paris coordinates: 10081072, 292379, -10232107
+Orbits: DRAASKEN
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS AN ALMOST 'DIRTY'

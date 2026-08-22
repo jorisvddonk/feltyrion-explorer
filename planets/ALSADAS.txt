@@ -1,6 +1,8 @@
-Planet: ALSADAS
+Moon: ALSADAS
 Starmap index: 08
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 4
 
 Guide entries:
 M05/P03 MEDIUM SIZE THICK ATMO. TUBID APPLE GREEN CLOUD COVER. PRO          

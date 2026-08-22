@@ -1,3 +1,5 @@
-Planet: BUUA'YU'RERP
+Moon: BUUA'YU'RERP
 Starmap index: 19
 Paris coordinates: 226800, 1068249, -3393825
+Orbits: GOWLAEDO
+Moon id: 12

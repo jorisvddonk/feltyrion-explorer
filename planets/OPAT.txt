@@ -1,6 +1,8 @@
-Planet: OPAT
+Moon: OPAT
 Starmap index: 35
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAR ATTEMPT
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

@@ -1,3 +1,5 @@
-Planet: ORIGIN OF SIMMETRY
+Moon: ORIGIN OF SIMMETRY
 Starmap index: 10
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: BENNY MINOR
+Moon id: 2

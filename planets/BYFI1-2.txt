@@ -1,6 +1,8 @@
-Planet: BYFI1-2
+Moon: BYFI1-2
 Starmap index: 06
 Paris coordinates: -178224, -1278064, 2452536
+Orbits: BYFI1
+Moon id: 1
 
 Guide entries:
 SMALL, NO ATMOSPHERE.

@@ -1,3 +1,5 @@
-Planet: ASKEW 163E4
+Moon: ASKEW 163E4
 Starmap index: 34
 Paris coordinates: 7851344, -10291278, 11707487
+Orbits: ASKEW 163E
+Moon id: 3

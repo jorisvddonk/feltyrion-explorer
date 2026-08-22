@@ -1,3 +1,5 @@
-Planet: PARMENIDES
+Moon: PARMENIDES
 Starmap index: 16
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: HELLAS
+Moon id: 4

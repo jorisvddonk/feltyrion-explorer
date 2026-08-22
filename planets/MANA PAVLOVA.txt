@@ -1,3 +1,5 @@
-Planet: MANA PAVLOVA
+Moon: MANA PAVLOVA
 Starmap index: 19
 Paris coordinates: 8953104, -17163363, 16463417
+Orbits: ASKEW 138D
+Moon id: 10

@@ -1,6 +1,8 @@
-Planet: KUMONAYAMEM
+Moon: KUMONAYAMEM
 Starmap index: 36
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 7
 
 Guide entries:
 ANOTHER OF THOSE WEIRD FELISIAN WOLRDS WHERE TREES AND TERRAIN AT THE       

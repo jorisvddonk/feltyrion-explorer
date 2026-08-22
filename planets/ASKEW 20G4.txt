@@ -1,3 +1,5 @@
-Planet: ASKEW 20G4
+Moon: ASKEW 20G4
 Starmap index: 25
 Paris coordinates: 9837776, 8235999, 8907617
+Orbits: ASKEW 20G
+Moon id: 3

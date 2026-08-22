@@ -1,3 +1,5 @@
-Planet: GABOL-C-S4
+Moon: GABOL-C-S4
 Starmap index: 11
 Paris coordinates: 3717168, -357866, -9332558
+Orbits: GABOL-C
+Moon id: 3

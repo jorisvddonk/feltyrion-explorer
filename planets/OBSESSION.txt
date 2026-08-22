@@ -1,6 +1,8 @@
-Planet: OBSESSION
+Moon: OBSESSION
 Starmap index: 22
 Paris coordinates: 2718928, 4334162, -2459888
+Orbits: LIQUID COOL
+Moon id: 1
 
 Guide entries:
 IT IS UNEXPECTED THAT LIFE IS TO BE FOUND ON THIS DISTANT MOON. IT

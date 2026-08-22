@@ -1,6 +1,8 @@
-Planet: PARLOPHONE
+Moon: PARLOPHONE
 Starmap index: 08
 Paris coordinates: 6007120, 4721244, -713119
+Orbits: MORNING BELL
+Moon id: 0
 
 Guide entries:
 THE FIRST PLANET OF THE FIRST COMPANION STAR (MORNING BELL) OF THE

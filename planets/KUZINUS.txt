@@ -1,6 +1,8 @@
-Planet: KUZINUS
+Moon: KUZINUS
 Starmap index: 14
 Paris coordinates: 5252848, 4172558, -2953297
+Orbits: TRILIUS
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.001.282)

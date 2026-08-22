@@ -1,3 +1,5 @@
-Planet: PERDOW
+Moon: PERDOW
 Starmap index: 15
 Paris coordinates: 3814992, 4409913, -1856513
+Orbits: GEM
+Moon id: 0

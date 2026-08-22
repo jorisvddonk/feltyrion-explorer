@@ -1,6 +1,8 @@
-Planet: NYLIV
+Moon: NYLIV
 Starmap index: 24
 Paris coordinates: -683920, -11230, -1166048
+Orbits: KIET 3
+Moon id: 7
 
 Guide entries:
 KIET 08/03; HABITABLE

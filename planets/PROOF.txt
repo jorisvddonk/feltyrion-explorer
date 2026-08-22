@@ -1,6 +1,8 @@
-Planet: PROOF
+Moon: PROOF
 Starmap index: 22
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKLY REFLECTIVE WITH DARK

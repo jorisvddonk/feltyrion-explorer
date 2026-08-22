@@ -1,6 +1,8 @@
-Planet: BALLON 17.14
+Moon: BALLON 17.14
 Starmap index: 62
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 13
 
 Guide entries:
 SO 17.13 WAS NOT THE LAST MOON AFTER ALL. THIS ONE, YET ANOTHER             

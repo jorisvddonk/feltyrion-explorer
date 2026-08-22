@@ -1,6 +1,8 @@
-Planet: BURNAHL
+Moon: BURNAHL
 Starmap index: 16
 Paris coordinates: 2990704, 1545929, -553777
+Orbits: FELBRAN
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.386.953

@@ -1,3 +1,5 @@
-Planet: TARPATTI
+Moon: TARPATTI
 Starmap index: 15
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: MANNING
+Moon id: 7

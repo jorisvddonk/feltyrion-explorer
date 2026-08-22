@@ -1,3 +1,5 @@
-Planet: TEAL GOBLIN
+Moon: TEAL GOBLIN
 Starmap index: 13
 Paris coordinates: -71899920, -587551, 53664334
+Orbits: UNDERWATER GOBLIN
+Moon id: 0

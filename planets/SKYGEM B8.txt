@@ -1,6 +1,8 @@
-Planet: SKYGEM B8
+Moon: SKYGEM B8
 Starmap index: 17
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 7
 
 Guide entries:
  A QUARTZITE MOON OF LITTLE DISTINCTION. AMWHERE 6011.584.922

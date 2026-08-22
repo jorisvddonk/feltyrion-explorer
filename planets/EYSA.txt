@@ -1,6 +1,8 @@
-Planet: EYSA
+Moon: EYSA
 Starmap index: 12
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: PARFHSTREYA
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:403

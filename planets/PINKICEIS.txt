@@ -1,3 +1,5 @@
-Planet: PINKICEIS
+Moon: PINKICEIS
 Starmap index: 56
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: GIANTIS
+Moon id: 4

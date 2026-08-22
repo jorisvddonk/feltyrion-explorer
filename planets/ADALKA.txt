@@ -1,6 +1,8 @@
-Planet: ADALKA
+Moon: ADALKA
 Starmap index: 26
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: ASTFHJEAM
+Moon id: 2
 
 Guide entries:
 M03P08, DUSTY, CRATERIZED, SMALL, PRO 0.232.560; PRV 0.009.948.142 ///

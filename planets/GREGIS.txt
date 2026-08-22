@@ -1,6 +1,8 @@
-Planet: GREGIS
+Moon: GREGIS
 Starmap index: 07
 Paris coordinates: 2090958384, -1967570, -33666
+Orbits: EMOFHAT
+Moon id: 2
 
 Guide entries:
 M03/P03 A BLUE TINGED FELISIAN WORLD. AT 5.69 THERE WAS MOUNTAINOUS         

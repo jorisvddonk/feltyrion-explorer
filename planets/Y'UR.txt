@@ -1,3 +1,5 @@
-Planet: Y'UR
+Moon: Y'UR
 Starmap index: 17
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: IADHA
+Moon id: 3

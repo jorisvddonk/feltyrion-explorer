@@ -1,6 +1,8 @@
-Planet: OBUNG
+Moon: OBUNG
 Starmap index: 23
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: SHURANT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. STILL, HAS A FAIR GREEN

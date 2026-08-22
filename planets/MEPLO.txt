@@ -1,6 +1,8 @@
-Planet: MEPLO
+Moon: MEPLO
 Starmap index: 36
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DIFLAE
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHT BROWNISH REFLECTIVITY

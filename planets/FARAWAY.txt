@@ -1,3 +1,5 @@
-Planet: FARAWAY
+Moon: FARAWAY
 Starmap index: 24
 Paris coordinates: 487856, 49102, -230101
+Orbits: NEUMAC
+Moon id: 0

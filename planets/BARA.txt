@@ -1,6 +1,8 @@
-Planet: BARA
+Moon: BARA
 Starmap index: 06
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 1
 
 Guide entries:
 RATHER BORING PLANET, GREY TO DARK OLIVE LANDSCAPE, LOW ROLLING HILLS.

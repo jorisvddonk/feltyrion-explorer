@@ -1,6 +1,8 @@
-Planet: DUSKWARREN
+Moon: DUSKWARREN
 Starmap index: 59
 Paris coordinates: 4189616, 12634737, 2050432
+Orbits: planet index 07
+Moon id: 11
 
 Guide entries:
 THE THIRD FELYSIAN PLANET IN THE SYSTEM. VERY SIMILAR TO GLOOMNEST,

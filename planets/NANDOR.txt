@@ -1,3 +1,5 @@
-Planet: NANDOR
+Moon: NANDOR
 Starmap index: 15
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SHINY
+Moon id: 2

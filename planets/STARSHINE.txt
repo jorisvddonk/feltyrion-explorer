@@ -1,6 +1,8 @@
-Planet: STARSHINE
+Moon: STARSHINE
 Starmap index: 07
 Paris coordinates: 2614992, 4349004, -633035
+Orbits: planet index 03
+Moon id: 3
 
 Guide entries:
 MOON DISCOVERED BY ADAM DALY (TACOFERNANDEZ), EPOC:6011:664.598

@@ -1,3 +1,5 @@
-Planet: NIG
+Moon: NIG
 Starmap index: 17
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: BUEBUE
+Moon id: 1

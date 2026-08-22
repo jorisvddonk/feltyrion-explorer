@@ -1,3 +1,5 @@
-Planet: HILVIO
+Moon: HILVIO
 Starmap index: 08
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: MANNING
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: DK1
+Moon: DK1
 Starmap index: 65
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: DAKERDE
+Moon id: 0

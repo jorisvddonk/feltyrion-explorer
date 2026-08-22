@@ -1,3 +1,5 @@
-Planet: THERMUS
+Moon: THERMUS
 Starmap index: 16
 Paris coordinates: 3663568, 4179686, -2879759
+Orbits: MOONPULLER
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: ZAMIS ARA
+Moon: ZAMIS ARA
 Starmap index: 15
 Paris coordinates: 4147152, 8296636, -6104665
+Orbits: ZAMIS 5
+Moon id: 6
 
 Guide entries:
 FELISIAN MOON OF 5TH PLANET(RAPTORJEDI EPOC 6011 605.659)

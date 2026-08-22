@@ -1,6 +1,8 @@
-Planet: VAIL
+Moon: VAIL
 Starmap index: 17
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 3
 
 Guide entries:
 A FELISIAN MOON! NAMED BY PREVIOUS EXPLORER, BUT NO NOTES WERE MADE. I'M

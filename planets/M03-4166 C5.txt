@@ -1,3 +1,5 @@
-Planet: M03-4166 C5
+Moon: M03-4166 C5
 Starmap index: 15
 Paris coordinates: -39147824, 1444615, 31691197
+Orbits: M03-4166 C
+Moon id: 4

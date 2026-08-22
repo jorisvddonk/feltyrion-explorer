@@ -1,6 +1,8 @@
-Planet: MUNE
+Moon: MUNE
 Starmap index: 09
 Paris coordinates: 287856, -62820, 77351
+Orbits: BEIGHT
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE FOURTH PLANET, A GREEN DUSTY MOON. SURFACE COLOR IS

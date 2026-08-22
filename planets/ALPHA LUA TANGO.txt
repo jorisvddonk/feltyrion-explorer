@@ -1,6 +1,8 @@
-Planet: ALPHA LUA TANGO
+Moon: ALPHA LUA TANGO
 Starmap index: 14
 Paris coordinates: -230344592, -1360030, 54971502
+Orbits: LUA TANGO
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.574.447

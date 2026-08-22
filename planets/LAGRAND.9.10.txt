@@ -1,3 +1,5 @@
-Planet: LAGRAND.9.10
+Moon: LAGRAND.9.10
 Starmap index: 30
 Paris coordinates: 3779984, 3313464, -52977
+Orbits: LAGRAND.9
+Moon id: 9

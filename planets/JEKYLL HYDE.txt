@@ -1,6 +1,8 @@
-Planet: JEKYLL HYDE
+Moon: JEKYLL HYDE
 Starmap index: 22
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 12
 
 Guide entries:
 UPDATE:SMALL, SOLID, THIN ATMOSPHERE. DARK WORLD, POLAR CAPS NOT

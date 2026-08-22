@@ -1,6 +1,8 @@
-Planet: CRYSTALUM
+Moon: CRYSTALUM
 Starmap index: 17
 Paris coordinates: 3663568, 4179686, -2879759
+Orbits: MOONPULLER
+Moon id: 6
 
 Guide entries:
  COLD PONDS LITTER THE LANDSCAPE.

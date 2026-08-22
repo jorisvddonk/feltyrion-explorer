@@ -1,6 +1,8 @@
-Planet: JATE
+Moon: JATE
 Starmap index: 21
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: YATEXOL
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, GOOD POLAR CAPS. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: SINGLER
+Moon: SINGLER
 Starmap index: 12
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE SEVENTH PLANET. A GREEN THIN ATMO, NOT MUCH ELSE

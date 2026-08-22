@@ -1,6 +1,8 @@
-Planet: LAKODFH
+Moon: LAKODFH
 Starmap index: 08
 Paris coordinates: 2130850352, -1636894, 447026
+Orbits: DOMIBE
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL SOLID THIN ATMOFAIRLY LIGHT WITH SLIGHTLY SCANT POLAR         

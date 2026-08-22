@@ -1,3 +1,5 @@
-Planet: SLITHY TOVE
+Moon: SLITHY TOVE
 Starmap index: 29
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: PALISSANDRO
+Moon id: 7

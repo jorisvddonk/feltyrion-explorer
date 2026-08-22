@@ -1,3 +1,5 @@
-Planet: KIIRNU
+Moon: KIIRNU
 Starmap index: 12
 Paris coordinates: 3790704, 5311018, -1433729
+Orbits: KALLIS
+Moon id: 0

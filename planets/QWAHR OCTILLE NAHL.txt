@@ -1,3 +1,5 @@
-Planet: QWAHR OCTILLE NAHL
+Moon: QWAHR OCTILLE NAHL
 Starmap index: 63
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR OCTILLE
+Moon id: 8

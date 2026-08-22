@@ -1,6 +1,8 @@
-Planet: TWISIS
+Moon: TWISIS
 Starmap index: 70
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. ONLY MODERATELY DARK PURPLE

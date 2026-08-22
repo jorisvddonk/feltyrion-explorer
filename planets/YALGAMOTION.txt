@@ -1,6 +1,8 @@
-Planet: YALGAMOTION
+Moon: YALGAMOTION
 Starmap index: 16
 Paris coordinates: 10793808, -18875421, 16913063
+Orbits: ASKEW 93C
+Moon id: 4
 
 Guide entries:
 FOUND EPOC 6011 588.369.950 BY ROLAND ASKEW

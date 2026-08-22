@@ -1,6 +1,8 @@
-Planet: GESENRET
+Moon: GESENRET
 Starmap index: 12
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF FOURTH PLANET, FELYSIAN. THE MOON IS ALMOST

@@ -1,6 +1,8 @@
-Planet: YUINCA B X
+Moon: YUINCA B X
 Starmap index: 26
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA B
+Moon id: 9
 
 Guide entries:
  A SMALL, DUSTY, THIN ATMOSPHERE MOON. AMWHERE 6011.586.472

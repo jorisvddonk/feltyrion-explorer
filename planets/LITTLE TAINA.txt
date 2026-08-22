@@ -1,6 +1,8 @@
-Planet: LITTLE TAINA
+Moon: LITTLE TAINA
 Starmap index: 07
 Paris coordinates: 5813904, 5031533, -93900
+Orbits: TOGAIN TALAS
+Moon id: 0
 
 Guide entries:
  UNREMARKABLE MOON OF FOURTH PLANET. CRATERED WITH NO SIGIFIGAT

@@ -1,6 +1,8 @@
-Planet: BORSCH
+Moon: BORSCH
 Starmap index: 26
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 0
 
 Guide entries:
 A RED GAS GIANT THAT REMINDS ME OF A BOWL OF BORSCH!

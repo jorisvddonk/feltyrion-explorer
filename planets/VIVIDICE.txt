@@ -1,6 +1,8 @@
-Planet: VIVIDICE
+Moon: VIVIDICE
 Starmap index: 23
 Paris coordinates: -1425549328, 1737959, 1435181847
+Orbits: MOTTLEMOTTLEMOTTLE.
+Moon id: 0
 
 Guide entries:
 ON THE SURFACE, IS BRIGHT, WELL PATTERNED AND SMOOTH. FROM SPACE,           

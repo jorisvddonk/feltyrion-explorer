@@ -1,6 +1,8 @@
-Planet: JRIKARJIM
+Moon: JRIKARJIM
 Starmap index: 07
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: EUETALISIS
+Moon id: 0
 
 Guide entries:
 M01/P03 THIN ATMO. FAIR REFLECTIVITY WITH GOOD POLAR CAPS, LARGE

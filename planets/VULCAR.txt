@@ -1,3 +1,5 @@
-Planet: VULCAR
+Moon: VULCAR
 Starmap index: 32
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZEBES
+Moon id: 2

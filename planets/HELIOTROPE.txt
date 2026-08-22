@@ -1,6 +1,8 @@
-Planet: HELIOTROPE
+Moon: HELIOTROPE
 Starmap index: 18
 Paris coordinates: 2381072, 4319848, -2471627
+Orbits: planet index 03
+Moon id: 12
 
 Guide entries:
  FELISIAN PLANET DISC BY SCAREDY-CAT, EPOC 6011.584.93.MUST EXPLORE

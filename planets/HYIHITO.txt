@@ -1,3 +1,5 @@
-Planet: HYIHITO
+Moon: HYIHITO
 Starmap index: 20
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: SINENEN
+Moon id: 2

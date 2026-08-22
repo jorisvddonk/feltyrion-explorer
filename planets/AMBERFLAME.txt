@@ -1,6 +1,8 @@
-Planet: AMBERFLAME
+Moon: AMBERFLAME
 Starmap index: 22
 Paris coordinates: 3735344, 5373064, -622706
+Orbits: AMBERJADE
+Moon id: 0
 
 Guide entries:
  THE HOT AMBERJADE'S MOON DISCOVERED BY MRUQE; EPOC 6011-568.265

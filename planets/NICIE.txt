@@ -1,6 +1,8 @@
-Planet: NICIE
+Moon: NICIE
 Starmap index: 31
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 5
 
 Guide entries:
 AN AVERAGE, GREENISH GRAY, DUSTY MOON. AVERAGE LAND FEATURES, CRATERS,

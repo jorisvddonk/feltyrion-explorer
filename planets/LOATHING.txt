@@ -1,6 +1,8 @@
-Planet: LOATHING
+Moon: LOATHING
 Starmap index: 16
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: DESPOTIC POWER
+Moon id: 3
 
 Guide entries:
 THIS FELISIAN MOON OF DESPOTIC POWER ON EKA29 IS A STORMY ONE.. I

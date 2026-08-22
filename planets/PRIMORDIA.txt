@@ -1,6 +1,8 @@
-Planet: PRIMORDIA
+Moon: PRIMORDIA
 Starmap index: 17
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE III
+Moon id: 0
 
 Guide entries:
 A FELYSIAN WORLD IN AN S09 STAR SYSTEM! TIME FOR SOME EXPLORATION...

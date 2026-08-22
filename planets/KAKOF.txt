@@ -1,6 +1,8 @@
-Planet: KAKOF
+Moon: KAKOF
 Starmap index: 22
 Paris coordinates: -2512, 333266, 2788927
+Orbits: NAGUT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, A LIGHT RING AREA NOTED,

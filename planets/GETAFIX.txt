@@ -1,6 +1,8 @@
-Planet: GETAFIX
+Moon: GETAFIX
 Starmap index: 14
 Paris coordinates: 360720, 349749, -1539326
+Orbits: OBELIX THE GAUL
+Moon id: 1
 
 Guide entries:
 MOON 2 OF PLANET 5 IN ASTERIX SYSTEM. FELISIAN.

@@ -1,6 +1,8 @@
-Planet: ENPAMSY
+Moon: ENPAMSY
 Starmap index: 35
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 14
 
 Guide entries:
 M15/P08 LARGE NOT CONSISTENT, GREY CLOUD COVER WITH ALMOST BLACK BANDS      

@@ -1,6 +1,8 @@
-Planet: ANFHJY
+Moon: ANFHJY
 Starmap index: 34
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ILFHLEJ
+Moon id: 0
 
 Guide entries:
 M01/P08 SMALL SOLID THIN ATMO FAIRLY DARK WITH SLIGHT POLAR CAPS. PRO       

@@ -1,6 +1,8 @@
-Planet: MARTINU
+Moon: MARTINU
 Starmap index: 09
 Paris coordinates: 55204688, 331671, 1982481783
+Orbits: AS01051250C
+Moon id: 1
 
 Guide entries:
 REMARKABLY COOL COMPARED TO ITS TWIN SKALIKA.

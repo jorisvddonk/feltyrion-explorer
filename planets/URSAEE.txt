@@ -1,3 +1,5 @@
-Planet: URSAEE
+Moon: URSAEE
 Starmap index: 24
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: ASLISASLEBAL
+Moon id: 4

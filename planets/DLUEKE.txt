@@ -1,3 +1,5 @@
-Planet: DLUEKE
+Moon: DLUEKE
 Starmap index: 14
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 4

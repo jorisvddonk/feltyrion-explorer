@@ -1,6 +1,8 @@
-Planet: ORUZA
+Moon: ORUZA
 Starmap index: 18
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. GREY AND MODERATELY

@@ -1,6 +1,8 @@
-Planet: KALLACH X B
+Moon: KALLACH X B
 Starmap index: 18
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: KALLACH X
+Moon id: 1
 
 Guide entries:
 A RED HELLWORLD. (SCHMERM 6011 601.504)

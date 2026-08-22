@@ -1,6 +1,8 @@
-Planet: BEADY
+Moon: BEADY
 Starmap index: 20
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. A TURBULENT

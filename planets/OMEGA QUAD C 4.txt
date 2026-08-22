@@ -1,6 +1,8 @@
-Planet: OMEGA QUAD C 4
+Moon: OMEGA QUAD C 4
 Starmap index: 10
 Paris coordinates: -11867088, -664921, -560296
+Orbits: OMEGA QUAD C
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. MOSTLY ROUGH, SOME

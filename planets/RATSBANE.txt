@@ -1,6 +1,8 @@
-Planet: RATSBANE
+Moon: RATSBANE
 Starmap index: 09
 Paris coordinates: 87856, -5814, 275087
+Orbits: INDEED
+Moon id: 1
 
 Guide entries:
 SMALL SOLID, DUSTY CRATERIZED, NO ATMOSPHERE. DARKLY REFLECTIVE WITH

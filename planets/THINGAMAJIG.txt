@@ -1,6 +1,8 @@
-Planet: THINGAMAJIG
+Moon: THINGAMAJIG
 Starmap index: 13
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: BLAND
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. LANDING AT 357.53

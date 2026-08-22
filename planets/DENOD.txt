@@ -1,6 +1,8 @@
-Planet: DENOD
+Moon: DENOD
 Starmap index: 11
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

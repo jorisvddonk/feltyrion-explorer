@@ -1,3 +1,5 @@
-Planet: GOELARUSSIN
+Moon: GOELARUSSIN
 Starmap index: 07
 Paris coordinates: 2283920, -26018647, -222425
+Orbits: NIERK
+Moon id: 0

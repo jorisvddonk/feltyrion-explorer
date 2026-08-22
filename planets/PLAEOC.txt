@@ -1,6 +1,8 @@
-Planet: PLAEOC
+Moon: PLAEOC
 Starmap index: 23
 Paris coordinates: -1108208, -712825, -246456
+Orbits: BLYSPHERE
+Moon id: 9
 
 Guide entries:
 MOON OF BLYSPHERE. MEDIUM, SOLID, ROCKY, CREASED, NO ATMOSPHERE.

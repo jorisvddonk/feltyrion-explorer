@@ -1,6 +1,8 @@
-Planet: FARMOON 7
+Moon: FARMOON 7
 Starmap index: 30
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 2
 
 Guide entries:
  ICY, NO ATMOSPHERE, LOW GRAVITY, VERY UNINTERESTING.

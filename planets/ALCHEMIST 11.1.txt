@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 11.1
+Moon: ALCHEMIST 11.1
 Starmap index: 37
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 11
+Moon id: 0
 
 Guide entries:
 SMALL, DUSTY, CRATERIZED, ATMOSPHERELESS. SOME CRATERS ARE

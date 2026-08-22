@@ -1,3 +1,5 @@
-Planet: CRATERLICIOUS
+Moon: CRATERLICIOUS
 Starmap index: 29
 Paris coordinates: 3655696, 5293605, 702057
+Orbits: ZOGON
+Moon id: 1

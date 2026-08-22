@@ -1,6 +1,8 @@
-Planet: OLD FIRE
+Moon: OLD FIRE
 Starmap index: 73
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: JEALOUS MINISTAR
+Moon id: 4
 
 Guide entries:
 NO, THIS IS NOT A STAR :). THIS IS AN INTERNALLY HOT MOON ORBITING

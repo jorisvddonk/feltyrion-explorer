@@ -1,3 +1,5 @@
-Planet: LIST
+Moon: LIST
 Starmap index: 16
 Paris coordinates: 2628560, -26514628, 119618
+Orbits: PRUXY
+Moon id: 8

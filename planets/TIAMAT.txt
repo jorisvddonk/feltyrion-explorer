@@ -1,6 +1,8 @@
-Planet: TIAMAT
+Moon: TIAMAT
 Starmap index: 16
 Paris coordinates: -37434256, 1637172, 30859794
+Orbits: ATROPOS
+Moon id: 8
 
 Guide entries:
 DESPITE FROZEN, IT HOSTS LIFE

@@ -1,6 +1,8 @@
-Planet: FARMOON 5
+Moon: FARMOON 5
 Starmap index: 35
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 7
 
 Guide entries:
  THIS WORLD IS YET ANOTHER ONE WHICH PROVES THAT WE NEED FLASHLIGHTS

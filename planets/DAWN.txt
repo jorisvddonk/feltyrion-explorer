@@ -1,6 +1,8 @@
-Planet: DAWN
+Moon: DAWN
 Starmap index: 32
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 9
 
 Guide entries:
 THIS BARREN PIECE OF ROCK FEELS SOMEHOW RIGHT. DISTANT SUN IS SMALL AND

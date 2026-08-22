@@ -1,3 +1,5 @@
-Planet: ASKEW 182A1
+Moon: ASKEW 182A1
 Starmap index: 04
 Paris coordinates: 3551760, 333345, 2308899
+Orbits: ASKEW 182A
+Moon id: 0

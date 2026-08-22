@@ -1,6 +1,8 @@
-Planet: BANQUO
+Moon: BANQUO
 Starmap index: 20
 Paris coordinates: -56784, -84307, -221013
+Orbits: INVERNESS
+Moon id: 2
 
 Guide entries:
 THIS AIRLESS MOON IS EITHER VERY SMALL OR HAS A VERY LOW DENSITY

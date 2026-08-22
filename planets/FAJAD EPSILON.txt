@@ -1,6 +1,8 @@
-Planet: FAJAD EPSILON
+Moon: FAJAD EPSILON
 Starmap index: 20
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

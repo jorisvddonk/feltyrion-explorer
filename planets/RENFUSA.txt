@@ -1,3 +1,5 @@
-Planet: RENFUSA
+Moon: RENFUSA
 Starmap index: 17
 Paris coordinates: 2206448, 4739621, -6617273
+Orbits: BENSALEM V
+Moon id: 9

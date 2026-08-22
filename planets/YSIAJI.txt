@@ -1,6 +1,8 @@
-Planet: YSIAJI
+Moon: YSIAJI
 Starmap index: 07
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 3
 
 Guide entries:
 M04/P03 MEDIUM SIZE INTERNALLY HOT, UNSTABLE, LIGHT BROWN WITH ALMOST       

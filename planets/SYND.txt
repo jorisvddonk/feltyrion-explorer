@@ -1,6 +1,8 @@
-Planet: SYND
+Moon: SYND
 Starmap index: 35
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SCARRED, ROUGH, CRATERED,

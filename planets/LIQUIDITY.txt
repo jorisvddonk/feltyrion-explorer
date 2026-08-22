@@ -1,6 +1,8 @@
-Planet: LIQUIDITY
+Moon: LIQUIDITY
 Starmap index: 22
 Paris coordinates: 5155696, 4727943, -820349
+Orbits: CREETH
+Moon id: 9
 
 Guide entries:
 DISCOVERED BY JILANTY EPOC6011.567.000

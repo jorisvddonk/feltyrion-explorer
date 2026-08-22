@@ -1,6 +1,8 @@
-Planet: IHIRF
+Moon: IHIRF
 Starmap index: 31
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURACE, NO ATMOSPHERE. QUITE REFLECTIVE WITH ALMOST

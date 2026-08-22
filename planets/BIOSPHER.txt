@@ -1,3 +1,5 @@
-Planet: BIOSPHER
+Moon: BIOSPHER
 Starmap index: 11
 Paris coordinates: -560720, 816391, 2077163
+Orbits: GANTA
+Moon id: 0

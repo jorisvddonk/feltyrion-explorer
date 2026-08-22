@@ -1,3 +1,5 @@
-Planet: TECTONEY MOON
+Moon: TECTONEY MOON
 Starmap index: 14
 Paris coordinates: -72872784, -1428037, 56200949
+Orbits: RINGY
+Moon id: 0

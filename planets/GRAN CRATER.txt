@@ -1,6 +1,8 @@
-Planet: GRAN CRATER
+Moon: GRAN CRATER
 Starmap index: 07
 Paris coordinates: 4459632, 4949965, -2023422
+Orbits: CANGURITO
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.741 -                               

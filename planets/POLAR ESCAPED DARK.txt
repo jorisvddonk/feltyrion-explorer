@@ -1,3 +1,5 @@
-Planet: POLAR ESCAPED DARK
+Moon: POLAR ESCAPED DARK
 Starmap index: 18
 Paris coordinates: 4711056, 5570276, -1132451
+Orbits: planet index 05
+Moon id: 0

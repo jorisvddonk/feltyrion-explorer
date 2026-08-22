@@ -1,3 +1,5 @@
-Planet: VERDINAHN
+Moon: VERDINAHN
 Starmap index: 33
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASKEW 18G
+Moon id: 4

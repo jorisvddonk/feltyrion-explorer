@@ -1,3 +1,5 @@
-Planet: LIMENA
+Moon: LIMENA
 Starmap index: 20
 Paris coordinates: -729648, -55940, 1873342
+Orbits: CRAZYCOL
+Moon id: 2

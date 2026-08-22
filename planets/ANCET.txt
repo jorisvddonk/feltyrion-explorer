@@ -1,6 +1,8 @@
-Planet: ANCET
+Moon: ANCET
 Starmap index: 28
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 2
 
 Guide entries:
 AN AVERAGE GREEN, DUSTY MOON. SOMETIMES INTERESTING FEATURES LIKE

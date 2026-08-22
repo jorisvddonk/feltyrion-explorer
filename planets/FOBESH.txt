@@ -1,6 +1,8 @@
-Planet: FOBESH
+Moon: FOBESH
 Starmap index: 22
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. A FAIRLY REFLECTIVE WORLD

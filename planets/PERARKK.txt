@@ -1,6 +1,8 @@
-Planet: PERARKK
+Moon: PERARKK
 Starmap index: 10
 Paris coordinates: 21446160, 6389208, 40270646
+Orbits: PEING
+Moon id: 2
 
 Guide entries:
 A SOMEWHAT DARK THICK ATMO MOON, THE THIRD OF THE FOURTH PLANET.

@@ -1,3 +1,5 @@
-Planet: SH 3/16
+Moon: SH 3/16
 Starmap index: 15
 Paris coordinates: 3366416, 4232527, -498413
+Orbits: SH 3
+Moon id: 5

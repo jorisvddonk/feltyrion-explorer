@@ -1,6 +1,8 @@
-Planet: JIABAL
+Moon: JIABAL
 Starmap index: 08
 Paris coordinates: 2040369680, -1613682, -623842
+Orbits: FRAINUT
+Moon id: 2
 
 Guide entries:
 M03/P04 SMALL SOLID, THIN ATMO, FAIRLY BRIGHT, MODERATE POLAR CAPS,         

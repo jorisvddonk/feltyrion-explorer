@@ -1,6 +1,8 @@
-Planet: MENETARA
+Moon: MENETARA
 Starmap index: 42
 Paris coordinates: 81072, -77486, -118953
+Orbits: TRAXEGON
+Moon id: 1
 
 Guide entries:
 SMALL VALLEY AT 162.30.

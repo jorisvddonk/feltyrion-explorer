@@ -1,3 +1,5 @@
-Planet: TAIDDAN
+Moon: TAIDDAN
 Starmap index: 27
 Paris coordinates: 2974288, 3903174, -3326370
+Orbits: KHARAX
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: ASKEW 41C2
+Moon: ASKEW 41C2
 Starmap index: 08
 Paris coordinates: 12058800, -19145394, 17625580
+Orbits: ASKEW 41C
+Moon id: 1

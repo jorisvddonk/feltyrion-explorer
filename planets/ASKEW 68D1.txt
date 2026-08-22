@@ -1,3 +1,5 @@
-Planet: ASKEW 68D1
+Moon: ASKEW 68D1
 Starmap index: 08
 Paris coordinates: 11314160, -19380914, 17626244
+Orbits: SEA SMITHY
+Moon id: 0

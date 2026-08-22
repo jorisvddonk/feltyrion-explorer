@@ -1,6 +1,8 @@
-Planet: TOODA
+Moon: TOODA
 Starmap index: 68
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 5
 
 Guide entries:
 DON'T BOTHER, IT'S DARK, AND IT'S PROBABLY FEATURELESS ANYWAY.

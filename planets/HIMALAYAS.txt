@@ -1,6 +1,8 @@
-Planet: HIMALAYAS
+Moon: HIMALAYAS
 Starmap index: 11
 Paris coordinates: 3266416, 4034407, -194481
+Orbits: QUINTUS
+Moon id: 0
 
 Guide entries:
 A PARTICULARLY DARK WORLD. (I WISH WE HAD LIGHTS ON OUR LANDING

@@ -1,3 +1,5 @@
-Planet: MIRACAP ALPHA PRIME
+Moon: MIRACAP ALPHA PRIME
 Starmap index: 02
 Paris coordinates: 301082736, 1470721, 54418176
+Orbits: MIRACAP ALPHA
+Moon id: 0

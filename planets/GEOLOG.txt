@@ -1,6 +1,8 @@
-Planet: GEOLOG
+Moon: GEOLOG
 Starmap index: 23
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: EXPO
+Moon id: 1
 
 Guide entries:
 THIS POOR PLANET SEEMS TO HAVE HAD A VERY ROUGH HISTORY, LARGE AMOUNTS

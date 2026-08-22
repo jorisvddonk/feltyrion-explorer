@@ -1,3 +1,5 @@
-Planet: ICY UTOPIA
+Moon: ICY UTOPIA
 Starmap index: 63
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: YELLOW RINGS
+Moon id: 3

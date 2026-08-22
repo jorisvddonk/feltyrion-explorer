@@ -1,3 +1,5 @@
-Planet: ASKEW 38H1
+Moon: ASKEW 38H1
 Starmap index: 16
 Paris coordinates: 11996656, -18940405, 17834589
+Orbits: KARANGANGA
+Moon id: 0

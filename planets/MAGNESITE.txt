@@ -1,6 +1,8 @@
-Planet: MAGNESITE
+Moon: MAGNESITE
 Starmap index: 53
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PALLESCENT
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DULL, WITH MANY

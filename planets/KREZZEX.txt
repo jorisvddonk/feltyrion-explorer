@@ -1,6 +1,8 @@
-Planet: KREZZEX
+Moon: KREZZEX
 Starmap index: 08
 Paris coordinates: 112144, 40438, -249045
+Orbits: IXRON
+Moon id: 1
 
 Guide entries:
 A SMALL QUARTZWORLD, HAS AN OXYGEN ATMOSPHERE AT A GOOD PRESSURE.

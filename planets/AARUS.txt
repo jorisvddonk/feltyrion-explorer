@@ -1,3 +1,5 @@
-Planet: AARUS
+Moon: AARUS
 Starmap index: 15
 Paris coordinates: 9252848, 5586893, -7007054
+Orbits: JYLLAND
+Moon id: 0

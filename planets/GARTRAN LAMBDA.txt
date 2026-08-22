@@ -1,6 +1,8 @@
-Planet: GARTRAN LAMBDA
+Moon: GARTRAN LAMBDA
 Starmap index: 15
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 10
 
 Guide entries:
 ELEVENTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

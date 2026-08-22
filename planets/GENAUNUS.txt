@@ -1,3 +1,5 @@
-Planet: GENAUNUS
+Moon: GENAUNUS
 Starmap index: 08
 Paris coordinates: 4297488, 4541055, -1442103
+Orbits: CANTABER
+Moon id: 1

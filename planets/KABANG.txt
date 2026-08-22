@@ -1,3 +1,5 @@
-Planet: KABANG
+Moon: KABANG
 Starmap index: 23
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: PHONE
+Moon id: 8

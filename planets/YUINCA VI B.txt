@@ -1,6 +1,8 @@
-Planet: YUINCA VI B
+Moon: YUINCA VI B
 Starmap index: 16
 Paris coordinates: -12144, -27311, 376371
+Orbits: ASTEN
+Moon id: 0
 
 Guide entries:
  A HOT, UNSTABLE MOON. AMWHERE 6011.586.384

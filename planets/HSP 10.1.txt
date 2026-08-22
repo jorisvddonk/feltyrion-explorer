@@ -1,6 +1,8 @@
-Planet: HSP 10.1
+Moon: HSP 10.1
 Starmap index: 17
 Paris coordinates: -2233584, 33860885, 5055785
+Orbits: HSP 10
+Moon id: 0
 
 Guide entries:
  A TEMPORALLY COMPANION TO HSP 10, THIS SMALL ASTEROID FROM

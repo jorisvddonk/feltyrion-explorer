@@ -1,3 +1,5 @@
-Planet: VLANDUS SEXTANE PRIL
+Moon: VLANDUS SEXTANE PRIL
 Starmap index: 38
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS SEXTANE
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: EXXEQUIS-4
+Moon: EXXEQUIS-4
 Starmap index: 62
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NIDALIS
+Moon id: 2

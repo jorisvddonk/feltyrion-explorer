@@ -1,6 +1,8 @@
-Planet: ROUMADA
+Moon: ROUMADA
 Starmap index: 66
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: CYMRU 54
+Moon id: 6
 
 Guide entries:
 THIS MOON HAS SOME OF THE MOST COLOURFUL PLANT LIFE I'VE EVER SEEN.

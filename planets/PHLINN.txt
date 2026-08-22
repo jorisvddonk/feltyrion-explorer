@@ -1,6 +1,8 @@
-Planet: PHLINN
+Moon: PHLINN
 Starmap index: 40
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: YORBAN
+Moon id: 7
 
 Guide entries:
 AN ORANGEISH DENSEWORLD WITH MANY BRIGHT SPOTS IN THE ATMOSPHERE,

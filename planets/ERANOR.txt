@@ -1,6 +1,8 @@
-Planet: ERANOR
+Moon: ERANOR
 Starmap index: 14
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE GREEN AND

@@ -1,6 +1,8 @@
-Planet: LUSTROUS GREEN
+Moon: LUSTROUS GREEN
 Starmap index: 19
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MINOR
+Moon id: 8
 
 Guide entries:
 IT WILL TAKE A LONG TIME REACHING THE GROUND IF YOU LAND HERE, DUE TO

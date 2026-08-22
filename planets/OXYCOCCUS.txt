@@ -1,3 +1,5 @@
-Planet: OXYCOCCUS
+Moon: OXYCOCCUS
 Starmap index: 44
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: JB 81
+Moon id: 17

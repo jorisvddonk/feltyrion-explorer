@@ -1,6 +1,8 @@
-Planet: OSKOVON
+Moon: OSKOVON
 Starmap index: 13
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 9
 
 Guide entries:
 M10/P03 LARGE NOT CONSISTENT GREY WITH DARK BANDS AND BRIGHT STORMS         

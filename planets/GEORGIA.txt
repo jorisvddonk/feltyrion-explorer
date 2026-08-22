@@ -1,3 +1,5 @@
-Planet: GEORGIA
+Moon: GEORGIA
 Starmap index: 29
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: JALABAR
+Moon id: 1

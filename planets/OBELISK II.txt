@@ -1,6 +1,8 @@
-Planet: OBELISK II
+Moon: OBELISK II
 Starmap index: 20
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 4
 
 Guide entries:
 ANOTHER 'OBELISK' OF ROCK SIGHTED AROUND 353.60:44.80

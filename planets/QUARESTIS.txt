@@ -1,3 +1,5 @@
-Planet: QUARESTIS
+Moon: QUARESTIS
 Starmap index: 19
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: JB 101
+Moon id: 6

@@ -1,3 +1,5 @@
-Planet: ASKEW 43H7
+Moon: ASKEW 43H7
 Starmap index: 21
 Paris coordinates: 11752016, -19443448, 17324166
+Orbits: ASKEW 43H
+Moon id: 6

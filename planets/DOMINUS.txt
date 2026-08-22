@@ -1,3 +1,5 @@
-Planet: DOMINUS
+Moon: DOMINUS
 Starmap index: 04
 Paris coordinates: 5062480, 5212834, -475854
+Orbits: OPTIMUS MINOR
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: LAKHMIR
+Moon: LAKHMIR
 Starmap index: 40
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: HUAERIAN
+Moon id: 4

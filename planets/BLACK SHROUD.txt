@@ -1,6 +1,8 @@
-Planet: BLACK SHROUD
+Moon: BLACK SHROUD
 Starmap index: 24
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: YELLOW GIANT 1
+Moon id: 6
 
 Guide entries:
 A MOON ENTIRELY SHROUDED IN DARKNESS. DAY IS DARK AND NIGHT IS

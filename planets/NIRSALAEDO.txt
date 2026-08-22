@@ -1,3 +1,5 @@
-Planet: NIRSALAEDO
+Moon: NIRSALAEDO
 Starmap index: 14
 Paris coordinates: 226800, 1068249, -3393825
+Orbits: GOWLAEDO
+Moon id: 7

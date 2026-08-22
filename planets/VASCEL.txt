@@ -1,6 +1,8 @@
-Planet: VASCEL
+Moon: VASCEL
 Starmap index: 22
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 13
 
 Guide entries:
 A BROWN AIRLESS PLANET, HAVING A GREEN SURFACE WHEN SEEN FROM THERE,

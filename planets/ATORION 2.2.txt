@@ -1,6 +1,8 @@
-Planet: ATORION 2.2
+Moon: ATORION 2.2
 Starmap index: 07
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 2
+Moon id: 1
 
 Guide entries:
  THIS PLANET EXPLAINS THE VERY FAST ORBIT OF THE FIRST PLANET OF

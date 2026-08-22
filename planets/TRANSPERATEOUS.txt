@@ -1,3 +1,5 @@
-Planet: TRANSPERATEOUS
+Moon: TRANSPERATEOUS
 Starmap index: 08
 Paris coordinates: 3781072, 5219529, -3829061
+Orbits: ALGERONIA 4
+Moon id: 0

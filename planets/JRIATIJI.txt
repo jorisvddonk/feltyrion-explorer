@@ -1,6 +1,8 @@
-Planet: JRIATIJI
+Moon: JRIATIJI
 Starmap index: 17
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: SORDESCO
+Moon id: 1
 
 Guide entries:
 M02P05, DUSTY, CRATERIZED, PRO 0.234.000; PRV 0. 004.082.549 ///

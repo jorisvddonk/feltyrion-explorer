@@ -1,6 +1,8 @@
-Planet: LUMSKILL
+Moon: LUMSKILL
 Starmap index: 20
 Paris coordinates: 394640, 52221424, 264344
+Orbits: CAVEAT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GOOD GREEN

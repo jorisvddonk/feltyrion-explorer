@@ -1,6 +1,8 @@
-Planet: SKYGEM B2
+Moon: SKYGEM B2
 Starmap index: 11
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 1
 
 Guide entries:
  A RATHER PLAIN GAS GIANT. AMWHERE 6011.584.920

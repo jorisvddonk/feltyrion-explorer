@@ -1,6 +1,8 @@
-Planet: ALMOST
+Moon: ALMOST
 Starmap index: 24
 Paris coordinates: 4066416, 4419160, -988413
+Orbits: JLJ-GGP-4
+Moon id: 2
 
 Guide entries:
 ACCEPTIBLE ATMOSPHERE, BUT TOO COLD TO HARBOR LIFE. SMOOTH TERRAIN.

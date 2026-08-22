@@ -1,6 +1,8 @@
-Planet: COHUNE
+Moon: COHUNE
 Starmap index: 11
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE STORMS

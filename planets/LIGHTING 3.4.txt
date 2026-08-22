@@ -1,6 +1,8 @@
-Planet: LIGHTING 3.4
+Moon: LIGHTING 3.4
 Starmap index: 09
 Paris coordinates: 36432, 33110, -633205
+Orbits: LIGHTING 3
+Moon id: 3
 
 Guide entries:
 SOMEWHAT BRIGHTER THAN 3.3, BUT NOTHING SPECIAL REALLY.

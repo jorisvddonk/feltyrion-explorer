@@ -1,6 +1,8 @@
-Planet: NUCLEAR EXPLOSION
+Moon: NUCLEAR EXPLOSION
 Starmap index: 10
 Paris coordinates: -71486352, -762585, 54070193
+Orbits: ILL WIND
+Moon id: 0
 
 Guide entries:
 THIS MOON IN EKA30 IS SO NAMED BECAUSE OF IT'S IMMENSE

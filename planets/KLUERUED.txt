@@ -1,3 +1,5 @@
-Planet: KLUERUED
+Moon: KLUERUED
 Starmap index: 25
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: GELP
+Moon id: 0

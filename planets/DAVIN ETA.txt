@@ -1,6 +1,8 @@
-Planet: DAVIN ETA
+Moon: DAVIN ETA
 Starmap index: 39
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

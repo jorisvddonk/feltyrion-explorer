@@ -1,6 +1,8 @@
-Planet: ROCKEY
+Moon: ROCKEY
 Starmap index: 20
 Paris coordinates: 143216, 72699, -337506
+Orbits: planet index 03
+Moon id: 13
 
 Guide entries:
  DISCOVERED BY SHADOW151 EPOC 6011.599.162 MOUNTIANIOUS THUS THE NAME

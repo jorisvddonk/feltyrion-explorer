@@ -1,6 +1,8 @@
-Planet: EX-PARROT
+Moon: EX-PARROT
 Starmap index: 15
 Paris coordinates: 3548912, 5115546, 351991
+Orbits: BRIGHTON
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, CLUSTER OF LIGHT

@@ -1,3 +1,5 @@
-Planet: MY PAIN
+Moon: MY PAIN
 Starmap index: 09
 Paris coordinates: -60819024, 30074513, 831429
+Orbits: DIE
+Moon id: 1

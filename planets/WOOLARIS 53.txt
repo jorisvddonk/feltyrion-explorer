@@ -1,3 +1,5 @@
-Planet: WOOLARIS 5/3
+Moon: WOOLARIS 5/3
 Starmap index: 15
 Paris coordinates: -294640, 49934247, -312121
+Orbits: WOOLARIS 3
+Moon id: 4

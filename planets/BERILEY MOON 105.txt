@@ -1,3 +1,5 @@
-Planet: BERILEY MOON 10/5
+Moon: BERILEY MOON 10/5
 Starmap index: 23
 Paris coordinates: -72872784, -1428037, 56200949
+Orbits: RINGY
+Moon id: 9

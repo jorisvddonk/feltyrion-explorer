@@ -1,6 +1,8 @@
-Planet: WANNABE
+Moon: WANNABE
 Starmap index: 04
 Paris coordinates: -71930992, -664206, 53968492
+Orbits: PINK HAZE
+Moon id: 0
 
 Guide entries:
 INTERNALLY HOT MOON ORBITING PINK HAZE AT EKA25. SO NAMED BECAUSE IT

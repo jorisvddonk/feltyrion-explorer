@@ -1,6 +1,8 @@
-Planet: OCTIL
+Moon: OCTIL
 Starmap index: 36
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, NO ATMOSPHERE. DUSTY, BUT

@@ -1,3 +1,5 @@
-Planet: BOBSLED
+Moon: BOBSLED
 Starmap index: 05
 Paris coordinates: -9564912, 328278, -10520768
+Orbits: PARMEZAN
+Moon id: 1

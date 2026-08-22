@@ -1,6 +1,8 @@
-Planet: VOWBIN XIII B
+Moon: VOWBIN XIII B
 Starmap index: 45
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN XIII
+Moon id: 1
 
 Guide entries:
 TEAL-COLORED DEADWORLD WITH REFLECTIVE CRATERS.

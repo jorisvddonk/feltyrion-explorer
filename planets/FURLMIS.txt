@@ -1,3 +1,5 @@
-Planet: FURLMIS
+Moon: FURLMIS
 Starmap index: 11
 Paris coordinates: -87856, 69100, -95029
+Orbits: YSKARA
+Moon id: 0

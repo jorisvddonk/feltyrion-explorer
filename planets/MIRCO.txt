@@ -1,3 +1,5 @@
-Planet: MIRCO
+Moon: MIRCO
 Starmap index: 28
 Paris coordinates: 3766416, 4629610, -721972
+Orbits: SMOKEY
+Moon id: 0

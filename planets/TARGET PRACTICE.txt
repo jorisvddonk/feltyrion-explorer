@@ -1,6 +1,8 @@
-Planet: TARGET PRACTICE
+Moon: TARGET PRACTICE
 Starmap index: 08
 Paris coordinates: 1283920, 4190011, 765689
+Orbits: SUBSOIL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. THIS LOOKS

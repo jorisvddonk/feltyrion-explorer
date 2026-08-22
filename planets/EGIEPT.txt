@@ -1,6 +1,8 @@
-Planet: EGIEPT
+Moon: EGIEPT
 Starmap index: 53
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: OKAUPH
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. MODERATE GREY

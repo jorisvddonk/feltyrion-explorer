@@ -1,6 +1,8 @@
-Planet: KHADHA
+Moon: KHADHA
 Starmap index: 19
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: TITIAND
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:574.

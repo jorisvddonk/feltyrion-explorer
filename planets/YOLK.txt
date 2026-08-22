@@ -1,6 +1,8 @@
-Planet: YOLK
+Moon: YOLK
 Starmap index: 66
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MOSTLY ROUGH LOOKING WITH

@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 13
+Moon: CONGLOMOON 13
 Starmap index: 16
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 10
 
 Guide entries:
 NOW THIS IS INTERESTING FOR A MOON! CONGLOMOON 13 IS INTERNALLY

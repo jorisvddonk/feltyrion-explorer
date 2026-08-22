@@ -1,6 +1,8 @@
-Planet: TRIDGE
+Moon: TRIDGE
 Starmap index: 41
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH AND SCARRED.

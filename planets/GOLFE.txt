@@ -1,6 +1,8 @@
-Planet: GOLFE
+Moon: GOLFE
 Starmap index: 14
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 7
 
 Guide entries:
  MUCH A LIKE HUGE GOLF COURSE, ALL GREEN LAND                               

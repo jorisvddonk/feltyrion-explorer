@@ -1,6 +1,8 @@
-Planet: PARSIS 7.6
+Moon: PARSIS 7.6
 Starmap index: 23
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 7
+Moon id: 5
 
 Guide entries:
  THE SIXTH MOON ORBITING PARSIS 7, APPEARS TO BE A WORLD MUCH LIKE

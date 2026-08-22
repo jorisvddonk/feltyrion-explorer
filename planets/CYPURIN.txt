@@ -1,6 +1,8 @@
-Planet: CYPURIN
+Moon: CYPURIN
 Starmap index: 06
 Paris coordinates: 2037570768, -132625, -1685345
+Orbits: DERUJIK
+Moon id: 0
 
 Guide entries:
 M01/P03MEDIUM SIZE QUARTZSURFACE, HAS A VRIGHT GREEN COLOR WITH WHITE       

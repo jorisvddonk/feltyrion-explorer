@@ -1,6 +1,8 @@
-Planet: SUPERTAX
+Moon: SUPERTAX
 Starmap index: 34
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERNATURAL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A COUPLE OF LARGE

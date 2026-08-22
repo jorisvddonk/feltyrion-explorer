@@ -1,6 +1,8 @@
-Planet: GEKO
+Moon: GEKO
 Starmap index: 51
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 7
 
 Guide entries:
 AN AVERAGE, GREEN, ICY MOON.

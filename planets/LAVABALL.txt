@@ -1,3 +1,5 @@
-Planet: LAVABALL
+Moon: LAVABALL
 Starmap index: 10
 Paris coordinates: 1032496, 1105728, -4557
+Orbits: planet index 04
+Moon id: 1

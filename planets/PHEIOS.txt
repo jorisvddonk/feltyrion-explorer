@@ -1,6 +1,8 @@
-Planet: PHEIOS
+Moon: PHEIOS
 Starmap index: 36
 Paris coordinates: 4955696, 4635983, -633493
+Orbits: VWSTPHA 4
+Moon id: 12
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.000.73)

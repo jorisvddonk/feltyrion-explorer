@@ -1,6 +1,8 @@
-Planet: FLISING
+Moon: FLISING
 Starmap index: 64
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD GREY REFLECTIVITY WITH

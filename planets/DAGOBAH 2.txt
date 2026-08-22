@@ -1,6 +1,8 @@
-Planet: DAGOBAH 2
+Moon: DAGOBAH 2
 Starmap index: 20
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 13
 
 Guide entries:
 FOUNDED EPOC 6011, 681.315.463 BY REZA. 14TH MOON OF OCEAN. TWIN            

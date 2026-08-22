@@ -1,6 +1,8 @@
-Planet: FRUE
+Moon: FRUE
 Starmap index: 12
 Paris coordinates: -625712, 1137800, 123585
+Orbits: INSIPID
+Moon id: 7
 
 Guide entries:
 SMALL, FLAT, ICY. THE LINES VISIBLE FROM SPACE ARE NOT VISIBLE FROM THE

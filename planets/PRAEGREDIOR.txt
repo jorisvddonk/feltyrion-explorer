@@ -1,6 +1,8 @@
-Planet: PRAEGREDIOR
+Moon: PRAEGREDIOR
 Starmap index: 18
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: VAMEVARI
+Moon id: 7
 
 Guide entries:
 M08/P05 FELISIAN. PRO 0.145.440; PRV 0.003.798.209. AT 049.009

@@ -1,6 +1,8 @@
-Planet: ATALPHA
+Moon: ATALPHA
 Starmap index: 13
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 8
 
 Guide entries:
 A BLUISH PLANET SEEN FROM SPACE.

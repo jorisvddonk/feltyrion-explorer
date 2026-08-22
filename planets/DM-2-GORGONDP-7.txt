@@ -1,6 +1,8 @@
-Planet: DM-2-GORGONDP-7
+Moon: DM-2-GORGONDP-7
 Starmap index: 21
 Paris coordinates: 4148912, 4488377, -127177
+Orbits: DP-GORGO-7
+Moon id: 1
 
 Guide entries:
 DEAD MOON, NO ATMOSPHERE

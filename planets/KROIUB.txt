@@ -1,3 +1,5 @@
-Planet: KROIUB
+Moon: KROIUB
 Starmap index: 17
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUERUE
+Moon id: 8

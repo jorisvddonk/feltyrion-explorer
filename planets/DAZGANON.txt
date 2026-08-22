@@ -1,3 +1,5 @@
-Planet: DAZGANON
+Moon: DAZGANON
 Starmap index: 19
 Paris coordinates: 3921776, 4663420, -1624678
+Orbits: NYXATOR
+Moon id: 13

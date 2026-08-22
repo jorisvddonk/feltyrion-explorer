@@ -1,3 +1,5 @@
-Planet: TRUE BLUE
+Moon: TRUE BLUE
 Starmap index: 25
 Paris coordinates: -918928, 594171, 833580
+Orbits: planet index 05
+Moon id: 8

@@ -1,6 +1,8 @@
-Planet: LINISFHU
+Moon: LINISFHU
 Starmap index: 11
 Paris coordinates: 2100590128, -1965623, -11495
+Orbits: OIDONAP
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL SOLID DUSTY GREYISH WITH LARGE CRATERS. PRO 0.277.920         

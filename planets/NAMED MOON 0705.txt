@@ -1,3 +1,5 @@
-Planet: NAMED MOON 07/05
+Moon: NAMED MOON 07/05
 Starmap index: 26
 Paris coordinates: 670352, 437173, 502845
+Orbits: CLAVAIRIUM
+Moon id: 6

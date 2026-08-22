@@ -1,3 +1,5 @@
-Planet: BROWN SKIES
+Moon: BROWN SKIES
 Starmap index: 14
 Paris coordinates: 4877136, 4743462, -3053809
+Orbits: MONOO
+Moon id: 1

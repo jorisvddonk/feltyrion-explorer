@@ -1,3 +1,5 @@
-Planet: ROMA 10.1: EUROPA 2
+Moon: ROMA 10.1: EUROPA 2
 Starmap index: 24
 Paris coordinates: 3828560, 4747754, -1135269
+Orbits: ROMA-10.0
+Moon id: 0

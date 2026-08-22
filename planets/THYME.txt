@@ -1,6 +1,8 @@
-Planet: THYME
+Moon: THYME
 Starmap index: 21
 Paris coordinates: -4241040, 222411, -3036412
+Orbits: MINT
+Moon id: 4
 
 Guide entries:
 FELISIAN MOON IN HERB GARDEN SYSTEM.

@@ -1,3 +1,5 @@
-Planet: ASSARA
+Moon: ASSARA
 Starmap index: 15
 Paris coordinates: 11827728, -18981101, 17961597
+Orbits: ASKEW 36C
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: LOTOB
+Moon: LOTOB
 Starmap index: 19
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 12

@@ -1,6 +1,8 @@
-Planet: ARALON I
+Moon: ARALON I
 Starmap index: 32
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 8
 
 Guide entries:
 AIRLESS, GREEN, VERY BUMPY, SMALL CRATERS. (SCHMERM 6011 584.201)

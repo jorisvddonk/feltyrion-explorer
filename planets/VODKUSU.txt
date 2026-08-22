@@ -1,6 +1,8 @@
-Planet: VODKUSU
+Moon: VODKUSU
 Starmap index: 21
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 0
 
 Guide entries:
 M01/P08 MEDIUM SIZE SOLID THICK ATMO, DULLGREEN CLOUD COVER WITH            

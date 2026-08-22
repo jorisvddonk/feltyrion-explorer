@@ -1,3 +1,5 @@
-Planet: PULSAR-4-C-S3
+Moon: PULSAR-4-C-S3
 Starmap index: 06
 Paris coordinates: 1805360, 4148877, -2387295
+Orbits: PULSAR-4-C
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: SERUHF
+Moon: SERUHF
 Starmap index: 38
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: SCHDICK
+Moon id: 1

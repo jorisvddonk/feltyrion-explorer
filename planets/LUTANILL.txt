@@ -1,6 +1,8 @@
-Planet: LUTANILL
+Moon: LUTANILL
 Starmap index: 10
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: FORDINARM
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SLIGHT RED

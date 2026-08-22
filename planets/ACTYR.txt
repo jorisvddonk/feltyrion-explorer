@@ -1,6 +1,8 @@
-Planet: ACTYR
+Moon: ACTYR
 Starmap index: 64
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

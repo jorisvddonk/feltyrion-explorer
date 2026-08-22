@@ -1,3 +1,5 @@
-Planet: FLATIM
+Moon: FLATIM
 Starmap index: 14
 Paris coordinates: 2521776, 4915370, -175857
+Orbits: OXYRA
+Moon id: 1

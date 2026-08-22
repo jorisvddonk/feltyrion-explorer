@@ -1,6 +1,8 @@
-Planet: DAYTOG
+Moon: DAYTOG
 Starmap index: 30
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 12
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. MILDLY DARK PURPLISH

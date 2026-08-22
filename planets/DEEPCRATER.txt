@@ -1,6 +1,8 @@
-Planet: DEEPCRATER
+Moon: DEEPCRATER
 Starmap index: 08
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: VALMEZ
+Moon id: 1
 
 Guide entries:
 AN AIRLESS MOON WITH WHAT APPEARS TO BE A VERY LARGE, VERY DEEP

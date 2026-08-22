@@ -1,6 +1,8 @@
-Planet: ATORION 4.11
+Moon: ATORION 4.11
 Starmap index: 18
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 4
+Moon id: 10
 
 Guide entries:
  ROCKY, CREASED, NO ATMOSPHERE, SOMEWHAT UNSTABLE ORBIT.

@@ -1,3 +1,5 @@
-Planet: JAINEN
+Moon: JAINEN
 Starmap index: 08
 Paris coordinates: 4831408, 4803641, -36528
+Orbits: DISES
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: KAJAATA
+Moon: KAJAATA
 Starmap index: 32
 Paris coordinates: -20733424, 839030, -12876728
+Orbits: MAKRIYU IX
+Moon id: 6
 
 Guide entries:
 MAKRIYU 07/09; QUARTZ

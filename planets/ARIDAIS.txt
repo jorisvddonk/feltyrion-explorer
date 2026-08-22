@@ -1,6 +1,8 @@
-Planet: ARIDAIS
+Moon: ARIDAIS
 Starmap index: 25
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 15
 
 Guide entries:
  (SKYGEM B16) A ARID FELYISAN PLANET. A FEW LANDINGS SHOWS NOTHING

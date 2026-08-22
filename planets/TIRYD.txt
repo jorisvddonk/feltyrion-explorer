@@ -1,6 +1,8 @@
-Planet: TIRYD
+Moon: TIRYD
 Starmap index: 16
 Paris coordinates: -251088, 1512852, 4247815
+Orbits: planet index 04
+Moon id: 7
 
 Guide entries:
 UNUSUAL VEGETATION ON THIS FELISIAN MOON

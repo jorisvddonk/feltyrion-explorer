@@ -1,6 +1,8 @@
-Planet: PAKEA
+Moon: PAKEA
 Starmap index: 09
 Paris coordinates: 1053936, 4524978, -2738928
+Orbits: TEMOUS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD YELLOWISH BROWN

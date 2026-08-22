@@ -1,6 +1,8 @@
-Planet: ULYSSES
+Moon: ULYSSES
 Starmap index: 25
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: VELOURIA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY AND CRATERIZED MOON, NO ATMOSPHERE.

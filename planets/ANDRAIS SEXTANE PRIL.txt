@@ -1,3 +1,5 @@
-Planet: ANDRAIS SEXTANE PRIL
+Moon: ANDRAIS SEXTANE PRIL
 Starmap index: 48
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS SEXTANE
+Moon id: 0

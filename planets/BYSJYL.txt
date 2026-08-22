@@ -1,3 +1,5 @@
-Planet: BYSJYL
+Moon: BYSJYL
 Starmap index: 09
 Paris coordinates: 2056784, 6465841, -1650892
+Orbits: SENDECA-IRPO
+Moon id: 0

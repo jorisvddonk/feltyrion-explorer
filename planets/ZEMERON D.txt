@@ -1,6 +1,8 @@
-Planet: ZEMERON D
+Moon: ZEMERON D
 Starmap index: 34
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 3
 
 Guide entries:
 A SMALL DENSEWORLD MOON WITH PURPLE CLOUDS. (SCHMERM 6011 582.657)

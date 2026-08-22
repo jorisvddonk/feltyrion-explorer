@@ -1,6 +1,8 @@
-Planet: QUICK
+Moon: QUICK
 Starmap index: 24
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY REFLECTIVE WITH MUCH

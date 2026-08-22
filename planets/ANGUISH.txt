@@ -1,6 +1,8 @@
-Planet: ANGUISH
+Moon: ANGUISH
 Starmap index: 79
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: JEALOUS MINISTAR
+Moon id: 10
 
 Guide entries:
 COME TO THINK OF IT, THIS MOON LOOKS SOMEWHAT LIKE A MALTED MILK BALL.

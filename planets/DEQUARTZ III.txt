@@ -1,3 +1,5 @@
-Planet: DEQUARTZ III
+Moon: DEQUARTZ III
 Starmap index: 29
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: FERRAT
+Moon id: 16

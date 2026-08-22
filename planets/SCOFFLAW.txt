@@ -1,6 +1,8 @@
-Planet: SCOFFLAW
+Moon: SCOFFLAW
 Starmap index: 32
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 17
 
 Guide entries:
 WHY DOES THIS HAPPEN TO ME AT THESE POINTS IN SYSTEMS? FELISIAN!

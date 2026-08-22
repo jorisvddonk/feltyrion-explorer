@@ -1,3 +1,5 @@
-Planet: KULFONIA
+Moon: KULFONIA
 Starmap index: 30
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: JB 103
+Moon id: 0

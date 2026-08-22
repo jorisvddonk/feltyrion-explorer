@@ -1,3 +1,5 @@
-Planet: BLUE SANDS
+Moon: BLUE SANDS
 Starmap index: 11
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: GUAERIAN
+Moon id: 2

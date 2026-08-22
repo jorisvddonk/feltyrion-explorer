@@ -1,3 +1,5 @@
-Planet: VIDU'AAN
+Moon: VIDU'AAN
 Starmap index: 23
 Paris coordinates: -1521346320, -1701020, -1370627468
+Orbits: NOCHUT V
+Moon id: 6

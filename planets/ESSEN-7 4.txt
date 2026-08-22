@@ -1,3 +1,5 @@
-Planet: ESSEN-7 4
+Moon: ESSEN-7 4
 Starmap index: 33
 Paris coordinates: -12144, 72689, 302469
+Orbits: ESSEN-7
+Moon id: 3

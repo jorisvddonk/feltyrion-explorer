@@ -1,6 +1,8 @@
-Planet: VIPER 5.6
+Moon: VIPER 5.6
 Starmap index: 25
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 5
+Moon id: 5
 
 Guide entries:
 MEDIUM-SIZED, SOLID, CREASED, ATMOSPHERELESS. THOSE 'SEAS' SEEM TO

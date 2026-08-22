@@ -1,6 +1,8 @@
-Planet: THEY NEVER QUIT
+Moon: THEY NEVER QUIT
 Starmap index: 39
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-F
+Moon id: 2
 
 Guide entries:
  ANOTHER FELISIAN WORLD- WHO WOULD'VE THOUGHT?- AT 8.60 IT'S

@@ -1,3 +1,5 @@
-Planet: RUUTU
+Moon: RUUTU
 Starmap index: 11
 Paris coordinates: 5576048, 4858380, 29991
+Orbits: VIISAS
+Moon id: 0

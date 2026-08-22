@@ -1,6 +1,8 @@
-Planet: FENILAYAN
+Moon: FENILAYAN
 Starmap index: 21
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: OPAL
+Moon id: 1
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOTS

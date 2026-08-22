@@ -1,3 +1,5 @@
-Planet: HICHIKER
+Moon: HICHIKER
 Starmap index: 31
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: BOHUM
+Moon id: 0

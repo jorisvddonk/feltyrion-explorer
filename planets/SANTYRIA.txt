@@ -1,6 +1,8 @@
-Planet: SANTYRIA
+Moon: SANTYRIA
 Starmap index: 10
 Paris coordinates: 4990704, 5477580, -2586619
+Orbits: GRADYRIA 4
+Moon id: 2
 
 Guide entries:
  SECOUN FELYSIAN PLANET DISCOVERED IN THIS MULTIPLE STARSYSTEM.

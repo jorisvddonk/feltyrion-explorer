@@ -1,6 +1,8 @@
-Planet: KALLACH XII A
+Moon: KALLACH XII A
 Starmap index: 19
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: KALLACH XII
+Moon id: 0
 
 Guide entries:
 DULL ORANGE DEADWORLD. (SCHMERM 6011 601.999)

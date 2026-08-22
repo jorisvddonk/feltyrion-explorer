@@ -1,6 +1,8 @@
-Planet: CORAL II-6A
+Moon: CORAL II-6A
 Starmap index: 49
 Paris coordinates: -539280, 237210, -624416
+Orbits: planet index 06
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE

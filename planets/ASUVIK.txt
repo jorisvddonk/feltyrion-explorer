@@ -1,6 +1,8 @@
-Planet: ASUVIK
+Moon: ASUVIK
 Starmap index: 10
 Paris coordinates: 2060873872, -1780546, 127470
+Orbits: PANIFICIUM
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL SOLID DUSTY VERY LARGE RAYED CRATERS ON A REFLECTIVE          

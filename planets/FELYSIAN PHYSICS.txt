@@ -1,3 +1,5 @@
-Planet: FELYSIAN PHYSICS
+Moon: FELYSIAN PHYSICS
 Starmap index: 08
 Paris coordinates: 2452848, 4651009, -440090
+Orbits: HEARTS AND MINDS
+Moon id: 0

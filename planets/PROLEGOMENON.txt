@@ -1,6 +1,8 @@
-Planet: PROLEGOMENON
+Moon: PROLEGOMENON
 Starmap index: 13
 Paris coordinates: 3479984, 6392650, 474414
+Orbits: CLATANAM
+Moon id: 4
 
 Guide entries:
 A FELISIAN WORLD- COLOR APPEARS TO BE PURPLE WITH MANY LARGE

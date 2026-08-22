@@ -1,6 +1,8 @@
-Planet: SINIMAA
+Moon: SINIMAA
 Starmap index: 29
 Paris coordinates: 3604272, 5232627, -434991
+Orbits: JUSTIINA
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY TEEMU MAKI EPOC 6011:589.506

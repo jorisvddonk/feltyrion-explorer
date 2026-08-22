@@ -1,6 +1,8 @@
-Planet: MONWELLPLA'
+Moon: MONWELLPLA'
 Starmap index: 11
 Paris coordinates: 1485008, 4177919, -3294996
+Orbits: FIREGLOBE
+Moon id: 5
 
 Guide entries:
 MOON DISCOVERED BY NYO, EPOC 6011:575.825

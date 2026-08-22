@@ -1,6 +1,8 @@
-Planet: VICTIM
+Moon: VICTIM
 Starmap index: 23
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: KINGPIN
+Moon id: 6
 
 Guide entries:
 GREEN CRATERIZED ORBITING PLANET KINGPIN. --EKA

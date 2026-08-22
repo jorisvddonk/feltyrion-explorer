@@ -1,6 +1,8 @@
-Planet: CHRYSTAL EARTH
+Moon: CHRYSTAL EARTH
 Starmap index: 32
 Paris coordinates: 11052016, -19359857, 17958827
+Orbits: ASKEW 61N
+Moon id: 0
 
 Guide entries:
 FOUND EPOC 6011 586.952.100 BY ROLAND ASKEW

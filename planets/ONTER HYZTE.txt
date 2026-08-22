@@ -1,3 +1,5 @@
-Planet: ONTER HYZTE
+Moon: ONTER HYZTE
 Starmap index: 26
 Paris coordinates: 32496, -31155479, 1002557
+Orbits: PILOKE 6
+Moon id: 1

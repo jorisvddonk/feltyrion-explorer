@@ -1,6 +1,8 @@
-Planet: EPIRION
+Moon: EPIRION
 Starmap index: 60
 Paris coordinates: 70352, 945533, 1134813
+Orbits: GASTRIX
+Moon id: 6
 
 Guide entries:
  MY... HOW... INTRUIGING....

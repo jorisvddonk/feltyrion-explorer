@@ -1,3 +1,5 @@
-Planet: MARDAR 7-1
+Moon: MARDAR 7-1
 Starmap index: 15
 Paris coordinates: 3955696, 4340660, 183683
+Orbits: MARDAR ETA
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: FALINI
+Moon: FALINI
 Starmap index: 04
 Paris coordinates: 5876048, 4961068, -246579
+Orbits: GNALLA
+Moon id: 0

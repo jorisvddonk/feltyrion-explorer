@@ -1,3 +1,5 @@
-Planet: NEW LIGHT 3B
+Moon: NEW LIGHT 3B
 Starmap index: 07
 Paris coordinates: 4917840, 6092172, -924761
+Orbits: LOSAY
+Moon id: 1

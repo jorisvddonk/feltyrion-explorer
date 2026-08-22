@@ -1,3 +1,5 @@
-Planet: SALEN JEN
+Moon: SALEN JEN
 Starmap index: 10
 Paris coordinates: 2718928, 5334162, -2425086
+Orbits: NLG'2873 B
+Moon id: 2

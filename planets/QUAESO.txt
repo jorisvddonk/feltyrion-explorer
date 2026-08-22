@@ -1,6 +1,8 @@
-Planet: QUAESO
+Moon: QUAESO
 Starmap index: 20
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 4
 
 Guide entries:
 M05/P07 FELISIAN. PURPLE WITH SCATTERED BODIES OF WATER. LANDING AT         

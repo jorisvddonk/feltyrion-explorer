@@ -1,6 +1,8 @@
-Planet: PINNEN
+Moon: PINNEN
 Starmap index: 10
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF THIRD PLANET, THICK ATMO PLANET. BEAUTIFUL PINK FROM

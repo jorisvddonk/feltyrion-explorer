@@ -1,6 +1,8 @@
-Planet: MERGER
+Moon: MERGER
 Starmap index: 14
 Paris coordinates: 2452848, 5614952, -121907
+Orbits: FORK
+Moon id: 3
 
 Guide entries:
 PRE-LANDING REPORT: MOON OF PLANET IN BINARY SYSTEM. INTERESTING.

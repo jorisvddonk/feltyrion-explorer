@@ -1,3 +1,5 @@
-Planet: KNOGUTURZ
+Moon: KNOGUTURZ
 Starmap index: 54
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: INSEL DER DUNKELHEIT
+Moon id: 3

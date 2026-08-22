@@ -1,6 +1,8 @@
-Planet: ABRANTES
+Moon: ABRANTES
 Starmap index: 07
 Paris coordinates: 4466416, 4692609, -1413164
+Orbits: ABRANCHES
+Moon id: 0
 
 Guide entries:
 LANDED 260.61 - NOTHING REMARKABLE (BY NBOAR 6011 588.393)

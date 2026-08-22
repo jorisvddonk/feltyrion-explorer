@@ -1,3 +1,5 @@
-Planet: THALES
+Moon: THALES
 Starmap index: 12
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: HELLAS
+Moon id: 0

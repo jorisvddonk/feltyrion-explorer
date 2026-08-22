@@ -1,6 +1,8 @@
-Planet: MANEN
+Moon: MANEN
 Starmap index: 17
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: SU
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS ARE VERY

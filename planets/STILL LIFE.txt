@@ -1,6 +1,8 @@
-Planet: STILL LIFE
+Moon: STILL LIFE
 Starmap index: 30
 Paris coordinates: 4674288, -2159804, -5028940
+Orbits: planet index 05
+Moon id: 9
 
 Guide entries:
 A MOON OF THE FALSE HOPE SYSTEM, THIS PLANET IS SUITABLE FOR LIFE.

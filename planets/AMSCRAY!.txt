@@ -1,6 +1,8 @@
-Planet: AMSCRAY!
+Moon: AMSCRAY!
 Starmap index: 15
 Paris coordinates: 4142128, 4582625, -648170
+Orbits: HABDOCO
+Moon id: 4
 
 Guide entries:
 FELISIAN, BUT LANDINGS AT 347.59, 348.43 AND 330.90 PROVIDED ONLY

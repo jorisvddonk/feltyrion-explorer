@@ -1,6 +1,8 @@
-Planet: PILIJIB
+Moon: PILIJIB
 Starmap index: 05
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 1
 
 Guide entries:
 M02/P03 SMALL SOLID THIN ATMO FAIRLY DARK, GOOD POLAR CAPS. PRO 0.268.      

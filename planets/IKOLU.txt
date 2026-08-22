@@ -1,6 +1,8 @@
-Planet: IKOLU
+Moon: IKOLU
 Starmap index: 35
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ILFHLEJ
+Moon id: 1
 
 Guide entries:
 M02/P08 MEDIUM SIZE UNSTABLE AND HOT. ALMOST ORANGE WITH BRIGHT YELLOW.     

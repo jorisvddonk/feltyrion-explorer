@@ -1,6 +1,8 @@
-Planet: OVERCYTED
+Moon: OVERCYTED
 Starmap index: 20
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, GOOD POLAR CAPS.

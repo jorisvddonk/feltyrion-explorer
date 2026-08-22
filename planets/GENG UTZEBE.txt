@@ -1,3 +1,5 @@
-Planet: GENG UTZEBE
+Moon: GENG UTZEBE
 Starmap index: 15
 Paris coordinates: 32496, -31155479, 1002557
+Orbits: PILOKE 5
+Moon id: 0

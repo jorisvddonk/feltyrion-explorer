@@ -1,3 +1,5 @@
-Planet: LOBE
+Moon: LOBE
 Starmap index: 11
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: HUGSTONE
+Moon id: 2

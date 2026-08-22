@@ -1,6 +1,8 @@
-Planet: OJUA
+Moon: OJUA
 Starmap index: 31
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A GOOD PURPLE REFLECTIVE

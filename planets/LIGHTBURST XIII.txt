@@ -1,3 +1,5 @@
-Planet: LIGHTBURST XIII
+Moon: LIGHTBURST XIII
 Starmap index: 26
 Paris coordinates: 3779984, 4313464, -58717
+Orbits: LIGHTBURST
+Moon id: 12

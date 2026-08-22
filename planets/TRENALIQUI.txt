@@ -1,6 +1,8 @@
-Planet: TRENALIQUI
+Moon: TRENALIQUI
 Starmap index: 21
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: TITIAND
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:572.

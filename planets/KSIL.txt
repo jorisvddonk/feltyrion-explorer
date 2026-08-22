@@ -1,6 +1,8 @@
-Planet: KSIL
+Moon: KSIL
 Starmap index: 15
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: TRIDE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

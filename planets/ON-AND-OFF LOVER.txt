@@ -1,3 +1,5 @@
-Planet: ON-AND-OFF LOVER
+Moon: ON-AND-OFF LOVER
 Starmap index: 31
 Paris coordinates: 3714992, 5004837, -1766171
+Orbits: TOUGH MIDDLE CHILD
+Moon id: 1

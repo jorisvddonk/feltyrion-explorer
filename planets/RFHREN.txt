@@ -1,6 +1,8 @@
-Planet: RFHREN
+Moon: RFHREN
 Starmap index: 11
 Paris coordinates: 634309520, -10801615, 49308989
+Orbits: AFHNYM
+Moon id: 2
 
 Guide entries:
 M03/P05 ROCKY, CREASED, FAIRLY BRIGHT GREEN REFLECTIVITY, LESS SCARS        

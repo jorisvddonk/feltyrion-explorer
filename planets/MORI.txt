@@ -1,3 +1,5 @@
-Planet: MORI
+Moon: MORI
 Starmap index: 12
 Paris coordinates: 456784, 31526, -25779
+Orbits: STONE RING
+Moon id: 0

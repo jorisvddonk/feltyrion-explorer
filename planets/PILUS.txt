@@ -1,3 +1,5 @@
-Planet: PILUS
+Moon: PILUS
 Starmap index: 08
 Paris coordinates: 2195312, 2416013, 8204930
+Orbits: planet index 03
+Moon id: 2

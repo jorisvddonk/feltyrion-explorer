@@ -1,6 +1,8 @@
-Planet: QOUIR 7.1
+Moon: QOUIR 7.1
 Starmap index: 14
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 0
 
 Guide entries:
  THE FIRST MOON OF THE LARGE GAS-GIANT QOUIR 7, IS A ICY LITTLE

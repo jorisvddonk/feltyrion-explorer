@@ -1,6 +1,8 @@
-Planet: UWORAN
+Moon: UWORAN
 Starmap index: 30
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

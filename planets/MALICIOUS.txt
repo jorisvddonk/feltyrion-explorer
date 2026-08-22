@@ -1,3 +1,5 @@
-Planet: MALICIOUS
+Moon: MALICIOUS
 Starmap index: 11
 Paris coordinates: 1752848, 5160015, 518853
+Orbits: DUSTY
+Moon id: 1

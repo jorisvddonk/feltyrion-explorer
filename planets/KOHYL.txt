@@ -1,3 +1,5 @@
-Planet: KOHYL
+Moon: KOHYL
 Starmap index: 14
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: HOLCOE
+Moon id: 0

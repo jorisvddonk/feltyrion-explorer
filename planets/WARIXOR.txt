@@ -1,6 +1,8 @@
-Planet: WARIXOR
+Moon: WARIXOR
 Starmap index: 25
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. GOOD GREY

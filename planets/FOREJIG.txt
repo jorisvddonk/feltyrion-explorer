@@ -1,3 +1,5 @@
-Planet: FOREJIG
+Moon: FOREJIG
 Starmap index: 06
 Paris coordinates: -1071024, 5220683, -9634850
+Orbits: MIDDOCK
+Moon id: 1

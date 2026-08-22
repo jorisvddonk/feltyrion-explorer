@@ -1,6 +1,8 @@
-Planet: MAFE
+Moon: MAFE
 Starmap index: 54
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: DEISY
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKLY PURPLE REFLECTIVITY WITH

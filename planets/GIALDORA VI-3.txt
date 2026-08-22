@@ -1,3 +1,5 @@
-Planet: GIALDORA VI-3
+Moon: GIALDORA VI-3
 Starmap index: 14
 Paris coordinates: 3473200, 4782739, 43271
+Orbits: GIALDORA VI
+Moon id: 2

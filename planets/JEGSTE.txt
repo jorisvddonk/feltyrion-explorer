@@ -1,6 +1,8 @@
-Planet: JEGSTE
+Moon: JEGSTE
 Starmap index: 18
 Paris coordinates: 191792, 393743, -1607331
+Orbits: SELLO
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF THE FOURTH PLANET. A GREEN DUSTY MOON WITH STRANGE, QUITE

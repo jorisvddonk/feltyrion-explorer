@@ -1,6 +1,8 @@
-Planet: PRETTY
+Moon: PRETTY
 Starmap index: 35
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: BROWN ONE
+Moon id: 10
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.267.542

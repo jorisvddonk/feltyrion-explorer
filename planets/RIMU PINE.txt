@@ -1,3 +1,5 @@
-Planet: RIMU PINE
+Moon: RIMU PINE
 Starmap index: 11
 Paris coordinates: 5386352, -15380264, 12260302
+Orbits: ASKEW 127D
+Moon id: 1

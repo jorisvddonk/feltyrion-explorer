@@ -1,6 +1,8 @@
-Planet: FLEA
+Moon: FLEA
 Starmap index: 08
 Paris coordinates: 4774288, -88467, -5061867
+Orbits: FLEA COLLAR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. ANOTHER DARK WORLD THAT'S A TWIN FOR THE

@@ -1,6 +1,8 @@
-Planet: FRIDER
+Moon: FRIDER
 Starmap index: 17
 Paris coordinates: 2970352, 3448819, -1792674
+Orbits: KALDER
+Moon id: 0
 
 Guide entries:
 KALDER'S SECOND, IN LIMBIAN SOCIETY ALL THOSE WHO LEAD OTHERS HAVE A

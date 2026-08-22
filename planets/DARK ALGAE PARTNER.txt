@@ -1,3 +1,5 @@
-Planet: DARK ALGAE PARTNER
+Moon: DARK ALGAE PARTNER
 Starmap index: 08
 Paris coordinates: -71893136, -756602, 53977080
+Orbits: DARK ALGAE
+Moon id: 0

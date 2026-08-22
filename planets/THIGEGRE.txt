@@ -1,6 +1,8 @@
-Planet: THIGEGRE
+Moon: THIGEGRE
 Starmap index: 30
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: NEONAS
+Moon id: 4
 
 Guide entries:
 A THICK ATMO MOON, THE FIFTH OF THE FOURTH PLANET. THE SURFACE COLOR

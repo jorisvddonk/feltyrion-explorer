@@ -1,3 +1,5 @@
-Planet: LITTLE FRIEND II
+Moon: LITTLE FRIEND II
 Starmap index: 05
 Paris coordinates: 3008208, 5683926, -1431904
+Orbits: LITTLE BROTHER
+Moon id: 1

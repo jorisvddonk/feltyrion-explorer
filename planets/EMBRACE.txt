@@ -1,6 +1,8 @@
-Planet: EMBRACE
+Moon: EMBRACE
 Starmap index: 19
 Paris coordinates: 2374288, 4344078, -2741157
+Orbits: SATIE
+Moon id: 10
 
 Guide entries:
 THIS ERRIE MOON HAS A VERY STRANGE VALLEY/CRATER

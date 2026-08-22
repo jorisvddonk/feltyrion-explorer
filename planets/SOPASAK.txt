@@ -1,3 +1,5 @@
-Planet: SOPASAK
+Moon: SOPASAK
 Starmap index: 11
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 4

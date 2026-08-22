@@ -1,6 +1,8 @@
-Planet: SENTOYA
+Moon: SENTOYA
 Starmap index: 16
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 5
 
 Guide entries:
 FELASIAN PLANET, STORM SYSTEMS AND VEGETATION. LIFE FOUND.

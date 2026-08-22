@@ -1,6 +1,8 @@
-Planet: TALEGGIO
+Moon: TALEGGIO
 Starmap index: 34
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, MODERATE POLAR CAPS.

@@ -1,3 +1,5 @@
-Planet: JUNG
+Moon: JUNG
 Starmap index: 51
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: FREUD
+Moon id: 0

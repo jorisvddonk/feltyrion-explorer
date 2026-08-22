@@ -1,6 +1,8 @@
-Planet: ZUNA VI-8
+Moon: ZUNA VI-8
 Starmap index: 21
 Paris coordinates: 9675376, 5043750, -13745597
+Orbits: ZUNA VI
+Moon id: 7
 
 Guide entries:
 MIGHT PROBABLY CONTAIN LIFE, DIDN'T GET THE CHANCE TO FIND OUT...           

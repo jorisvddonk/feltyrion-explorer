@@ -1,6 +1,8 @@
-Planet: CINERIN
+Moon: CINERIN
 Starmap index: 15
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE A FEW NICE DEEP

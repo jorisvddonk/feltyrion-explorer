@@ -1,3 +1,5 @@
-Planet: ALIGNED
+Moon: ALIGNED
 Starmap index: 08
 Paris coordinates: 1656784, 4198096, -1143538
+Orbits: ONION RINGS
+Moon id: 0

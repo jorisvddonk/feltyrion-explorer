@@ -1,3 +1,5 @@
-Planet: ASKEW 183E3
+Moon: ASKEW 183E3
 Starmap index: 15
 Paris coordinates: 3620688, 634106, 2456427
+Orbits: ASKEW 183E
+Moon id: 2

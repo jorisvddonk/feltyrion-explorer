@@ -1,6 +1,8 @@
-Planet: HOLEIN
+Moon: HOLEIN
 Starmap index: 12
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. MASSIVE

@@ -1,3 +1,5 @@
-Planet: SERGEIOV O9
+Moon: SERGEIOV O9
 Starmap index: 70
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV O
+Moon id: 8

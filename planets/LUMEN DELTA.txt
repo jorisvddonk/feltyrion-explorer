@@ -1,6 +1,8 @@
-Planet: LUMEN DELTA
+Moon: LUMEN DELTA
 Starmap index: 09
 Paris coordinates: 3666416, 5031653, -821054
+Orbits: LUMEN
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET LUMEN IN THE CELESTRA SYSTEM

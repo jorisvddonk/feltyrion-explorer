@@ -1,3 +1,5 @@
-Planet: MOMENTAI
+Moon: MOMENTAI
 Starmap index: 46
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 11

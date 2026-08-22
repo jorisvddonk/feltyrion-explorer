@@ -1,6 +1,8 @@
-Planet: KX AJOUTE
+Moon: KX AJOUTE
 Starmap index: 25
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 8
 
 Guide entries:
 NINETH MOON OF FAT VIOLET

@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 5.1
+Moon: GRANTED WISH 5.1
 Starmap index: 19
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 5
+Moon id: 0
 
 Guide entries:
 THIS IS INDEED A VERY CLOSE MOON, AND I'M INCLINED TO CALL                  

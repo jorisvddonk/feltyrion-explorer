@@ -1,3 +1,5 @@
-Planet: BLISTERIA
+Moon: BLISTERIA
 Starmap index: 10
 Paris coordinates: 2994640, 4045928, -2255363
+Orbits: LIPITUNE
+Moon id: 6

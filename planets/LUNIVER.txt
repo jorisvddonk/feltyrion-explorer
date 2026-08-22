@@ -1,6 +1,8 @@
-Planet: LUNIVER
+Moon: LUNIVER
 Starmap index: 10
 Paris coordinates: 5555696, 6149718, -1148640
+Orbits: SEGUNDON
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.681.752 -                               

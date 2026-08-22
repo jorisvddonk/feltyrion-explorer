@@ -1,6 +1,8 @@
-Planet: SERVRALIA
+Moon: SERVRALIA
 Starmap index: 37
 Paris coordinates: -356784, 249112, 74478
+Orbits: ARANGAKURON
+Moon id: 0
 
 Guide entries:
 ROCKY MOON. FGS 0.21, TEMP -267, NO ATMOSPHERE, NO SUN DISC. SUNRISE TO

@@ -1,3 +1,5 @@
-Planet: YEGER
+Moon: YEGER
 Starmap index: 07
 Paris coordinates: 563568, 437608, 261632
+Orbits: ELECTRON
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: CORAL II-7A
+Moon: CORAL II-7A
 Starmap index: 57
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-7
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. HEAVY SCARRING.

@@ -1,3 +1,5 @@
-Planet: MARISEA
+Moon: MARISEA
 Starmap index: 16
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: JB 104
+Moon id: 3

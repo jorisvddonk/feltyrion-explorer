@@ -1,6 +1,8 @@
-Planet: FROST
+Moon: FROST
 Starmap index: 17
 Paris coordinates: 2146064, 2235789, -296096
+Orbits: SUBSTELLAR OBJECT 5B
+Moon id: 9
 
 Guide entries:
 CATALOGUED 6011.565.186.472 BY JEREMY HUSSELL

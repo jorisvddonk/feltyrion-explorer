@@ -1,6 +1,8 @@
-Planet: PAFIFH
+Moon: PAFIFH
 Starmap index: 29
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GOOD GREEN

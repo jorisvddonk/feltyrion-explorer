@@ -1,3 +1,5 @@
-Planet: SCHOPENHAUER
+Moon: SCHOPENHAUER
 Starmap index: 48
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: KANT
+Moon id: 12

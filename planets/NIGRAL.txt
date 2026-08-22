@@ -1,6 +1,8 @@
-Planet: NIGRAL
+Moon: NIGRAL
 Starmap index: 29
 Paris coordinates: -994640, 73062, 432928
+Orbits: GHORL
+Moon id: 1
 
 Guide entries:
 THIS MOON SEEMS TO BE LARGELY HILLY GRASSLAND POPULATED BY BIRDS.

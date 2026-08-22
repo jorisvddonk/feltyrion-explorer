@@ -1,3 +1,5 @@
-Planet: EMPIRDINIM
+Moon: EMPIRDINIM
 Starmap index: 40
 Paris coordinates: 7851344, -10291278, 11707487
+Orbits: ASKEW 163G
+Moon id: 1

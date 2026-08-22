@@ -1,6 +1,8 @@
-Planet: ROSEMARY
+Moon: ROSEMARY
 Starmap index: 17
 Paris coordinates: -4241040, 222411, -3036412
+Orbits: MINT
+Moon id: 0
 
 Guide entries:
 FELISIAN MOON IN HERB GARDEN SYSTEM.

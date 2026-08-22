@@ -1,3 +1,5 @@
-Planet: GRINDAG REBEL BASE
+Moon: GRINDAG REBEL BASE
 Starmap index: 06
 Paris coordinates: 2028560, 3604181, 732400
+Orbits: GRINDAG 4
+Moon id: 0

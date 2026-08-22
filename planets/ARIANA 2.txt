@@ -1,3 +1,5 @@
-Planet: ARIANA 2
+Moon: ARIANA 2
 Starmap index: 28
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: LATERZ
+Moon id: 17

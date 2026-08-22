@@ -1,6 +1,8 @@
-Planet: FURMAYNA
+Moon: FURMAYNA
 Starmap index: 22
 Paris coordinates: 49355440, 638057, 1979842761
+Orbits: AS12311313D
+Moon id: 14
 
 Guide entries:
 A COLD PLACE. EVEN AT THE EQUATOR THERE ARE FROSTY PLACES.

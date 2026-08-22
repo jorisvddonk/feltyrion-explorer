@@ -1,3 +1,5 @@
-Planet: VLANDUS QUADREX SENE
+Moon: VLANDUS QUADREX SENE
 Starmap index: 34
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS QUADREX
+Moon id: 15

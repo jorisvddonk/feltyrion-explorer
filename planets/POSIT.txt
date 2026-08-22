@@ -1,6 +1,8 @@
-Planet: POSIT
+Moon: POSIT
 Starmap index: 35
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

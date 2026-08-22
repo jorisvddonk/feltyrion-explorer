@@ -1,6 +1,8 @@
-Planet: GRETAE
+Moon: GRETAE
 Starmap index: 57
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PERIP
+Moon id: 14
 
 Guide entries:
 MOON HAS A RANGE OF LANDFEATURES, MAINLY FLAT TOPPED MOUNTAINS OR HILLS

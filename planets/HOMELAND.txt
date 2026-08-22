@@ -1,6 +1,8 @@
-Planet: HOMELAND
+Moon: HOMELAND
 Starmap index: 11
 Paris coordinates: 4173200, 4174602, -869194
+Orbits: GIANT RAISIN
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:850.529                                    

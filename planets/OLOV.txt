@@ -1,6 +1,8 @@
-Planet: OLOV
+Moon: OLOV
 Starmap index: 07
 Paris coordinates: 3252848, 4365390, -954754
+Orbits: MORITZ 4
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY SAMUEL MORITZ 577.477.820

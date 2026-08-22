@@ -1,6 +1,8 @@
-Planet: POHIM
+Moon: POHIM
 Starmap index: 12
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE, MILD GREENISH GREY

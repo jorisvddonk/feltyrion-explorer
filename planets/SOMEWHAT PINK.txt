@@ -1,3 +1,5 @@
-Planet: SOMEWHAT PINK
+Moon: SOMEWHAT PINK
 Starmap index: 26
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: PALISSANDRO
+Moon id: 4

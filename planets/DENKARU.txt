@@ -1,6 +1,8 @@
-Planet: DENKARU
+Moon: DENKARU
 Starmap index: 14
 Paris coordinates: -20671280, 827674, -13257392
+Orbits: ERMUKHA VI
+Moon id: 5
 
 Guide entries:
 ERMUKHA 06/06; CLOUDY

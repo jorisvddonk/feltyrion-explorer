@@ -1,6 +1,8 @@
-Planet: SAVIA
+Moon: SAVIA
 Starmap index: 06
 Paris coordinates: -13134256, -22685130, 6268196
+Orbits: PINDRI 3
+Moon id: 0
 
 Guide entries:
 PINDRI 01/03

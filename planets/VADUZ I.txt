@@ -1,6 +1,8 @@
-Planet: VADUZ I
+Moon: VADUZ I
 Starmap index: 06
 Paris coordinates: 3770352, 4542875, -2364699
+Orbits: VADUZ
+Moon id: 0
 
 Guide entries:
 COOL AND BARREN, BUT INCREDIBLE TERRAIN! CHECK OUT 19.33 AND 307.43

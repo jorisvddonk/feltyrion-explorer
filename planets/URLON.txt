@@ -1,6 +1,8 @@
-Planet: URLON
+Moon: URLON
 Starmap index: 18
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK WITH A LIGHT PATCH NOTED,

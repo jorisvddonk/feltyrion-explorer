@@ -1,6 +1,8 @@
-Planet: ASKEW 99C2
+Moon: ASKEW 99C2
 Starmap index: 15
 Paris coordinates: 11738448, -19692803, 16737605
+Orbits: ASKEW 99C
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 588.439.350 BY ROLAND ASKEW

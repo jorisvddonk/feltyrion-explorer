@@ -1,6 +1,8 @@
-Planet: ZEBRIM L
+Moon: ZEBRIM L
 Starmap index: 19
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 11
 
 Guide entries:
 A CREAMY-COLORED DENSEWORLD WITH WHITE CLOUD SPOTS.

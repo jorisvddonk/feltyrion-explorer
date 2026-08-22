@@ -1,6 +1,8 @@
-Planet: HOAGLAND
+Moon: HOAGLAND
 Starmap index: 18
 Paris coordinates: 6007120, 4721244, -713119
+Orbits: PABLO
+Moon id: 8
 
 Guide entries:
 HOAGLAND IS A FELISIAN PLANET OF THE COMPANION STAR PABLO FROM THE

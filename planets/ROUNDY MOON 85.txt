@@ -1,3 +1,5 @@
-Planet: ROUNDY MOON 8/5
+Moon: ROUNDY MOON 8/5
 Starmap index: 21
 Paris coordinates: -72872784, -1428037, 56200949
+Orbits: RINGY
+Moon id: 7

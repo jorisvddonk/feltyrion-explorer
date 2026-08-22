@@ -1,3 +1,5 @@
-Planet: BOSCO
+Moon: BOSCO
 Starmap index: 13
 Paris coordinates: 487856, 49102, -230101
+Orbits: UGLY SOUP
+Moon id: 1

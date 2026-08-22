@@ -1,6 +1,8 @@
-Planet: HIFOGOR
+Moon: HIFOGOR
 Starmap index: 17
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, FAIRLY DARK, LIGHT SPOTS NOTED, GOOD

@@ -1,6 +1,8 @@
-Planet: ISLAMACREST
+Moon: ISLAMACREST
 Starmap index: 27
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAHDI
+Moon id: 10
 
 Guide entries:
 NAMED FOR THE LARGE CRECENT SHAPE ON THE SURFACE.

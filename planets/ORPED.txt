@@ -1,6 +1,8 @@
-Planet: ORPED
+Moon: ORPED
 Starmap index: 39
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAR ATTEMPT
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

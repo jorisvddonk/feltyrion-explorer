@@ -1,3 +1,5 @@
-Planet: WOTHLESS
+Moon: WOTHLESS
 Starmap index: 06
 Paris coordinates: 3714992, 4504837, -1815290
+Orbits: BRIN
+Moon id: 1

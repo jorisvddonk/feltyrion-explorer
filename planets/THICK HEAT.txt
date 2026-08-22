@@ -1,3 +1,5 @@
-Planet: THICK HEAT
+Moon: THICK HEAT
 Starmap index: 10
 Paris coordinates: 4259632, 5044350, -1588675
+Orbits: planet index 03
+Moon id: 4

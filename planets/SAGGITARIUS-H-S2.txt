@@ -1,3 +1,5 @@
-Planet: SAGGITARIUS-H-S2
+Moon: SAGGITARIUS-H-S2
 Starmap index: 17
 Paris coordinates: 2481072, 4112682, -2525508
+Orbits: SAGGITARIUS-H
+Moon id: 1

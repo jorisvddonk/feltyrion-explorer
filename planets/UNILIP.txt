@@ -1,6 +1,8 @@
-Planet: UNILIP
+Moon: UNILIP
 Starmap index: 42
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 10
 
 Guide entries:
 THE ELEVENTH MOON OF THE FIFTEENTH PLANET, PERDISTA. GREYISH ICY MOON.

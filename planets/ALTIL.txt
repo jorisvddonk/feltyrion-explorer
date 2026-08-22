@@ -1,6 +1,8 @@
-Planet: ALTIL
+Moon: ALTIL
 Starmap index: 21
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE

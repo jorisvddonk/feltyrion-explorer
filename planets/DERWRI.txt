@@ -1,6 +1,8 @@
-Planet: DERWRI
+Moon: DERWRI
 Starmap index: 73
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. LOW REFLECTIVITY, SLIGHT

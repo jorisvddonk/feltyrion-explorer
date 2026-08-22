@@ -1,3 +1,5 @@
-Planet: PARIBA
+Moon: PARIBA
 Starmap index: 54
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: KIRII
+Moon id: 0

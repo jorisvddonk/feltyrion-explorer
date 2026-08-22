@@ -1,3 +1,5 @@
-Planet: THERISEA
+Moon: THERISEA
 Starmap index: 17
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: KISIELUS
+Moon id: 1

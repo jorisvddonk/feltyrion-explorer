@@ -1,6 +1,8 @@
-Planet: NUTIS
+Moon: NUTIS
 Starmap index: 17
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: ECEDA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH

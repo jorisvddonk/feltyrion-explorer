@@ -1,6 +1,8 @@
-Planet: Z-X011 IV A
+Moon: Z-X011 IV A
 Starmap index: 09
 Paris coordinates: -1404734000, -44052, 1421101164
+Orbits: Z-X011 IV
+Moon id: 0
 
 Guide entries:
 COMPANION PURPLE GAS GIANT MOON. (SCHMERM 6011 598.637)

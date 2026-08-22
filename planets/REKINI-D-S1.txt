@@ -1,3 +1,5 @@
-Planet: REKINI-D-S1
+Moon: REKINI-D-S1
 Starmap index: 15
 Paris coordinates: 164656, -54848, -2929708
+Orbits: REKINI-D
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: VOMITUS
+Moon: VOMITUS
 Starmap index: 26
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: ALBERT
+Moon id: 0

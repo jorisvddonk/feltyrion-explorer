@@ -1,6 +1,8 @@
-Planet: VISTEK
+Moon: VISTEK
 Starmap index: 09
 Paris coordinates: 4497488, 5149116, -1701105
+Orbits: CRINA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. VERY

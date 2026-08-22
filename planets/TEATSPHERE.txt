@@ -1,3 +1,5 @@
-Planet: TEATSPHERE
+Moon: TEATSPHERE
 Starmap index: 17
 Paris coordinates: 625712, 20217, -47143
+Orbits: BIGOS
+Moon id: 1

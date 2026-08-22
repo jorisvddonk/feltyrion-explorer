@@ -1,6 +1,8 @@
-Planet: PICOLINE
+Moon: PICOLINE
 Starmap index: 04
 Paris coordinates: 6417840, 4766199, -2428528
+Orbits: FASHION
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY REFLECTIVE WITH MUCH

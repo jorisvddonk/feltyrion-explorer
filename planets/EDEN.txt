@@ -1,6 +1,8 @@
-Planet: EDEN
+Moon: EDEN
 Starmap index: 25
 Paris coordinates: -73010640, -1598344, 56035429
+Orbits: PRODIGIUS
+Moon id: 7
 
 Guide entries:
 COVERED WITH PINK TREES, IT IS A STRANGE BUT BEAUTIFUL PLACE

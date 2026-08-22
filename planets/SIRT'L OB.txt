@@ -1,3 +1,5 @@
-Planet: SIRT'L OB
+Moon: SIRT'L OB
 Starmap index: 08
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: C:
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: 142200
+Moon: 142200
 Starmap index: 06
 Paris coordinates: 3383920, 4684937, -1432007
+Orbits: KENSHIN
+Moon id: 0

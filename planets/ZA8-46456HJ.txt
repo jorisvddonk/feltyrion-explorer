@@ -1,3 +1,5 @@
-Planet: ZA8-46456HJ
+Moon: ZA8-46456HJ
 Starmap index: 20
 Paris coordinates: 3290704, 4837570, -933229
+Orbits: AZ8-FR1988
+Moon id: 0

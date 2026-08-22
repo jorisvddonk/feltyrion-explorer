@@ -1,6 +1,8 @@
-Planet: ASTLI
+Moon: ASTLI
 Starmap index: 11
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: TUPRE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY DUSTY AND COVERED

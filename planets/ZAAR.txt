@@ -1,6 +1,8 @@
-Planet: ZAAR
+Moon: ZAAR
 Starmap index: 20
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS LARGE RAYED CRATERS.

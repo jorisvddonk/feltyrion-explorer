@@ -1,6 +1,8 @@
-Planet: PODRA
+Moon: PODRA
 Starmap index: 66
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 9
+Moon id: 1
 
 Guide entries:
 BLUE/GREEN CLOUDY

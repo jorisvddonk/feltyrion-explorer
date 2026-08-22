@@ -1,6 +1,8 @@
-Planet: NACHE'UT SEN
+Moon: NACHE'UT SEN
 Starmap index: 33
 Paris coordinates: -1421126096, -1240979, -1276584867
+Orbits: MAAREN IV
+Moon id: 14
 
 Guide entries:
 MAAREN 15/04; FELISIAN

@@ -1,6 +1,8 @@
-Planet: CREASE
+Moon: CREASE
 Starmap index: 13
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 6
 
 Guide entries:
 FOUNDED EPOC 6011, 681.307.401 BY REZA. 7TH MOON OF OCEAN.                  

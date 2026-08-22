@@ -1,3 +1,5 @@
-Planet: NRALLIS QUINTUS QUIN
+Moon: NRALLIS QUINTUS QUIN
 Starmap index: 17
 Paris coordinates: 1399669584, 1320927, 1399310799
+Orbits: NRALLIS QUINTUS
+Moon id: 4

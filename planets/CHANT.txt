@@ -1,6 +1,8 @@
-Planet: CHANT
+Moon: CHANT
 Starmap index: 28
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK REFLECTIVITY, SLIGHTLY

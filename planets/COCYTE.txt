@@ -1,6 +1,8 @@
-Planet: COCYTE
+Moon: COCYTE
 Starmap index: 37
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 1
 
 Guide entries:
 M02/P09 SMALL SOLID THIN ATMO, QUITE DARK WITH FAINT POLAR CAPS. PRO        

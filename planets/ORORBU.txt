@@ -1,6 +1,8 @@
-Planet: ORORBU
+Moon: ORORBU
 Starmap index: 18
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 10
 
 Guide entries:
 M11/P04 DUSTY. GOOD RELECTIVITY WITH LARGE DARK CRATERS. PRO 0.259.200

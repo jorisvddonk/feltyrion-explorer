@@ -1,6 +1,8 @@
-Planet: NATTY
+Moon: NATTY
 Starmap index: 13
 Paris coordinates: -163568, 2358, -418951
+Orbits: FOYER
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY BUT REFLECTIVE,

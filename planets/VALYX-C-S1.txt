@@ -1,3 +1,5 @@
-Planet: VALYX-C-S1
+Moon: VALYX-C-S1
 Starmap index: 11
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-C
+Moon id: 0

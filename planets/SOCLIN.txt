@@ -1,6 +1,8 @@
-Planet: SOCLIN
+Moon: SOCLIN
 Starmap index: 19
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. NOT

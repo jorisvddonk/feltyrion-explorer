@@ -1,3 +1,5 @@
-Planet: AARNAK
+Moon: AARNAK
 Starmap index: 17
 Paris coordinates: 3921776, 4663420, -1624678
+Orbits: NYXATOR
+Moon id: 11

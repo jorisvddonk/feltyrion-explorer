@@ -1,3 +1,5 @@
-Planet: ASKEW 10D2
+Moon: ASKEW 10D2
 Starmap index: 29
 Paris coordinates: 5265328, 2222843, 1446761
+Orbits: YERBITTUM
+Moon id: 1

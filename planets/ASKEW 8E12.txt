@@ -1,3 +1,5 @@
-Planet: ASKEW 8E12
+Moon: ASKEW 8E12
 Starmap index: 23
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8E
+Moon id: 11

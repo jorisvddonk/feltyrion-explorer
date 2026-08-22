@@ -1,6 +1,8 @@
-Planet: FORT FELIX
+Moon: FORT FELIX
 Starmap index: 49
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM IV
+Moon id: 0
 
 Guide entries:
  (SKYGEM IV A) A FELYISAN PLANET AROUND A RINGED GAS GIANT.

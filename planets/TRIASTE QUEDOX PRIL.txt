@@ -1,3 +1,5 @@
-Planet: TRIASTE QUEDOX PRIL
+Moon: TRIASTE QUEDOX PRIL
 Starmap index: 66
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE QUEDOX
+Moon id: 0

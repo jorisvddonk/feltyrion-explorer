@@ -1,6 +1,8 @@
-Planet: TOLEMET
+Moon: TOLEMET
 Starmap index: 21
 Paris coordinates: 1063568, 4731018, -338793
+Orbits: POOBODO
+Moon id: 8
 
 Guide entries:
  DISCOVERED BY CAPTAIN KAT EPOC 6011;674.448

@@ -1,6 +1,8 @@
-Planet: PAMIL
+Moon: PAMIL
 Starmap index: 23
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 2
 
 Guide entries:
 M03/P08 SMALL SOLID DUSTY, A FEW LARGE CRATERS ON A MOSTLY MOTTLED DIRTY    

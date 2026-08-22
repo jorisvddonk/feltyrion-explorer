@@ -1,6 +1,8 @@
-Planet: HIX
+Moon: HIX
 Starmap index: 37
 Paris coordinates: 10700592, -19048169, 17432791
+Orbits: ASKEW 54H
+Moon id: 8
 
 Guide entries:
 FOUND EPOC 6011 586.377.120 BY ROLAND ASKEW

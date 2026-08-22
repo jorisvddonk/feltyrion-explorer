@@ -1,6 +1,8 @@
-Planet: PINGUID
+Moon: PINGUID
 Starmap index: 21
 Paris coordinates: 8898576, -169784, -9929350
+Orbits: PINFOLD
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NO SIZEABLE CRATERS.

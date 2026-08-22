@@ -1,6 +1,8 @@
-Planet: BENKE
+Moon: BENKE
 Starmap index: 21
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 7
 
 Guide entries:
 M08/P05 SMAL SOLID DUSTY, BUT WITH SUCH A BRIGHT GREENISH REFLECTIVITY      

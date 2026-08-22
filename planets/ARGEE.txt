@@ -1,6 +1,8 @@
-Planet: ARGEE
+Moon: ARGEE
 Starmap index: 50
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

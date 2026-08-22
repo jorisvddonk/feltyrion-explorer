@@ -1,6 +1,8 @@
-Planet: OBELIZE
+Moon: OBELIZE
 Starmap index: 07
 Paris coordinates: 181072, 146421, -286406
+Orbits: BALD SPOT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE WITH

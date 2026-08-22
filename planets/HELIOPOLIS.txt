@@ -1,6 +1,8 @@
-Planet: HELIOPOLIS
+Moon: HELIOPOLIS
 Starmap index: 09
 Paris coordinates: 2374288, 4344078, -2741157
+Orbits: SATIE
+Moon id: 0
 
 Guide entries:
 A MOON SUPPORTING LIFE. I WAS DISSAPOINTED TO FIND THAT MUCH OF

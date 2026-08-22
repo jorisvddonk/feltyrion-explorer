@@ -1,6 +1,8 @@
-Planet: WUNDERKIND
+Moon: WUNDERKIND
 Starmap index: 06
 Paris coordinates: 2332496, 4519761, -1238026
+Orbits: WUNDER 3
+Moon id: 0
 
 Guide entries:
  NICE VIEW FROM OUTERSPACE, THE SURFACE IS FLAT NON-INTERESTING             

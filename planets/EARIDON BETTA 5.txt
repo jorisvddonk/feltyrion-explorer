@@ -1,3 +1,5 @@
-Planet: EARIDON BETTA 5
+Moon: EARIDON BETTA 5
 Starmap index: 11
 Paris coordinates: 99064688, 1346115, 54624595
+Orbits: EARIDON BETA
+Moon id: 4

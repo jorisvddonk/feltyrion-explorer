@@ -1,3 +1,5 @@
-Planet: MAXANDKATE
+Moon: MAXANDKATE
 Starmap index: 09
 Paris coordinates: 4187856, 4758060, -3857377
+Orbits: DUBBLE-YU
+Moon id: 1

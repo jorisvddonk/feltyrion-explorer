@@ -1,3 +1,5 @@
-Planet: JASNY GWINT
+Moon: JASNY GWINT
 Starmap index: 45
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: YEYEYE
+Moon id: 17

@@ -1,6 +1,8 @@
-Planet: FARMOON I
+Moon: FARMOON I
 Starmap index: 56
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: OUTTAREACH
+Moon id: 0
 
 Guide entries:
 1ST MOON OF THE PLANET OUTTAREACH.

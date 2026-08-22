@@ -1,3 +1,5 @@
-Planet: CHARONITE
+Moon: CHARONITE
 Starmap index: 10
 Paris coordinates: 1413381072, -31268, -1413496484
+Orbits: planet index 03
+Moon id: 0

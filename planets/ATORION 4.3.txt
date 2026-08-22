@@ -1,6 +1,8 @@
-Planet: ATORION 4.3
+Moon: ATORION 4.3
 Starmap index: 10
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 4
+Moon id: 2
 
 Guide entries:
  ANOTHER GAS-GIANT - EXPLAINS THE VERY UNSTABLE ORBITS OF THE

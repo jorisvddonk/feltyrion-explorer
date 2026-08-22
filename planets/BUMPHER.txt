@@ -1,6 +1,8 @@
-Planet: BUMPHER
+Moon: BUMPHER
 Starmap index: 12
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 1
 
 Guide entries:
 MORE BUBBLE-WRAP

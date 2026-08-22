@@ -1,6 +1,8 @@
-Planet: DARTE
+Moon: DARTE
 Starmap index: 13
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 6
 
 Guide entries:
 A THIN ATMO MOON, THE SEVENTH OF THE THIRD PLANET. RATHER DARK. THE

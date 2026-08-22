@@ -1,6 +1,8 @@
-Planet: BATEJ
+Moon: BATEJ
 Starmap index: 20
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: LAMANALFH
+Moon id: 0
 
 Guide entries:
 M01/P07 SMALL SOLID TIN ATMO, SLIGHTLY DARK, SLIGHT POLAR CAPS. PRO         

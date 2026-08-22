@@ -1,6 +1,8 @@
-Planet: YAFMI
+Moon: YAFMI
 Starmap index: 39
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH A

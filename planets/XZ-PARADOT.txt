@@ -1,6 +1,8 @@
-Planet: XZ-PARADOT
+Moon: XZ-PARADOT
 Starmap index: 21
 Paris coordinates: 474288, 1433309, -840236
+Orbits: XZAILA 7
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.1053.565)

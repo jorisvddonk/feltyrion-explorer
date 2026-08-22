@@ -1,6 +1,8 @@
-Planet: BUNNY SLIPPERS
+Moon: BUNNY SLIPPERS
 Starmap index: 17
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 11
 
 Guide entries:
 THE FLUFFY PINK COLOR AND TEXTURE OF THIS CLOUD-COVERED PLANET

@@ -1,6 +1,8 @@
-Planet: SABAL
+Moon: SABAL
 Starmap index: 19
 Paris coordinates: -3596400, -81554, -2905806
+Orbits: GOVIN 5
+Moon id: 8
 
 Guide entries:
 GOVIN 09/05; FELISIAN

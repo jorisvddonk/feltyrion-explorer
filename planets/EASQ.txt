@@ -1,6 +1,8 @@
-Planet: EASQ
+Moon: EASQ
 Starmap index: 20
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: YATFHRO
+Moon: YATFHRO
 Starmap index: 27
 Paris coordinates: -194640, -77675, -351463
+Orbits: KEOFHIUN
+Moon id: 1
 
 Guide entries:
 M02/P05 DUSTY. HAS A FAIR REFLECTIVITY WITH LARGE DARK CRATERS. PRO

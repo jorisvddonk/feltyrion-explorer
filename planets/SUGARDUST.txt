@@ -1,3 +1,5 @@
-Planet: SUGARDUST
+Moon: SUGARDUST
 Starmap index: 27
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 4

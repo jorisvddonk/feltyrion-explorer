@@ -1,6 +1,8 @@
-Planet: ZENDORRA
+Moon: ZENDORRA
 Starmap index: 27
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 3
 
 Guide entries:
 A FELYSIAN PLANET, APPEARS CYAN IN COLOR, BUT HAS A PURPLE SKY.

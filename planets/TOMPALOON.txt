@@ -1,6 +1,8 @@
-Planet: TOMPALOON
+Moon: TOMPALOON
 Starmap index: 13
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 2
 
 Guide entries:
 THE FIRST OF FOUR FELYSIAN WORLDS IN THIS STAR SYSTEM.

@@ -1,6 +1,8 @@
-Planet: YENT
+Moon: YENT
 Starmap index: 23
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: RAUSA
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. BLUISH-GREY WITH GOOD

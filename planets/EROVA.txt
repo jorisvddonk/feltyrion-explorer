@@ -1,6 +1,8 @@
-Planet: EROVA
+Moon: EROVA
 Starmap index: 11
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 6
 
 Guide entries:
 LARGE VOLCANIC ACTIVITY ON THIS RELATIVELY FRESH WORLD.

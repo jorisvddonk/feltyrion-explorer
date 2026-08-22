@@ -1,3 +1,5 @@
-Planet: MOY-4 2
+Moon: MOY-4 2
 Starmap index: 08
 Paris coordinates: -222864, 325508, 1826922
+Orbits: FARCHETKA
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: TRIASTE TRIACUS OCTE
+Moon: TRIASTE TRIACUS OCTE
 Starmap index: 55
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE TRIADEX
+Moon id: 7

@@ -1,6 +1,8 @@
-Planet: PYRAMIDE
+Moon: PYRAMIDE
 Starmap index: 22
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: MOZZARELLA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE WITH MANY

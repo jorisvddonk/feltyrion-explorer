@@ -1,3 +1,5 @@
-Planet: KISIELIS
+Moon: KISIELIS
 Starmap index: 24
 Paris coordinates: -61846160, 29378084, 204968
+Orbits: MBTP 20
+Moon id: 0

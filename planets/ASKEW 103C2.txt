@@ -1,3 +1,5 @@
-Planet: ASKEW 103C2
+Moon: ASKEW 103C2
 Starmap index: 06
 Paris coordinates: 2139952, -12054346, 9064463
+Orbits: ASKEW 103C
+Moon id: 1

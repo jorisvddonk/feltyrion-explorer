@@ -1,6 +1,8 @@
-Planet: ON HIS DEATHBED
+Moon: ON HIS DEATHBED
 Starmap index: 32
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: RED PLAGUE
+Moon id: 7
 
 Guide entries:
 RED THIN-ATMOSPHERE MOON OF PLANET RED DEATH. --EKA

@@ -1,6 +1,8 @@
-Planet: ROSIN OIL
+Moon: ROSIN OIL
 Starmap index: 18
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 8
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. NOT VERY

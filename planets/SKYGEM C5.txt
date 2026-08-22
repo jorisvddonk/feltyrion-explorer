@@ -1,6 +1,8 @@
-Planet: SKYGEM C5
+Moon: SKYGEM C5
 Starmap index: 34
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 4
 
 Guide entries:
  A THINLY ATMOSPHERED PLANET. AMWHERE 6011.584.971

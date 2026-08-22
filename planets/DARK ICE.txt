@@ -1,6 +1,8 @@
-Planet: DARK ICE
+Moon: DARK ICE
 Starmap index: 37
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: BROWN ONE
+Moon id: 12
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.267.759

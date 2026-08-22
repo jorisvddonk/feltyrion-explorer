@@ -1,6 +1,8 @@
-Planet: FLAKEN
+Moon: FLAKEN
 Starmap index: 15
 Paris coordinates: 4855696, 4327844, -667718
+Orbits: planet index 03
+Moon id: 7
 
 Guide entries:
 MOON #8 OF THE THIRD PLANET. DUSTY AND CRATERIZED.(NOTES BY SERAXIS)        

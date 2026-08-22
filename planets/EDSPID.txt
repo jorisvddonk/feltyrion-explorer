@@ -1,6 +1,8 @@
-Planet: EDSPID
+Moon: EDSPID
 Starmap index: 19
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: SU
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY DUSTY WITH MUCH GROOVING

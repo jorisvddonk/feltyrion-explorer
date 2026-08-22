@@ -1,6 +1,8 @@
-Planet: MERIC
+Moon: MERIC
 Starmap index: 23
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. QUITE A

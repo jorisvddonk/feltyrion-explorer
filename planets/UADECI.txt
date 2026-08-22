@@ -1,6 +1,8 @@
-Planet: UADECI
+Moon: UADECI
 Starmap index: 20
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: RINGO
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY, OLIVE

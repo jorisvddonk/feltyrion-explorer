@@ -1,3 +1,5 @@
-Planet: ICEBRICK
+Moon: ICEBRICK
 Starmap index: 06
 Paris coordinates: 3059632, 5632348, -554450
+Orbits: POPCORN
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: DICKY
+Moon: DICKY
 Starmap index: 21
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: SYBIL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE A FEW IMPACT

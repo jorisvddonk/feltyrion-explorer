@@ -1,3 +1,5 @@
-Planet: VLANDUS QUINTUS PRIL
+Moon: VLANDUS QUINTUS PRIL
 Starmap index: 36
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS QUINTUS
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: FLORA1
+Moon: FLORA1
 Starmap index: 15
 Paris coordinates: 3246064, 4612800, -1346055
+Orbits: NOUZIS
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:601.931

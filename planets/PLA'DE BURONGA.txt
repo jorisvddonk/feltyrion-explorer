@@ -1,3 +1,5 @@
-Planet: PLA'DE BURONGA
+Moon: PLA'DE BURONGA
 Starmap index: 25
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: THE MAUSOLEUM
+Moon id: 12

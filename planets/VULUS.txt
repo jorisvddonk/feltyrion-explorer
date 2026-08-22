@@ -1,6 +1,8 @@
-Planet: VULUS
+Moon: VULUS
 Starmap index: 18
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: TCHAB
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: IAT
+Moon: IAT
 Starmap index: 20
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 15
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011 572.876

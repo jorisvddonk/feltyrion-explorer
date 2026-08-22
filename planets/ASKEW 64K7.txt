@@ -1,3 +1,5 @@
-Planet: ASKEW 64K7
+Moon: ASKEW 64K7
 Starmap index: 55
 Paris coordinates: 11083088, -19266817, 17947109
+Orbits: ASKEW 64K
+Moon id: 6

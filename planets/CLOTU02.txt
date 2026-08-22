@@ -1,3 +1,5 @@
-Planet: CLOTU02
+Moon: CLOTU02
 Starmap index: 54
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: CLOTURNO
+Moon id: 1

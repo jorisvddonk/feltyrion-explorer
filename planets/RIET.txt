@@ -1,6 +1,8 @@
-Planet: RIET
+Moon: RIET
 Starmap index: 31
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: COUMAS
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS LARGE AND DARK

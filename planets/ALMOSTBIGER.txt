@@ -1,3 +1,5 @@
-Planet: ALMOSTBIGER
+Moon: ALMOSTBIGER
 Starmap index: 23
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: ALMOSTERA
+Moon id: 0

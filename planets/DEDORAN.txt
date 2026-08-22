@@ -1,3 +1,5 @@
-Planet: DEDORAN
+Moon: DEDORAN
 Starmap index: 20
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 6

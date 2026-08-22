@@ -1,3 +1,5 @@
-Planet: JUBILO
+Moon: JUBILO
 Starmap index: 33
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: GWORIKO
+Moon id: 14

@@ -1,3 +1,5 @@
-Planet: CARAMEL M12
+Moon: CARAMEL M12
 Starmap index: 27
 Paris coordinates: -18928, 229680, -137040
+Orbits: CARAMEL
+Moon id: 11

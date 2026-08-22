@@ -1,3 +1,5 @@
-Planet: ESSETAFE
+Moon: ESSETAFE
 Starmap index: 26
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: URIESSE
+Moon id: 9

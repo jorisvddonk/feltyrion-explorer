@@ -1,6 +1,8 @@
-Planet: EPIC
+Moon: EPIC
 Starmap index: 17
 Paris coordinates: 1670352, 2252727, -258382
+Orbits: VERTICAL LIMIT
+Moon id: 1
 
 Guide entries:
 CATALOGUED 6011.565.729.56 BY JEREMY HUSSELL.

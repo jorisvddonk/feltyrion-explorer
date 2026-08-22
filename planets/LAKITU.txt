@@ -1,3 +1,5 @@
-Planet: LAKITU
+Moon: LAKITU
 Starmap index: 04
 Paris coordinates: 1352848, 399675, 689378
+Orbits: COMPANION GARN
+Moon id: 1

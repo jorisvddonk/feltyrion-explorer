@@ -1,6 +1,8 @@
-Planet: GELIDITY PRO
+Moon: GELIDITY PRO
 Starmap index: 57
 Paris coordinates: -1417747568, 866844, 1433341836
+Orbits: AH-SUBSTELLAR 5
+Moon id: 3
 
 Guide entries:
 I HAVE DEFINITELY MADE A FIND HERE. MOST OF THIS PLANET IS                  

@@ -1,6 +1,8 @@
-Planet: VIVEC
+Moon: VIVEC
 Starmap index: 16
 Paris coordinates: 4297488, 4141055, -1473285
+Orbits: BLASTOV
+Moon id: 7
 
 Guide entries:
 THE FIRST OF THE TWO FELISIAN WORLDS IN THE TUTATIS SYSTEM I VISITED.HAS    

@@ -1,6 +1,8 @@
-Planet: POWDER
+Moon: POWDER
 Starmap index: 25
 Paris coordinates: 4066416, 4419160, -988413
+Orbits: JLJ-GGP-4
+Moon id: 3
 
 Guide entries:
 HEAVILY CRATERED SOUTHERN REGION. OTHERWISE A STANDARD LIFELESS PLANET.

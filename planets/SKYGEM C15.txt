@@ -1,6 +1,8 @@
-Planet: SKYGEM C15
+Moon: SKYGEM C15
 Starmap index: 44
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 14
 
 Guide entries:
 A HOT, UNSTABLE PLANET, BUT IT IS INTERESTING TO LOOK AT

@@ -1,6 +1,8 @@
-Planet: BROTEN
+Moon: BROTEN
 Starmap index: 44
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 0
 
 Guide entries:
 A MAROON-ISH, ROCKY MOON, WITH AVERAGE FEATURES. TOO DARK HOWEVER.

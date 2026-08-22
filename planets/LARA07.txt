@@ -1,3 +1,5 @@
-Planet: LARA07
+Moon: LARA07
 Starmap index: 61
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: LARANI
+Moon id: 6

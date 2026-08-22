@@ -1,6 +1,8 @@
-Planet: ESEUR
+Moon: ESEUR
 Starmap index: 21
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: YOLPH
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREEN REFLECTIVITY

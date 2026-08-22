@@ -1,6 +1,8 @@
-Planet: ISTRACK
+Moon: ISTRACK
 Starmap index: 09
 Paris coordinates: 2140364592, -691520, 1231760
+Orbits: FENISFH
+Moon id: 1
 
 Guide entries:
 M02/P04 SMALL SOLID DUSTY HIGHLY REFLECTIVE WITH LARGE BRIGHT CRATERS.      

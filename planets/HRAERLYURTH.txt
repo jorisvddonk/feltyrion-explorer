@@ -1,3 +1,5 @@
-Planet: HRAERLYURTH
+Moon: HRAERLYURTH
 Starmap index: 75
 Paris coordinates: 58795344, -33712659, 927379101
+Orbits: ROJNANGI
+Moon id: 17

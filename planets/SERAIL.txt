@@ -1,3 +1,5 @@
-Planet: SERAIL
+Moon: SERAIL
 Starmap index: 12
 Paris coordinates: -1273200, -14300100, -1906276
+Orbits: SHEEN
+Moon id: 6

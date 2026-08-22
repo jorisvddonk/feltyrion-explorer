@@ -1,3 +1,5 @@
-Planet: YEKK
+Moon: YEKK
 Starmap index: 17
 Paris coordinates: 4142128, 4782625, -641787
+Orbits: DEK
+Moon id: 8

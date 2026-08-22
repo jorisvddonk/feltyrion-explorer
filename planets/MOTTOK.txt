@@ -1,3 +1,5 @@
-Planet: MOTTOK
+Moon: MOTTOK
 Starmap index: 40
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: LAENOEWWIEM
+Moon id: 1

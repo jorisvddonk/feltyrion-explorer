@@ -1,6 +1,8 @@
-Planet: OMSARIL
+Moon: OMSARIL
 Starmap index: 08
 Paris coordinates: 2061228144, -1654027, 3059941
+Orbits: ITMYBES
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZE, THICK ATMO. CLOUD COVER A YELLOWISH COLOR WITH A LARGE         

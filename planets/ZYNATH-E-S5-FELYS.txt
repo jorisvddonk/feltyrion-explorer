@@ -1,3 +1,5 @@
-Planet: ZYNATH-E-S5-FELYS
+Moon: ZYNATH-E-S5-FELYS
 Starmap index: 20
 Paris coordinates: 2838608, -355266, -11118826
+Orbits: ZYNATH-E
+Moon id: 4

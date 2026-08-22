@@ -1,3 +1,5 @@
-Planet: QIOUG JAUJ-KYN
+Moon: QIOUG JAUJ-KYN
 Starmap index: 10
 Paris coordinates: 3690704, 4370114, -1304184
+Orbits: FRODO
+Moon id: 0

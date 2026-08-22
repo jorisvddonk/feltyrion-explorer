@@ -1,6 +1,8 @@
-Planet: BRIAFU
+Moon: BRIAFU
 Starmap index: 18
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. HAS A FAIR

@@ -1,6 +1,8 @@
-Planet: ARGONAS 3.8
+Moon: ARGONAS 3.8
 Starmap index: 22
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 3
+Moon id: 7
 
 Guide entries:
  ANOTHER GAS-GIANT MOON. SOME THUNDERSTORMS DETECTED FROM ORBIT.

@@ -1,3 +1,5 @@
-Planet: DUSTERNIA
+Moon: DUSTERNIA
 Starmap index: 33
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: QUARETIS
+Moon id: 0

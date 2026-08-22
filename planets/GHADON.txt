@@ -1,6 +1,8 @@
-Planet: GHADON
+Moon: GHADON
 Starmap index: 21
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 12
 
 Guide entries:
 M13/P05 QUARTZ SURFACE, LIGHT GREY HIGHLY REFLECTIVE WITH SMALL DARK        

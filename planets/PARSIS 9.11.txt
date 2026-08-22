@@ -1,6 +1,8 @@
-Planet: PARSIS 9.11
+Moon: PARSIS 9.11
 Starmap index: 36
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 10
 
 Guide entries:
  DUE TO ITS ORBIT AROUND THIS MINIATYRE STAR-SYSTEM, THIS WORLD

@@ -1,6 +1,8 @@
-Planet: DRACULA
+Moon: DRACULA
 Starmap index: 19
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 9
 
 Guide entries:
 UPDATE: SMALL, SOLID, THIN ATMOSPHERE. DARK WORLD WITH GOOD POLAR CAPS

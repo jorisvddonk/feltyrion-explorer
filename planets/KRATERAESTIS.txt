@@ -1,3 +1,5 @@
-Planet: KRATERAESTIS
+Moon: KRATERAESTIS
 Starmap index: 05
 Paris coordinates: 263568, -3297, 572181
+Orbits: KRETAIS
+Moon id: 0

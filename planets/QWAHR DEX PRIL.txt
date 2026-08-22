@@ -1,3 +1,5 @@
-Planet: QWAHR DEX PRIL
+Moon: QWAHR DEX PRIL
 Starmap index: 66
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 0

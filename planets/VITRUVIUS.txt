@@ -1,6 +1,8 @@
-Planet: VITRUVIUS
+Moon: VITRUVIUS
 Starmap index: 07
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MAJOR
+Moon id: 0
 
 Guide entries:
 FROM ORBIT, A FAINT, HAZY YELLOW CORONA IS VISIBLE AROUND THIS WORLD.

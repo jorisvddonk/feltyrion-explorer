@@ -1,3 +1,5 @@
-Planet: CHILIPEPPERS
+Moon: CHILIPEPPERS
 Starmap index: 34
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 14

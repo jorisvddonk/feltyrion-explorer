@@ -1,3 +1,5 @@
-Planet: KWOKSNOBIRALOYA
+Moon: KWOKSNOBIRALOYA
 Starmap index: 15
 Paris coordinates: 3951760, 5640032, 2112631
+Orbits: BRINXO
+Moon id: 9

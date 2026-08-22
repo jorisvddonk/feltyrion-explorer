@@ -1,6 +1,8 @@
-Planet: TOADAR
+Moon: TOADAR
 Starmap index: 63
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 0
 
 Guide entries:
 DON'T EVEN BOTHER WITH THIS ONE!

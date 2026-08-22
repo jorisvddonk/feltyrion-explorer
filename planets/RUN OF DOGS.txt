@@ -1,3 +1,5 @@
-Planet: RUN OF DOGS
+Moon: RUN OF DOGS
 Starmap index: 11
 Paris coordinates: 2935344, 4530986, 217285
+Orbits: CRITCHLOCH
+Moon id: 1

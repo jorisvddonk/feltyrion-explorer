@@ -1,3 +1,5 @@
-Planet: PURPLE DREAM
+Moon: PURPLE DREAM
 Starmap index: 16
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: PENCHT
+Moon: PENCHT
 Starmap index: 06
 Paris coordinates: 5703184, 4943425, 1251410
+Orbits: J-RAN
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

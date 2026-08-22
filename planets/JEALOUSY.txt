@@ -1,3 +1,5 @@
-Planet: JEALOUSY
+Moon: JEALOUSY
 Starmap index: 12
 Paris coordinates: -71562064, -598009, 53608687
+Orbits: INCREDIBLE
+Moon id: 0

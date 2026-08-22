@@ -1,6 +1,8 @@
-Planet: FIRESKY 7.1
+Moon: FIRESKY 7.1
 Starmap index: 39
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 7
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, CRATERIZED, NO ATMOSPHERE. SUPRISINGLY BIG NUMBER

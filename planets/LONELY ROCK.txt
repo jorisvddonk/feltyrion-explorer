@@ -1,6 +1,8 @@
-Planet: LONELY ROCK
+Moon: LONELY ROCK
 Starmap index: 49
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: WARM EMBRACE
+Moon id: 16
 
 Guide entries:
 GREY CRATERIZED MOON ORBITING PLANET WARM EMBRACE. --EKA

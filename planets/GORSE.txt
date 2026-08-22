@@ -1,6 +1,8 @@
-Planet: GORSE
+Moon: GORSE
 Starmap index: 30
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, SLIGHTLY MOTTLED. THIS WORLD MUST HAVE AN

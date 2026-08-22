@@ -1,3 +1,5 @@
-Planet: GARGABRAN
+Moon: GARGABRAN
 Starmap index: 10
 Paris coordinates: 470352, -472659, 722038
+Orbits: RYRAMALIADRAN
+Moon id: 1

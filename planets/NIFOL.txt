@@ -1,6 +1,8 @@
-Planet: NIFOL
+Moon: NIFOL
 Starmap index: 24
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 8
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. VERY DARK GRAY AND

@@ -1,6 +1,8 @@
-Planet: CRADLE VI J
+Moon: CRADLE VI J
 Starmap index: 51
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VI
+Moon id: 9
 
 Guide entries:
 DARK PURPLE THINWORLD. (SCHMERM 6011 592.878)

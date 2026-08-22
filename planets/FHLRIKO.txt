@@ -1,6 +1,8 @@
-Planet: FHLRIKO
+Moon: FHLRIKO
 Starmap index: 24
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 16
 
 Guide entries:
 M17/P04 THIN ATMO. SUPRIZINGLY LIGHT REFLECTIVITY WITH SEVERAL LIGHT

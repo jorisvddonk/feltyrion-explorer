@@ -1,6 +1,8 @@
-Planet: FUGITIVE
+Moon: FUGITIVE
 Starmap index: 07
 Paris coordinates: 5482832, 5821092, 328552
+Orbits: KOEGLOW
+Moon id: 0
 
 Guide entries:
 A FELISIAN WORLD- HAS A BLUE COLORING TO THAT WHICH IS NOT WATER,

@@ -1,6 +1,8 @@
-Planet: LUMINOUS YETI
+Moon: LUMINOUS YETI
 Starmap index: 25
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 17
 
 Guide entries:
 DON'T ASK ABOUT THE NAME... FIRST THING THAT POPPED INTO MY HEAD

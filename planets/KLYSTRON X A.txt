@@ -1,6 +1,8 @@
-Planet: KLYSTRON X A
+Moon: KLYSTRON X A
 Starmap index: 32
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: KLYSTRON X
+Moon id: 0
 
 Guide entries:
 PURPLE GAS GIANT MOON. (SCHMERM 6011 594.65)

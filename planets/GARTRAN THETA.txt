@@ -1,6 +1,8 @@
-Planet: GARTRAN THETA
+Moon: GARTRAN THETA
 Starmap index: 12
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 7
 
 Guide entries:
 EIGTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

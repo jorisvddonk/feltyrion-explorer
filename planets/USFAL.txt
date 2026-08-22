@@ -1,3 +1,5 @@
-Planet: USFAL
+Moon: USFAL
 Starmap index: 22
 Paris coordinates: 4469264, 5487862, 696708
+Orbits: planet index 03
+Moon id: 10

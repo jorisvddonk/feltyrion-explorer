@@ -1,3 +1,5 @@
-Planet: MEDORA
+Moon: MEDORA
 Starmap index: 19
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 5

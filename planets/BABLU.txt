@@ -1,6 +1,8 @@
-Planet: BABLU
+Moon: BABLU
 Starmap index: 35
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 11
 
 Guide entries:
 BEAUTIFUL BLUE CLOUDS SCATTERED, AS SEEN FROM SPACE, SURFACE AREA IS

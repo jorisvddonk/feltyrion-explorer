@@ -1,6 +1,8 @@
-Planet: DEIRE'AKAAT
+Moon: DEIRE'AKAAT
 Starmap index: 75
 Paris coordinates: -1323161232, -1306991, -1179428207
+Orbits: SOKUN 8
+Moon id: 0
 
 Guide entries:
 SOKUN 01/08; FELISIAN

@@ -1,6 +1,8 @@
-Planet: FOLIONIOUSIS
+Moon: FOLIONIOUSIS
 Starmap index: 24
 Paris coordinates: 1377136, 6524911, 257731
+Orbits: planet index 04
+Moon id: 6
 
 Guide entries:
  DISCOVERED BY SHADOW151 EPOC 6011.597.434

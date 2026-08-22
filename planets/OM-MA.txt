@@ -1,6 +1,8 @@
-Planet: OM-MA
+Moon: OM-MA
 Starmap index: 16
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. ONLY A

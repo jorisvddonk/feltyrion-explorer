@@ -1,3 +1,5 @@
-Planet: CRAWFURD
+Moon: CRAWFURD
 Starmap index: 27
 Paris coordinates: -24912560, -17163490, 38675244
+Orbits: RAFFLES
+Moon id: 1

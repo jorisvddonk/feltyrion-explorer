@@ -1,6 +1,8 @@
-Planet: ARALON E
+Moon: ARALON E
 Starmap index: 28
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 4
 
 Guide entries:
 AIRLESS, PALE WHITE, LARGE CRATERS. (SCHMERM 6011 584.201)

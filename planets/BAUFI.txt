@@ -1,6 +1,8 @@
-Planet: BAUFI
+Moon: BAUFI
 Starmap index: 08
 Paris coordinates: 5482832, 5821092, 328552
+Orbits: KOEGLOW
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATE PURPLE

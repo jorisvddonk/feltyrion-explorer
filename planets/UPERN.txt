@@ -1,6 +1,8 @@
-Planet: UPERN
+Moon: UPERN
 Starmap index: 08
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. ONE LARGE

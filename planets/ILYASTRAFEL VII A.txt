@@ -1,3 +1,5 @@
-Planet: ILYASTRAFEL VII A
+Moon: ILYASTRAFEL VII A
 Starmap index: 12
 Paris coordinates: -187856, 83432, 427
+Orbits: ILYASTRAFEL VII
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: AUMESAS
+Moon: AUMESAS
 Starmap index: 04
 Paris coordinates: -185008, 1137954, 2105182
+Orbits: ATMOSPHERIC ORB
+Moon id: 1
 
 Guide entries:
 CREASED, DUSTY. SLIGHTLY GOLD-ISH COLOURED SURFACE. RYAN GJK E6011.803      

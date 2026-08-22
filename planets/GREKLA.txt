@@ -1,6 +1,8 @@
-Planet: GREKLA
+Moon: GREKLA
 Starmap index: 29
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 10
 
 Guide entries:
 *SEVENTH* PLANET OF IT'S KIND!

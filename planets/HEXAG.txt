@@ -1,3 +1,5 @@
-Planet: HEXAG
+Moon: HEXAG
 Starmap index: 08
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: IUAERIAN
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.8
+Moon: GRANTED WISH 7.8
 Starmap index: 27
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 7
 
 Guide entries:
 VERY SIMILAR TO 7.7, IN FACT IT'S EVEN BRIGHTER. I WOULDN'T                 

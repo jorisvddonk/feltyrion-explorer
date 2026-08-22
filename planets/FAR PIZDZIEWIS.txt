@@ -1,3 +1,5 @@
-Planet: FAR PIZDZIEWIS
+Moon: FAR PIZDZIEWIS
 Starmap index: 39
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: JB 94
+Moon id: 15

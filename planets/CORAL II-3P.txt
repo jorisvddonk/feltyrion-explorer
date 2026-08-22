@@ -1,6 +1,8 @@
-Planet: CORAL II-3P
+Moon: CORAL II-3P
 Starmap index: 36
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-3
+Moon id: 15
 
 Guide entries:
 A FELISIAN WORLD- AT 347.60 IT WAS FLAT AND BARREN. AT 354.47 IT

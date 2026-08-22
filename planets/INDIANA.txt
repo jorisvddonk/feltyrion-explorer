@@ -1,6 +1,8 @@
-Planet: INDIANA
+Moon: INDIANA
 Starmap index: 15
 Paris coordinates: -3539280, 1680833, 2227697
+Orbits: SARI
+Moon id: 4
 
 Guide entries:
 5TH MOON OF 8TH PLANET IN PELLUCIDAR SYSTEM. FELISIAN

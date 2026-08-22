@@ -1,6 +1,8 @@
-Planet: BETWEEN THE FLARES
+Moon: BETWEEN THE FLARES
 Starmap index: 19
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 11
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK,

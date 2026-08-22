@@ -1,3 +1,5 @@
-Planet: REKUREKURE 36
+Moon: REKUREKURE 36
 Starmap index: 28
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: LARNERIDGES
+Moon id: 8

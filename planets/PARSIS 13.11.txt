@@ -1,6 +1,8 @@
-Planet: PARSIS 13.11
+Moon: PARSIS 13.11
 Starmap index: 67
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 10
 
 Guide entries:
  ICY, COLD. BORING. PLANETOID.

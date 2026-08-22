@@ -1,6 +1,8 @@
-Planet: YIZANE
+Moon: YIZANE
 Starmap index: 41
 Paris coordinates: -1128560, -539771, -1463575
+Orbits: ZARA 14
+Moon id: 0
 
 Guide entries:
 ZARA 01/14

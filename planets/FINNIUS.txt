@@ -1,6 +1,8 @@
-Planet: FINNIUS
+Moon: FINNIUS
 Starmap index: 16
 Paris coordinates: 4855696, 4327844, -667718
+Orbits: CLYOD
+Moon id: 0
 
 Guide entries:
 MOON #1 OF THE PLANET CLYOD. DUSTY AND CRATERIZED.(NOTES BY SERAXIS)        

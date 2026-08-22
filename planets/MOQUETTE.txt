@@ -1,6 +1,8 @@
-Planet: MOQUETTE
+Moon: MOQUETTE
 Starmap index: 10
 Paris coordinates: -222864, 4125508, 1855459
+Orbits: CRI DE COEUR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY OLD AND NEW

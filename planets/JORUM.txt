@@ -1,6 +1,8 @@
-Planet: JORUM
+Moon: JORUM
 Starmap index: 24
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: BRUSQUE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FINE LARGE HIGHLY

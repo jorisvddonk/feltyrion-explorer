@@ -1,6 +1,8 @@
-Planet: KAVAN
+Moon: KAVAN
 Starmap index: 18
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 8
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. THE CLOUDS ARE HIGHLY

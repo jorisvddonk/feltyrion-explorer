@@ -1,3 +1,5 @@
-Planet: SON O'VEETHERTHIL
+Moon: SON O'VEETHERTHIL
 Starmap index: 12
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: TOMB O'PRAPELLPINI
+Moon id: 1

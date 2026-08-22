@@ -1,6 +1,8 @@
-Planet: CRATERED
+Moon: CRATERED
 Starmap index: 06
 Paris coordinates: 521776, -3104039, 1871586
+Orbits: BUMPAE
+Moon id: 0
 
 Guide entries:
 A MOON WITH LOTS OF HUGE CRATERS THAT CAN BE SEENFROM SPACE. CHECK          

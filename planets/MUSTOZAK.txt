@@ -1,3 +1,5 @@
-Planet: MUSTOZAK
+Moon: MUSTOZAK
 Starmap index: 24
 Paris coordinates: 81072, -77486, -118953
+Orbits: MJIDLOS
+Moon id: 1

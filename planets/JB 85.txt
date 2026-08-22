@@ -1,3 +1,5 @@
-Planet: JB 85
+Moon: JB 85
 Starmap index: 64
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: GRUPA 6 C
+Moon id: 17

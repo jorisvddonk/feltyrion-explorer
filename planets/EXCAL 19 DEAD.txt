@@ -1,3 +1,5 @@
-Planet: EXCAL 19 DEAD
+Moon: EXCAL 19 DEAD
 Starmap index: 30
 Paris coordinates: -174288, 9638409, 793201
+Orbits: EXCALIBRE
+Moon id: 18

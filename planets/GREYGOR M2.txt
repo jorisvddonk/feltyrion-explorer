@@ -1,6 +1,8 @@
-Planet: GREYGOR M2
+Moon: GREYGOR M2
 Starmap index: 11
 Paris coordinates: -18928, 229680, -137040
+Orbits: GREYGOR
+Moon id: 1
 
 Guide entries:
 SMALL SOLID THIN ATMOSPHERE (KRUSTY 6011.599.593

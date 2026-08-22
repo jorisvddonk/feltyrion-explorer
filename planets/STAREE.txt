@@ -1,6 +1,8 @@
-Planet: STAREE
+Moon: STAREE
 Starmap index: 11
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 4
 
 Guide entries:
 A QUARTZ MOON, THE FIFTH OF THE THIRD PLANET. COLORS RANGE FROM YELLOW

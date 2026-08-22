@@ -1,6 +1,8 @@
-Planet: OPBOKKEN
+Moon: OPBOKKEN
 Starmap index: 15
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 4
 
 Guide entries:
 THIN ATMOSPHERE, ROUGH AND UNEVEN TERRAIN.

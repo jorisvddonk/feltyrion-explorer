@@ -1,6 +1,8 @@
-Planet: BLICER
+Moon: BLICER
 Starmap index: 34
 Paris coordinates: -3251760, -55767, -2466093
+Orbits: MAYIS 04
+Moon id: 8
 
 Guide entries:
 MAYIS 09/04; FELISIAN

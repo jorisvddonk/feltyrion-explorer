@@ -1,3 +1,5 @@
-Planet: EL ADRELL
+Moon: EL ADRELL
 Starmap index: 10
 Paris coordinates: 6719600, 6438096, 3202274
+Orbits: planet index 03
+Moon id: 3

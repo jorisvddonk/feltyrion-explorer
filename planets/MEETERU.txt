@@ -1,3 +1,5 @@
-Planet: MEETERU
+Moon: MEETERU
 Starmap index: 28
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: TETSUROU
+Moon id: 0

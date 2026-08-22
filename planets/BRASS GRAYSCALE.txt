@@ -1,6 +1,8 @@
-Planet: BRASS GRAYSCALE
+Moon: BRASS GRAYSCALE
 Starmap index: 17
 Paris coordinates: -1425456112, 2129157, 1434927061
+Orbits: planet index 05
+Moon id: 2
 
 Guide entries:
 THIN-AT, BONNY POLAR CAPS, FAIR REFLECTIVITY. RYAN GJK E6011                

@@ -1,3 +1,5 @@
-Planet: HOVA
+Moon: HOVA
 Starmap index: 20
 Paris coordinates: 4187856, 4758060, -3857377
+Orbits: EMM
+Moon id: 4

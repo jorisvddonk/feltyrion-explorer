@@ -1,6 +1,8 @@
-Planet: PURNIA
+Moon: PURNIA
 Starmap index: 29
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 5
 
 Guide entries:
 DARK PLANET, SURFACE AREA IS SPOOKY PURPLE COLOR. LARGELY FEATURELESS

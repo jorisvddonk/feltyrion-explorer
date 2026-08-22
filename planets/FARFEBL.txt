@@ -1,6 +1,8 @@
-Planet: FARFEBL
+Moon: FARFEBL
 Starmap index: 42
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 1
 
 Guide entries:
 FAR AWAY, BLUE FELISIAN PLANET.

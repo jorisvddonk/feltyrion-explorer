@@ -1,3 +1,5 @@
-Planet: TALLI
+Moon: TALLI
 Starmap index: 11
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: MANNING
+Moon id: 3

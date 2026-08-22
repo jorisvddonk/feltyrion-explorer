@@ -1,3 +1,5 @@
-Planet: YELL3A
+Moon: YELL3A
 Starmap index: 05
 Paris coordinates: 3887856, 4324641, -3534520
+Orbits: YELL3
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: GODESS' SIGH
+Moon: GODESS' SIGH
 Starmap index: 12
 Paris coordinates: 918928, -67261658, -687914
+Orbits: ELMSLEY
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY JAFO. EPOC 6011:584:315

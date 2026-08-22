@@ -1,6 +1,8 @@
-Planet: THE FORGOTTEN KING
+Moon: THE FORGOTTEN KING
 Starmap index: 17
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: NADIR
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF NADIR, A FELISIAN PLANET WITH BREATHABLE

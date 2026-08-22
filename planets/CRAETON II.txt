@@ -1,6 +1,8 @@
-Planet: CRAETON II
+Moon: CRAETON II
 Starmap index: 21
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: CRAETON
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY NEURONWAKE EPOC 6011 802.531.530                              

@@ -1,3 +1,5 @@
-Planet: LAVA
+Moon: LAVA
 Starmap index: 15
 Paris coordinates: 3890704, 4420850, -1491247
+Orbits: BIG BURGER
+Moon id: 7

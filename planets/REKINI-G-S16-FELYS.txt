@@ -1,3 +1,5 @@
-Planet: REKINI-G-S16-FELYS
+Moon: REKINI-G-S16-FELYS
 Starmap index: 34
 Paris coordinates: 164656, -54848, -2929708
+Orbits: REKINI-G
+Moon id: 15

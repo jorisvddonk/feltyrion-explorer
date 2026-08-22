@@ -1,3 +1,5 @@
-Planet: JANGL
+Moon: JANGL
 Starmap index: 08
 Paris coordinates: 3666416, 4676784, -623993
+Orbits: JUNTAD
+Moon id: 1

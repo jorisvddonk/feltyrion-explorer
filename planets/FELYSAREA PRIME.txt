@@ -1,6 +1,8 @@
-Planet: FELYSAREA PRIME
+Moon: FELYSAREA PRIME
 Starmap index: 25
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: JB 101
+Moon id: 12
 
 Guide entries:
 PLANET DISCOVERED BY MCWGOGS EPOC 6011.639.783. FELYSIAN, MOON #13.

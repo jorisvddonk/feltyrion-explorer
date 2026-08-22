@@ -1,6 +1,8 @@
-Planet: INFERIS
+Moon: INFERIS
 Starmap index: 11
 Paris coordinates: -325712, 361387, -164300
+Orbits: ROJOSOL V
+Moon id: 0
 
 Guide entries:
 EXPLORED BY RAZORWINGS18 (566.456.840 E6011).

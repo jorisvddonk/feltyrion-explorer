@@ -1,6 +1,8 @@
-Planet: PARSIS 11.9
+Moon: PARSIS 11.9
 Starmap index: 51
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 8
 
 Guide entries:
  YET ANOTHER ICY WORLD, SMOOTH SURFACE.

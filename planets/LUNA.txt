@@ -1,6 +1,8 @@
-Planet: LUNA
+Moon: LUNA
 Starmap index: 08
 Paris coordinates: 3466416, 4540059, -395069
+Orbits: ZANDIMUS
+Moon id: 1
 
 Guide entries:
 LOOKS ALOT LIKE OUR MOON.YUP...NOTHING I HAVENT SEEN...

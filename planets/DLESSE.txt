@@ -1,6 +1,8 @@
-Planet: DLESSE
+Moon: DLESSE
 Starmap index: 33
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED AND VERY

@@ -1,6 +1,8 @@
-Planet: DARD
+Moon: DARD
 Starmap index: 19
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: VYSTIAG
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. EXTREMELY DARK WITH ONLY VERY SLIGHT

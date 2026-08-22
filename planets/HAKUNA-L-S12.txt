@@ -1,3 +1,5 @@
-Planet: HAKUNA-L-S12
+Moon: HAKUNA-L-S12
 Starmap index: 71
 Paris coordinates: 264656, 999491, -3130269
+Orbits: HAKUNA-L
+Moon id: 11

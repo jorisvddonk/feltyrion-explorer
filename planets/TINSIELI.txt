@@ -1,3 +1,5 @@
-Planet: TINSIELI
+Moon: TINSIELI
 Starmap index: 12
 Paris coordinates: 4762480, 4256213, -23545
+Orbits: ARIOUS-X
+Moon id: 0

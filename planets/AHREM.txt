@@ -1,6 +1,8 @@
-Planet: AHREM
+Moon: AHREM
 Starmap index: 23
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 12
 
 Guide entries:
 HABITABLE MOON WITH WATER, WEATHER SYSTEMS AND FLORA. POSSIBLE FAUNA.

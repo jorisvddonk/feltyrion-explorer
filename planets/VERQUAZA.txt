@@ -1,6 +1,8 @@
-Planet: VERQUAZA
+Moon: VERQUAZA
 Starmap index: 17
 Paris coordinates: 1063568, 4731018, -338793
+Orbits: POOBODO
+Moon id: 4
 
 Guide entries:
  BREATHABLE ATMOSPHERE, LIFE PRESENT, WATER PRESENT (FROZEN)

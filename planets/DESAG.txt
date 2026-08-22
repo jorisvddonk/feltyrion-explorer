@@ -1,6 +1,8 @@
-Planet: DESAG
+Moon: DESAG
 Starmap index: 09
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT B
+Moon id: 0
 
 Guide entries:
 VERY INTERESTING, PINK TO PURPLE FROM SPACE. EQUATORIAL REGIONS ARE A

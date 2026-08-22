@@ -1,6 +1,8 @@
-Planet: GREY CLOUDS
+Moon: GREY CLOUDS
 Starmap index: 75
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: JEALOUS MINISTAR
+Moon id: 6
 
 Guide entries:
 CLOUD-COVERED MOON ORBITING JEALOUS MINISTAR ON EKA24. --EKA

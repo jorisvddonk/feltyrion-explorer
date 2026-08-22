@@ -1,3 +1,5 @@
-Planet: RUCIO
+Moon: RUCIO
 Starmap index: 45
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 1

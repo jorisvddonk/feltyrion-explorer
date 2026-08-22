@@ -1,6 +1,8 @@
-Planet: DUNKEL
+Moon: DUNKEL
 Starmap index: 48
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: DOBO
+Moon id: 0
 
 Guide entries:
 SEEMS LIKE A DARK AND COLDPLACE, BUT SUPRISINGLY SUPPORTS LIFE

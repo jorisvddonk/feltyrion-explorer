@@ -1,3 +1,5 @@
-Planet: FGREAM
+Moon: FGREAM
 Starmap index: 27
 Paris coordinates: 1624624, 31139792, 2797652
+Orbits: WREASE
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: TRISNI
+Moon: TRISNI
 Starmap index: 34
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: IAVEN
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:574.

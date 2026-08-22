@@ -1,6 +1,8 @@
-Planet: VENS
+Moon: VENS
 Starmap index: 41
 Paris coordinates: -3251760, -55767, -2466093
+Orbits: MAYIS 04
+Moon id: 15
 
 Guide entries:
 MAYIS 16/04; FELISIAN

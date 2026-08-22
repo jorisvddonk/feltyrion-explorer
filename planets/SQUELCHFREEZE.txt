@@ -1,6 +1,8 @@
-Planet: SQUELCHFREEZE
+Moon: SQUELCHFREEZE
 Starmap index: 14
 Paris coordinates: 381072, 1932089, -429498
+Orbits: TOROIDAL ECLIPSE
+Moon id: 1
 
 Guide entries:
 GREENISH POLAR CAPS, BROWNISH APPEARANCE FROM ORBIT. NAMED BY               

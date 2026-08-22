@@ -1,6 +1,8 @@
-Planet: BALAAN
+Moon: BALAAN
 Starmap index: 77
 Paris coordinates: -1323161232, -1306991, -1179428207
+Orbits: SOKUN 8
+Moon id: 2
 
 Guide entries:
 SOKUN 03/08; FELISIAN

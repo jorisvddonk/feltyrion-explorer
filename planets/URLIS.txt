@@ -1,6 +1,8 @@
-Planet: URLIS
+Moon: URLIS
 Starmap index: 33
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CLAS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE WITHOUT MUCH

@@ -1,3 +1,5 @@
-Planet: ICICLE BONE
+Moon: ICICLE BONE
 Starmap index: 70
 Paris coordinates: 9837776, 8235999, 8907617
+Orbits: ASKEW 20L
+Moon id: 1

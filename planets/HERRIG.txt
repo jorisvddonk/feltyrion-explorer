@@ -1,3 +1,5 @@
-Planet: HERRIG
+Moon: HERRIG
 Starmap index: 46
 Paris coordinates: 2879984, 4786591, 805414
+Orbits: PAL TWEL
+Moon id: 0

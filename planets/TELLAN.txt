@@ -1,6 +1,8 @@
-Planet: TELLAN
+Moon: TELLAN
 Starmap index: 21
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 7
 
 Guide entries:
 MOON #8 OF THE SEVENTH PLANET, MEGAVENE. FELISIAN. VERY DARK.               

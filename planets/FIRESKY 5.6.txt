@@ -1,6 +1,8 @@
-Planet: FIRESKY 5.6
+Moon: FIRESKY 5.6
 Starmap index: 35
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 5
+Moon id: 5
 
 Guide entries:
 SMALL BODY WITH TENUOUS ATMOSPHERE, EXTREMELY DARK. SERPENS,

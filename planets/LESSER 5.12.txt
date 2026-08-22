@@ -1,6 +1,8 @@
-Planet: LESSER 5.12
+Moon: LESSER 5.12
 Starmap index: 18
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 11
 
 Guide entries:
 BACK TO THE ICE - ANOTHER FROZEN SOLID MOON. SERPENS, 6011 665.932

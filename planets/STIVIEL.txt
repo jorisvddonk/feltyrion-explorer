@@ -1,6 +1,8 @@
-Planet: STIVIEL
+Moon: STIVIEL
 Starmap index: 39
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 13
 
 Guide entries:
 A BEAUTIFUL GAS GIANT THAT IS A MOON. NO APPARENT RINGS.

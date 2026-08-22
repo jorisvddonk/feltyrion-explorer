@@ -1,6 +1,8 @@
-Planet: SID
+Moon: SID
 Starmap index: 18
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: NADIR
+Moon id: 4
 
 Guide entries:
 THE FIFTH MOON OF NADIR, LARGE INCONSISTENT SURFACE, COVERED WITH CLOUDS.

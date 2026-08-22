@@ -1,6 +1,8 @@
-Planet: DORSUM
+Moon: DORSUM
 Starmap index: 14
 Paris coordinates: 3797488, 4355365, -1030058
+Orbits: RENTAL UNIT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT VISIBILITY OF POLAR

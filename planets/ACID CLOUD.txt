@@ -1,3 +1,5 @@
-Planet: ACID CLOUD
+Moon: ACID CLOUD
 Starmap index: 07
 Paris coordinates: 3621776, 4593277, -1283613
+Orbits: QUADSTAR GAMMA
+Moon id: 0

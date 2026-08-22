@@ -1,6 +1,8 @@
-Planet: PAUVRO
+Moon: PAUVRO
 Starmap index: 16
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 5
 
 Guide entries:
 A PURPLE THINWORLD. HAS POLAR CAPS. SURFACE IS BROWNISH.

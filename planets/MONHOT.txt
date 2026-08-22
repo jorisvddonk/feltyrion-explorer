@@ -1,3 +1,5 @@
-Planet: MONHOT
+Moon: MONHOT
 Starmap index: 05
 Paris coordinates: 1485008, 4177919, -3294996
+Orbits: GRENYEL
+Moon id: 0

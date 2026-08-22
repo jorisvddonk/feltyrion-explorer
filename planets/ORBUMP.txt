@@ -1,6 +1,8 @@
-Planet: ORBUMP
+Moon: ORBUMP
 Starmap index: 20
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: TWONE
+Moon id: 7
 
 Guide entries:
 AN AVERAGE ROCKY PLANET, ITS COLORS RANGE FROM ORANGE, STRAW, GRAY, AND

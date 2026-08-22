@@ -1,6 +1,8 @@
-Planet: BIREETS
+Moon: BIREETS
 Starmap index: 08
 Paris coordinates: 287856, -62820, 77351
+Orbits: GEENETEN
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE THIRD PLANET. SURPRISINGLY BRIGHT THIN ATMO

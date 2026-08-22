@@ -1,6 +1,8 @@
-Planet: GLOOMY PEON
+Moon: GLOOMY PEON
 Starmap index: 13
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: DESPOTIC POWER
+Moon id: 0
 
 Guide entries:
 THIS CLOUD-COVERED MOON OF DESPOTIC POWER ON EKA29 HAS A DULL

@@ -1,3 +1,5 @@
-Planet: GUWUN DNA
+Moon: GUWUN DNA
 Starmap index: 25
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: GFUT
+Moon id: 6

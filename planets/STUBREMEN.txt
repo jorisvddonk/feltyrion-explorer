@@ -1,3 +1,5 @@
-Planet: STUBREMEN
+Moon: STUBREMEN
 Starmap index: 14
 Paris coordinates: 514992, 473485, 1377492
+Orbits: JANIZWALD
+Moon id: 0

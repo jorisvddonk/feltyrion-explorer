@@ -1,3 +1,5 @@
-Planet: KRUSPE
+Moon: KRUSPE
 Starmap index: 17
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: SACRATAR
+Moon id: 0

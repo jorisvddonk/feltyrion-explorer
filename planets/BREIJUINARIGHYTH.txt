@@ -1,3 +1,5 @@
-Planet: BREIJUINARIGHYTH
+Moon: BREIJUINARIGHYTH
 Starmap index: 11
 Paris coordinates: 58564272, -34151242, 927662134
+Orbits: REYEWNGAERGYHUHN
+Moon id: 1

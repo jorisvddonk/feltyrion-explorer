@@ -1,6 +1,8 @@
-Planet: ERYMOVI
+Moon: ERYMOVI
 Starmap index: 04
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 0
 
 Guide entries:
 M01/P03 MEDIUM SIZE INTERNALLY HOT UNSTABLE. LIGHT BROWN WITH GLOWY         

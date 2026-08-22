@@ -1,3 +1,5 @@
-Planet: VOILETARENESTIS
+Moon: VOILETARENESTIS
 Starmap index: 09
 Paris coordinates: -61232592, 29255171, 664579
+Orbits: JB 99
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: SERGEIOV D6
+Moon: SERGEIOV D6
 Starmap index: 27
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV D
+Moon id: 5

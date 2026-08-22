@@ -1,6 +1,8 @@
-Planet: DEMIHUAERIAN
+Moon: DEMIHUAERIAN
 Starmap index: 39
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: HUAERIAN
+Moon id: 3
 
 Guide entries:
 IT PROBABLY DIDN'T BECOME A STAR BECAUSE OF THE PROXIMITY

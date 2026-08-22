@@ -1,3 +1,5 @@
-Planet: TIUNKKI
+Moon: TIUNKKI
 Starmap index: 18
 Paris coordinates: 4073200, 5702744, -580029
+Orbits: CROAKUS
+Moon id: 0

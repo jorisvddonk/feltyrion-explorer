@@ -1,6 +1,8 @@
-Planet: OCTOT
+Moon: OCTOT
 Starmap index: 18
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: ERESK
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

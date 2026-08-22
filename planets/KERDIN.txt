@@ -1,3 +1,5 @@
-Planet: KERDIN
+Moon: KERDIN
 Starmap index: 07
 Paris coordinates: 3666416, 4676784, -623993
+Orbits: JUNTAD
+Moon id: 0

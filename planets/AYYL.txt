@@ -1,6 +1,8 @@
-Planet: AYYL
+Moon: AYYL
 Starmap index: 04
 Paris coordinates: 1240653520, -1671112, -134800
+Orbits: KHAASIS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATE VIOLET REFLECTIVITY,

@@ -1,6 +1,8 @@
-Planet: LUMINANCE 10
+Moon: LUMINANCE 10
 Starmap index: 10
 Paris coordinates: -425712, 797215, -142477
+Orbits: planet index 05
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.059.85)

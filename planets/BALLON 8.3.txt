@@ -1,6 +1,8 @@
-Planet: BALLON 8.3
+Moon: BALLON 8.3
 Starmap index: 40
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 8
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, AS COULD BE EXPECTED. OF COURSE, IT'S ALSO             

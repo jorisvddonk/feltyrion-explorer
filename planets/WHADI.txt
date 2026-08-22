@@ -1,6 +1,8 @@
-Planet: WHADI
+Moon: WHADI
 Starmap index: 33
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: DRACERTON
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREEN REFLECTIVITY

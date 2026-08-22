@@ -1,6 +1,8 @@
-Planet: QOUIR 7.9
+Moon: QOUIR 7.9
 Starmap index: 22
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 8
 
 Guide entries:
  THE SECOND FELISIAN FAR-MOON, AND THE THIRD FELISIAN WORLD IN THIS

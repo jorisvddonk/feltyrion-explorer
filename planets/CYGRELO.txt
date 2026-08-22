@@ -1,6 +1,8 @@
-Planet: CYGRELO
+Moon: CYGRELO
 Starmap index: 18
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 10
 
 Guide entries:
 ELEVENTH MOON OF THE THIRD PLANET, AVERAGE DUSTY MOON. GREENISH COLORS

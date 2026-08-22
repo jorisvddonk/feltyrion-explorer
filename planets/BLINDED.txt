@@ -1,6 +1,8 @@
-Planet: BLINDED
+Moon: BLINDED
 Starmap index: 09
 Paris coordinates: -1532496, -973713, 623217
+Orbits: BLINDME
+Moon id: 0
 
 Guide entries:
 VERY SIMILAR TO ITS PARENT PLANET 'BLINDME'.

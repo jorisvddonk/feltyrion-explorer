@@ -1,3 +1,5 @@
-Planet: SERGEIOV H1
+Moon: SERGEIOV H1
 Starmap index: 55
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV H
+Moon id: 0

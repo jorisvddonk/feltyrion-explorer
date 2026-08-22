@@ -1,3 +1,5 @@
-Planet: GASELINIS
+Moon: GASELINIS
 Starmap index: 15
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: JB 104
+Moon id: 2

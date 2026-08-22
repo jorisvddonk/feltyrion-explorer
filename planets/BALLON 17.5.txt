@@ -1,6 +1,8 @@
-Planet: BALLON 17.5
+Moon: BALLON 17.5
 Starmap index: 53
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 4
 
 Guide entries:
 FIFTH MOON, AGAIN SMALL, SOLID, ICY, AND AGAIN A SPLENDID WORLD.            

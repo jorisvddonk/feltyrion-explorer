@@ -1,6 +1,8 @@
-Planet: FEDAR
+Moon: FEDAR
 Starmap index: 76
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 13
 
 Guide entries:
 DARK AND FEATURELESS, NICE MOUNTAIN AT 292:60.

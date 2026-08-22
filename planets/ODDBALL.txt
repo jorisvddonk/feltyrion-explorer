@@ -1,6 +1,8 @@
-Planet: ODDBALL
+Moon: ODDBALL
 Starmap index: 41
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 10
 
 Guide entries:
 HUH? WHAT DO WE HAVE HERE!? IT IS A GAS GIANT MOON OF ANOTHER GAS

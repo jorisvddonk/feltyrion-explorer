@@ -1,3 +1,5 @@
-Planet: ARCUREIN FEAER
+Moon: ARCUREIN FEAER
 Starmap index: 14
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: ARCUREIN WEREING
+Moon id: 3

@@ -1,3 +1,5 @@
-Planet: RUFE M3
+Moon: RUFE M3
 Starmap index: 14
 Paris coordinates: -18928, 229680, -137040
+Orbits: RUFE
+Moon id: 2

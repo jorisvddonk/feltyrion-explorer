@@ -1,3 +1,5 @@
-Planet: CHANIA-E-S13-FELYS
+Moon: CHANIA-E-S13-FELYS
 Starmap index: 24
 Paris coordinates: 4198576, 4521282, -5157453
+Orbits: CHANIA-E
+Moon id: 12

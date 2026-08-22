@@ -1,6 +1,8 @@
-Planet: TUMAD
+Moon: TUMAD
 Starmap index: 10
 Paris coordinates: 3408208, 420650, -1856116
+Orbits: RINI 3
+Moon id: 5
 
 Guide entries:
 CLOUDY; GREEN/GREY.

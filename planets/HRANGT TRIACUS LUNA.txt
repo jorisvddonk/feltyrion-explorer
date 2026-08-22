@@ -1,3 +1,5 @@
-Planet: HRANGT TRIACUS LUNA
+Moon: HRANGT TRIACUS LUNA
 Starmap index: 04
 Paris coordinates: 1399452080, 1954159, 1400247391
+Orbits: HRANGT TRIACUS
+Moon id: 0

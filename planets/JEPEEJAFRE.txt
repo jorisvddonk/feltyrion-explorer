@@ -1,3 +1,5 @@
-Planet: JEPEEJAFRE
+Moon: JEPEEJAFRE
 Starmap index: 28
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 11

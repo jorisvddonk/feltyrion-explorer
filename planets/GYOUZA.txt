@@ -1,3 +1,5 @@
-Planet: GYOUZA
+Moon: GYOUZA
 Starmap index: 37
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: TETSUROU
+Moon id: 9

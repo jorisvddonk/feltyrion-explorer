@@ -1,3 +1,5 @@
-Planet: BLUE
+Moon: BLUE
 Starmap index: 20
 Paris coordinates: -6938864, 2960203, -7654858
+Orbits: planet index 07
+Moon id: 7

@@ -1,6 +1,8 @@
-Planet: UNEIRA
+Moon: UNEIRA
 Starmap index: 23
 Paris coordinates: 110452016, 2866735, -81408987
+Orbits: NEHALEM 7
+Moon id: 8
 
 Guide entries:
 GREEN GROUND, TEAL OCEANS, NAVY BLUE SKIES

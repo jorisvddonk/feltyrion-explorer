@@ -1,3 +1,5 @@
-Planet: NITRO
+Moon: NITRO
 Starmap index: 30
 Paris coordinates: 70352, 945533, 1134813
+Orbits: TRILAR
+Moon id: 14

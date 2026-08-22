@@ -1,6 +1,8 @@
-Planet: FELIDARK
+Moon: FELIDARK
 Starmap index: 41
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: MANMUNE
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.269.961

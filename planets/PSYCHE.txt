@@ -1,3 +1,5 @@
-Planet: PSYCHE
+Moon: PSYCHE
 Starmap index: 17
 Paris coordinates: 3452848, 5214008, -1380561
+Orbits: PHOS
+Moon id: 1

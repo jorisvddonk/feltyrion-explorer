@@ -1,3 +1,5 @@
-Planet: RYSH
+Moon: RYSH
 Starmap index: 21
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: FELFARIS
+Moon id: 1

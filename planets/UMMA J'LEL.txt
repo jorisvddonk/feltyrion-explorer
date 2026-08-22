@@ -1,3 +1,5 @@
-Planet: UMMA J'LEL
+Moon: UMMA J'LEL
 Starmap index: 15
 Paris coordinates: 5425712, 8286779, -4787371
+Orbits: UMMA 3
+Moon id: 11

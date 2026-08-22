@@ -1,6 +1,8 @@
-Planet: WONDER A
+Moon: WONDER A
 Starmap index: 30
 Paris coordinates: 3177136, 5238663, -1391711
+Orbits: QUARAN
+Moon id: 10
 
 Guide entries:
  PLANET FOUND BY STARDRIFTER FRACTUS, EPOC 6011:573.75.

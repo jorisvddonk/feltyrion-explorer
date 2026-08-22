@@ -1,6 +1,8 @@
-Planet: SYCHAS
+Moon: SYCHAS
 Starmap index: 14
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: STEX
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. DUSTY

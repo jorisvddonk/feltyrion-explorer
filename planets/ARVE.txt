@@ -1,6 +1,8 @@
-Planet: ARVE
+Moon: ARVE
 Starmap index: 30
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, CONSIDERABLY DARK, GOOD POLAR CAPS.

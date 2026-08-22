@@ -1,3 +1,5 @@
-Planet: CUSTOMER COPY
+Moon: CUSTOMER COPY
 Starmap index: 03
 Paris coordinates: 2305360, 4296051, -2854289
+Orbits: FILE COPY
+Moon id: 0

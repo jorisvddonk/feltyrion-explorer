@@ -1,6 +1,8 @@
-Planet: CUORROSA
+Moon: CUORROSA
 Starmap index: 12
 Paris coordinates: 1353936, 4952744, -3128537
+Orbits: DESIRROSA
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.643.664                           

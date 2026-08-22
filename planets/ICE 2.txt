@@ -1,3 +1,5 @@
-Planet: ICE 2
+Moon: ICE 2
 Starmap index: 39
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZEBES
+Moon id: 9

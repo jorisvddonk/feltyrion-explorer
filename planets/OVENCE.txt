@@ -1,6 +1,8 @@
-Planet: OVENCE
+Moon: OVENCE
 Starmap index: 13
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT B
+Moon id: 4
 
 Guide entries:
 PRETTY COOL TO LOOK AT THIS INTERNALLY HOT PLANET, BUT NOTHING ELSE TO

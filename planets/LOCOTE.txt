@@ -1,6 +1,8 @@
-Planet: LOCOTE
+Moon: LOCOTE
 Starmap index: 17
 Paris coordinates: 3521776, 4359539, -1148567
+Orbits: ILLUSION
+Moon id: 0
 
 Guide entries:
 THIS CLOUD-COVERED MOON HAS AN INCREDIBLE SIGHT AT COORDS 000:060

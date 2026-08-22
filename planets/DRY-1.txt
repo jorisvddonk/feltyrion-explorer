@@ -1,6 +1,8 @@
-Planet: DRY-1
+Moon: DRY-1
 Starmap index: 38
 Paris coordinates: 4177136, 4758332, -2550808
+Orbits: planet index 08
+Moon id: 1
 
 Guide entries:
  FELISIAN DESERT PLANET DISC BYSCAREDY-CAT,EPOC 6011.586.737. MAY BE ONE

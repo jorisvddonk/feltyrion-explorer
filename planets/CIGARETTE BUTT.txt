@@ -1,3 +1,5 @@
-Planet: CIGARETTE BUTT
+Moon: CIGARETTE BUTT
 Starmap index: 13
 Paris coordinates: -71562064, -598009, 53608687
+Orbits: TOBACCO
+Moon id: 0

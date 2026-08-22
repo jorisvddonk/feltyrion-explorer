@@ -1,3 +1,5 @@
-Planet: BRUCHER-E-S9
+Moon: BRUCHER-E-S9
 Starmap index: 27
 Paris coordinates: 3823952, 144991, -9072118
+Orbits: BRUCHER-E
+Moon id: 8

@@ -1,3 +1,5 @@
-Planet: DK6
+Moon: DK6
 Starmap index: 70
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: DAKERDE
+Moon id: 5

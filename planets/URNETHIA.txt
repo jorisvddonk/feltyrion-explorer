@@ -1,6 +1,8 @@
-Planet: URNETHIA
+Moon: URNETHIA
 Starmap index: 27
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 13
 
 Guide entries:
 SMALL THIN ATMOSPHERE WORLD, FGS 0.58, TEMP -24, ATM PRS 0.01, SUN DISC

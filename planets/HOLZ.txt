@@ -1,6 +1,8 @@
-Planet: HOLZ
+Moon: HOLZ
 Starmap index: 07
 Paris coordinates: -801424, -65898, -243734
+Orbits: QUARTOC
+Moon id: 0
 
 Guide entries:
 QUARTOC'S MOON. LOW GRAVITY AND LARGE CRATERS VISIBLE FROM ORBIT.

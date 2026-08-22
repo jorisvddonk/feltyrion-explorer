@@ -1,6 +1,8 @@
-Planet: SLIEL
+Moon: SLIEL
 Starmap index: 04
 Paris coordinates: 7674288, 66747, -7938951
+Orbits: YOQUEEHE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. FAIR AQUA REFLECTIVITY WITH

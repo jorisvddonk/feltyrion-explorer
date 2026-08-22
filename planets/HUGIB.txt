@@ -1,6 +1,8 @@
-Planet: HUGIB
+Moon: HUGIB
 Starmap index: 26
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: BRASSAR
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH AQUA

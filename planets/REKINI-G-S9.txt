@@ -1,3 +1,5 @@
-Planet: REKINI-G-S9
+Moon: REKINI-G-S9
 Starmap index: 27
 Paris coordinates: 164656, -54848, -2929708
+Orbits: REKINI-G
+Moon id: 8

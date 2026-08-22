@@ -1,6 +1,8 @@
-Planet: STUMBLEBUM
+Moon: STUMBLEBUM
 Starmap index: 18
 Paris coordinates: 56784, -50870, 565621
+Orbits: HUT
+Moon id: 6
 
 Guide entries:
  18.144.30.30 IS THE TOP OF A GROUP OF 3 OR 4 PEAKS. I LANDED ON

@@ -1,6 +1,8 @@
-Planet: MAKKINO
+Moon: MAKKINO
 Starmap index: 13
 Paris coordinates: 1274288, 4443493, -1784892
+Orbits: TIAM 3
+Moon id: 6
 
 Guide entries:
 BLUE SKIES, LUSH PLANTS. PLEASANT, EXCEPT FOR THE HEAT

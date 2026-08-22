@@ -1,3 +1,5 @@
-Planet: NIBIWOBAUD
+Moon: NIBIWOBAUD
 Starmap index: 63
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: NUGBOIAOU
+Moon id: 11

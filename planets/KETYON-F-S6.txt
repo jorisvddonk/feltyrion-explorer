@@ -1,3 +1,5 @@
-Planet: KETYON-F-S6
+Moon: KETYON-F-S6
 Starmap index: 18
 Paris coordinates: 3686096, -82057, -9247365
+Orbits: KETYON-F
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: CECRO
+Moon: CECRO
 Starmap index: 19
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: RETYP
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHTLY GROOVED APPEARANCE.

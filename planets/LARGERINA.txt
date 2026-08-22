@@ -1,3 +1,5 @@
-Planet: LARGERINA
+Moon: LARGERINA
 Starmap index: 28
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: MBTP 22
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: KITEVOX
+Moon: KITEVOX
 Starmap index: 08
 Paris coordinates: 1294640, -20820355, -524859
+Orbits: NEK
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: CARNATION PINK
+Moon: CARNATION PINK
 Starmap index: 23
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: RED
+Moon id: 0

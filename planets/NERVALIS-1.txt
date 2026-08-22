@@ -1,3 +1,5 @@
-Planet: NERVALIS-1
+Moon: NERVALIS-1
 Starmap index: 64
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NIDALIS
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: PLANET
+Moon: PLANET
 Starmap index: 45
 Paris coordinates: 712144, 585522, -862630
+Orbits: planet index 09
+Moon id: 0

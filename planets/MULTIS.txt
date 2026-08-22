@@ -1,6 +1,8 @@
-Planet: MULTIS
+Moon: MULTIS
 Starmap index: 06
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT A
+Moon id: 1
 
 Guide entries:
 FELYSIAN MOON, REALLY PRETTY, ESPECIALLY WHEN BOTH STARS ARE IN VIEW.

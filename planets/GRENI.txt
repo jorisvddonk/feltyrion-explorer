@@ -1,6 +1,8 @@
-Planet: GRENI
+Moon: GRENI
 Starmap index: 11
 Paris coordinates: 281744, 1534683, 9315465
+Orbits: FELYI
+Moon id: 0
 
 Guide entries:
 MOON IS RELATIVELY FEATURELESS, GREEN SURFACE, WITH SOME CRATERS,

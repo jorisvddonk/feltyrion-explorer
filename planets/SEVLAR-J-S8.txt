@@ -1,3 +1,5 @@
-Planet: SEVLAR-J-S8
+Moon: SEVLAR-J-S8
 Starmap index: 40
 Paris coordinates: 1116080, 2928478, -3043292
+Orbits: SEVLAR-J
+Moon id: 7

@@ -1,3 +1,5 @@
-Planet: FARUK PHAO
+Moon: FARUK PHAO
 Starmap index: 11
 Paris coordinates: 2718928, 5334162, -2425086
+Orbits: NLG'2873 B
+Moon id: 3

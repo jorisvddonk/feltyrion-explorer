@@ -1,6 +1,8 @@
-Planet: EGHAT
+Moon: EGHAT
 Starmap index: 19
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: ASLAC
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

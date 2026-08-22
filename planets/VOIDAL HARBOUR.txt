@@ -1,6 +1,8 @@
-Planet: VOIDAL HARBOUR
+Moon: VOIDAL HARBOUR
 Starmap index: 17
 Paris coordinates: -1415916496, 1345498, 1431436650
+Orbits: planet index 03
+Moon id: 6
 
 Guide entries:
 ORBITAL OBSERVATIONS REVEAL A WATERY WORLD.                                 

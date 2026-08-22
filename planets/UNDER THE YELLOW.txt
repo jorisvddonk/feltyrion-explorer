@@ -1,6 +1,8 @@
-Planet: UNDER THE YELLOW
+Moon: UNDER THE YELLOW
 Starmap index: 04
 Paris coordinates: -1394640, 5313966, 754093
+Orbits: TORI
+Moon id: 0
 
 Guide entries:
 A VAST BLUE ROCK-PLAIN UNDER AN EERILY YELLOW SKY.

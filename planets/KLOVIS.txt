@@ -1,6 +1,8 @@
-Planet: KLOVIS
+Moon: KLOVIS
 Starmap index: 06
 Paris coordinates: 49355440, 638057, 1979842761
+Orbits: AS12311313A
+Moon id: 0
 
 Guide entries:
 A FAIRLY WARM WORLD WITH A NICE SOUTH-POLE.

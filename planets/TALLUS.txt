@@ -1,6 +1,8 @@
-Planet: TALLUS
+Moon: TALLUS
 Starmap index: 30
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORM

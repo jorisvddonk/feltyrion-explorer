@@ -1,3 +1,5 @@
-Planet: LOVECRAFT
+Moon: LOVECRAFT
 Starmap index: 10
 Paris coordinates: -194640, 6822325, -323763
+Orbits: YUGGOTH
+Moon id: 0

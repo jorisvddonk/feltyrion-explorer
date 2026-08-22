@@ -1,6 +1,8 @@
-Planet: LIQUID METAL
+Moon: LIQUID METAL
 Starmap index: 06
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 0
 
 Guide entries:
 I WAS WONDERING WHAT THIS PLANET REMINDED ME OF, AND I FINALLY

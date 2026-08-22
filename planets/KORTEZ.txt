@@ -1,3 +1,5 @@
-Planet: KORTEZ
+Moon: KORTEZ
 Starmap index: 19
 Paris coordinates: -40368, 5083976, 2470886
+Orbits: FLABER
+Moon id: 2

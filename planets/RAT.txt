@@ -1,6 +1,8 @@
-Planet: RAT
+Moon: RAT
 Starmap index: 24
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: BRON
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.264.89

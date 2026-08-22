@@ -1,6 +1,8 @@
-Planet: EREMITE
+Moon: EREMITE
 Starmap index: 05
 Paris coordinates: 3973200, 4621255, -443356
+Orbits: RELEGATED
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY STRANGE PATTERNS

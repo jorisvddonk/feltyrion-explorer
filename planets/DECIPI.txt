@@ -1,6 +1,8 @@
-Planet: DECIPI
+Moon: DECIPI
 Starmap index: 05
 Paris coordinates: 5968016, 5031694, 39757796
+Orbits: PYROLITEMP
+Moon id: 1
 
 Guide entries:
 ALTHOUGH CYAN FROM SPACE, IT IS REALLY A PINKISH COLOR, TO WHITE.

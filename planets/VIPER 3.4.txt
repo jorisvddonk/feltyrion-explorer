@@ -1,6 +1,8 @@
-Planet: VIPER 3.4
+Moon: VIPER 3.4
 Starmap index: 09
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. HAS A RATHER WEIRD APPEARANCE.

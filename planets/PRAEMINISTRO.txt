@@ -1,6 +1,8 @@
-Planet: PRAEMINISTRO
+Moon: PRAEMINISTRO
 Starmap index: 09
 Paris coordinates: 2040369680, -1613682, -623842
+Orbits: FRAINUT
+Moon id: 3
 
 Guide entries:
 M04/P04 FELISIAN WITH A BETTER COUNTENANCE. AT AT 9.77 AND 24.77            

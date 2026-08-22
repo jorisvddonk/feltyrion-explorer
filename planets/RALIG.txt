@@ -1,6 +1,8 @@
-Planet: RALIG
+Moon: RALIG
 Starmap index: 11
 Paris coordinates: 3563568, 4722361, -2721466
+Orbits: HAPPENSTANCE
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. EXCEEDINGLY REFLECTIVE

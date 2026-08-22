@@ -1,6 +1,8 @@
-Planet: HOPLI
+Moon: HOPLI
 Starmap index: 15
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

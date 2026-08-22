@@ -1,6 +1,8 @@
-Planet: URUL
+Moon: URUL
 Starmap index: 17
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE. ONLY SLIGHTLY LESS NASTY

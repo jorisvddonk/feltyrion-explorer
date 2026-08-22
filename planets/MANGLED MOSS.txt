@@ -1,3 +1,5 @@
-Planet: MANGLED MOSS
+Moon: MANGLED MOSS
 Starmap index: 11
 Paris coordinates: -71893136, -756602, 53977080
+Orbits: BLUE CORAL
+Moon id: 0

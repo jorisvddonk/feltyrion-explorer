@@ -1,6 +1,8 @@
-Planet: GRA-ALFANO
+Moon: GRA-ALFANO
 Starmap index: 53
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MOR-CASAN
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.684.518 -                                

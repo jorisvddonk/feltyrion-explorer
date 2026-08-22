@@ -1,6 +1,8 @@
-Planet: DEDUCT
+Moon: DEDUCT
 Starmap index: 06
 Paris coordinates: 181072, 46421, -227392
+Orbits: SPECIOUS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, THOUGH A LIGHT AREA WAS NOTED

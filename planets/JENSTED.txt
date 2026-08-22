@@ -1,6 +1,8 @@
-Planet: JENSTED
+Moon: JENSTED
 Starmap index: 16
 Paris coordinates: 918928, -67261658, -687914
+Orbits: FORSYTH
+Moon id: 3
 
 Guide entries:
  DISCOVERED BY JAFO. EPOC 6011:584:374

@@ -1,6 +1,8 @@
-Planet: CORAL II-8G
+Moon: CORAL II-8G
 Starmap index: 80
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-8
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

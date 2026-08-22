@@ -1,6 +1,8 @@
-Planet: SOEFA
+Moon: SOEFA
 Starmap index: 21
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: RAUSA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS HIGH TO GOOD

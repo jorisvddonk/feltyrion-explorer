@@ -1,6 +1,8 @@
-Planet: LIFELESS GREEN
+Moon: LIFELESS GREEN
 Starmap index: 08
 Paris coordinates: 521776, -3104039, 1871586
+Orbits: SNOWHOT
+Moon id: 1
 
 Guide entries:
 GREEN, LIFELESS, CRATERED. THE SURFACE ITSELF ISN'T GREEN,                  

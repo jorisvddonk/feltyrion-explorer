@@ -1,3 +1,5 @@
-Planet: BRUCHER-D-S1
+Moon: BRUCHER-D-S1
 Starmap index: 18
 Paris coordinates: 3823952, 144991, -9072118
+Orbits: BRUCHER-D
+Moon id: 0

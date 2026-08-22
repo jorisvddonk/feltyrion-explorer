@@ -1,3 +1,5 @@
-Planet: LAFAYETTE
+Moon: LAFAYETTE
 Starmap index: 07
 Paris coordinates: 381072, 32089, -423081
+Orbits: TYCHO
+Moon id: 0

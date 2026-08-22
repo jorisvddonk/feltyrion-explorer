@@ -1,3 +1,5 @@
-Planet: DEARKMASH
+Moon: DEARKMASH
 Starmap index: 21
 Paris coordinates: 243216, 551201, -480284
+Orbits: NASKO
+Moon id: 13

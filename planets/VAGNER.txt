@@ -1,3 +1,5 @@
-Planet: VAGNER
+Moon: VAGNER
 Starmap index: 11
 Paris coordinates: 1167504, 4837930, -1943668
+Orbits: DESERT RAIN
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: LOFAM ALPHA
+Moon: LOFAM ALPHA
 Starmap index: 50
 Paris coordinates: 612144, 6999853, -833727
+Orbits: LOFAM
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET LOFAM IN THE GENISI SYSTEM

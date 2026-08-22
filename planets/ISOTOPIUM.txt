@@ -1,6 +1,8 @@
-Planet: ISOTOPIUM
+Moon: ISOTOPIUM
 Starmap index: 22
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF FAT VIOLET

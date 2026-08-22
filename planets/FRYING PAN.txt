@@ -1,6 +1,8 @@
-Planet: FRYING PAN
+Moon: FRYING PAN
 Starmap index: 33
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: GLOOM
+Moon id: 1
 
 Guide entries:
 THIS IS EASILY ONE OF THE FLATTEST PLANETS IN THE ENTIRE SYSTEM. IF

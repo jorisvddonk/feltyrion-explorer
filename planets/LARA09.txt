@@ -1,3 +1,5 @@
-Planet: LARA09
+Moon: LARA09
 Starmap index: 63
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: LARANI
+Moon id: 8

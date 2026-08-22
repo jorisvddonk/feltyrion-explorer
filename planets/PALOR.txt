@@ -1,6 +1,8 @@
-Planet: PALOR
+Moon: PALOR
 Starmap index: 05
 Paris coordinates: 1229648, 4810891, -2287914
+Orbits: ISPILU
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY ATTRADIS, EPOC 6011:600.12

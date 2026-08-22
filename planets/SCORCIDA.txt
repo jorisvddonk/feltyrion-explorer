@@ -1,6 +1,8 @@
-Planet: SCORCIDA
+Moon: SCORCIDA
 Starmap index: 32
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 6
 
 Guide entries:
 AN INTERNALLY HOT MOON.

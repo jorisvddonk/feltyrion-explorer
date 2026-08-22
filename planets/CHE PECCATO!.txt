@@ -1,3 +1,5 @@
-Planet: CHE PECCATO!
+Moon: CHE PECCATO!
 Starmap index: 27
 Paris coordinates: 2521776, 5015370, -132554
+Orbits: TRISTE
+Moon id: 0

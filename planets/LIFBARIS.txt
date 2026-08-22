@@ -1,6 +1,8 @@
-Planet: LIFBARIS
+Moon: LIFBARIS
 Starmap index: 06
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 2
 
 Guide entries:
 M03/P04 MEDIUM SIZE, QUARTZ SURFACE, GREEN REFLECTIVITY WITH LIGHT          

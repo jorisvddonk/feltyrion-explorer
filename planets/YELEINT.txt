@@ -1,6 +1,8 @@
-Planet: YELEINT
+Moon: YELEINT
 Starmap index: 33
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: PERPANE
+Moon id: 0
 
 Guide entries:
 A SOMEWHAT INTERESTING DUSTY MOON AROUND THE FIFTH PLANET. THE ONLY

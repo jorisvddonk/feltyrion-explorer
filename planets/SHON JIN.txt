@@ -1,6 +1,8 @@
-Planet: SHON JIN
+Moon: SHON JIN
 Starmap index: 13
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: ANCIENT
+Moon id: 0
 
 Guide entries:
 PLANETOID WITH SEVERAL LARGE CRATERS. INTRESTING TERRAIN IN THE...

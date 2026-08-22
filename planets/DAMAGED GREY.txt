@@ -1,6 +1,8 @@
-Planet: DAMAGED GREY
+Moon: DAMAGED GREY
 Starmap index: 28
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: RED PLAGUE
+Moon id: 3
 
 Guide entries:
 GREY CRATERIZED MOON ORBITING PLANET RED DEATH. --EKA

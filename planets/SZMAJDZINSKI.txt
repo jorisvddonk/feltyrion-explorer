@@ -1,6 +1,8 @@
-Planet: SZMAJDZINSKI
+Moon: SZMAJDZINSKI
 Starmap index: 08
 Paris coordinates: 2777136, 4875685, -958490
+Orbits: KALINOWSKI
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.804

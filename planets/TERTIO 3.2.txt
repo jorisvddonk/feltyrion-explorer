@@ -1,6 +1,8 @@
-Planet: TERTIO 3.2
+Moon: TERTIO 3.2
 Starmap index: 07
 Paris coordinates: 11828560, -4640891, -9107608
+Orbits: TERTIO 3
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, COVERED BY CLOUDS, NO VISIBLE STORMS. THE ATMOSPHERE

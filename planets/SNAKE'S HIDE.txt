@@ -1,3 +1,5 @@
-Planet: SNAKE'S HIDE
+Moon: SNAKE'S HIDE
 Starmap index: 25
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 2

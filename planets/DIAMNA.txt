@@ -1,6 +1,8 @@
-Planet: DIAMNA
+Moon: DIAMNA
 Starmap index: 23
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. NOT VERY REFLECTIVE AND

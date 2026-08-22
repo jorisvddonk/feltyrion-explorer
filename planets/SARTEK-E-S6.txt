@@ -1,3 +1,5 @@
-Planet: SARTEK-E-S6
+Moon: SARTEK-E-S6
 Starmap index: 13
 Paris coordinates: 1336432, 2836394, -1949812
+Orbits: SARTEK-E
+Moon id: 5

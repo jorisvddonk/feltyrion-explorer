@@ -1,3 +1,5 @@
-Planet: OCTO
+Moon: OCTO
 Starmap index: 24
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAHDI
+Moon id: 7

@@ -1,3 +1,5 @@
-Planet: NORN
+Moon: NORN
 Starmap index: 77
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: SOEEHN
+Moon id: 6

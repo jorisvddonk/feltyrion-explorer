@@ -1,6 +1,8 @@
-Planet: MUDA
+Moon: MUDA
 Starmap index: 37
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SUFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. FAIR

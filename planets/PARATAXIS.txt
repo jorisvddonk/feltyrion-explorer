@@ -1,6 +1,8 @@
-Planet: PARATAXIS
+Moon: PARATAXIS
 Starmap index: 14
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE

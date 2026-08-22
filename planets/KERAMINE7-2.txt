@@ -1,6 +1,8 @@
-Planet: KERAMINE7-2
+Moon: KERAMINE7-2
 Starmap index: 20
 Paris coordinates: -36432, -1290440, 1061497
+Orbits: KERAMINE7
+Moon id: 1
 
 Guide entries:
 SMALL, NO ATMOSPHERE. GREENISH COLOURATION.

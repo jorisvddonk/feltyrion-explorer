@@ -1,3 +1,5 @@
-Planet: WISWAN.7.8(R)
+Moon: WISWAN.7.8(R)
 Starmap index: 73
 Paris coordinates: 4276048, 4146733, 1284897
+Orbits: WISWAN.7(!)
+Moon id: 7

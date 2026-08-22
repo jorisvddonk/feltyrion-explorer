@@ -1,3 +1,5 @@
-Planet: BETA ABYSSALIS 6D
+Moon: BETA ABYSSALIS 6D
 Starmap index: 14
 Paris coordinates: 7160976, -16776440, 14959150
+Orbits: BETA ABYSSALIS 6
+Moon id: 3

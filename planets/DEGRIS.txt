@@ -1,6 +1,8 @@
-Planet: DEGRIS
+Moon: DEGRIS
 Starmap index: 19
 Paris coordinates: -22610224, 322718, -7829968
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 FELISIAN WORLD

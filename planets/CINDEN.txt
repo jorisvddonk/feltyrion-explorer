@@ -1,6 +1,8 @@
-Planet: CINDEN
+Moon: CINDEN
 Starmap index: 22
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. YELLOW-GREY FAIR

@@ -1,3 +1,5 @@
-Planet: OLD BRONZE
+Moon: OLD BRONZE
 Starmap index: 54
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 4

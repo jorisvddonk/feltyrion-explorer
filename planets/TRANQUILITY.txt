@@ -1,6 +1,8 @@
-Planet: TRANQUILITY
+Moon: TRANQUILITY
 Starmap index: 11
 Paris coordinates: 3070352, 4834807, -1861297
+Orbits: GAMLIF
+Moon id: 3
 
 Guide entries:
  PLANET FOUND BY STARDRIFTER FRACTUS, EPOC 6011:570.848.

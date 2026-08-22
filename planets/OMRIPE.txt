@@ -1,6 +1,8 @@
-Planet: OMRIPE
+Moon: OMRIPE
 Starmap index: 02
 Paris coordinates: 2033117584, -495491, -4272627
+Orbits: VA JRIHARSIATE B
+Moon id: 0
 
 Guide entries:
 M01/P01 FIRST BODY OF STAR B. SMALL SOLID THIN ATMO, BRIGHT WITH GOOD       

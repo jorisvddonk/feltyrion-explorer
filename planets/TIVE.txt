@@ -1,6 +1,8 @@
-Planet: TIVE
+Moon: TIVE
 Starmap index: 16
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DUSTY LOOKING WITH REFLECTIVE

@@ -1,3 +1,5 @@
-Planet: VIOLETRIS
+Moon: VIOLETRIS
 Starmap index: 16
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: PURPLOSE
+Moon id: 10

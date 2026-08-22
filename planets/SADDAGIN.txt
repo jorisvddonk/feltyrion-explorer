@@ -1,3 +1,5 @@
-Planet: SADDAGIN
+Moon: SADDAGIN
 Starmap index: 45
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: ANEOSSE
+Moon id: 4

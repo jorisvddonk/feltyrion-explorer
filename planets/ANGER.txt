@@ -1,6 +1,8 @@
-Planet: ANGER
+Moon: ANGER
 Starmap index: 19
 Paris coordinates: 2970352, 3448819, -1792674
+Orbits: SYICTHUS
+Moon id: 1
 
 Guide entries:
 THE GREAT SECOND OF SYICTHUS THE THORN, ANGER IS A GIANT TO BE RECKONED

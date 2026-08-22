@@ -1,3 +1,5 @@
-Planet: MOXIGEO
+Moon: MOXIGEO
 Starmap index: 31
 Paris coordinates: 4679984, 4940337, -923944
+Orbits: planet index 03
+Moon id: 13

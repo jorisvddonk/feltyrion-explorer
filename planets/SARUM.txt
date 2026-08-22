@@ -1,3 +1,5 @@
-Planet: SARUM
+Moon: SARUM
 Starmap index: 06
 Paris coordinates: 1924624, 7368157, 2472677
+Orbits: MARTE
+Moon id: 0

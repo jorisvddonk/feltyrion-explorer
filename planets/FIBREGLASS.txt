@@ -1,3 +1,5 @@
-Planet: FIBREGLASS
+Moon: FIBREGLASS
 Starmap index: 10
 Paris coordinates: 1378224, 6219442, -3371139
+Orbits: ASKEW 6C
+Moon id: 5

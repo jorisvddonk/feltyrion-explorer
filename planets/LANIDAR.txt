@@ -1,6 +1,8 @@
-Planet: LANIDAR
+Moon: LANIDAR
 Starmap index: 37
 Paris coordinates: 81072, -77486, -118953
+Orbits: BODERON
+Moon id: 10
 
 Guide entries:
 INITIAL LANDINGS: (359.32) A DENSE GREEN FOREST

@@ -1,6 +1,8 @@
-Planet: SWEAT
+Moon: SWEAT
 Starmap index: 15
 Paris coordinates: 3111056, 4037153, 554224
+Orbits: GOODNU
+Moon id: 2
 
 Guide entries:
  DISCOVERED BY MURRMURR EPOC 6011:608.338

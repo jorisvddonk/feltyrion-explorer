@@ -1,6 +1,8 @@
-Planet: CRADLE IX B
+Moon: CRADLE IX B
 Starmap index: 66
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IX
+Moon id: 1
 
 Guide entries:
 PALE GREEN DENSEWORLD WITH BROWN BAND AT CENTER.

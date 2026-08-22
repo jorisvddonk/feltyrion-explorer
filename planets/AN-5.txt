@@ -1,3 +1,5 @@
-Planet: AN-5
+Moon: AN-5
 Starmap index: 10
 Paris coordinates: 5121776, 4075066, -2797361
+Orbits: APEX NIHIL
+Moon id: 4

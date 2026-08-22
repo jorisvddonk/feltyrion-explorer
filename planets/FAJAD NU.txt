@@ -1,6 +1,8 @@
-Planet: FAJAD NU
+Moon: FAJAD NU
 Starmap index: 28
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 12
 
 Guide entries:
 THIRTEENTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

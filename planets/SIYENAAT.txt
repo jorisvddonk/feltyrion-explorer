@@ -1,6 +1,8 @@
-Planet: SIYENAAT
+Moon: SIYENAAT
 Starmap index: 32
 Paris coordinates: -1419635728, -1063909, -1280553221
+Orbits: VENE'EREIB III
+Moon id: 13
 
 Guide entries:
 VENE'EREIB 14/03; FELISIAN

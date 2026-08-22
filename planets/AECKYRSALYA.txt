@@ -1,6 +1,8 @@
-Planet: AECKYRSALYA
+Moon: AECKYRSALYA
 Starmap index: 07
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 1
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, THIN ATMOSPHERE, ALMOST DARK BUT SOME

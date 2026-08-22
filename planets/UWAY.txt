@@ -1,3 +1,5 @@
-Planet: UWAY
+Moon: UWAY
 Starmap index: 20
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: JAKAB
+Moon id: 5

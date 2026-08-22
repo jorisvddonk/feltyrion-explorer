@@ -1,3 +1,5 @@
-Planet: WEIT
+Moon: WEIT
 Starmap index: 18
 Paris coordinates: 14757456, 8159489, -4721068
+Orbits: ROED
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: PARSIS 9.6
+Moon: PARSIS 9.6
 Starmap index: 31
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 5
 
 Guide entries:
  LIKE ITS TWIN MOONS OF THE PARSIS 9 SYSTEM, THIS WORLD IS COVERED

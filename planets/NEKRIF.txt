@@ -1,6 +1,8 @@
-Planet: NEKRIF
+Moon: NEKRIF
 Starmap index: 18
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, GOOD PLAR CAPS. SKINNYMON

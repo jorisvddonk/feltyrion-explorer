@@ -1,6 +1,8 @@
-Planet: BATRAX
+Moon: BATRAX
 Starmap index: 21
 Paris coordinates: 974288, 1321067, -1251662
+Orbits: GOLBRAT
+Moon id: 8
 
 Guide entries:
  DISCOVERED BY FOTIOS. EPOC 6011:609.531

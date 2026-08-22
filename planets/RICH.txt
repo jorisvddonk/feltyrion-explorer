@@ -1,3 +1,5 @@
-Planet: RICH
+Moon: RICH
 Starmap index: 07
 Paris coordinates: 3890704, 4620850, -1463671
+Orbits: GREINKE
+Moon id: 1

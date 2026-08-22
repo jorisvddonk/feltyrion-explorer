@@ -1,6 +1,8 @@
-Planet: GRISELA
+Moon: GRISELA
 Starmap index: 14
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: PLEASANCE
+Moon id: 0
 
 Guide entries:
  FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE, NICE

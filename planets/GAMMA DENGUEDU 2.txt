@@ -1,3 +1,5 @@
-Planet: GAMMA DENGUEDU 2
+Moon: GAMMA DENGUEDU 2
 Starmap index: 11
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: GAMMA DENGUEDU
+Moon id: 1

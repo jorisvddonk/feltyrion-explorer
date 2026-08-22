@@ -1,3 +1,5 @@
-Planet: VIERE-5 1
+Moon: VIERE-5 1
 Starmap index: 26
 Paris coordinates: 514992, 473485, 1377492
+Orbits: WOLFBURG
+Moon id: 0

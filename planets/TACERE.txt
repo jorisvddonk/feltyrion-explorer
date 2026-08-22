@@ -1,6 +1,8 @@
-Planet: TACERE
+Moon: TACERE
 Starmap index: 09
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: ESQUILINE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK (AT LAST), POLAR CAPS VISIBLE. TWO

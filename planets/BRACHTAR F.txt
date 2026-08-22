@@ -1,6 +1,8 @@
-Planet: BRACHTAR F
+Moon: BRACHTAR F
 Starmap index: 20
 Paris coordinates: 4277136, -66332076, -2510220
+Orbits: BRACHTAR
+Moon id: 5
 
 Guide entries:
 BRIGHT PURPLE DENSEWORLD WITH A UNIFORM CLOUD LAYER SAVE FOR A FEW

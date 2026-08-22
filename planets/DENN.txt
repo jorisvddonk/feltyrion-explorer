@@ -1,3 +1,5 @@
-Planet: DENN
+Moon: DENN
 Starmap index: 09
 Paris coordinates: 4855696, 4327844, -667718
+Orbits: planet index 03
+Moon id: 1

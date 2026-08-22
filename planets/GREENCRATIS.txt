@@ -1,3 +1,5 @@
-Planet: GREENCRATIS
+Moon: GREENCRATIS
 Starmap index: 16
 Paris coordinates: -61939376, 29523124, 672688
+Orbits: STICKEA
+Moon id: 0

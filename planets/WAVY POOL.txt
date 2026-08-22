@@ -1,6 +1,8 @@
-Planet: WAVY POOL
+Moon: WAVY POOL
 Starmap index: 22
 Paris coordinates: 3407120, 6208420, 1867930
+Orbits: BOREA
+Moon id: 0
 
 Guide entries:
 DISCOVERED EPOC 6012 060.111

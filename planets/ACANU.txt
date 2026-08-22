@@ -1,6 +1,8 @@
-Planet: ACANU
+Moon: ACANU
 Starmap index: 09
 Paris coordinates: 2054927472, 1424347, -408821
+Orbits: PULVERULENTUS
+Moon id: 0
 
 Guide entries:
 M01/P04 SMLL                                                                

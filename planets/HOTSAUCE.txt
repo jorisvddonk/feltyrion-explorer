@@ -1,3 +1,5 @@
-Planet: HOTSAUCE
+Moon: HOTSAUCE
 Starmap index: 19
 Paris coordinates: 81072, -77486, -118953
+Orbits: JENUVO
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: ASKEW 58E17
+Moon: ASKEW 58E17
 Starmap index: 22
 Paris coordinates: 10869520, -19274356, 17549028
+Orbits: ASKEW 58E
+Moon id: 16

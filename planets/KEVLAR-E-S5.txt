@@ -1,3 +1,5 @@
-Planet: KEVLAR-E-S5
+Moon: KEVLAR-E-S5
 Starmap index: 15
 Paris coordinates: 2661808, -678997, -7638597
+Orbits: KEVLAR-E
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: RULCA
+Moon: RULCA
 Starmap index: 33
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 15
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LIGHT VIOLET

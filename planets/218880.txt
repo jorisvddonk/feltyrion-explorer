@@ -1,3 +1,5 @@
-Planet: 218880
+Moon: 218880
 Starmap index: 41
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: PAUL AUSTER
+Moon id: 5

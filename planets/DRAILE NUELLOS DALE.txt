@@ -1,3 +1,5 @@
-Planet: DRAILE NUELLOS DALE
+Moon: DRAILE NUELLOS DALE
 Starmap index: 40
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE NUELLOS
+Moon id: 11

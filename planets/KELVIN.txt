@@ -1,6 +1,8 @@
-Planet: KELVIN
+Moon: KELVIN
 Starmap index: 24
 Paris coordinates: 4066416, 5645367, -1158831
+Orbits: REBECCHI
+Moon id: 9
 
 Guide entries:
 MOON 10 OF FORTH PLANET. FELYSIAN WORLD. (KRUSTY 6011.601.942)

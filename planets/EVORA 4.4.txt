@@ -1,6 +1,8 @@
-Planet: EVORA 4.4
+Moon: EVORA 4.4
 Starmap index: 14
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 4
+Moon id: 3
 
 Guide entries:
  YET ANOTHER DEAD PLANETOID, NO ATMOSPHERE, GLOWING CRATERS, DUSTY,

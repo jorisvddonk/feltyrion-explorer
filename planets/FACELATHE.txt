@@ -1,6 +1,8 @@
-Planet: FACELATHE
+Moon: FACELATHE
 Starmap index: 42
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 4
 
 Guide entries:
 MAEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY ROUGH, SOME

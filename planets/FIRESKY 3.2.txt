@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.2
+Moon: FIRESKY 3.2
 Starmap index: 15
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. HAS SOME MEDIUM-SIZED, VERY OLD,

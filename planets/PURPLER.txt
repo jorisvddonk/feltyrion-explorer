@@ -1,6 +1,8 @@
-Planet: PURPLER
+Moon: PURPLER
 Starmap index: 09
 Paris coordinates: 356784, -74457, 270756
+Orbits: planet index 03
+Moon id: 3
 
 Guide entries:
 THIN ATMOSPHERE, MOON 3/4. SURFACE LOOKS LIKE MADE FROM LITHIUM EATERS

@@ -1,3 +1,5 @@
-Planet: ROCK STAR
+Moon: ROCK STAR
 Starmap index: 54
 Paris coordinates: 70352, 945533, 1134813
+Orbits: GASTRIX
+Moon id: 0

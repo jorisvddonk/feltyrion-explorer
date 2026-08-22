@@ -1,3 +1,5 @@
-Planet: HOLLOW ROCK
+Moon: HOLLOW ROCK
 Starmap index: 11
 Paris coordinates: 2568176, 4269415, 6430277
+Orbits: SIZE IS NOT ALL
+Moon id: 0

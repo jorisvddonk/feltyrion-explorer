@@ -1,6 +1,8 @@
-Planet: EPISODE
+Moon: EPISODE
 Starmap index: 29
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK REFLECTIVITY WITH DARK

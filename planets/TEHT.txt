@@ -1,6 +1,8 @@
-Planet: TEHT
+Moon: TEHT
 Starmap index: 20
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: JINRE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. MILDLY DARK, GOOD POLAR CAPS. SKINNYMON

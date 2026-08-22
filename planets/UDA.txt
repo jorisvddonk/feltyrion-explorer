@@ -1,6 +1,8 @@
-Planet: UDA
+Moon: UDA
 Starmap index: 62
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 7
+Moon id: 5
 
 Guide entries:
 GREENISH QUARTZ WORLD

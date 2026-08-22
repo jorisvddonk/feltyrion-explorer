@@ -1,6 +1,8 @@
-Planet: GARGES
+Moon: GARGES
 Starmap index: 40
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 14
 
 Guide entries:
 ANOTHER RATHER INTERESTING GAS GIANT THAT IS A MOON. ALSO NO RINGS.

@@ -1,6 +1,8 @@
-Planet: PARSIS 13.16
+Moon: PARSIS 13.16
 Starmap index: 72
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 15
 
 Guide entries:
  THE FINAL ICE-BALL OF THIS SYSTEM. THE FINAL WORLD AT ALL.

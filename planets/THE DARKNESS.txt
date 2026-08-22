@@ -1,3 +1,5 @@
-Planet: THE DARKNESS
+Moon: THE DARKNESS
 Starmap index: 39
 Paris coordinates: 3752848, 4941158, -1623997
+Orbits: 2ND-12
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: FECTOR
+Moon: FECTOR
 Starmap index: 19
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE.

@@ -1,3 +1,5 @@
-Planet: TROPIC
+Moon: TROPIC
 Starmap index: 22
 Paris coordinates: 487856, 49102, -230101
+Orbits: MOHJ
+Moon id: 1

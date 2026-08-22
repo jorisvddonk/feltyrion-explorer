@@ -1,6 +1,8 @@
-Planet: CELESTE
+Moon: CELESTE
 Starmap index: 14
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID MOON WITH THICK ATMOSPHERE AND COVERED WITH CLOUDS

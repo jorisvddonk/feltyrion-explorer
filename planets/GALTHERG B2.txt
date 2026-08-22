@@ -1,3 +1,5 @@
-Planet: GALTHERG B2
+Moon: GALTHERG B2
 Starmap index: 08
 Paris coordinates: 4928560, 5278806, -2232144
+Orbits: GALTHERG B
+Moon id: 1

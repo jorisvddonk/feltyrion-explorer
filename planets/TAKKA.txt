@@ -1,3 +1,5 @@
-Planet: TAKKA
+Moon: TAKKA
 Starmap index: 28
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 6

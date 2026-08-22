@@ -1,6 +1,8 @@
-Planet: MIDGARD
+Moon: MIDGARD
 Starmap index: 18
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 8
 
 Guide entries:
 A FELISIAN WORLD- AT 141.59 IT WAS ROLLING, ALMOST HILLY, GROUND WITH

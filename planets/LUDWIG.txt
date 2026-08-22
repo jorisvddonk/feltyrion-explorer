@@ -1,3 +1,5 @@
-Planet: LUDWIG
+Moon: LUDWIG
 Starmap index: 27
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: WATWA
+Moon id: 0

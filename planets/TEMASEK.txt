@@ -1,3 +1,5 @@
-Planet: TEMASEK
+Moon: TEMASEK
 Starmap index: 19
 Paris coordinates: -24912560, -17163490, 38675244
+Orbits: LION CITY
+Moon id: 0

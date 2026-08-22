@@ -1,3 +1,5 @@
-Planet: SPRING GREEN
+Moon: SPRING GREEN
 Starmap index: 45
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: MIDNIGHT BLUE
+Moon id: 3

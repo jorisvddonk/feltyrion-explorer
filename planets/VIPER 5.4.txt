@@ -1,6 +1,8 @@
-Planet: VIPER 5.4
+Moon: VIPER 5.4
 Starmap index: 23
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 5
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY AND CRATERIZED. SOME CRATERS LOOK LIKE GIANT

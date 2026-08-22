@@ -1,6 +1,8 @@
-Planet: SINNLOS
+Moon: SINNLOS
 Starmap index: 39
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: NUFIOUS
+Moon id: 11
 
 Guide entries:
 THICK ATMOSPHERE, SEVERAL BANDS AND A WHITE SPOT.                           

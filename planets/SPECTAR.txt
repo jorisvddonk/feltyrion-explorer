@@ -1,6 +1,8 @@
-Planet: SPECTAR
+Moon: SPECTAR
 Starmap index: 33
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZEBES
+Moon id: 3
 
 Guide entries:
  CREEPY, AIN'T IT.

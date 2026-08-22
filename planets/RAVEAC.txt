@@ -1,6 +1,8 @@
-Planet: RAVEAC
+Moon: RAVEAC
 Starmap index: 72
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. NOT VERY REFLECTIVE WITH

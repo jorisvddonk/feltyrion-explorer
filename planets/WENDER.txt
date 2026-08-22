@@ -1,6 +1,8 @@
-Planet: WENDER
+Moon: WENDER
 Starmap index: 23
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. BROWNISH REFLECTIVITY WITH

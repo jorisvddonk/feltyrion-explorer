@@ -1,6 +1,8 @@
-Planet: REHTOB
+Moon: REHTOB
 Starmap index: 66
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 3
 
 Guide entries:
 DON'T EVEN BOTHER. TOO DARK.

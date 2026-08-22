@@ -1,6 +1,8 @@
-Planet: NUNGA
+Moon: NUNGA
 Starmap index: 11
 Paris coordinates: 3332496, 4249897, -2311719
+Orbits: MORRA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, FAIR POLAR CAPS. SKINNYMON

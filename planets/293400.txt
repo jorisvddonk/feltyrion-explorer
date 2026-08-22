@@ -1,3 +1,5 @@
-Planet: 293400
+Moon: 293400
 Starmap index: 18
 Paris coordinates: 4090704, 4802659, -1642921
+Orbits: VANSON I
+Moon id: 1

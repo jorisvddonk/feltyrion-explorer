@@ -1,6 +1,8 @@
-Planet: VOLCANIC TEAR
+Moon: VOLCANIC TEAR
 Starmap index: 33
 Paris coordinates: 2557456, 2106610, 7526289
+Orbits: TEAR OF THE CHIPBALL
+Moon id: 1
 
 Guide entries:
 AN ICY OBJECT'S ACTIVE MOON. APPEARS RATHER REDDISH. RYAN GJK               

@@ -1,6 +1,8 @@
-Planet: LIGHT YELLOW
+Moon: LIGHT YELLOW
 Starmap index: 05
 Paris coordinates: -71930992, -664206, 53968492
+Orbits: PINK HAZE
+Moon id: 1
 
 Guide entries:
 SOMETIMES PLANETS/MOONS SIMPLY DON'T CALL OUT TO ME WITH A NAME,

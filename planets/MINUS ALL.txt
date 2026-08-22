@@ -1,6 +1,8 @@
-Planet: MINUS ALL
+Moon: MINUS ALL
 Starmap index: 09
 Paris coordinates: 36432, 433110, -621435
+Orbits: DES3
+Moon id: 2
 
 Guide entries:
 THE LANDSCAPE IS SLIGHTLY MOUNTAINOUS

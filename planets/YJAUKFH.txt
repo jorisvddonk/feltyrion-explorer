@@ -1,6 +1,8 @@
-Planet: YJAUKFH
+Moon: YJAUKFH
 Starmap index: 14
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 10
 
 Guide entries:
 M11/P03 MEDIUM SIZE UNSTABLE, HOT SURFACE. LIGHT YELLOW AREAS WITH          

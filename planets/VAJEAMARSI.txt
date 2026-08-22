@@ -1,6 +1,8 @@
-Planet: VAJEAMARSI
+Moon: VAJEAMARSI
 Starmap index: 17
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: VAMEVARI
+Moon id: 6
 
 Guide entries:
 M07/P05 DUSTY. VERY REFLECTIVE WITH CRATERS- QUITE LIKE HLISADARSI.

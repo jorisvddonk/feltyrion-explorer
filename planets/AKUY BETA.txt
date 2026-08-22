@@ -1,6 +1,8 @@
-Planet: AKUY BETA
+Moon: AKUY BETA
 Starmap index: 06
 Paris coordinates: 3483920, 4997178, -1498364
+Orbits: AKUY
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET AKUY IN THE BINARY SYSTEM VICE

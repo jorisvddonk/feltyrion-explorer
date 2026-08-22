@@ -1,6 +1,8 @@
-Planet: ADUN
+Moon: ADUN
 Starmap index: 11
 Paris coordinates: 3466416, 4540059, -395069
+Orbits: PROTICUS DRIFTER
+Moon id: 0
 
 Guide entries:
 LOOKS KIND OF LIKE JUPITER.I WISH I COULD LAND ON IT.WOW THE ZEGEMA SIREN

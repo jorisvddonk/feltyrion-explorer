@@ -1,6 +1,8 @@
-Planet: KLORTH
+Moon: KLORTH
 Starmap index: 09
 Paris coordinates: 2790704, 4295193, -442131
+Orbits: LILTANCE
+Moon id: 1
 
 Guide entries:
 THIS MOON WAS DISCOVERED BY THRONUS DALVI IN EPOC 6011:659.944.330.

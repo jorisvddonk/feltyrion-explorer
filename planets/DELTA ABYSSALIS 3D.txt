@@ -1,3 +1,5 @@
-Planet: DELTA ABYSSALIS 3D
+Moon: DELTA ABYSSALIS 3D
 Starmap index: 07
 Paris coordinates: 7029904, -16790780, 15131002
+Orbits: DELTS ABYSSALIS 3
+Moon id: 3

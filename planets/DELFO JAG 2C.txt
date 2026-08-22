@@ -1,3 +1,5 @@
-Planet: DELFO JAG 2C
+Moon: DELFO JAG 2C
 Starmap index: 09
 Paris coordinates: 147056, 7086, 1986076718
+Orbits: DELFO JAG 2
+Moon id: 2

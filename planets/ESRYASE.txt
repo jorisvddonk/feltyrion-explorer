@@ -1,6 +1,8 @@
-Planet: ESRYASE
+Moon: ESRYASE
 Starmap index: 12
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 8
 
 Guide entries:
 M09/P03 MEDIUM SIZE INTERNALLY HOT. LIGHT BROWN. YELLOW GLOWING.            

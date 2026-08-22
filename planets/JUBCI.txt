@@ -1,6 +1,8 @@
-Planet: JUBCI
+Moon: JUBCI
 Starmap index: 32
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: GWORIKO
+Moon id: 13
 
 Guide entries:
 DISCOVERED BY RHODAN, EPOC 6011.632.96.

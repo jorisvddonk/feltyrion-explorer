@@ -1,3 +1,5 @@
-Planet: CRATOR
+Moon: CRATOR
 Starmap index: 27
 Paris coordinates: 363568, 122957, 460932
+Orbits: FROS
+Moon id: 1

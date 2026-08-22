@@ -1,3 +1,5 @@
-Planet: WHITECRATER
+Moon: WHITECRATER
 Starmap index: 06
 Paris coordinates: 3677136, 4623457, -1870326
+Orbits: KEPTOCRACY
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: IGNORE ME
+Moon: IGNORE ME
 Starmap index: 18
 Paris coordinates: 2568176, 4269415, 6430277
+Orbits: AIRSPHERE
+Moon id: 5

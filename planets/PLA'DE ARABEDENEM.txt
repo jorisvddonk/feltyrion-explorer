@@ -1,3 +1,5 @@
-Planet: PLA'DE ARABEDENEM
+Moon: PLA'DE ARABEDENEM
 Starmap index: 26
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: THE MAUSOLEUM
+Moon id: 13

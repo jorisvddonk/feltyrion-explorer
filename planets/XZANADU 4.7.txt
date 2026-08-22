@@ -1,6 +1,8 @@
-Planet: XZANADU 4.7
+Moon: XZANADU 4.7
 Starmap index: 14
 Paris coordinates: 6571024, 19797331, 4477221
+Orbits: XZANADU 4
+Moon id: 6
 
 Guide entries:
  THIS TINY PLANETOID IS ON THE SIZE OF MERCURY IN THE SOL-SYSTEM,

@@ -1,6 +1,8 @@
-Planet: COOL SUMMER
+Moon: COOL SUMMER
 Starmap index: 50
 Paris coordinates: 3036016, -12924584, 9835578
+Orbits: ASKEW 119F
+Moon id: 10
 
 Guide entries:
 FOUND EPOC 6011 589.558.500 BY ROLAND ASKEW

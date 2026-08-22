@@ -1,3 +1,5 @@
-Planet: HAEZEN M1
+Moon: HAEZEN M1
 Starmap index: 15
 Paris coordinates: -18928, 229680, -137040
+Orbits: HAEZEN
+Moon id: 0

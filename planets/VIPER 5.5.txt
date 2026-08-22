@@ -1,6 +1,8 @@
-Planet: VIPER 5.5
+Moon: VIPER 5.5
 Starmap index: 24
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 5
+Moon id: 4
 
 Guide entries:
 HIGH REFLECTIVITY, BUT IT'S UNREMARKABLE PIECE OF INTERSTELLAR ROCK.

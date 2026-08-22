@@ -1,6 +1,8 @@
-Planet: KENTARES
+Moon: KENTARES
 Starmap index: 05
 Paris coordinates: 163568, 107470, 773613
+Orbits: GALTOR
+Moon id: 1
 
 Guide entries:
  SMALL, SOLID, ICE SURFACE, NO ATMOSPHERE

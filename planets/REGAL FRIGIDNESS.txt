@@ -1,6 +1,8 @@
-Planet: REGAL FRIGIDNESS
+Moon: REGAL FRIGIDNESS
 Starmap index: 20
 Paris coordinates: 381072, 1932089, -429498
+Orbits: TOROIDAL ECLIPSE
+Moon id: 7
 
 Guide entries:
 THIN-AT MOON. MY LANDING AT 0,5 SET ME DOWN UPON A MAUVE,                   

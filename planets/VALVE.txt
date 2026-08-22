@@ -1,6 +1,8 @@
-Planet: VALVE
+Moon: VALVE
 Starmap index: 79
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: RADIAN
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKLY REFLECTIVE WITH DARK

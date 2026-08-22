@@ -1,3 +1,5 @@
-Planet: KUROS-SE'NIFF
+Moon: KUROS-SE'NIFF
 Starmap index: 12
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: KUROSSE
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: DYSHA
+Moon: DYSHA
 Starmap index: 12
 Paris coordinates: 3587856, 4660150, -3339201
+Orbits: LETAI
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. MODERATE SCARRING AND

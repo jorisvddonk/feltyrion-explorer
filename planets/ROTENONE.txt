@@ -1,6 +1,8 @@
-Planet: ROTENONE
+Moon: ROTENONE
 Starmap index: 09
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 1
 
 Guide entries:
 UPDATE:MEDIUM SIZE, SUFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE

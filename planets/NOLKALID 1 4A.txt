@@ -1,3 +1,5 @@
-Planet: NOLKALID 1 4A
+Moon: NOLKALID 1 4A
 Starmap index: 14
 Paris coordinates: 678096, 49013, 190540336
+Orbits: NOLKALID 1 4
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: BODAUS
+Moon: BODAUS
 Starmap index: 06
 Paris coordinates: 2119615760, -1721227, -30011
+Orbits: RYSKOUN
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL SOLID DUSTY HIGH BLUE GREY REFLECTIVITY-ALMOST SILVERY.       

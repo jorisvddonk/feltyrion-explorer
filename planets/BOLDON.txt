@@ -1,3 +1,5 @@
-Planet: BOLDON
+Moon: BOLDON
 Starmap index: 25
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: SIDEON
+Moon id: 7

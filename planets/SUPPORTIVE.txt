@@ -1,3 +1,5 @@
-Planet: SUPPORTIVE
+Moon: SUPPORTIVE
 Starmap index: 32
 Paris coordinates: 3714992, 5004837, -1766171
+Orbits: ESTRANGED SON
+Moon id: 0

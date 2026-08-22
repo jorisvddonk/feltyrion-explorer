@@ -1,3 +1,5 @@
-Planet: BLUEMUG-10-O
+Moon: BLUEMUG-10-O
 Starmap index: 33
 Paris coordinates: 2270352, 5687361, -930884
+Orbits: BLUEMUG-10
+Moon id: 14

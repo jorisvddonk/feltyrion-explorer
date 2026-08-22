@@ -1,3 +1,5 @@
-Planet: NLG'2873 B2
+Moon: NLG'2873 B2
 Starmap index: 09
 Paris coordinates: 2718928, 5334162, -2425086
+Orbits: NLG'2873 B
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: GOBLIN FLAME
+Moon: GOBLIN FLAME
 Starmap index: 14
 Paris coordinates: -71899920, -587551, 53664334
+Orbits: PALE GOBLIN
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: EXXEN RHO A
+Moon: EXXEN RHO A
 Starmap index: 09
 Paris coordinates: -118928, 136846, 52177
+Orbits: EXXEN RHO
+Moon id: 0

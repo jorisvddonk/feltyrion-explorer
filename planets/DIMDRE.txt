@@ -1,3 +1,5 @@
-Planet: DIMDRE
+Moon: DIMDRE
 Starmap index: 52
 Paris coordinates: 4734096, 4850743, 38908954
+Orbits: planet index 07
+Moon id: 2

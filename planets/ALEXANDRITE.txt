@@ -1,3 +1,5 @@
-Planet: ALEXANDRITE
+Moon: ALEXANDRITE
 Starmap index: 23
 Paris coordinates: 3966416, 4366334, -852728
+Orbits: CROWN
+Moon id: 12

@@ -1,3 +1,5 @@
-Planet: VALYX-J-S1
+Moon: VALYX-J-S1
 Starmap index: 53
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-J
+Moon id: 0

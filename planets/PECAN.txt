@@ -1,3 +1,5 @@
-Planet: PECAN
+Moon: PECAN
 Starmap index: 07
 Paris coordinates: 4877136, 4743462, -3053809
+Orbits: OASIS
+Moon id: 0

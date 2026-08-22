@@ -1,6 +1,8 @@
-Planet: OPLETIK
+Moon: OPLETIK
 Starmap index: 04
 Paris coordinates: -1996709872, 7885, 1308189
+Orbits: BYENTI B
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE FIRST 'PLANET', A ROCKY PLANET. SURFACE COLOR        

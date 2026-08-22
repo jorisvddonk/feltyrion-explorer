@@ -1,6 +1,8 @@
-Planet: UNSAVORY PLACE
+Moon: UNSAVORY PLACE
 Starmap index: 18
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 1
 
 Guide entries:
  A FELISIAN WORLD, BUT THIS ONE IS AT LEAST WARMER. AT 23.60,

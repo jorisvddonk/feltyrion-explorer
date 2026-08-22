@@ -1,3 +1,5 @@
-Planet: LITTLE FRIEND III
+Moon: LITTLE FRIEND III
 Starmap index: 06
 Paris coordinates: 3008208, 5683926, -1431904
+Orbits: LITTLE BROTHER
+Moon id: 2

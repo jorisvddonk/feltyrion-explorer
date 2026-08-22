@@ -1,3 +1,5 @@
-Planet: RED ORANGE
+Moon: RED ORANGE
 Starmap index: 41
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: MAGENTA
+Moon id: 2

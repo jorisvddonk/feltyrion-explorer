@@ -1,6 +1,8 @@
-Planet: OUTCRY
+Moon: OUTCRY
 Starmap index: 20
 Paris coordinates: -163568, 2358, -418951
+Orbits: KAPOK
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, FAIRLY DARK, GOOD POLAR CAPS. SKINNYMON

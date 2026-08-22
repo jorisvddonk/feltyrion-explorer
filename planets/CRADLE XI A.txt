@@ -1,6 +1,8 @@
-Planet: CRADLE XI A
+Moon: CRADLE XI A
 Starmap index: 78
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE XI
+Moon id: 0
 
 Guide entries:
 BLUE ICEWORLD. (SCHMERM 6011 592.943)

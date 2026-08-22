@@ -1,6 +1,8 @@
-Planet: MAJOR IV
+Moon: MAJOR IV
 Starmap index: 12
 Paris coordinates: -344976, 9517823, -4954054
+Orbits: MULTIPLIA MAJOR
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.848 -                                

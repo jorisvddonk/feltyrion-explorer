@@ -1,6 +1,8 @@
-Planet: QUARTZON
+Moon: QUARTZON
 Starmap index: 19
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 8
 
 Guide entries:
 WHAT AN INTERESTING FIND! THIS SECOND FELYSIAN WORLD IN THIS SYSTEM

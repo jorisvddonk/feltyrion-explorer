@@ -1,3 +1,5 @@
-Planet: LUMEEA-H-S2
+Moon: LUMEEA-H-S2
 Starmap index: 20
 Paris coordinates: 3348240, -260838, -9137523
+Orbits: LUMEEA-H
+Moon id: 1

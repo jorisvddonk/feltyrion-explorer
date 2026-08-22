@@ -1,6 +1,8 @@
-Planet: CHOIR INVISIBLE
+Moon: CHOIR INVISIBLE
 Starmap index: 14
 Paris coordinates: 3548912, 5115546, 351991
+Orbits: BRIGHTON
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GREEN

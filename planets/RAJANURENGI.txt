@@ -1,3 +1,5 @@
-Planet: RAJANURENGI
+Moon: RAJANURENGI
 Starmap index: 53
 Paris coordinates: 58795344, -33712659, 927379101
+Orbits: XTHERDIA
+Moon id: 12

@@ -1,6 +1,8 @@
-Planet: TIDOR
+Moon: TIDOR
 Starmap index: 21
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: REPUTED
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, LIGHT

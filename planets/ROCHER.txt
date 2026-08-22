@@ -1,3 +1,5 @@
-Planet: ROCHER
+Moon: ROCHER
 Starmap index: 39
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: TETSUROU
+Moon id: 11

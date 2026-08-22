@@ -1,6 +1,8 @@
-Planet: TORON
+Moon: TORON
 Starmap index: 13
 Paris coordinates: -85008, 1143030, 1966563
+Orbits: TURASAL
+Moon id: 1
 
 Guide entries:
 ANOTHER BARREN MOON WITH NOTHING MUCH TO SEE.

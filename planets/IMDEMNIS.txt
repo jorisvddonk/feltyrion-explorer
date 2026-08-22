@@ -1,6 +1,8 @@
-Planet: IMDEMNIS
+Moon: IMDEMNIS
 Starmap index: 26
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS

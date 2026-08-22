@@ -1,6 +1,8 @@
-Planet: OMEGA QUAD IV B
+Moon: OMEGA QUAD IV B
 Starmap index: 13
 Paris coordinates: -11867088, -664921, -560296
+Orbits: OMEGA QUAD IV
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. AN EXTREMELY

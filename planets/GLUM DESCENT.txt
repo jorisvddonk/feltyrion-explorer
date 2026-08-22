@@ -1,3 +1,5 @@
-Planet: GLUM DESCENT
+Moon: GLUM DESCENT
 Starmap index: 20
 Paris coordinates: 3921776, 4463420, -1583645
+Orbits: planet index 05
+Moon id: 5

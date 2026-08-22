@@ -1,6 +1,8 @@
-Planet: ROPIZAN
+Moon: ROPIZAN
 Starmap index: 15
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. CLOUD COVER

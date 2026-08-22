@@ -1,3 +1,5 @@
-Planet: YUSTER
+Moon: YUSTER
 Starmap index: 12
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: planet index 04
+Moon id: 2

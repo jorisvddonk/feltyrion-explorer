@@ -1,6 +1,8 @@
-Planet: JADIVJ
+Moon: JADIVJ
 Starmap index: 25
 Paris coordinates: 11052016, -19159857, 17954467
+Orbits: ASKEW 65D
+Moon id: 8
 
 Guide entries:
 FOUND EPOC 6011 587.303.000 BY ROLAND ASKEW

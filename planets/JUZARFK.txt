@@ -1,3 +1,5 @@
-Planet: JUZARFK
+Moon: JUZARFK
 Starmap index: 39
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: SURENJEJ
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: OJHLISA
+Moon: OJHLISA
 Starmap index: 45
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 2
 
 Guide entries:
 M03/P10 SMALL SOLID DUSTY LARGE CRATERS VERY LIGHT GREY WITH BRIGHT         

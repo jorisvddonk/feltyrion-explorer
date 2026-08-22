@@ -1,6 +1,8 @@
-Planet: PROVERBIUM
+Moon: PROVERBIUM
 Starmap index: 31
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 17
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LOOKS

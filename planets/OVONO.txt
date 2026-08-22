@@ -1,6 +1,8 @@
-Planet: OVONO
+Moon: OVONO
 Starmap index: 24
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 8
 
 Guide entries:
 M09.07 SMALL SOLID THIN ATMO. SLIGHTLY BRIGHT, FAIR POLAR CAPS. PRO 0.      

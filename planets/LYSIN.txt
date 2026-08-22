@@ -1,6 +1,8 @@
-Planet: LYSIN
+Moon: LYSIN
 Starmap index: 38
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. HAS SLIGHT

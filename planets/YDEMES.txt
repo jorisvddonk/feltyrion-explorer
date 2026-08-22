@@ -1,6 +1,8 @@
-Planet: YDEMES
+Moon: YDEMES
 Starmap index: 14
 Paris coordinates: 2140364592, -691520, 1231760
+Orbits: VUCKYST
+Moon id: 1
 
 Guide entries:
 M02/P07 SMALL SOLID DUSTY FEW LARGE CRATERS BUT GOOD GREEN REFLECTIVE       

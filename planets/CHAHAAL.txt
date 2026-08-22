@@ -1,6 +1,8 @@
-Planet: CHAHAAL
+Moon: CHAHAAL
 Starmap index: 48
 Paris coordinates: -1323161232, -1306991, -1179428207
+Orbits: SOKUN 5
+Moon id: 1
 
 Guide entries:
 SOKUN 02/05; FELISIAN

@@ -1,6 +1,8 @@
-Planet: OPUS
+Moon: OPUS
 Starmap index: 18
 Paris coordinates: 1109296, 4614243, -3321680
+Orbits: planet index 04
+Moon id: 10
 
 Guide entries:
  INTERESTING FELISIAN PLANET OF THE HANDEL SYSTEM. DISC BY SCAREDY-CAT,

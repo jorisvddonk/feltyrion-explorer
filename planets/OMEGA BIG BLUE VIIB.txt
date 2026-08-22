@@ -1,6 +1,8 @@
-Planet: OMEGA BIG BLUE VIIB
+Moon: OMEGA BIG BLUE VIIB
 Starmap index: 13
 Paris coordinates: -11567088, -299536, -851430
+Orbits: OMEGA BIG BLUE VII
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH WITH

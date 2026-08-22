@@ -1,3 +1,5 @@
-Planet: KAF JIR
+Moon: KAF JIR
 Starmap index: 18
 Paris coordinates: 4969264, 4980100, 258356
+Orbits: GIRAN
+Moon id: 2

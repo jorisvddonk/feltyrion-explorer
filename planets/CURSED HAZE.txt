@@ -1,6 +1,8 @@
-Planet: CURSED HAZE
+Moon: CURSED HAZE
 Starmap index: 14
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.693

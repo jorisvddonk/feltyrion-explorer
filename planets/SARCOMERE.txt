@@ -1,6 +1,8 @@
-Planet: SARCOMERE
+Moon: SARCOMERE
 Starmap index: 23
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: LYTTA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HEAVILY CRATERED BUT

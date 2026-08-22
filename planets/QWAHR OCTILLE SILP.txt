@@ -1,3 +1,5 @@
-Planet: QWAHR OCTILLE SILP
+Moon: QWAHR OCTILLE SILP
 Starmap index: 61
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR OCTILLE
+Moon id: 6

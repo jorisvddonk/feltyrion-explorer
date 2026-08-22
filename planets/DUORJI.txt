@@ -1,6 +1,8 @@
-Planet: DUORJI
+Moon: DUORJI
 Starmap index: 22
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 14
 
 Guide entries:
 M15/P04 THIN ATMO. SLIGHLTY DARK REFLECTIVITY, FAIR POLAR CAPS. PRO

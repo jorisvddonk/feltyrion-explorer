@@ -1,3 +1,5 @@
-Planet: KLIVEN
+Moon: KLIVEN
 Starmap index: 19
 Paris coordinates: -474288, -31859501, 1067415
+Orbits: ENKO
+Moon id: 4

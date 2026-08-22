@@ -1,6 +1,8 @@
-Planet: UPUSA
+Moon: UPUSA
 Starmap index: 16
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 0
 
 Guide entries:
 M01/P07 MEDIUM SIZE THICK ATMO. MOSTLY TURBID BROWN CLOUD COVER WITH        

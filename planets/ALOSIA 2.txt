@@ -1,6 +1,8 @@
-Planet: ALOSIA 2
+Moon: ALOSIA 2
 Starmap index: 14
 Paris coordinates: -2233584, 33860885, 5055785
+Orbits: ALOSIA
+Moon id: 1
 
 Guide entries:
  2ND VERSE, SAME AS THE FIRST: SMALL, DSUTY CRATERIZED MOON; JUST

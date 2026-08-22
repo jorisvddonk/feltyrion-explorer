@@ -1,3 +1,5 @@
-Planet: 2ND-37
+Moon: 2ND-37
 Starmap index: 37
 Paris coordinates: 3752848, 4941158, -1623997
+Orbits: 2ND-8
+Moon id: 0

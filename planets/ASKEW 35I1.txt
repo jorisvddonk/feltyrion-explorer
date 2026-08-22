@@ -1,3 +1,5 @@
-Planet: ASKEW 35I1
+Moon: ASKEW 35I1
 Starmap index: 13
 Paris coordinates: 11865584, -18961787, 17976433
+Orbits: ASKEW 35I
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: GALTHERG 3B
+Moon: GALTHERG 3B
 Starmap index: 12
 Paris coordinates: 4928560, 5278806, -2232144
+Orbits: GALTHERG 3
+Moon id: 1

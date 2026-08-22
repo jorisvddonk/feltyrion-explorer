@@ -1,6 +1,8 @@
-Planet: IOKYR
+Moon: IOKYR
 Starmap index: 07
 Paris coordinates: 2090751600, -1867804, -44748
+Orbits: OBNUBLIATUS
+Moon id: 0
 
 Guide entries:
 M01/P03 MEDIUM SIZED INTERNALLY HOT UNSTABLE SURFACE. MOSTLY BROWN WITH     

@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.9
+Moon: GRANTED WISH 7.9
 Starmap index: 28
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 8
 
 Guide entries:
 MEDIUM-SIZED, ROCKY, CREASED. HAS A PINKISH SURFACE WITH                    

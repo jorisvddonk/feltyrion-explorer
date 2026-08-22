@@ -1,6 +1,8 @@
-Planet: UMIAK
+Moon: UMIAK
 Starmap index: 13
 Paris coordinates: -625712, 1137800, 123585
+Orbits: PAX
+Moon id: 0
 
 Guide entries:
 IT'S ENTIRE SURFACE IS SHROUDED IN DARKNESS, I DON'T SUGGEST SITTING

@@ -1,3 +1,5 @@
-Planet: SERGEIOV I2
+Moon: SERGEIOV I2
 Starmap index: 57
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV I
+Moon id: 1

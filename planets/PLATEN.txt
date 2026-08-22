@@ -1,6 +1,8 @@
-Planet: PLATEN
+Moon: PLATEN
 Starmap index: 43
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PERIP
+Moon id: 0
 
 Guide entries:
 PLANET HAS PLATEAUS AND VALLEYS HERE AND THERE, SOME SMALL HILLS.

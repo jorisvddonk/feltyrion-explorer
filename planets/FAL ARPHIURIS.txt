@@ -1,6 +1,8 @@
-Planet: FAL ARPHIURIS
+Moon: FAL ARPHIURIS
 Starmap index: 06
 Paris coordinates: -56784, 15693, -129542
+Orbits: ABSERYALIS
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

@@ -1,3 +1,5 @@
-Planet: FALSARAS
+Moon: FALSARAS
 Starmap index: 41
 Paris coordinates: 3252848, 5675194, -1215611
+Orbits: GSAG
+Moon id: 15

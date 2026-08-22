@@ -1,6 +1,8 @@
-Planet: KALLACH IV A
+Moon: KALLACH IV A
 Starmap index: 13
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: KALLACH IV
+Moon id: 0
 
 Guide entries:
 A SMALL ORANGE DEADWORLD WITH NO INTERESTING SURFACE FEATURES

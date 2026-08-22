@@ -1,6 +1,8 @@
-Planet: REEND
+Moon: REEND
 Starmap index: 08
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF THE THIRD PLANET, THIN ATMO, RED FROM SPACE. NOT MUCH

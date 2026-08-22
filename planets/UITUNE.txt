@@ -1,6 +1,8 @@
-Planet: UITUNE
+Moon: UITUNE
 Starmap index: 15
 Paris coordinates: 5252848, 4172558, -2953297
+Orbits: TRILIUS
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.001.329)

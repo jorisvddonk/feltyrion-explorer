@@ -1,6 +1,8 @@
-Planet: HARTACK-OLUN
+Moon: HARTACK-OLUN
 Starmap index: 13
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 7
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY

@@ -1,6 +1,8 @@
-Planet: KONA
+Moon: KONA
 Starmap index: 18
 Paris coordinates: 2874288, 4331836, -3138717
+Orbits: planet index 09
+Moon id: 1
 
 Guide entries:
  DISCVD BY SCAREDY-CAT, EPOC 6011.583.370.700. COFFEE COLORED SKY AND

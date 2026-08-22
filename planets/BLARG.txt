@@ -1,6 +1,8 @@
-Planet: BLARG
+Moon: BLARG
 Starmap index: 06
 Paris coordinates: 808208, 278550, 705949
+Orbits: YARG
+Moon id: 0
 
 Guide entries:
 ORBITS YARG ON THE PULSAR EKA65. ICY. INCREDIBLY BRIGHT. I THINK I'LL GO

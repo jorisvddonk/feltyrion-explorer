@@ -1,3 +1,5 @@
-Planet: DOSNUBES
+Moon: DOSNUBES
 Starmap index: 44
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 0

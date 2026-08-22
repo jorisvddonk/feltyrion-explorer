@@ -1,6 +1,8 @@
-Planet: POLYBRIGHT
+Moon: POLYBRIGHT
 Starmap index: 08
 Paris coordinates: 2545392, -12116486, -10361800
+Orbits: ASKEW 102C
+Moon id: 2
 
 Guide entries:
 FOUND EPOC 6011 588.638.100 BY ROLAND ASKEW

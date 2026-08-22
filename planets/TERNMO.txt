@@ -1,6 +1,8 @@
-Planet: TERNMO
+Moon: TERNMO
 Starmap index: 49
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS ARE ALMOST THE

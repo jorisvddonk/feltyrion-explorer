@@ -1,3 +1,5 @@
-Planet: GLOBO
+Moon: GLOBO
 Starmap index: 06
 Paris coordinates: 5009808, 4830465, 39078705
+Orbits: BIYOUNG B
+Moon id: 1

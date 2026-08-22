@@ -1,6 +1,8 @@
-Planet: CHIPEYWAN
+Moon: CHIPEYWAN
 Starmap index: 11
 Paris coordinates: -1012144, 619863, 1312269
+Orbits: ATHABASCA
+Moon id: 7
 
 Guide entries:
 FELISIAN MOON IN MACKENZIE SYSTEM

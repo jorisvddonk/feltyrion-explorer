@@ -1,6 +1,8 @@
-Planet: QYN
+Moon: QYN
 Starmap index: 03
 Paris coordinates: 3866416, 4322974, -971980
+Orbits: KAYIN MINOR B
+Moon id: 0
 
 Guide entries:
 FIRST PLANET OF KAYIN MINOR B. WITH AVERAGE DISTANCE OF 1.09 DYAMS.

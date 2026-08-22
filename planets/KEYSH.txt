@@ -1,6 +1,8 @@
-Planet: KEYSH
+Moon: KEYSH
 Starmap index: 60
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE SKINNYMON

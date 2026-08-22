@@ -1,3 +1,5 @@
-Planet: MARRASKUU
+Moon: MARRASKUU
 Starmap index: 19
 Paris coordinates: 3173200, 5269226, 148820
+Orbits: ISOMUSTA
+Moon id: 5

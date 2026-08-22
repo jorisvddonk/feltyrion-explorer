@@ -1,6 +1,8 @@
-Planet: TRUSTEE
+Moon: TRUSTEE
 Starmap index: 21
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SOMEWHAT

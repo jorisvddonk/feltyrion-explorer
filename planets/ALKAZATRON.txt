@@ -1,6 +1,8 @@
-Planet: ALKAZATRON
+Moon: ALKAZATRON
 Starmap index: 18
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 4
 
 Guide entries:
 VIVID YELLOW AND WHITE GAS GIANT. IT TAKES 18.95 ROTATIONS FOR

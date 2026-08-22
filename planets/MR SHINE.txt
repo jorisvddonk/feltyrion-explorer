@@ -1,3 +1,5 @@
-Planet: MR SHINE
+Moon: MR SHINE
 Starmap index: 13
 Paris coordinates: 377136, 935675, 1401841
+Orbits: ZUPITER
+Moon id: 0

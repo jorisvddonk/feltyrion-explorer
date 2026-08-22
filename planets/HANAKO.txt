@@ -1,6 +1,8 @@
-Planet: HANAKO
+Moon: HANAKO
 Starmap index: 55
 Paris coordinates: 1677136, 2175648, -46363
+Orbits: PHONG
+Moon id: 1
 
 Guide entries:
 CATALOGUED 6011.565.203.939 BY JEREMY HUSSELL.

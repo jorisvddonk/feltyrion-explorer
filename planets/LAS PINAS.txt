@@ -1,3 +1,5 @@
-Planet: LAS PINAS
+Moon: LAS PINAS
 Starmap index: 06
 Paris coordinates: 5107120, 5642162, 170503
+Orbits: planet index 02
+Moon id: 0

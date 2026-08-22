@@ -1,6 +1,8 @@
-Planet: UDOKARE
+Moon: UDOKARE
 Starmap index: 11
 Paris coordinates: 2052562480, 532725, 204773
+Orbits: UPAMORARE
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY VERY LARGE CRATERS ON A GREY SURFACE. PRO         

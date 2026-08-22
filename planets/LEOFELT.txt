@@ -1,6 +1,8 @@
-Planet: LEOFELT
+Moon: LEOFELT
 Starmap index: 12
 Paris coordinates: -29648, -1258023, 1474796
+Orbits: LEOPOLD3
+Moon id: 7
 
 Guide entries:
 EIGHTH MOON OF LEOPOLD3, FELISIAN WITH BREATHABLE ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: SOMITE
+Moon: SOMITE
 Starmap index: 04
 Paris coordinates: 7762480, 4867266, -3018082
+Orbits: FRESNEL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. PECULIAR REFLECTIVITY- ALMOST

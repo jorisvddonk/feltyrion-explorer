@@ -1,6 +1,8 @@
-Planet: JIITSERON
+Moon: JIITSERON
 Starmap index: 16
 Paris coordinates: -725829328, -537918, -575032558
+Orbits: SAHAAT NOK 6
+Moon id: 5
 
 Guide entries:
 SAHAAT NOK 06/06; FELISIAN

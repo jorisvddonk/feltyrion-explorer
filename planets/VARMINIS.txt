@@ -1,3 +1,5 @@
-Planet: VARMINIS
+Moon: VARMINIS
 Starmap index: 33
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: RIAOSSE
+Moon id: 2

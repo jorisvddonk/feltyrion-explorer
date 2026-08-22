@@ -1,6 +1,8 @@
-Planet: BASOA
+Moon: BASOA
 Starmap index: 23
 Paris coordinates: 1943216, 4778968, -2211249
+Orbits: SHODEIR
+Moon id: 8
 
 Guide entries:
 MOON DISCOVERED BY ATTRADIS, EPOC 6011:600.10

@@ -1,6 +1,8 @@
-Planet: PIBRY
+Moon: PIBRY
 Starmap index: 49
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, VESTIGAL TRACES OF LIGHT AREAS

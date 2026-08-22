@@ -1,3 +1,5 @@
-Planet: GAMMA ABYSSALIS 3B
+Moon: GAMMA ABYSSALIS 3B
 Starmap index: 06
 Paris coordinates: 7060976, -16780024, 15078704
+Orbits: GAMMA ABYSSALIS 3
+Moon id: 1

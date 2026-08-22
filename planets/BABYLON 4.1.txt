@@ -1,6 +1,8 @@
-Planet: BABYLON 4.1
+Moon: BABYLON 4.1
 Starmap index: 14
 Paris coordinates: 453936, 4600516, -2135969
+Orbits: BABYLON 4
+Moon id: 0
 
 Guide entries:
  YET ANOTHER DEAD PLANETOID IN THE BABYLON SYSTEM.

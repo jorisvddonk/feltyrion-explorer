@@ -1,6 +1,8 @@
-Planet: MACRO
+Moon: MACRO
 Starmap index: 29
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: HAAR
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

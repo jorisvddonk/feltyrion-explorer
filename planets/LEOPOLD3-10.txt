@@ -1,6 +1,8 @@
-Planet: LEOPOLD3-10
+Moon: LEOPOLD3-10
 Starmap index: 14
 Paris coordinates: -29648, -1258023, 1474796
+Orbits: LEOPOLD3
+Moon id: 9
 
 Guide entries:
 SMALL, THIN ATMOSPHERE.

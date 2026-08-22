@@ -1,6 +1,8 @@
-Planet: DIVITS
+Moon: DIVITS
 Starmap index: 10
 Paris coordinates: 36432, 433110, -621435
+Orbits: DES3
+Moon id: 3
 
 Guide entries:
 THERE ARE SOME RATHER DEEP CRATERS ON THE SURFACE OF THIS MOON

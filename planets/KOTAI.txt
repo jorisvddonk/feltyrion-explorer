@@ -1,3 +1,5 @@
-Planet: KOTAI
+Moon: KOTAI
 Starmap index: 07
 Paris coordinates: -77136, -10954, -1386472
+Orbits: KOWASU
+Moon id: 1

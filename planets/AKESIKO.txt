@@ -1,6 +1,8 @@
-Planet: AKESIKO
+Moon: AKESIKO
 Starmap index: 13
 Paris coordinates: 3655696, 5093605, 729351
+Orbits: PYJEANS
+Moon id: 0
 
 Guide entries:
  0.267FG, DUSTY, CRATERIZED, NO ATMOSPHERE. MOSTLY UNREMARKABLE, BUT

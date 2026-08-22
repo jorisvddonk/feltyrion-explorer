@@ -1,6 +1,8 @@
-Planet: ZEMERON A
+Moon: ZEMERON A
 Starmap index: 31
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 0
 
 Guide entries:
 AN ICEWORLD MOON. (SCHMERM 6011 582.657)

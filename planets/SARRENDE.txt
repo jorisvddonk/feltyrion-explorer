@@ -1,3 +1,5 @@
-Planet: SARRENDE
+Moon: SARRENDE
 Starmap index: 15
 Paris coordinates: 9870096, 18689224, -31714944
+Orbits: EPU
+Moon id: 7

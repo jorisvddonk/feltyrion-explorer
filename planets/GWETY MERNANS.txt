@@ -1,6 +1,8 @@
-Planet: GWETY MERNANS
+Moon: GWETY MERNANS
 Starmap index: 31
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 13
 
 Guide entries:
 COULDN'T FIND ANY LAND ANIMALS HERE, ONLY BIRDS AND PLANT LIFE.

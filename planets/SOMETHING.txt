@@ -1,3 +1,5 @@
-Planet: SOMETHING
+Moon: SOMETHING
 Starmap index: 09
 Paris coordinates: -64835440, 29718498, 1969366
+Orbits: MBTP 23
+Moon id: 0

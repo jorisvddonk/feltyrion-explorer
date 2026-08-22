@@ -1,3 +1,5 @@
-Planet: NEORIBUX
+Moon: NEORIBUX
 Starmap index: 12
 Paris coordinates: -2324624, -8133735, -2013503
+Orbits: SAMT
+Moon id: 0

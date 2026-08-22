@@ -1,3 +1,5 @@
-Planet: VLANDUS QUADREX OCTE
+Moon: VLANDUS QUADREX OCTE
 Starmap index: 26
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS QUADREX
+Moon id: 7

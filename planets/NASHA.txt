@@ -1,3 +1,5 @@
-Planet: NASHA
+Moon: NASHA
 Starmap index: 35
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: NAMELESS ONE
+Moon id: 10

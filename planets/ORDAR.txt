@@ -1,6 +1,8 @@
-Planet: ORDAR
+Moon: ORDAR
 Starmap index: 13
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: AXTAM
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GREY AND DUSTILY

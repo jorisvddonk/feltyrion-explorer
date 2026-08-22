@@ -1,6 +1,8 @@
-Planet: FAJAD IOTA
+Moon: FAJAD IOTA
 Starmap index: 24
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 8
 
 Guide entries:
 NINTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

@@ -1,6 +1,8 @@
-Planet: FORT DEFIANCE
+Moon: FORT DEFIANCE
 Starmap index: 29
 Paris coordinates: 3779984, 4313464, -58717
+Orbits: GASBAG
+Moon id: 1
 
 Guide entries:
  A FELISIAN PLANET 0.02 LY FROM ITS STAR, SKYFIRE.

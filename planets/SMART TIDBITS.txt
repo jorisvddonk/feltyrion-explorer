@@ -1,6 +1,8 @@
-Planet: SMART TIDBITS
+Moon: SMART TIDBITS
 Starmap index: 04
 Paris coordinates: 797728560, 19829282, -795030910
+Orbits: MILLIONDOLLARTROOPER
+Moon id: 0
 
 Guide entries:
 S.S.D.C. TRANSPARENT SURFACE ALSO NOTED. AREA I LANDED IN                   

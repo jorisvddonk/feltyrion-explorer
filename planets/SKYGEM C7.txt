@@ -1,6 +1,8 @@
-Planet: SKYGEM C7
+Moon: SKYGEM C7
 Starmap index: 36
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 6
 
 Guide entries:
  A NORMAL CLOUD COVERED PLANET.

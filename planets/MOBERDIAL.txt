@@ -1,6 +1,8 @@
-Planet: MOBERDIAL
+Moon: MOBERDIAL
 Starmap index: 06
 Paris coordinates: -43376, 4332103, 37107834
+Orbits: BINBLUE B
+Moon id: 0
 
 Guide entries:
 AN INTERNALLY HOT PLANET, VERY BRIGHT TOO!

@@ -1,6 +1,8 @@
-Planet: QUARTON
+Moon: QUARTON
 Starmap index: 10
 Paris coordinates: 4270352, 4415428, -2840399
+Orbits: MYSTEN
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY CAPTAIN ELDRIS GIAC ON EPOC 6011 674.419.890

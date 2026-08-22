@@ -1,3 +1,5 @@
-Planet: D'KAA UMA
+Moon: D'KAA UMA
 Starmap index: 26
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 12
+Moon id: 3

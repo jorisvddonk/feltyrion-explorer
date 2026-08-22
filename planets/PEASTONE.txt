@@ -1,6 +1,8 @@
-Planet: PEASTONE
+Moon: PEASTONE
 Starmap index: 22
 Paris coordinates: 2343216, 4324052, -2533770
+Orbits: planet index 04
+Moon id: 10
 
 Guide entries:
  GREEN CLOUDS, BUT SURPRISINGPURPLE SKY WHEN ON SURFACE. A LITTLE

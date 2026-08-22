@@ -1,3 +1,5 @@
-Planet: AS12271618D2
+Moon: AS12271618D2
 Starmap index: 08
 Paris coordinates: 49858960, -62046, 1990919714
+Orbits: NTRALIFA
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: MAMMON
+Moon: MAMMON
 Starmap index: 36
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH WITH MUCH SCARRING.

@@ -1,6 +1,8 @@
-Planet: QATA
+Moon: QATA
 Starmap index: 09
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 4
 
 Guide entries:
  COLORS RANGE FROM GREEN TO DARK BLUE, ATMOSPHERE IS BLUE.

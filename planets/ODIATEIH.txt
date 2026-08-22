@@ -1,6 +1,8 @@
-Planet: ODIATEIH
+Moon: ODIATEIH
 Starmap index: 22
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: AJIURJARDE
+Moon id: 0
 
 Guide entries:
 M01/P06 THIN ATMO. SLIGHTLY DARK REFLECTIVITY WITH FAIR POLAR CAPS.

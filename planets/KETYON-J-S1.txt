@@ -1,3 +1,5 @@
-Planet: KETYON-J-S1
+Moon: KETYON-J-S1
 Starmap index: 27
 Paris coordinates: 3686096, -82057, -9247365
+Orbits: KETYON-J
+Moon id: 0

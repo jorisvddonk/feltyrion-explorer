@@ -1,3 +1,5 @@
-Planet: JENSCH
+Moon: JENSCH
 Starmap index: 06
 Paris coordinates: 2283920, -26018647, -222425
+Orbits: ALTUAR
+Moon id: 0

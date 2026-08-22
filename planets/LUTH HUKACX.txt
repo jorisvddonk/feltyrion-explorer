@@ -1,3 +1,5 @@
-Planet: LUTH HUKACX
+Moon: LUTH HUKACX
 Starmap index: 15
 Paris coordinates: 2353936, 5345300, -4116543
+Orbits: LUTH CARDEL
+Moon id: 2

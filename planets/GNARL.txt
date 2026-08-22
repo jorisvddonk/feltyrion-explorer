@@ -1,6 +1,8 @@
-Planet: GNARL
+Moon: GNARL
 Starmap index: 11
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF THIRD PLANET. INTERNALLY HOT. LOOKS PRETTY BEAT UP TOO.

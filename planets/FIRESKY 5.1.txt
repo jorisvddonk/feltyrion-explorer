@@ -1,6 +1,8 @@
-Planet: FIRESKY 5.1
+Moon: FIRESKY 5.1
 Starmap index: 30
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 5
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, RUSTY COLOUR, RATHER DARK. VERY

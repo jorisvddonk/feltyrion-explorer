@@ -1,6 +1,8 @@
-Planet: SERAP
+Moon: SERAP
 Starmap index: 13
 Paris coordinates: -2512, 333266, 2788927
+Orbits: MUDIL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A VERY REFLECTIVE GREEN

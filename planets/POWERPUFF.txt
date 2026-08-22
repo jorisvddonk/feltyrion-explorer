@@ -1,6 +1,8 @@
-Planet: POWERPUFF
+Moon: POWERPUFF
 Starmap index: 17
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 10
 
 Guide entries:
 A VERY NEON-TURQUOISE COLORED DENSEWORLD. (SCHMERM 6011 584.162)

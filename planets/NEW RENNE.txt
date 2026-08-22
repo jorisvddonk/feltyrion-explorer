@@ -1,6 +1,8 @@
-Planet: NEW RENNE
+Moon: NEW RENNE
 Starmap index: 29
 Paris coordinates: 7476048, 5871993, -2145588
+Orbits: planet index 05
+Moon id: 12
 
 Guide entries:
  FELISAN MOON OF THE 5TH PLANET IN THE REBIRTH SYSTEM.

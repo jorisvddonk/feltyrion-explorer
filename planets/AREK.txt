@@ -1,6 +1,8 @@
-Planet: AREK
+Moon: AREK
 Starmap index: 14
 Paris coordinates: 51485424, 565868, 1981180300
+Orbits: AS01021626E
+Moon id: 1
 
 Guide entries:
 THE TRANSPARENT SOIL OF THE POLAR REGIONS IS VERY DISORIENTING.

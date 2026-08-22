@@ -1,6 +1,8 @@
-Planet: COSMIGA
+Moon: COSMIGA
 Starmap index: 18
 Paris coordinates: 3959632, 5309715, -1265022
+Orbits: CHICHELO
+Moon id: 1
 
 Guide entries:
  GRAY BARREN MOON, FLAT LANDSCAPE. SECOND MOON OFCHICHELO.

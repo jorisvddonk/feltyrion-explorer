@@ -1,6 +1,8 @@
-Planet: SURTACE
+Moon: SURTACE
 Starmap index: 44
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 2
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED BY DENSE CLOUDS. CLOUD COVERE VERY

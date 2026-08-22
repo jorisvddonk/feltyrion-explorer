@@ -1,3 +1,5 @@
-Planet: VALYX-F-S11-FELYS
+Moon: VALYX-F-S11-FELYS
 Starmap index: 42
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-F
+Moon id: 10

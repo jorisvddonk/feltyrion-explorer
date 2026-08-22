@@ -1,6 +1,8 @@
-Planet: DAVIN NU
+Moon: DAVIN NU
 Starmap index: 45
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 12
 
 Guide entries:
 THIRTEENTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

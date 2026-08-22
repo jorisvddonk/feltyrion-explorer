@@ -1,6 +1,8 @@
-Planet: OBALVUERI
+Moon: OBALVUERI
 Starmap index: 08
 Paris coordinates: 2090958384, -1967570, -33666
+Orbits: EMOFHAT
+Moon id: 3
 
 Guide entries:
 M04/P03 MEDIUM SIZED THICK ATMO. MOSSY GREEN WITH BRIGHT STORMS IN          

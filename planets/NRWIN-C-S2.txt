@@ -1,3 +1,5 @@
-Planet: NRWIN-C-S2
+Moon: NRWIN-C-S2
 Starmap index: 08
 Paris coordinates: -148912, 1540144, -3543794
+Orbits: NARWIN-C-FELYS
+Moon id: 1

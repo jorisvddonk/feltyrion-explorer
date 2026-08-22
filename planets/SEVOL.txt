@@ -1,6 +1,8 @@
-Planet: SEVOL
+Moon: SEVOL
 Starmap index: 18
 Paris coordinates: 3520688, 3890216, 2622488
+Orbits: LAFATTA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

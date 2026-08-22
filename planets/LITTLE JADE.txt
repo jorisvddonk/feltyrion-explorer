@@ -1,3 +1,5 @@
-Planet: LITTLE JADE
+Moon: LITTLE JADE
 Starmap index: 18
 Paris coordinates: 3652848, 4721750, -1527226
+Orbits: IDLE MAJESTY
+Moon id: 9

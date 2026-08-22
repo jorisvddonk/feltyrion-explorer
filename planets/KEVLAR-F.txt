@@ -1,3 +1,5 @@
-Planet: KEVLAR-F
+Moon: KEVLAR-F
 Starmap index: 21
 Paris coordinates: 2661808, -678997, -7638597
+Orbits: KEVALR-GAMMA
+Moon id: 0

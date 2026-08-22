@@ -1,3 +1,5 @@
-Planet: ASKEW 10C14
+Moon: ASKEW 10C14
 Starmap index: 22
 Paris coordinates: 5265328, 2222843, 1446761
+Orbits: ASKEW 10C
+Moon id: 13

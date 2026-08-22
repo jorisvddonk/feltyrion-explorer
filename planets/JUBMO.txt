@@ -1,3 +1,5 @@
-Planet: JUBMO
+Moon: JUBMO
 Starmap index: 27
 Paris coordinates: -2255696, -5301817, -1726973
+Orbits: ROLM
+Moon id: 0

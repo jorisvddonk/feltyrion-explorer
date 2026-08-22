@@ -1,3 +1,5 @@
-Planet: ORIENTE
+Moon: ORIENTE
 Starmap index: 15
 Paris coordinates: 446064, 140246, 1406798
+Orbits: MARIK
+Moon id: 2

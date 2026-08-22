@@ -1,3 +1,5 @@
-Planet: OMEGA RED XII C
+Moon: OMEGA RED XII C
 Starmap index: 30
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED XII
+Moon id: 2

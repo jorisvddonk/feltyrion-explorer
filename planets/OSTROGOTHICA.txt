@@ -1,3 +1,5 @@
-Planet: OSTROGOTHICA
+Moon: OSTROGOTHICA
 Starmap index: 31
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAHDI
+Moon id: 14

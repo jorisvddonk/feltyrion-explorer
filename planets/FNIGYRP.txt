@@ -1,3 +1,5 @@
-Planet: FNIGYRP
+Moon: FNIGYRP
 Starmap index: 16
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: NAKNANK
+Moon id: 0

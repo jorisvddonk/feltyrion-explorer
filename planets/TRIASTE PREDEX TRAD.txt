@@ -1,3 +1,5 @@
-Planet: TRIASTE PREDEX TRAD
+Moon: TRIASTE PREDEX TRAD
 Starmap index: 43
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE PREDEX
+Moon id: 12

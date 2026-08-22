@@ -1,6 +1,8 @@
-Planet: VOWBIN VII G
+Moon: VOWBIN VII G
 Starmap index: 24
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VII
+Moon id: 6
 
 Guide entries:
 A LARGE ICEWORLD. I ACTUALLY FOUND SOMETHING ON AN ICEWORLD FOR

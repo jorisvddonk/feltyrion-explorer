@@ -1,3 +1,5 @@
-Planet: FIBUL
+Moon: FIBUL
 Starmap index: 24
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: YUGULD
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: CYEAL
+Moon: CYEAL
 Starmap index: 07
 Paris coordinates: 26646832, 6023437, 44755504
+Orbits: AUTGEL
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE FOURTH PLANET, A DUSTY MOON. QUITE AVERAGE, LAND

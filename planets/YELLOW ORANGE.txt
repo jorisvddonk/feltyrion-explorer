@@ -1,3 +1,5 @@
-Planet: YELLOW ORANGE
+Moon: YELLOW ORANGE
 Starmap index: 52
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: WHITE
+Moon id: 0

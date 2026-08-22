@@ -1,6 +1,8 @@
-Planet: CETERLES
+Moon: CETERLES
 Starmap index: 31
 Paris coordinates: 191792, 393743, -1607331
+Orbits: COLISM
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE ELEVENTH PLANET, COLISM. ICY MOON OF LITTLE

@@ -1,6 +1,8 @@
-Planet: TELEMO
+Moon: TELEMO
 Starmap index: 24
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

@@ -1,3 +1,5 @@
-Planet: MAKCHA
+Moon: MAKCHA
 Starmap index: 39
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: JUMOR
+Moon id: 0

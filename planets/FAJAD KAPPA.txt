@@ -1,6 +1,8 @@
-Planet: FAJAD KAPPA
+Moon: FAJAD KAPPA
 Starmap index: 25
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 9
 
 Guide entries:
 TENTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

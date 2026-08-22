@@ -1,6 +1,8 @@
-Planet: MISBA
+Moon: MISBA
 Starmap index: 19
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 5
 
 Guide entries:
 M06/P05 SMALL DUSTY CRATERIZED WITH MANY LARGE CRATERS, SLIGHT GREENISH     

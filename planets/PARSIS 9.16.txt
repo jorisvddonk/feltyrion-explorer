@@ -1,6 +1,8 @@
-Planet: PARSIS 9.16
+Moon: PARSIS 9.16
 Starmap index: 41
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 15
 
 Guide entries:
  THE FINAL, I THINK, MOON OF THE PARSIS 9 DWARF SYSTEM, IS YET

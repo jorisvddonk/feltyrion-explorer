@@ -1,3 +1,5 @@
-Planet: UVEX
+Moon: UVEX
 Starmap index: 39
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: ZERIBALD
+Moon id: 17

@@ -1,6 +1,8 @@
-Planet: LESRARIAN
+Moon: LESRARIAN
 Starmap index: 18
 Paris coordinates: 11958800, -19325483, 17497781
+Orbits: ASKEW 40C
+Moon id: 6
 
 Guide entries:
 FOUND BY ROLAND ASKEW (EPOC 6011 585.655.400)

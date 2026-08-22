@@ -1,6 +1,8 @@
-Planet: XZANADU 4.2
+Moon: XZANADU 4.2
 Starmap index: 09
 Paris coordinates: 6571024, 19797331, 4477221
+Orbits: XZANADU 4
+Moon id: 1
 
 Guide entries:
  THIS IS THE FIRST FELISIAN WORLD FOUND IN THIS SYSTEM.

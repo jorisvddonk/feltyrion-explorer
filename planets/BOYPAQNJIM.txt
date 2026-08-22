@@ -1,3 +1,5 @@
-Planet: BOYPAQNJIM
+Moon: BOYPAQNJIM
 Starmap index: 49
 Paris coordinates: 15285680, 32141853, -7324159
+Orbits: ALSAKI CXI-2
+Moon id: 5

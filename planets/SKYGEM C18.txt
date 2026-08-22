@@ -1,6 +1,8 @@
-Planet: SKYGEM C18
+Moon: SKYGEM C18
 Starmap index: 47
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 17
 
 Guide entries:
 A BATTERED, AIRLESS MOON. AMWHERE 6011.585.75

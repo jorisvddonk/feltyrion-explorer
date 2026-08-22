@@ -1,3 +1,5 @@
-Planet: TRIASTE PREDEX DAHL
+Moon: TRIASTE PREDEX DAHL
 Starmap index: 40
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE PREDEX
+Moon id: 9

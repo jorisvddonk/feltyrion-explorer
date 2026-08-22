@@ -1,3 +1,5 @@
-Planet: MAYBE ANOTHER HELL
+Moon: MAYBE ANOTHER HELL
 Starmap index: 08
 Paris coordinates: 376048, 5442863, 5216559
+Orbits: BULL'S EYE
+Moon id: 0

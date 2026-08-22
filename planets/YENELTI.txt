@@ -1,6 +1,8 @@
-Planet: YENELTI
+Moon: YENELTI
 Starmap index: 10
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: KUROSSE
+Moon id: 1
 
 Guide entries:
 SMALL, DUSTY, CRATERIZED. BLAND COLORS EXCEPT WHEN LANDING ON THE DARKEST   

@@ -1,6 +1,8 @@
-Planet: DIENDEMUATU
+Moon: DIENDEMUATU
 Starmap index: 22
 Paris coordinates: -20644144, 870074, -11911533
+Orbits: NEMEHAK VIII
+Moon id: 1
 
 Guide entries:
 NEMEHAK 02/08; QUARTZ

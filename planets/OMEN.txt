@@ -1,6 +1,8 @@
-Planet: OMEN
+Moon: OMEN
 Starmap index: 15
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 5
 
 Guide entries:
 UPDATE:MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

@@ -1,3 +1,5 @@
-Planet: GURAB
+Moon: GURAB
 Starmap index: 05
 Paris coordinates: 1425712, -18029047, -838747
+Orbits: SURAB
+Moon id: 0

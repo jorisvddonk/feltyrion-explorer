@@ -1,3 +1,5 @@
-Planet: HAMERON
+Moon: HAMERON
 Starmap index: 14
 Paris coordinates: 3290704, 5637570, -892839
+Orbits: CLIFT
+Moon id: 0

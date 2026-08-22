@@ -1,3 +1,5 @@
-Planet: FERUGOSA16
+Moon: FERUGOSA16
 Starmap index: 16
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: FERRAT
+Moon id: 3

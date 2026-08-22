@@ -1,3 +1,5 @@
-Planet: FYUUT
+Moon: FYUUT
 Starmap index: 11
 Paris coordinates: -31046256, -20000567, -499915367
+Orbits: FYUYTP
+Moon id: 0

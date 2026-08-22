@@ -1,3 +1,5 @@
-Planet: BASHED ROTTEN
+Moon: BASHED ROTTEN
 Starmap index: 09
 Paris coordinates: -1139280, 528850, 7837
+Orbits: INDIGORGEOUS
+Moon id: 1

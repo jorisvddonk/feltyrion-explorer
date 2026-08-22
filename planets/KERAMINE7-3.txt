@@ -1,6 +1,8 @@
-Planet: KERAMINE7-3
+Moon: KERAMINE7-3
 Starmap index: 21
 Paris coordinates: -36432, -1290440, 1061497
+Orbits: KERAMINE7
+Moon id: 2
 
 Guide entries:
 MEDIUM, THICK ATMOSPHERE. COMPLETE CLOUD COVER.

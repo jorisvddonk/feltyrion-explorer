@@ -1,3 +1,5 @@
-Planet: XORROKI
+Moon: XORROKI
 Starmap index: 17
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: NAKNANK
+Moon id: 1

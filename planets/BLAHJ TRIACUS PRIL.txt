@@ -1,3 +1,5 @@
-Planet: BLAHJ TRIACUS PRIL
+Moon: BLAHJ TRIACUS PRIL
 Starmap index: 04
 Paris coordinates: 1400252080, 1929570, 1399397714
+Orbits: BLAHJ TRIACUS
+Moon id: 0

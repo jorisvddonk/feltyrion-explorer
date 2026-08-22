@@ -1,6 +1,8 @@
-Planet: ARDHEA
+Moon: ARDHEA
 Starmap index: 13
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: CAPACIT
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, CONSIDERABBLY DARK, SLIGHT POLAR CAPS.

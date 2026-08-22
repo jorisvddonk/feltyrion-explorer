@@ -1,6 +1,8 @@
-Planet: VIPER 3.9
+Moon: VIPER 3.9
 Starmap index: 14
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 8
 
 Guide entries:
 ANOTHER FELISIAN MOON! THIS ONE SEEMS TO BE MORE 'BALANCED' THAN

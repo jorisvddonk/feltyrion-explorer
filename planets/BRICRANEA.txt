@@ -1,3 +1,5 @@
-Planet: BRICRANEA
+Moon: BRICRANEA
 Starmap index: 18
 Paris coordinates: -61232592, 29255171, 664579
+Orbits: JB 100
+Moon id: 4

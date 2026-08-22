@@ -1,3 +1,5 @@
-Planet: BLAUEN ROTT
+Moon: BLAUEN ROTT
 Starmap index: 28
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 5

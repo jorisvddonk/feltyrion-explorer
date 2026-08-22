@@ -1,6 +1,8 @@
-Planet: REALBIG
+Moon: REALBIG
 Starmap index: 23
 Paris coordinates: -23157200, 17726611, 36407291
+Orbits: planet index 04
+Moon id: 6
 
 Guide entries:
  FELISIAN PLANET IN ORBIT AROUND S00 STAR BEAMA. DSC. BY SCAREDY-CAT,

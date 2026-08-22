@@ -1,6 +1,8 @@
-Planet: GREY DUST
+Moon: GREY DUST
 Starmap index: 57
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 7
 
 Guide entries:
 CREASED MOON ORBITING FERTILE MINISTAR ON EKA24. DUSTY COLOR. --EKA

@@ -1,3 +1,5 @@
-Planet: JETOOCEC V
+Moon: JETOOCEC V
 Starmap index: 09
 Paris coordinates: 5269264, 4948634, -244399
+Orbits: JETOOCEC
+Moon id: 0

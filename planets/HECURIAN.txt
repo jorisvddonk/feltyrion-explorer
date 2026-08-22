@@ -1,6 +1,8 @@
-Planet: HECURIAN
+Moon: HECURIAN
 Starmap index: 19
 Paris coordinates: 11707376, -19259942, 16768028
+Orbits: ASKEW 47D
+Moon id: 7
 
 Guide entries:
 FOUND EPOC 6011 585.796.750 BY ROLAND ASKEW

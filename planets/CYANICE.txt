@@ -1,6 +1,8 @@
-Planet: CYANICE
+Moon: CYANICE
 Starmap index: 04
 Paris coordinates: 3670352, 4880794, -2276340
+Orbits: KHLER3L BLUE
+Moon id: 0
 
 Guide entries:
  FIRST MOON OF KHLER3L BLUE.

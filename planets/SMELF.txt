@@ -1,6 +1,8 @@
-Planet: SMELF
+Moon: SMELF
 Starmap index: 05
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXCEEDINGLY DARK, NO SIGNS OF POLAR CAPS.

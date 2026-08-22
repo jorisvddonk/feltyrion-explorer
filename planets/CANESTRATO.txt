@@ -1,6 +1,8 @@
-Planet: CANESTRATO
+Moon: CANESTRATO
 Starmap index: 39
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: TILSIT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.MOSTLY DUSTY WITH

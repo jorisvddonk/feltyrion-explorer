@@ -1,3 +1,5 @@
-Planet: LIWIAR
+Moon: LIWIAR
 Starmap index: 22
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: GWORIKO
+Moon id: 3

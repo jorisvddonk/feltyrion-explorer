@@ -1,6 +1,8 @@
-Planet: PIECEWORK
+Moon: PIECEWORK
 Starmap index: 07
 Paris coordinates: 3666416, 4731653, -785554
+Orbits: TWO EYES
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE

@@ -1,3 +1,5 @@
-Planet: BAALLGRURGER
+Moon: BAALLGRURGER
 Starmap index: 22
 Paris coordinates: -38816752, 1405498, 31086787
+Orbits: M04-0472 C
+Moon id: 15

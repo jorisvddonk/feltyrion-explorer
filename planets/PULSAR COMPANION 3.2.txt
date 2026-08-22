@@ -1,6 +1,8 @@
-Planet: PULSAR COMPANION 3.2
+Moon: PULSAR COMPANION 3.2
 Starmap index: 05
 Paris coordinates: 1698576, 2677692, -2724758
+Orbits: PULSAR COMPANION 3
+Moon id: 1
 
 Guide entries:
  THIS MOON IS A TINY, FROZEN BALL OF ICE.

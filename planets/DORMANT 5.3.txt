@@ -1,6 +1,8 @@
-Planet: DORMANT 5.3
+Moon: DORMANT 5.3
 Starmap index: 16
 Paris coordinates: -3013904, 10333783, -2573808
+Orbits: DORMANT 5
+Moon id: 2
 
 Guide entries:
  THE OTHER-MOST WORLD ORBITING THE PLANET DORMANT 5, IS YET

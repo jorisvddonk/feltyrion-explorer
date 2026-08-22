@@ -1,6 +1,8 @@
-Planet: ARELI
+Moon: ARELI
 Starmap index: 12
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH, WITH SOME CRATERS.

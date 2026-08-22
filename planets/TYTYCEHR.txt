@@ -1,3 +1,5 @@
-Planet: TYTYCEHR
+Moon: TYTYCEHR
 Starmap index: 25
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 8

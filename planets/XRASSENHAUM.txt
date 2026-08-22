@@ -1,3 +1,5 @@
-Planet: XRASSENHAUM
+Moon: XRASSENHAUM
 Starmap index: 13
 Paris coordinates: 15285680, 32141853, -7324159
+Orbits: ALSAKI CXI-1
+Moon id: 4

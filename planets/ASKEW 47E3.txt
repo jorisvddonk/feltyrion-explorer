@@ -1,3 +1,5 @@
-Planet: ASKEW 47E3
+Moon: ASKEW 47E3
 Starmap index: 29
 Paris coordinates: 11707376, -19259942, 16768028
+Orbits: LEXXX
+Moon id: 2

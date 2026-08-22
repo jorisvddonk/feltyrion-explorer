@@ -1,6 +1,8 @@
-Planet: ALIJOD
+Moon: ALIJOD
 Starmap index: 39
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 3
 
 Guide entries:
 M02/P09 SMALL SOLID ICY. LIGHT VIOLET COLOR, MUCH DARK GROOVING. PRO        

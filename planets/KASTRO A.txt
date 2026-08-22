@@ -1,6 +1,8 @@
-Planet: KASTRO A
+Moon: KASTRO A
 Starmap index: 07
 Paris coordinates: 3594640, -66246329, -2851929
+Orbits: KASTRO
+Moon id: 0
 
 Guide entries:
 A SMALL AND VERY STRANGELY LOOKING DEADWORLD. IT IS A MOSAIC OF WHITE

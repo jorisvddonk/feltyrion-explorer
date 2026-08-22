@@ -1,6 +1,8 @@
-Planet: DUCRY
+Moon: DUCRY
 Starmap index: 10
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: KRITO
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY CRATERIZED. LIGHT GREEN WITH DEEP CRATERS. PRO    

@@ -1,6 +1,8 @@
-Planet: DE SON TORT
+Moon: DE SON TORT
 Starmap index: 18
 Paris coordinates: 87856, -5814, 275087
+Orbits: SWANK
+Moon id: 8
 
 Guide entries:
 A FELISIAN WORLD-AT 35.60 THERE'S ROLLING BUT BARREN GROUND.

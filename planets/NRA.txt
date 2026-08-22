@@ -1,3 +1,5 @@
-Planet: NRA
+Moon: NRA
 Starmap index: 20
 Paris coordinates: 11958800, -19325483, 17497781
+Orbits: ASKEW 40E
+Moon id: 0

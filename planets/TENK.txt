@@ -1,6 +1,8 @@
-Planet: TENK
+Moon: TENK
 Starmap index: 18
 Paris coordinates: 3879984, 4316450, -249386
+Orbits: LEPIRT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE IN

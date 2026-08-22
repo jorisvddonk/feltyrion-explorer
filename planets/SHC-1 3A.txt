@@ -1,6 +1,8 @@
-Planet: SHC-1 3A
+Moon: SHC-1 3A
 Starmap index: 12
 Paris coordinates: -26583376, -15647682, -1001175282
+Orbits: SHC-1 3
+Moon id: 0
 
 Guide entries:
 A LARGE MOON WITH A THICK ATMOSPHERE. I WILL ATTEMPT A LANDING.

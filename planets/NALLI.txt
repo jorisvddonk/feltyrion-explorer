@@ -1,3 +1,5 @@
-Planet: NALLI
+Moon: NALLI
 Starmap index: 06
 Paris coordinates: 4831408, 4803641, -36528
+Orbits: DISES
+Moon id: 1

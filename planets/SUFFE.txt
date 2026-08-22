@@ -1,6 +1,8 @@
-Planet: SUFFE
+Moon: SUFFE
 Starmap index: 44
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DUSTY AND VERY GROOVED, ALMOST

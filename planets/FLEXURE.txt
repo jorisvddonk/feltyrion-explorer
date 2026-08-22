@@ -1,6 +1,8 @@
-Planet: FLEXURE
+Moon: FLEXURE
 Starmap index: 08
 Paris coordinates: 174288, 19297, -474884
+Orbits: RITUAL
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD REFLECTIVITY WITH

@@ -1,3 +1,5 @@
-Planet: COMPANIS
+Moon: COMPANIS
 Starmap index: 13
 Paris coordinates: -61852944, 29465986, 69518
+Orbits: DUALIS
+Moon id: 0

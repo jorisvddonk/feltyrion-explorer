@@ -1,3 +1,5 @@
-Planet: DM-GORGONSCRTUCH-1
+Moon: DM-GORGONSCRTUCH-1
 Starmap index: 13
 Paris coordinates: 4148912, 4488377, -127177
+Orbits: GORGONS CRUTCH
+Moon id: 0

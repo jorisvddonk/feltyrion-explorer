@@ -1,6 +1,8 @@
-Planet: GM-1-PINACLEGP-2
+Moon: GM-1-PINACLEGP-2
 Starmap index: 19
 Paris coordinates: 3804272, 4498014, -620206
+Orbits: GP-PINACLE-2
+Moon id: 4
 
 Guide entries:
 GAS MOON, THICK ATMOSPHERE, LOW VISIBILITY CAUTION ADVISED

@@ -1,6 +1,8 @@
-Planet: VNIRFH
+Moon: VNIRFH
 Starmap index: 08
 Paris coordinates: 2052562480, 532725, 204773
+Orbits: ODFHNOJAME
+Moon id: 3
 
 Guide entries:
 M04/P03 MEDIUM SIZE ROCKY, ROUGH WITH MANY CRATERS. PRO 0.180.360           

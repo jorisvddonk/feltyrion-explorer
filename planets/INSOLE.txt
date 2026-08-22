@@ -1,6 +1,8 @@
-Planet: INSOLE
+Moon: INSOLE
 Starmap index: 09
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-B
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. THE LARGE CRATERS HAVE

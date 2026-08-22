@@ -1,3 +1,5 @@
-Planet: AWEK
+Moon: AWEK
 Starmap index: 38
 Paris coordinates: 9975632, 8195351, 8947026
+Orbits: ASKEW 19H
+Moon id: 6

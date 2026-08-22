@@ -1,6 +1,8 @@
-Planet: NEMEA
+Moon: NEMEA
 Starmap index: 12
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: HEXANE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. INCREDIBLY DARK. IT'S A GOOD THING IT

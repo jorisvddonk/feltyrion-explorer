@@ -1,3 +1,5 @@
-Planet: GAULEX
+Moon: GAULEX
 Starmap index: 13
 Paris coordinates: 1577136, 4292069, 78342
+Orbits: BIG DAD
+Moon id: 4

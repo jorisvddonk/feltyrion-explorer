@@ -1,3 +1,5 @@
-Planet: REKINI-G-S3
+Moon: REKINI-G-S3
 Starmap index: 21
 Paris coordinates: 164656, -54848, -2929708
+Orbits: REKINI-G
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: VROONG
+Moon: VROONG
 Starmap index: 12
 Paris coordinates: 625712, 20217, -47143
+Orbits: WOP 6
+Moon id: 2

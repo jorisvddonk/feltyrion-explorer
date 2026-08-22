@@ -1,6 +1,8 @@
-Planet: DUENDE
+Moon: DUENDE
 Starmap index: 24
 Paris coordinates: 3521776, 4359539, -1148567
+Orbits: SILENCE
+Moon id: 0
 
 Guide entries:
 A CLOUD-COVERED MOON. THE 'BRIGHT SPOT' THAT IS VISIBLE FROM ORBIT IS

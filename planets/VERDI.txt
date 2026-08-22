@@ -1,3 +1,5 @@
-Planet: VERDI
+Moon: VERDI
 Starmap index: 32
 Paris coordinates: 3570352, 5140459, -2376901
+Orbits: HIVES
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: STRANGE ACQUAINTANCE
+Moon: STRANGE ACQUAINTANCE
 Starmap index: 20
 Paris coordinates: 3714992, 5004837, -1766171
+Orbits: SISTER LOVED BY ALL
+Moon id: 7

@@ -1,6 +1,8 @@
-Planet: ALCOBACA
+Moon: ALCOBACA
 Starmap index: 14
 Paris coordinates: 4466416, 4692609, -1413164
+Orbits: ABOAB
+Moon id: 2
 
 Guide entries:
  UNSTABLE SURFACE (BY NBOAR 6011 588.564)

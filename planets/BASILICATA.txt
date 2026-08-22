@@ -1,3 +1,5 @@
-Planet: BASILICATA
+Moon: BASILICATA
 Starmap index: 14
 Paris coordinates: -2724624, 638120, -1378476
+Orbits: APRILIA
+Moon id: 0

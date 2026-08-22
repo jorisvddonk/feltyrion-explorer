@@ -1,3 +1,5 @@
-Planet: QWAHR SEPTUS SILP
+Moon: QWAHR SEPTUS SILP
 Starmap index: 54
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR SEPTUS
+Moon id: 6

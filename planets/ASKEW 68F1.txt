@@ -1,3 +1,5 @@
-Planet: ASKEW 68F1
+Moon: ASKEW 68F1
 Starmap index: 12
 Paris coordinates: 11314160, -19380914, 17626244
+Orbits: ASKEW 68F
+Moon id: 0

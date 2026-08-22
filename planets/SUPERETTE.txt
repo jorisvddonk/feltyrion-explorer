@@ -1,6 +1,8 @@
-Planet: SUPERETTE
+Moon: SUPERETTE
 Starmap index: 23
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERCHARGER
+Moon id: 10
 
 Guide entries:
  MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

@@ -1,3 +1,5 @@
-Planet: WRINKLY
+Moon: WRINKLY
 Starmap index: 10
 Paris coordinates: -412144, 9617773, 669160
+Orbits: SURSASIC
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: NECRON
+Moon: NECRON
 Starmap index: 42
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: HOLITE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE,QUITE DARK, GOOD POLAR CAPS. SKINNYMON

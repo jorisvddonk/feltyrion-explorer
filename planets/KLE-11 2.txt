@@ -1,3 +1,5 @@
-Planet: KLE-11 2
+Moon: KLE-11 2
 Starmap index: 24
 Paris coordinates: 3221776, 4389395, -850477
+Orbits: KLE-11
+Moon id: 1

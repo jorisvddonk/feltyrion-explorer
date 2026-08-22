@@ -1,6 +1,8 @@
-Planet: KAI-RUCIT
+Moon: KAI-RUCIT
 Starmap index: 16
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 5
 
 Guide entries:
 A FELISIAN PLANET WHICH HAS DARK COLOURS IF SEEN FROM ORBIT.                

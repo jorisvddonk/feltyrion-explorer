@@ -1,3 +1,5 @@
-Planet: ASKEW 76M3
+Moon: ASKEW 76M3
 Starmap index: 59
 Paris coordinates: 11352016, -19280074, 17907404
+Orbits: ASKEW 76M
+Moon id: 2

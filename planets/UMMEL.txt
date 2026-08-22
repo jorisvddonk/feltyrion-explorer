@@ -1,6 +1,8 @@
-Planet: UMMEL
+Moon: UMMEL
 Starmap index: 17
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID THIN ATMOSPHERE (YET AGAIN!), EXTREMELY DARK, BARELY

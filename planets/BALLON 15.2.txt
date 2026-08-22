@@ -1,6 +1,8 @@
-Planet: BALLON 15.2
+Moon: BALLON 15.2
 Starmap index: 48
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 15
+Moon id: 1
 
 Guide entries:
 AND THIS IS THE SECOND MOON... OF THE SAME TYPE, BUT HIGHLY                 

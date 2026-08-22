@@ -1,6 +1,8 @@
-Planet: YATTA
+Moon: YATTA
 Starmap index: 28
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: OBSTRE
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE DUSTY WITH LARGE

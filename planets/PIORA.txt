@@ -1,6 +1,8 @@
-Planet: PIORA
+Moon: PIORA
 Starmap index: 25
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. REFLECTIVE WITH A SLIGHT

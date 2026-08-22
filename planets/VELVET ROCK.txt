@@ -1,3 +1,5 @@
-Planet: VELVET ROCK
+Moon: VELVET ROCK
 Starmap index: 27
 Paris coordinates: -412144, 9617773, 669160
+Orbits: PUTRID
+Moon id: 13

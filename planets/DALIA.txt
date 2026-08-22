@@ -1,6 +1,8 @@
-Planet: DALIA
+Moon: DALIA
 Starmap index: 25
 Paris coordinates: 11052016, -19059857, 17952287
+Orbits: ASKEW 74E
+Moon id: 13
 
 Guide entries:
 FOUND EPOC 6011 588.092.800 BY ROLAND ASKEW

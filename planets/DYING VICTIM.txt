@@ -1,6 +1,8 @@
-Planet: DYING VICTIM
+Moon: DYING VICTIM
 Starmap index: 27
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: RED PLAGUE
+Moon id: 2
 
 Guide entries:
 QUARTZ-COLORED MOON OF PLANET RED DEATH. NICE PURPLE COLOR. --EKA

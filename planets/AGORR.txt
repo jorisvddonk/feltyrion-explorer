@@ -1,6 +1,8 @@
-Planet: AGORR
+Moon: AGORR
 Starmap index: 06
 Paris coordinates: 4197488, 4371488, -1409526
+Orbits: NETRO
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY THE GREENFURRED ALAN AB, EPOC 6011.560.900

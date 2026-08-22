@@ -1,6 +1,8 @@
-Planet: AQUUS
+Moon: AQUUS
 Starmap index: 12
 Paris coordinates: 3952848, 4820328, -1619072
+Orbits: TRIS
+Moon id: 5
 
 Guide entries:
 HABITABLE. WATER WORLD - VERY LITTLE DRY LAND. NO OBSERVED NATIVE LIFE.

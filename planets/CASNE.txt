@@ -1,6 +1,8 @@
-Planet: CASNE
+Moon: CASNE
 Starmap index: 30
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 9
 
 Guide entries:
 M10/P08 MEDIUM SIZE INTERNALLY HOT, YELLOW-BROWN WITH A WARM GLOW. PRO      

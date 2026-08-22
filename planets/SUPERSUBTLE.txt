@@ -1,6 +1,8 @@
-Planet: SUPERSUBTLE
+Moon: SUPERSUBTLE
 Starmap index: 30
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERABLE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.ONLY A FEW MEDIUM

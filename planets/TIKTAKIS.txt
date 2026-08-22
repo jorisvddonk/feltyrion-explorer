@@ -1,3 +1,5 @@
-Planet: TIKTAKIS
+Moon: TIKTAKIS
 Starmap index: 25
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: KISIELUS
+Moon id: 9

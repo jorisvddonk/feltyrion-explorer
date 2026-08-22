@@ -1,6 +1,8 @@
-Planet: HAPRA
+Moon: HAPRA
 Starmap index: 33
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: COUMAS
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, POLAR CAPS SLIGHT. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: MOQUE
+Moon: MOQUE
 Starmap index: 13
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE BUT

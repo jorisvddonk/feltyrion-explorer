@@ -1,3 +1,5 @@
-Planet: EERD HRAN
+Moon: EERD HRAN
 Starmap index: 51
 Paris coordinates: -38647824, 1378929, 31229463
+Orbits: GHYTHUR HRAN
+Moon id: 2

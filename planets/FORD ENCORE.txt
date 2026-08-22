@@ -1,3 +1,5 @@
-Planet: FORD ENCORE\
+Moon: FORD ENCORE\
 Starmap index: 09
 Paris coordinates: 5179568, -15162902, 12055564
+Orbits: ASKEW 126C
+Moon id: 1

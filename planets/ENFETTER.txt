@@ -1,6 +1,8 @@
-Planet: ENFETTER
+Moon: ENFETTER
 Starmap index: 10
 Paris coordinates: -461808, 50208, 5718934
+Orbits: WHIRR
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A GOOD CROSS SECTION

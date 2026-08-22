@@ -1,3 +1,5 @@
-Planet: ASKEW 139C4
+Moon: ASKEW 139C4
 Starmap index: 11
 Paris coordinates: 9266672, -17450856, 16757336
+Orbits: ASKEW 139C
+Moon id: 3

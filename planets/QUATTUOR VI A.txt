@@ -1,3 +1,5 @@
-Planet: QUATTUOR VI A
+Moon: QUATTUOR VI A
 Starmap index: 23
 Paris coordinates: 3174288, 4345848, -3434396
+Orbits: QUATTUOR VI
+Moon id: 0

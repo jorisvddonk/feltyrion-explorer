@@ -1,3 +1,5 @@
-Planet: ASKEW 87G1
+Moon: ASKEW 87G1
 Starmap index: 14
 Paris coordinates: 10976304, -19258322, 17845482
+Orbits: ASKEW 87G
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: BASP ALPHA
+Moon: BASP ALPHA
 Starmap index: 76
 Paris coordinates: 612144, 6999853, -833727
+Orbits: BASP
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET BASP IN THE GENISI SYSTEM

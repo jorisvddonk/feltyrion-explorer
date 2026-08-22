@@ -1,6 +1,8 @@
-Planet: DARHOHRAD
+Moon: DARHOHRAD
 Starmap index: 13
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 2
 
 Guide entries:
 THE FIRST OF THE 4 GAS GIANT MOONS OF DECOCTACATO. PURPLE BANDS ARE         

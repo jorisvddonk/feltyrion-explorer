@@ -1,6 +1,8 @@
-Planet: THARIUS
+Moon: THARIUS
 Starmap index: 25
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 14
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.695

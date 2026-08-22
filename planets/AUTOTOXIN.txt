@@ -1,6 +1,8 @@
-Planet: AUTOTOXIN
+Moon: AUTOTOXIN
 Starmap index: 20
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: ROSE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAPS GOOD, A SMALL LIGHT

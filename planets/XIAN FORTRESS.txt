@@ -1,3 +1,5 @@
-Planet: XIAN FORTRESS
+Moon: XIAN FORTRESS
 Starmap index: 36
 Paris coordinates: 5179568, -15162902, 12055564
+Orbits: ASKEW 126D
+Moon id: 9

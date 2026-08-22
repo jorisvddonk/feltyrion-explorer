@@ -1,6 +1,8 @@
-Planet: DM-EMA4-2
+Moon: DM-EMA4-2
 Starmap index: 20
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: BARNARD WORLD
+Moon id: 1
 
 Guide entries:
  DEAD MOON, NO ATMOSPHERE

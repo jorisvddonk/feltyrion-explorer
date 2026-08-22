@@ -1,3 +1,5 @@
-Planet: FIRE FLOWER
+Moon: FIRE FLOWER
 Starmap index: 20
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: VINYL
+Moon id: 0

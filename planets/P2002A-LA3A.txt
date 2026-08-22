@@ -1,3 +1,5 @@
-Planet: P2002A-LA3A
+Moon: P2002A-LA3A
 Starmap index: 04
 Paris coordinates: 3414992, 5189610, -1467863
+Orbits: P2002A-LA3
+Moon id: 0

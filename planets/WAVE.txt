@@ -1,6 +1,8 @@
-Planet: WAVE
+Moon: WAVE
 Starmap index: 35
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: NEEP
+Moon id: 5
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. VERY REFLECTIVE CLOUD

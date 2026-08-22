@@ -1,6 +1,8 @@
-Planet: ALPUL 100 III-18
+Moon: ALPUL 100 III-18
 Starmap index: 23
 Paris coordinates: 4162480, 4932645, 601950
+Orbits: ALPUL 100 III
+Moon id: 17
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN

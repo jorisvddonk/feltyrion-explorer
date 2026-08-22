@@ -1,3 +1,5 @@
-Planet: DELETHINS' PUP
+Moon: DELETHINS' PUP
 Starmap index: 08
 Paris coordinates: 2739280, 4319060, -1223981
+Orbits: DELTHINS
+Moon id: 0

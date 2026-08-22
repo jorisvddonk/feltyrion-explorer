@@ -1,3 +1,5 @@
-Planet: SA04
+Moon: SA04
 Starmap index: 24
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: SATAS
+Moon id: 3

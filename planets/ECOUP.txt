@@ -1,6 +1,8 @@
-Planet: ECOUP
+Moon: ECOUP
 Starmap index: 19
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. MOSTLY DARK WITH ONE LIGHTER AREA, FAIR

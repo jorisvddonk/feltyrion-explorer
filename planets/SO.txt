@@ -1,6 +1,8 @@
-Planet: SO?
+Moon: SO?
 Starmap index: 73
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: FAULT ZONE
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SO?

@@ -1,3 +1,5 @@
-Planet: ZYNATH-E-S9
+Moon: ZYNATH-E-S9
 Starmap index: 24
 Paris coordinates: 2838608, -355266, -11118826
+Orbits: ZYNATH-E
+Moon id: 8

@@ -1,6 +1,8 @@
-Planet: ALIZE
+Moon: ALIZE
 Starmap index: 22
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE STORM

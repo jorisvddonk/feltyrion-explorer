@@ -1,6 +1,8 @@
-Planet: DEYE
+Moon: DEYE
 Starmap index: 17
 Paris coordinates: 191792, 393743, -1607331
+Orbits: DIMESS
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE THIRD PLANET. A VERY DIM THIN ATMO. THE SKY SEEMS

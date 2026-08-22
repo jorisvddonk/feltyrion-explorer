@@ -1,3 +1,5 @@
-Planet: MAGGOT
+Moon: MAGGOT
 Starmap index: 09
 Paris coordinates: -71737776, -612728, 53298332
+Orbits: ROTTING CORPSE
+Moon id: 0

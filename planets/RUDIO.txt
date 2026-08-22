@@ -1,3 +1,5 @@
-Planet: RUDIO
+Moon: RUDIO
 Starmap index: 13
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: GMUSE
+Moon id: 1

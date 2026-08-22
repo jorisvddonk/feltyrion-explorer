@@ -1,6 +1,8 @@
-Planet: GOOGAI
+Moon: GOOGAI
 Starmap index: 19
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. FROM

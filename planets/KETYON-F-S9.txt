@@ -1,3 +1,5 @@
-Planet: KETYON-F-S9
+Moon: KETYON-F-S9
 Starmap index: 21
 Paris coordinates: 3686096, -82057, -9247365
+Orbits: KETYON-F
+Moon id: 8

@@ -1,6 +1,8 @@
-Planet: BALLON 5.3
+Moon: BALLON 5.3
 Starmap index: 30
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 5
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. GREEN AGAIN, BUT I'M SURE THAT             

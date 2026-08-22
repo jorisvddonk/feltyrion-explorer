@@ -1,6 +1,8 @@
-Planet: TERCE
+Moon: TERCE
 Starmap index: 29
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 16
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY STORMY.

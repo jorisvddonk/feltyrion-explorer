@@ -1,6 +1,8 @@
-Planet: HOWL III M.1
+Moon: HOWL III M.1
 Starmap index: 11
 Paris coordinates: 4666416, 3329333, -1614139
+Orbits: HOWL III
+Moon id: 0
 
 Guide entries:
 THE MOON IS GREEN AND HAS MANY CRATERS, WITHOUT LIFE

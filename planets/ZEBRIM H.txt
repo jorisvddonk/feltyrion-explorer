@@ -1,6 +1,8 @@
-Planet: ZEBRIM H
+Moon: ZEBRIM H
 Starmap index: 15
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 7
 
 Guide entries:
 A GREEN THINWORLD WITH MOUNTAINOUS DARK SPOTS.

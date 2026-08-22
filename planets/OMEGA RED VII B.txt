@@ -1,6 +1,8 @@
-Planet: OMEGA RED VII B
+Moon: OMEGA RED VII B
 Starmap index: 25
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED VII
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK WITH VERY SLIGHT

@@ -1,6 +1,8 @@
-Planet: SOSKI
+Moon: SOSKI
 Starmap index: 13
 Paris coordinates: 2060398160, -1842327, 78233
+Orbits: ROMOSVY
+Moon id: 1
 
 Guide entries:
 M02/P07 SMALL SOLID DUSTY GREEN COLOR WITH VERY LARGE CRATERS. PRO 0.       

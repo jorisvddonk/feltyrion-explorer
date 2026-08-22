@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 3.2
+Moon: GRANTED WISH 3.2
 Starmap index: 09
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 3
+Moon id: 1
 
 Guide entries:
 HMM, MEDIUM-SIZED, FELYSIAN, BREATHABLE ATMOSPHERE. FROM THE                

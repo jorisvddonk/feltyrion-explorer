@@ -1,6 +1,8 @@
-Planet: EASI
+Moon: EASI
 Starmap index: 22
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE AND

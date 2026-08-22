@@ -1,3 +1,5 @@
-Planet: SERGEIOV J1
+Moon: SERGEIOV J1
 Starmap index: 58
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV J
+Moon id: 0

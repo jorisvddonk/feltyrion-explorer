@@ -1,3 +1,5 @@
-Planet: YANG
+Moon: YANG
 Starmap index: 14
 Paris coordinates: -87856, 69100, -95029
+Orbits: MAGNOSIS
+Moon id: 1

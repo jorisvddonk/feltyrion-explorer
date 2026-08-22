@@ -1,6 +1,8 @@
-Planet: PEARLUE
+Moon: PEARLUE
 Starmap index: 23
 Paris coordinates: 191792, 393743, -1607331
+Orbits: SELLO
+Moon id: 5
 
 Guide entries:
 THE SIXTH MOON OF THE FOURTH PLANET. THICK ATMO. TAN FROM SPACE, BUT

@@ -1,3 +1,5 @@
-Planet: M04-3875 3B
+Moon: M04-3875 3B
 Starmap index: 11
 Paris coordinates: -39892464, 1503533, 31669280
+Orbits: M04-3875 3
+Moon id: 1

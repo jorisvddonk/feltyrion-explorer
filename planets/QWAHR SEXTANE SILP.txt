@@ -1,3 +1,5 @@
-Planet: QWAHR SEXTANE SILP
+Moon: QWAHR SEXTANE SILP
 Starmap index: 42
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR SEXTANE
+Moon id: 6

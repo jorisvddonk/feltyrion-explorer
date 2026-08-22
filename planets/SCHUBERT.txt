@@ -1,6 +1,8 @@
-Planet: SCHUBERT
+Moon: SCHUBERT
 Starmap index: 21
 Paris coordinates: -166416, 810980, -2531009
+Orbits: planet index 03
+Moon id: 10
 
 Guide entries:
  DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOCH 6011.607.962

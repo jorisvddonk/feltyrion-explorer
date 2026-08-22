@@ -1,3 +1,5 @@
-Planet: MAR
+Moon: MAR
 Starmap index: 10
 Paris coordinates: 3083920, 4648212, -1135470
+Orbits: planet index 03
+Moon id: 3

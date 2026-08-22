@@ -1,3 +1,5 @@
-Planet: CRATERZ
+Moon: CRATERZ
 Starmap index: 17
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 10

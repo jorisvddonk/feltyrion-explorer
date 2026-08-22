@@ -1,6 +1,8 @@
-Planet: PIN DYE
+Moon: PIN DYE
 Starmap index: 14
 Paris coordinates: -1012144, 619863, 1312269
+Orbits: ATHABASCA
+Moon id: 10
 
 Guide entries:
 (N AND D BY RYAN GJK) THIN-AT PLANET. MAGENTA-COLOURED FROM SPACE.          

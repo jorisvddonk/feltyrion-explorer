@@ -1,3 +1,5 @@
-Planet: YITHULNIN 1
+Moon: YITHULNIN 1
 Starmap index: 09
 Paris coordinates: 5248912, 5047794, -1305909
+Orbits: YITHULNIN
+Moon id: 0

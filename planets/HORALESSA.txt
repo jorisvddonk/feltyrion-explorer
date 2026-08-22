@@ -1,6 +1,8 @@
-Planet: HORALESSA
+Moon: HORALESSA
 Starmap index: 06
 Paris coordinates: 1353936, 4952744, -3128537
+Orbits: VIOLETTESSA
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.628.89                            

@@ -1,6 +1,8 @@
-Planet: SILVI
+Moon: SILVI
 Starmap index: 34
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRORN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

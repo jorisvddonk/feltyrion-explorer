@@ -1,3 +1,5 @@
-Planet: ELENTRA
+Moon: ELENTRA
 Starmap index: 34
 Paris coordinates: 3221776, 5789395, -822046
+Orbits: planet index 07
+Moon id: 10

@@ -1,6 +1,8 @@
-Planet: FEDERAL GIG
+Moon: FEDERAL GIG
 Starmap index: 07
 Paris coordinates: 11045232, -19173216, 17808348
+Orbits: FEDELITY
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 587.345.500 BY ROLAND ASKEW

@@ -1,6 +1,8 @@
-Planet: ISTERN
+Moon: ISTERN
 Starmap index: 13
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. ATMOSPHERE

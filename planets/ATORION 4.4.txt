@@ -1,6 +1,8 @@
-Planet: ATORION 4.4
+Moon: ATORION 4.4
 Starmap index: 11
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 4
+Moon id: 3
 
 Guide entries:
  ANOTHER SMALL, ROCKY, DUSTY AND CRATERIZED PLANETOID.

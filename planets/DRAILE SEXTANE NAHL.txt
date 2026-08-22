@@ -1,3 +1,5 @@
-Planet: DRAILE SEXTANE NAHL
+Moon: DRAILE SEXTANE NAHL
 Starmap index: 21
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE SEXTANE
+Moon id: 8

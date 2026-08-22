@@ -1,6 +1,8 @@
-Planet: MONOSTELE
+Moon: MONOSTELE
 Starmap index: 12
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

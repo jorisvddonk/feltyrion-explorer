@@ -1,3 +1,5 @@
-Planet: NATTOPAL
+Moon: NATTOPAL
 Starmap index: 06
 Paris coordinates: 3173200, 7769226, 71417
+Orbits: planet index 03
+Moon id: 0

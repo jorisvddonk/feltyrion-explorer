@@ -1,6 +1,8 @@
-Planet: SCULLYAS
+Moon: SCULLYAS
 Starmap index: 48
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: LYF ADHAGROW
+Moon id: 5
 
 Guide entries:
 THIS MOON IS LITTERD WITH IMPACT CRATERS. THERE IS AN IMPRESSIVE ONE

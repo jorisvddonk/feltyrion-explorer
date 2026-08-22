@@ -1,3 +1,5 @@
-Planet: DRAILE NUELLOS PRIL
+Moon: DRAILE NUELLOS PRIL
 Starmap index: 29
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE NUELLOS
+Moon id: 0

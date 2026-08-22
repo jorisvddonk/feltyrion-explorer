@@ -1,3 +1,5 @@
-Planet: ASKEW 53G2
+Moon: ASKEW 53G2
 Starmap index: 18
 Paris coordinates: 10762736, -19034762, 17197592
+Orbits: ERIE
+Moon id: 1

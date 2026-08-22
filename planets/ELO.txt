@@ -1,3 +1,5 @@
-Planet: ELO
+Moon: ELO
 Starmap index: 27
 Paris coordinates: 3173200, 5269226, 148820
+Orbits: VUOSI
+Moon id: 7

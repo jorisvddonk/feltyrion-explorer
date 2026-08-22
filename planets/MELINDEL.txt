@@ -1,6 +1,8 @@
-Planet: MELINDEL
+Moon: MELINDEL
 Starmap index: 07
 Paris coordinates: 11038448, -19251310, 17477204
+Orbits: ASKEW 55C
+Moon id: 0
 
 Guide entries:
 FOUND EPOC 6011 586.778.550 BY ROLAND ASKEW

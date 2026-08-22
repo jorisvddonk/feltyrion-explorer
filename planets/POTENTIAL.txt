@@ -1,6 +1,8 @@
-Planet: POTENTIAL
+Moon: POTENTIAL
 Starmap index: 29
 Paris coordinates: 3070352, 4834807, -1861297
+Orbits: planet index 06
+Moon id: 3
 
 Guide entries:
  PLANET FOUND BY STARDRIFTER FRACTUS, EPOC 6011:571.264.

@@ -1,6 +1,8 @@
-Planet: PARSIS 6.2
+Moon: PARSIS 6.2
 Starmap index: 17
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 6
+Moon id: 1
 
 Guide entries:
  TOUGH THE WORLD LOOKS STRANGELY FELISIAN, IT APPERS TO BE A

@@ -1,6 +1,8 @@
-Planet: VERFE
+Moon: VERFE
 Starmap index: 23
 Paris coordinates: 2770352, 4738986, -1565908
+Orbits: EMNAN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FEW CRATERS AND A

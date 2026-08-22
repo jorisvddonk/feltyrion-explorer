@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.6
+Moon: GRANTED WISH 7.6
 Starmap index: 25
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 5
 
 Guide entries:
 AH, YET ANOTHER STUNNING CELESTIAL BODY. THIS ONE IS A VERY                 

@@ -1,6 +1,8 @@
-Planet: QUADRIMOLECULAR
+Moon: QUADRIMOLECULAR
 Starmap index: 24
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: OBOVOID
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY

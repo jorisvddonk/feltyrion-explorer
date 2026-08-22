@@ -1,3 +1,5 @@
-Planet: QWAHR SEXTANE NAHL
+Moon: QWAHR SEXTANE NAHL
 Starmap index: 44
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR SEXTANE
+Moon id: 8

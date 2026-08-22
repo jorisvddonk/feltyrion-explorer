@@ -1,3 +1,5 @@
-Planet: ANDRAIS QUADREX SILP
+Moon: ANDRAIS QUADREX SILP
 Starmap index: 25
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS QUADREX
+Moon id: 6

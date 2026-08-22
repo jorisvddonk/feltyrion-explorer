@@ -1,3 +1,5 @@
-Planet: CRATERALA
+Moon: CRATERALA
 Starmap index: 04
 Paris coordinates: 356784, 302863, -10167
+Orbits: FELLAMABADYA
+Moon id: 0

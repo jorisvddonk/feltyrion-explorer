@@ -1,6 +1,8 @@
-Planet: POOR HOUSE
+Moon: POOR HOUSE
 Starmap index: 78
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: FAULT ZONE
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SEEMS TO BE DARK AND

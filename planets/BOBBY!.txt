@@ -1,3 +1,5 @@
-Planet: BOBBY!
+Moon: BOBBY!
 Starmap index: 30
 Paris coordinates: 3655696, 5293605, 702057
+Orbits: planet index 09
+Moon id: 0

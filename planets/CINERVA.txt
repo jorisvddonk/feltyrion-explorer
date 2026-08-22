@@ -1,3 +1,5 @@
-Planet: CINERVA
+Moon: CINERVA
 Starmap index: 10
 Paris coordinates: -61501520, 29941691, 642079
+Orbits: APIASTER
+Moon id: 3

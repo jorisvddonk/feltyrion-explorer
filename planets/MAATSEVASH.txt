@@ -1,3 +1,5 @@
-Planet: MAATSEVASH
+Moon: MAATSEVASH
 Starmap index: 08
 Paris coordinates: -821044528, -1225144, -679819292
+Orbits: SHAAKAT B
+Moon id: 0

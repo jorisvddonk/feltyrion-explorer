@@ -1,6 +1,8 @@
-Planet: ABYSS
+Moon: ABYSS
 Starmap index: 37
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: SOPREIA
+Moon id: 1
 
 Guide entries:
 IF YOU HAPPEN TO LAND IN THIS PLANET BE VERY CAREFUL ABOUT NOT GETTING

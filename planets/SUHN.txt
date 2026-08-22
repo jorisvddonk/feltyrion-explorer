@@ -1,6 +1,8 @@
-Planet: SUHN
+Moon: SUHN
 Starmap index: 39
 Paris coordinates: -890704, 333652, -1384376
+Orbits: VAAG
+Moon id: 10
 
 Guide entries:
  ANOTHER MOON WITH LIFE FORMS

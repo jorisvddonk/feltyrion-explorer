@@ -1,6 +1,8 @@
-Planet: NICE
+Moon: NICE
 Starmap index: 14
 Paris coordinates: 3683920, 4721661, -1660782
+Orbits: planet index 03
+Moon id: 9
 
 Guide entries:
  A PLEASANT FELISIAN PLANET DISC BY SCAREDY-CAT, EPOC 6011.586.909

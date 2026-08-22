@@ -1,6 +1,8 @@
-Planet: VACRA
+Moon: VACRA
 Starmap index: 22
 Paris coordinates: 2206448, 4739621, -6617273
+Orbits: BENSALEM V
+Moon id: 14
 
 Guide entries:
 R15/P05 IN BENSALEM SYSTEM. FOUND BY RICHARD SOLENSKY 6011-570.491.700

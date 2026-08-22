@@ -1,6 +1,8 @@
-Planet: IDLER
+Moon: IDLER
 Starmap index: 10
 Paris coordinates: -225712, 2875, -131716
+Orbits: SOLECISM
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZEDNO ATMOSPHERE. NOTABLE DUSTINESS WITH

@@ -1,3 +1,5 @@
-Planet: ASKEW 55C5
+Moon: ASKEW 55C5
 Starmap index: 11
 Paris coordinates: 11038448, -19251310, 17477204
+Orbits: ASKEW 55C
+Moon id: 4

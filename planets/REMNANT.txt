@@ -1,6 +1,8 @@
-Planet: REMNANT
+Moon: REMNANT
 Starmap index: 13
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: PEACH
+Moon id: 2
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGER

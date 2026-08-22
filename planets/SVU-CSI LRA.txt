@@ -1,3 +1,5 @@
-Planet: SVU-CSI LRA
+Moon: SVU-CSI LRA
 Starmap index: 21
 Paris coordinates: 3290704, 4837570, -933229
+Orbits: SVU-58357
+Moon id: 0

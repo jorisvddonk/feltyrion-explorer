@@ -1,6 +1,8 @@
-Planet: ENCHANTED
+Moon: ENCHANTED
 Starmap index: 21
 Paris coordinates: 3521776, 4359539, -1148567
+Orbits: FRESH
+Moon id: 1
 
 Guide entries:
 MUST SEE COORDS 103:16. FROM THE SKY YOU WILL SEE A STRANGE PINNICLE

@@ -1,6 +1,8 @@
-Planet: VOWBIN VI B
+Moon: VOWBIN VI B
 Starmap index: 16
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VI
+Moon id: 1
 
 Guide entries:
 GREEN DEADWORLD WITH AN INTERESTINGLY SMOOTH SURFACE. THE CRATERS

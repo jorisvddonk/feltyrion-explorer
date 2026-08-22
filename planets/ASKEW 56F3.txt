@@ -1,3 +1,5 @@
-Planet: ASKEW 56F3
+Moon: ASKEW 56F3
 Starmap index: 18
 Paris coordinates: 10976304, -19240498, 17578568
+Orbits: UKINIL
+Moon id: 2

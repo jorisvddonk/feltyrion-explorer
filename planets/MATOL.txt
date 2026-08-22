@@ -1,6 +1,8 @@
-Planet: MATOL
+Moon: MATOL
 Starmap index: 18
 Paris coordinates: 4497488, 5149116, -1701105
+Orbits: CRINA
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. BOTH REFLECTIVE AND

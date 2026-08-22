@@ -1,3 +1,5 @@
-Planet: F'NOR
+Moon: F'NOR
 Starmap index: 15
 Paris coordinates: 5470352, 7001368, -4266745
+Orbits: GIRAN
+Moon id: 10

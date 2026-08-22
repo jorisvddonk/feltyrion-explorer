@@ -1,6 +1,8 @@
-Planet: TSUDEY
+Moon: TSUDEY
 Starmap index: 19
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: SEMICEA
+Moon id: 1
 
 Guide entries:
 A DUSTY MOON, THE SECOND OF THE FOURTH PLANET. SURFACE COLOR RANGES

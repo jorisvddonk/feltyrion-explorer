@@ -1,3 +1,5 @@
-Planet: ASKEW 67C1
+Moon: ASKEW 67C1
 Starmap index: 06
 Paris coordinates: 11045232, -19173216, 17808348
+Orbits: FEDELITY
+Moon id: 0

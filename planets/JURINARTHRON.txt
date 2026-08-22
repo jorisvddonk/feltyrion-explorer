@@ -1,6 +1,8 @@
-Planet: JURINARTHRON
+Moon: JURINARTHRON
 Starmap index: 13
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 SMALL CRATERIZED MOON OF GREL FALLIA. NO ATMOSPHERE, TEMP -4.5, 1/4TH

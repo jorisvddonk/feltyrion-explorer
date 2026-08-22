@@ -1,6 +1,8 @@
-Planet: FRYST
+Moon: FRYST
 Starmap index: 14
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 0
 
 Guide entries:
 MOON #1 OF THE SEVENTH PLANET, MEGAVENE. ICY SURFACE, NO ATMOSPHERE.        

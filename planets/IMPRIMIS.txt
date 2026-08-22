@@ -1,6 +1,8 @@
-Planet: IMPRIMIS
+Moon: IMPRIMIS
 Starmap index: 04
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

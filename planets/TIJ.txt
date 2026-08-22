@@ -1,6 +1,8 @@
-Planet: TIJ
+Moon: TIJ
 Starmap index: 09
 Paris coordinates: 2029806864, -1864014, 355778
+Orbits: CAVYDORAR
+Moon id: 1
 
 Guide entries:
 M02/P05 SMALL SOLID DUSTY, LARGE CRATERS, LIGHT BLUE COLOR. PRO 0.300.960   

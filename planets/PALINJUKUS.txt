@@ -1,3 +1,5 @@
-Planet: PALINJUKUS
+Moon: PALINJUKUS
 Starmap index: 28
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: EPSILON DENGUEDU
+Moon id: 8

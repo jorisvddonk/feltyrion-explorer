@@ -1,6 +1,8 @@
-Planet: TEAR OF THE EMERALD
+Moon: TEAR OF THE EMERALD
 Starmap index: 11
 Paris coordinates: 2557456, 2106610, 7526289
+Orbits: TEAR OF THE GLOBULE
+Moon id: 0
 
 Guide entries:
 QUICK TOUR: EQUATORIAL AREAS E.G 111,71, LIME COLOURED                      

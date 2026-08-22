@@ -1,3 +1,5 @@
-Planet: SKULL
+Moon: SKULL
 Starmap index: 30
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: PALISSANDRO
+Moon id: 8

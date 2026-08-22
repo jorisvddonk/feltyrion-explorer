@@ -1,6 +1,8 @@
-Planet: LARANU GAMMA
+Moon: LARANU GAMMA
 Starmap index: 16
 Paris coordinates: 3666416, 5031653, -821054
+Orbits: LARANU
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF PLANET LARANU IN THE CELESTRA SYSTEM

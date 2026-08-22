@@ -1,6 +1,8 @@
-Planet: JIVKOV
+Moon: JIVKOV
 Starmap index: 17
 Paris coordinates: 74288, 47959, -394282
+Orbits: GRIM
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, THIN ATMOSPHERE, CONSIDERABLY DARK, A

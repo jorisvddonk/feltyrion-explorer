@@ -1,6 +1,8 @@
-Planet: YELLOWHELLOW
+Moon: YELLOWHELLOW
 Starmap index: 21
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 13
 
 Guide entries:
 A YELLOW HELLWORLD (DUH). (SCHMERM 6011 584.405)

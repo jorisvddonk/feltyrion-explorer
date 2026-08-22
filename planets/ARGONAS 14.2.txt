@@ -1,6 +1,8 @@
-Planet: ARGONAS 14.2
+Moon: ARGONAS 14.2
 Starmap index: 48
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 14
+Moon id: 1
 
 Guide entries:
 ICY, SOLID, RATHER PINK SURFACE WITH LOTS OF CRACKS.

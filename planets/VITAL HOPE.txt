@@ -1,6 +1,8 @@
-Planet: VITAL HOPE
+Moon: VITAL HOPE
 Starmap index: 09
 Paris coordinates: 3328560, 3928964, -618003
+Orbits: CUSTODIAN
+Moon id: 2
 
 Guide entries:
 A FELISIAN WORLD! A RELIEF AFTER ALL THOSE PIECES OF ROCK.                  

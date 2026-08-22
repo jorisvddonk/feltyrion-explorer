@@ -1,3 +1,5 @@
-Planet: D'KAA DEUS
+Moon: D'KAA DEUS
 Starmap index: 20
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 8
+Moon id: 0

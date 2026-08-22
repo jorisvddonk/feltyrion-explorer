@@ -1,6 +1,8 @@
-Planet: ROSECLOUD
+Moon: ROSECLOUD
 Starmap index: 25
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 1
 
 Guide entries:
 A DENSEWORLD. NAME IS SELF-EXPLANATORY. (SCHMERM 6011 584.163)

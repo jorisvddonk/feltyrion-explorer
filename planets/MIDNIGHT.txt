@@ -1,6 +1,8 @@
-Planet: MIDNIGHT
+Moon: MIDNIGHT
 Starmap index: 37
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: GATEWAY
+Moon id: 0
 
 Guide entries:
 THERE MIGHT BE SOMETHING TO SEE DOWN THERE, BUT YOU'LL NEVER KNOW IT.

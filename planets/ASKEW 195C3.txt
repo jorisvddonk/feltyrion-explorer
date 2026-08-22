@@ -1,3 +1,5 @@
-Planet: ASKEW 195C3
+Moon: ASKEW 195C3
 Starmap index: 07
 Paris coordinates: 7689200, -9846196, 11968208
+Orbits: ASKEW 195C
+Moon id: 2

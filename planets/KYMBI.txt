@@ -1,6 +1,8 @@
-Planet: KYMBI
+Moon: KYMBI
 Starmap index: 13
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: YOEPORIN
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY CRATERIZED VERY LARGE CRATERS WITH RAYS ON        

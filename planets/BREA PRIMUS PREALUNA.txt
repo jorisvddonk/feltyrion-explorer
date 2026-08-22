@@ -1,3 +1,5 @@
-Planet: BREA PRIMUS PREALUNA
+Moon: BREA PRIMUS PREALUNA
 Starmap index: 06
 Paris coordinates: 2147193584, 2118476, 2109816668
+Orbits: BREA PRIMUS
+Moon id: 0

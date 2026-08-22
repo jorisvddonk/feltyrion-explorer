@@ -1,6 +1,8 @@
-Planet: NACREOUS
+Moon: NACREOUS
 Starmap index: 53
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: SABULOSE
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATELY REFLECTIVE AND

@@ -1,6 +1,8 @@
-Planet: RAPHIT
+Moon: RAPHIT
 Starmap index: 35
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: QUAZAN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY REFLECTING

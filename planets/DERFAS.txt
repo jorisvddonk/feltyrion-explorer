@@ -1,6 +1,8 @@
-Planet: DERFAS
+Moon: DERFAS
 Starmap index: 08
 Paris coordinates: -251088, 1512852, 4247815
+Orbits: RYME
+Moon id: 0
 
 Guide entries:
  A NICE VALLEY AT 86.53

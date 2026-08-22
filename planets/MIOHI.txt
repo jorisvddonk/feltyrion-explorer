@@ -1,3 +1,5 @@
-Planet: MIOHI
+Moon: MIOHI
 Starmap index: 06
 Paris coordinates: 4377136, 4125490, -2745837
+Orbits: PETRION
+Moon id: 0

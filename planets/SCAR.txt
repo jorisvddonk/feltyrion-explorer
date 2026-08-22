@@ -1,3 +1,5 @@
-Planet: SCAR
+Moon: SCAR
 Starmap index: 46
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 2

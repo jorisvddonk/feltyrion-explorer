@@ -1,6 +1,8 @@
-Planet: NEON STORMS
+Moon: NEON STORMS
 Starmap index: 61
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 11
 
 Guide entries:
 ANOTHER FELISIAN MOON ON EKA24!!! BUT THIS IS A STORMY ONE AGAIN.

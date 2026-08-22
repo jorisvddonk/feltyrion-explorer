@@ -1,3 +1,5 @@
-Planet: CANALIS
+Moon: CANALIS
 Starmap index: 10
 Paris coordinates: 174288, 1144389, -683630
+Orbits: FLARA
+Moon id: 6

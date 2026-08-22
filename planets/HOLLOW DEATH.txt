@@ -1,3 +1,5 @@
-Planet: HOLLOW DEATH
+Moon: HOLLOW DEATH
 Starmap index: 06
 Paris coordinates: -62832592, 29548943, 2203579
+Orbits: MY TIME
+Moon id: 0

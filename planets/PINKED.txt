@@ -1,6 +1,8 @@
-Planet: PINKED
+Moon: PINKED
 Starmap index: 10
 Paris coordinates: 5009808, 4830465, 39078705
+Orbits: BIYOUNG B
+Moon id: 5
 
 Guide entries:
 PRETTY PINK GAS GIANT AROUND THE SECOND STAR. NO RINGS.

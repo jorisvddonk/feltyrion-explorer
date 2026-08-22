@@ -1,6 +1,8 @@
-Planet: ZERUEL
+Moon: ZERUEL
 Starmap index: 11
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: ADONAI
+Moon id: 6
 
 Guide entries:
 DEAD MOON, NO ATMOSPHERE

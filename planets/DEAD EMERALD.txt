@@ -1,6 +1,8 @@
-Planet: DEAD EMERALD
+Moon: DEAD EMERALD
 Starmap index: 09
 Paris coordinates: 4855696, 5021075, -427237
+Orbits: HALO
+Moon id: 0
 
 Guide entries:
 THIS BARREN MOON HAS A WONDERFUL COLOR WHEN VIEWED FROM ORBIT.

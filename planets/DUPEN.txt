@@ -1,6 +1,8 @@
-Planet: DUPEN
+Moon: DUPEN
 Starmap index: 07
 Paris coordinates: 2029875792, -1775088, 340992
+Orbits: DUDOR
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL, SOLID DUSTY, HAS VERY LARGE CRATERS, GREEN REFLECTIVITY.     

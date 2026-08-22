@@ -1,6 +1,8 @@
-Planet: NEREIA
+Moon: NEREIA
 Starmap index: 04
 Paris coordinates: -71941712, -1356971, 55222507
+Orbits: POLLUX II
+Moon id: 0
 
 Guide entries:
 VERY SHORT REVOLUTION. IT RUNS AROUND ITS STAR!

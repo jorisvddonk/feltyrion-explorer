@@ -1,3 +1,5 @@
-Planet: NINGANF
+Moon: NINGANF
 Starmap index: 36
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: FETDH
+Moon id: 0

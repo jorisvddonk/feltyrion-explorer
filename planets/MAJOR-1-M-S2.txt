@@ -1,3 +1,5 @@
-Planet: MAJOR-1-M-S2
+Moon: MAJOR-1-M-S2
 Starmap index: 60
 Paris coordinates: 4285008, 4736436, -6124845
+Orbits: MAJOR-1-M
+Moon id: 1

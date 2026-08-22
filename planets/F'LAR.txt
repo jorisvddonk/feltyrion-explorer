@@ -1,3 +1,5 @@
-Planet: F'LAR
+Moon: F'LAR
 Starmap index: 16
 Paris coordinates: 5470352, 7001368, -4266745
+Orbits: GIRAN
+Moon id: 11

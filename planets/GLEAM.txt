@@ -1,6 +1,8 @@
-Planet: GLEAM
+Moon: GLEAM
 Starmap index: 11
 Paris coordinates: -218928, 44011, 180703
+Orbits: NOCK
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: JLJ-GGP-7
+Moon: JLJ-GGP-7
 Starmap index: 16
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-SSO-2
+Moon id: 1
 
 Guide entries:
 (G)AS (G)IANT (P)LANET. JEREMY JOHNSON, EPOC 6011 - 594.684.915

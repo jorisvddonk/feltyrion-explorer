@@ -1,6 +1,8 @@
-Planet: EDI
+Moon: EDI
 Starmap index: 29
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZE, ROCKY, CREASED, NO ATMOSPHERE. QUITE ROUGH LOOKING WITH MUCH

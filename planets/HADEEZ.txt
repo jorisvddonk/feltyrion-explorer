@@ -1,3 +1,5 @@
-Planet: HADEEZ
+Moon: HADEEZ
 Starmap index: 05
 Paris coordinates: 8303184, 5908820, -1251717
+Orbits: GASSY1
+Moon id: 0

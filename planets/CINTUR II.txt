@@ -1,6 +1,8 @@
-Planet: CINTUR II
+Moon: CINTUR II
 Starmap index: 08
 Paris coordinates: -344976, 9517823, -4954054
+Orbits: MULTIPLIA CINTUR
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.805 -                                

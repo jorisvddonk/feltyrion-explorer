@@ -1,6 +1,8 @@
-Planet: ANDFAS
+Moon: ANDFAS
 Starmap index: 08
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: FINGU
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERES, COVERED BY CLOUDS. SEEMS QUITE

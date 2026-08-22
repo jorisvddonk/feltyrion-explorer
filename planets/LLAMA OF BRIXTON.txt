@@ -1,6 +1,8 @@
-Planet: LLAMA OF BRIXTON
+Moon: LLAMA OF BRIXTON
 Starmap index: 18
 Paris coordinates: 3548912, 5115546, 351991
+Orbits: SWEDISH MOOSE
+Moon id: 0
 
 Guide entries:
  SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIRLY

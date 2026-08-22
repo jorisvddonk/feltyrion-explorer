@@ -1,3 +1,5 @@
-Planet: NARWIN-D-S7
+Moon: NARWIN-D-S7
 Starmap index: 16
 Paris coordinates: -148912, 1540144, -3543794
+Orbits: NARWIN-D
+Moon id: 6

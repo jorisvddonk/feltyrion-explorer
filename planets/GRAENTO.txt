@@ -1,3 +1,5 @@
-Planet: GRAENTO
+Moon: GRAENTO
 Starmap index: 51
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: JUMOR
+Moon id: 12

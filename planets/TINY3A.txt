@@ -1,3 +1,5 @@
-Planet: TINY3A
+Moon: TINY3A
 Starmap index: 04
 Paris coordinates: 4266416, 4555884, -1153667
+Orbits: TINY3
+Moon id: 0

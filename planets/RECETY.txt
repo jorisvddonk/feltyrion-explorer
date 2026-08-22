@@ -1,3 +1,5 @@
-Planet: RECETY
+Moon: RECETY
 Starmap index: 13
 Paris coordinates: 3204272, 4732925, 16061
+Orbits: OXEQUA
+Moon id: 1

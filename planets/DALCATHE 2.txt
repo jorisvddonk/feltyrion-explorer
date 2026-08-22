@@ -1,3 +1,5 @@
-Planet: DALCATHE 2
+Moon: DALCATHE 2
 Starmap index: 08
 Paris coordinates: -387728, 331391, 626160721
+Orbits: CERES DALCATHE
+Moon id: 1

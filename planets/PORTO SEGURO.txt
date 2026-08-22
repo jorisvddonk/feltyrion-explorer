@@ -1,3 +1,5 @@
-Planet: PORTO SEGURO
+Moon: PORTO SEGURO
 Starmap index: 06
 Paris coordinates: 3090704, 4686833, -647137
+Orbits: SARAIVA
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: KARION
+Moon: KARION
 Starmap index: 15
 Paris coordinates: 2970352, 3448819, -1792674
+Orbits: LIMBIS
+Moon id: 0
 
 Guide entries:
 GOD OF DARKNESS, IN THE ANCIENT TIMES LIMBIANS CURSED HIS NAME WHEN

@@ -1,6 +1,8 @@
-Planet: ZEMERON M
+Moon: ZEMERON M
 Starmap index: 43
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 12
 
 Guide entries:
 A PURPLE QUARTZWORLD. (SCHMERM 6011 583.19)

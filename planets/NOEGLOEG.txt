@@ -1,3 +1,5 @@
-Planet: NOEGLOEG
+Moon: NOEGLOEG
 Starmap index: 17
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: PIRU
+Moon id: 1

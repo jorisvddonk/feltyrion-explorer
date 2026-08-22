@@ -1,6 +1,8 @@
-Planet: IGH
+Moon: IGH
 Starmap index: 16
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. COME HERE

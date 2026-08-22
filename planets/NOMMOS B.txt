@@ -1,6 +1,8 @@
-Planet: NOMMOS B
+Moon: NOMMOS B
 Starmap index: 17
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: NOMMOS
+Moon id: 1
 
 Guide entries:
 A PINKISH DENSEWORLD WITH IRREGULAR FUZZY CLOUDS.

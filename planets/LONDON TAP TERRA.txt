@@ -1,6 +1,8 @@
-Planet: LONDON TAP TERRA
+Moon: LONDON TAP TERRA
 Starmap index: 19
 Paris coordinates: 1413381072, -31268, -1413496484
+Orbits: planet index 05
+Moon id: 0
 
 Guide entries:
 INTERNALLY HOT WORLD. PLENTY OF SMMALL GLOWING PATCHES, MODERATE            

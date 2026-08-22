@@ -1,6 +1,8 @@
-Planet: GLOTONE
+Moon: GLOTONE
 Starmap index: 06
 Paris coordinates: 26646832, 6023437, 44755504
+Orbits: AUTGEL
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE FOURTH PLANET, A DUSTY MOON. LAND FEATURES ARE

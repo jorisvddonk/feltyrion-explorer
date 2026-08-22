@@ -1,6 +1,8 @@
-Planet: ETERNAL AUTUMN
+Moon: ETERNAL AUTUMN
 Starmap index: 20
 Paris coordinates: 330736, 1498666, -5157772
+Orbits: PLUSIOS
+Moon id: 12
 
 Guide entries:
 DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.467

@@ -1,3 +1,5 @@
-Planet: QUARTZ LAND
+Moon: QUARTZ LAND
 Starmap index: 22
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: YELLOW GIANT 1
+Moon id: 4

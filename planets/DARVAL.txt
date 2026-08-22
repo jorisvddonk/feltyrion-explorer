@@ -1,6 +1,8 @@
-Planet: DARVAL
+Moon: DARVAL
 Starmap index: 12
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF THIRD PLANET, AN AVERAGE GREEN ROCKY MOON WITH DARK

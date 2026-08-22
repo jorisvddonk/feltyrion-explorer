@@ -1,6 +1,8 @@
-Planet: ASIAGO PRESSATO
+Moon: ASIAGO PRESSATO
 Starmap index: 58
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: MAASDAM
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE,. DARK WITH BARELY

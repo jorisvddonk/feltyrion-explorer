@@ -1,6 +1,8 @@
-Planet: SPRATA
+Moon: SPRATA
 Starmap index: 24
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: SAFEN
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

@@ -1,6 +1,8 @@
-Planet: RIJANFOOHU
+Moon: RIJANFOOHU
 Starmap index: 39
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZE, SURFACE IS MAINLY NATIVE QUARTZ. (NEUZD, 6011:797.628)         

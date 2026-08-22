@@ -1,6 +1,8 @@
-Planet: MELISSA
+Moon: MELISSA
 Starmap index: 25
 Paris coordinates: 5155696, 4727943, -820349
+Orbits: CREETH
+Moon id: 12
 
 Guide entries:
 DISCOVERED BY JILANTY EPOC6011.567.001

@@ -1,6 +1,8 @@
-Planet: UDSTO
+Moon: UDSTO
 Starmap index: 13
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. NOT TOO

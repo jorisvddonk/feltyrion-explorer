@@ -1,6 +1,8 @@
-Planet: RADII
+Moon: RADII
 Starmap index: 44
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PALLESCENT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKLY REFLECTIVE WITH MANY

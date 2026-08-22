@@ -1,6 +1,8 @@
-Planet: ZEIN
+Moon: ZEIN
 Starmap index: 20
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 0
 
 Guide entries:
  MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED AND CRATERED.

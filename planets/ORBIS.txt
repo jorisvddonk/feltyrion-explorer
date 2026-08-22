@@ -1,3 +1,5 @@
-Planet: ORBIS
+Moon: ORBIS
 Starmap index: 25
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: SATYRE
+Moon id: 0

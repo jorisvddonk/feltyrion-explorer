@@ -1,3 +1,5 @@
-Planet: KALA-C-S4
+Moon: KALA-C-S4
 Starmap index: 15
 Paris coordinates: 3841456, -366310, -9972918
+Orbits: KALA-C
+Moon id: 3

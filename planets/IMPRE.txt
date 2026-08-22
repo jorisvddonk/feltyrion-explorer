@@ -1,6 +1,8 @@
-Planet: IMPRE
+Moon: IMPRE
 Starmap index: 10
 Paris coordinates: 3111056, 4037153, 554224
+Orbits: FINA
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MURRMURR EPOC 6011:608.338

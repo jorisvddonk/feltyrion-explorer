@@ -1,3 +1,5 @@
-Planet: EARIDON ALPHA PRIME
+Moon: EARIDON ALPHA PRIME
 Starmap index: 18
 Paris coordinates: 99064688, 1346115, 54624595
+Orbits: EARIDON ALPHA
+Moon id: 0

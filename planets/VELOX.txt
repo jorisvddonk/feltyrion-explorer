@@ -1,6 +1,8 @@
-Planet: VELOX
+Moon: VELOX
 Starmap index: 08
 Paris coordinates: 467504, 3945992, -1215803
+Orbits: REM A
+Moon id: 1
 
 Guide entries:
 HABITABLE WORLD ORBITING REM A

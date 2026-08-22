@@ -1,3 +1,5 @@
-Planet: ASKEW 43F2
+Moon: ASKEW 43F2
 Starmap index: 14
 Paris coordinates: 11752016, -19443448, 17324166
+Orbits: WANKILLI
+Moon id: 1

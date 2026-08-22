@@ -1,6 +1,8 @@
-Planet: CRUMPLE
+Moon: CRUMPLE
 Starmap index: 16
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.693

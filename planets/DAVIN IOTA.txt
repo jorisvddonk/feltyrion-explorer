@@ -1,6 +1,8 @@
-Planet: DAVIN IOTA
+Moon: DAVIN IOTA
 Starmap index: 41
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 8
 
 Guide entries:
 NINTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

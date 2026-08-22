@@ -1,6 +1,8 @@
-Planet: FIRESKY 4.1
+Moon: FIRESKY 4.1
 Starmap index: 29
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 4
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. YELLOWISH. ONE VERY LARGE CRATER.

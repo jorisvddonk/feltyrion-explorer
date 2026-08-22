@@ -1,6 +1,8 @@
-Planet: XZANADU 4.5
+Moon: XZANADU 4.5
 Starmap index: 12
 Paris coordinates: 6571024, 19797331, 4477221
+Orbits: XZANADU 4
+Moon id: 4
 
 Guide entries:
  THIS WORLD APPEARS TO BE ANOTHER VOLCANIC WASTELAND.

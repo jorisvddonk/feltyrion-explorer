@@ -1,6 +1,8 @@
-Planet: INSIPIENS
+Moon: INSIPIENS
 Starmap index: 28
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. FOREST AT 0.60,

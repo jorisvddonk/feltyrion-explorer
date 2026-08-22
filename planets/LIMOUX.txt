@@ -1,3 +1,5 @@
-Planet: LIMOUX
+Moon: LIMOUX
 Starmap index: 35
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: VERSAILLES
+Moon id: 4

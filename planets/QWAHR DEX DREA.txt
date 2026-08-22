@@ -1,3 +1,5 @@
-Planet: QWAHR DEX DREA
+Moon: QWAHR DEX DREA
 Starmap index: 67
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 1

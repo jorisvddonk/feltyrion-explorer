@@ -1,6 +1,8 @@
-Planet: MACBETH
+Moon: MACBETH
 Starmap index: 18
 Paris coordinates: -56784, -84307, -221013
+Orbits: INVERNESS
+Moon id: 0
 
 Guide entries:
 A DENSEWORLD. APPEARS PURPLE FROM ORBIT. (SCHMERM 6011 582.413)

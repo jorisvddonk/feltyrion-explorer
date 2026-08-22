@@ -1,6 +1,8 @@
-Planet: PARSIS 13.4
+Moon: PARSIS 13.4
 Starmap index: 60
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 3
 
 Guide entries:
  YET ANOTHER FAR-OUT ICE-BALL. FROZEN SOLID, WITH NO VISIBLE

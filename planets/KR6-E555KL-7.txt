@@ -1,3 +1,5 @@
-Planet: KR6-E555KL-7
+Moon: KR6-E555KL-7
 Starmap index: 13
 Paris coordinates: 3290704, 4837570, -933229
+Orbits: KR6-E11I8
+Moon id: 0

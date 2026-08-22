@@ -1,6 +1,8 @@
-Planet: TABU
+Moon: TABU
 Starmap index: 22
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: RELUCTANCE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, BRIGHT POLE CAPS, SOME LIGHTER AREAS

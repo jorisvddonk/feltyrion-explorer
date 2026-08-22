@@ -1,6 +1,8 @@
-Planet: ENJA
+Moon: ENJA
 Starmap index: 24
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HIGHLY

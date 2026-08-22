@@ -1,6 +1,8 @@
-Planet: BRACH
+Moon: BRACH
 Starmap index: 09
 Paris coordinates: 181072, 146421, -286406
+Orbits: SAPROPEL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH

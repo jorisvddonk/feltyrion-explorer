@@ -1,6 +1,8 @@
-Planet: EVORA 4.5
+Moon: EVORA 4.5
 Starmap index: 15
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 4
+Moon id: 4
 
 Guide entries:
  A FELISIAN, M-TYPE PLANET, MOSTLY CONSISTING OF LARGE OCEANS, AND A

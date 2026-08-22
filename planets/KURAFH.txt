@@ -1,6 +1,8 @@
-Planet: KURAFH
+Moon: KURAFH
 Starmap index: 14
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 0
 
 Guide entries:
  M1/P05 MEDIUM SIZED THICK ATMO CLOUD COVER. SLIGHT PURPLE TINGE IN         

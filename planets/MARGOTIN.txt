@@ -1,6 +1,8 @@
-Planet: MARGOTIN
+Moon: MARGOTIN
 Starmap index: 18
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: ROQUEFORT
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

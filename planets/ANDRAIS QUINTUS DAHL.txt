@@ -1,3 +1,5 @@
-Planet: ANDRAIS QUINTUS DAHL
+Moon: ANDRAIS QUINTUS DAHL
 Starmap index: 44
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS QUINTUS
+Moon id: 9

@@ -1,3 +1,5 @@
-Planet: PIGN-03-A
+Moon: PIGN-03-A
 Starmap index: 04
 Paris coordinates: 1739280, 5964442, -310896
+Orbits: PIGN-03
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: ARGONAS 14.3
+Moon: ARGONAS 14.3
 Starmap index: 49
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 14
+Moon id: 2
 
 Guide entries:
  ICY LITTLE PLANETOID WITH NO/VERY THIN ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: KOLN ALPHA
+Moon: KOLN ALPHA
 Starmap index: 54
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET KOLN IN THE GENISI SYSTEM

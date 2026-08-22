@@ -1,6 +1,8 @@
-Planet: FUNCTIONARY
+Moon: FUNCTIONARY
 Starmap index: 30
 Paris coordinates: 381072, 1932089, -429498
+Orbits: SMERMEPARA
+Moon id: 0
 
 Guide entries:
 WHO WOULD THINK THAT A SMALL, SOLID, CRATERIZED OBJECT COULD                

@@ -1,3 +1,5 @@
-Planet: DAUGHTER 6
+Moon: DAUGHTER 6
 Starmap index: 26
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 10

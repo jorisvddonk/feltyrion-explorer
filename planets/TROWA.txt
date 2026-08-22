@@ -1,3 +1,5 @@
-Planet: TROWA
+Moon: TROWA
 Starmap index: 53
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: SCHOJ
+Moon id: 10

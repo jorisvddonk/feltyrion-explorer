@@ -1,6 +1,8 @@
-Planet: GRUE
+Moon: GRUE
 Starmap index: 09
 Paris coordinates: -625712, 1137800, 123585
+Orbits: INSIPID
+Moon id: 4
 
 Guide entries:
 GRUE IN ONE WORD: FLAT-N-ICY. NOT MUCH ELSE TO THIS SMALL CHUCK OF ROCK.

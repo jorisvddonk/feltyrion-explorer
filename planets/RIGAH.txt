@@ -1,6 +1,8 @@
-Planet: RIGAH
+Moon: RIGAH
 Starmap index: 21
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: BRASSAR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD REFLECTIVITY WITH A

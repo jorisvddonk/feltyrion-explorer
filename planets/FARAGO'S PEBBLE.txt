@@ -1,6 +1,8 @@
-Planet: FARAGO'S PEBBLE
+Moon: FARAGO'S PEBBLE
 Starmap index: 14
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: PASTORAL
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

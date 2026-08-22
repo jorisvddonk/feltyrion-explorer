@@ -1,3 +1,5 @@
-Planet: POLATERANU 2
+Moon: POLATERANU 2
 Starmap index: 19
 Paris coordinates: 759632, -29653883, 1894601
+Orbits: MISES
+Moon id: 7

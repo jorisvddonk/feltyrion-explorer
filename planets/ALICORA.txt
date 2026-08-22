@@ -1,6 +1,8 @@
-Planet: ALICORA
+Moon: ALICORA
 Starmap index: 13
 Paris coordinates: -72010640, -1390290, 54985678
+Orbits: TWIST
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:850.517                                    

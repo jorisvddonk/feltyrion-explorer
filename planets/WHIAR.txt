@@ -1,6 +1,8 @@
-Planet: WHIAR
+Moon: WHIAR
 Starmap index: 16
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GOOD GREEN

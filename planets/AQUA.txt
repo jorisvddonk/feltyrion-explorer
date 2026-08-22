@@ -1,6 +1,8 @@
-Planet: AQUA
+Moon: AQUA
 Starmap index: 11
 Paris coordinates: 4431408, 5638552, 404934
+Orbits: planet index 03
+Moon id: 3
 
 Guide entries:
 A WATER WORLD AROUND THE OUTLYING STAR OF THE TRIPLE STAR TRIPOD.

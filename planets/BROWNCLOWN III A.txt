@@ -1,3 +1,5 @@
-Planet: BROWNCLOWN III A
+Moon: BROWNCLOWN III A
 Starmap index: 04
 Paris coordinates: -2742128, 3746358, -471469
+Orbits: BROWNCLOWN III
+Moon id: 0

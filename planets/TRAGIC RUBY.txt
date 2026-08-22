@@ -1,6 +1,8 @@
-Planet: TRAGIC RUBY
+Moon: TRAGIC RUBY
 Starmap index: 66
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 16
 
 Guide entries:
 INTERNALLY HOT MOON ORBITING FERTILE MINISTAR ON EKA24. --EKA

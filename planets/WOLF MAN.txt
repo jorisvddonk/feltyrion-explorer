@@ -1,6 +1,8 @@
-Planet: WOLF MAN
+Moon: WOLF MAN
 Starmap index: 21
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 11
 
 Guide entries:
 UPDATE:MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN

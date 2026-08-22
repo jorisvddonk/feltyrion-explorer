@@ -1,6 +1,8 @@
-Planet: YENNEN
+Moon: YENNEN
 Starmap index: 27
 Paris coordinates: 191792, 393743, -1607331
+Orbits: MOTTIN
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE NINTH PLANET, MOTTIN. A SMALL, GREEN, DIM, DUSTY

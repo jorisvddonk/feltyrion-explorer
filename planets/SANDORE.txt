@@ -1,6 +1,8 @@
-Planet: SANDORE
+Moon: SANDORE
 Starmap index: 18
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 3
+Moon id: 5
 
 Guide entries:
 ANOTHER PURPLE/GREEN CLOUDY PLANET

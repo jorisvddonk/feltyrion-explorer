@@ -1,3 +1,5 @@
-Planet: GIEN
+Moon: GIEN
 Starmap index: 36
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: VERSAILLES
+Moon id: 5

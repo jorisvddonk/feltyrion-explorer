@@ -1,3 +1,5 @@
-Planet: KJAN
+Moon: KJAN
 Starmap index: 07
 Paris coordinates: 1294640, -20820355, -524859
+Orbits: GENOR
+Moon id: 2

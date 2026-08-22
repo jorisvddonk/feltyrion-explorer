@@ -1,3 +1,5 @@
-Planet: SAGGITARIUS-E-S1
+Moon: SAGGITARIUS-E-S1
 Starmap index: 12
 Paris coordinates: 2481072, 4112682, -2525508
+Orbits: SAGGITARIUS-E
+Moon id: 0

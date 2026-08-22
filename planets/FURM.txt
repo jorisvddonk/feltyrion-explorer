@@ -1,6 +1,8 @@
-Planet: FURM
+Moon: FURM
 Starmap index: 20
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: STEX
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH WITH SOME SCARRING.

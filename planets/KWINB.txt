@@ -1,3 +1,5 @@
-Planet: KWINB
+Moon: KWINB
 Starmap index: 54
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: NUGBOIAOU
+Moon id: 2

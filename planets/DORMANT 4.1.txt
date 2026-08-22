@@ -1,6 +1,8 @@
-Planet: DORMANT 4.1
+Moon: DORMANT 4.1
 Starmap index: 13
 Paris coordinates: -3013904, 10333783, -2573808
+Orbits: DORMANT 4
+Moon id: 0
 
 Guide entries:
  THE MOON OF DORMANT 4 IS A DEAD ONE, IT HAS A THIN ATMOSPHERE,

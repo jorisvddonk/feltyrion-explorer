@@ -1,3 +1,5 @@
-Planet: SHALE PEBBLE 2
+Moon: SHALE PEBBLE 2
 Starmap index: 18
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: YELLOW GIANT 1
+Moon id: 0

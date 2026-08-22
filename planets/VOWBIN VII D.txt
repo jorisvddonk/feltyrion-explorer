@@ -1,6 +1,8 @@
-Planet: VOWBIN VII D
+Moon: VOWBIN VII D
 Starmap index: 21
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VII
+Moon id: 3
 
 Guide entries:
 A BROWN GAS GIANT WITH MANY CLOUD FEATURES.

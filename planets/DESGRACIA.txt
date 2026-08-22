@@ -1,3 +1,5 @@
-Planet: DESGRACIA
+Moon: DESGRACIA
 Starmap index: 48
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: DENEMIS
+Moon id: 4

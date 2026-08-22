@@ -1,6 +1,8 @@
-Planet: ASKEW 109I1
+Moon: ASKEW 109I1
 Starmap index: 48
 Paris coordinates: 1902096, -12067422, 8947965
+Orbits: ASKEW 109I
+Moon id: 0
 
 Guide entries:
 FOUND EPOC 6011 588.968.070 BY ROLAND ASKEW

@@ -1,6 +1,8 @@
-Planet: LAN LUNA ARTZ
+Moon: LAN LUNA ARTZ
 Starmap index: 15
 Paris coordinates: -232496, 5408, -626112
+Orbits: LAN TERRA MILKA
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY SPELLCASTER EPOC 6011 573:423

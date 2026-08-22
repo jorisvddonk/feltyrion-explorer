@@ -1,6 +1,8 @@
-Planet: INDESIA
+Moon: INDESIA
 Starmap index: 13
 Paris coordinates: -325712, 361387, -164300
+Orbits: BLINDAN
+Moon id: 0
 
 Guide entries:
 EXPLORED BY RAZORWINGS18 (566.636.790 E6011).

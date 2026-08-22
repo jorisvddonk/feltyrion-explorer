@@ -1,6 +1,8 @@
-Planet: ARGONAS 3.6
+Moon: ARGONAS 3.6
 Starmap index: 20
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 3
+Moon id: 5
 
 Guide entries:
  THE SIXTH MOON OF ARGONAS 3 IS, ACTUALLY NOT SUPRISINGLY, A

@@ -1,6 +1,8 @@
-Planet: URTYK
+Moon: URTYK
 Starmap index: 06
 Paris coordinates: 2061228144, -1654027, 3059941
+Orbits: ITMYBES
+Moon id: 2
 
 Guide entries:
 M03/P03 SMALL SOLID THIN ATMO, MILDLY DARK WITH FAIR POLAR CAPS. PRO        

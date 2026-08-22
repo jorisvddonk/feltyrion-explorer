@@ -1,6 +1,8 @@
-Planet: LUNDMARK GAMMA VI
+Moon: LUNDMARK GAMMA VI
 Starmap index: 11
 Paris coordinates: 4101424, -65953610, -2995754
+Orbits: LUNDMARK GAMMA
+Moon id: 5
 
 Guide entries:
 PALE BROWN THINWORLD. VERY SMALL. (SCHMERM 6011 594.866)

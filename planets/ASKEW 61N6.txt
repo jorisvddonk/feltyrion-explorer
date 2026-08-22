@@ -1,3 +1,5 @@
-Planet: ASKEW 61N6
+Moon: ASKEW 61N6
 Starmap index: 37
 Paris coordinates: 11052016, -19359857, 17958827
+Orbits: ASKEW 61N
+Moon id: 5

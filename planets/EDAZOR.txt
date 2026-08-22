@@ -1,6 +1,8 @@
-Planet: EDAZOR
+Moon: EDAZOR
 Starmap index: 36
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAR ATTEMPT
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STRANGE

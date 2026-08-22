@@ -1,6 +1,8 @@
-Planet: ANGENE
+Moon: ANGENE
 Starmap index: 14
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 6
 
 Guide entries:
 AN AVERAGE, GREENISH, DUSTY MOON, SEVENTH OF THE THIRD PLANET. LAND

@@ -1,6 +1,8 @@
-Planet: 8BALL
+Moon: 8BALL
 Starmap index: 27
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: PIZA
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.194

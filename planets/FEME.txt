@@ -1,6 +1,8 @@
-Planet: FEME
+Moon: FEME
 Starmap index: 09
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 1
 
 Guide entries:
 A BRIGHT PINK QUARTZ MOON, THE SECOND OF THE THIRD PLANET. CONSIDERABLY

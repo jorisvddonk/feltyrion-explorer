@@ -1,6 +1,8 @@
-Planet: PIGRAD
+Moon: PIGRAD
 Starmap index: 09
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: COMMUNION
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GREY AND VERY

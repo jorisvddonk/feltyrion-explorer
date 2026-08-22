@@ -1,6 +1,8 @@
-Planet: HOT SAT
+Moon: HOT SAT
 Starmap index: 05
 Paris coordinates: 5946064, 5256373, -4034547
+Orbits: SUCE
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY MURRMURR EPOC 6011:608.502

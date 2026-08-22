@@ -1,6 +1,8 @@
-Planet: EMULSOID
+Moon: EMULSOID
 Starmap index: 22
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: INDICANT
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

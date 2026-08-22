@@ -1,3 +1,5 @@
-Planet: GORMOX
+Moon: GORMOX
 Starmap index: 10
 Paris coordinates: 563568, 437608, 261632
+Orbits: ELECTRON
+Moon id: 5

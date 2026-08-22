@@ -1,6 +1,8 @@
-Planet: BALLON 3.4
+Moon: BALLON 3.4
 Starmap index: 22
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 3
+Moon id: 3
 
 Guide entries:
 ANOTHER OF THE THICK ATMOSPHERE KIND, FOURHT ALREADY. THEY MUST             

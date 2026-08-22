@@ -1,6 +1,8 @@
-Planet: CATHEDRAL
+Moon: CATHEDRAL
 Starmap index: 35
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: NEMESIS
+Moon id: 0
 
 Guide entries:
 THIS PLANET IS RATHER STRANGE -- THE GROUND IS ALMOST IMPOSSIBLE TO

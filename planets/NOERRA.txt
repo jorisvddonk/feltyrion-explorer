@@ -1,3 +1,5 @@
-Planet: NOERRA
+Moon: NOERRA
 Starmap index: 12
 Paris coordinates: -835344, -14673956, -2040846
+Orbits: GRUEGOR
+Moon id: 4

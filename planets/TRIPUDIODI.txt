@@ -1,3 +1,5 @@
-Planet: TRIPUDIODI
+Moon: TRIPUDIODI
 Starmap index: 30
 Paris coordinates: 456784, 1761371, 150486
+Orbits: planet index 05
+Moon id: 0

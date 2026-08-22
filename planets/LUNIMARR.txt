@@ -1,6 +1,8 @@
-Planet: LUNIMARR
+Moon: LUNIMARR
 Starmap index: 14
 Paris coordinates: 5555696, 6149718, -1148640
+Orbits: SEGUNDON
+Moon id: 5
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.681.917 -                               

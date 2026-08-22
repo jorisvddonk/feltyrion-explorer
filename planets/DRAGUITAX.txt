@@ -1,6 +1,8 @@
-Planet: DRAGUITAX
+Moon: DRAGUITAX
 Starmap index: 08
 Paris coordinates: 48579728, 324247, 1979970535
+Orbits: AS12291217C
+Moon id: 0
 
 Guide entries:
 AN AGREEABLE PLACE WITH PLENTY OF LIFE.

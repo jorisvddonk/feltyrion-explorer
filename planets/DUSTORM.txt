@@ -1,3 +1,5 @@
-Planet: DUSTORM
+Moon: DUSTORM
 Starmap index: 25
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZURCON
+Moon id: 1

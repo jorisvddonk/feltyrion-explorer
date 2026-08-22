@@ -1,6 +1,8 @@
-Planet: SOH JIN
+Moon: SOH JIN
 Starmap index: 40
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 9
 
 Guide entries:
 A FELYSIAN WORLD. NOT MUCH WATER, OR STORM ACTIVITY FOR THAT MATTER.

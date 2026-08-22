@@ -1,6 +1,8 @@
-Planet: BARONESS
+Moon: BARONESS
 Starmap index: 38
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: SIRE
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A QUITE MOTTLED APPEARANCE

@@ -1,6 +1,8 @@
-Planet: DAVIN EPSILON
+Moon: DAVIN EPSILON
 Starmap index: 37
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

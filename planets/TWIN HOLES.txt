@@ -1,6 +1,8 @@
-Planet: TWIN HOLES
+Moon: TWIN HOLES
 Starmap index: 21
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 5
 
 Guide entries:
 THIS PLANET HAS TWO QUITE HUGE CRATERS!

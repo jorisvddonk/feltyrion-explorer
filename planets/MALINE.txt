@@ -1,6 +1,8 @@
-Planet: MALINE
+Moon: MALINE
 Starmap index: 12
 Paris coordinates: -408208, 3940299, -1032829
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 MOON OF SYPH 3

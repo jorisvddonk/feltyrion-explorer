@@ -1,6 +1,8 @@
-Planet: HYPERION VI-D
+Moon: HYPERION VI-D
 Starmap index: 50
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION VI
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NOT ATMOSPHERE. CATALOGED

@@ -1,6 +1,8 @@
-Planet: STRUAE DELTA
+Moon: STRUAE DELTA
 Starmap index: 66
 Paris coordinates: 612144, 6999853, -833727
+Orbits: STRUAE
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET STRUAE IN THE GENISI SYSTEM

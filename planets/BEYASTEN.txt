@@ -1,3 +1,5 @@
-Planet: BEYASTEN
+Moon: BEYASTEN
 Starmap index: 05
 Paris coordinates: 226800, 1068249, -3393825
+Orbits: BESTEN
+Moon id: 0

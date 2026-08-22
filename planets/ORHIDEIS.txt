@@ -1,3 +1,5 @@
-Planet: ORHIDEIS
+Moon: ORHIDEIS
 Starmap index: 19
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: BLUEGASIS
+Moon id: 1

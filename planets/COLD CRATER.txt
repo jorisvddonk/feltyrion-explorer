@@ -1,3 +1,5 @@
-Planet: COLD CRATER
+Moon: COLD CRATER
 Starmap index: 11
 Paris coordinates: 3373200, 4448945, -113757
+Orbits: VALLEY LAND
+Moon id: 1

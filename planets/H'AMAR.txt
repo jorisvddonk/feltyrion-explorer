@@ -1,6 +1,8 @@
-Planet: H'AMAR
+Moon: H'AMAR
 Starmap index: 08
 Paris coordinates: 1770352, 4945881, -410751
+Orbits: P'TURG
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-570.476

@@ -1,6 +1,8 @@
-Planet: LOOTER
+Moon: LOOTER
 Starmap index: 15
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: NADIR
+Moon id: 1
 
 Guide entries:
 MOON OF NADIR, SMALL DUSTY CRATERIZED, VERY UNDESCRIPT, NO ATMOSPHERE.

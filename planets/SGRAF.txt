@@ -1,6 +1,8 @@
-Planet: SGRAF
+Moon: SGRAF
 Starmap index: 14
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE RAYED CRATERS.

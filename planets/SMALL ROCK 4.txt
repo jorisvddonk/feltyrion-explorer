@@ -1,3 +1,5 @@
-Planet: SMALL ROCK 4
+Moon: SMALL ROCK 4
 Starmap index: 20
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: FELFARIS
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: DURANDAL
+Moon: DURANDAL
 Starmap index: 20
 Paris coordinates: -1346064, 264988, -392979
+Orbits: ROLAND
+Moon id: 10
 
 Guide entries:
 FELISIAN MOON (R11/P04) IN RONCEVALLES SYSTEM

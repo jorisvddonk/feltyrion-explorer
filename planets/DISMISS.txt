@@ -1,6 +1,8 @@
-Planet: DISMISS
+Moon: DISMISS
 Starmap index: 11
 Paris coordinates: 287856, 37180, -27643
+Orbits: HOTEL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATELY REFLECTIVE

@@ -1,3 +1,5 @@
-Planet: HEND-5 2
+Moon: HEND-5 2
 Starmap index: 11
 Paris coordinates: -98576, 812650, 1187944
+Orbits: IOCASTE
+Moon id: 1

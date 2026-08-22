@@ -1,3 +1,5 @@
-Planet: ASKEW 68E2
+Moon: ASKEW 68E2
 Starmap index: 11
 Paris coordinates: 11314160, -19380914, 17626244
+Orbits: DIRT SMITHY
+Moon id: 1

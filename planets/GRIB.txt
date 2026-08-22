@@ -1,3 +1,5 @@
-Planet: GRIB
+Moon: GRIB
 Starmap index: 43
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: SCHOJ
+Moon id: 0

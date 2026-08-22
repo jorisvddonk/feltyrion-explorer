@@ -1,6 +1,8 @@
-Planet: FARSEM IV
+Moon: FARSEM IV
 Starmap index: 11
 Paris coordinates: 4366416, 4639783, -1313897
+Orbits: FARSE
+Moon id: 3
 
 Guide entries:
  VERY COLD, ROCKY, BORING

@@ -1,6 +1,8 @@
-Planet: ORAVIC
+Moon: ORAVIC
 Starmap index: 12
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 7
 
 Guide entries:
 VERY MOUNTAINOUS, DARK BLUE SURFACE. TOPS OF CLOUDS ARE GREEN.

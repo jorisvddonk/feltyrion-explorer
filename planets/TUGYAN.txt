@@ -1,3 +1,5 @@
-Planet: TUGYAN
+Moon: TUGYAN
 Starmap index: 05
 Paris coordinates: -1071024, 5220683, -9634850
+Orbits: MIDDOCK
+Moon id: 0

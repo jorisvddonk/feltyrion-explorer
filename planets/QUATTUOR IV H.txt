@@ -1,3 +1,5 @@
-Planet: QUATTUOR IV H
+Moon: QUATTUOR IV H
 Starmap index: 16
 Paris coordinates: 3174288, 4345848, -3434396
+Orbits: QUATTUOR IV
+Moon id: 7

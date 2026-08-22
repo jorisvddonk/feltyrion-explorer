@@ -1,6 +1,8 @@
-Planet: FLEDUR
+Moon: FLEDUR
 Starmap index: 47
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: DEISY
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATE REFLECTIVITY WITH

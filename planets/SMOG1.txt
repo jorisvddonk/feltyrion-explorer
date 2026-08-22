@@ -1,3 +1,5 @@
-Planet: SMOG1
+Moon: SMOG1
 Starmap index: 16
 Paris coordinates: 3555696, 4747547, 558041
+Orbits: POLLUTION
+Moon id: 0

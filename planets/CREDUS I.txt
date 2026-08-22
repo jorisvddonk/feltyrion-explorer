@@ -1,3 +1,5 @@
-Planet: CREDUS I
+Moon: CREDUS I
 Starmap index: 14
 Paris coordinates: 8067088, 6822211, 4701176
+Orbits: SECOND SUN
+Moon id: 10

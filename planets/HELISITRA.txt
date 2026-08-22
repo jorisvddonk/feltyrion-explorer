@@ -1,3 +1,5 @@
-Planet: HELISITRA
+Moon: HELISITRA
 Starmap index: 13
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASSMARTIN
+Moon id: 2

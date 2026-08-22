@@ -1,6 +1,8 @@
-Planet: SUPERSCRIPT
+Moon: SUPERSCRIPT
 Starmap index: 33
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERADD
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAP. YET AGAIN.

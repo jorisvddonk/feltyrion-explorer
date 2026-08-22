@@ -1,6 +1,8 @@
-Planet: IFYMAP
+Moon: IFYMAP
 Starmap index: 61
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE DARK AND PURPLE

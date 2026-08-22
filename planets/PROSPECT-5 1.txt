@@ -1,3 +1,5 @@
-Planet: PROSPECT-5 1
+Moon: PROSPECT-5 1
 Starmap index: 09
 Paris coordinates: 797488, -134487, 2006132
+Orbits: PROSPECT-5
+Moon id: 0

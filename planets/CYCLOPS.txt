@@ -1,6 +1,8 @@
-Planet: CYCLOPS
+Moon: CYCLOPS
 Starmap index: 11
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 3
 
 Guide entries:
 FURTHER NOTES:MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO

@@ -1,6 +1,8 @@
-Planet: NOVATION
+Moon: NOVATION
 Starmap index: 08
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A BIT DUSTY LOOKING

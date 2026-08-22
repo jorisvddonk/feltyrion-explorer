@@ -1,6 +1,8 @@
-Planet: PAULING 4.1
+Moon: PAULING 4.1
 Starmap index: 14
 Paris coordinates: 12052848, -4655501, -9731942
+Orbits: PAULING 4
+Moon id: 0
 
 Guide entries:
 IT'S VERY DARK ON THE SURFACE. LANDING REVEALED THAT THIS

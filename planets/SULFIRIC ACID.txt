@@ -1,6 +1,8 @@
-Planet: SULFIRIC ACID
+Moon: SULFIRIC ACID
 Starmap index: 18
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 10
 
 Guide entries:
 A YELLOW INTERNALY HOT MOON OF INSANE ON EKA75. --EKA

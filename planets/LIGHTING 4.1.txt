@@ -1,6 +1,8 @@
-Planet: LIGHTING 4.1
+Moon: LIGHTING 4.1
 Starmap index: 10
 Paris coordinates: 36432, 33110, -633205
+Orbits: LIGHTING 4
+Moon id: 0
 
 Guide entries:
 CLOSE TO THE MAIN PLANET. THIN ATMOSPHERE, DARK SURFACE.

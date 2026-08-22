@@ -1,6 +1,8 @@
-Planet: PLATINIA
+Moon: PLATINIA
 Starmap index: 04
 Paris coordinates: 4566416, 4145435, -1519858
+Orbits: RANDSCAPE
+Moon id: 0
 
 Guide entries:
 A MOON COVERED WITH A SILVERY REFLECTIVE SUBSTANCE                          

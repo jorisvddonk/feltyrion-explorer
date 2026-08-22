@@ -1,3 +1,5 @@
-Planet: MEGARA
+Moon: MEGARA
 Starmap index: 12
 Paris coordinates: -71941712, -1356971, 55222507
+Orbits: POLLUX II
+Moon id: 8

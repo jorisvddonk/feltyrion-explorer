@@ -1,6 +1,8 @@
-Planet: TAMMIUS
+Moon: TAMMIUS
 Starmap index: 23
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 1
 
 Guide entries:
 ORBITS KASSIUS, STAR OF MULTIPLE STAR SYSTEM KELTA.

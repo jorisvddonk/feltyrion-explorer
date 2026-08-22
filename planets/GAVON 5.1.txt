@@ -1,6 +1,8 @@
-Planet: GAVON 5.1
+Moon: GAVON 5.1
 Starmap index: 06
 Paris coordinates: 1981072, 2048511, -2098533
+Orbits: GAVON 5
+Moon id: 0
 
 Guide entries:
  THE MOON OF GAVON 5 IS YET ANOTHER DUSTY, CRATERISED, AND VERY

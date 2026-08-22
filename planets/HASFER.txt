@@ -1,3 +1,5 @@
-Planet: HASFER
+Moon: HASFER
 Starmap index: 42
 Paris coordinates: 125712, -63681, 567654
+Orbits: ALBIR
+Moon id: 0

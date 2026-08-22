@@ -1,3 +1,5 @@
-Planet: MIZER
+Moon: MIZER
 Starmap index: 09
 Paris coordinates: -439280, 182294, -649509
+Orbits: MYTHREL
+Moon id: 1

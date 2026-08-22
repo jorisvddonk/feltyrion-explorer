@@ -1,3 +1,5 @@
-Planet: HIPRYGGURN
+Moon: HIPRYGGURN
 Starmap index: 42
 Paris coordinates: -614992, 734031, -1219112
+Orbits: YRTAGAST IKS
+Moon id: 0

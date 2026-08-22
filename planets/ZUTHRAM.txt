@@ -1,3 +1,5 @@
-Planet: ZUTHRAM
+Moon: ZUTHRAM
 Starmap index: 41
 Paris coordinates: 14872112, 32430695, -7740461
+Orbits: ALTRUZAXN
+Moon id: 0

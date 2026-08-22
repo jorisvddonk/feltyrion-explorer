@@ -1,6 +1,8 @@
-Planet: CYCLIT
+Moon: CYCLIT
 Starmap index: 17
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 13
 
 Guide entries:
 M14/P03 MEDIUM SIZE ROCKY ROUGH AND SCARRED. PALE YELLOW COLOR. PRO         

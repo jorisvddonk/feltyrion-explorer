@@ -1,6 +1,8 @@
-Planet: LES ARBRES BLEU
+Moon: LES ARBRES BLEU
 Starmap index: 21
 Paris coordinates: 5975376, 8451023, -10227802
+Orbits: planet index 04
+Moon id: 5
 
 Guide entries:
 A BEAUTIFUL FELYSIAN WORLD FULL OF BLUE SHADES. A MUST SEE.

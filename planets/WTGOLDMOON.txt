@@ -1,3 +1,5 @@
-Planet: WTGOLDMOON
+Moon: WTGOLDMOON
 Starmap index: 11
 Paris coordinates: -32884432, 5098143, -15438858
+Orbits: WAYNESCOLONY2
+Moon id: 1

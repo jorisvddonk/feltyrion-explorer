@@ -1,6 +1,8 @@
-Planet: UDWI
+Moon: UDWI
 Starmap index: 07
 Paris coordinates: 3587856, 4660150, -3339201
+Orbits: HORX
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY LARGE CRATERS,

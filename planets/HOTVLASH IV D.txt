@@ -1,3 +1,5 @@
-Planet: HOTVLASH IV D
+Moon: HOTVLASH IV D
 Starmap index: 08
 Paris coordinates: 3656784, -66371769, -3020393
+Orbits: HOTFLASH IV
+Moon id: 3

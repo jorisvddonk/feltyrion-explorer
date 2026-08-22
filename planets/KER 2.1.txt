@@ -1,3 +1,5 @@
-Planet: KER 2.1
+Moon: KER 2.1
 Starmap index: 03
 Paris coordinates: 3452848, 4414008, -1370212
+Orbits: KER 2
+Moon id: 1

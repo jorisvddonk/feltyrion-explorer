@@ -1,6 +1,8 @@
-Planet: WHORL
+Moon: WHORL
 Starmap index: 32
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A VERY DARK WORLD WITH MUCH

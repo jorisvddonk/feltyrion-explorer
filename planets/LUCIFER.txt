@@ -1,6 +1,8 @@
-Planet: LUCIFER
+Moon: LUCIFER
 Starmap index: 12
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: REVENUE
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A FEW

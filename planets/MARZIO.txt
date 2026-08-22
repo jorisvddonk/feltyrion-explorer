@@ -1,6 +1,8 @@
-Planet: MARZIO
+Moon: MARZIO
 Starmap index: 16
 Paris coordinates: 974288, 1321067, -1251662
+Orbits: GOLBRAT
+Moon id: 3
 
 Guide entries:
  DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.254

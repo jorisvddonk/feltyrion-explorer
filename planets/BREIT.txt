@@ -1,3 +1,5 @@
-Planet: BREIT
+Moon: BREIT
 Starmap index: 31
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: NUFIOUS
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: PARSIS 7.3
+Moon: PARSIS 7.3
 Starmap index: 20
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 7
+Moon id: 2
 
 Guide entries:
  THE THIRD MOON OF PARSIS 7, IS VERY MUCH RESEMBLING THE FOURTH AND

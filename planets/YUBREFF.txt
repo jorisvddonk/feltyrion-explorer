@@ -1,3 +1,5 @@
-Planet: YUBREFF
+Moon: YUBREFF
 Starmap index: 57
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: INSEL DER DUNKELHEIT
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: DAGORATH
+Moon: DAGORATH
 Starmap index: 24
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 13
 
 Guide entries:
 A YELLOW-ORANGE HELLWORLD. (SCHMERM 6011 593.46)

@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 10.5
+Moon: VARACYLNIA 10.5
 Starmap index: 31
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 10
+Moon id: 4
 
 Guide entries:
  A SMALL PLANET WITH A THICK ATMOSPHERE, AND SOLID SURFACE.

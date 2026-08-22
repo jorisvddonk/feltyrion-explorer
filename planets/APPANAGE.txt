@@ -1,6 +1,8 @@
-Planet: APPANAGE
+Moon: APPANAGE
 Starmap index: 16
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 8
 
 Guide entries:
 UPDATE:MEDIUM SIZE, FELISIAN, BREATHABLE ATMOSPHERE. I'D JUST LIKE TO

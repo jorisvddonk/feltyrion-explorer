@@ -1,6 +1,8 @@
-Planet: STUPOR
+Moon: STUPOR
 Starmap index: 15
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: DREAMSCAPE
+Moon id: 9
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT.

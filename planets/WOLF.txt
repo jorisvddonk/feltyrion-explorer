@@ -1,6 +1,8 @@
-Planet: WOLF
+Moon: WOLF
 Starmap index: 05
 Paris coordinates: -705360, 1025027, 1439547
+Orbits: BEIDERMAN
+Moon id: 0
 
 Guide entries:
 A MOON OF THE PLANET BEIDERMAN

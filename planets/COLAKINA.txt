@@ -1,6 +1,8 @@
-Planet: COLAKINA
+Moon: COLAKINA
 Starmap index: 44
 Paris coordinates: 1158546096, -274926, -1000180310
+Orbits: SHYMA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:835.981)               

@@ -1,3 +1,5 @@
-Planet: BLOGIS
+Moon: BLOGIS
 Starmap index: 07
 Paris coordinates: 13778896, 7771155, -6306874
+Orbits: VILNIUS
+Moon id: 1

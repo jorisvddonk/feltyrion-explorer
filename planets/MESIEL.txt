@@ -1,6 +1,8 @@
-Planet: MESIEL
+Moon: MESIEL
 Starmap index: 10
 Paris coordinates: 10412144, 437173, -10540020
+Orbits: TRACTARIAN
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. EXTREMELY REFLECTIVE

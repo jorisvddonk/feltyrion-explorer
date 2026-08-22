@@ -1,3 +1,5 @@
-Planet: MOY-5 3
+Moon: MOY-5 3
 Starmap index: 20
 Paris coordinates: -222864, 325508, 1826922
+Orbits: MOY-5
+Moon id: 2

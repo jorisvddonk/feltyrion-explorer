@@ -1,6 +1,8 @@
-Planet: PUREFIELDS
+Moon: PUREFIELDS
 Starmap index: 15
 Paris coordinates: 1052848, 1236149, 1272524
+Orbits: planet index 05
+Moon id: 3
 
 Guide entries:
 A FELISIAN WORLD THE ORIGINAL EXPLORER MISSED OUT(AND I SPOTTED)            

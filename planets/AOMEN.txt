@@ -1,3 +1,5 @@
-Planet: AOMEN
+Moon: AOMEN
 Starmap index: 09
 Paris coordinates: 1924624, 7368157, 2472677
+Orbits: JARAFI
+Moon id: 1

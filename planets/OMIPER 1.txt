@@ -1,3 +1,5 @@
-Planet: OMIPER 1
+Moon: OMIPER 1
 Starmap index: 11
 Paris coordinates: 3763568, 5569852, -2799046
+Orbits: OMICRON PERCEI 4
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: KOAB
+Moon: KOAB
 Starmap index: 12
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE

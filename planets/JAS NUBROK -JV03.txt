@@ -1,6 +1,8 @@
-Planet: JAS NUBROK -JV03
+Moon: JAS NUBROK -JV03
 Starmap index: 07
 Paris coordinates: 5544976, 4364947, 115791
+Orbits: JAS VICTUS
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF JAS VICTUS IS QUITE UNREMARKABLE.

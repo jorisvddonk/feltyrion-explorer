@@ -1,6 +1,8 @@
-Planet: FIEGER
+Moon: FIEGER
 Starmap index: 19
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 8
 
 Guide entries:
 A GREENISH THICK ATMO MOON, THE NINTH OF THE FOURTH PLANET. SURFACE

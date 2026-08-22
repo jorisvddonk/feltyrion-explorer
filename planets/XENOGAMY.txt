@@ -1,6 +1,8 @@
-Planet: XENOGAMY
+Moon: XENOGAMY
 Starmap index: 59
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SLIGHTLY DARK, VERY

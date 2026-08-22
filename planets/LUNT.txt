@@ -1,6 +1,8 @@
-Planet: LUNT
+Moon: LUNT
 Starmap index: 29
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: ERNOST
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE. SKINNYMON EPOC 6011

@@ -1,6 +1,8 @@
-Planet: LOFAM GAMMA
+Moon: LOFAM GAMMA
 Starmap index: 52
 Paris coordinates: 612144, 6999853, -833727
+Orbits: LOFAM
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF PLANET LOFAM IN THE GENISI SYSTEM

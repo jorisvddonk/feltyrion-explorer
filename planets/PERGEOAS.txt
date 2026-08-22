@@ -1,6 +1,8 @@
-Planet: PERGEOAS
+Moon: PERGEOAS
 Starmap index: 17
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 6
 
 Guide entries:
 A PURPLISH, DUSTY MOON, THE SEVENTH OF THE FOURTH PLANET. THE POOR

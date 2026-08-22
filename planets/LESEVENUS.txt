@@ -1,6 +1,8 @@
-Planet: LESEVENUS
+Moon: LESEVENUS
 Starmap index: 28
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 2
 
 Guide entries:
 AIRLESS, CRATERED, MOON-LIKE BUT MORE PEACH. (SCHMERM 6011 583.980)

@@ -1,6 +1,8 @@
-Planet: FARMOON 2
+Moon: FARMOON 2
 Starmap index: 36
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 8
 
 Guide entries:
  MOON IS YET ANOTHER ICY, BORING, AND ULTIMATLY UNINTERESTING WORLD.

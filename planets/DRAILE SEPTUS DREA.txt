@@ -1,3 +1,5 @@
-Planet: DRAILE SEPTUS DREA
+Moon: DRAILE SEPTUS DREA
 Starmap index: 28
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE SEPTUS
+Moon id: 1

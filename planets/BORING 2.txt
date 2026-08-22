@@ -1,3 +1,5 @@
-Planet: BORING 2
+Moon: BORING 2
 Starmap index: 36
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: JB 119
+Moon id: 4

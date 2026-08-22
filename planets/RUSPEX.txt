@@ -1,6 +1,8 @@
-Planet: RUSPEX
+Moon: RUSPEX
 Starmap index: 37
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DUSTY WITH SOME GROOVING.

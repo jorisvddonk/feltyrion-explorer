@@ -1,6 +1,8 @@
-Planet: CHUPACABRA
+Moon: CHUPACABRA
 Starmap index: 06
 Paris coordinates: 2570352, 5898082, -1391976
+Orbits: IXTLAN
+Moon id: 0
 
 Guide entries:
  HOT, UNSTABLE MOON DISCOVERED BY MRUQE; EPOC 6011-568.662

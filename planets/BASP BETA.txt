@@ -1,6 +1,8 @@
-Planet: BASP BETA
+Moon: BASP BETA
 Starmap index: 77
 Paris coordinates: 612144, 6999853, -833727
+Orbits: BASP
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET BASP IN THE GENISI SYSTEM

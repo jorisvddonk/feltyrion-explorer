@@ -1,3 +1,5 @@
-Planet: SERGEIOV F11
+Moon: SERGEIOV F11
 Starmap index: 45
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV F
+Moon id: 10

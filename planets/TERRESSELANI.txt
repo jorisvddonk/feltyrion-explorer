@@ -1,3 +1,5 @@
-Planet: TERRESSELANI
+Moon: TERRESSELANI
 Starmap index: 07
 Paris coordinates: 11796656, -19185769, 18074499
+Orbits: ASKEW 34D
+Moon id: 2

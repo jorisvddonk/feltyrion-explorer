@@ -1,6 +1,8 @@
-Planet: GALU
+Moon: GALU
 Starmap index: 13
 Paris coordinates: 3587856, 4660150, -3339201
+Orbits: KHARK
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE WITH MANY

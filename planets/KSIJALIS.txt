@@ -1,6 +1,8 @@
-Planet: KSIJALIS
+Moon: KSIJALIS
 Starmap index: 27
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: VARISJARS
+Moon id: 0
 
 Guide entries:
 M01P09, DUSTY, CRATERIZED, PRO 0.267.120; PRV 0.002.277.561 /// A

@@ -1,6 +1,8 @@
-Planet: VIPER 3.10
+Moon: VIPER 3.10
 Starmap index: 15
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 9
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT, UNSTABLE SURFACE. YOU MIGHT SAY THAT

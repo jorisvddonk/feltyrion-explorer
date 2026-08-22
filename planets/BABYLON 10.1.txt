@@ -1,6 +1,8 @@
-Planet: BABYLON 10.1
+Moon: BABYLON 10.1
 Starmap index: 20
 Paris coordinates: 453936, 4600516, -2135969
+Orbits: BABYLON 10
+Moon id: 0
 
 Guide entries:
  THE MOON OF BABYLON 10, IS JUST A WANDERING ASTEROID WHICH HAS

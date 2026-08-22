@@ -1,3 +1,5 @@
-Planet: GREENCRATERIS
+Moon: GREENCRATERIS
 Starmap index: 31
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: QUERREY
+Moon id: 0

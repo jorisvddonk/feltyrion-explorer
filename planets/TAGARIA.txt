@@ -1,3 +1,5 @@
-Planet: TAGARIA
+Moon: TAGARIA
 Starmap index: 19
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: BASTIAN
+Moon id: 1

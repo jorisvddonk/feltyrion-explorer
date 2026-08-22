@@ -1,6 +1,8 @@
-Planet: FRIGGA C
+Moon: FRIGGA C
 Starmap index: 30
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 2
 
 Guide entries:
 AN ICEWORLD. SMOOTH AND FLAT. (SCHMERM 6011 582.417)

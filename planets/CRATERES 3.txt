@@ -1,3 +1,5 @@
-Planet: CRATERES 3
+Moon: CRATERES 3
 Starmap index: 17
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: JB 104
+Moon id: 4

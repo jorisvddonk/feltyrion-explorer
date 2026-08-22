@@ -1,6 +1,8 @@
-Planet: BALLON 5.2
+Moon: BALLON 5.2
 Starmap index: 29
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 5
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. ITS MOSTLY INCONSPICUOUS, GREENISH           

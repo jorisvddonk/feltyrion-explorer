@@ -1,3 +1,5 @@
-Planet: SADE
+Moon: SADE
 Starmap index: 55
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: DURZOG
+Moon id: 3

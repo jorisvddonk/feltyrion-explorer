@@ -1,6 +1,8 @@
-Planet: YCOP
+Moon: YCOP
 Starmap index: 21
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: THARG
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE CRATERS.

@@ -1,6 +1,8 @@
-Planet: ZEMERON Q
+Moon: ZEMERON Q
 Starmap index: 47
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 16
 
 Guide entries:
 A SMALL PEACH COLORED DENSEWORLD. (SCHMERM 6011 583.20)

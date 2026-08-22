@@ -1,6 +1,8 @@
-Planet: KRINGLE POP
+Moon: KRINGLE POP
 Starmap index: 18
 Paris coordinates: 11352016, -19280074, 17907404
+Orbits: ASKEW 76E
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 588.105.000 BY ROLAND ASKEW

@@ -1,3 +1,5 @@
-Planet: GREENWELL
+Moon: GREENWELL
 Starmap index: 10
 Paris coordinates: 570352, -17743, 592279
+Orbits: FULLAISLE
+Moon id: 1

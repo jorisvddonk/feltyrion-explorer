@@ -1,6 +1,8 @@
-Planet: THE REAL THING
+Moon: THE REAL THING
 Starmap index: 32
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 11
 
 Guide entries:
 THIS GAS GIANT ORBITS THE BROWN DWARF 'ODD' ON EKA75. THE

@@ -1,6 +1,8 @@
-Planet: CYENSI
+Moon: CYENSI
 Starmap index: 39
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 7
 
 Guide entries:
 THE EIGHTTH MOON OF THE FIFTEENTH PLANET, PERDISTA. LIGHT BLUE ICY MOON

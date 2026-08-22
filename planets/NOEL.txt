@@ -1,6 +1,8 @@
-Planet: NOEL
+Moon: NOEL
 Starmap index: 15
 Paris coordinates: 3359632, 4945485, -922921
+Orbits: ISIS
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY ZK306 EPOC 6011.667.597.970

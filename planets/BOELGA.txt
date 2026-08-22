@@ -1,3 +1,5 @@
-Planet: BOELGA
+Moon: BOELGA
 Starmap index: 42
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: NAMELESS ONE
+Moon id: 17

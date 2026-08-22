@@ -1,6 +1,8 @@
-Planet: CRYSTAL RED
+Moon: CRYSTAL RED
 Starmap index: 06
 Paris coordinates: 3708208, 4249889, -2171700
+Orbits: planet index 01
+Moon id: 0
 
 Guide entries:
 FOUND ON 645-467-825 SURFACE IS NATIVE QUARTZ WILL LAND NOW BYE

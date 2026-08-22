@@ -1,3 +1,5 @@
-Planet: MAGRI
+Moon: MAGRI
 Starmap index: 11
 Paris coordinates: -10576048, -18754698, 5363860
+Orbits: GITHA 5
+Moon id: 3

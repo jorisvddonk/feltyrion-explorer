@@ -1,6 +1,8 @@
-Planet: TULTIF
+Moon: TULTIF
 Starmap index: 10
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION III
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. CLOUD COVER

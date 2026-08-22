@@ -1,3 +1,5 @@
-Planet: HORSESHOE
+Moon: HORSESHOE
 Starmap index: 35
 Paris coordinates: 12144, 354769, -222098
+Orbits: CRONUS
+Moon id: 14

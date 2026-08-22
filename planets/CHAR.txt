@@ -1,6 +1,8 @@
-Planet: CHAR
+Moon: CHAR
 Starmap index: 02
 Paris coordinates: 6313904, 4676597, -607987
+Orbits: NECTARINES A
+Moon id: 0
 
 Guide entries:
 FURTHER NOTE: MEDIUM SIZE, INTERNALLY HOT, UNSTABLE SURFACE, NO

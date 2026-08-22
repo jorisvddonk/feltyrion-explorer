@@ -1,3 +1,5 @@
-Planet: GARTHEN
+Moon: GARTHEN
 Starmap index: 40
 Paris coordinates: -890704, 333652, -1384376
+Orbits: VAAG
+Moon id: 11

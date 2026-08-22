@@ -1,6 +1,8 @@
-Planet: VIRAM
+Moon: VIRAM
 Starmap index: 55
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 6
+Moon id: 18
 
 Guide entries:
 ANOTHER CLOUDY, PURPLE/GREEN PLANET

@@ -1,3 +1,5 @@
-Planet: LANE.11.3(I)
+Moon: LANE.11.3(I)
 Starmap index: 49
 Paris coordinates: 1463568, 4728350, -437812
+Orbits: LANE.11(-)
+Moon id: 2

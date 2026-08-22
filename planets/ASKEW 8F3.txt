@@ -1,3 +1,5 @@
-Planet: ASKEW 8F3
+Moon: ASKEW 8F3
 Starmap index: 30
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: JINSEWIK
+Moon id: 2

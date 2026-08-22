@@ -1,3 +1,5 @@
-Planet: HOT GEL
+Moon: HOT GEL
 Starmap index: 05
 Paris coordinates: 3328560, 3928964, -618003
+Orbits: PARTICLE ACCUMULATE
+Moon id: 0

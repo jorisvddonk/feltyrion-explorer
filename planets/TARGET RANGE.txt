@@ -1,6 +1,8 @@
-Planet: TARGET RANGE
+Moon: TARGET RANGE
 Starmap index: 17
 Paris coordinates: 4066416, 4419160, -988413
+Orbits: LONGPOINT
+Moon id: 0
 
 Guide entries:
  INSIGNIFIGANT, LIFELESS ROCK. A SUPERSCALAR ASTEROID.

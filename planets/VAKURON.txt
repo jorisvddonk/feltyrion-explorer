@@ -1,6 +1,8 @@
-Planet: VAKURON
+Moon: VAKURON
 Starmap index: 25
 Paris coordinates: -921743312, -975136, -775992144
+Orbits: SUCHAARAG C
+Moon id: 9
 
 Guide entries:
 SUCHAARAG 10/04; FELISIAN

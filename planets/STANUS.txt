@@ -1,6 +1,8 @@
-Planet: STANUS
+Moon: STANUS
 Starmap index: 17
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 10
 
 Guide entries:
 A DUSTY MOON, THE ELEVENTH OF THE THIRD PLANET. SURFACE COLORS RANGE

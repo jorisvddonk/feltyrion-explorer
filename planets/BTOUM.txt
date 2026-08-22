@@ -1,6 +1,8 @@
-Planet: BTOUM
+Moon: BTOUM
 Starmap index: 65
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: CYMRU 54
+Moon id: 5
 
 Guide entries:
 THIS ICY MOON IS COMPLETELY FLAT.(NOTES BY JILANTY EPOC6011 568.992)

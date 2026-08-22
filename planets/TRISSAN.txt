@@ -1,6 +1,8 @@
-Planet: TRISSAN
+Moon: TRISSAN
 Starmap index: 28
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: TITIAND
+Moon id: 11
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:573.

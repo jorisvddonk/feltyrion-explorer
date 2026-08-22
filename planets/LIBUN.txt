@@ -1,6 +1,8 @@
-Planet: LIBUN
+Moon: LIBUN
 Starmap index: 53
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 19
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

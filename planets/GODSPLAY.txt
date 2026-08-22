@@ -1,6 +1,8 @@
-Planet: GODSPLAY
+Moon: GODSPLAY
 Starmap index: 23
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 11
 
 Guide entries:
 FELISIAN #3. IT APPEARS TO ME THAT THIS WORLD HAS QUITE A BIT OF

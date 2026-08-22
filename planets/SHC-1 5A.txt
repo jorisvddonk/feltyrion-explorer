@@ -1,3 +1,5 @@
-Planet: SHC-1 5A
+Moon: SHC-1 5A
 Starmap index: 31
 Paris coordinates: -26583376, -15647682, -1001175282
+Orbits: SHC-1 5
+Moon id: 0

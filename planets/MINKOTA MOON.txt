@@ -1,3 +1,5 @@
-Planet: MINKOTA MOON
+Moon: MINKOTA MOON
 Starmap index: 31
 Paris coordinates: -174288, 9638409, 793201
+Orbits: MINKOTA
+Moon id: 0

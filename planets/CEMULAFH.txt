@@ -1,6 +1,8 @@
-Planet: CEMULAFH
+Moon: CEMULAFH
 Starmap index: 06
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 2
 
 Guide entries:
 M03/P03 MRDIUM SIZE THICK ATMO. CLOUD COVER HAS AORANGE-RED COLOR AND       

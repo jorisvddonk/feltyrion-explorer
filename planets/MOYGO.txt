@@ -1,6 +1,8 @@
-Planet: MOYGO
+Moon: MOYGO
 Starmap index: 08
 Paris coordinates: 10412144, 437173, -10540020
+Orbits: TRACTARIAN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZEDNO ATMOSPHERE. HAS A GOOD GREY

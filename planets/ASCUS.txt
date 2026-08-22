@@ -1,6 +1,8 @@
-Planet: ASCUS
+Moon: ASCUS
 Starmap index: 21
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK (THOUGH A LIGHT SPOT IS NOTED),

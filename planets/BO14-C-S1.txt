@@ -1,3 +1,5 @@
-Planet: BO14-C-S1
+Moon: BO14-C-S1
 Starmap index: 04
 Paris coordinates: 4060720, 4579038, -5412646
+Orbits: BO14-C
+Moon id: 0

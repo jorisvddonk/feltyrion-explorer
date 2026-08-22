@@ -1,6 +1,8 @@
-Planet: NYTOVRIDAS
+Moon: NYTOVRIDAS
 Starmap index: 37
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZE, SOLID, THICK ATMOSPHERE. LOOKS WONDERFUL FROM ORBIT, WITH A    

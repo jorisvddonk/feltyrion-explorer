@@ -1,6 +1,8 @@
-Planet: ZUNA III-2
+Moon: ZUNA III-2
 Starmap index: 09
 Paris coordinates: 9675376, 5043750, -13745597
+Orbits: ZUNA III
+Moon id: 1
 
 Guide entries:
  VERY ARID AND ROCKY. NO FORMS OF LIFE OR WATER. VERY LOW GRAVITY.          

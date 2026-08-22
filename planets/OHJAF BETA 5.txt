@@ -1,3 +1,5 @@
-Planet: OHJAF BETA 5
+Moon: OHJAF BETA 5
 Starmap index: 10
 Paris coordinates: -26245072, -19374450, -448831906
+Orbits: OHJAF BETA
+Moon id: 4

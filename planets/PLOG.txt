@@ -1,3 +1,5 @@
-Planet: PLOG
+Moon: PLOG
 Starmap index: 49
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: SCHOJ
+Moon id: 6

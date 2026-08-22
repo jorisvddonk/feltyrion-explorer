@@ -1,6 +1,8 @@
-Planet: OMNIUM
+Moon: OMNIUM
 Starmap index: 06
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE, WITH

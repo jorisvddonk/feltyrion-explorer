@@ -1,3 +1,5 @@
-Planet: DESTRUCTION
+Moon: DESTRUCTION
 Starmap index: 18
 Paris coordinates: 625712, 20217, -47143
+Orbits: planet index 08
+Moon id: 0

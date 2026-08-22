@@ -1,6 +1,8 @@
-Planet: RAKTAS
+Moon: RAKTAS
 Starmap index: 09
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 5
 
 Guide entries:
 M06/P03 SMALL SOLID DUSTY CRATERIZED. THAT IS THE ONLY DESCRIPTION          

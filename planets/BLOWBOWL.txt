@@ -1,3 +1,5 @@
-Planet: BLOWBOWL
+Moon: BLOWBOWL
 Starmap index: 39
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASKEW 18H
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: AWIDE
+Moon: AWIDE
 Starmap index: 31
 Paris coordinates: 55204688, 331671, 1982481783
+Orbits: AS01051250E
+Moon id: 12
 
 Guide entries:
 DEPRESSING SKIES, TALL TREES AND FAST HOPPERS.

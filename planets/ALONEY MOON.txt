@@ -1,3 +1,5 @@
-Planet: ALONEY MOON
+Moon: ALONEY MOON
 Starmap index: 59
 Paris coordinates: -72872784, -1428037, 56200949
+Orbits: SEPARATEY
+Moon id: 0

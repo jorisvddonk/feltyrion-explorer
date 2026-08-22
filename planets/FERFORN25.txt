@@ -1,3 +1,5 @@
-Planet: FERFORN25
+Moon: FERFORN25
 Starmap index: 25
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: FERRAT
+Moon id: 12

@@ -1,6 +1,8 @@
-Planet: TRICE
+Moon: TRICE
 Starmap index: 49
 Paris coordinates: 401424, 613546, 693472
+Orbits: planet index 10
+Moon id: 4
 
 Guide entries:
 (DISCOVERED BY MICHAEL PARKS- EPOC 6011:567.867)

@@ -1,3 +1,5 @@
-Planet: MOONILLA I
+Moon: MOONILLA I
 Starmap index: 31
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: MON LLACUNA
+Moon id: 0

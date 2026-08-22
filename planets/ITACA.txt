@@ -1,3 +1,5 @@
-Planet: ITACA
+Moon: ITACA
 Starmap index: 11
 Paris coordinates: 3890704, 4920850, -1487843
+Orbits: LUIZ ALFONSO
+Moon id: 0

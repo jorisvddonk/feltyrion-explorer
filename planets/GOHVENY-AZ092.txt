@@ -1,6 +1,8 @@
-Planet: GOHVENY-AZ09/2
+Moon: GOHVENY-AZ09/2
 Starmap index: 33
 Paris coordinates: 4911056, 4061916, -1219103
+Orbits: NOVUM GEM-AZ09
+Moon id: 1
 
 Guide entries:
 ONE OF NOVUM GEMS' MOONS. IT IS QUITE UNREMARKABLE.

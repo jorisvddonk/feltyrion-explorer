@@ -1,3 +1,5 @@
-Planet: PFUNNOG
+Moon: PFUNNOG
 Starmap index: 24
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: GENER
+Moon id: 1

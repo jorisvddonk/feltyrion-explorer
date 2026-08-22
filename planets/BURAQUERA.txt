@@ -1,6 +1,8 @@
-Planet: BURAQUERA
+Moon: BURAQUERA
 Starmap index: 15
 Paris coordinates: -73010640, -1598344, 56035429
+Orbits: CAMPEXE
+Moon id: 0
 
 Guide entries:
 TRY SOME FREEFALL JUMPING ON ITS CRATERS! REALLY COOL!

@@ -1,6 +1,8 @@
-Planet: RESHAAK
+Moon: RESHAAK
 Starmap index: 43
 Paris coordinates: -1421804656, -910355, -1278469235
+Orbits: BOTHO'ES VII
+Moon id: 3
 
 Guide entries:
 BOTHO'ES 04/07; FELISIAN

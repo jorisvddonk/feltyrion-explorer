@@ -1,3 +1,5 @@
-Planet: GANDALF
+Moon: GANDALF
 Starmap index: 19
 Paris coordinates: 270352, 5086437, 857022
+Orbits: ROWLING
+Moon id: 6

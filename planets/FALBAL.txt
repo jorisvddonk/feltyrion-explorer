@@ -1,3 +1,5 @@
-Planet: FALBAL
+Moon: FALBAL
 Starmap index: 26
 Paris coordinates: 1708208, -171588, -197336
+Orbits: planet index 08
+Moon id: 0

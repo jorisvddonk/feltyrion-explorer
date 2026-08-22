@@ -1,6 +1,8 @@
-Planet: AKRITORI IV
+Moon: AKRITORI IV
 Starmap index: 25
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: AKRITORI
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY NEURONWKAE EPOC 6011 802.535.58                               

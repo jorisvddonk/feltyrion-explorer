@@ -1,3 +1,5 @@
-Planet: HUEMPAE
+Moon: HUEMPAE
 Starmap index: 23
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: ZUT-DET
+Moon id: 1

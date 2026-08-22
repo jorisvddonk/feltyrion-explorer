@@ -1,3 +1,5 @@
-Planet: QWAHR QUADREX DREA
+Moon: QWAHR QUADREX DREA
 Starmap index: 33
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR QUADREX
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: VYHUZ
+Moon: VYHUZ
 Starmap index: 36
 Paris coordinates: 1158546096, -274926, -1000180310
+Orbits: HATAMARENI
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:835.980)             

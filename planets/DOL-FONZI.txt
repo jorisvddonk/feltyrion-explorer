@@ -1,6 +1,8 @@
-Planet: DOL-FONZI
+Moon: DOL-FONZI
 Starmap index: 38
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 5
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.755 -                               

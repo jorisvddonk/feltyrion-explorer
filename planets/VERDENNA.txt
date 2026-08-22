@@ -1,6 +1,8 @@
-Planet: VERDENNA
+Moon: VERDENNA
 Starmap index: 17
 Paris coordinates: 110452016, 2866735, -81408987
+Orbits: NEHALEM 7
+Moon id: 2
 
 Guide entries:
 PRETTY GREEN FELISIAN WORLD

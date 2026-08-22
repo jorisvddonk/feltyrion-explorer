@@ -1,6 +1,8 @@
-Planet: SENNA
+Moon: SENNA
 Starmap index: 24
 Paris coordinates: -218928, 44011, 180703
+Orbits: ROLEAU
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS IN

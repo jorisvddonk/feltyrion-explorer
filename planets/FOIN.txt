@@ -1,6 +1,8 @@
-Planet: FOIN
+Moon: FOIN
 Starmap index: 45
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: PIDDOCK
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. APPEARS TO HAVE MANY SMALL

@@ -1,3 +1,5 @@
-Planet: ASKEW 100A1
+Moon: ASKEW 100A1
 Starmap index: 03
 Paris coordinates: 12269520, -19595517, 16098705
+Orbits: ASKEW 100A
+Moon id: 0

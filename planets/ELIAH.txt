@@ -1,6 +1,8 @@
-Planet: ELIAH
+Moon: ELIAH
 Starmap index: 12
 Paris coordinates: 4059632, 4833879, -1388853
+Orbits: HORUS
+Moon id: 0
 
 Guide entries:
  HORUSES MOON, DISCOVERED BY MRUQE; ERA 6011-567.740

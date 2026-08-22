@@ -1,3 +1,5 @@
-Planet: MARKLAND 3 I
+Moon: MARKLAND 3 I
 Starmap index: 17
 Paris coordinates: 5177136, 4515695, -3362491
+Orbits: planet index 03
+Moon id: 8

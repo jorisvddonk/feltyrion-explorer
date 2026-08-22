@@ -1,3 +1,5 @@
-Planet: WHITE HOT
+Moon: WHITE HOT
 Starmap index: 14
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZENTORGO
+Moon id: 2

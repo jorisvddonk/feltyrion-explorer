@@ -1,6 +1,8 @@
-Planet: SEMANTIC
+Moon: SEMANTIC
 Starmap index: 15
 Paris coordinates: 2532496, 4432003, -1540265
+Orbits: REFLECTION
+Moon id: 6
 
 Guide entries:
 A MOON OF ENDLESS ROLLING HILLS, THE SURFACE IS MAINLY NATIVE QUARTZ

@@ -1,6 +1,8 @@
-Planet: RACLETTE
+Moon: RACLETTE
 Starmap index: 36
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK, GOOD POLAR CAPS.

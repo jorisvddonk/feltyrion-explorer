@@ -1,3 +1,5 @@
-Planet: CHOC ICE
+Moon: CHOC ICE
 Starmap index: 19
 Paris coordinates: 6179984, 4254053, -2549392
+Orbits: BRIGHT SPARK
+Moon id: 6

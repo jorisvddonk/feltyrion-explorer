@@ -1,6 +1,8 @@
-Planet: DEUTERON
+Moon: DEUTERON
 Starmap index: 51
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: PERNICIOUS
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. THE LARGE CRATERS

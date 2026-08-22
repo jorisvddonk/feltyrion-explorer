@@ -1,6 +1,8 @@
-Planet: LICE
+Moon: LICE
 Starmap index: 51
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 10
 
 Guide entries:
 LAST ICE PLANET! (MEGAGUN) (OF THIS PLANET, AT LEAST)

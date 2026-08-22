@@ -1,3 +1,5 @@
-Planet: ASKEW 145H1
+Moon: ASKEW 145H1
 Starmap index: 16
 Paris coordinates: 10324880, -18118396, 17363862
+Orbits: ASKEW 145H
+Moon id: 0

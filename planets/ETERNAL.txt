@@ -1,6 +1,8 @@
-Planet: ETERNAL
+Moon: ETERNAL
 Starmap index: 04
 Paris coordinates: 172112, 3084692, 6978293
+Orbits: BROWN LIFE
+Moon id: 0
 
 Guide entries:
 THE UNINTERESTING ICE MOON OF BROWN LIFE. IT'S COMPLETELY PITCH-BLACK       

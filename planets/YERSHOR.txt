@@ -1,6 +1,8 @@
-Planet: YERSHOR
+Moon: YERSHOR
 Starmap index: 54
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: PHECHRUC
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. DARK

@@ -1,3 +1,5 @@
-Planet: WALLACE WOOD
+Moon: WALLACE WOOD
 Starmap index: 14
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: ALFRED E NEUMAN
+Moon id: 3

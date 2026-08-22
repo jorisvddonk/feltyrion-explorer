@@ -1,3 +1,5 @@
-Planet: JETZT
+Moon: JETZT
 Starmap index: 20
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: VAKTA
+Moon id: 1

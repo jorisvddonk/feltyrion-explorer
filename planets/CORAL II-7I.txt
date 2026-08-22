@@ -1,6 +1,8 @@
-Planet: CORAL II-7I
+Moon: CORAL II-7I
 Starmap index: 65
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-7
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. CLOUD

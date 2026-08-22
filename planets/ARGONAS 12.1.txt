@@ -1,6 +1,8 @@
-Planet: ARGONAS 12.1
+Moon: ARGONAS 12.1
 Starmap index: 43
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 12
+Moon id: 0
 
 Guide entries:
  DUSTY, CRATERISED, NO ATMOSPHERE. NOTHING OF INTEREST.

@@ -1,3 +1,5 @@
-Planet: ESTRANGED
+Moon: ESTRANGED
 Starmap index: 16
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: HUGSTONE
+Moon id: 7

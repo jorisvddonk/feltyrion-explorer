@@ -1,6 +1,8 @@
-Planet: GABLE
+Moon: GABLE
 Starmap index: 24
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: BACKLASH
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK, GOOD POLAR CAPS. SKINNYMON

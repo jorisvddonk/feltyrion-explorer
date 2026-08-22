@@ -1,6 +1,8 @@
-Planet: PARADOXICAL
+Moon: PARADOXICAL
 Starmap index: 12
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 5
 
 Guide entries:
 ANOTHER FELISIAN WORLD. AT 17.60 IT IS GRASSY WITH BUSHES, BIRDS

@@ -1,6 +1,8 @@
-Planet: TEAR OF THE FURNACE
+Moon: TEAR OF THE FURNACE
 Starmap index: 20
 Paris coordinates: 2557456, 2106610, 7526289
+Orbits: TEAR OF THE GLOBULE
+Moon id: 9
 
 Guide entries:
 SOME RATHER NASTYSTUFF GOING ON IN THE SOUTHERN HEMISPHERE                  

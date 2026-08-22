@@ -1,3 +1,5 @@
-Planet: AKNAR
+Moon: AKNAR
 Starmap index: 05
 Paris coordinates: 270352, -13563, 884672
+Orbits: GALVANA 3
+Moon id: 0

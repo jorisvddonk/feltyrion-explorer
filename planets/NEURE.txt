@@ -1,6 +1,8 @@
-Planet: NEURE
+Moon: NEURE
 Starmap index: 16
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SMALL STORMS

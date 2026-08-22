@@ -1,6 +1,8 @@
-Planet: PEFLY
+Moon: PEFLY
 Starmap index: 34
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: SAFEN
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD AQUA REFLECTIVITY WITH

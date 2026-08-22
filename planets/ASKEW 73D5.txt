@@ -1,3 +1,5 @@
-Planet: ASKEW 73D5
+Moon: ASKEW 73D5
 Starmap index: 16
 Paris coordinates: 11114160, -19128369, 17805737
+Orbits: ASKEW 73D
+Moon id: 3

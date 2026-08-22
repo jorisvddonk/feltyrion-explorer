@@ -1,6 +1,8 @@
-Planet: TOS 5.1
+Moon: TOS 5.1
 Starmap index: 12
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: MIDTGARD 2
+Moon id: 2
 
 Guide entries:
  A GREEN PLANETOID; MOON OF THE FIFTH PLANET IN THE TOS-SYSTEM.

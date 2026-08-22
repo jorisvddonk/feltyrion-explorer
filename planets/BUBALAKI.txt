@@ -1,3 +1,5 @@
-Planet: BUBALAKI
+Moon: BUBALAKI
 Starmap index: 21
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: SVENKO
+Moon id: 0

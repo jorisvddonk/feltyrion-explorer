@@ -1,3 +1,5 @@
-Planet: NLG'2873 2A
+Moon: NLG'2873 2A
 Starmap index: 14
 Paris coordinates: 2718928, 5334162, -2425086
+Orbits: BLG'2873 2
+Moon id: 0

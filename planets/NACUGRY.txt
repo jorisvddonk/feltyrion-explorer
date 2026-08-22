@@ -1,3 +1,5 @@
-Planet: NACUGRY
+Moon: NACUGRY
 Starmap index: 37
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: IANISSE
+Moon id: 2

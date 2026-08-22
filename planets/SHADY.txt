@@ -1,3 +1,5 @@
-Planet: SHADY
+Moon: SHADY
 Starmap index: 20
 Paris coordinates: -71430992, -593618, 53172813
+Orbits: CONTOL FREAK
+Moon id: 6

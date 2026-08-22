@@ -1,6 +1,8 @@
-Planet: LEONE
+Moon: LEONE
 Starmap index: 16
 Paris coordinates: 3359632, 4945485, -922921
+Orbits: ISIS
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY ZK306 EPOC 6011.667.598.240

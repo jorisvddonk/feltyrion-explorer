@@ -1,3 +1,5 @@
-Planet: PRUNUSIS
+Moon: PRUNUSIS
 Starmap index: 34
 Paris coordinates: -61439376, 29916264, 239760
+Orbits: GRUPA 5 F
+Moon id: 8

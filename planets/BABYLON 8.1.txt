@@ -1,6 +1,8 @@
-Planet: BABYLON 8.1
+Moon: BABYLON 8.1
 Starmap index: 19
 Paris coordinates: 453936, 4600516, -2135969
+Orbits: BABYLON 8
+Moon id: 0
 
 Guide entries:
  SMALL PLANETOID IN CREATION. MAY BECOME A LUNA-LIKE OBJECT IN A

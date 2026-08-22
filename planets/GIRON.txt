@@ -1,3 +1,5 @@
-Planet: GIRON
+Moon: GIRON
 Starmap index: 23
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUFU
+Moon id: 0

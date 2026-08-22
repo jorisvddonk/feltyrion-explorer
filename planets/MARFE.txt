@@ -1,6 +1,8 @@
-Planet: MARFE
+Moon: MARFE
 Starmap index: 45
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, RED AND

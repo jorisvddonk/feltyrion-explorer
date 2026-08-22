@@ -1,3 +1,5 @@
-Planet: SCOFF
+Moon: SCOFF
 Starmap index: 11
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: MARLEY
+Moon id: 5

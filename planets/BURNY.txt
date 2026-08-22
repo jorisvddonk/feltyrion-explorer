@@ -1,3 +1,5 @@
-Planet: BURNY
+Moon: BURNY
 Starmap index: 09
 Paris coordinates: 2821776, 4685513, -444062
+Orbits: LEON
+Moon id: 5

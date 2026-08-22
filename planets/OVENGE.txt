@@ -1,6 +1,8 @@
-Planet: OVENGE
+Moon: OVENGE
 Starmap index: 14
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: MYEST
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE FIFTH PLANET. INTERNALLY HOT. QUITE INTERESTING

@@ -1,3 +1,5 @@
-Planet: GRABLE
+Moon: GRABLE
 Starmap index: 11
 Paris coordinates: -236432, 9672221, 993129
+Orbits: DOS RINGOS
+Moon id: 0

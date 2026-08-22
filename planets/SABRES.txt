@@ -1,3 +1,5 @@
-Planet: SABRES
+Moon: SABRES
 Starmap index: 28
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: PAU
+Moon id: 2

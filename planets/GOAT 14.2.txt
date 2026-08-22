@@ -1,6 +1,8 @@
-Planet: GOAT 14.2
+Moon: GOAT 14.2
 Starmap index: 45
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 14
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. YES, THE CHANCES OF

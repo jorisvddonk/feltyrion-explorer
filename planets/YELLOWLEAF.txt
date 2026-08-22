@@ -1,6 +1,8 @@
-Planet: YELLOWLEAF
+Moon: YELLOWLEAF
 Starmap index: 21
 Paris coordinates: 3070352, 4834807, -1861297
+Orbits: GAMLIF
+Moon id: 13
 
 Guide entries:
 PLANET FOUND BY STARDRIFTER FRACTUS, EPOC 6011:571.173.

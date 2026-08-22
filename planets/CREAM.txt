@@ -1,6 +1,8 @@
-Planet: CREAM
+Moon: CREAM
 Starmap index: 06
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: DEEP YELLOW
+Moon id: 0
 
 Guide entries:
 SMALL SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE AND PALE

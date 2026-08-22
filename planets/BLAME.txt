@@ -1,6 +1,8 @@
-Planet: BLAME
+Moon: BLAME
 Starmap index: 27
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 10
 
 Guide entries:
 ELEVENTH MOON OF FAT VIOLET

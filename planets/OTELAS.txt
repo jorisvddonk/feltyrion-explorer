@@ -1,6 +1,8 @@
-Planet: OTELAS
+Moon: OTELAS
 Starmap index: 38
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 6
 
 Guide entries:
 THE SEVENTH MOON OF THE FIFTEENTH PLANET, PERDISTA. ORANGE ICY MOON OF

@@ -1,6 +1,8 @@
-Planet: GRAIN OF GRAINS
+Moon: GRAIN OF GRAINS
 Starmap index: 17
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: BROKEN MIRROR
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

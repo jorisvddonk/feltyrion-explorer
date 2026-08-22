@@ -1,6 +1,8 @@
-Planet: AUTUMESE
+Moon: AUTUMESE
 Starmap index: 25
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 17
 
 Guide entries:
  A FELYSIAN MOON, THE EIGHTEENTH OF THE THIRD PLANET, NAMED SO

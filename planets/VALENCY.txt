@@ -1,6 +1,8 @@
-Planet: VALENCY
+Moon: VALENCY
 Starmap index: 64
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE DUSTY WITH

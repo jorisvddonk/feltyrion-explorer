@@ -1,3 +1,5 @@
-Planet: T.JIVKOV
+Moon: T.JIVKOV
 Starmap index: 08
 Paris coordinates: 3579984, 4607492, 169632
+Orbits: FILOV
+Moon id: 0

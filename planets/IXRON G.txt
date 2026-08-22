@@ -1,6 +1,8 @@
-Planet: IXRON G
+Moon: IXRON G
 Starmap index: 13
 Paris coordinates: 112144, 40438, -249045
+Orbits: IXRON
+Moon id: 6
 
 Guide entries:
 SMALL, DUSTY, AIRLESS, CRATERED. (SCHMERM 6011 582.589)

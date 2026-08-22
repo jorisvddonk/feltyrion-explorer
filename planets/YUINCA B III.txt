@@ -1,6 +1,8 @@
-Planet: YUINCA B III
+Moon: YUINCA B III
 Starmap index: 19
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA B
+Moon id: 2
 
 Guide entries:
  A QUARTZITE MOON. AMWHERE 6011.586.384

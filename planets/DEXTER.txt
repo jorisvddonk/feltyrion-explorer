@@ -1,3 +1,5 @@
-Planet: DEXTER
+Moon: DEXTER
 Starmap index: 07
 Paris coordinates: 4904272, 4729963, -1676767
+Orbits: GREEN PRINCESS
+Moon id: 0

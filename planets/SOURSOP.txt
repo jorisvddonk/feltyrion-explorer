@@ -1,6 +1,8 @@
-Planet: SOURSOP
+Moon: SOURSOP
 Starmap index: 17
 Paris coordinates: -461808, 50208, 5718934
+Orbits: COBEL
+Moon id: 6
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. DARK APPEARING WITH

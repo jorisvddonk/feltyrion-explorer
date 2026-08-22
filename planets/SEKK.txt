@@ -1,3 +1,5 @@
-Planet: SEKK
+Moon: SEKK
 Starmap index: 15
 Paris coordinates: 4142128, 4782625, -641787
+Orbits: DEK
+Moon id: 6

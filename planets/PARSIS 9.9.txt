@@ -1,6 +1,8 @@
-Planet: PARSIS 9.9
+Moon: PARSIS 9.9
 Starmap index: 34
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 8
 
 Guide entries:
  YET ANOTHER WORLD COVERED WITH ICE, WITH AN ACTIVE OCEAN WORKING

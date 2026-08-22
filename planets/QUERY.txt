@@ -1,6 +1,8 @@
-Planet: QUERY
+Moon: QUERY
 Starmap index: 16
 Paris coordinates: -68592, 5027197, 4888264
+Orbits: GREEN JEWEL
+Moon id: 12
 
 Guide entries:
 I WAS SURPRISED TO FIND THIS MOON. SINCE I CAN'T LAND, I CAN ONLY

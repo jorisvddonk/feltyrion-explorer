@@ -1,3 +1,5 @@
-Planet: OBNUBILATED MOTTLE
+Moon: OBNUBILATED MOTTLE
 Starmap index: 17
 Paris coordinates: 3328560, 3928964, -618003
+Orbits: CUSTODIAN
+Moon id: 10

@@ -1,6 +1,8 @@
-Planet: MODUS OPERANDI
+Moon: MODUS OPERANDI
 Starmap index: 31
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 18
 
 Guide entries:
 A FELISIAN WORLD- AT 346.60 AND 355.51 IT WAS MOUNTAINOUS AND

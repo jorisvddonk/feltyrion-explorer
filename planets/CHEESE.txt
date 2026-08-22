@@ -1,6 +1,8 @@
-Planet: CHEESE
+Moon: CHEESE
 Starmap index: 13
 Paris coordinates: 1373200, 778257, 2089632
+Orbits: BEAUTY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, NO ATMOSPHERE. A LOT OF CRATERS, BUT THE COLOUR IS

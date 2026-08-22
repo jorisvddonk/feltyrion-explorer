@@ -1,3 +1,5 @@
-Planet: DISTULOS
+Moon: DISTULOS
 Starmap index: 15
 Paris coordinates: 4328560, 3997615, -1543936
+Orbits: VAIDER
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: OPUKE
+Moon: OPUKE
 Starmap index: 28
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 12
 
 Guide entries:
 M13/P07 SMALL SOLID THIN ATMO. FAIRLY BRIGHT SLIGHT POLAR CAPS. PRO 0.      

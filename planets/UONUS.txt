@@ -1,6 +1,8 @@
-Planet: UONUS
+Moon: UONUS
 Starmap index: 14
 Paris coordinates: 4283920, 4264038, -2340212
+Orbits: planet index 05
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.001.337)

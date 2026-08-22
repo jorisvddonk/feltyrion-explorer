@@ -1,3 +1,5 @@
-Planet: LESCHNE
+Moon: LESCHNE
 Starmap index: 29
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NOROWNOGOWNO
+Moon id: 0

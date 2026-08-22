@@ -1,6 +1,8 @@
-Planet: ARCHIPELAGO
+Moon: ARCHIPELAGO
 Starmap index: 33
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 13
 
 Guide entries:
 IT DOESN'T SEEM MORE THAN AN ENORMOUS ICE DESERT WITH ISLANDS

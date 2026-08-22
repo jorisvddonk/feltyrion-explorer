@@ -1,3 +1,5 @@
-Planet: GOLD3
+Moon: GOLD3
 Starmap index: 14
 Paris coordinates: 3555696, 4747547, 558041
+Orbits: BULLION
+Moon id: 3

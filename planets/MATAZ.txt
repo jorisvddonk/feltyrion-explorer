@@ -1,6 +1,8 @@
-Planet: MATAZ
+Moon: MATAZ
 Starmap index: 23
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

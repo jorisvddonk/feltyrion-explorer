@@ -1,6 +1,8 @@
-Planet: MOON GREEN
+Moon: MOON GREEN
 Starmap index: 10
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: RAINBOW
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE

@@ -1,6 +1,8 @@
-Planet: DEEP SPACE MOON
+Moon: DEEP SPACE MOON
 Starmap index: 22
 Paris coordinates: 3055696, 6379869, 1322954
+Orbits: SEA OF GLASS
+Moon id: 0
 
 Guide entries:
 DISCOVERED EPOC 6012 060.448

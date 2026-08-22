@@ -1,3 +1,5 @@
-Planet: TRYTIRION
+Moon: TRYTIRION
 Starmap index: 12
 Paris coordinates: 574288, 535718, -933464
+Orbits: planet index 03
+Moon id: 7

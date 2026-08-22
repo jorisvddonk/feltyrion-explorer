@@ -1,3 +1,5 @@
-Planet: BLOD
+Moon: BLOD
 Starmap index: 10
 Paris coordinates: 14757456, 8159489, -4721068
+Orbits: HOELLE
+Moon id: 0

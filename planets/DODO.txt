@@ -1,6 +1,8 @@
-Planet: DODO
+Moon: DODO
 Starmap index: 16
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MILLIREM
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. LANDINGS AT 327.52 AND

@@ -1,3 +1,5 @@
-Planet: GALTHERG C2
+Moon: GALTHERG C2
 Starmap index: 21
 Paris coordinates: 4928560, 5278806, -2232144
+Orbits: GALTHERG C
+Moon id: 1

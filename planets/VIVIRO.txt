@@ -1,6 +1,8 @@
-Planet: VIVIRO
+Moon: VIVIRO
 Starmap index: 21
 Paris coordinates: 167888368, 6536134, -121206760
+Orbits: BESRE 3
+Moon id: 3
 
 Guide entries:
 BRIGHT ORANGE LANDSCAPE

@@ -1,3 +1,5 @@
-Planet: REPETITION
+Moon: REPETITION
 Starmap index: 09
 Paris coordinates: 376048, 5442863, 5216559
+Orbits: THING OF BEAUTY
+Moon id: 0

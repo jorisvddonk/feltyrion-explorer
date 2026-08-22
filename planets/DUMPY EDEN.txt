@@ -1,3 +1,5 @@
-Planet: DUMPY EDEN
+Moon: DUMPY EDEN
 Starmap index: 17
 Paris coordinates: -729648, -55940, 1873342
+Orbits: BRILLAR
+Moon id: 0

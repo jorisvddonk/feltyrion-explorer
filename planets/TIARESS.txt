@@ -1,6 +1,8 @@
-Planet: TIARESS
+Moon: TIARESS
 Starmap index: 04
 Paris coordinates: 26453616, 6340673, 45175452
+Orbits: CONREET
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE THIRD PLANET, A DUSTY MOON THAT IS GREEN FROM

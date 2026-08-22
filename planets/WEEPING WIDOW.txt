@@ -1,6 +1,8 @@
-Planet: WEEPING WIDOW
+Moon: WEEPING WIDOW
 Starmap index: 30
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: RED PLAGUE
+Moon id: 5
 
 Guide entries:
 THIN-ATMOSPHERE MOON OF PLANET RED DEATH. --EKA

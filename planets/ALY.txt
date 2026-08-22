@@ -1,3 +1,5 @@
-Planet: ALY
+Moon: ALY
 Starmap index: 17
 Paris coordinates: 4028560, 4341484, -1331484
+Orbits: planet index 05
+Moon id: 1

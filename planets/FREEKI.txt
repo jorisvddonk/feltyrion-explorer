@@ -1,3 +1,5 @@
-Planet: FREEKI
+Moon: FREEKI
 Starmap index: 19
 Paris coordinates: 4073200, 5702744, -580029
+Orbits: CROAKUS
+Moon id: 1

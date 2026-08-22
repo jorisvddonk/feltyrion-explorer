@@ -1,3 +1,5 @@
-Planet: LUNACY5
+Moon: LUNACY5
 Starmap index: 39
 Paris coordinates: 3055696, 4879869, 1258058
+Orbits: LUNATIC
+Moon id: 18

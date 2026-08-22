@@ -1,6 +1,8 @@
-Planet: POISON GAS
+Moon: POISON GAS
 Starmap index: 30
 Paris coordinates: 670352, 437173, 502845
+Orbits: CLAVAIRIUM
+Moon id: 10
 
 Guide entries:
  NOW THIS IS AN INTERESTING MOON. IT IS THE FIRST MOON THAT I HAVE

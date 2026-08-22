@@ -1,6 +1,8 @@
-Planet: PYROCAL
+Moon: PYROCAL
 Starmap index: 22
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 14
 
 Guide entries:
 AN AVERAGE, CYAN COLORED THICK ATMO MOON. FIFTEENTH OF THE THIRD

@@ -1,6 +1,8 @@
-Planet: STILTON
+Moon: STILTON
 Starmap index: 33
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SUFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. GOOD

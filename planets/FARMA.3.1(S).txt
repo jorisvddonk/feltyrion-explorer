@@ -1,3 +1,5 @@
-Planet: FARMA.3.1(S)
+Moon: FARMA.3.1(S)
 Starmap index: 05
 Paris coordinates: 1608208, 5920927, -120051
+Orbits: FARMA.3(F)
+Moon id: 0

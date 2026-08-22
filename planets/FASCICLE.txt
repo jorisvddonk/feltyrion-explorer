@@ -1,6 +1,8 @@
-Planet: FASCICLE
+Moon: FASCICLE
 Starmap index: 65
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. EXTREME MOTTLING WITH LIGHT

@@ -1,6 +1,8 @@
-Planet: HSP 11.1
+Moon: HSP 11.1
 Starmap index: 18
 Paris coordinates: -2233584, 33860885, 5055785
+Orbits: HSP 11
+Moon id: 0
 
 Guide entries:
  SMALL, SOLID, DSUTY, CRATERIZED. - ASTEROID OBJECT.

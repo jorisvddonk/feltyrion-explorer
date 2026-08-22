@@ -1,6 +1,8 @@
-Planet: VASTREIA
+Moon: VASTREIA
 Starmap index: 07
 Paris coordinates: 3882832, 6724949, 1897262
+Orbits: planet index 04
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY POKECAT(6011.999.789)

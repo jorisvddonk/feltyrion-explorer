@@ -1,3 +1,5 @@
-Planet: IVERTA-E-S8
+Moon: IVERTA-E-S8
 Starmap index: 14
 Paris coordinates: 3427888, -480253, -10377203
+Orbits: IVERTA-E
+Moon id: 7

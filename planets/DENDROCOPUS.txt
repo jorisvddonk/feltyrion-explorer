@@ -1,3 +1,5 @@
-Planet: DENDROCOPUS
+Moon: DENDROCOPUS
 Starmap index: 07
 Paris coordinates: -61921872, 30034719, 15299
+Orbits: NIGRA
+Moon id: 0

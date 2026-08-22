@@ -1,3 +1,5 @@
-Planet: NEAMER
+Moon: NEAMER
 Starmap index: 06
 Paris coordinates: 778224, 1277695, -2953247
+Orbits: HYACINTA V
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: GOKAN
+Moon: GOKAN
 Starmap index: 19
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE,

@@ -1,3 +1,5 @@
-Planet: DUFIRRIP
+Moon: DUFIRRIP
 Starmap index: 27
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 10

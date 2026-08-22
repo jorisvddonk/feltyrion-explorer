@@ -1,3 +1,5 @@
-Planet: ASKEW 135C3
+Moon: ASKEW 135C3
 Starmap index: 06
 Paris coordinates: 8363824, -17104928, 15600988
+Orbits: STAUNCH LONER
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: SOUROS
+Moon: SOUROS
 Starmap index: 15
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: QOR
+Moon id: 0

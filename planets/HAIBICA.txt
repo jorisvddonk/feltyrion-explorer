@@ -1,6 +1,8 @@
-Planet: HAIBICA
+Moon: HAIBICA
 Starmap index: 25
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 17
 
 Guide entries:
 M18/P04 DUSTY, VERY REFLECTIVE WITH NOT VERY LARGE CRATERS NOTED.

@@ -1,3 +1,5 @@
-Planet: FLAWN
+Moon: FLAWN
 Starmap index: 04
 Paris coordinates: -2208208, -957887, 813422
+Orbits: TRAWN
+Moon id: 0

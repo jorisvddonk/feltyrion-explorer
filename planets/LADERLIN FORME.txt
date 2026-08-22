@@ -1,6 +1,8 @@
-Planet: LADERLIN FORME
+Moon: LADERLIN FORME
 Starmap index: 13
 Paris coordinates: 1194640, 62929486, -441858
+Orbits: DAKNUDOLFS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. (NOTES BY NEUZD, 6011:798.169)             

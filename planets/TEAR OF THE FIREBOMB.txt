@@ -1,6 +1,8 @@
-Planet: TEAR OF THE FIREBOMB
+Moon: TEAR OF THE FIREBOMB
 Starmap index: 14
 Paris coordinates: 2557456, 2106610, 7526289
+Orbits: TEAR OF THE GLOBULE
+Moon id: 3
 
 Guide entries:
 ANOTHER ON EOF THOSE INT-HOT WORLDS. RYAN GJK E6011.792.                    

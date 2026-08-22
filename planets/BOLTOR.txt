@@ -1,3 +1,5 @@
-Planet: BOLTOR
+Moon: BOLTOR
 Starmap index: 06
 Paris coordinates: -394640, -22759, -214423
+Orbits: SKRALL
+Moon id: 1

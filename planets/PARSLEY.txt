@@ -1,6 +1,8 @@
-Planet: PARSLEY
+Moon: PARSLEY
 Starmap index: 46
 Paris coordinates: -4241040, 222411, -3036412
+Orbits: CARROT
+Moon id: 9
 
 Guide entries:
 FELISIAN MOON (R10/P07) IN HERB GARDEN SYSTEM.

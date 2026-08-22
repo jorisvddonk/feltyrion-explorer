@@ -1,3 +1,5 @@
-Planet: ARKA
+Moon: ARKA
 Starmap index: 04
 Paris coordinates: 5556784, 7053610, -4938331
+Orbits: IMA
+Moon id: 0

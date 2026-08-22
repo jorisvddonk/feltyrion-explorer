@@ -1,6 +1,8 @@
-Planet: HANSSJINIL
+Moon: HANSSJINIL
 Starmap index: 25
 Paris coordinates: 11707376, -19259942, 16768028
+Orbits: ASKEW 47D
+Moon id: 13
 
 Guide entries:
 FOUND EPOC 6011 585.960.700 BY ROLAND ASKEW

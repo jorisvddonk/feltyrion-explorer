@@ -1,6 +1,8 @@
-Planet: MAJOR V
+Moon: MAJOR V
 Starmap index: 13
 Paris coordinates: -344976, 9517823, -4954054
+Orbits: MULTIPLIA MAJOR
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.849 -                                

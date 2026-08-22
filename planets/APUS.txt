@@ -1,3 +1,5 @@
-Planet: APUS
+Moon: APUS
 Starmap index: 06
 Paris coordinates: -61501520, 29941691, 642079
+Orbits: GRUPA 4 B
+Moon id: 0

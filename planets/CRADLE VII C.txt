@@ -1,6 +1,8 @@
-Planet: CRADLE VII C
+Moon: CRADLE VII C
 Starmap index: 58
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VII
+Moon id: 2
 
 Guide entries:
 BLUE THINWORLD. (SCHMERM 6011 592.878)

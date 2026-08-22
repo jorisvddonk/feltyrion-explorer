@@ -1,6 +1,8 @@
-Planet: BEFHNAKA
+Moon: BEFHNAKA
 Starmap index: 20
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 12
 
 Guide entries:
 M13/P04 ROCKY. VERY ROUGH APPEARANCE TO HIGHLY REFLECTIVE SURFACE.

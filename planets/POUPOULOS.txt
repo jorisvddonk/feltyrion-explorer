@@ -1,6 +1,8 @@
-Planet: POUPOULOS
+Moon: POUPOULOS
 Starmap index: 10
 Paris coordinates: 752848, 414304, 1300716
+Orbits: CORLAIN
+Moon id: 3
 
 Guide entries:
  DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011.608.238

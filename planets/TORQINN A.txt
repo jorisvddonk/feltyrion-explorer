@@ -1,6 +1,8 @@
-Planet: TORQINN A
+Moon: TORQINN A
 Starmap index: 28
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: TORQINN
+Moon id: 0
 
 Guide entries:
 LIKE ITS PARENT, THIS MOON IS ALSO ORANGE. HOWEVER, IT IS A

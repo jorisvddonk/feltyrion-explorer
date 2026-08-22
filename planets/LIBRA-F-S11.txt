@@ -1,3 +1,5 @@
-Planet: LIBRA-F-S11
+Moon: LIBRA-F-S11
 Starmap index: 28
 Paris coordinates: 2587856, 4207324, -2338295
+Orbits: LIBRA-F
+Moon id: 10

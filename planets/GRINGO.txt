@@ -1,6 +1,8 @@
-Planet: GRINGO
+Moon: GRINGO
 Starmap index: 18
 Paris coordinates: 3639280, 1635502, -2229864
+Orbits: planet index 05
+Moon id: 11
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.437.830

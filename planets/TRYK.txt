@@ -1,6 +1,8 @@
-Planet: TRYK
+Moon: TRYK
 Starmap index: 09
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERSTE REFLECTIVITY OF

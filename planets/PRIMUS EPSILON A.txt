@@ -1,3 +1,5 @@
-Planet: PRIMUS EPSILON A
+Moon: PRIMUS EPSILON A
 Starmap index: 12
 Paris coordinates: 3490704, 4119378, -1033599
+Orbits: PRIMUS EPSILON
+Moon id: 0

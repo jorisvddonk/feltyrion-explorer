@@ -1,6 +1,8 @@
-Planet: DOZ
+Moon: DOZ
 Starmap index: 13
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: GARDACH
+Moon id: 0
 
 Guide entries:
 GREEN DEADWORLD. (SCHMERM 6011 593.730)

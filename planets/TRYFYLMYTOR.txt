@@ -1,6 +1,8 @@
-Planet: TRYFYLMYTOR
+Moon: TRYFYLMYTOR
 Starmap index: 29
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 1
 
 Guide entries:
  YET ANOTHER RCOKY, CREASED, CRATERSIZED AND ULTIMATLY

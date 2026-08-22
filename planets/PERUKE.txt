@@ -1,6 +1,8 @@
-Planet: PERUKE
+Moon: PERUKE
 Starmap index: 19
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: GLOWWORM
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. A FEW CRATERS NOTED.

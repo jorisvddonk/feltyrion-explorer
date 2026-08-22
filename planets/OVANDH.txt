@@ -1,6 +1,8 @@
-Planet: OVANDH
+Moon: OVANDH
 Starmap index: 10
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 2
 
 Guide entries:
 M03/P04 THIN ATMO. SLIGHTLY DARK REFLECTIVITY, FAIR POLAR CAPS. PRO

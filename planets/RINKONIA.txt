@@ -1,6 +1,8 @@
-Planet: RINKONIA
+Moon: RINKONIA
 Starmap index: 23
 Paris coordinates: 81072, -77486, -118953
+Orbits: MJIDLOS
+Moon id: 0
 
 Guide entries:
 CRISS-CROSSING GROOVES CAN BE SEEN FROM ORBIT

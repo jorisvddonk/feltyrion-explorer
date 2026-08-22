@@ -1,6 +1,8 @@
-Planet: PUNTY
+Moon: PUNTY
 Starmap index: 12
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-C
+Moon id: 1
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINYMON EPOC 6011

@@ -1,6 +1,8 @@
-Planet: FARSEM V
+Moon: FARSEM V
 Starmap index: 12
 Paris coordinates: 4366416, 4639783, -1313897
+Orbits: FARSE
+Moon id: 4
 
 Guide entries:
 COLD, DARKER THAN IT LOOKS. DIDN'T FIND ANYTHING INTERESTING

@@ -1,3 +1,5 @@
-Planet: MITOCHONDRIA IV A
+Moon: MITOCHONDRIA IV A
 Starmap index: 11
 Paris coordinates: -118928, 136846, 52177
+Orbits: MITOCHONDRIA IV
+Moon id: 0

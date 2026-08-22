@@ -1,6 +1,8 @@
-Planet: PIBEEN
+Moon: PIBEEN
 Starmap index: 05
 Paris coordinates: 26553616, 6466652, 45080159
+Orbits: BIEET
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE THIRD PLANET, A PINK DUSTY MOON. THE LAND FEATURES

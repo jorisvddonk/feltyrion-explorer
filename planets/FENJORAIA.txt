@@ -1,3 +1,5 @@
-Planet: FENJORAIA
+Moon: FENJORAIA
 Starmap index: 21
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8E
+Moon id: 9

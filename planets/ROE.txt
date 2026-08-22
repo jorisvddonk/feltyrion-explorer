@@ -1,6 +1,8 @@
-Planet: ROE
+Moon: ROE
 Starmap index: 31
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK WITH ALMOST MOTTLED

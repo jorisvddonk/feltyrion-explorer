@@ -1,6 +1,8 @@
-Planet: LAFTAGO
+Moon: LAFTAGO
 Starmap index: 47
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. A

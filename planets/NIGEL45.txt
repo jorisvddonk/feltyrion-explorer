@@ -1,3 +1,5 @@
-Planet: NIGEL45
+Moon: NIGEL45
 Starmap index: 45
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: PAUL AUSTER
+Moon id: 9

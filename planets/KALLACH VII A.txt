@@ -1,6 +1,8 @@
-Planet: KALLACH VII A
+Moon: KALLACH VII A
 Starmap index: 15
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: KALLACH VII
+Moon id: 0
 
 Guide entries:
 SMALL BLUE ICEWORLD MOON. (SCHMERM 6011 600.974)

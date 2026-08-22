@@ -1,3 +1,5 @@
-Planet: THOMAS MORUS
+Moon: THOMAS MORUS
 Starmap index: 14
 Paris coordinates: -2582832, -6847123, -3094735
+Orbits: GROLIA
+Moon id: 0

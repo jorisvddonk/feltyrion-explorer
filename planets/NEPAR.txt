@@ -1,6 +1,8 @@
-Planet: NEPAR
+Moon: NEPAR
 Starmap index: 31
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: KATHRE
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:573.

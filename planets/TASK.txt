@@ -1,6 +1,8 @@
-Planet: TASK
+Moon: TASK
 Starmap index: 19
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. DARK AND UNREFLECTIVE

@@ -1,6 +1,8 @@
-Planet: SPIRANT
+Moon: SPIRANT
 Starmap index: 22
 Paris coordinates: -163568, 2358, -418951
+Orbits: PIQUE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. LOW REFLECTIVITY, PROBABLY

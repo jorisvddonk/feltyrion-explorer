@@ -1,3 +1,5 @@
-Planet: KIAN
+Moon: KIAN
 Starmap index: 09
 Paris coordinates: 3921776, 4663420, -1624678
+Orbits: NYXATOR
+Moon id: 3

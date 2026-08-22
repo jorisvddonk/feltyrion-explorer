@@ -1,6 +1,8 @@
-Planet: YEMIN
+Moon: YEMIN
 Starmap index: 29
 Paris coordinates: 191792, 393743, -1607331
+Orbits: COLISM
+Moon id: 0
 
 Guide entries:
 THE FIRST PLANET OF THE ELEVENTH PLANET, COLISM. THIN ATMO THAT SHOULD

@@ -1,3 +1,5 @@
-Planet: ROCK CLUMP
+Moon: ROCK CLUMP
 Starmap index: 06
 Paris coordinates: 3328560, 3928964, -618003
+Orbits: PARTICLE ACCUMULATE
+Moon id: 1

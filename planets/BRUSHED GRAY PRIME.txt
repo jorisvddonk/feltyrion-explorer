@@ -1,6 +1,8 @@
-Planet: BRUSHED GRAY PRIME
+Moon: BRUSHED GRAY PRIME
 Starmap index: 15
 Paris coordinates: -1425456112, 2129157, 1434927061
+Orbits: planet index 05
+Moon id: 0
 
 Guide entries:
 THIN-AT. NAMED AS SUCH DUE TO THE ALMOST COMPLETELY LIGHT                   

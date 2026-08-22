@@ -1,3 +1,5 @@
-Planet: BLACKCRATER
+Moon: BLACKCRATER
 Starmap index: 05
 Paris coordinates: 3677136, 4623457, -1870326
+Orbits: KEPTOCRACY
+Moon id: 0

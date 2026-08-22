@@ -1,6 +1,8 @@
-Planet: VISCOUNT
+Moon: VISCOUNT
 Starmap index: 35
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: SIRE
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. ALMOST FEATURELESS FROM

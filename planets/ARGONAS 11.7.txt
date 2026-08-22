@@ -1,6 +1,8 @@
-Planet: ARGONAS 11.7
+Moon: ARGONAS 11.7
 Starmap index: 36
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 11
+Moon id: 6
 
 Guide entries:
  ICY, NO ATMOSPHERE, ORANGE SURFACE.

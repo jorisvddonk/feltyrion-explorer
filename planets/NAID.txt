@@ -1,6 +1,8 @@
-Planet: NAID
+Moon: NAID
 Starmap index: 25
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: INDIPENDENCE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, SLIGHTLY VISIBLE POLAR

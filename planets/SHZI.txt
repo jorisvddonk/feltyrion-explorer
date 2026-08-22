@@ -1,3 +1,5 @@
-Planet: SHZI
+Moon: SHZI
 Starmap index: 33
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: NAMELESS ONE
+Moon id: 8

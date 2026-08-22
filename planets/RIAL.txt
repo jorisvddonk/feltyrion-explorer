@@ -1,6 +1,8 @@
-Planet: RIAL
+Moon: RIAL
 Starmap index: 52
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 9
 
 Guide entries:
 M10/P10SMALL SOLID ICY MAROON MOTTLED WITH MAROON GROOVING PRO 0.218.520    

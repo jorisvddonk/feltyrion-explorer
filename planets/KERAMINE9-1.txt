@@ -1,6 +1,8 @@
-Planet: KERAMINE9-1
+Moon: KERAMINE9-1
 Starmap index: 37
 Paris coordinates: -36432, -1290440, 1061497
+Orbits: KERAMINE9
+Moon id: 0
 
 Guide entries:
 SMALL, VOLCANIC. UNSUITABLE FOR LANDING.

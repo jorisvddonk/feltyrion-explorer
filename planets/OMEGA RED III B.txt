@@ -1,6 +1,8 @@
-Planet: OMEGA RED III B
+Moon: OMEGA RED III B
 Starmap index: 16
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED III
+Moon id: 1
 
 Guide entries:
 SMAL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, FAIR POLAR CAPS.

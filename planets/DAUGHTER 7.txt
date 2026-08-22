@@ -1,3 +1,5 @@
-Planet: DAUGHTER 7
+Moon: DAUGHTER 7
 Starmap index: 28
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 12

@@ -1,6 +1,8 @@
-Planet: DARM
+Moon: DARM
 Starmap index: 16
 Paris coordinates: 4497488, 5149116, -1701105
+Orbits: CRINA
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

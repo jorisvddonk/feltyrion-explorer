@@ -1,6 +1,8 @@
-Planet: MATATA
+Moon: MATATA
 Starmap index: 25
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: planet index 05
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.815                                    

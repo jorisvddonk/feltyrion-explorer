@@ -1,3 +1,5 @@
-Planet: FRIC
+Moon: FRIC
 Starmap index: 35
 Paris coordinates: 21659728, 6400538, 40956614
+Orbits: planet index 07
+Moon id: 9

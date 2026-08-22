@@ -1,6 +1,8 @@
-Planet: BIRD 9.2
+Moon: BIRD 9.2
 Starmap index: 17
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 9
+Moon id: 1
 
 Guide entries:
 SMALL, DUSTY, CRATERIZED, NO ATMOSPHERE. SERPENS, 6011 665.408

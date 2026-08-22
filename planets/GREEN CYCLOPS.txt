@@ -1,6 +1,8 @@
-Planet: GREEN CYCLOPS
+Moon: GREEN CYCLOPS
 Starmap index: 10
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 3
 
 Guide entries:
 A GREEN DENSEWORLD WITH A LARGE BRIGHT WHITE CLOUD SPOT.

@@ -1,6 +1,8 @@
-Planet: ROTRITIN III
+Moon: ROTRITIN III
 Starmap index: 12
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: ROTRITIN
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY NEURONWAKE EPOC 6011 802.524.887                              

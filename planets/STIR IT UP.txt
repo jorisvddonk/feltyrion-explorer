@@ -1,3 +1,5 @@
-Planet: STIR IT UP
+Moon: STIR IT UP
 Starmap index: 25
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: DUPPY CONQUEROR
+Moon id: 2

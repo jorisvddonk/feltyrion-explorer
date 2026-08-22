@@ -1,6 +1,8 @@
-Planet: WISWAN.6.13(F)
+Moon: WISWAN.6.13(F)
 Starmap index: 60
 Paris coordinates: 4276048, 4146733, 1284897
+Orbits: WISWAN.6(!)
+Moon id: 12
 
 Guide entries:
 INTERESTING BIG TREE AT 00.60.                                              

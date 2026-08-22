@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 7.4
+Moon: VARACYLNIA 7.4
 Starmap index: 22
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 7
+Moon id: 3
 
 Guide entries:
  ICY, NO ATMOSPHERE, COLD, ALMOST FEATURELESS.

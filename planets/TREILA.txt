@@ -1,3 +1,5 @@
-Planet: TREILA
+Moon: TREILA
 Starmap index: 16
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: LUEB
+Moon id: 8

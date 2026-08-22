@@ -1,6 +1,8 @@
-Planet: BAYBOT
+Moon: BAYBOT
 Starmap index: 17
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: FALPON
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A GREYISH AND DUSTY

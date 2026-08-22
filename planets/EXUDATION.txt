@@ -1,6 +1,8 @@
-Planet: EXUDATION
+Moon: EXUDATION
 Starmap index: 24
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A 'QUIET'

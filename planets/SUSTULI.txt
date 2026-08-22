@@ -1,3 +1,5 @@
-Planet: SUSTULI
+Moon: SUSTULI
 Starmap index: 04
 Paris coordinates: -2731408, -11820060, -1963064
+Orbits: DWORIK
+Moon id: 0

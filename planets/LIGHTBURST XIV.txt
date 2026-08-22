@@ -1,3 +1,5 @@
-Planet: LIGHTBURST XIV
+Moon: LIGHTBURST XIV
 Starmap index: 27
 Paris coordinates: 3779984, 4313464, -58717
+Orbits: LIGHTBURST
+Moon id: 13

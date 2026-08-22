@@ -1,3 +1,5 @@
-Planet: ASKEW 24A1
+Moon: ASKEW 24A1
 Starmap index: 02
 Paris coordinates: 11658800, -20075646, 17809222
+Orbits: ASKEW 24A
+Moon id: 0

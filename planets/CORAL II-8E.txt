@@ -1,6 +1,8 @@
-Planet: CORAL II-8E
+Moon: CORAL II-8E
 Starmap index: 78
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-8
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

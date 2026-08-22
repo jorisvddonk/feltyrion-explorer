@@ -1,6 +1,8 @@
-Planet: OMVAVO
+Moon: OMVAVO
 Starmap index: 03
 Paris coordinates: 2033117584, -495491, -4272627
+Orbits: VA JRIHARSIATE B
+Moon id: 1
 
 Guide entries:
 M02/P01 SUBSTELLAR OBJECT BODY OF COMPANION STAR B. BRIGHT YELLOW WITH      

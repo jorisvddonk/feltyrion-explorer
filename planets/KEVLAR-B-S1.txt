@@ -1,3 +1,5 @@
-Planet: KEVLAR-B-S1
+Moon: KEVLAR-B-S1
 Starmap index: 10
 Paris coordinates: 2661808, -678997, -7638597
+Orbits: KEVLAR-B
+Moon id: 0

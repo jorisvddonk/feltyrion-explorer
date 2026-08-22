@@ -1,6 +1,8 @@
-Planet: VIPER 3.12
+Moon: VIPER 3.12
 Starmap index: 17
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 11
 
 Guide entries:
 MEDIUM-SIZED, THICK ATMOSPHERE. THE COLOUR OF CLOUD COVER VARIES

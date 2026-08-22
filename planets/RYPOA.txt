@@ -1,6 +1,8 @@
-Planet: RYPOA
+Moon: RYPOA
 Starmap index: 21
 Paris coordinates: 394640, 52221424, 264344
+Orbits: CAVEAT
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, PRETTY MUCH DARK WITH FAIR POLAR CAPS.

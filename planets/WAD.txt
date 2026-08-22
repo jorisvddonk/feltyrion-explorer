@@ -1,6 +1,8 @@
-Planet: WAD
+Moon: WAD
 Starmap index: 39
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: OXALIS
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

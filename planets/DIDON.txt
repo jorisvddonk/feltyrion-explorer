@@ -1,3 +1,5 @@
-Planet: DIDON
+Moon: DIDON
 Starmap index: 11
 Paris coordinates: 2839280, 5119379, -1347871
+Orbits: DOODOO
+Moon id: 0

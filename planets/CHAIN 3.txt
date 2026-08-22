@@ -1,3 +1,5 @@
-Planet: CHAIN 3
+Moon: CHAIN 3
 Starmap index: 30
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: LATERZ
+Moon id: 19

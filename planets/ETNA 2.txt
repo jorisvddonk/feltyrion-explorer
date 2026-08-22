@@ -1,3 +1,5 @@
-Planet: ETNA 2
+Moon: ETNA 2
 Starmap index: 25
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: LATERZ
+Moon id: 14

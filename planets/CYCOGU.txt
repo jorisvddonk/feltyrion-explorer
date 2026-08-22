@@ -1,6 +1,8 @@
-Planet: CYCOGU
+Moon: CYCOGU
 Starmap index: 09
 Paris coordinates: 2130850352, -1636894, 447026
+Orbits: SHUSHGU
+Moon id: 0
 
 Guide entries:
 M01/P06 SMALL SOLID DUSTY CRATERIZED EXTREME WHITE WITH EQUALLY WHIYE       

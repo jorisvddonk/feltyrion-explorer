@@ -1,3 +1,5 @@
-Planet: ASKEW 69I1
+Moon: ASKEW 69I1
 Starmap index: 24
 Paris coordinates: 10876304, -19048790, 17868166
+Orbits: ASKEW 69I
+Moon id: 0

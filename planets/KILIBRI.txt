@@ -1,3 +1,5 @@
-Planet: KILIBRI
+Moon: KILIBRI
 Starmap index: 21
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: PUROMPU
+Moon id: 0

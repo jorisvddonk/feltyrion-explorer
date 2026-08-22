@@ -1,3 +1,5 @@
-Planet: ASKEW 56D1
+Moon: ASKEW 56D1
 Starmap index: 15
 Paris coordinates: 10976304, -19240498, 17578568
+Orbits: ASKEW 56D
+Moon id: 0

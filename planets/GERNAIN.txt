@@ -1,6 +1,8 @@
-Planet: GERNAIN
+Moon: GERNAIN
 Starmap index: 22
 Paris coordinates: 191792, 393743, -1607331
+Orbits: SELLO
+Moon id: 4
 
 Guide entries:
 THE FIFTH MOON OF THE FOURTH PLANET. A GREEN, AVERAGE, DUSTY MOON.

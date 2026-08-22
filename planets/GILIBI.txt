@@ -1,3 +1,5 @@
-Planet: GILIBI
+Moon: GILIBI
 Starmap index: 69
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: GYRIGUE
+Moon id: 2

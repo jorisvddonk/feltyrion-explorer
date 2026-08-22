@@ -1,6 +1,8 @@
-Planet: FHUTIR
+Moon: FHUTIR
 Starmap index: 06
 Paris coordinates: 2040369680, -1613682, -623842
+Orbits: FRAINUT
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SILID THIN ATMO, VERY DARK, FAIR POLAR CAPS. PRO 0.228.       

@@ -1,3 +1,5 @@
-Planet: GRAYLEY
+Moon: GRAYLEY
 Starmap index: 11
 Paris coordinates: 3890704, 4620850, -1463671
+Orbits: CYDONIA
+Moon id: 0

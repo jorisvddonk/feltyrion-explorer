@@ -1,6 +1,8 @@
-Planet: PLUVION
+Moon: PLUVION
 Starmap index: 29
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 9
 
 Guide entries:
 WHO WOULD HAVE EXPECTED THIS INTERESTING INHABITED WORLD IN A NEWLY

@@ -1,6 +1,8 @@
-Planet: TOCELIS
+Moon: TOCELIS
 Starmap index: 19
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 10
 
 Guide entries:
 M11/PO5 THIN ATMOSPHERE WORLD. DARK GREY WITH MODERATE POLAR CAPS.          

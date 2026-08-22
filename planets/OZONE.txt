@@ -1,6 +1,8 @@
-Planet: OZONE
+Moon: OZONE
 Starmap index: 28
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE STORM

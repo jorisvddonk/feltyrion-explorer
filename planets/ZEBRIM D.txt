@@ -1,6 +1,8 @@
-Planet: ZEBRIM D
+Moon: ZEBRIM D
 Starmap index: 11
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 3
 
 Guide entries:
 A PALE DEADWORLD WITH NOT MANY CRATERS. (SCHMERM 6011 584.404)

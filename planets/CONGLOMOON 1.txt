@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 1
+Moon: CONGLOMOON 1
 Starmap index: 08
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY PROF. CALLAHAN. NOT AS INTERESTING AS MOON 2.

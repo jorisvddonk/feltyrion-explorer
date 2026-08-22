@@ -1,6 +1,8 @@
-Planet: SELENIA
+Moon: SELENIA
 Starmap index: 12
 Paris coordinates: -87856, 69100, -95029
+Orbits: JUBALA
+Moon id: 0
 
 Guide entries:
 A MOON VERY SIMILAR TO EARTH'S IN APPEARANCE. COMBINED WITH THE BLUE-

@@ -1,6 +1,8 @@
-Planet: GOAT 4.1
+Moon: GOAT 4.1
 Starmap index: 21
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 4
+Moon id: 0
 
 Guide entries:
 HIGHLY CRATERIZED MOON. HAS ONE ESPECIALLY LARGE MOUNTAIN, EASILY

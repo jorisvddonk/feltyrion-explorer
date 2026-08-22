@@ -1,6 +1,8 @@
-Planet: LUIDOR
+Moon: LUIDOR
 Starmap index: 17
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

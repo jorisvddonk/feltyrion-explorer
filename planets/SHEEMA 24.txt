@@ -1,3 +1,5 @@
-Planet: SHEEMA 2/4
+Moon: SHEEMA 2/4
 Starmap index: 07
 Paris coordinates: 5956784, 8165851, -5435792
+Orbits: SHEEMA 4
+Moon id: 1

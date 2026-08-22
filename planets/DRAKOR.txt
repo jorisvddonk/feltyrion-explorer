@@ -1,6 +1,8 @@
-Planet: DRAKOR
+Moon: DRAKOR
 Starmap index: 27
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: GALGOG
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

@@ -1,6 +1,8 @@
-Planet: TROG
+Moon: TROG
 Starmap index: 13
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: BADFISH
+Moon id: 0
 
 Guide entries:
 MOON OF BADFISH, SMALL DUSTY AND CRATERIZED, UNDESCRIPT.

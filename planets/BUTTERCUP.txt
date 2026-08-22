@@ -1,6 +1,8 @@
-Planet: BUTTERCUP
+Moon: BUTTERCUP
 Starmap index: 14
 Paris coordinates: -1066416, 281721, -1728727
+Orbits: UTONIUM
+Moon id: 8
 
 Guide entries:
 MOON 9 OF PLANET 3 IN POWRPUFF SYSTEM. FELISIAN.

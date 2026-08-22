@@ -1,6 +1,8 @@
-Planet: KSIAIS
+Moon: KSIAIS
 Starmap index: 24
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: ASTFHJEAM
+Moon id: 0
 
 Guide entries:
 M01P08, THIN ATMOSPHERE, SMALL, PRO 0.246.600; PRV 0.001.791.916 ///

@@ -1,3 +1,5 @@
-Planet: NEUTRONON
+Moon: NEUTRONON
 Starmap index: 15
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: HYPOC
+Moon id: 0

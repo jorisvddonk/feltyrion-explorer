@@ -1,6 +1,8 @@
-Planet: GLORBERON F
+Moon: GLORBERON F
 Starmap index: 17
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 5
 
 Guide entries:
 SMALL AND AIRLESS. NO CRATERS THOUGH. (SCHMERM 6011 582 599)

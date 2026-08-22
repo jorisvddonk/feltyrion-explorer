@@ -1,3 +1,5 @@
-Planet: GREEN HAKIA
+Moon: GREEN HAKIA
 Starmap index: 08
 Paris coordinates: 5983248, 6120279, -13732648
+Orbits: planet index 03
+Moon id: 1

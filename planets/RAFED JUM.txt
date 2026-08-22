@@ -1,3 +1,5 @@
-Planet: RAFED JUM
+Moon: RAFED JUM
 Starmap index: 06
 Paris coordinates: 5751088, 5886481, -9621758
+Orbits: RAFED SAAD
+Moon id: 0

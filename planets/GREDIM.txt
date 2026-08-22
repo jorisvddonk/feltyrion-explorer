@@ -1,6 +1,8 @@
-Planet: GREDIM
+Moon: GREDIM
 Starmap index: 12
 Paris coordinates: 5009808, 4830465, 39078705
+Orbits: WRINKL
+Moon id: 1
 
 Guide entries:
 A DARK, DISMAL MOON AROUND THE 4TH PLANET. PRETTY MUCH TOO DARK TO

@@ -1,6 +1,8 @@
-Planet: BEHUJ
+Moon: BEHUJ
 Starmap index: 20
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: YATEXOL
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. HAS A MODERATE

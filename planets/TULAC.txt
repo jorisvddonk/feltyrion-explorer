@@ -1,3 +1,5 @@
-Planet: TULAC
+Moon: TULAC
 Starmap index: 37
 Paris coordinates: 5470352, 7001368, -4266745
+Orbits: J'LAN
+Moon id: 14

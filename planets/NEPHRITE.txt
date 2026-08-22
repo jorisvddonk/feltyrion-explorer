@@ -1,3 +1,5 @@
-Planet: NEPHRITE
+Moon: NEPHRITE
 Starmap index: 11
 Paris coordinates: 3966416, 4366334, -852728
+Orbits: CROWN
+Moon id: 0

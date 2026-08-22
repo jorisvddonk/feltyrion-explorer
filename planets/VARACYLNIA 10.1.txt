@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 10.1
+Moon: VARACYLNIA 10.1
 Starmap index: 27
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 10
+Moon id: 0
 
 Guide entries:
 A GAS GIANT IN ORBIT AROUND A GAS-GIANT IS QUITE AN UNSUAL

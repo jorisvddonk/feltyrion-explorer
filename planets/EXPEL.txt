@@ -1,6 +1,8 @@
-Planet: EXPEL
+Moon: EXPEL
 Starmap index: 14
 Paris coordinates: 87856, -5814, 275087
+Orbits: SWANK
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY SMALL

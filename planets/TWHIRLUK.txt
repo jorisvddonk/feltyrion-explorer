@@ -1,6 +1,8 @@
-Planet: TWHIRLUK
+Moon: TWHIRLUK
 Starmap index: 13
 Paris coordinates: -1139280, 528850, 7837
+Orbits: LUCKY SEVENTH
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY PICHERITY, EPOC 6011, 688:913.                                

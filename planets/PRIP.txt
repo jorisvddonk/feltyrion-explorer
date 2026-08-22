@@ -1,6 +1,8 @@
-Planet: PRIP
+Moon: PRIP
 Starmap index: 20
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

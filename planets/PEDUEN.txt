@@ -1,6 +1,8 @@
-Planet: PEDUEN
+Moon: PEDUEN
 Starmap index: 13
 Paris coordinates: 10412144, 437173, -10540020
+Orbits: EXPEDIENT
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BRWON

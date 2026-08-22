@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 8.1
+Moon: VARACYLNIA 8.1
 Starmap index: 24
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 8
+Moon id: 0
 
 Guide entries:
  SMALL, SOLID, NO ATMOSPHERE, DUSTY, SOMEWHAT CRATERIZED.

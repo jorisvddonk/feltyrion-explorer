@@ -1,3 +1,5 @@
-Planet: TIRASTE PRDEX DALE
+Moon: TIRASTE PRDEX DALE
 Starmap index: 42
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE PREDEX
+Moon id: 11

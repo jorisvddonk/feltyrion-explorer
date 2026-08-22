@@ -1,3 +1,5 @@
-Planet: ASSUN
+Moon: ASSUN
 Starmap index: 13
 Paris coordinates: 4159632, 4436827, -1722935
+Orbits: PITEUS
+Moon id: 1

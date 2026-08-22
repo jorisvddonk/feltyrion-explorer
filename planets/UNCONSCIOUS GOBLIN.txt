@@ -1,3 +1,5 @@
-Planet: UNCONSCIOUS GOBLIN
+Moon: UNCONSCIOUS GOBLIN
 Starmap index: 11
 Paris coordinates: -71899920, -587551, 53664334
+Orbits: TROUBLED GOBLIN
+Moon id: 0

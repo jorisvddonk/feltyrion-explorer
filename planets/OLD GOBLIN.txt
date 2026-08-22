@@ -1,3 +1,5 @@
-Planet: OLD GOBLIN
+Moon: OLD GOBLIN
 Starmap index: 10
 Paris coordinates: -71899920, -587551, 53664334
+Orbits: WOUNDED GOBLIN
+Moon id: 1

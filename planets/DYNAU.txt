@@ -1,6 +1,8 @@
-Planet: DYNAU
+Moon: DYNAU
 Starmap index: 14
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: STREONIR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GREEN AND FAIRLY

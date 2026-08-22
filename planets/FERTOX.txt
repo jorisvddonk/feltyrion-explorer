@@ -1,6 +1,8 @@
-Planet: FERTOX
+Moon: FERTOX
 Starmap index: 04
 Paris coordinates: 11418928, 301341, -11212072
+Orbits: EYTREFHAS B
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE,

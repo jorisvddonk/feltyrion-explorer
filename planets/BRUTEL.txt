@@ -1,6 +1,8 @@
-Planet: BRUTEL
+Moon: BRUTEL
 Starmap index: 19
 Paris coordinates: 1708208, -171588, -197336
+Orbits: planet index 03
+Moon id: 8
 
 Guide entries:
 PLANET DISCOVERED BY BJS EPOC 6011:584.58

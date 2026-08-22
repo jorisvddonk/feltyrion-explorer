@@ -1,3 +1,5 @@
-Planet: KNAGO
+Moon: KNAGO
 Starmap index: 08
 Paris coordinates: 3951760, 5640032, 2112631
+Orbits: BRINXO
+Moon id: 2

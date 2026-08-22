@@ -1,6 +1,8 @@
-Planet: SMALE
+Moon: SMALE
 Starmap index: 13
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: CHALICE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. EXTREMELY REFLECTIVE,

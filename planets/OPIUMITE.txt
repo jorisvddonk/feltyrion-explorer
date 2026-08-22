@@ -1,6 +1,8 @@
-Planet: OPIUMITE
+Moon: OPIUMITE
 Starmap index: 10
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 3
 
 Guide entries:
 FOUNDED EPOC 6011, 680.211.841 BY REZA. 4TH MOON OF OCEAN. VERY             

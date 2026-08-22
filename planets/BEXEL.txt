@@ -1,6 +1,8 @@
-Planet: BEXEL
+Moon: BEXEL
 Starmap index: 23
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: SPIRITISM
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MAINLY LIGHT GREEN TINT

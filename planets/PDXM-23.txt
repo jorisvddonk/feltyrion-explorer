@@ -1,3 +1,5 @@
-Planet: PDXM-2/3
+Moon: PDXM-2/3
 Starmap index: 10
 Paris coordinates: 2110477232, 1176413, -929811
+Orbits: PARADOXIAN 3
+Moon id: 1

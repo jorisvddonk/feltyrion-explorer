@@ -1,6 +1,8 @@
-Planet: GLASS BALL
+Moon: GLASS BALL
 Starmap index: 11
 Paris coordinates: 3059632, 4436884, -383501
+Orbits: planet index 03
+Moon id: 6
 
 Guide entries:
 CLOUD-COVERED 7TH MOON OF THIRD PLANET. 3 MAJOR STORMS VISIBLE

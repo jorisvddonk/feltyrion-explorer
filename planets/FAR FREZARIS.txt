@@ -1,3 +1,5 @@
-Planet: FAR FREZARIS
+Moon: FAR FREZARIS
 Starmap index: 37
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: JB 94
+Moon id: 13

@@ -1,3 +1,5 @@
-Planet: ALBA
+Moon: ALBA
 Starmap index: 08
 Paris coordinates: -61501520, 29941691, 642079
+Orbits: APIASTER
+Moon id: 1

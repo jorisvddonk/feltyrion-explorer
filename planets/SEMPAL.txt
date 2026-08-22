@@ -1,3 +1,5 @@
-Planet: SEMPAL
+Moon: SEMPAL
 Starmap index: 04
 Paris coordinates: 1575952, 3915214, -56082526
+Orbits: TURMA
+Moon id: 0

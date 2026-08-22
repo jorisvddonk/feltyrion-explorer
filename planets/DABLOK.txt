@@ -1,6 +1,8 @@
-Planet: DABLOK
+Moon: DABLOK
 Starmap index: 09
 Paris coordinates: 3059632, 4436884, -383501
+Orbits: planet index 03
+Moon id: 4
 
 Guide entries:
  FOUND BY COPRA JOR-EL, SHANTIC TRAVELLER, ON EPOC 6011/630.352.200

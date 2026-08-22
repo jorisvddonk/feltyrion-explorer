@@ -1,3 +1,5 @@
-Planet: CRATERES 4
+Moon: CRATERES 4
 Starmap index: 30
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: LARNERIDGES
+Moon id: 10

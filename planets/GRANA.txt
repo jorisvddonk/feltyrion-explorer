@@ -1,6 +1,8 @@
-Planet: GRANA
+Moon: GRANA
 Starmap index: 24
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: CAERPHILLY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK WITH A SIZEABLE LIGHT SPOT,

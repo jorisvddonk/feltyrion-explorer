@@ -1,6 +1,8 @@
-Planet: TARKIN
+Moon: TARKIN
 Starmap index: 10
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: REVELATION
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY CRUMB, EPOC 6011:570.85

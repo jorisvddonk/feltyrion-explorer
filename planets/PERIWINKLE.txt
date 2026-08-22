@@ -1,3 +1,5 @@
-Planet: PERIWINKLE
+Moon: PERIWINKLE
 Starmap index: 39
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: MAGENTA
+Moon id: 0

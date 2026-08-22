@@ -1,6 +1,8 @@
-Planet: INFANT FELISIA
+Moon: INFANT FELISIA
 Starmap index: 12
 Paris coordinates: 4279984, 5342790, -367461
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 PLANET DISCOVERED BY JUS EPOC 6011.578.879

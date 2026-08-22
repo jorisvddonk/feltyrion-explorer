@@ -1,3 +1,5 @@
-Planet: ASKEW 18E1
+Moon: ASKEW 18E1
 Starmap index: 11
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASSMARTIN
+Moon id: 0

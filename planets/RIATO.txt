@@ -1,6 +1,8 @@
-Planet: RIATO
+Moon: RIATO
 Starmap index: 13
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: STEX
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH AND SLIGHTLY SCARRED

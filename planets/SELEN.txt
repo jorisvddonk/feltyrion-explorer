@@ -1,6 +1,8 @@
-Planet: SELEN
+Moon: SELEN
 Starmap index: 22
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MEDIUM SIZED CRATERS ARE

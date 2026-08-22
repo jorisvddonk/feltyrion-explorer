@@ -1,3 +1,5 @@
-Planet: CREATE
+Moon: CREATE
 Starmap index: 07
 Paris coordinates: -1221776, -261, -795876
+Orbits: KILLER
+Moon id: 0

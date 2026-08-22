@@ -1,6 +1,8 @@
-Planet: TREASURED RUBY
+Moon: TREASURED RUBY
 Starmap index: 38
 Paris coordinates: 156784, -15042, 351717
+Orbits: FARAWAY HOPE
+Moon id: 0
 
 Guide entries:
 A CLOUD-COVERED MOON OF THE BROWN DWARF 'FARAWAY HOPE', WHICH

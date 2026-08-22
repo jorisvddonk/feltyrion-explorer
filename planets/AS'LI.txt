@@ -1,3 +1,5 @@
-Planet: AS'LI
+Moon: AS'LI
 Starmap index: 20
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: ASLISASLEBAL
+Moon id: 0

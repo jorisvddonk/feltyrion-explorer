@@ -1,6 +1,8 @@
-Planet: PARSIS 11.2
+Moon: PARSIS 11.2
 Starmap index: 44
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 1
 
 Guide entries:
  ANOTHER GAS-GAINT WORLD, PROVING THAT PARSIS 11 ACTUALLY IS A

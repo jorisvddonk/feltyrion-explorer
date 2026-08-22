@@ -1,6 +1,8 @@
-Planet: LILAC
+Moon: LILAC
 Starmap index: 21
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: ELECTRIC BLUE
+Moon id: 10
 
 Guide entries:
 DISCOVERED BY ALEX GOODMAN, EPOC 565.843

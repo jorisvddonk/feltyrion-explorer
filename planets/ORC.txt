@@ -1,6 +1,8 @@
-Planet: ORC
+Moon: ORC
 Starmap index: 19
 Paris coordinates: 167504, 1555824, -843778
+Orbits: planet index 03
+Moon id: 11
 
 Guide entries:
  BARREN, DESOLATE, MOUNTIONIOUS PLANET.                                     

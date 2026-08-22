@@ -1,6 +1,8 @@
-Planet: YUINCA B IX
+Moon: YUINCA B IX
 Starmap index: 25
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA B
+Moon id: 8
 
 Guide entries:
  A QUARTZIE MOON. AMWHERE 6011.586.472

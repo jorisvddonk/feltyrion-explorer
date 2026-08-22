@@ -1,6 +1,8 @@
-Planet: WHEAL
+Moon: WHEAL
 Starmap index: 29
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

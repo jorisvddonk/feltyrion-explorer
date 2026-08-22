@@ -1,6 +1,8 @@
-Planet: OMEWO
+Moon: OMEWO
 Starmap index: 16
 Paris coordinates: 2770352, 4738986, -1565908
+Orbits: CHRHYM
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK, BUT LIGHT PATCHES VISIBLE

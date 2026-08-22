@@ -1,3 +1,5 @@
-Planet: SPIKERIA
+Moon: SPIKERIA
 Starmap index: 12
 Paris coordinates: 1508208, 1344514, 61654
+Orbits: planet index 06
+Moon id: 0

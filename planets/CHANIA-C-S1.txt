@@ -1,3 +1,5 @@
-Planet: CHANIA-C-S1
+Moon: CHANIA-C-S1
 Starmap index: 10
 Paris coordinates: 4198576, 4521282, -5157453
+Orbits: CHANIA-C
+Moon id: 0

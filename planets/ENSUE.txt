@@ -1,6 +1,8 @@
-Planet: ENSUE
+Moon: ENSUE
 Starmap index: 14
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

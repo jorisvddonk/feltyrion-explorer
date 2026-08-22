@@ -1,6 +1,8 @@
-Planet: FARMOON III
+Moon: FARMOON III
 Starmap index: 58
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: OUTTAREACH
+Moon id: 2
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.291.480

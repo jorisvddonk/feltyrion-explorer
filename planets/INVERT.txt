@@ -1,6 +1,8 @@
-Planet: INVERT
+Moon: INVERT
 Starmap index: 28
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 9
 
 Guide entries:
  THIS PLANET LOOKS FUNNY, INVERTED.

@@ -1,6 +1,8 @@
-Planet: VERICALYA
+Moon: VERICALYA
 Starmap index: 20
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 14
 
 Guide entries:
 THIS IS ONE OF THE TWO MOONS FELYSIAFORMED AFTER EPOCH 4112.

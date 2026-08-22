@@ -1,3 +1,5 @@
-Planet: ARCUREIN CIRO
+Moon: ARCUREIN CIRO
 Starmap index: 13
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: ARCUREIN WEREING
+Moon id: 2

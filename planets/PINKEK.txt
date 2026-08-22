@@ -1,6 +1,8 @@
-Planet: PINKEK
+Moon: PINKEK
 Starmap index: 29
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 3
 
 Guide entries:
 AN AVERAGE, PINK, DUSTY MOON. SURFACE COLORS ARE ALMOST ALL OF PINK

@@ -1,6 +1,8 @@
-Planet: PRIMER
+Moon: PRIMER
 Starmap index: 14
 Paris coordinates: 21446160, 6389208, 40270646
+Orbits: BRAAR
+Moon id: 1
 
 Guide entries:
 INTERNALLY HOT MOON, THE SECOND OF THE SIXTH PLANET.

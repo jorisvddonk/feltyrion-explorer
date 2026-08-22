@@ -1,6 +1,8 @@
-Planet: LESSER 5.1
+Moon: LESSER 5.1
 Starmap index: 07
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 0
 
 Guide entries:
 YOU MIGHT CALL ME CRAZY, BUT I'VE DECIDED TO NAME AND DESCRIBE ALL

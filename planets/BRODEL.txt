@@ -1,3 +1,5 @@
-Planet: BRODEL
+Moon: BRODEL
 Starmap index: 12
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: ULKU
+Moon id: 1

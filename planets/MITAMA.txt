@@ -1,6 +1,8 @@
-Planet: MITAMA
+Moon: MITAMA
 Starmap index: 67
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: planet index 17
+Moon id: 8
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.810                                    

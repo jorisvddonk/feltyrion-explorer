@@ -1,6 +1,8 @@
-Planet: BEETHOVEN
+Moon: BEETHOVEN
 Starmap index: 09
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 4
 
 Guide entries:
 5TH MOON OF THE PLANET RUFUSA - THICK ATMOSPHERE, COVERED IN CLOUDS

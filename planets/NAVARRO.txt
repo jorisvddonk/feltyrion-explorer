@@ -1,6 +1,8 @@
-Planet: NAVARRO
+Moon: NAVARRO
 Starmap index: 27
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: VELOURIA
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID MOON, THICK ATMOSPHERE, COVERED BY CLOUDS.

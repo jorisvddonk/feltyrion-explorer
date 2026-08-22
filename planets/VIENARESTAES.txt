@@ -1,3 +1,5 @@
-Planet: VIENARESTAES
+Moon: VIENARESTAES
 Starmap index: 13
 Paris coordinates: -61232592, 29255171, 664579
+Orbits: JB 99
+Moon id: 5

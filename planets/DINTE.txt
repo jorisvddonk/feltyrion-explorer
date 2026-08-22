@@ -1,6 +1,8 @@
-Planet: DINTE
+Moon: DINTE
 Starmap index: 13
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD REFLECTIVITY, LARGE

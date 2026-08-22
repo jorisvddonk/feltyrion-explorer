@@ -1,3 +1,5 @@
-Planet: JUEN
+Moon: JUEN
 Starmap index: 80
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: SHABAWASH
+Moon id: 1

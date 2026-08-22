@@ -1,6 +1,8 @@
-Planet: BOREDOM
+Moon: BOREDOM
 Starmap index: 37
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: BROQARTZ
+Moon id: 0
 
 Guide entries:
 BORING PLANET, ININTERSTING, ROCKY.

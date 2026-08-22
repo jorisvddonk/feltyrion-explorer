@@ -1,3 +1,5 @@
-Planet: BJUTAKSH
+Moon: BJUTAKSH
 Starmap index: 68
 Paris coordinates: -614992, 734031, -1219112
+Orbits: FOOPSERID
+Moon id: 12

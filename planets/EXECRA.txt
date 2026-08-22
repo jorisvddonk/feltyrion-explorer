@@ -1,6 +1,8 @@
-Planet: EXECRA
+Moon: EXECRA
 Starmap index: 43
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DUSTY AND SLIGHTLY GROOVED.

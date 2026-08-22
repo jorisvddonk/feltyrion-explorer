@@ -1,6 +1,8 @@
-Planet: GODZILLA
+Moon: GODZILLA
 Starmap index: 33
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 8
 
 Guide entries:
 UPDATE: MEDIUM SIZE, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS.

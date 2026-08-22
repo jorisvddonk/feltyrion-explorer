@@ -1,3 +1,5 @@
-Planet: SUNRISE
+Moon: SUNRISE
 Starmap index: 37
 Paris coordinates: 2777136, 4626086, -1230145
+Orbits: CORONA AUREA
+Moon id: 17

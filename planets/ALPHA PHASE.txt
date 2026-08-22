@@ -1,6 +1,8 @@
-Planet: ALPHA PHASE
+Moon: ALPHA PHASE
 Starmap index: 21
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: EYE OF LACORIA
+Moon id: 0
 
 Guide entries:
 MOON OF THE 7TH PLANET IN THIS SYSTEM (EYE OF LACORIA). SOME...

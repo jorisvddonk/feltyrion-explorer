@@ -1,6 +1,8 @@
-Planet: NEW SILEN
+Moon: NEW SILEN
 Starmap index: 41
 Paris coordinates: 7476048, 5871993, -2145588
+Orbits: planet index 08
+Moon id: 9
 
 Guide entries:
 FELISAN MOON OF THE 7TH PLANET OF THE REBIRTH SYSTEM.

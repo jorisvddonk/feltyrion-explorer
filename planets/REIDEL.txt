@@ -1,3 +1,5 @@
-Planet: REIDEL
+Moon: REIDEL
 Starmap index: 27
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: planet index 13
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: ANINEJ
+Moon: ANINEJ
 Starmap index: 07
 Paris coordinates: 2031852592, -464651, -4802779
+Orbits: EVEMAT
+Moon id: 1
 
 Guide entries:
 SMALL SOLID DUSTY, ALMOST AMBER YELLOW COLOR WITH LARGE RAYED CRATERS.      

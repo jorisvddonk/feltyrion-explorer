@@ -1,3 +1,5 @@
-Planet: RASTR GAMMA SEXTANE
+Moon: RASTR GAMMA SEXTANE
 Starmap index: 13
 Paris coordinates: 1400207440, 1427364, 1398908212
+Orbits: RASTR GAMMA
+Moon id: 5

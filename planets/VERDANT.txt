@@ -1,6 +1,8 @@
-Planet: VERDANT
+Moon: VERDANT
 Starmap index: 12
 Paris coordinates: 2939280, 4388626, -1511660
+Orbits: PUNISHMENT
+Moon id: 0
 
 Guide entries:
  DISCOVERED EPOC 6011:582.396 BY MARCUS ARAC.

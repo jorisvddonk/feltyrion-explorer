@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.10
+Moon: FIRESKY 3.10
 Starmap index: 23
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 9
 
 Guide entries:
 MEDIUM-SIZED, THICK ATMOSPHERE, UGLY, GREY COLOUR. ONE, MAYBE TWO

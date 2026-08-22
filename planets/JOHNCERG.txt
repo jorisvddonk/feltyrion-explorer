@@ -1,3 +1,5 @@
-Planet: JOHNCERG
+Moon: JOHNCERG
 Starmap index: 17
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASSMARTIN
+Moon id: 6

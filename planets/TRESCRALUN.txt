@@ -1,6 +1,8 @@
-Planet: TRESCRALUN
+Moon: TRESCRALUN
 Starmap index: 07
 Paris coordinates: -56784, 15693, -129542
+Orbits: ABSERYALIS
+Moon id: 1
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A

@@ -1,6 +1,8 @@
-Planet: POLL
+Moon: POLL
 Starmap index: 30
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 17
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHTLY DARK, PROBABLY DUSTY,

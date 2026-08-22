@@ -1,6 +1,8 @@
-Planet: TURTU
+Moon: TURTU
 Starmap index: 10
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE, MODERATE GREEN REFLECTIVITY

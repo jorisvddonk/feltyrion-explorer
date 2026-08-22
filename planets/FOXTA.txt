@@ -1,6 +1,8 @@
-Planet: FOXTA
+Moon: FOXTA
 Starmap index: 38
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. DUSTY

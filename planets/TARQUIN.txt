@@ -1,6 +1,8 @@
-Planet: TARQUIN
+Moon: TARQUIN
 Starmap index: 12
 Paris coordinates: -332496, 138827, -643676
+Orbits: AININ
+Moon id: 7
 
 Guide entries:
 A CRATERIZED PLANET WITH NO ATMOSPHERE..

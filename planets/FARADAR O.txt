@@ -1,6 +1,8 @@
-Planet: FARADAR O
+Moon: FARADAR O
 Starmap index: 21
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 14
 
 Guide entries:
 BROWN, THIN ATMOSPHERE, POLAR CAPS. (SCHMERM 6011 584.162)

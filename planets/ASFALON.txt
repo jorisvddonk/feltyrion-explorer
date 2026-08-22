@@ -1,3 +1,5 @@
-Planet: ASFALON
+Moon: ASFALON
 Starmap index: 05
 Paris coordinates: 1516336, 545041, 19859002
+Orbits: AS12221207C
+Moon id: 0

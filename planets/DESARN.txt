@@ -1,6 +1,8 @@
-Planet: DESARN
+Moon: DESARN
 Starmap index: 40
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 10
 
 Guide entries:
  (SKYGEM C11) A ARID FELYISAN PLANET. AMWHERE 6011.584.980

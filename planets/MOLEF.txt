@@ -1,6 +1,8 @@
-Planet: MOLEF
+Moon: MOLEF
 Starmap index: 12
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: CAPACIT
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS NOTED.

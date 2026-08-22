@@ -1,3 +1,5 @@
-Planet: KENFERNJI
+Moon: KENFERNJI
 Starmap index: 20
 Paris coordinates: 5265328, 2222843, 1446761
+Orbits: ASKEW 10C
+Moon id: 11

@@ -1,6 +1,8 @@
-Planet: IRIDESSE
+Moon: IRIDESSE
 Starmap index: 30
 Paris coordinates: 81072, -77486, -118953
+Orbits: BODERON
+Moon id: 3
 
 Guide entries:
 HABITABLE WORLD. INITIAL LANDINGS: (332.24) COASTLINE WITH ANOTHER

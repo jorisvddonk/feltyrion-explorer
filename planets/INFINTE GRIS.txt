@@ -1,3 +1,5 @@
-Planet: INFINTE GRIS
+Moon: INFINTE GRIS
 Starmap index: 11
 Paris coordinates: 4877136, 4743462, -3053809
+Orbits: PALA ALTO
+Moon id: 1

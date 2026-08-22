@@ -1,6 +1,8 @@
-Planet: RENOS
+Moon: RENOS
 Starmap index: 20
 Paris coordinates: -2512, 333266, 2788927
+Orbits: SANIKOR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATE GREEN

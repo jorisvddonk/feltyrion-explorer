@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 11L
+Moon: RADAX DANIELLER 11L
 Starmap index: 75
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 11
+Moon id: 11

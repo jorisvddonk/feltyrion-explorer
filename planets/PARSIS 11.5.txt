@@ -1,6 +1,8 @@
-Planet: PARSIS 11.5
+Moon: PARSIS 11.5
 Starmap index: 47
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 4
 
 Guide entries:
  YET ANOTHER ICY-BALL IN SPACE, SMOOTH SURFACE; FROZEN SOLID.

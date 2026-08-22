@@ -1,6 +1,8 @@
-Planet: FELISIA 1
+Moon: FELISIA 1
 Starmap index: 09
 Paris coordinates: 3405360, 5347404, -3994355
+Orbits: PALMYRA 5
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY CAPT. LUTHER ON EPOC:6011:661.27

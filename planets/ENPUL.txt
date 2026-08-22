@@ -1,6 +1,8 @@
-Planet: ENPUL
+Moon: ENPUL
 Starmap index: 09
 Paris coordinates: 21446160, 6389208, 40270646
+Orbits: PEING
+Moon id: 1
 
 Guide entries:
 A QUARTZ MOON, THE SECOND OF THE FOURTH PLANET. SURFACE IS ACTUALLY

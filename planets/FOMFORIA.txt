@@ -1,6 +1,8 @@
-Planet: FOMFORIA
+Moon: FOMFORIA
 Starmap index: 63
 Paris coordinates: 11143472, 13252185, 11768133
+Orbits: PONEX
+Moon id: 0
 
 Guide entries:
 MOON OF PONEX IN THE DREAMER SOLAR SYSTEM. LIFELESS WITH NO CLUES.          

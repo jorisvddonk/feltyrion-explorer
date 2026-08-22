@@ -1,3 +1,5 @@
-Planet: WISPY'S STAR-11G
+Moon: WISPY'S STAR-11G
 Starmap index: 46
 Paris coordinates: 3452848, 4518536, -1183512
+Orbits: WISPY'S STAR-11
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: GARTRAN ETA
+Moon: GARTRAN ETA
 Starmap index: 11
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

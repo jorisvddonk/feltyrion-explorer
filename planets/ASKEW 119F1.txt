@@ -1,6 +1,8 @@
-Planet: ASKEW 119F1
+Moon: ASKEW 119F1
 Starmap index: 40
 Paris coordinates: 3036016, -12924584, 9835578
+Orbits: ASKEW 119F
+Moon id: 0
 
 Guide entries:
 FOUND EPOC 6011 589.555.000 BY ROLAND ASKEW

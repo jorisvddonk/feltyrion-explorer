@@ -1,3 +1,5 @@
-Planet: FELYBROWNES
+Moon: FELYBROWNES
 Starmap index: 31
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: JB 103
+Moon id: 1

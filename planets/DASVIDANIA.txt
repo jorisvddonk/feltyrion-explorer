@@ -1,3 +1,5 @@
-Planet: DASVIDANIA
+Moon: DASVIDANIA
 Starmap index: 10
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: HUGSTONE
+Moon id: 1

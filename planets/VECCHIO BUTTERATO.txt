@@ -1,3 +1,5 @@
-Planet: VECCHIO BUTTERATO
+Moon: VECCHIO BUTTERATO
 Starmap index: 37
 Paris coordinates: 2521776, 5015370, -132554
+Orbits: TRISTE
+Moon id: 10

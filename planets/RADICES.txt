@@ -1,6 +1,8 @@
-Planet: RADICES
+Moon: RADICES
 Starmap index: 79
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PARAPET
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK WITH DARKER MOTTLING.

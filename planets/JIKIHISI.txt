@@ -1,3 +1,5 @@
-Planet: JIKIHISI
+Moon: JIKIHISI
 Starmap index: 42
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: AYHLISJARSI
+Moon id: 13

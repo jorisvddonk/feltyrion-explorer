@@ -1,6 +1,8 @@
-Planet: COLD DISCOMFORT
+Moon: COLD DISCOMFORT
 Starmap index: 32
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: REMOTE SNAG
+Moon id: 0
 
 Guide entries:
 QUARTZ WORLD. PARENT OBJECT(REMOTE SNAG) WAAS QUITE A SIGHT                 

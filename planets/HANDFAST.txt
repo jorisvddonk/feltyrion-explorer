@@ -1,6 +1,8 @@
-Planet: HANDFAST
+Moon: HANDFAST
 Starmap index: 13
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

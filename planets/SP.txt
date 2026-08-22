@@ -1,6 +1,8 @@
-Planet: SP
+Moon: SP
 Starmap index: 10
 Paris coordinates: -332496, 138827, -643676
+Orbits: AININ
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.913

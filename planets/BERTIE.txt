@@ -1,6 +1,8 @@
-Planet: BERTIE
+Moon: BERTIE
 Starmap index: 09
 Paris coordinates: -1918928, 1434756, 1857944
+Orbits: WOOSTER
+Moon id: 0
 
 Guide entries:
 MOON 1 OF 3RD PLANET IN WODEHOUSE SYSTEM. FELISIAN

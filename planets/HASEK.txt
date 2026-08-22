@@ -1,3 +1,5 @@
-Planet: HASEK
+Moon: HASEK
 Starmap index: 10
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: BARNABA
+Moon id: 0

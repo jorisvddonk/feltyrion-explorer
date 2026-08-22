@@ -1,3 +1,5 @@
-Planet: ASKEW 47C1
+Moon: ASKEW 47C1
 Starmap index: 11
 Paris coordinates: 11707376, -19259942, 16768028
+Orbits: LAZUTUK
+Moon id: 0

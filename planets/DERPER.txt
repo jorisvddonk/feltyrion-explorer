@@ -1,3 +1,5 @@
-Planet: DERPER
+Moon: DERPER
 Starmap index: 10
 Paris coordinates: 387856, 27605, -70309
+Orbits: LOCIAN
+Moon id: 0

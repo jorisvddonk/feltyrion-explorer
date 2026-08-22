@@ -1,6 +1,8 @@
-Planet: RUTABAGAS
+Moon: RUTABAGAS
 Starmap index: 37
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 6
 
 Guide entries:
 A SMALL PINK QUARTZWORLD. (SCHMERM 6011 582.859)

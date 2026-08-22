@@ -1,6 +1,8 @@
-Planet: TOSUL
+Moon: TOSUL
 Starmap index: 43
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: MYDRISAL
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A QUITE REFLECTIVE WORLD WITH

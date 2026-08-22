@@ -1,3 +1,5 @@
-Planet: GARAGE
+Moon: GARAGE
 Starmap index: 13
 Paris coordinates: 3666416, 4676784, -623993
+Orbits: ALEXISE
+Moon id: 0

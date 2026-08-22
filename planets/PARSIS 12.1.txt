@@ -1,6 +1,8 @@
-Planet: PARSIS 12.1
+Moon: PARSIS 12.1
 Starmap index: 55
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 12
+Moon id: 0
 
 Guide entries:
  IT WOULD APEAR PARSIS IS A TWIN-PLANET, WITH A MOON ORBITING AT A

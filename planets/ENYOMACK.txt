@@ -1,6 +1,8 @@
-Planet: ENYOMACK
+Moon: ENYOMACK
 Starmap index: 10
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 6
 
 Guide entries:
 M07/03 MEDIUM SIZE THICK ATMO CLOUDS TAN WITH LARGE DARK BANDS, STORM       

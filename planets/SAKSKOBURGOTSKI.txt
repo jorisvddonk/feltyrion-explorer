@@ -1,3 +1,5 @@
-Planet: SAKSKOBURGOTSKI
+Moon: SAKSKOBURGOTSKI
 Starmap index: 12
 Paris coordinates: 3579984, 4607492, 169632
+Orbits: G.PYRVANOV
+Moon id: 0

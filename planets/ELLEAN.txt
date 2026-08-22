@@ -1,6 +1,8 @@
-Planet: ELLEAN
+Moon: ELLEAN
 Starmap index: 20
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: SU
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SOMEWHAT DUSTY WITH MORE

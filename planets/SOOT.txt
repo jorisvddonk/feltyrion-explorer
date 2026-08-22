@@ -1,6 +1,8 @@
-Planet: SOOT
+Moon: SOOT
 Starmap index: 06
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 0
 
 Guide entries:
 A GAS GIANT ORBITING HOT OVEN ON EKA40. NO RINGS, GREY DUSTY COLOR WITH

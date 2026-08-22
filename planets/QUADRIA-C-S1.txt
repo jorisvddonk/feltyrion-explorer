@@ -1,3 +1,5 @@
-Planet: QUADRIA-C-S1
+Moon: QUADRIA-C-S1
 Starmap index: 04
 Paris coordinates: 1579312, -2614, -7423355
+Orbits: QUADRIA-C
+Moon id: 0

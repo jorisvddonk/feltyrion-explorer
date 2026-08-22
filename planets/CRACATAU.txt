@@ -1,6 +1,8 @@
-Planet: CRACATAU
+Moon: CRACATAU
 Starmap index: 41
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS MAXIMA
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED MOON, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

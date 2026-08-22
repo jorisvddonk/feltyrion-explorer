@@ -1,6 +1,8 @@
-Planet: VENI
+Moon: VENI
 Starmap index: 12
 Paris coordinates: 808208, 1178550, 752685
+Orbits: NEME
+Moon id: 0
 
 Guide entries:
 THICK ATMOSPHERE AND THE MOON OF NEME, A SUBSTELLAR OBJECT. IT HAS THE      

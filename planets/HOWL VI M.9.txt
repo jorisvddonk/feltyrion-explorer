@@ -1,6 +1,8 @@
-Planet: HOWL VI M.9
+Moon: HOWL VI M.9
 Starmap index: 20
 Paris coordinates: 4666416, 3329333, -1614139
+Orbits: HOWL VI
+Moon id: 8
 
 Guide entries:
 HOWL VI M.9 DISCOVERED EPOC 6011 TRIADS 661.204.87

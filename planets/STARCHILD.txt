@@ -1,6 +1,8 @@
-Planet: STARCHILD
+Moon: STARCHILD
 Starmap index: 11
 Paris coordinates: 4304272, 4864874, -1110519
+Orbits: JUNIOR SIBLING
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF THIRD 'PLANET' (ACTUALLY A STAR IN THIS MULTIPLE              

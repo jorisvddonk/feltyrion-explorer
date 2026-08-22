@@ -1,6 +1,8 @@
-Planet: SOOK
+Moon: SOOK
 Starmap index: 16
 Paris coordinates: -3000336, 23767, -1724712
+Orbits: YIRA 03
+Moon id: 1
 
 Guide entries:
 MOSTLY OCEANIC

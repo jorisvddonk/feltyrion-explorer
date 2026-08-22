@@ -1,6 +1,8 @@
-Planet: SOMMERLUND
+Moon: SOMMERLUND
 Starmap index: 10
 Paris coordinates: -1666416, 405906, -1094497
+Orbits: IRANON
+Moon id: 0
 
 Guide entries:
  THIS MOON IS INHABITED

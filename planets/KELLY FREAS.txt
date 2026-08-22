@@ -1,3 +1,5 @@
-Planet: KELLY FREAS
+Moon: KELLY FREAS
 Starmap index: 27
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: BILL ELDER
+Moon id: 0

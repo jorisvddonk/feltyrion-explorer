@@ -1,3 +1,5 @@
-Planet: AE'NDERET  D
+Moon: AE'NDERET  D
 Starmap index: 61
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: AE'NDERET
+Moon id: 3

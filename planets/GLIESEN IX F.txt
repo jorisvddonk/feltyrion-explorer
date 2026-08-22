@@ -1,6 +1,8 @@
-Planet: GLIESEN IX F
+Moon: GLIESEN IX F
 Starmap index: 20
 Paris coordinates: -999742544, -1308, 1419595540
+Orbits: GLIESEN IX
+Moon id: 5
 
 Guide entries:
 BLUISH ICEWORLD. (SCHMERM 6011 597.865)

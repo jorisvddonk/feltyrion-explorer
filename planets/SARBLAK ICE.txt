@@ -1,6 +1,8 @@
-Planet: SARBLAK ICE
+Moon: SARBLAK ICE
 Starmap index: 07
 Paris coordinates: 1432496, 1430211, -367094
+Orbits: SARBLAK
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.196

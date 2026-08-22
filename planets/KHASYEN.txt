@@ -1,6 +1,8 @@
-Planet: KHASYEN
+Moon: KHASYEN
 Starmap index: 18
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: SEMICEA
+Moon id: 0
 
 Guide entries:
 A DESERT FELYSIAN MOON, THE FIRST OF THE FOURTH PLANET. THE PLANET HAS

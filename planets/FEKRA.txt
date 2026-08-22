@@ -1,6 +1,8 @@
-Planet: FEKRA
+Moon: FEKRA
 Starmap index: 24
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, NO ATMOSPHERE, BROWN AND YELLOW. SKINNYMON

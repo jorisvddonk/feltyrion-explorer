@@ -1,6 +1,8 @@
-Planet: DAFFE
+Moon: DAFFE
 Starmap index: 32
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: DAFFA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE CRATERS, THOUGH

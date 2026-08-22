@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 4.1
+Moon: ALCHEMIST 4.1
 Starmap index: 13
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 4
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT, UNSTABLE SURFACE, AT LEAST THREE

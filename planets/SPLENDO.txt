@@ -1,3 +1,5 @@
-Planet: SPLENDO
+Moon: SPLENDO
 Starmap index: 10
 Paris coordinates: 4283920, 4264038, -2340212
+Orbits: SPLENDOR
+Moon id: 0

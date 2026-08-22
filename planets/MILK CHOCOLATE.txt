@@ -1,3 +1,5 @@
-Planet: MILK CHOCOLATE
+Moon: MILK CHOCOLATE
 Starmap index: 16
 Paris coordinates: -71562064, -598009, 53608687
+Orbits: MALT
+Moon id: 0

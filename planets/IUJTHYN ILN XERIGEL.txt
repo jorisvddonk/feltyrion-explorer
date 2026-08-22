@@ -1,3 +1,5 @@
-Planet: IUJTHYN ILN XERIGEL
+Moon: IUJTHYN ILN XERIGEL
 Starmap index: 47
 Paris coordinates: 58819632, -33812924, 926872580
+Orbits: XERIGEL ILN GRARN
+Moon id: 8

@@ -1,3 +1,5 @@
-Planet: PIOZ
+Moon: PIOZ
 Starmap index: 09
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: ERLADDARU
+Moon id: 1

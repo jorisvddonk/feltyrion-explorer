@@ -1,3 +1,5 @@
-Planet: GRULWI
+Moon: GRULWI
 Starmap index: 16
 Paris coordinates: -2582832, -6847123, -3094735
+Orbits: KRIGO
+Moon id: 0

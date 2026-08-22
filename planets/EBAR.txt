@@ -1,6 +1,8 @@
-Planet: EBAR
+Moon: EBAR
 Starmap index: 18
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE DUSTY LOOKING. SKINNYMON

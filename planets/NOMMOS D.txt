@@ -1,6 +1,8 @@
-Planet: NOMMOS D
+Moon: NOMMOS D
 Starmap index: 19
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: NOMMOS
+Moon id: 3
 
 Guide entries:
 COLORLESS ROCKY DEADWORLD. MANY DARK CREASES AND MODEERATE CRATERING.

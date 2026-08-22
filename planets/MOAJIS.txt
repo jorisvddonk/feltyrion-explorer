@@ -1,6 +1,8 @@
-Planet: MOAJIS
+Moon: MOAJIS
 Starmap index: 07
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: RIMYEKUR
+Moon id: 1
 
 Guide entries:
 M02/P03 MEDIUM SIZED AND ROCKY WITH MUCH DARK SCARRING. HAS GREENISH        

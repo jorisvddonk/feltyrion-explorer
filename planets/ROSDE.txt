@@ -1,6 +1,8 @@
-Planet: ROSDE
+Moon: ROSDE
 Starmap index: 22
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 17
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

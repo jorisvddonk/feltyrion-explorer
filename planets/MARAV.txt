@@ -1,6 +1,8 @@
-Planet: MARAV
+Moon: MARAV
 Starmap index: 23
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 2
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. WOULD BE A DARK WORLD

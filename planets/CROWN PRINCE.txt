@@ -1,6 +1,8 @@
-Planet: CROWN PRINCE
+Moon: CROWN PRINCE
 Starmap index: 27
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: SIRE
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. SEVERAL SMALL

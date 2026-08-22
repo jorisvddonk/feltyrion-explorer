@@ -1,6 +1,8 @@
-Planet: TRIBE
+Moon: TRIBE
 Starmap index: 13
 Paris coordinates: 2532496, 4432003, -1540265
+Orbits: REFLECTION
+Moon id: 4
 
 Guide entries:
 THIS PLANETS SURFACE IS MAINLY A SANDY BROWN COLOUR. THE DISTANT STARS

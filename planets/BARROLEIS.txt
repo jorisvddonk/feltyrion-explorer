@@ -1,3 +1,5 @@
-Planet: BARROLEIS
+Moon: BARROLEIS
 Starmap index: 10
 Paris coordinates: -61852944, 29465986, 69518
+Orbits: WOOZLIS
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: SENTRY
+Moon: SENTRY
 Starmap index: 08
 Paris coordinates: -439280, 182294, -649509
+Orbits: MYTHREL
+Moon id: 0

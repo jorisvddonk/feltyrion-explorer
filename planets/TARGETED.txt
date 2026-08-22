@@ -1,6 +1,8 @@
-Planet: TARGETED
+Moon: TARGETED
 Starmap index: 07
 Paris coordinates: 6193552, 5324215, -1721844
+Orbits: ELM STREET
+Moon id: 2
 
 Guide entries:
  LARGE CRATERS, INTERESTING BRIGHT MOUNTAI STRUCTURE

@@ -1,6 +1,8 @@
-Planet: TELEA
+Moon: TELEA
 Starmap index: 11
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: PROSI
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

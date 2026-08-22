@@ -1,3 +1,5 @@
-Planet: DESOLATE EMERALD
+Moon: DESOLATE EMERALD
 Starmap index: 09
 Paris coordinates: 3177136, 4191473, -1547012
+Orbits: QUADRUBY 03
+Moon id: 0

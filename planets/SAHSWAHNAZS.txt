@@ -1,3 +1,5 @@
-Planet: SAHSWAHNAZS
+Moon: SAHSWAHNAZS
 Starmap index: 18
 Paris coordinates: 14872112, 32430695, -7740461
+Orbits: BROMMALTARM
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: LAUD
+Moon: LAUD
 Starmap index: 08
 Paris coordinates: -461808, 50208, 5718934
+Orbits: WHIRR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK BUT DETAILS CAN BE MADE OUT

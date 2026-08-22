@@ -1,6 +1,8 @@
-Planet: BLOOFER
+Moon: BLOOFER
 Starmap index: 16
 Paris coordinates: 3246064, 4612800, -1346055
+Orbits: NOUZIS
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY CLOVIS CHARLANTI, EPOC 6011:601.932

@@ -1,6 +1,8 @@
-Planet: ARKATRA
+Moon: ARKATRA
 Starmap index: 14
 Paris coordinates: -72010640, -1390290, 54985678
+Orbits: TWIST
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:850.518                                    

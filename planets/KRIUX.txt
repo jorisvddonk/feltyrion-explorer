@@ -1,3 +1,5 @@
-Planet: KRIUX
+Moon: KRIUX
 Starmap index: 08
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: ERLADDARU
+Moon id: 0

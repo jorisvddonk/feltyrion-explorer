@@ -1,3 +1,5 @@
-Planet: BULBI-08-A
+Moon: BULBI-08-A
 Starmap index: 48
 Paris coordinates: 2101424, 6142806, -960659
+Orbits: BULBI-08
+Moon id: 0

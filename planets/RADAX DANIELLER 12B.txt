@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 12B
+Moon: RADAX DANIELLER 12B
 Starmap index: 78
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 12
+Moon id: 1

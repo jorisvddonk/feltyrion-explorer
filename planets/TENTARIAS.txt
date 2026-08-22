@@ -1,6 +1,8 @@
-Planet: TENTARIAS
+Moon: TENTARIAS
 Starmap index: 38
 Paris coordinates: -890704, 333652, -1384376
+Orbits: VAAG
+Moon id: 9
 
 Guide entries:
 THIS MOON HAS LIFEFORMS. VERY RARE, CONSIDERING THAT ITS SUN IS A

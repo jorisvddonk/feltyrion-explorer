@@ -1,6 +1,8 @@
-Planet: PURPLE CONGLOMERATE
+Moon: PURPLE CONGLOMERATE
 Starmap index: 20
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: PSEUDOQUARTZ
+Moon id: 0
 
 Guide entries:
 BUMPY SURFACE, THIN ATMOSPHERE. NAMED AND DISCOVERED                        

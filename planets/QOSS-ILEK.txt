@@ -1,3 +1,5 @@
-Planet: QOSS-ILEK
+Moon: QOSS-ILEK
 Starmap index: 12
 Paris coordinates: 2056784, 6465841, -1650892
+Orbits: NARARFUDARN
+Moon id: 0

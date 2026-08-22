@@ -1,6 +1,8 @@
-Planet: BLACKEN
+Moon: BLACKEN
 Starmap index: 34
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: COLDER FUSION
+Moon id: 1
 
 Guide entries:
 THIS PLANET/MOON IS TOO FAR AWAY FROM THE LOCAL STAR FOR ONE TO...

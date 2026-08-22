@@ -1,3 +1,5 @@
-Planet: GLUECK
+Moon: GLUECK
 Starmap index: 20
 Paris coordinates: -2162480, -7768489, -2349162
+Orbits: GOOGOL
+Moon id: 11

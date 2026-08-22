@@ -1,6 +1,8 @@
-Planet: GOAT 16.2
+Moon: GOAT 16.2
 Starmap index: 50
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 16
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. EXPLORIND WORLDS LIKE A DARK, SECOND

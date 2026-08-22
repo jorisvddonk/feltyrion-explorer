@@ -1,3 +1,5 @@
-Planet: VOIDAL OBJECT
+Moon: VOIDAL OBJECT
 Starmap index: 38
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: REMOTE SNAG
+Moon id: 6

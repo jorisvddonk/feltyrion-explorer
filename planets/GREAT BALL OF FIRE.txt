@@ -1,3 +1,5 @@
-Planet: GREAT BALL OF FIRE
+Moon: GREAT BALL OF FIRE
 Starmap index: 19
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: CLEARLY NOT ALIVE
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: BARETON
+Moon: BARETON
 Starmap index: 17
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: ORAGON
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: SERGEIOV D8
+Moon: SERGEIOV D8
 Starmap index: 29
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV D
+Moon id: 7

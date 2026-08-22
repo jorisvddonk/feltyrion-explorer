@@ -1,3 +1,5 @@
-Planet: MANGLE
+Moon: MANGLE
 Starmap index: 08
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: GANAIA
+Moon id: 1

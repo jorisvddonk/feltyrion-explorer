@@ -1,6 +1,8 @@
-Planet: NONDESCRIPT
+Moon: NONDESCRIPT
 Starmap index: 24
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: DETINUE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. PRETTY MUCH LIKE

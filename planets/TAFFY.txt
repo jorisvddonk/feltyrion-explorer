@@ -1,6 +1,8 @@
-Planet: TAFFY
+Moon: TAFFY
 Starmap index: 71
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: JEALOUS MINISTAR
+Moon id: 2
 
 Guide entries:
 PINK-PURPLE CLOUD-COVERED MOON ORBITING JEALOUS MINISTAR ON EKA24. --EKA

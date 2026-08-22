@@ -1,6 +1,8 @@
-Planet: TATRON ZETA
+Moon: TATRON ZETA
 Starmap index: 72
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF PLANET TATRON IN THE GENISI SYSTEM

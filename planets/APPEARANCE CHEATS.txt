@@ -1,3 +1,5 @@
-Planet: APPEARANCE CHEATS
+Moon: APPEARANCE CHEATS
 Starmap index: 17
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: BENNY MINOR
+Moon id: 9

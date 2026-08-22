@@ -1,6 +1,8 @@
-Planet: CRADLE VI M
+Moon: CRADLE VI M
 Starmap index: 54
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VI
+Moon id: 12
 
 Guide entries:
 GREEN THINWORLD. (SCHMERM 6011 592.878)

@@ -1,6 +1,8 @@
-Planet: LARANU ALPHA
+Moon: LARANU ALPHA
 Starmap index: 14
 Paris coordinates: 3666416, 5031653, -821054
+Orbits: LARANU
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET LARANU IN THE CELESTRA SYSTEM

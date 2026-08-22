@@ -1,3 +1,5 @@
-Planet: MORDRED
+Moon: MORDRED
 Starmap index: 09
 Paris coordinates: 4973200, 4867216, -1427823
+Orbits: ALUNDRA IV
+Moon id: 4

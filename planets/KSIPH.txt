@@ -1,6 +1,8 @@
-Planet: KSIPH
+Moon: KSIPH
 Starmap index: 15
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: PSEDRITE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH A

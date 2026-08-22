@@ -1,6 +1,8 @@
-Planet: MAINEN
+Moon: MAINEN
 Starmap index: 13
 Paris coordinates: 5576048, 4858380, 29991
+Orbits: OLOVI
+Moon id: 0
 
 Guide entries:
 BRIGHT GREEN MOON OF PETTYMYS IN SERACUS SYSTEM.

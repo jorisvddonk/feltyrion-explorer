@@ -1,3 +1,5 @@
-Planet: SKRAFEN
+Moon: SKRAFEN
 Starmap index: 22
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: SIDEON
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: OMEGA RED VI B
+Moon: OMEGA RED VI B
 Starmap index: 23
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED VI
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD

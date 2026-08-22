@@ -1,6 +1,8 @@
-Planet: COGGIT
+Moon: COGGIT
 Starmap index: 28
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: PORTEGAIM
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREEN REFLECTIVITY

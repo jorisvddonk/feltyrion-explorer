@@ -1,6 +1,8 @@
-Planet: T'KALA
+Moon: T'KALA
 Starmap index: 07
 Paris coordinates: 1770352, 4945881, -410751
+Orbits: HA-KARI
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-570.29

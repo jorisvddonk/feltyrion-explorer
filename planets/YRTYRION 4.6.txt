@@ -1,6 +1,8 @@
-Planet: YRTYRION 4.6
+Moon: YRTYRION 4.6
 Starmap index: 16
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 4
+Moon id: 9
 
 Guide entries:
  SECOUND FELISIAN MOON ENCOUNTERED IN THE YRTYRION SYSTEM.

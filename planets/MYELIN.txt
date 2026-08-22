@@ -1,6 +1,8 @@
-Planet: MYELIN
+Moon: MYELIN
 Starmap index: 22
 Paris coordinates: -218928, 44011, 180703
+Orbits: ROLEAU
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STRANGE

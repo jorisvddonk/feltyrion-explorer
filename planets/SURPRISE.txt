@@ -1,6 +1,8 @@
-Planet: SURPRISE
+Moon: SURPRISE
 Starmap index: 08
 Paris coordinates: 3973200, 4221255, -548021
+Orbits: SHOCK
+Moon id: 0
 
 Guide entries:
 DISCOVERED 6011.564.758.306 BY JEREMY HUSSELL

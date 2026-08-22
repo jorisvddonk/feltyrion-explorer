@@ -1,3 +1,5 @@
-Planet: VISAGE
+Moon: VISAGE
 Starmap index: 07
 Paris coordinates: 4055696, 4146452, 352242
+Orbits: SPIN SPIN SUGAR
+Moon id: 1

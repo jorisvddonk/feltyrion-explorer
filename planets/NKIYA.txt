@@ -1,6 +1,8 @@
-Planet: NKIYA
+Moon: NKIYA
 Starmap index: 09
 Paris coordinates: 3507120, 4994985, 1808677
+Orbits: YAKNI
+Moon id: 0
 
 Guide entries:
 THIS IS, SURPRISINGLY, A HABITABLE PLANET, WITH ANIMALS

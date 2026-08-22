@@ -1,6 +1,8 @@
-Planet: IZANAGI
+Moon: IZANAGI
 Starmap index: 57
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: SURT
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.807                                    

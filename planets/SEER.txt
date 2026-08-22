@@ -1,6 +1,8 @@
-Planet: SEER
+Moon: SEER
 Starmap index: 24
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: KINGPIN
+Moon id: 7
 
 Guide entries:
 ORANGE-PINK CLOUD-COVERED MOON OF KINGPIN.

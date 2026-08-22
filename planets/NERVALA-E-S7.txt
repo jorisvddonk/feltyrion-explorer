@@ -1,3 +1,5 @@
-Planet: NERVALA-E-S7
+Moon: NERVALA-E-S7
 Starmap index: 15
 Paris coordinates: 3027888, -571017, -9937342
+Orbits: NERVALA-E
+Moon id: 6

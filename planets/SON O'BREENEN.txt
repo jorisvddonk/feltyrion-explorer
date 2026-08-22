@@ -1,3 +1,5 @@
-Planet: SON O'BREENEN
+Moon: SON O'BREENEN
 Starmap index: 28
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: TOMB DE'NAARADOR
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: DUSTBOWL
+Moon: DUSTBOWL
 Starmap index: 18
 Paris coordinates: 4066416, 4419160, -988413
+Orbits: LONGPOINT
+Moon id: 1
 
 Guide entries:
 INSIGNIFIGANT ROCK. TWIN PLANETOID OF TARGET RANGE.

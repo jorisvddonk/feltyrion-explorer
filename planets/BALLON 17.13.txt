@@ -1,6 +1,8 @@
-Planet: BALLON 17.13
+Moon: BALLON 17.13
 Starmap index: 61
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 12
 
 Guide entries:
 PERHAPS THE LAST MOON OF THIS SUBSTELLAR OBJECT (I'M NOT SURE)              

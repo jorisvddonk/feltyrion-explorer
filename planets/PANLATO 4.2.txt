@@ -1,6 +1,8 @@
-Planet: PANLATO 4.2
+Moon: PANLATO 4.2
 Starmap index: 09
 Paris coordinates: -282832, 1095865, -5377112
+Orbits: PANLATO 4
+Moon id: 1
 
 Guide entries:
 A LARGELY TYPICAL, QUITE REFLECTIVE, SMALL, CRATERIZED MOONLET.             

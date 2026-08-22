@@ -1,6 +1,8 @@
-Planet: MAGMA
+Moon: MAGMA
 Starmap index: 28
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: OBOVOID
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

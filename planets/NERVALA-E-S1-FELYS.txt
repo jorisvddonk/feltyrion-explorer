@@ -1,3 +1,5 @@
-Planet: NERVALA-E-S1-FELYS
+Moon: NERVALA-E-S1-FELYS
 Starmap index: 09
 Paris coordinates: 3027888, -571017, -9937342
+Orbits: NERVALA-E
+Moon id: 0

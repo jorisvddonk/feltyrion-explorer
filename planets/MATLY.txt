@@ -1,6 +1,8 @@
-Planet: MATLY
+Moon: MATLY
 Starmap index: 17
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 3
 
 Guide entries:
 M04/P05 MEDIUM SIZED ROCKY CREASED BUT FROM THE LARGE RAYED CRATERS AND     

@@ -1,6 +1,8 @@
-Planet: MOLTENMA
+Moon: MOLTENMA
 Starmap index: 05
 Paris coordinates: -232656, 4223940, 36079181
+Orbits: TRIGUN C
+Moon id: 0
 
 Guide entries:
 INTERNALLY HOT, NICE TO LOOK AT FROM SPACE, DEEP RED COLOR.

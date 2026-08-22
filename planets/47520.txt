@@ -1,3 +1,5 @@
-Planet: 47520
+Moon: 47520
 Starmap index: 28
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: FERRAT
+Moon id: 15

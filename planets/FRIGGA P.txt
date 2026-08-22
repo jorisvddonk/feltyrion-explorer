@@ -1,6 +1,8 @@
-Planet: FRIGGA P
+Moon: FRIGGA P
 Starmap index: 43
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 15
 
 Guide entries:
 A FOURTEENTH ICEWORLD MOON. THE GROOVES ON ITS SURFACE ARE VERY

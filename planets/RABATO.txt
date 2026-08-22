@@ -1,6 +1,8 @@
-Planet: RABATO
+Moon: RABATO
 Starmap index: 34
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. LARGE STORM

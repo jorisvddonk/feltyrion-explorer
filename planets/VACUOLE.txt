@@ -1,6 +1,8 @@
-Planet: VACUOLE
+Moon: VACUOLE
 Starmap index: 21
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, GOOD POLAR CAPS.

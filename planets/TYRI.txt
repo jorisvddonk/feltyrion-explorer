@@ -1,3 +1,5 @@
-Planet: TYRI
+Moon: TYRI
 Starmap index: 08
 Paris coordinates: -122864, 281953, 1858744
+Orbits: KANDIS
+Moon id: 0

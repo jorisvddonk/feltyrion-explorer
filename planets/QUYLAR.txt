@@ -1,6 +1,8 @@
-Planet: QUYLAR
+Moon: QUYLAR
 Starmap index: 15
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: STREONIR
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE AND

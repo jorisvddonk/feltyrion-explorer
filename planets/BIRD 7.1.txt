@@ -1,6 +1,8 @@
-Planet: BIRD 7.1
+Moon: BIRD 7.1
 Starmap index: 15
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 7
+Moon id: 0
 
 Guide entries:
 ANOTHER BODY WITH MANY CRATERS, BUT WAY MORE TYPICAL THAN BIRD 7.

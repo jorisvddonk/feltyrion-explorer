@@ -1,6 +1,8 @@
-Planet: BRACHTAR D
+Moon: BRACHTAR D
 Starmap index: 18
 Paris coordinates: 4277136, -66332076, -2510220
+Orbits: BRACHTAR
+Moon id: 3
 
 Guide entries:
 PURPLE DENSEWORLD. VERY UNIFORM AND SMOOTH CLOUDS.

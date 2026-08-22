@@ -1,6 +1,8 @@
-Planet: BEVE ANI
+Moon: BEVE ANI
 Starmap index: 09
 Paris coordinates: 4889616, 4398910, 1313447
+Orbits: planet index 03
+Moon id: 3
 
 Guide entries:
 SURVEYED BY EDEANP 6011.617.985.777

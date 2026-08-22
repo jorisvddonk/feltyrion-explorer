@@ -1,6 +1,8 @@
-Planet: VANTE
+Moon: VANTE
 Starmap index: 48
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. NOT VERY REFLECTIVE BUT HIGHLY

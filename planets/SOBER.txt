@@ -1,6 +1,8 @@
-Planet: SOBER
+Moon: SOBER
 Starmap index: 22
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

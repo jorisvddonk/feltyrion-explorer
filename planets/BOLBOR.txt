@@ -1,3 +1,5 @@
-Planet: BOLBOR
+Moon: BOLBOR
 Starmap index: 15
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 1

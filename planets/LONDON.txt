@@ -1,6 +1,8 @@
-Planet: LONDON
+Moon: LONDON
 Starmap index: 11
 Paris coordinates: 3128560, 6135234, -428993
+Orbits: MEPHISTO
+Moon id: 5
 
 Guide entries:
  THIS MOON IS MOSTLY COVERED BY OCEANS,

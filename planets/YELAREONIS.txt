@@ -1,3 +1,5 @@
-Planet: YELAREONIS
+Moon: YELAREONIS
 Starmap index: 08
 Paris coordinates: -61808304, 29569120, 567616
+Orbits: MARENIES
+Moon id: 0

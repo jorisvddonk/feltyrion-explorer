@@ -1,6 +1,8 @@
-Planet: DELETUS
+Moon: DELETUS
 Starmap index: 15
 Paris coordinates: 2029875792, -1775088, 340992
+Orbits: CUBYAS
+Moon id: 7
 
 Guide entries:
 M08/P06 FELISIAN. FIRST, THE BAD NEWS: LANDINGS AT 22.80, 231.56,           

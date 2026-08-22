@@ -1,3 +1,5 @@
-Planet: KLARASH
+Moon: KLARASH
 Starmap index: 08
 Paris coordinates: -835344, -14673956, -2040846
+Orbits: GRUEGOR
+Moon id: 0

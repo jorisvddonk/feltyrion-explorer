@@ -1,6 +1,8 @@
-Planet: DERRON
+Moon: DERRON
 Starmap index: 16
 Paris coordinates: 2108208, 4934064, -601836
+Orbits: DERRIMETEA
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.900

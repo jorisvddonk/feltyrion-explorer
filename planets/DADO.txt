@@ -1,6 +1,8 @@
-Planet: DADO
+Moon: DADO
 Starmap index: 20
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: BACKLASH
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. ONE STORM NOTED

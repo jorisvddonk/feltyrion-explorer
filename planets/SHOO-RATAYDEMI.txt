@@ -1,3 +1,5 @@
-Planet: SHOO-RATAYDEMI
+Moon: SHOO-RATAYDEMI
 Starmap index: 11
 Paris coordinates: 2056784, 6465841, -1650892
+Orbits: SENDECA-IRPO
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: VYEJIN
+Moon: VYEJIN
 Starmap index: 13
 Paris coordinates: 2140268528, -2165691, -352139
+Orbits: SOEJY
+Moon id: 0

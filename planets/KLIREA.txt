@@ -1,6 +1,8 @@
-Planet: KLIREA
+Moon: KLIREA
 Starmap index: 10
 Paris coordinates: 2100590128, -1965623, -11495
+Orbits: MORATUS
+Moon id: 1
 
 Guide entries:
 M02/P04 SMALL SOLID DUSTY. VERY REFLECTIVE WITH TRACES OF GREEN. SOME       

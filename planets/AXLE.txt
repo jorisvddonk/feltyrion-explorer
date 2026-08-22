@@ -1,6 +1,8 @@
-Planet: AXLE
+Moon: AXLE
 Starmap index: 34
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH, CRATERED, SOME

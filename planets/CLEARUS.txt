@@ -1,6 +1,8 @@
-Planet: CLEARUS
+Moon: CLEARUS
 Starmap index: 23
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF FAT VIOLET

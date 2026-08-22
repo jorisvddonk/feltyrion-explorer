@@ -1,3 +1,5 @@
-Planet: PARADIVAL
+Moon: PARADIVAL
 Starmap index: 06
 Paris coordinates: 26622544, 6477573, 45308836
+Orbits: planet index 03
+Moon id: 2

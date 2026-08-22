@@ -1,3 +1,5 @@
-Planet: INFANTUS GENESIS
+Moon: INFANTUS GENESIS
 Starmap index: 22
 Paris coordinates: 4177136, 4758332, -2550808
+Orbits: planet index 04
+Moon id: 7

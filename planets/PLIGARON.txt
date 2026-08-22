@@ -1,3 +1,5 @@
-Planet: PLIGARON
+Moon: PLIGARON
 Starmap index: 20
 Paris coordinates: 1583920, -27673265, 361375
+Orbits: POELTSCH
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: THE THORN
+Moon: THE THORN
 Starmap index: 18
 Paris coordinates: 2970352, 3448819, -1792674
+Orbits: SYICTHUS
+Moon id: 0
 
 Guide entries:
 RE-NAMED BY SYICTHUS AFTER HIS CHILDHOOD NICKNAME WHICH HAS STUCK

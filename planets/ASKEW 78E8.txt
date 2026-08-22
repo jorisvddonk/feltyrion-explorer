@@ -1,6 +1,8 @@
-Planet: ASKEW 78E8
+Moon: ASKEW 78E8
 Starmap index: 29
 Paris coordinates: 11727728, -19112154, 18047770
+Orbits: ASKEW 78E
+Moon id: 7
 
 Guide entries:
 FOUND EPOC 6011 588.110.730 BY ROLAND ASKEW

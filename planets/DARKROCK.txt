@@ -1,3 +1,5 @@
-Planet: DARKROCK
+Moon: DARKROCK
 Starmap index: 14
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAW
+Moon id: 1

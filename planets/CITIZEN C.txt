@@ -1,3 +1,5 @@
-Planet: CITIZEN C
+Moon: CITIZEN C
 Starmap index: 24
 Paris coordinates: 3194640, 4015176, -2454232
+Orbits: PLANET HARDWARE
+Moon id: 18

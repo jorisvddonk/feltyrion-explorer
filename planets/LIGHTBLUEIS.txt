@@ -1,3 +1,5 @@
-Planet: LIGHTBLUEIS
+Moon: LIGHTBLUEIS
 Starmap index: 33
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: YIPEETER
+Moon id: 1

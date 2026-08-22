@@ -1,6 +1,8 @@
-Planet: TUOZ
+Moon: TUOZ
 Starmap index: 25
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LIGHT GREY AND QUITE

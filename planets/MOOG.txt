@@ -1,6 +1,8 @@
-Planet: MOOG
+Moon: MOOG
 Starmap index: 10
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED MOON, SURFACE IS MAINLY NATIVE QUARTZ, OXIGEN ATMOSPHERE.

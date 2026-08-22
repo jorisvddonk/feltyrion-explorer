@@ -1,3 +1,5 @@
-Planet: MARDAR 8-3
+Moon: MARDAR 8-3
 Starmap index: 19
 Paris coordinates: 3955696, 4340660, 183683
+Orbits: MARDAR THETA
+Moon id: 2

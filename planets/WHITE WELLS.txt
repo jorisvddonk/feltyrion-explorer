@@ -1,6 +1,8 @@
-Planet: WHITE WELLS
+Moon: WHITE WELLS
 Starmap index: 15
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 9
 
 Guide entries:
 CRATERED MOON OF SANITY WARP ON EKA56. THE CRATERS ARE WHITE WHILE

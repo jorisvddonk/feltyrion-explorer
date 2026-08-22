@@ -1,6 +1,8 @@
-Planet: HELLSOUP
+Moon: HELLSOUP
 Starmap index: 34
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 8
 
 Guide entries:
 A RED HELLWORLD WITH LARGE CRATERS. (SCHMERM 011 584.34)

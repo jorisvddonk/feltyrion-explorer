@@ -1,3 +1,5 @@
-Planet: MORLA
+Moon: MORLA
 Starmap index: 07
 Paris coordinates: -122864, 281953, 1858744
+Orbits: ZEROA 2
+Moon id: 0

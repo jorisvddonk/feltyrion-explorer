@@ -1,3 +1,5 @@
-Planet: GORONH
+Moon: GORONH
 Starmap index: 05
 Paris coordinates: 4158544, 4648509, 2112777
+Orbits: TRAHI
+Moon id: 0

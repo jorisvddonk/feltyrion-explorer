@@ -1,6 +1,8 @@
-Planet: TERTIUS
+Moon: TERTIUS
 Starmap index: 13
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: PALATINE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. NOT

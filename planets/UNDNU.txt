@@ -1,6 +1,8 @@
-Planet: UNDNU
+Moon: UNDNU
 Starmap index: 46
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY ROUGH AND CRATERED.

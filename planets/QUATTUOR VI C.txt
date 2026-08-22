@@ -1,3 +1,5 @@
-Planet: QUATTUOR VI C
+Moon: QUATTUOR VI C
 Starmap index: 25
 Paris coordinates: 3174288, 4345848, -3434396
+Orbits: QUATTUOR VI
+Moon id: 2

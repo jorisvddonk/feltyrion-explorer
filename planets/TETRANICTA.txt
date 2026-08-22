@@ -1,3 +1,5 @@
-Planet: TETRANICTA
+Moon: TETRANICTA
 Starmap index: 14
 Paris coordinates: -37434256, 1637172, 30859794
+Orbits: ATROPOS
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: UBSIS
+Moon: UBSIS
 Starmap index: 20
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A COUPLE OF

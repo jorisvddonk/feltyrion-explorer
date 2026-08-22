@@ -1,3 +1,5 @@
-Planet: QWAHR PREDEX DREA
+Moon: QWAHR PREDEX DREA
 Starmap index: 80
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR PREDEX
+Moon id: 1

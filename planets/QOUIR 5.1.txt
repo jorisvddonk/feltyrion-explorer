@@ -1,6 +1,8 @@
-Planet: QOUIR 5.1
+Moon: QOUIR 5.1
 Starmap index: 13
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 5
+Moon id: 0
 
 Guide entries:
  DUSTY, CRATERISED, NO ATMOSPHERE. SOME BIG CRATERS DETECTED FROM

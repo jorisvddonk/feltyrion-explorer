@@ -1,3 +1,5 @@
-Planet: VERVUYHUHKRAYSIN
+Moon: VERVUYHUHKRAYSIN
 Starmap index: 16
 Paris coordinates: 58564272, -34151242, 927662134
+Orbits: REYEWNGAERGYHUHN
+Moon id: 6

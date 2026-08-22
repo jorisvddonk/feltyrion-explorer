@@ -1,3 +1,5 @@
-Planet: SOFIQNSKI
+Moon: SOFIQNSKI
 Starmap index: 11
 Paris coordinates: 3579984, 4607492, 169632
+Orbits: MIHAILOVA
+Moon id: 0

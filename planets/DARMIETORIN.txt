@@ -1,6 +1,8 @@
-Planet: DARMIETORIN
+Moon: DARMIETORIN
 Starmap index: 09
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: DARMORIN
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY NEURONWAKE EPOC 6011 802.523                             

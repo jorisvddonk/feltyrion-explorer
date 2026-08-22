@@ -1,6 +1,8 @@
-Planet: OORALOU
+Moon: OORALOU
 Starmap index: 14
 Paris coordinates: 732496, 221830, 329207
+Orbits: DRUSTY
+Moon id: 0
 
 Guide entries:
 A ROUGH PLANET, WITH INTERESTING LANDSCAPES, BUT NOT MUCH COLOR.

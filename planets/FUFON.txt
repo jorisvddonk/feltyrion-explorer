@@ -1,6 +1,8 @@
-Planet: FUFON
+Moon: FUFON
 Starmap index: 17
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. FAIR GREY

@@ -1,6 +1,8 @@
-Planet: GILDER
+Moon: GILDER
 Starmap index: 10
 Paris coordinates: -22675216, 619249, -9556300
+Orbits: SONNKAR A
+Moon id: 0
 
 Guide entries:
 SONNKAR 01/04; FELISIAN WORLD

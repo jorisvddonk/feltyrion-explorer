@@ -1,6 +1,8 @@
-Planet: ARCTICE
+Moon: ARCTICE
 Starmap index: 36
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: YORBAN
+Moon id: 3
 
 Guide entries:
 AN ICEWORLD WITH A HIGH ALBEDO. (SCHMERM 6011 593.377)

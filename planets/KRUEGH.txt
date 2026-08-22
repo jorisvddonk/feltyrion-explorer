@@ -1,3 +1,5 @@
-Planet: KRUEGH
+Moon: KRUEGH
 Starmap index: 10
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUERUE
+Moon id: 1

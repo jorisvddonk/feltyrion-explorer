@@ -1,3 +1,5 @@
-Planet: STINKY A
+Moon: STINKY A
 Starmap index: 09
 Paris coordinates: -243216, 861959, 568836
+Orbits: STINKY
+Moon id: 0

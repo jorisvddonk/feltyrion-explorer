@@ -1,3 +1,5 @@
-Planet: NAGATA B
+Moon: NAGATA B
 Starmap index: 09
 Paris coordinates: 4482832, 3728235, 1299762
+Orbits: LINDA NAGATA
+Moon id: 1

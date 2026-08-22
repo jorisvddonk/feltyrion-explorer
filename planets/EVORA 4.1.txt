@@ -1,6 +1,8 @@
-Planet: EVORA 4.1
+Moon: EVORA 4.1
 Starmap index: 11
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 4
+Moon id: 0
 
 Guide entries:
  THE FIRST MOON OF THE GAS-GIANT CALED EVORA 4, IS BECOUSE OF ITS

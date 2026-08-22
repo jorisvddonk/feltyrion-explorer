@@ -1,3 +1,5 @@
-Planet: APOLLINE
+Moon: APOLLINE
 Starmap index: 06
 Paris coordinates: 13203184, 7645538, -6163643
+Orbits: APOLLOS
+Moon id: 0

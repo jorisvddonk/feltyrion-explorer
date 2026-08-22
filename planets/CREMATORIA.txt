@@ -1,3 +1,5 @@
-Planet: CREMATORIA
+Moon: CREMATORIA
 Starmap index: 06
 Paris coordinates: 3921776, 3763420, -1571101
+Orbits: JORGAN
+Moon id: 2

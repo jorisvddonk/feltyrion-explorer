@@ -1,3 +1,5 @@
-Planet: 259560
+Moon: 259560
 Starmap index: 22
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 15

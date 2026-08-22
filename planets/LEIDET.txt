@@ -1,6 +1,8 @@
-Planet: LEIDET
+Moon: LEIDET
 Starmap index: 41
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE DARK LOOKING

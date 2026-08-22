@@ -1,6 +1,8 @@
-Planet: REACRIS
+Moon: REACRIS
 Starmap index: 25
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: PARFHSTREYA
+Moon id: 16
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:404

@@ -1,6 +1,8 @@
-Planet: FARADAR N
+Moon: FARADAR N
 Starmap index: 20
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 13
 
 Guide entries:
 NEON PURPLE, AIRLESS, LARGE CRATERS. (SCHMERM 6011 584.162)

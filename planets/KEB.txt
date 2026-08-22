@@ -1,6 +1,8 @@
-Planet: KEB
+Moon: KEB
 Starmap index: 23
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 12
 
 Guide entries:
 A THIRD GAS GIANT MOON OF BREYUS. KEB IS VERY VERY BRIGHT, INDICATING

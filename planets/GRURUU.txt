@@ -1,3 +1,5 @@
-Planet: GRURUU
+Moon: GRURUU
 Starmap index: 27
 Paris coordinates: -2162480, -7768489, -2349162
+Orbits: HJUK
+Moon id: 4

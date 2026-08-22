@@ -1,6 +1,8 @@
-Planet: GRADYRIA 3.2
+Moon: GRADYRIA 3.2
 Starmap index: 07
 Paris coordinates: 4990704, 5477580, -2586619
+Orbits: GRADYRIA 2.0
+Moon id: 2
 
 Guide entries:
  A FELISIAN PLANET IN THA THE MUTLIPLE GRADYRIA SYSTEM.

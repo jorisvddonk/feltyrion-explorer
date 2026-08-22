@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 2
+Moon: CONGLOMOON 2
 Starmap index: 18
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 12
 
 Guide entries:
 SOLID, WITH AN ATMOSPHERE! ALSO HAS WHAT APPEAR TO BE ICE CAPS!

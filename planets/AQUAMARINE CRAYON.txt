@@ -1,3 +1,5 @@
-Planet: AQUAMARINE CRAYON
+Moon: AQUAMARINE CRAYON
 Starmap index: 29
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: VIOLET CRAYON
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: SUFLARA
+Moon: SUFLARA
 Starmap index: 29
 Paris coordinates: 3252848, 5675194, -1215611
+Orbits: GSAG
+Moon id: 3

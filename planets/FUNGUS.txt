@@ -1,3 +1,5 @@
-Planet: FUNGUS
+Moon: FUNGUS
 Starmap index: 21
 Paris coordinates: -64835440, 29718498, 1969366
+Orbits: LONGERBOW
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: FLYING CHEESE
+Moon: FLYING CHEESE
 Starmap index: 18
 Paris coordinates: 3163568, 4855203, -2328742
+Orbits: ISLAND OF LIFE
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: RHIA
+Moon: RHIA
 Starmap index: 15
 Paris coordinates: -85008, 1143030, 1966563
+Orbits: TURASAL
+Moon id: 3
 
 Guide entries:
 THE MOST COLOURFUL PLACE IN THE SYSTEM YET.

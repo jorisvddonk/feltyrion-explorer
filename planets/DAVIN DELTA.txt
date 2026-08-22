@@ -1,6 +1,8 @@
-Planet: DAVIN DELTA
+Moon: DAVIN DELTA
 Starmap index: 36
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET DAVIN THE GENISI SYSTEM

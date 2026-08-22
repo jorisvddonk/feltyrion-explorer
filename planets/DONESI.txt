@@ -1,6 +1,8 @@
-Planet: DONESI
+Moon: DONESI
 Starmap index: 20
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE. I DON'T NEED TO SAY

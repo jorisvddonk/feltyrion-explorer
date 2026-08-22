@@ -1,6 +1,8 @@
-Planet: GRBROK
+Moon: GRBROK
 Starmap index: 23
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 4
 
 Guide entries:
 THIIS REALLY GETTING OUT OF HAND..

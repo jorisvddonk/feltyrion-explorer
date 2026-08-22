@@ -1,3 +1,5 @@
-Planet: PHALAE
+Moon: PHALAE
 Starmap index: 14
 Paris coordinates: 763568, 121186, 4975
+Orbits: TING
+Moon id: 4

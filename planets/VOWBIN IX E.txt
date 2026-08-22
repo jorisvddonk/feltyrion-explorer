@@ -1,6 +1,8 @@
-Planet: VOWBIN IX E
+Moon: VOWBIN IX E
 Starmap index: 33
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 4
 
 Guide entries:
 RED ICEWORLD WITH BLACK CANALS. (SCHMERM 6011 600.721)

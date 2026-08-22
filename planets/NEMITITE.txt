@@ -1,6 +1,8 @@
-Planet: NEMITITE
+Moon: NEMITITE
 Starmap index: 11
 Paris coordinates: 732496, 221830, 329207
+Orbits: HASKEN
+Moon id: 2
 
 Guide entries:
 VERY DRY, BORING MOON WITH LOW GRAVITY.

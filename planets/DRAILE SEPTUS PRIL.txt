@@ -1,3 +1,5 @@
-Planet: DRAILE SEPTUS PRIL
+Moon: DRAILE SEPTUS PRIL
 Starmap index: 27
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE SEPTUS
+Moon id: 0

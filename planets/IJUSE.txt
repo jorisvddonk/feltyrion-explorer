@@ -1,6 +1,8 @@
-Planet: IJUSE
+Moon: IJUSE
 Starmap index: 23
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 7
 
 Guide entries:
 M08/P07 SMALL SOLID DUSTY LARGE CRATERS ON A GREEN SURFACE. PRO             

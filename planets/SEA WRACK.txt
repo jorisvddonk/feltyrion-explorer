@@ -1,6 +1,8 @@
-Planet: SEA WRACK
+Moon: SEA WRACK
 Starmap index: 80
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: FAULT ZONE
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SEMMS TO BE MORE GROOVED.

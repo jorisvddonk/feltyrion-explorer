@@ -1,6 +1,8 @@
-Planet: ZENITH POINT
+Moon: ZENITH POINT
 Starmap index: 77
 Paris coordinates: 3552848, 4633415, -1501152
+Orbits: ZENITH
+Moon id: 15
 
 Guide entries:
 THIS MOON IS NOT MUCH MORE THAN A BARREN ROCK

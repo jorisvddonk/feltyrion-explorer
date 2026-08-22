@@ -1,6 +1,8 @@
-Planet: CYDESU
+Moon: CYDESU
 Starmap index: 32
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: NEONAS
+Moon id: 6
 
 Guide entries:
 A DUSTY MOON, THE SEVENTH OF THE FOURTH PLANET. CYAN TO CREAM AND EVEN

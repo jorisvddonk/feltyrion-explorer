@@ -1,6 +1,8 @@
-Planet: LUMINA 0
+Moon: LUMINA 0
 Starmap index: 16
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: GASIOUS
+Moon id: 1
 
 Guide entries:
  FINALLY WE HAVE FOUND SOMETHING INTERESTING. OUR HISTORIANS HAVE

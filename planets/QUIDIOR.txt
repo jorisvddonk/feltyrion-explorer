@@ -1,6 +1,8 @@
-Planet: QUIDIOR
+Moon: QUIDIOR
 Starmap index: 13
 Paris coordinates: 1343216, 4776878, -1622774
+Orbits: planet index 03
+Moon id: 2
 
 Guide entries:
 PLANET DISCOVERED BY ATTRADIS, EPOC 6011:600.13

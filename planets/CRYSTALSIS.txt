@@ -1,3 +1,5 @@
-Planet: CRYSTALSIS
+Moon: CRYSTALSIS
 Starmap index: 23
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: planet index 13
+Moon id: 1

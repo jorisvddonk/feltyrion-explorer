@@ -1,6 +1,8 @@
-Planet: ANSA
+Moon: ANSA
 Starmap index: 19
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, GOOD POLAR CAPS. SKINNYMON

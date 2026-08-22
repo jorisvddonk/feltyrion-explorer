@@ -1,6 +1,8 @@
-Planet: CIV
+Moon: CIV
 Starmap index: 09
 Paris coordinates: 2552848, 5341525, -241069
+Orbits: DISLOCATE
+Moon id: 2
 
 Guide entries:
 THE SURFACE OF THIS PLANET GIVES A SENSE OF WHAT A MARTIAN DAWN

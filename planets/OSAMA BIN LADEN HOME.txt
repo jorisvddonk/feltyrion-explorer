@@ -1,6 +1,8 @@
-Planet: OSAMA BIN LADEN HOME
+Moon: OSAMA BIN LADEN HOME
 Starmap index: 32
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: MEVUS
+Moon id: 0
 
 Guide entries:
 LARGER THAN A PRISON CELL, INFERNALLY HOT, SURFACE AS

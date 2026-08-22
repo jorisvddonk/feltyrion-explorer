@@ -1,6 +1,8 @@
-Planet: BRELLEGROSTREYA
+Moon: BRELLEGROSTREYA
 Starmap index: 10
 Paris coordinates: 147056, 7086, 1986076718
+Orbits: DELFO JAG 2
+Moon id: 3
 
 Guide entries:
 ROLAND ASKEW (EPOC 6011 597.109)

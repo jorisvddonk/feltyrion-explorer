@@ -1,6 +1,8 @@
-Planet: MAGNETO
+Moon: MAGNETO
 Starmap index: 77
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PARAPET
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A DARKLY REFLECTIVE WORLD

@@ -1,6 +1,8 @@
-Planet: GREDET
+Moon: GREDET
 Starmap index: 08
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: PIDA
+Moon id: 1
 
 Guide entries:
 GREEN MOON, COVERED WITH CRATERS, HILLS, AND OTHER MISC. THINGS.

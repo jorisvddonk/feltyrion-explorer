@@ -1,6 +1,8 @@
-Planet: MIRACULUS
+Moon: MIRACULUS
 Starmap index: 41
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 13
 
 Guide entries:
  NO, THIS CANT BE. ITS IMPOSSIBLE! WE HAVE DISCOVERED A FELISIAN

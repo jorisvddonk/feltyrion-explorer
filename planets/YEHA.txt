@@ -1,6 +1,8 @@
-Planet: YEHA
+Moon: YEHA
 Starmap index: 16
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: GEI
+Moon id: 2
 
 Guide entries:
 YES!!! FINALLY!!! A FELISIAN PLANET... THOUGH IT'S A MOON OF GEI WHICH      

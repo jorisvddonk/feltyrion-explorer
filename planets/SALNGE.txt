@@ -1,3 +1,5 @@
-Planet: SALNGE
+Moon: SALNGE
 Starmap index: 41
 Paris coordinates: 9252848, 5586893, -7007054
+Orbits: KONGE
+Moon id: 1

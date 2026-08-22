@@ -1,6 +1,8 @@
-Planet: SUVAA'IDHES
+Moon: SUVAA'IDHES
 Starmap index: 15
 Paris coordinates: -1521346320, -1701020, -1370627468
+Orbits: NOCHUT III
+Moon id: 3
 
 Guide entries:
 NOCHUT 04/03; QUARTZ

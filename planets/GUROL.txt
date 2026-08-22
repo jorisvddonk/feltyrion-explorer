@@ -1,6 +1,8 @@
-Planet: GUROL
+Moon: GUROL
 Starmap index: 16
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SOME LIGHT AREAS TRACEABLE,

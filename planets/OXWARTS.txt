@@ -1,3 +1,5 @@
-Planet: OXWARTS
+Moon: OXWARTS
 Starmap index: 39
 Paris coordinates: 377136, 935675, 1401841
+Orbits: planet index 04
+Moon id: 9

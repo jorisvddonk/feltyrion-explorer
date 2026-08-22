@@ -1,6 +1,8 @@
-Planet: LIOCES
+Moon: LIOCES
 Starmap index: 35
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 9
 
 Guide entries:
 A HELLWORLD. IMPOSSIBLE TO LAND. (SCHMERM 6011 584.34)

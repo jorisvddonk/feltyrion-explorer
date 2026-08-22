@@ -1,3 +1,5 @@
-Planet: NEKK
+Moon: NEKK
 Starmap index: 11
 Paris coordinates: 4142128, 4782625, -641787
+Orbits: DEK
+Moon id: 2

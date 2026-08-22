@@ -1,3 +1,5 @@
-Planet: ARCUREIN DRAMAI
+Moon: ARCUREIN DRAMAI
 Starmap index: 17
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: ARCUREIN WEREING
+Moon id: 6

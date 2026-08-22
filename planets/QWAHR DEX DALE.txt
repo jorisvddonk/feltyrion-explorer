@@ -1,3 +1,5 @@
-Planet: QWAHR DEX DALE
+Moon: QWAHR DEX DALE
 Starmap index: 77
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 11

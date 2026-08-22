@@ -1,6 +1,8 @@
-Planet: GRAP
+Moon: GRAP
 Starmap index: 47
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 3
 
 Guide entries:
 AN AVERAGE ICY MOON. LOOKS PRETTY FROM SPACE, BUT THE SURFACE IS TOO DARK

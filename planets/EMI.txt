@@ -1,6 +1,8 @@
-Planet: EMI
+Moon: EMI
 Starmap index: 09
 Paris coordinates: 6007120, 4721244, -713119
+Orbits: MORNING BELL
+Moon id: 1
 
 Guide entries:
 SECOND PLANET OF THE FIRST COMPANION STAR (MORNING BELL) OF THE AMNESIAC

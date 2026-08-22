@@ -1,6 +1,8 @@
-Planet: QOUIR 7.6
+Moon: QOUIR 7.6
 Starmap index: 19
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 5
 
 Guide entries:
  A STRANGE, GREEN-LOOKING PLANET, WITH A THIN ATMOSPHERE.

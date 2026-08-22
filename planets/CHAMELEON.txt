@@ -1,3 +1,5 @@
-Planet: CHAMELEON
+Moon: CHAMELEON
 Starmap index: 11
 Paris coordinates: 12144, 354769, -222098
+Orbits: planet index 04
+Moon id: 1

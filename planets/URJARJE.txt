@@ -1,6 +1,8 @@
-Planet: URJARJE
+Moon: URJARJE
 Starmap index: 29
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: HLITIATIM
+Moon id: 1
 
 Guide entries:
 M02P10, CRATERIZED AND DUSTY, PRO 0.242.280, PRV 0.004.168.766 ///

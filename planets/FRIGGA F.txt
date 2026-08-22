@@ -1,6 +1,8 @@
-Planet: FRIGGA F
+Moon: FRIGGA F
 Starmap index: 33
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 5
 
 Guide entries:
 A FOURTH ICEWORLD MOON. (SCHMERM 6011 582.418)

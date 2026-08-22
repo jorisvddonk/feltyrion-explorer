@@ -1,6 +1,8 @@
-Planet: DEMENTED
+Moon: DEMENTED
 Starmap index: 22
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 16
 
 Guide entries:
 FELISIAN MOON OF SANITY WARP ON EKA56. INTERESTING BLUE COLOR, THE

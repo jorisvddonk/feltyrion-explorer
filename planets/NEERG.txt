@@ -1,6 +1,8 @@
-Planet: NEERG
+Moon: NEERG
 Starmap index: 34
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 8
 
 Guide entries:
 AN AVERAGE, GREEN, DUSTY MOON. LAND FEATURES ARE AVERAGE. HILLS,

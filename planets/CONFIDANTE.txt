@@ -1,3 +1,5 @@
-Planet: CONFIDANTE
+Moon: CONFIDANTE
 Starmap index: 26
 Paris coordinates: 3714992, 5004837, -1766171
+Orbits: SISTER LOVED BY ALL
+Moon id: 13

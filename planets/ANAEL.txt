@@ -1,6 +1,8 @@
-Planet: ANAEL
+Moon: ANAEL
 Starmap index: 06
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: ADONAI
+Moon id: 1
 
 Guide entries:
 DEAD MOON, NO ATMOSPHERE

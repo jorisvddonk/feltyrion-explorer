@@ -1,3 +1,5 @@
-Planet: FORAT
+Moon: FORAT
 Starmap index: 15
 Paris coordinates: 270352, 5086437, 857022
+Orbits: ROWLING
+Moon id: 2

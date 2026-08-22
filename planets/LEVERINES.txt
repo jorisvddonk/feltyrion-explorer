@@ -1,3 +1,5 @@
-Planet: LEVERINES
+Moon: LEVERINES
 Starmap index: 34
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: SOLIDARIS
+Moon id: 0

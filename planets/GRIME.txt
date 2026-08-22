@@ -1,3 +1,5 @@
-Planet: GRIME
+Moon: GRIME
 Starmap index: 27
 Paris coordinates: 663568, 1836709, 279372
+Orbits: PLUR NOK
+Moon id: 1

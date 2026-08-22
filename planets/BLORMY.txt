@@ -1,6 +1,8 @@
-Planet: BLORMY
+Moon: BLORMY
 Starmap index: 23
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 14
 
 Guide entries:
 A SMALL AIRLESS PLANET, YELLOWISH SURFACE, AND BROWNISH SHADOWS OR

@@ -1,3 +1,5 @@
-Planet: MAGICIAN
+Moon: MAGICIAN
 Starmap index: 27
 Paris coordinates: -729648, -55940, 1873342
+Orbits: PINK PANTHER
+Moon id: 5

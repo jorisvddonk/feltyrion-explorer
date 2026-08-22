@@ -1,3 +1,5 @@
-Planet: SOLRETU
+Moon: SOLRETU
 Starmap index: 49
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: BYASERAWEECMONIBLY
+Moon id: 6

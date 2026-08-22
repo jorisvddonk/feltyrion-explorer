@@ -1,6 +1,8 @@
-Planet: FRELPIK
+Moon: FRELPIK
 Starmap index: 80
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 8
 
 Guide entries:
 A FELIS...-NO, YOU STARDRIFTERS WOULD HUNT ME DOWN LIKE A WOOFER IF I

@@ -1,6 +1,8 @@
-Planet: GRUM
+Moon: GRUM
 Starmap index: 08
 Paris coordinates: 181072, 146421, -286406
+Orbits: KLEFTY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK WITH ONE LIGHT SPOT NOTED, FAIR

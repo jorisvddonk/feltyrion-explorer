@@ -1,3 +1,5 @@
-Planet: RADAX ERIN 4D
+Moon: RADAX ERIN 4D
 Starmap index: 09
 Paris coordinates: -39623536, 1498313, 31452219
+Orbits: RADAX ERIN 4
+Moon id: 3

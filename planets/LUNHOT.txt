@@ -1,6 +1,8 @@
-Planet: LUNHOT
+Moon: LUNHOT
 Starmap index: 15
 Paris coordinates: 5555696, 6149718, -1148640
+Orbits: SEGUNDON
+Moon id: 6
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.681.918 -                               

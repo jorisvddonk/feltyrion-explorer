@@ -1,3 +1,5 @@
-Planet: THAVUL
+Moon: THAVUL
 Starmap index: 06
 Paris coordinates: -120016, 5320411, 4043507
+Orbits: REINA DE LOS ANGELES
+Moon id: 1

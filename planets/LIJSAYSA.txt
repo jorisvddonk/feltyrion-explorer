@@ -1,6 +1,8 @@
-Planet: LIJSAYSA
+Moon: LIJSAYSA
 Starmap index: 10
 Paris coordinates: 2052562480, 532725, 204773
+Orbits: ODFHNOJAME
+Moon id: 5
 
 Guide entries:
 M06/P03 SMALL SOLID DUSTY, HAS A BRIGHT WHITE REFLECTIVITY WITH             

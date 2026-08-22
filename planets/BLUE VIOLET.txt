@@ -1,3 +1,5 @@
-Planet: BLUE VIOLET
+Moon: BLUE VIOLET
 Starmap index: 25
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: VIOLET CRAYON
+Moon id: 0

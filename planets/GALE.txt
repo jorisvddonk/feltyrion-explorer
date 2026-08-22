@@ -1,6 +1,8 @@
-Planet: GALE
+Moon: GALE
 Starmap index: 53
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED. SKINNYMON EPOC

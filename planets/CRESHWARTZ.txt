@@ -1,6 +1,8 @@
-Planet: CRESHWARTZ
+Moon: CRESHWARTZ
 Starmap index: 06
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY B
+Moon id: 0
 
 Guide entries:
 A ROCKY AIRLESS PLANET WITH NO CRATERS BUT LOTS OF RIDGES.

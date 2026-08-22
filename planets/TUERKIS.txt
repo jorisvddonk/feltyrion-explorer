@@ -1,3 +1,5 @@
-Planet: TUERKIS
+Moon: TUERKIS
 Starmap index: 12
 Paris coordinates: -1766416, -6455599, -921319
+Orbits: GURION
+Moon id: 6

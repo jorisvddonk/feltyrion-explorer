@@ -1,6 +1,8 @@
-Planet: NOIRO 4.1
+Moon: NOIRO 4.1
 Starmap index: 10
 Paris coordinates: 1491792, 10700311, -2916727
+Orbits: NOIRO 4
+Moon id: 0
 
 Guide entries:
  THIS MOON HAS A VERY THIN ATMOSPHERE, BUT IS MOSTLY COLD AND ROCKY.

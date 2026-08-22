@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 12
+Moon: CONGLOMOON 12
 Starmap index: 15
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 9
 
 Guide entries:
 A NICE PURPLE MOON. -EPOC 6011 584.117.500 BY PROF.CALLAHAN.

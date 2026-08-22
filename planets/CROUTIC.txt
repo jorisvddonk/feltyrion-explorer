@@ -1,6 +1,8 @@
-Planet: CROUTIC
+Moon: CROUTIC
 Starmap index: 21
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. VERY

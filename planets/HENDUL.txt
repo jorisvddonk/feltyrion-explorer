@@ -1,6 +1,8 @@
-Planet: HENDUL
+Moon: HENDUL
 Starmap index: 07
 Paris coordinates: 1053936, 4524978, -2738928
+Orbits: ANIMALIX
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE,SOMEWHAT DARKER, HAS A BRIGHT LIGHT SPOT,

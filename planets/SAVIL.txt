@@ -1,6 +1,8 @@
-Planet: SAVIL
+Moon: SAVIL
 Starmap index: 29
 Paris coordinates: -683920, -11230, -1166048
+Orbits: KIET 3
+Moon id: 12
 
 Guide entries:
 KIET 13/03

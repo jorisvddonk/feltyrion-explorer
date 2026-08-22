@@ -1,3 +1,5 @@
-Planet: CHRISTIANIA
+Moon: CHRISTIANIA
 Starmap index: 43
 Paris coordinates: 9252848, 5586893, -7007054
+Orbits: KONGE
+Moon id: 3

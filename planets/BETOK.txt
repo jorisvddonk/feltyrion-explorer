@@ -1,6 +1,8 @@
-Planet: BETOK
+Moon: BETOK
 Starmap index: 16
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, GOOD POLAR CAPS. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: ENATON
+Moon: ENATON
 Starmap index: 14
 Paris coordinates: 43216, 394196, -236960
+Orbits: SMARAG
+Moon id: 7
 
 Guide entries:
 DISCOVERED BY FOTIOS. EPOC 6011:609.544

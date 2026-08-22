@@ -1,6 +1,8 @@
-Planet: SILVER TEAL
+Moon: SILVER TEAL
 Starmap index: 17
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 9
 
 Guide entries:
 AN ODD-COLORED CRATERED MOON OF INSANE ON EKA75. I THOUGHT THE

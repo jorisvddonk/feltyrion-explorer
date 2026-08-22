@@ -1,6 +1,8 @@
-Planet: BRAEDRENIA
+Moon: BRAEDRENIA
 Starmap index: 24
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 10
 
 Guide entries:
 THICK ATMOSPHERE, DULL DIFFUSE GREEN, FGS 0.87, TEMP 55, ATM PRS 39.75,

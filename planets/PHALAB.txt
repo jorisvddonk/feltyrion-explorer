@@ -1,6 +1,8 @@
-Planet: PHALAB
+Moon: PHALAB
 Starmap index: 11
 Paris coordinates: 763568, 121186, 4975
+Orbits: TING
+Moon id: 1
 
 Guide entries:
 DISCOVERED E6011.578.3 BY DAVIN FELTH

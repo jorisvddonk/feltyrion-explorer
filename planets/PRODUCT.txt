@@ -1,6 +1,8 @@
-Planet: PRODUCT
+Moon: PRODUCT
 Starmap index: 04
 Paris coordinates: 3773200, 4346237, -487472
+Orbits: JET-BLACK
+Moon id: 0
 
 Guide entries:
 WITH TEMPERATURES OF OVER 300 DEGREES, THIS IS THE HOTTEST 'ICY'            

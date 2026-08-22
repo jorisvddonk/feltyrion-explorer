@@ -1,3 +1,5 @@
-Planet: GRAY ICE
+Moon: GRAY ICE
 Starmap index: 46
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: PURPLE RAIN
+Moon id: 4

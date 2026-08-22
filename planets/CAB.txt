@@ -1,6 +1,8 @@
-Planet: CAB
+Moon: CAB
 Starmap index: 19
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: BACKLASH
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. SLIGHTLY DARK, GOOD POLAR CAPS. SKINNYMON

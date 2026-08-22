@@ -1,6 +1,8 @@
-Planet: CHILDREN OF THE MIND
+Moon: CHILDREN OF THE MIND
 Starmap index: 07
 Paris coordinates: 3563568, 4722361, -2721466
+Orbits: MIRO
+Moon id: 0
 
 Guide entries:
 BY LIONO0

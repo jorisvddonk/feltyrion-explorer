@@ -1,3 +1,5 @@
-Planet: SACO DE AREIA
+Moon: SACO DE AREIA
 Starmap index: 04
 Paris coordinates: 3090704, 4686833, -647137
+Orbits: SARAIVA
+Moon id: 0

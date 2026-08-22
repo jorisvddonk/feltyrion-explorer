@@ -1,3 +1,5 @@
-Planet: JUNKA
+Moon: JUNKA
 Starmap index: 15
 Paris coordinates: 14464240, 9025215, -3731651
+Orbits: MOONEEN
+Moon id: 7

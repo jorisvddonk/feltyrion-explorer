@@ -1,3 +1,5 @@
-Planet: ASTAROTH
+Moon: ASTAROTH
 Starmap index: 44
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: HUAERIAN
+Moon id: 8

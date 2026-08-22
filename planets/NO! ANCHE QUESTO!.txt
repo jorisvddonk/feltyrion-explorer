@@ -1,3 +1,5 @@
-Planet: NO! ANCHE QUESTO!
+Moon: NO! ANCHE QUESTO!
 Starmap index: 44
 Paris coordinates: 2521776, 5015370, -132554
+Orbits: TRISTE
+Moon id: 17

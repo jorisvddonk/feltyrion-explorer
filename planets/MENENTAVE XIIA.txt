@@ -1,6 +1,8 @@
-Planet: MENENTAVE XIIA
+Moon: MENENTAVE XIIA
 Starmap index: 45
 Paris coordinates: -56784, -84307, -221013
+Orbits: MENENTAVE XII
+Moon id: 0
 
 Guide entries:
 AN ICEWORLD MOON. (SCHMERM 6011 582.419)

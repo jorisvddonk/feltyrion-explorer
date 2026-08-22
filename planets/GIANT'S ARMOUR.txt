@@ -1,6 +1,8 @@
-Planet: GIANT'S ARMOUR
+Moon: GIANT'S ARMOUR
 Starmap index: 15
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.693

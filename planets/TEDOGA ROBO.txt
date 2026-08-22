@@ -1,6 +1,8 @@
-Planet: TEDOGA ROBO
+Moon: TEDOGA ROBO
 Starmap index: 20
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 15
 
 Guide entries:
 16TH MOON OF RUFUSA. OXYGEN ATMOSPHERE AND MAINLY QUARTZ SURFACE

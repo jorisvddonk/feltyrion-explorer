@@ -1,6 +1,8 @@
-Planet: LON
+Moon: LON
 Starmap index: 17
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: GEI
+Moon id: 3
 
 Guide entries:
 ANOTHER PIECE OF JUNK, I'M GETTING REALLY FRUSTRATED. ALL THESE PLANETS...  

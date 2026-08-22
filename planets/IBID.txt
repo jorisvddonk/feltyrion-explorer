@@ -1,6 +1,8 @@
-Planet: IBID
+Moon: IBID
 Starmap index: 19
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE,

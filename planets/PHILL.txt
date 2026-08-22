@@ -1,3 +1,5 @@
-Planet: PHILL
+Moon: PHILL
 Starmap index: 32
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: ELMO
+Moon id: 0

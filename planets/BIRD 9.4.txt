@@ -1,6 +1,8 @@
-Planet: BIRD 9.4
+Moon: BIRD 9.4
 Starmap index: 19
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 9
+Moon id: 3
 
 Guide entries:
 THIS DESCRIPTION IS GOING TO APPEAR REALLY OFTEN, SO BE PREPARED:

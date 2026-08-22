@@ -1,3 +1,5 @@
-Planet: LASCA-ENRTI
+Moon: LASCA-ENRTI
 Starmap index: 18
 Paris coordinates: 226800, 1068249, -3393825
+Orbits: GOWLAEDO
+Moon id: 11

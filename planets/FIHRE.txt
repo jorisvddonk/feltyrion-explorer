@@ -1,6 +1,8 @@
-Planet: FIHRE
+Moon: FIHRE
 Starmap index: 17
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: TELMAK
+Moon id: 1
 
 Guide entries:
 INTERNALLY HOT. LOOKS NICE, BUT IT'S NOT INTERESTING.

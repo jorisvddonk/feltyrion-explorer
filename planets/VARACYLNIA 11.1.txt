@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 11.1
+Moon: VARACYLNIA 11.1
 Starmap index: 39
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 11
+Moon id: 0
 
 Guide entries:
  A NORMAL TZ *THIRD ZONE* OBJECT: ROCKY, CRATERIZED,

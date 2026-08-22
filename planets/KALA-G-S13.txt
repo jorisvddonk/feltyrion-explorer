@@ -1,3 +1,5 @@
-Planet: KALA-G-S13
+Moon: KALA-G-S13
 Starmap index: 31
 Paris coordinates: 3841456, -366310, -9972918
+Orbits: KALA-G
+Moon id: 12

@@ -1,3 +1,5 @@
-Planet: GROWL
+Moon: GROWL
 Starmap index: 09
 Paris coordinates: 5576048, 4858380, 29991
+Orbits: PETTYMYS
+Moon id: 3

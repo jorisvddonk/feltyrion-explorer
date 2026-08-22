@@ -1,6 +1,8 @@
-Planet: DRYNUR
+Moon: DRYNUR
 Starmap index: 08
 Paris coordinates: 2140364592, -691520, 1231760
+Orbits: FENISFH
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL DUSTY CRATERIZED WITH VERY LARGE CRATERS. LIGHT GREYISH       

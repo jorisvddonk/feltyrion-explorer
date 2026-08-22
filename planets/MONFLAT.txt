@@ -1,3 +1,5 @@
-Planet: MONFLAT
+Moon: MONFLAT
 Starmap index: 15
 Paris coordinates: 1485008, 4177919, -3294996
+Orbits: FIREGLOBE
+Moon id: 9

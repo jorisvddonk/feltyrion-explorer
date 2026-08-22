@@ -1,6 +1,8 @@
-Planet: IMPAU
+Moon: IMPAU
 Starmap index: 32
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: ERNOST
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE WITH

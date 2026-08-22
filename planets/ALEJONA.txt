@@ -1,6 +1,8 @@
-Planet: ALEJONA
+Moon: ALEJONA
 Starmap index: 07
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 3
 
 Guide entries:
 M04/P03 MEDIUM SIZE ROCKY, VERY ROUGH AND VERY SCARRED WITH A GREY          

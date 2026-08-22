@@ -1,6 +1,8 @@
-Planet: BRAN
+Moon: BRAN
 Starmap index: 06
 Paris coordinates: 5968016, 5031694, 39757796
+Orbits: PYROLITEMP
+Moon id: 2
 
 Guide entries:
 AN AVERAGE, DUSTY MOON AROUND THE FELYSIAN PLANET. COLORS ARE USUALLY

@@ -1,6 +1,8 @@
-Planet: NOMEN NESCIO
+Moon: NOMEN NESCIO
 Starmap index: 35
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS MAXIMA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID MOON. DUSTY, CRATERED AND NO ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: VOWBIN VI C
+Moon: VOWBIN VI C
 Starmap index: 17
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VI
+Moon id: 2
 
 Guide entries:
 YELLOW DEADWORLD. HAS ONE PARTICULARLY LARGE AND PAINFUL-LOOKING

@@ -1,6 +1,8 @@
-Planet: QUADRATA
+Moon: QUADRATA
 Starmap index: 51
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: SABULOSE
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. ACTUALLY DUSTY WITH SOME

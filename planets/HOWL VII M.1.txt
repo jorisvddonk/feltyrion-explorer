@@ -1,6 +1,8 @@
-Planet: HOWL VII M.1
+Moon: HOWL VII M.1
 Starmap index: 21
 Paris coordinates: 4666416, 3329333, -1614139
+Orbits: HOWL VII
+Moon id: 0
 
 Guide entries:
  HOWL VII M.1 DISCOVERED EPOC 6011 TRIADS 661.196.455

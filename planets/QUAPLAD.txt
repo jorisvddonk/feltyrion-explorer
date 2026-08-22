@@ -1,6 +1,8 @@
-Planet: QUAPLAD
+Moon: QUAPLAD
 Starmap index: 25
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: SAFEN
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A BLUE

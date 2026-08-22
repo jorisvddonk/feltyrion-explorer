@@ -1,6 +1,8 @@
-Planet: TREASSA
+Moon: TREASSA
 Starmap index: 14
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: PARFHSTREYA
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:403

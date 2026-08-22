@@ -1,3 +1,5 @@
-Planet: PRI
+Moon: PRI
 Starmap index: 09
 Paris coordinates: 4214992, 4830216, -2254873
+Orbits: FINANOON
+Moon id: 0

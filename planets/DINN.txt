@@ -1,3 +1,5 @@
-Planet: DINN
+Moon: DINN
 Starmap index: 19
 Paris coordinates: 570352, -17743, 592279
+Orbits: NOTASTAR
+Moon id: 7

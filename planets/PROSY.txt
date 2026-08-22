@@ -1,6 +1,8 @@
-Planet: PROSY
+Moon: PROSY
 Starmap index: 23
 Paris coordinates: -218928, 44011, 180703
+Orbits: ROLEAU
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. TURBID WITH

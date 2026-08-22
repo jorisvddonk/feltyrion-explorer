@@ -1,6 +1,8 @@
-Planet: AKRITORI XIV
+Moon: AKRITORI XIV
 Starmap index: 35
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: AKRITORI
+Moon id: 13
 
 Guide entries:
 DISCOVERED BY NEURONWAKE EPOC 6011 802.544.503                              

@@ -1,6 +1,8 @@
-Planet: DEIFE
+Moon: DEIFE
 Starmap index: 17
 Paris coordinates: 3214992, 4579458, -1223743
+Orbits: ISSINIESI
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. MILDLY REFLECTIVE, GREYISH

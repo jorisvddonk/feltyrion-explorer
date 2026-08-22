@@ -1,6 +1,8 @@
-Planet: PELINK
+Moon: PELINK
 Starmap index: 10
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT B
+Moon id: 1
 
 Guide entries:
 PINK TO GREYISH PLANET, VERY ROUGH SURFACE CONTAINING SHARP HILLS,

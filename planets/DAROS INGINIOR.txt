@@ -1,3 +1,5 @@
-Planet: DAROS INGINIOR
+Moon: DAROS INGINIOR
 Starmap index: 06
 Paris coordinates: 4158544, 4648509, 2112777
+Orbits: MIWKILIUOAENAR
+Moon id: 0

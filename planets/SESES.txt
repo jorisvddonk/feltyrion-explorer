@@ -1,3 +1,5 @@
-Planet: SESES
+Moon: SESES
 Starmap index: 15
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: JAKAB
+Moon id: 0

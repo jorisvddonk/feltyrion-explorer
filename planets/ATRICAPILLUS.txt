@@ -1,3 +1,5 @@
-Planet: ATRICAPILLUS
+Moon: ATRICAPILLUS
 Starmap index: 22
 Paris coordinates: -61501520, 29941691, 642079
+Orbits: MICROPUS
+Moon id: 0

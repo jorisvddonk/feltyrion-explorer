@@ -1,6 +1,8 @@
-Planet: LOMOL
+Moon: LOMOL
 Starmap index: 16
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: SYKENT
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, YELLOWISH

@@ -1,6 +1,8 @@
-Planet: BYORIU
+Moon: BYORIU
 Starmap index: 20
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 3
 
 Guide entries:
 FORTH MOON OF FAT VIOLET

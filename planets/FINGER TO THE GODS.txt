@@ -1,6 +1,8 @@
-Planet: FINGER TO THE GODS
+Moon: FINGER TO THE GODS
 Starmap index: 07
 Paris coordinates: 36432, 433110, -621435
+Orbits: DES3
+Moon id: 0
 
 Guide entries:
 LOCATED AT LQ 173:108 IS AN EXTREMELY HIGH PEAK

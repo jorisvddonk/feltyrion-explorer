@@ -1,6 +1,8 @@
-Planet: HEAS
+Moon: HEAS
 Starmap index: 10
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 5
 
 Guide entries:
  MUCH PLANT LIFE, BLUISH ATMOSPHERE, TAN LAND

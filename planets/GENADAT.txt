@@ -1,6 +1,8 @@
-Planet: GENADAT
+Moon: GENADAT
 Starmap index: 13
 Paris coordinates: 21446160, 6389208, 40270646
+Orbits: BRAAR
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE SIXTH PLANET. DUSTY, SURFACE COLOR IS USUALLY

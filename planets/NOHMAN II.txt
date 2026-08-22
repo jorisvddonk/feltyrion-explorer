@@ -1,6 +1,8 @@
-Planet: NOHMAN II
+Moon: NOHMAN II
 Starmap index: 14
 Paris coordinates: 3359632, 4945485, -922921
+Orbits: ANUB1S
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY ZK306 EPOC 6011.667.596.360

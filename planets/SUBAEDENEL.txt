@@ -1,3 +1,5 @@
-Planet: SUBAEDENEL
+Moon: SUBAEDENEL
 Starmap index: 59
 Paris coordinates: 58795344, -33712659, 927379101
+Orbits: ROJNANGI
+Moon id: 1

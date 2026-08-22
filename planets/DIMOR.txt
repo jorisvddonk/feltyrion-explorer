@@ -1,6 +1,8 @@
-Planet: DIMOR
+Moon: DIMOR
 Starmap index: 16
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: GOLOR
+Moon id: 2
 
 Guide entries:
 MOON DISCOVERED BY BJS 584.171

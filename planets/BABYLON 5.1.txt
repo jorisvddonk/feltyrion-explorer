@@ -1,6 +1,8 @@
-Planet: BABYLON 5.1
+Moon: BABYLON 5.1
 Starmap index: 15
 Paris coordinates: 453936, 4600516, -2135969
+Orbits: BABYLON 5
+Moon id: 0
 
 Guide entries:
  FIRST MOON OF BABYLON 5 IS, AS ITS HOST-PLANET, A DEAD, ROCKY,

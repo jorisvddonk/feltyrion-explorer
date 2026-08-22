@@ -1,6 +1,8 @@
-Planet: HLISIDAR
+Moon: HLISIDAR
 Starmap index: 04
 Paris coordinates: 2132663920, -1770074, -569834
+Orbits: YLIRISFHK
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY, MODERATE SIZE CRATERS, FAIRLY BRIGHT LIGHT       

@@ -1,6 +1,8 @@
-Planet: OLIVES AND CHIVES
+Moon: OLIVES AND CHIVES
 Starmap index: 16
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 10
 
 Guide entries:
 THIS STAR SEEMS TO HAVE SOME TASTE, AFTER ALL, HEHE. MANY OF

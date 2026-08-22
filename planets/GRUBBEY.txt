@@ -1,3 +1,5 @@
-Planet: GRUBBEY
+Moon: GRUBBEY
 Starmap index: 40
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: REKUREKURE 37
+Moon id: 1

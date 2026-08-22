@@ -1,3 +1,5 @@
-Planet: FORST
+Moon: FORST
 Starmap index: 10
 Paris coordinates: 26615760, 6510886, 44915311
+Orbits: BRIGINE
+Moon id: 2

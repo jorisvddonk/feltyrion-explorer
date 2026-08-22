@@ -1,6 +1,8 @@
-Planet: CARO-PELERITTI
+Moon: CARO-PELERITTI
 Starmap index: 42
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 9
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.756 -                               

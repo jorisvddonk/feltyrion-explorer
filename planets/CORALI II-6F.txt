@@ -1,3 +1,5 @@
-Planet: CORALI II-6F
+Moon: CORALI II-6F
 Starmap index: 54
 Paris coordinates: -539280, 237210, -624416
+Orbits: planet index 06
+Moon id: 5

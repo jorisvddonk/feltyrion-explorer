@@ -1,3 +1,5 @@
-Planet: NORTH GUYUN
+Moon: NORTH GUYUN
 Starmap index: 26
 Paris coordinates: -2162480, -7768489, -2349162
+Orbits: HJUK
+Moon id: 3

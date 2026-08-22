@@ -1,6 +1,8 @@
-Planet: TATRON THETA
+Moon: TATRON THETA
 Starmap index: 74
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 7
 
 Guide entries:
 EIGHTH MOON OF PLANET TATRON IN THE GENISI SYSTEM

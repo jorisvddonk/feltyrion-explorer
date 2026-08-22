@@ -1,6 +1,8 @@
-Planet: GLYTERN
+Moon: GLYTERN
 Starmap index: 13
 Paris coordinates: 2100590128, -1965623, -11495
+Orbits: VAKFHA
+Moon id: 0
 
 Guide entries:
 M01//P06 SMALL SOLID DUSTY VERY WHITE REFLECTIVE WITH EQUALLY WHITE         

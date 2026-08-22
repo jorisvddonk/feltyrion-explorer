@@ -1,3 +1,5 @@
-Planet: JENUIN
+Moon: JENUIN
 Starmap index: 15
 Paris coordinates: -2582832, -6847123, -3094735
+Orbits: GROLIA
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: TWINERAIS
+Moon: TWINERAIS
 Starmap index: 15
 Paris coordinates: -61470448, 29652124, 500292
+Orbits: GASELIRDES
+Moon id: 3

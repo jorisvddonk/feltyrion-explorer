@@ -1,3 +1,5 @@
-Planet: ST. GREGORY OF NYSSA
+Moon: ST. GREGORY OF NYSSA
 Starmap index: 30
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: ST. AUGUSTINE
+Moon id: 0

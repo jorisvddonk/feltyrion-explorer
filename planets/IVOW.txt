@@ -1,6 +1,8 @@
-Planet: IVOW
+Moon: IVOW
 Starmap index: 20
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. NOT

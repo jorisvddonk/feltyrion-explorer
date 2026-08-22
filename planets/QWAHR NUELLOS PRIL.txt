@@ -1,3 +1,5 @@
-Planet: QWAHR NUELLOS PRIL
+Moon: QWAHR NUELLOS PRIL
 Starmap index: 65
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR NUELLOS
+Moon id: 0

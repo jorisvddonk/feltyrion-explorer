@@ -1,6 +1,8 @@
-Planet: ULIGNOUS
+Moon: ULIGNOUS
 Starmap index: 47
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: VACCINE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, MODERATE POLAR CAPS.

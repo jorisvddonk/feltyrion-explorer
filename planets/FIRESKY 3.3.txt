@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.3
+Moon: FIRESKY 3.3
 Starmap index: 16
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 2
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT WORLD WITH LOTS OF ACTIVE VOLCANOES

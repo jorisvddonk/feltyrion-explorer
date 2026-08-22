@@ -1,3 +1,5 @@
-Planet: LUNAVERDE
+Moon: LUNAVERDE
 Starmap index: 04
 Paris coordinates: 3001424, 4265776, -1907110
+Orbits: PINBALLOOK
+Moon id: 0

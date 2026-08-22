@@ -1,6 +1,8 @@
-Planet: PARSIS 7.2
+Moon: PARSIS 7.2
 Starmap index: 19
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 7
+Moon id: 1
 
 Guide entries:
  THE SECOUND MOON OF PARSIS 7 IS, BECOUSE OF ITS UNFORTUNATE ORBIT,

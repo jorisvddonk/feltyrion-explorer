@@ -1,3 +1,5 @@
-Planet: ARAWAK
+Moon: ARAWAK
 Starmap index: 23
 Paris coordinates: -1127472, 6033147, -5060574
+Orbits: planet index 05
+Moon id: 8

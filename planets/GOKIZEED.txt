@@ -1,3 +1,5 @@
-Planet: GOKIZEED
+Moon: GOKIZEED
 Starmap index: 29
 Paris coordinates: 4700336, 5232862, 175184
+Orbits: YERDEEGO
+Moon id: 3

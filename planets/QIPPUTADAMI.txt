@@ -1,3 +1,5 @@
-Planet: QIPPUTADAMI
+Moon: QIPPUTADAMI
 Starmap index: 38
 Paris coordinates: -614992, 734031, -1219112
+Orbits: PAGU HEZPIVIR
+Moon id: 1

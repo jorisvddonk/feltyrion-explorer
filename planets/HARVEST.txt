@@ -1,3 +1,5 @@
-Planet: HARVEST
+Moon: HARVEST
 Starmap index: 11
 Paris coordinates: 2546064, 3827429, -731391
+Orbits: GOLDIAN
+Moon id: 0

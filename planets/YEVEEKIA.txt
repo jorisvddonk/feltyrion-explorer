@@ -1,3 +1,5 @@
-Planet: YEVEEKIA
+Moon: YEVEEKIA
 Starmap index: 12
 Paris coordinates: 4700336, 5232862, 175184
+Orbits: TEEGAM
+Moon id: 4

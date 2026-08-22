@@ -1,6 +1,8 @@
-Planet: TOIS
+Moon: TOIS
 Starmap index: 14
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: PRIMUS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ALMOST TURQUOISE IN COLOR

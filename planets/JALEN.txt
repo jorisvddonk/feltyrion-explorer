@@ -1,6 +1,8 @@
-Planet: JALEN
+Moon: JALEN
 Starmap index: 08
 Paris coordinates: -332496, 138827, -643676
+Orbits: AININ
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.913

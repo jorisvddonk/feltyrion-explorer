@@ -1,6 +1,8 @@
-Planet: ICPOL
+Moon: ICPOL
 Starmap index: 45
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. COME ON.

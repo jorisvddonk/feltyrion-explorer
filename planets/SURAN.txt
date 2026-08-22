@@ -1,6 +1,8 @@
-Planet: SURAN
+Moon: SURAN
 Starmap index: 12
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT B
+Moon id: 3
 
 Guide entries:
 ODD, YET COOL LOOKING. SEEMS TO ALSO GIVE OFF A MINISCULE AMOUNT OF

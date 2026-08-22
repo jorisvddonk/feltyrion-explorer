@@ -1,3 +1,5 @@
-Planet: DARK LORD
+Moon: DARK LORD
 Starmap index: 06
 Paris coordinates: -2632496, -8819671, 1657423
+Orbits: EREMO
+Moon id: 0

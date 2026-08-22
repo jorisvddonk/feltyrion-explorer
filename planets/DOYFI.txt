@@ -1,6 +1,8 @@
-Planet: DOYFI
+Moon: DOYFI
 Starmap index: 12
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: KRITO
+Moon id: 2
 
 Guide entries:
 M03/P03 MEDIUM SIZED THICK ATMO CLOUDY. HAS A RATHER MOTTLED GREY LOOK      

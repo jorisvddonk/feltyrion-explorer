@@ -1,3 +1,5 @@
-Planet: MODASIO
+Moon: MODASIO
 Starmap index: 08
 Paris coordinates: 2056784, 6465841, -1650892
+Orbits: NOOMRODNETON
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: BODY SNATCHER
+Moon: BODY SNATCHER
 Starmap index: 14
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 4
 
 Guide entries:
 UPDATE:MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN

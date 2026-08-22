@@ -1,3 +1,5 @@
-Planet: VAL MARKEN
+Moon: VAL MARKEN
 Starmap index: 05
 Paris coordinates: 2552848, 4541525, -310791
+Orbits: VAL TALOS
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: SIYERP
+Moon: SIYERP
 Starmap index: 15
 Paris coordinates: 625712, 20217, -47143
+Orbits: WOP 8
+Moon id: 2

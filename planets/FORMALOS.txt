@@ -1,6 +1,8 @@
-Planet: FORMALOS
+Moon: FORMALOS
 Starmap index: 06
 Paris coordinates: 43216, 94196, -280322
+Orbits: CRYSTAS DAIONAS
+Moon id: 0
 
 Guide entries:
 AIRLESS RIDGED YELLOWISH MOON. (SCHMERM 6011 584.161)

@@ -1,3 +1,5 @@
-Planet: LEX TALIONIS
+Moon: LEX TALIONIS
 Starmap index: 40
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: AYHLISJARSI
+Moon id: 11

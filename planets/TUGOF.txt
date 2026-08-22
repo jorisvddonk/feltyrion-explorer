@@ -1,6 +1,8 @@
-Planet: TUGOF
+Moon: TUGOF
 Starmap index: 09
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: OUGLA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MEDIUM TO SMALL SIZED

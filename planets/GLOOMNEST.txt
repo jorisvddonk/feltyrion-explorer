@@ -1,6 +1,8 @@
-Planet: GLOOMNEST
+Moon: GLOOMNEST
 Starmap index: 48
 Paris coordinates: 4189616, 12634737, 2050432
+Orbits: planet index 07
+Moon id: 0
 
 Guide entries:
 THE SECOND LIFE BEARING PLANET IN THIS SYSTEM! DUE TO ITS DISTANCE

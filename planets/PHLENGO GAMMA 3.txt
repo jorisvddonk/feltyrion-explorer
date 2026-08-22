@@ -1,3 +1,5 @@
-Planet: PHLENGO GAMMA 3
+Moon: PHLENGO GAMMA 3
 Starmap index: 12
 Paris coordinates: 1600572784, 2148138, 54617322
+Orbits: PHLENGO GAMMA
+Moon id: 2

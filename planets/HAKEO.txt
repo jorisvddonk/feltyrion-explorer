@@ -1,6 +1,8 @@
-Planet: HAKEO
+Moon: HAKEO
 Starmap index: 11
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 1
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. NOT A VERY BRIGHT

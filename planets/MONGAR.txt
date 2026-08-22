@@ -1,6 +1,8 @@
-Planet: MONGAR
+Moon: MONGAR
 Starmap index: 12
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: FIRERUN
+Moon id: 0
 
 Guide entries:
 AN AVERAGE DUSTY MOON, WITH HILLS, CRATERS, AND THE SUCH. COLORS VARY

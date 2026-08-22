@@ -1,3 +1,5 @@
-Planet: MISTY HAUNTINGS
+Moon: MISTY HAUNTINGS
 Starmap index: 44
 Paris coordinates: 15285680, 32141853, -7324159
+Orbits: ALSAKI CXI-2
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: LAPINSKI
+Moon: LAPINSKI
 Starmap index: 06
 Paris coordinates: 2777136, 4875685, -958490
+Orbits: PIWNIK
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.805

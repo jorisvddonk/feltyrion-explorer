@@ -1,6 +1,8 @@
-Planet: ASTREBERYILA
+Moon: ASTREBERYILA
 Starmap index: 38
 Paris coordinates: 5069264, 20652333, 117733
+Orbits: planet index 07
+Moon id: 2
 
 Guide entries:
 COLD, DUSK FELYSIAN PLANET. THE PREDOMINANT FORM OF SURFACE

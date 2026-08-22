@@ -1,3 +1,5 @@
-Planet: YK
+Moon: YK
 Starmap index: 38
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: LEGORINI
+Moon id: 10

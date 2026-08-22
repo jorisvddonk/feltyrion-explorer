@@ -1,3 +1,5 @@
-Planet: JEFF ECCLES
+Moon: JEFF ECCLES
 Starmap index: 37
 Paris coordinates: -28560, 4607999, -2560039
+Orbits: planet index 08
+Moon id: 10

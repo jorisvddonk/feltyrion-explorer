@@ -1,6 +1,8 @@
-Planet: UNDERSCORED
+Moon: UNDERSCORED
 Starmap index: 20
 Paris coordinates: 81072, 322514, -244542
+Orbits: GLOBLARA
+Moon id: 1
 
 Guide entries:
  SAME AS HORIZONTALLINE, BUT THIS ONE HAS THE LINE FURTHER

@@ -1,6 +1,8 @@
-Planet: SPACIAL
+Moon: SPACIAL
 Starmap index: 10
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A NUMBER OF FINE

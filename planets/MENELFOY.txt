@@ -1,6 +1,8 @@
-Planet: MENELFOY
+Moon: MENELFOY
 Starmap index: 16
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. FAIRLY

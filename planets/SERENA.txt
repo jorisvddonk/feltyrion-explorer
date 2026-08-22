@@ -1,6 +1,8 @@
-Planet: SERENA
+Moon: SERENA
 Starmap index: 12
 Paris coordinates: 1032496, 5728, -40498
+Orbits: MOOGLE
+Moon id: 0
 
 Guide entries:
 THERE ARE SOME VERY PICTURESQUE LAKES ON THIS MOON. DISCOVERED BY ANTY

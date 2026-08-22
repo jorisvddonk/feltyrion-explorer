@@ -1,6 +1,8 @@
-Planet: FORGOTTEN LOYALTY
+Moon: FORGOTTEN LOYALTY
 Starmap index: 08
 Paris coordinates: 4342128, 4659934, -849888
+Orbits: planet index 01
+Moon id: 1
 
 Guide entries:
  DISCOVERED EPOC 6011:582.412 BY MARCUS ARAC

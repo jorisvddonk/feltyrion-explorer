@@ -1,3 +1,5 @@
-Planet: WOP 4
+Moon: WOP 4
 Starmap index: 65
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: GRUPA 6 C
+Moon id: 18

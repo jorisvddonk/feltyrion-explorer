@@ -1,6 +1,8 @@
-Planet: GENIMAY'E
+Moon: GENIMAY'E
 Starmap index: 18
 Paris coordinates: 1158546096, -274926, -1000180310
+Orbits: HATAMECSAI
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:834.361)               

@@ -1,3 +1,5 @@
-Planet: NIRON
+Moon: NIRON
 Starmap index: 08
 Paris coordinates: 5470352, 7001368, -4266745
+Orbits: GIRAN
+Moon id: 3

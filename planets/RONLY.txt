@@ -1,6 +1,8 @@
-Planet: RONLY
+Moon: RONLY
 Starmap index: 18
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HAS

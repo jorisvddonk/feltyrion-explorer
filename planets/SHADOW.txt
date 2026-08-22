@@ -1,6 +1,8 @@
-Planet: SHADOW
+Moon: SHADOW
 Starmap index: 13
 Paris coordinates: 3128560, 6135234, -428993
+Orbits: MEPHISTO
+Moon id: 7
 
 Guide entries:
  IF YOU HEAD SOUTH FROM 20,60 YOU'LL FIND AN AMAZING SERIES OF

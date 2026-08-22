@@ -1,6 +1,8 @@
-Planet: SHISERERASHA
+Moon: SHISERERASHA
 Starmap index: 27
 Paris coordinates: 11083088, -19266817, 17947109
+Orbits: ASKEW 64F
+Moon id: 5
 
 Guide entries:
 FOUND EPOC 6011 587.074.900 BY ROLAND ASKEW

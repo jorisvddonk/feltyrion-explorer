@@ -1,6 +1,8 @@
-Planet: AJNAT
+Moon: AJNAT
 Starmap index: 09
 Paris coordinates: 2140833520, -2641384, 1001352
+Orbits: SUTACK
+Moon id: 1
 
 Guide entries:
 M02/P04 SMALL SOLID THIN ATMO. MODERATELY DARK WITH FAIR POLAR CAPS.        

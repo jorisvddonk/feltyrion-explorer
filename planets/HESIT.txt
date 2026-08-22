@@ -1,6 +1,8 @@
-Planet: HESIT
+Moon: HESIT
 Starmap index: 12
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 4
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED BY DENSE CLOUDS. HAS A GREENISH GREY

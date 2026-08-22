@@ -1,6 +1,8 @@
-Planet: ATORION 2.1
+Moon: ATORION 2.1
 Starmap index: 06
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 2
+Moon id: 0
 
 Guide entries:
  THIS SMALL, ROCKY, CREASD PLANETOID HAS A VERY FAST, VERY

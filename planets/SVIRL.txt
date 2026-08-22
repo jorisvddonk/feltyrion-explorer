@@ -1,6 +1,8 @@
-Planet: SVIRL
+Moon: SVIRL
 Starmap index: 30
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 4
 
 Guide entries:
 A GREEN-BLUE GAS GIANT THAT IS A MOON, AND LACKS RINGS.

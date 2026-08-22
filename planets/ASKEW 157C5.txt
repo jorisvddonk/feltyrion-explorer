@@ -1,3 +1,5 @@
-Planet: ASKEW 157C5
+Moon: ASKEW 157C5
 Starmap index: 08
 Paris coordinates: 9163824, -13609398, 14800184
+Orbits: ASKEW 157C
+Moon id: 4

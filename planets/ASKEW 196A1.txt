@@ -1,3 +1,5 @@
-Planet: ASKEW 196A1
+Moon: ASKEW 196A1
 Starmap index: 05
 Paris coordinates: 5264240, -2142229, 5191049
+Orbits: ASKEW 196A
+Moon id: 0

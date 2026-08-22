@@ -1,6 +1,8 @@
-Planet: ROSE COLORED GLASSES
+Moon: ROSE COLORED GLASSES
 Starmap index: 19
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. MOON #10

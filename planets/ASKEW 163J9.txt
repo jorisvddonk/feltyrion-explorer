@@ -1,3 +1,5 @@
-Planet: ASKEW 163J9
+Moon: ASKEW 163J9
 Starmap index: 70
 Paris coordinates: 7851344, -10291278, 11707487
+Orbits: ASKEW 163J
+Moon id: 8

@@ -1,6 +1,8 @@
-Planet: CRATIA
+Moon: CRATIA
 Starmap index: 30
 Paris coordinates: 3170352, 4839313, -1838056
+Orbits: X10
+Moon id: 0
 
 Guide entries:
 GREEN PLANET, SEVERAL VERY LARGE CRATERS. NO LIFE WHATSOEVER.

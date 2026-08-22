@@ -1,6 +1,8 @@
-Planet: POL
+Moon: POL
 Starmap index: 07
 Paris coordinates: 2777136, 4875685, -958490
+Orbits: KALINOWSKI
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.804

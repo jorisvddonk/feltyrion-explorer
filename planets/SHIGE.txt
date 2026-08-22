@@ -1,6 +1,8 @@
-Planet: SHIGE
+Moon: SHIGE
 Starmap index: 21
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 13
 
 Guide entries:
 A BRIGHT QUARTZ MOON, FOURTEENTH OF THE THIRD PLANET. SURFACE CONSISTS

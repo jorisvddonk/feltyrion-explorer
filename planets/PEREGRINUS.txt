@@ -1,6 +1,8 @@
-Planet: PEREGRINUS
+Moon: PEREGRINUS
 Starmap index: 16
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. ALMOST

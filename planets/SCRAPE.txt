@@ -1,3 +1,5 @@
-Planet: SCRAPE
+Moon: SCRAPE
 Starmap index: 18
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: SIDEON
+Moon id: 0

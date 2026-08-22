@@ -1,3 +1,5 @@
-Planet: SEVLAR-G-S10
+Moon: SEVLAR-G-S10
 Starmap index: 26
 Paris coordinates: 1116080, 2928478, -3043292
+Orbits: SEVLAR-G
+Moon id: 9

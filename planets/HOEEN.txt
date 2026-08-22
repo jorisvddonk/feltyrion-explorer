@@ -1,6 +1,8 @@
-Planet: HOEEN
+Moon: HOEEN
 Starmap index: 04
 Paris coordinates: -232656, 4223940, 36079181
+Orbits: TRIGUN B
+Moon id: 1
 
 Guide entries:
 DARK PLANET, SURFACE IS LARGELY VERY DARK GREEN AND HARD TO EXPLORE.

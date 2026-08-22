@@ -1,6 +1,8 @@
-Planet: KARUB
+Moon: KARUB
 Starmap index: 28
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. GOOD GREY REFLECTIVITY

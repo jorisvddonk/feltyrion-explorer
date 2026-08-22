@@ -1,3 +1,5 @@
-Planet: HERETIC
+Moon: HERETIC
 Starmap index: 18
 Paris coordinates: -61270448, 30091829, 306909
+Orbits: MBTP 17
+Moon id: 0

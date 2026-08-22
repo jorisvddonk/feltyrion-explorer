@@ -1,6 +1,8 @@
-Planet: FUSIO
+Moon: FUSIO
 Starmap index: 41
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK AND VERY GROOVED.

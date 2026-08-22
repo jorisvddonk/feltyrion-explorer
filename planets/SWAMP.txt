@@ -1,3 +1,5 @@
-Planet: SWAMP
+Moon: SWAMP
 Starmap index: 21
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 0

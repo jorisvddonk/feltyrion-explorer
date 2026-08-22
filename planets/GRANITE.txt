@@ -1,3 +1,5 @@
-Planet: GRANITE
+Moon: GRANITE
 Starmap index: 31
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 15

@@ -1,6 +1,8 @@
-Planet: STATION II
+Moon: STATION II
 Starmap index: 16
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 11
 
 Guide entries:
 12TH MOON OF PLANET RUFUSA - THICK ATMOSPHERE AND COVERED IN CLOUDS

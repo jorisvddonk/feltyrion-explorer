@@ -1,6 +1,8 @@
-Planet: DRIPT
+Moon: DRIPT
 Starmap index: 11
 Paris coordinates: -461808, 50208, 5718934
+Orbits: COBEL
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. LARGE

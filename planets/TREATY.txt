@@ -1,3 +1,5 @@
-Planet: TREATY
+Moon: TREATY
 Starmap index: 31
 Paris coordinates: -24912560, -17163490, 38675244
+Orbits: RAFFLES
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: TUVJI
+Moon: TUVJI
 Starmap index: 12
 Paris coordinates: 2060398160, -1842327, 78233
+Orbits: ROMOSVY
+Moon id: 0
 
 Guide entries:
 M01/P07 SMALL SOLID DUSTY LARGE RAYED CRATERS, SURFACE HAS A LIGHT          

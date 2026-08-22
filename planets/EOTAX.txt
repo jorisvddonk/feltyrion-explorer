@@ -1,6 +1,8 @@
-Planet: EOTAX
+Moon: EOTAX
 Starmap index: 25
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A FEW STORMS

@@ -1,6 +1,8 @@
-Planet: GUMONAYOMEM
+Moon: GUMONAYOMEM
 Starmap index: 33
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 4
 
 Guide entries:
 AN INTERESTING FELISIAN WORLD WITH PLENTY OF LIFEFORMS. TREES OF            

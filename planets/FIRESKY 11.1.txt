@@ -1,6 +1,8 @@
-Planet: FIRESKY 11.1
+Moon: FIRESKY 11.1
 Starmap index: 45
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 11
+Moon id: 0
 
 Guide entries:
 SMALL MOONLET, DUSTY AND VERY CRATERIZED, HAS ONE CRATER OF ABOUT

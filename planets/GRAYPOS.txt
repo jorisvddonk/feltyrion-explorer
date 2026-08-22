@@ -1,3 +1,5 @@
-Planet: GRAYPOS
+Moon: GRAYPOS
 Starmap index: 08
 Paris coordinates: 4904272, 4729963, -1676767
+Orbits: GREENLAND
+Moon id: 0

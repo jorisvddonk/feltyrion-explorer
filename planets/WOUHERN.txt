@@ -1,6 +1,8 @@
-Planet: WOUHERN
+Moon: WOUHERN
 Starmap index: 09
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A SLIGHT

@@ -1,6 +1,8 @@
-Planet: LUMIQUS
+Moon: LUMIQUS
 Starmap index: 16
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 6
 
 Guide entries:
 (SKYGEM B7) A WATER WORLD WITH TYPICALLY MAGENTA COLORED INLANDS AND

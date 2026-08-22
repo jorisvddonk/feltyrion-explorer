@@ -1,3 +1,5 @@
-Planet: HORUN
+Moon: HORUN
 Starmap index: 28
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 12

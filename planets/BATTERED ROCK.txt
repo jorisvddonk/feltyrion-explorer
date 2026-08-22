@@ -1,6 +1,8 @@
-Planet: BATTERED ROCK
+Moon: BATTERED ROCK
 Starmap index: 31
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: STONE TINGE
+Moon id: 0
 
 Guide entries:
 AS THE NAME IMPLIES, THIS MOON HAS HAD A RATHER VIOLENT PAST.               

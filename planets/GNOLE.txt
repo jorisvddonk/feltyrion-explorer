@@ -1,6 +1,8 @@
-Planet: GNOLE
+Moon: GNOLE
 Starmap index: 22
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: IDAEN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. STRANGELY REFLECTIVE

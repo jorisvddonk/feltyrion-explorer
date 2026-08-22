@@ -1,6 +1,8 @@
-Planet: DEATAL
+Moon: DEATAL
 Starmap index: 08
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE THIRD PLANET, A TEAL-ISH DUSTY MOON. LAND

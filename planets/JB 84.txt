@@ -1,3 +1,5 @@
-Planet: JB 84
+Moon: JB 84
 Starmap index: 52
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: GRUPA 6 C
+Moon id: 5

@@ -1,3 +1,5 @@
-Planet: BROWN ICY
+Moon: BROWN ICY
 Starmap index: 44
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: PURPLE RAIN
+Moon id: 2

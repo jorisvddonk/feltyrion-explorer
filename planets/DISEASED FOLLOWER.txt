@@ -1,3 +1,5 @@
-Planet: DISEASED FOLLOWER
+Moon: DISEASED FOLLOWER
 Starmap index: 28
 Paris coordinates: -71430992, -593618, 53172813
+Orbits: ANCIENT PAIN
+Moon id: 0

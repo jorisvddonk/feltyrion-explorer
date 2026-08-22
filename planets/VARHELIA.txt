@@ -1,6 +1,8 @@
-Planet: VARHELIA
+Moon: VARHELIA
 Starmap index: 31
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 5
 
 Guide entries:
 A SMALL FELYSIAN WORLD WITH A PURPLE ATMOSPHERE.

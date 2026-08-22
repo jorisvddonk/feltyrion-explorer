@@ -1,6 +1,8 @@
-Planet: DEKU'AAVEN
+Moon: DEKU'AAVEN
 Starmap index: 25
 Paris coordinates: -1421126096, -1240979, -1276584867
+Orbits: MAAREN IV
+Moon id: 6
 
 Guide entries:
 MAAREN 07/04;FELISIAN

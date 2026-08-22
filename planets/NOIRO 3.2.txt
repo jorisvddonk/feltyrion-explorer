@@ -1,6 +1,8 @@
-Planet: NOIRO 3.2
+Moon: NOIRO 3.2
 Starmap index: 09
 Paris coordinates: 1491792, 10700311, -2916727
+Orbits: NOIRO 3
+Moon id: 1
 
 Guide entries:
  THIS IS VERY MUCH A NORMAL MOON - DUSTY, CRATERIZED, AND

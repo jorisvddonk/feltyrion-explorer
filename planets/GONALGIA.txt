@@ -1,6 +1,8 @@
-Planet: GONALGIA
+Moon: GONALGIA
 Starmap index: 34
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY ROUGH WITH SOME

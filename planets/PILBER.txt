@@ -1,6 +1,8 @@
-Planet: PILBER
+Moon: PILBER
 Starmap index: 08
 Paris coordinates: 5703184, 4943425, 1251410
+Orbits: WORBYCK
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, LIGHT AREAS NOTED, GOOD

@@ -1,6 +1,8 @@
-Planet: MOLGMA
+Moon: MOLGMA
 Starmap index: 41
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: NEOGREO
+Moon id: 0
 
 Guide entries:
 AN INTERNALLY HOT MOON

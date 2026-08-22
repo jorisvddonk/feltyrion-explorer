@@ -1,6 +1,8 @@
-Planet: HYSTERIA
+Moon: HYSTERIA
 Starmap index: 40
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

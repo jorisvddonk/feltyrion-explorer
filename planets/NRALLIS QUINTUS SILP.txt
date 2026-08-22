@@ -1,3 +1,5 @@
-Planet: NRALLIS QUINTUS SILP
+Moon: NRALLIS QUINTUS SILP
 Starmap index: 19
 Paris coordinates: 1399669584, 1320927, 1399310799
+Orbits: NRALLIS QUINTUS
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: YEDUES
+Moon: YEDUES
 Starmap index: 07
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 0
 
 Guide entries:
 A DUSTY MOON, THE FIRST OF THE THIRD PLANET. YELLOWISH SURFACE COLORS,

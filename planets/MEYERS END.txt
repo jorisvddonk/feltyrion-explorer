@@ -1,3 +1,5 @@
-Planet: MEYERS END
+Moon: MEYERS END
 Starmap index: 14
 Paris coordinates: 2570352, 4004679, -1213630
+Orbits: GREEN EDEN
+Moon id: 1

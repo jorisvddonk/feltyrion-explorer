@@ -1,6 +1,8 @@
-Planet: GRID HOMESTEADER
+Moon: GRID HOMESTEADER
 Starmap index: 11
 Paris coordinates: 1413381072, -31268, -1413496484
+Orbits: planet index 04
+Moon id: 0
 
 Guide entries:
 DO MY LABELS NORMALLY APPEAR BLAND?                                         

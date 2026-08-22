@@ -1,6 +1,8 @@
-Planet: ICEMA
+Moon: ICEMA
 Starmap index: 34
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: RO
+Moon id: 0
 
 Guide entries:
 FLAT, ICEY PLANET. NICE POLES.

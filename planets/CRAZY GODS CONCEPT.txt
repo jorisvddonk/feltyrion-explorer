@@ -1,6 +1,8 @@
-Planet: CRAZY GODS CONCEPT
+Moon: CRAZY GODS CONCEPT
 Starmap index: 38
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-F
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD. AT 36.60 THERE IS A FOREST, AND I FIRST

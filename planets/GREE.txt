@@ -1,6 +1,8 @@
-Planet: GREE
+Moon: GREE
 Starmap index: 33
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: RILMAR
+Moon id: 1
 
 Guide entries:
 AND THIS IS 10... GREEN VERSION.

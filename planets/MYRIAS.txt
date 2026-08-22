@@ -1,6 +1,8 @@
-Planet: MYRIAS
+Moon: MYRIAS
 Starmap index: 22
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 5
 
 Guide entries:
  YET ANOTHER PLANET TAHT IS FULLY COVERED BY CLOUDS IN THE DRAKHNATORIA

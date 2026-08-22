@@ -1,6 +1,8 @@
-Planet: JALEP
+Moon: JALEP
 Starmap index: 17
 Paris coordinates: 3111056, 4037153, 554224
+Orbits: CLOS
+Moon id: 1
 
 Guide entries:
 DISCOVEREDBY MURRMURR EPOC 6011:608.337

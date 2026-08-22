@@ -1,3 +1,5 @@
-Planet: ICE BAG MOON
+Moon: ICE BAG MOON
 Starmap index: 32
 Paris coordinates: -174288, 9638409, 793201
+Orbits: ICE BAG
+Moon id: 0

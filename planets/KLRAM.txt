@@ -1,6 +1,8 @@
-Planet: KLRAM
+Moon: KLRAM
 Starmap index: 25
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 6
 
 Guide entries:
 NOT INTERESTING, ROCKY PLANET.

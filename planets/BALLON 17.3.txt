@@ -1,6 +1,8 @@
-Planet: BALLON 17.3
+Moon: BALLON 17.3
 Starmap index: 51
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON. SMALL, SOLID, ICY SURFACE... LOOKS INTERESTING.             

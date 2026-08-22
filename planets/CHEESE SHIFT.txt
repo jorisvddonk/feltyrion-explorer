@@ -1,6 +1,8 @@
-Planet: CHEESE SHIFT
+Moon: CHEESE SHIFT
 Starmap index: 07
 Paris coordinates: 2132496, 4307520, -1068608
+Orbits: planet index 03
+Moon id: 0
 
 Guide entries:
 LOOKING AT THIS IS SORT OF A PAIN, NOT JUST DUE TO THE COLOUR,              

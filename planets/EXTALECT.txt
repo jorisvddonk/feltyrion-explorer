@@ -1,3 +1,5 @@
-Planet: EXTALECT
+Moon: EXTALECT
 Starmap index: 11
 Paris coordinates: -1139280, 528850, 7837
+Orbits: AISSLECT
+Moon id: 0

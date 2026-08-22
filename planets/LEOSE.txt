@@ -1,6 +1,8 @@
-Planet: LEOSE
+Moon: LEOSE
 Starmap index: 25
 Paris coordinates: 4142128, 4182625, -529864
+Orbits: DOISO
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GREENISH AND DUSTY IN

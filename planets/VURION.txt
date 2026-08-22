@@ -1,3 +1,5 @@
-Planet: VURION
+Moon: VURION
 Starmap index: 11
 Paris coordinates: -1766416, -6455599, -921319
+Orbits: GURION
+Moon id: 5

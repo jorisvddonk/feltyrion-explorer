@@ -1,6 +1,8 @@
-Planet: STINCH
+Moon: STINCH
 Starmap index: 75
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. ALMOST DARK AND PURPLE, HAS

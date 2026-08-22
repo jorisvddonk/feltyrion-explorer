@@ -1,6 +1,8 @@
-Planet: DRAPE
+Moon: DRAPE
 Starmap index: 77
 Paris coordinates: -1417747568, 866844, 1433341836
+Orbits: AH-SUBSTELLAR 6
+Moon id: 11
 
 Guide entries:
 19,9-STRANGE, ALMOST PYRAMIDAL STRUCTURES. PECULIAR.                        

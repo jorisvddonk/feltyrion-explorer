@@ -1,6 +1,8 @@
-Planet: FRODIM
+Moon: FRODIM
 Starmap index: 11
 Paris coordinates: 26708976, 6394413, 44397605
+Orbits: RENGJE
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE SIXTH PLANET, A SOMEWHAT AVERAGE FELYSIAN PLANET.

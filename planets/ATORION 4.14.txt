@@ -1,6 +1,8 @@
-Planet: ATORION 4.14
+Moon: ATORION 4.14
 Starmap index: 21
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 4
+Moon id: 13
 
 Guide entries:
  THE SIXTH *!* GAS-GIANT DETECTED AROUND THIS STAR SO FAR.

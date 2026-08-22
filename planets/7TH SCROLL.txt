@@ -1,3 +1,5 @@
-Planet: 7TH SCROLL
+Moon: 7TH SCROLL
 Starmap index: 07
 Paris coordinates: 2456784, 3449420, -2122039
+Orbits: HEAVEN
+Moon id: 0

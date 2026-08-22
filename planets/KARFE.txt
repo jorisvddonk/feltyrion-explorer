@@ -1,6 +1,8 @@
-Planet: KARFE
+Moon: KARFE
 Starmap index: 50
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE,

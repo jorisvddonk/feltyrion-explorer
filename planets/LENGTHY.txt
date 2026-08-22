@@ -1,6 +1,8 @@
-Planet: LENGTHY
+Moon: LENGTHY
 Starmap index: 25
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY TURBID.

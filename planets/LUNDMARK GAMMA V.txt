@@ -1,6 +1,8 @@
-Planet: LUNDMARK GAMMA V
+Moon: LUNDMARK GAMMA V
 Starmap index: 10
 Paris coordinates: 4101424, -65953610, -2995754
+Orbits: LUNDMARK GAMMA
+Moon id: 4
 
 Guide entries:
 PINK DEADWORLD. VERY BRIGHT, CRATERS GLOW.

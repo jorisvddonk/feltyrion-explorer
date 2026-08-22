@@ -1,6 +1,8 @@
-Planet: ROTEINUR
+Moon: ROTEINUR
 Starmap index: 43
 Paris coordinates: 1343216, 4776878, -1622774
+Orbits: planet index 06
+Moon id: 17
 
 Guide entries:
 MOON DISCOVERED BY ATTRADIS, EPOC 6011:600.186

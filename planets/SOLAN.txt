@@ -1,6 +1,8 @@
-Planet: SOLAN
+Moon: SOLAN
 Starmap index: 08
 Paris coordinates: -222864, 4125508, 1855459
+Orbits: HIERODULE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOTS OF FINE DEEP

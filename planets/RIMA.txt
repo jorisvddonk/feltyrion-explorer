@@ -1,6 +1,8 @@
-Planet: RIMA
+Moon: RIMA
 Starmap index: 17
 Paris coordinates: 2173200, 2163851, 1078175
+Orbits: DARKNOK
+Moon id: 11
 
 Guide entries:
 THIS MOON HAS SEAS.

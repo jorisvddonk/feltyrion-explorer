@@ -1,6 +1,8 @@
-Planet: JEEVES
+Moon: JEEVES
 Starmap index: 19
 Paris coordinates: -1918928, 1434756, 1857944
+Orbits: WOOSTER
+Moon id: 10
 
 Guide entries:
 11TH MOON OF 3RD PLANET IN WODEHOUSE SYSTEM. FELISIAN

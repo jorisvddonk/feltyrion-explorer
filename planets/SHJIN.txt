@@ -1,6 +1,8 @@
-Planet: SHJIN
+Moon: SHJIN
 Starmap index: 36
 Paris coordinates: 11369520, -19178570, 16789632
+Orbits: ASKEW 48H
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 586.043.000 BY ROLAND ASKEW

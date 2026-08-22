@@ -1,6 +1,8 @@
-Planet: ZEBRIM K
+Moon: ZEBRIM K
 Starmap index: 18
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 10
 
 Guide entries:
 A GREEN DEADWORLD WITH LARGE WELL-CONSTRASTED CRATERS.

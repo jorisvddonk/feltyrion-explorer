@@ -1,6 +1,8 @@
-Planet: GOAT 5.12
+Moon: GOAT 5.12
 Starmap index: 33
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 5
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, DUSTY, (NOT QUITE) CRATERIZED. SERPENS, 6011 665.610

@@ -1,3 +1,5 @@
-Planet: GALIK SEN 2
+Moon: GALIK SEN 2
 Starmap index: 20
 Paris coordinates: 3952848, 5179972, -1848799
+Orbits: GALIK SEN
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: BEEFEATER
+Moon: BEEFEATER
 Starmap index: 25
 Paris coordinates: 11352016, -19280074, 17907404
+Orbits: ASKEW 76E
+Moon id: 8
 
 Guide entries:
 FOUND EPOC 6011 588.106.800 BY ROLAND ASKEW

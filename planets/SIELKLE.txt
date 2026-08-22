@@ -1,3 +1,5 @@
-Planet: SIELKLE
+Moon: SIELKLE
 Starmap index: 08
 Paris coordinates: 9870096, 18689224, -31714944
+Orbits: EPU
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: TORREFY
+Moon: TORREFY
 Starmap index: 20
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: SPOTTY RECORD
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT,, UNSTABLE SURFACE, NO ATMOSPHERE. NOPE,

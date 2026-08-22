@@ -1,6 +1,8 @@
-Planet: NEBULOSUS
+Moon: NEBULOSUS
 Starmap index: 10
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: ESQUILINE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A VARIETY OF SMALL,

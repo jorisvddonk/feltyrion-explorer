@@ -1,3 +1,5 @@
-Planet: ZUNA VI-6
+Moon: ZUNA VI-6
 Starmap index: 19
 Paris coordinates: 9675376, 5043750, -13745597
+Orbits: ZUNA VI
+Moon id: 5

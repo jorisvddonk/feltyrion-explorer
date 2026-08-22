@@ -1,3 +1,5 @@
-Planet: PLANET X
+Moon: PLANET X
 Starmap index: 10
 Paris coordinates: -1604272, 7386891, -1484699
+Orbits: MING GAMMA
+Moon id: 4

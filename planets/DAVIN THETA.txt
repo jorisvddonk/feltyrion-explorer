@@ -1,6 +1,8 @@
-Planet: DAVIN THETA
+Moon: DAVIN THETA
 Starmap index: 40
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 7
 
 Guide entries:
 EIGHTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

@@ -1,6 +1,8 @@
-Planet: FARMOON 10
+Moon: FARMOON 10
 Starmap index: 33
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 5
 
 Guide entries:
  ANOTHER ICY WORLD AT THE EDGE OF THE DRAKHNATORIA SYSTEM.

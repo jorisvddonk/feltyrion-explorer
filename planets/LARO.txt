@@ -1,3 +1,5 @@
-Planet: LARO
+Moon: LARO
 Starmap index: 19
 Paris coordinates: 3408208, 420650, -1856116
+Orbits: RINI 4
+Moon id: 1

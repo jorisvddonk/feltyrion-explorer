@@ -1,6 +1,8 @@
-Planet: UDGY
+Moon: UDGY
 Starmap index: 28
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 15
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. QUITE ROUGH. SKINNYMON EPOC

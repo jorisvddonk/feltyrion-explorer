@@ -1,3 +1,5 @@
-Planet: DRY BLOD
+Moon: DRY BLOD
 Starmap index: 27
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: planet index 09
+Moon id: 4

@@ -1,6 +1,8 @@
-Planet: ZEBRIM M
+Moon: ZEBRIM M
 Starmap index: 20
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 12
 
 Guide entries:
 A GREEN AIRLESS ROCKWORLD WITH AT LEAST ONE BIG CRATER IN THE

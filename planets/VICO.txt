@@ -1,3 +1,5 @@
-Planet: VICO
+Moon: VICO
 Starmap index: 42
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: KANT
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: CLEAR HEADED
+Moon: CLEAR HEADED
 Starmap index: 23
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 12
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.695

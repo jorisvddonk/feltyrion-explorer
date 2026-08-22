@@ -1,6 +1,8 @@
-Planet: THOTOY
+Moon: THOTOY
 Starmap index: 07
 Paris coordinates: 2052562480, 532725, 204773
+Orbits: ODFHNOJAME
+Moon id: 2
 
 Guide entries:
 M03/P03 SMALL SOLID THIN ATMO MODERATELY BRIGHT, GOOD POLAR CAPS.           

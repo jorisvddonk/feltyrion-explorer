@@ -1,6 +1,8 @@
-Planet: HASEON
+Moon: HASEON
 Starmap index: 16
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE, AN

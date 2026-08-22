@@ -1,6 +1,8 @@
-Planet: BALL OF YARN
+Moon: BALL OF YARN
 Starmap index: 30
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: ORANGE SODA SHAKE
+Moon id: 0
 
 Guide entries:
 THIS ICY MOON ORBITS ORANGE SODA SHAKE ON EKA29. IT IS TEAL IN

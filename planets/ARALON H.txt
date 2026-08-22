@@ -1,6 +1,8 @@
-Planet: ARALON H
+Moon: ARALON H
 Starmap index: 31
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 7
 
 Guide entries:
 A ROSE-COLORED HELLWORLD. (SCHMERM 6011 584.201)

@@ -1,6 +1,8 @@
-Planet: PHREY
+Moon: PHREY
 Starmap index: 31
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: BRASSAR
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY GOOD GREY REFLECTIVITY

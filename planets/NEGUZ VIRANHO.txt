@@ -1,3 +1,5 @@
-Planet: NEGUZ VIRANHO
+Moon: NEGUZ VIRANHO
 Starmap index: 45
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: BYASERAWEECMONIBLY
+Moon id: 2

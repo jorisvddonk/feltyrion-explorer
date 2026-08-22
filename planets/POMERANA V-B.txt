@@ -1,6 +1,8 @@
-Planet: POMERANA V-B
+Moon: POMERANA V-B
 Starmap index: 10
 Paris coordinates: 3751088, 5827367, -7611043
+Orbits: POMERANA V
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.630 -                                

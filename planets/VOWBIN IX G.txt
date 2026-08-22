@@ -1,6 +1,8 @@
-Planet: VOWBIN IX G
+Moon: VOWBIN IX G
 Starmap index: 35
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 6
 
 Guide entries:
 AN ICEWORLD OF A PLEASANT SHADE OF GREEN WITH SMOOTH-LOOKING

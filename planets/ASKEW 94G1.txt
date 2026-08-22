@@ -1,3 +1,5 @@
-Planet: ASKEW 94G1
+Moon: ASKEW 94G1
 Starmap index: 24
 Paris coordinates: 11000592, -19136819, 17086009
+Orbits: ASKEW 94G
+Moon id: 0

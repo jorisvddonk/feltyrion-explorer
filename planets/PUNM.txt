@@ -1,3 +1,5 @@
-Planet: PUNM
+Moon: PUNM
 Starmap index: 22
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: BREX
+Moon id: 1

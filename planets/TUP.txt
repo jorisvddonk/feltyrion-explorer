@@ -1,6 +1,8 @@
-Planet: TUP
+Moon: TUP
 Starmap index: 10
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: TUPRE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, GOOD POLAR CAPS, ALMOST A TWIN

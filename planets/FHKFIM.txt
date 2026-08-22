@@ -1,6 +1,8 @@
-Planet: FHKFIM
+Moon: FHKFIM
 Starmap index: 26
 Paris coordinates: -194640, -77675, -351463
+Orbits: KEOFHIUN
+Moon id: 0
 
 Guide entries:
  M01/P05 THIN ATMO. NEAR TO THE PLANET KEOFHIUN. FAIR REFLECTIVITY,

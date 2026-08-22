@@ -1,3 +1,5 @@
-Planet: MOEKRUG
+Moon: MOEKRUG
 Starmap index: 13
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUERUE
+Moon id: 4

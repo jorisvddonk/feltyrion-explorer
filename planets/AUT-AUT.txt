@@ -1,6 +1,8 @@
-Planet: AUT-AUT
+Moon: AUT-AUT
 Starmap index: 16
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 8
 
 Guide entries:
 FURTHER NOTES:A FELISIAN WORLD- THOUGH COLD AND BARREN, THIS WORLD HAS

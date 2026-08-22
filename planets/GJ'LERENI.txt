@@ -1,3 +1,5 @@
-Planet: GJ'LERENI
+Moon: GJ'LERENI
 Starmap index: 21
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: EPSILON DENGUEDU
+Moon id: 1

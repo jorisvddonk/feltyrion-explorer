@@ -1,6 +1,8 @@
-Planet: VIONA
+Moon: VIONA
 Starmap index: 10
 Paris coordinates: -1108208, -712825, -246456
+Orbits: GULTEESE
+Moon id: 0
 
 Guide entries:
 GULTEESE'S MOON. SMALL, SOLID, THIN ATMOSPHERE.

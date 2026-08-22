@@ -1,3 +1,5 @@
-Planet: GAULA
+Moon: GAULA
 Starmap index: 35
 Paris coordinates: 1577136, 4292069, 78342
+Orbits: BIG MOM
+Moon id: 10

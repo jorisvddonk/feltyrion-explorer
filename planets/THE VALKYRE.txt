@@ -1,6 +1,8 @@
-Planet: THE VALKYRE
+Moon: THE VALKYRE
 Starmap index: 08
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: MIDTGARD
+Moon id: 0
 
 Guide entries:
  NAMED AFTER THE VIKING DEATH-GHOST; THIS IS THE MOON OF MIDTGARD.

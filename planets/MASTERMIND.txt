@@ -1,6 +1,8 @@
-Planet: MASTERMIND
+Moon: MASTERMIND
 Starmap index: 18
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: KINGPIN
+Moon id: 1
 
 Guide entries:
 CLOUD-COVERED MOON OF KINGPIN. PINK COLOR. --EKA

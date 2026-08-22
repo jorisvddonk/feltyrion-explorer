@@ -1,6 +1,8 @@
-Planet: PARSIS 9.4
+Moon: PARSIS 9.4
 Starmap index: 29
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 3
 
 Guide entries:
  A WORLD MUCH LIKE JUPITER'S EUROPA, WITH LOTS OF CRACKS ALL OVER

@@ -1,6 +1,8 @@
-Planet: LESSER 5.10
+Moon: LESSER 5.10
 Starmap index: 16
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 9
 
 Guide entries:
 SMALL, ICY SURFACE, RATHER GREENISH, NOT MANY STREAKS.

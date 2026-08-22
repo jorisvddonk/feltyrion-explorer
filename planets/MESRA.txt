@@ -1,6 +1,8 @@
-Planet: MESRA
+Moon: MESRA
 Starmap index: 37
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 13
 
 Guide entries:
 FAINT GREEN COLORED SURFACE, MOSTLY FLAT WITH THE EXCEPTION OF SMALL

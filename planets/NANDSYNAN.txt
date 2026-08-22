@@ -1,3 +1,5 @@
-Planet: NANDSYNAN
+Moon: NANDSYNAN
 Starmap index: 18
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 1

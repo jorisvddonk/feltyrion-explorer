@@ -1,3 +1,5 @@
-Planet: RIPUAPART
+Moon: RIPUAPART
 Starmap index: 08
 Paris coordinates: -60819024, 30074513, 831429
+Orbits: DIE
+Moon id: 0

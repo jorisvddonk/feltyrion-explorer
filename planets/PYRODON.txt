@@ -1,3 +1,5 @@
-Planet: PYRODON
+Moon: PYRODON
 Starmap index: 19
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: AMETA
+Moon: AMETA
 Starmap index: 23
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: THARG
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. OLD AND NEW CRATERS

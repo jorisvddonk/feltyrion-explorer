@@ -1,3 +1,5 @@
-Planet: KALNIS
+Moon: KALNIS
 Starmap index: 15
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: PURPLOSE
+Moon id: 9

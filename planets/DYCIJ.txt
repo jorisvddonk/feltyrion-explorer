@@ -1,6 +1,8 @@
-Planet: DYCIJ
+Moon: DYCIJ
 Starmap index: 08
 Paris coordinates: 634309520, -10801615, 49308989
+Orbits: NAVIGET ANTICYRAM
+Moon id: 1
 
 Guide entries:
 M02/P03 DUSTY AND CRATERIZED WITH BARELY VISIBLE CRATERS ON A ROUGH         

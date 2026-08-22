@@ -1,6 +1,8 @@
-Planet: TRINITY
+Moon: TRINITY
 Starmap index: 14
 Paris coordinates: 3128560, 6135234, -428993
+Orbits: MEPHISTO
+Moon id: 8
 
 Guide entries:
  THIS MOON IS DOMINATED BY TREES WITH THICK TRUNKS AND PINK LEAVES.

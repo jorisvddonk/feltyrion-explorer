@@ -1,3 +1,5 @@
-Planet: WARECK
+Moon: WARECK
 Starmap index: 09
 Paris coordinates: 5470352, 7001368, -4266745
+Orbits: GIRAN
+Moon id: 4

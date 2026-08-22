@@ -1,6 +1,8 @@
-Planet: VERDELUN
+Moon: VERDELUN
 Starmap index: 08
 Paris coordinates: 4459632, 4949965, -2023422
+Orbits: CANGURITO
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.742 -                               

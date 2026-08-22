@@ -1,6 +1,8 @@
-Planet: ODD CONTRAST
+Moon: ODD CONTRAST
 Starmap index: 43
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: WARM EMBRACE
+Moon id: 10
 
 Guide entries:
 CYAN CLOUD-COVERED ORBITING WARM EMBRACE.

@@ -1,6 +1,8 @@
-Planet: SEPAL
+Moon: SEPAL
 Starmap index: 24
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK, A SMALL LIGHT SPOT NOTED,

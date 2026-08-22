@@ -1,3 +1,5 @@
-Planet: GEFEZEER
+Moon: GEFEZEER
 Starmap index: 14
 Paris coordinates: 6493552, 5374077, -1937784
+Orbits: planet index 06
+Moon id: 2

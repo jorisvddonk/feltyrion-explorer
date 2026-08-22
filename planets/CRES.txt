@@ -1,6 +1,8 @@
-Planet: CRES
+Moon: CRES
 Starmap index: 57
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DEEP LOOKING CRATERS.

@@ -1,6 +1,8 @@
-Planet: KETTLE
+Moon: KETTLE
 Starmap index: 15
 Paris coordinates: 257872, 4230231, -3447758
+Orbits: planet index 03
+Moon id: 10
 
 Guide entries:
  FELISIANPLANET DISC BY SCAREDY-CAT, EPOC 6011.584.320. INTERESTING

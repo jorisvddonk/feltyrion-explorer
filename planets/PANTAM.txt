@@ -1,3 +1,5 @@
-Planet: PANTAM
+Moon: PANTAM
 Starmap index: 27
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 5

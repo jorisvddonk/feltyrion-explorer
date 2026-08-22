@@ -1,6 +1,8 @@
-Planet: DRAJ
+Moon: DRAJ
 Starmap index: 22
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 8
 
 Guide entries:
 MOON #9 OF THE SEVENTH PLANET. FELISIAN. DESPITE ITS DISTANT PROXIMITY TO   

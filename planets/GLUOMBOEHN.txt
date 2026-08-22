@@ -1,3 +1,5 @@
-Planet: GLUOMBOEHN
+Moon: GLUOMBOEHN
 Starmap index: 44
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: LAENOEWWIEM
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: TUAR
+Moon: TUAR
 Starmap index: 21
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: UNQ
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATELY REFLECTIVE

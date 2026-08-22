@@ -1,6 +1,8 @@
-Planet: TOURACO
+Moon: TOURACO
 Starmap index: 22
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: ROSE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. A LARGE CRATER DOMINATES

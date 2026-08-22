@@ -1,6 +1,8 @@
-Planet: ROQUE
+Moon: ROQUE
 Starmap index: 04
 Paris coordinates: 5211056, 4249377, -1602231
+Orbits: GHILLIE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A FEW DEEP CRATERS.

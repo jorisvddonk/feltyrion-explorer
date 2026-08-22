@@ -1,6 +1,8 @@
-Planet: TATRON ALPHA
+Moon: TATRON ALPHA
 Starmap index: 67
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET TATRON IN THE GENISI SYSTEM

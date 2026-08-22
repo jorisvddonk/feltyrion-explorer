@@ -1,3 +1,5 @@
-Planet: STANLEY
+Moon: STANLEY
 Starmap index: 29
 Paris coordinates: 3766416, 4629610, -721972
+Orbits: SMOKEY
+Moon id: 1

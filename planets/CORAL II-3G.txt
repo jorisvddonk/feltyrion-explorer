@@ -1,6 +1,8 @@
-Planet: CORAL II-3G
+Moon: CORAL II-3G
 Starmap index: 27
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-3
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DDUSTY, CRATERIZED, NO ATMOSPHERE. FAIRLY DUSTY

@@ -1,3 +1,5 @@
-Planet: BERING
+Moon: BERING
 Starmap index: 21
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: SINENEN
+Moon id: 3

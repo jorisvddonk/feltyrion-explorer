@@ -1,6 +1,8 @@
-Planet: IZINERIBIR
+Moon: IZINERIBIR
 Starmap index: 08
 Paris coordinates: 226800, 1068249, -3393825
+Orbits: GOWLAEDO
+Moon id: 1
 
 Guide entries:
 DISCOVERED SOMEWHERE ABOUT EPOC 6011 SINISTER 779 BY NEUZD

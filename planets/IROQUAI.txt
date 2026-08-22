@@ -1,6 +1,8 @@
-Planet: IROQUAI
+Moon: IROQUAI
 Starmap index: 05
 Paris coordinates: 71396592, -1294994, 54991491
+Orbits: BUFFALO
+Moon id: 1
 
 Guide entries:
 A MOON SUITABLE FOR LIFE - ALTHOUGH I DIDN'T SEE ANY WHEN I VISITED

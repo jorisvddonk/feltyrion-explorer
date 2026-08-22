@@ -1,6 +1,8 @@
-Planet: OLIFH
+Moon: OLIFH
 Starmap index: 25
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: ASTFHJEAM
+Moon id: 1
 
 Guide entries:
 M02P08, INTERNALLY HOT, UNSTABLE SURFACE, PRO 0.228.960; PRV

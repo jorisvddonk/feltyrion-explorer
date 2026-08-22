@@ -1,3 +1,5 @@
-Planet: KURDEL OMNI BOR
+Moon: KURDEL OMNI BOR
 Starmap index: 19
 Paris coordinates: 5264240, -2142229, 5191049
+Orbits: ASKEW 196D
+Moon id: 13

@@ -1,6 +1,8 @@
-Planet: XAAGON B VI
+Moon: XAAGON B VI
 Starmap index: 12
 Paris coordinates: -12801008, -323424, -1685534
+Orbits: XAAGON B
+Moon id: 5
 
 Guide entries:
 FELISIAN. ANIMAL LIFE FORMS ARE QUITE RARE. ISLAND FOUND AT 359.43

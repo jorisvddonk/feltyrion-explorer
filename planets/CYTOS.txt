@@ -1,6 +1,8 @@
-Planet: CYTOS
+Moon: CYTOS
 Starmap index: 09
 Paris coordinates: 5169264, 4083567, -202229
+Orbits: FONIAH
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, SOME LIGHT AREAS NOTED, GOOD

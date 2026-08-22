@@ -1,6 +1,8 @@
-Planet: YHELULIA
+Moon: YHELULIA
 Starmap index: 22
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 8
 
 Guide entries:
 GIANT GAS WORLD WITH BRIGHT SPOTS. IT TAKES 25.70 DAYS FOR YHELULIA TO

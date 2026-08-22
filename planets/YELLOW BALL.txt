@@ -1,6 +1,8 @@
-Planet: YELLOW BALL
+Moon: YELLOW BALL
 Starmap index: 11
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.692

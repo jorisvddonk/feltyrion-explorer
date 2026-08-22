@@ -1,6 +1,8 @@
-Planet: FELICIA 9
+Moon: FELICIA 9
 Starmap index: 11
 Paris coordinates: 3708208, 4249889, -2171700
+Orbits: IMBLIND
+Moon id: 2
 
 Guide entries:
 SAW WHAT MAY HAVE BEEN LIFE IN UFO AND A POSSIBLE CITY NEED HELP

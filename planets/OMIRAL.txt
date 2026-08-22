@@ -1,6 +1,8 @@
-Planet: OMIRAL
+Moon: OMIRAL
 Starmap index: 05
 Paris coordinates: 633440592, -10656950, 50122346
+Orbits: NEC TEMERE
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL AND DUSTY WITH BRIGHT GREEN REFLECTIVITY AND DARK CRATERS     

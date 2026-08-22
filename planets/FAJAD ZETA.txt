@@ -1,6 +1,8 @@
-Planet: FAJAD ZETA
+Moon: FAJAD ZETA
 Starmap index: 21
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

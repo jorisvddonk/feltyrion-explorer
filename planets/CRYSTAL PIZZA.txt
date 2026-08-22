@@ -1,6 +1,8 @@
-Planet: CRYSTAL PIZZA
+Moon: CRYSTAL PIZZA
 Starmap index: 10
 Paris coordinates: -1012144, 619863, 1312269
+Orbits: ATHABASCA
+Moon id: 6
 
 Guide entries:
 (NAMED AND DISCOVERED BY RYAN GJK E6011.788.183) A WORLD THAT               

@@ -1,6 +1,8 @@
-Planet: OBIL
+Moon: OBIL
 Starmap index: 37
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A DUSTY SURFACE WITH SOME

@@ -1,6 +1,8 @@
-Planet: IBLEM
+Moon: IBLEM
 Starmap index: 15
 Paris coordinates: 1274288, 4443493, -1784892
+Orbits: TIAM 3
+Moon id: 8
 
 Guide entries:
 QUARTZ WORLD, PURPLE WITH BLACK SPOTS

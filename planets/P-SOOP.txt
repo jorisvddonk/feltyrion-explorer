@@ -1,3 +1,5 @@
-Planet: P-SOOP
+Moon: P-SOOP
 Starmap index: 06
 Paris coordinates: 276048, 4630197, 5098758
+Orbits: FOOBAR
+Moon id: 1

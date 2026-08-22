@@ -1,6 +1,8 @@
-Planet: BARRUM
+Moon: BARRUM
 Starmap index: 07
 Paris coordinates: -101424, 656793, -841241
+Orbits: planet index 04
+Moon id: 0
 
 Guide entries:
 INITIAL RESULTS OF EXPLORATION OF THE MOON, BARRUM, HAVE BEEN

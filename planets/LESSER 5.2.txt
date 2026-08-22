@@ -1,6 +1,8 @@
-Planet: LESSER 5.2
+Moon: LESSER 5.2
 Starmap index: 08
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 1
 
 Guide entries:
 ICY SURFACE, TEAL APPEARANCE, MANY CRACKS. SERPENS, 6011 665.931

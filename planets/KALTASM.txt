@@ -1,6 +1,8 @@
-Planet: KALTASM
+Moon: KALTASM
 Starmap index: 12
 Paris coordinates: 732496, 221830, 329207
+Orbits: KALGASH
+Moon id: 0
 
 Guide entries:
 GREEN, WITH BRIGHT WHITE ROCKS... TYPICAL MOON, (NOTES BY PHEENER 6011

@@ -1,3 +1,5 @@
-Planet: SON DE'CRAALKIHG
+Moon: SON DE'CRAALKIHG
 Starmap index: 10
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: TOMB DE'CRISSIREINI
+Moon id: 1

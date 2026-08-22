@@ -1,6 +1,8 @@
-Planet: TEALIN
+Moon: TEALIN
 Starmap index: 06
 Paris coordinates: -1290448, 2491256, 22212119
+Orbits: JUNGAL
+Moon id: 1
 
 Guide entries:
 COLORS RANGE FROM A NICE TEAL COLOR TO A FEW OTHER SHADES, MOSTLY TEAL

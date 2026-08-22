@@ -1,6 +1,8 @@
-Planet: VICTORIA'S GUARDIAN
+Moon: VICTORIA'S GUARDIAN
 Starmap index: 05
 Paris coordinates: 2594640, 4276362, -1859682
+Orbits: VICTORIA'S BEAUTY
+Moon id: 0
 
 Guide entries:
 1ST MOON OF THE 3RD PLANET

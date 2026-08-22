@@ -1,3 +1,5 @@
-Planet: ZUKARAK
+Moon: ZUKARAK
 Starmap index: 09
 Paris coordinates: -2324624, -8133735, -2013503
+Orbits: JOWONA
+Moon id: 2

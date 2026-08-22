@@ -1,3 +1,5 @@
-Planet: QWAHR TRIACUS NAHL
+Moon: QWAHR TRIACUS NAHL
 Starmap index: 26
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR TRIACUS
+Moon id: 8

@@ -1,6 +1,8 @@
-Planet: FACET
+Moon: FACET
 Starmap index: 58
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: GABBRO
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, PITCH DARK, MODERATE POLAR CAPS.

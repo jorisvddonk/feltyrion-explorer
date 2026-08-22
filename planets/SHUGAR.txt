@@ -1,3 +1,5 @@
-Planet: SHUGAR
+Moon: SHUGAR
 Starmap index: 11
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: QUARTALIS
+Moon id: 0

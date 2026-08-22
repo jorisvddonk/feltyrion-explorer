@@ -1,3 +1,5 @@
-Planet: SETZEBERG
+Moon: SETZEBERG
 Starmap index: 51
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: PAUL AUSTER
+Moon id: 15

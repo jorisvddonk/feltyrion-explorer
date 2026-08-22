@@ -1,6 +1,8 @@
-Planet: AIGHOF
+Moon: AIGHOF
 Starmap index: 16
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. CONSIDERABLY SCARRED.

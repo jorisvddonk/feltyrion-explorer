@@ -1,6 +1,8 @@
-Planet: IDEFIX
+Moon: IDEFIX
 Starmap index: 13
 Paris coordinates: 360720, 349749, -1539326
+Orbits: OBELIX THE GAUL
+Moon id: 0
 
 Guide entries:
 POSSIBLE EXTINCT VOLCANO AT 114.49 14.-57

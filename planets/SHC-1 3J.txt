@@ -1,3 +1,5 @@
-Planet: SHC-1 3J
+Moon: SHC-1 3J
 Starmap index: 21
 Paris coordinates: -26583376, -15647682, -1001175282
+Orbits: SHC-1 3
+Moon id: 9

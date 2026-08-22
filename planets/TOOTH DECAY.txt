@@ -1,3 +1,5 @@
-Planet: TOOTH DECAY
+Moon: TOOTH DECAY
 Starmap index: 13
 Paris coordinates: -1439280, 2190685, 52298
+Orbits: MULTIBEAM MINOR
+Moon id: 8

@@ -1,3 +1,5 @@
-Planet: GLAMPH
+Moon: GLAMPH
 Starmap index: 21
 Paris coordinates: 670352, 437173, 502845
+Orbits: CLAVAIRIUM
+Moon id: 1

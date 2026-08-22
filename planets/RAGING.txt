@@ -1,3 +1,5 @@
-Planet: RAGING
+Moon: RAGING
 Starmap index: 14
 Paris coordinates: 6200336, 5325679, -1343998
+Orbits: BALANCED
+Moon id: 2

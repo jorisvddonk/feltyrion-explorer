@@ -1,3 +1,5 @@
-Planet: TAME YONDER
+Moon: TAME YONDER
 Starmap index: 66
 Paris coordinates: 5179568, -15162902, 12055564
+Orbits: ASKEW 126F
+Moon id: 13

@@ -1,6 +1,8 @@
-Planet: METAPHOR
+Moon: METAPHOR
 Starmap index: 16
 Paris coordinates: 2532496, 4432003, -1540265
+Orbits: REFLECTION
+Moon id: 7
 
 Guide entries:
 AN EXTREMELY COLD, CLOUD-COVERED MOON. THERE IS A NICE CRATER AT

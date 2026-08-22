@@ -1,6 +1,8 @@
-Planet: JEWEL OF DECEIT
+Moon: JEWEL OF DECEIT
 Starmap index: 12
 Paris coordinates: 2501424, 4364880, -1388893
+Orbits: DARKLORE
+Moon id: 6
 
 Guide entries:
 MOON DISCOVERED BY SEB PAT EPOC 6011:683.565                                

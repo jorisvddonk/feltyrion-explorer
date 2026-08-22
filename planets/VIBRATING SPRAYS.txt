@@ -1,6 +1,8 @@
-Planet: VIBRATING SPRAYS
+Moon: VIBRATING SPRAYS
 Starmap index: 03
 Paris coordinates: -185008, 1137954, 2105182
+Orbits: ATMOSPHERIC ORB
+Moon id: 0
 
 Guide entries:
 VOLCANIC WORLD, NAMED AS SUCH BECAUSE IT(OR THE STARDRIFTER)                

@@ -1,3 +1,5 @@
-Planet: VAPOR
+Moon: VAPOR
 Starmap index: 27
 Paris coordinates: 377136, 935675, 1401841
+Orbits: ZUPITER
+Moon id: 14

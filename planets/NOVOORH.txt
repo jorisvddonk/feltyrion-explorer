@@ -1,6 +1,8 @@
-Planet: NOVOORH
+Moon: NOVOORH
 Starmap index: 07
 Paris coordinates: -821044528, -1225144, -679819292
+Orbits: SHAAKAT A
+Moon id: 0
 
 Guide entries:
 SHAAKAT 01/01; FELISIAN

@@ -1,6 +1,8 @@
-Planet: MARONT
+Moon: MARONT
 Starmap index: 15
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: MYEST
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE FIFTH PLANET. DUSTY MOON. AVERAGE LAND FEATURES.

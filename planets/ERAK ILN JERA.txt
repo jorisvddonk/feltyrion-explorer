@@ -1,3 +1,5 @@
-Planet: ERAK ILN JERA
+Moon: ERAK ILN JERA
 Starmap index: 18
 Paris coordinates: 58819632, -33812924, 926872580
+Orbits: JERA ILN GRARN
+Moon id: 0

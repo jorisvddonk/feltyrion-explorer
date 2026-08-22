@@ -1,3 +1,5 @@
-Planet: JUNIPER
+Moon: JUNIPER
 Starmap index: 08
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: AZATHOT
+Moon id: 1

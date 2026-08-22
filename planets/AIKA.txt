@@ -1,3 +1,5 @@
-Planet: AIKA
+Moon: AIKA
 Starmap index: 35
 Paris coordinates: 4328560, 3997615, -1543936
+Orbits: planet index 07
+Moon id: 1

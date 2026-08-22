@@ -1,6 +1,8 @@
-Planet: FEALI
+Moon: FEALI
 Starmap index: 17
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS REFLECTIVE CRATERS.

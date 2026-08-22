@@ -1,6 +1,8 @@
-Planet: PARSIS 11.3
+Moon: PARSIS 11.3
 Starmap index: 45
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 2
 
 Guide entries:
  YET ANOTHER ICY PLANETOID ORBITING THE PARSIS 11 PLANET/STAR

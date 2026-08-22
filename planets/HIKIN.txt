@@ -1,6 +1,8 @@
-Planet: HIKIN
+Moon: HIKIN
 Starmap index: 33
 Paris coordinates: 10700592, -19048169, 17432791
+Orbits: ASKEW 54H
+Moon id: 4
 
 Guide entries:
 FOUND EPOC 6011 586.377.60 BY ROLAND ASKEW

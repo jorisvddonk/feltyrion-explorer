@@ -1,3 +1,5 @@
-Planet: FARMA.4.2(S)
+Moon: FARMA.4.2(S)
 Starmap index: 09
 Paris coordinates: 1608208, 5920927, -120051
+Orbits: FARMA.4(F)
+Moon id: 1

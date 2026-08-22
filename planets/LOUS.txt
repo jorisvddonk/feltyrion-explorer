@@ -1,6 +1,8 @@
-Planet: LOUS
+Moon: LOUS
 Starmap index: 58
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 15
 
 Guide entries:
 M16/P10 SMALL SOLID ICY VERY PINK WITH PINK GROOVING AND BLUE MOTTLING.     

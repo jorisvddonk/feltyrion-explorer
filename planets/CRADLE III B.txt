@@ -1,6 +1,8 @@
-Planet: CRADLE III B
+Moon: CRADLE III B
 Starmap index: 18
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE III
+Moon id: 1
 
 Guide entries:
 PEACHISH GAS GIANT. (SCHMERM 6011 592.861)

@@ -1,6 +1,8 @@
-Planet: HELION
+Moon: HELION
 Starmap index: 39
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. IF EVER A WORLD COULD BE

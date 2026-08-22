@@ -1,6 +1,8 @@
-Planet: MESED
+Moon: MESED
 Starmap index: 04
 Paris coordinates: 634154160, -11058310, 50011242
+Orbits: PURLIJIEL
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID THIN ATMOSPHERE. DARK YET GREEN REFLECTIVITY, GOOD      

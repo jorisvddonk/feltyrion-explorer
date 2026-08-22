@@ -1,3 +1,5 @@
-Planet: PONCHERAES
+Moon: PONCHERAES
 Starmap index: 21
 Paris coordinates: -61332592, 29351818, 460210
+Orbits: THEREIS
+Moon id: 0

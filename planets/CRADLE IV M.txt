@@ -1,6 +1,8 @@
-Planet: CRADLE IV M
+Moon: CRADLE IV M
 Starmap index: 38
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IV
+Moon id: 12
 
 Guide entries:
 GREEN THINWORLD. (SCHMERM 6011 592.877)

@@ -1,6 +1,8 @@
-Planet: Z-X012 XVI B
+Moon: Z-X012 XVI B
 Starmap index: 29
 Paris coordinates: -1404634000, -41937, 1421169983
+Orbits: Z-X012 XVI
+Moon id: 1
 
 Guide entries:
 ORANGEISH DEADWORLD WITH NO CRATERS AND AN UNEVEN SURFACE.

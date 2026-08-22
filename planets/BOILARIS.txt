@@ -1,3 +1,5 @@
-Planet: BOILARIS
+Moon: BOILARIS
 Starmap index: 60
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: GRUPA 6 C
+Moon id: 13

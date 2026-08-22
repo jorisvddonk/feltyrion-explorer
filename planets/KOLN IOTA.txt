@@ -1,6 +1,8 @@
-Planet: KOLN IOTA
+Moon: KOLN IOTA
 Starmap index: 62
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 8
 
 Guide entries:
 NINTH MOON OF PLANET KOLN IN THE GENISI SYSTEM

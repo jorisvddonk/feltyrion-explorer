@@ -1,6 +1,8 @@
-Planet: JOE DIMAGGIO X
+Moon: JOE DIMAGGIO X
 Starmap index: 16
 Paris coordinates: 122864, 336219, -1574904
+Orbits: JOE DIMAGGIO
+Moon id: 9
 
 Guide entries:
 FELISIAN 'MOON' (R10/P03) IN DIMAGGIO SYSTEM

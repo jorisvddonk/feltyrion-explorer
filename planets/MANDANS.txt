@@ -1,6 +1,8 @@
-Planet: MANDANS
+Moon: MANDANS
 Starmap index: 23
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, CONSIDERABLY DARK, GOOD POLAR CAPS.

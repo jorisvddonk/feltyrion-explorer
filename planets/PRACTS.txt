@@ -1,6 +1,8 @@
-Planet: PRACTS
+Moon: PRACTS
 Starmap index: 29
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: CLYPHER
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE.VERY DARK, SLIGHT POLAR CAPS. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: OPALAJ
+Moon: OPALAJ
 Starmap index: 22
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 6
 
 Guide entries:
  MEDIUM SIZE INTERNALLY HOT, UNSTABLE. BROWN WITHDULL YELLOW GLOWING .      

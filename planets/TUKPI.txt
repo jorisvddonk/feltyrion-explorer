@@ -1,6 +1,8 @@
-Planet: TUKPI
+Moon: TUKPI
 Starmap index: 15
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 1
 
 Guide entries:
 M02/P05 SMALL DUSTY HAS CLUSTER CRATERS, BRIGHT REFLECTIVITY. PRO 0.195.    

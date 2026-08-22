@@ -1,6 +1,8 @@
-Planet: LACCATE
+Moon: LACCATE
 Starmap index: 68
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 17
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH AND CRATERED.

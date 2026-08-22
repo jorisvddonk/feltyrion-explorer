@@ -1,3 +1,5 @@
-Planet: VLANDUS OCTILLE DREA
+Moon: VLANDUS OCTILLE DREA
 Starmap index: 42
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS OCTILLE
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: ZATH
+Moon: ZATH
 Starmap index: 10
 Paris coordinates: -770352, 114475, -280746
+Orbits: CHOTH
+Moon id: 0

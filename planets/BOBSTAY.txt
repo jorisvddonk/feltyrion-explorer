@@ -1,6 +1,8 @@
-Planet: BOBSTAY
+Moon: BOBSTAY
 Starmap index: 17
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. NOT

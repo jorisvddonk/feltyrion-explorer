@@ -1,6 +1,8 @@
-Planet: HEMLOCK
+Moon: HEMLOCK
 Starmap index: 39
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY REFLECTIVE WITH MUCH

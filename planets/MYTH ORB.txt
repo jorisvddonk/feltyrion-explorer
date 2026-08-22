@@ -1,6 +1,8 @@
-Planet: MYTH ORB
+Moon: MYTH ORB
 Starmap index: 12
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.693

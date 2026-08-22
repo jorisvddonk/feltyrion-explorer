@@ -1,6 +1,8 @@
-Planet: HAERUARINA
+Moon: HAERUARINA
 Starmap index: 14
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 0
 
 Guide entries:
 MED.SIZE THICK ATMOSPHERE WORLD, 0.63 GRAV, TEMP 97, 33.72 ATM PRESSURE

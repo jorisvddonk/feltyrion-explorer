@@ -1,6 +1,8 @@
-Planet: INVINO
+Moon: INVINO
 Starmap index: 13
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

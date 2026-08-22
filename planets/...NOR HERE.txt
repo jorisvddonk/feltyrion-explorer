@@ -1,6 +1,8 @@
-Planet: ...NOR HERE...
+Moon: ...NOR HERE...
 Starmap index: 10
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FITHIP
+Moon id: 0
 
 Guide entries:
  A VERY ACTIVE VOLCANIC WORLD. INTERNALLY HOT, SURFACE TO

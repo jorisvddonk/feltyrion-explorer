@@ -1,3 +1,5 @@
-Planet: ROCKY
+Moon: ROCKY
 Starmap index: 18
 Paris coordinates: 3890704, 4420850, -1491247
+Orbits: BIG BURGER
+Moon id: 10

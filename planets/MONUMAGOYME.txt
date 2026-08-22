@@ -1,6 +1,8 @@
-Planet: MONUMAGOYME
+Moon: MONUMAGOYME
 Starmap index: 32
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 3
 
 Guide entries:
 A FELISIAN MOON WITH PLENTY OF SEAS AND LIFE. THE MAINLANDS APPEAR TO       

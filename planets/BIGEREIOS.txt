@@ -1,3 +1,5 @@
-Planet: BIGEREIOS
+Moon: BIGEREIOS
 Starmap index: 07
 Paris coordinates: -61232592, 29255171, 664579
+Orbits: MBTP 21
+Moon id: 0

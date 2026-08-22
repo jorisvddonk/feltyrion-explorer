@@ -1,3 +1,5 @@
-Planet: ARISTORENAS
+Moon: ARISTORENAS
 Starmap index: 28
 Paris coordinates: -21686512, -5451357, 40936680
+Orbits: planet index 04
+Moon id: 12

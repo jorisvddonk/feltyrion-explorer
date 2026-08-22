@@ -1,3 +1,5 @@
-Planet: POLWINIO
+Moon: POLWINIO
 Starmap index: 15
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: NUUERHT
+Moon id: 1

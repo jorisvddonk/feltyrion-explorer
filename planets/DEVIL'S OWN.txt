@@ -1,3 +1,5 @@
-Planet: DEVIL'S OWN
+Moon: DEVIL'S OWN
 Starmap index: 05
 Paris coordinates: 4755696, 4489030, -548211
+Orbits: SATANOV
+Moon id: 0

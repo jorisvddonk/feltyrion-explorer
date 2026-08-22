@@ -1,6 +1,8 @@
-Planet: ROBUR
+Moon: ROBUR
 Starmap index: 28
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: PIZA
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.194

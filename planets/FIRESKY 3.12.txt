@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.12
+Moon: FIRESKY 3.12
 Starmap index: 25
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 11
 
 Guide entries:
 ANOTHER FELISIAN MOON, THIS TIME NAMED BY MYSELF. PREVIOUS

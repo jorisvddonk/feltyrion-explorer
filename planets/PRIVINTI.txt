@@ -1,3 +1,5 @@
-Planet: PRIVINTI
+Moon: PRIVINTI
 Starmap index: 30
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: KLAWTU
+Moon id: 0

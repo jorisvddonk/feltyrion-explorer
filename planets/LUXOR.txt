@@ -1,3 +1,5 @@
-Planet: LUXOR
+Moon: LUXOR
 Starmap index: 34
 Paris coordinates: 3377136, 4558630, -1790935
+Orbits: SAWTEETH
+Moon id: 2

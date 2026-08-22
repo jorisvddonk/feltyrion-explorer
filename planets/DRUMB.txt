@@ -1,6 +1,8 @@
-Planet: DRUMB
+Moon: DRUMB
 Starmap index: 06
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A GREYISH WORLD WITH

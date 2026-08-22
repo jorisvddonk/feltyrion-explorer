@@ -1,6 +1,8 @@
-Planet: COYSE
+Moon: COYSE
 Starmap index: 40
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRORN
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. GOOD

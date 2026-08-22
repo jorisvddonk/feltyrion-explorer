@@ -1,6 +1,8 @@
-Planet: BLICI
+Moon: BLICI
 Starmap index: 42
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: NEOGREO
+Moon id: 1
 
 Guide entries:
 AN AVERAGE ICY MOON. BLUE COLORATION, NOT MUCH OF INTEREST.

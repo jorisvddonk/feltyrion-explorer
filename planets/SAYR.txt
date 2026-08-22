@@ -1,6 +1,8 @@
-Planet: SAYR
+Moon: SAYR
 Starmap index: 38
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ILFHLEJ
+Moon id: 4
 
 Guide entries:
 M05/P08 SMALLL ICY DULL GREY WITH DARK GROOVES. PRO 0.147.240 PRV 0.005.    

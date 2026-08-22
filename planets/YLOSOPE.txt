@@ -1,6 +1,8 @@
-Planet: YLOSOPE
+Moon: YLOSOPE
 Starmap index: 03
 Paris coordinates: 2132257136, -1922174, -556654
+Orbits: HAVEDEMASAS B
+Moon id: 0
 
 Guide entries:
 M01/P01 ORBITS COMPANION STAR B. VERY LARGE SUBSTELLAR, ORANGE COLOR.       

@@ -1,6 +1,8 @@
-Planet: LLABECI
+Moon: LLABECI
 Starmap index: 54
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PERIP
+Moon id: 11
 
 Guide entries:
 GREEN TO BLUE SURFACE, BORING, NOTHING INTERESTING.

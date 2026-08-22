@@ -1,3 +1,5 @@
-Planet: GEORGE
+Moon: GEORGE
 Starmap index: 44
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: MICHO SHAMARA
+Moon id: 11

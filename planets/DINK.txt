@@ -1,6 +1,8 @@
-Planet: DINK
+Moon: DINK
 Starmap index: 09
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 3
 
 Guide entries:
 THE FOURTH MOON OF THE FOURTH PLANET, A THIN ATMO, WITH A GREEN SURFACE

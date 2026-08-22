@@ -1,6 +1,8 @@
-Planet: CYMOR
+Moon: CYMOR
 Starmap index: 54
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. NOT VERY REFLECTIVE WITH MANY

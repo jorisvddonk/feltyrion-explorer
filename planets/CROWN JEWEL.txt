@@ -1,6 +1,8 @@
-Planet: CROWN JEWEL
+Moon: CROWN JEWEL
 Starmap index: 12
 Paris coordinates: 3966416, 4366334, -852728
+Orbits: CROWN
+Moon id: 1
 
 Guide entries:
 EXTINCT VOLCANO COVERED IN TREES OVERLOOKS MAGENTA SEA AT 272.70

@@ -1,6 +1,8 @@
-Planet: PURE TERRA
+Moon: PURE TERRA
 Starmap index: 09
 Paris coordinates: 381072, 1932089, -429498
+Orbits: CITRIA
+Moon id: 0
 
 Guide entries:
 THIN-AT, REDDISH POLES, GOOD BLUE-BROWN GROUND/SKY COMBI AT BRIGHT          

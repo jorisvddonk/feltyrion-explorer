@@ -1,3 +1,5 @@
-Planet: KALA-I-S3
+Moon: KALA-I-S3
 Starmap index: 39
 Paris coordinates: 3841456, -366310, -9972918
+Orbits: KALA-I
+Moon id: 2

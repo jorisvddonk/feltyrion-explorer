@@ -1,3 +1,5 @@
-Planet: HELL'S KITCHEN
+Moon: HELL'S KITCHEN
 Starmap index: 14
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: JADISSENT
+Moon id: 1

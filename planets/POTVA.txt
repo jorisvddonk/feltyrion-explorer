@@ -1,6 +1,8 @@
-Planet: POTVA
+Moon: POTVA
 Starmap index: 75
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. HIGHLY REFLECTIVE GROOVING.

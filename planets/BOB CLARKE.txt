@@ -1,3 +1,5 @@
-Planet: BOB CLARKE
+Moon: BOB CLARKE
 Starmap index: 24
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: ALFRED E NEUMAN
+Moon id: 13

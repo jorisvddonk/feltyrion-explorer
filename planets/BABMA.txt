@@ -1,6 +1,8 @@
-Planet: BABMA
+Moon: BABMA
 Starmap index: 35
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE REFLECTIVE WITH LIGHT

@@ -1,6 +1,8 @@
-Planet: SHORFHKODAL
+Moon: SHORFHKODAL
 Starmap index: 10
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 1
 
 Guide entries:
 M02/P05 MOSTLY QUARTZ. LIGHT TAN REFLECTIVITY WITH LIGHT AREAS.             

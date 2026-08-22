@@ -1,6 +1,8 @@
-Planet: TOS 4.1
+Moon: TOS 4.1
 Starmap index: 09
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: TOS 4
+Moon id: 0
 
 Guide entries:
  ANOTHER MOON, ANOTHER DISAPPOINTMENT. (STARGAZER. EPOC 6011)

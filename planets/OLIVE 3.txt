@@ -1,3 +1,5 @@
-Planet: OLIVE 3
+Moon: OLIVE 3
 Starmap index: 29
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: YELLOW GIANT 1
+Moon id: 11

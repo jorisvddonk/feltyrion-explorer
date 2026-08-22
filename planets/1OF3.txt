@@ -1,3 +1,5 @@
-Planet: 1OF3
+Moon: 1OF3
 Starmap index: 30
 Paris coordinates: 8107120, 9232316, -2786137
+Orbits: planet index 08
+Moon id: 9

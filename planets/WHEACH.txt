@@ -1,6 +1,8 @@
-Planet: WHEACH
+Moon: WHEACH
 Starmap index: 09
 Paris coordinates: 281744, 1534683, 9315465
+Orbits: YEGROCK
+Moon id: 0
 
 Guide entries:
 WHITE MOON FROM SPACE, PEACH TO TAN SURFACE IS DOTTED MAINLY WITH

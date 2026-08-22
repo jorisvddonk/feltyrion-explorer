@@ -1,6 +1,8 @@
-Planet: WAOK
+Moon: WAOK
 Starmap index: 39
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRORN
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN/

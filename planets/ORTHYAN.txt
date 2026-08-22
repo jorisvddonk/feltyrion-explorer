@@ -1,6 +1,8 @@
-Planet: ORTHYAN
+Moon: ORTHYAN
 Starmap index: 15
 Paris coordinates: 3714992, 4904837, -1775995
+Orbits: planet index 06
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY KASGOR 610.467

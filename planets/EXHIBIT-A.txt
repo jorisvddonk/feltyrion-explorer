@@ -1,6 +1,8 @@
-Planet: EXHIBIT-A
+Moon: EXHIBIT-A
 Starmap index: 60
 Paris coordinates: 2691792, 4176126, -4029925
+Orbits: planet index 10
+Moon id: 6
 
 Guide entries:
  FELISIAN MOON OF THE TENTH PLANET IN THIS INFANT SYSTEM DISC BY

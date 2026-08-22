@@ -1,3 +1,5 @@
-Planet: SCARRED EMOTION
+Moon: SCARRED EMOTION
 Starmap index: 06
 Paris coordinates: -70672784, -709242, 53954850
+Orbits: ADOLESCENT ANGST
+Moon id: 1

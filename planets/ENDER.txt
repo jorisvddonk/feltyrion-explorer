@@ -1,6 +1,8 @@
-Planet: ENDER
+Moon: ENDER
 Starmap index: 06
 Paris coordinates: 3877136, 4207596, -2239261
+Orbits: BRAHMA
+Moon id: 0
 
 Guide entries:
 BY HARIDAS ON 6011.570.593 FOUND SOME KIND OF LEFT OVERS AFTER TREES...

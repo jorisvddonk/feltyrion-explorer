@@ -1,6 +1,8 @@
-Planet: NUER
+Moon: NUER
 Starmap index: 47
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 4
 
 Guide entries:
 M05/P10 SMALL SOLID ICY VERY WHITE REFLECTIVITY WITH LIGHT GREN MOTTLING.   

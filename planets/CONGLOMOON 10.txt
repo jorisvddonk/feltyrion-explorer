@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 10
+Moon: CONGLOMOON 10
 Starmap index: 10
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 4
 
 Guide entries:
 A VERY COMMON MOON, THIS BODY IS IRONICALLY RARE WHEN COMPARED

@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 4.8
+Moon: GRANTED WISH 4.8
 Starmap index: 18
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 4
+Moon id: 7
 
 Guide entries:
 AN IMPRESSIVE GAS GIANT, DARK GREEN, WITH THE USUAL BLACK                   

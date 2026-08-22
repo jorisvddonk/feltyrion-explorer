@@ -1,6 +1,8 @@
-Planet: BERN
+Moon: BERN
 Starmap index: 04
 Paris coordinates: 3866416, 4322974, -971980
+Orbits: KAYIN MINOR B
+Moon id: 1
 
 Guide entries:
 THE SECOND PLANET OF KAYIN MINOR B.

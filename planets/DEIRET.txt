@@ -1,6 +1,8 @@
-Planet: DEIRET
+Moon: DEIRET
 Starmap index: 22
 Paris coordinates: -1323161232, -1306991, -1179428207
+Orbits: SOKUN 3
+Moon id: 3
 
 Guide entries:
 SOKUN 04/03; FELISIAN

@@ -1,3 +1,5 @@
-Planet: PHLENGO ALPHA PRIME
+Moon: PHLENGO ALPHA PRIME
 Starmap index: 07
 Paris coordinates: 1600572784, 2148138, 54617322
+Orbits: PHLENGO ALPHA
+Moon id: 0

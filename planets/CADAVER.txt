@@ -1,6 +1,8 @@
-Planet: CADAVER
+Moon: CADAVER
 Starmap index: 80
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: RADIAN
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, FAIR POLAR CAPS. SKINNYMON

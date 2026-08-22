@@ -1,6 +1,8 @@
-Planet: CHALIC
+Moon: CHALIC
 Starmap index: 68
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE REFLECTIVE, ALMOST

@@ -1,6 +1,8 @@
-Planet: AKRITORI XI
+Moon: AKRITORI XI
 Starmap index: 32
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: AKRITORI
+Moon id: 10
 
 Guide entries:
 DISCOVEREDBY NEURONWAKE EPOC 6011 802.539.519                               

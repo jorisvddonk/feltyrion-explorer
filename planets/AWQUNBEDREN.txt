@@ -1,3 +1,5 @@
-Planet: AWQUNBEDREN
+Moon: AWQUNBEDREN
 Starmap index: 14
 Paris coordinates: 14847824, 32038901, -7119055
+Orbits: AUSTENAEDERN'S WIFE
+Moon id: 8

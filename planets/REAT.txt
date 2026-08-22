@@ -1,6 +1,8 @@
-Planet: REAT
+Moon: REAT
 Starmap index: 09
 Paris coordinates: 4035344, 4684112, -921463
+Orbits: HAUST
+Moon id: 3
 
 Guide entries:
 SMALL,SOLID, THIN ATMOSPHERE, REFLCTIVELY DARK, GOOD POLAR CAPS.

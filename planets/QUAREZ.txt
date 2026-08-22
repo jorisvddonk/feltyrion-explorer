@@ -1,3 +1,5 @@
-Planet: QUAREZ
+Moon: QUAREZ
 Starmap index: 11
 Paris coordinates: 356784, -74457, 270756
+Orbits: planet index 04
+Moon id: 0

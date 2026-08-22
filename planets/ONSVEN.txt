@@ -1,6 +1,8 @@
-Planet: ONSVEN
+Moon: ONSVEN
 Starmap index: 28
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: HETLAN
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. NO DOUBT

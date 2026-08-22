@@ -1,3 +1,5 @@
-Planet: JAKI
+Moon: JAKI
 Starmap index: 12
 Paris coordinates: 4248912, 4705694, -255597
+Orbits: planet index 08
+Moon id: 1

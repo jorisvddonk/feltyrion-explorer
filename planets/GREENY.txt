@@ -1,3 +1,5 @@
-Planet: GREENY
+Moon: GREENY
 Starmap index: 05
 Paris coordinates: 3621776, 4593277, -1283613
+Orbits: QUADSTAR ALPHA
+Moon id: 1

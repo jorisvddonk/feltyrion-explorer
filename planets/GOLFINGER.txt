@@ -1,3 +1,5 @@
-Planet: GOLFINGER
+Moon: GOLFINGER
 Starmap index: 17
 Paris coordinates: 487856, 49102, -230101
+Orbits: TRIGONOMETRIC
+Moon id: 3

@@ -1,6 +1,8 @@
-Planet: EPSTO
+Moon: EPSTO
 Starmap index: 14
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 3
 
 Guide entries:
 A CYAN THICK ATMO MOON, AT LEAST, CYAN FROM SPACE. FOURTH MOON OF FOURTH

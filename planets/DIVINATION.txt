@@ -1,6 +1,8 @@
-Planet: DIVINATION
+Moon: DIVINATION
 Starmap index: 10
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 3
 
 Guide entries:
 A FELISIAN WORLD. AT 139.60 IT WAS SWAMPY WITH SMALL BUSHES, SCRUB

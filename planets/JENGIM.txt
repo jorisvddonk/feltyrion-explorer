@@ -1,6 +1,8 @@
-Planet: JENGIM
+Moon: JENGIM
 Starmap index: 27
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: NEONAS
+Moon id: 1
 
 Guide entries:
 A DIM MOON, THE SECOND OF THE FOURTH PLANET. FELYSIAN. WHAT IS

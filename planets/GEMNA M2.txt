@@ -1,6 +1,8 @@
-Planet: GEMNA M2
+Moon: GEMNA M2
 Starmap index: 06
 Paris coordinates: -12144, 372689, 342906
+Orbits: GEMNA
+Moon id: 1
 
 Guide entries:
 WHAT SEEM TO BE HUGE VOLCANOES APPARENT FROM ORBIT. BIGGEST OF THIS

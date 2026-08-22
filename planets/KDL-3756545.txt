@@ -1,3 +1,5 @@
-Planet: KDL-3756545
+Moon: KDL-3756545
 Starmap index: 18
 Paris coordinates: 3290704, 4837570, -933229
+Orbits: AD3-X4W21
+Moon id: 0

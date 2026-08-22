@@ -1,6 +1,8 @@
-Planet: KSFLUO
+Moon: KSFLUO
 Starmap index: 16
 Paris coordinates: 2100590128, -1965623, -11495
+Orbits: PSFHDUO
+Moon id: 0
 
 Guide entries:
 M01/P08 SMALL SOLID DUSTY, LARGE CRATERS WITH RAYS ON GOOD GREEN            

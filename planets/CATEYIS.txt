@@ -1,6 +1,8 @@
-Planet: CATEYIS
+Moon: CATEYIS
 Starmap index: 23
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HAS

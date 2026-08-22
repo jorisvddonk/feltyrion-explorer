@@ -1,3 +1,5 @@
-Planet: YNU
+Moon: YNU
 Starmap index: 04
 Paris coordinates: 3052848, 5636380, -959161
+Orbits: UNI
+Moon id: 0

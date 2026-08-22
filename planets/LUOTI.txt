@@ -1,3 +1,5 @@
-Planet: LUOTI
+Moon: LUOTI
 Starmap index: 11
 Paris coordinates: 4097488, 5032993, -1271647
+Orbits: BINK
+Moon id: 0

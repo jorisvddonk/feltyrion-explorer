@@ -1,6 +1,8 @@
-Planet: DLEEIM
+Moon: DLEEIM
 Starmap index: 04
 Paris coordinates: 26615760, 6310886, 44914671
+Orbits: TRIENI
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE THIRD PLANET, IT IS ALSO A DUSTY MOON, AND IS

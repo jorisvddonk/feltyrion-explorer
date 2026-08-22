@@ -1,6 +1,8 @@
-Planet: IRAMAKE
+Moon: IRAMAKE
 Starmap index: 15
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 11
 
 Guide entries:
 M12/P03 SMALL SOLID DUSTY,LARGE DARK CRATERS WITH LIGHT RAYS ON GREY        

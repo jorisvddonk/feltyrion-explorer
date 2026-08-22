@@ -1,6 +1,8 @@
-Planet: DEXQUI
+Moon: DEXQUI
 Starmap index: 07
 Paris coordinates: 4924624, 4489659, -461091
+Orbits: TRIUN
+Moon id: 0
 
 Guide entries:
 MOON OF THE SECOND PLANET. IT IS FELISIAN. LET ME CHECK THE SURFACE...      

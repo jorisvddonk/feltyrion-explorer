@@ -1,3 +1,5 @@
-Planet: PONTO FRIO
+Moon: PONTO FRIO
 Starmap index: 17
 Paris coordinates: -73010640, -1598344, 56035429
+Orbits: CAMPEXE
+Moon id: 2

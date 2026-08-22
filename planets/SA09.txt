@@ -1,3 +1,5 @@
-Planet: SA09
+Moon: SA09
 Starmap index: 29
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: SATAS
+Moon id: 8

@@ -1,6 +1,8 @@
-Planet: EXTREME
+Moon: EXTREME
 Starmap index: 13
 Paris coordinates: 74288, 47959, -394282
+Orbits: HRUSCHOV
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOTS OF CRATERS.

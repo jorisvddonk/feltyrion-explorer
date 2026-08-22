@@ -1,6 +1,8 @@
-Planet: PRIM
+Moon: PRIM
 Starmap index: 20
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. DUSTY LOOKING WITH SMALLISH

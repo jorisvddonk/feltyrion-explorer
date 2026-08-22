@@ -1,3 +1,5 @@
-Planet: YPLOGOEQ
+Moon: YPLOGOEQ
 Starmap index: 29
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 12

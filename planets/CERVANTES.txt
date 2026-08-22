@@ -1,6 +1,8 @@
-Planet: CERVANTES
+Moon: CERVANTES
 Starmap index: 29
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID MOON WITH THICK ATMOSPERE, COVERED WITH CLOUDS.

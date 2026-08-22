@@ -1,6 +1,8 @@
-Planet: BADOC
+Moon: BADOC
 Starmap index: 34
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: BRASSAR
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATE GREY REFLECTIVITY

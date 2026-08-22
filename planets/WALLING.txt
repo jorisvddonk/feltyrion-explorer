@@ -1,6 +1,8 @@
-Planet: WALLING
+Moon: WALLING
 Starmap index: 62
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. FAIR

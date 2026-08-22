@@ -1,6 +1,8 @@
-Planet: CLARION
+Moon: CLARION
 Starmap index: 12
 Paris coordinates: 112144, 40438, -249045
+Orbits: IXRON
+Moon id: 5
 
 Guide entries:
 THE SURFACE OF THIS FELYSIAN MOON IS TRANSLUCENT! I'VE SEEN THIS ON

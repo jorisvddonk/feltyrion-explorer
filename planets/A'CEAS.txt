@@ -1,3 +1,5 @@
-Planet: A'CEAS
+Moon: A'CEAS
 Starmap index: 34
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: ASLISASLEBAL
+Moon id: 14

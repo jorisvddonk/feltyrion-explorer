@@ -1,3 +1,5 @@
-Planet: A COLD SANDY PLACE
+Moon: A COLD SANDY PLACE
 Starmap index: 11
 Paris coordinates: 3008208, 4283926, -1464016
+Orbits: PROTECTOR
+Moon id: 1

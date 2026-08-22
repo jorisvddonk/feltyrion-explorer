@@ -1,3 +1,5 @@
-Planet: RADIOACTIVE
+Moon: RADIOACTIVE
 Starmap index: 25
 Paris coordinates: 377136, 935675, 1401841
+Orbits: ZUPITER
+Moon id: 12

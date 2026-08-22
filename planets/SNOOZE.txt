@@ -1,6 +1,8 @@
-Planet: SNOOZE
+Moon: SNOOZE
 Starmap index: 12
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: DREAMSCAPE
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FEW DISTINGUISHING

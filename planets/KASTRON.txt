@@ -1,6 +1,8 @@
-Planet: KASTRON
+Moon: KASTRON
 Starmap index: 17
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: TONKTONEK
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

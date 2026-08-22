@@ -1,6 +1,8 @@
-Planet: LAMELLA
+Moon: LAMELLA
 Starmap index: 52
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PALLESCENT
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

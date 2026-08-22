@@ -1,6 +1,8 @@
-Planet: DOG
+Moon: DOG
 Starmap index: 29
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: TETLEY
+Moon id: 0
 
 Guide entries:
 A FLAT FEATURELESS MOON NOT WORTH LOOKING AT.

@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.4
+Moon: GRANTED WISH 7.4
 Starmap index: 23
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 3
 
 Guide entries:
 MEDIUM-SIZED, SOLID, THICK ATMOSPHERE, BUT THESE WORDS WOULD                

@@ -1,6 +1,8 @@
-Planet: CYATER
+Moon: CYATER
 Starmap index: 41
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: BRIL
+Moon id: 1
 
 Guide entries:
 LIGHT BLUE AS SEEN FROM SPACE, ALTHOUGH GREEN ON SURFACE. LAND IS

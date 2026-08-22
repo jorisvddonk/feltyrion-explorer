@@ -1,3 +1,5 @@
-Planet: LREASE
+Moon: LREASE
 Starmap index: 14
 Paris coordinates: 1624624, 31139792, 2797652
+Orbits: SCOFEN
+Moon id: 3

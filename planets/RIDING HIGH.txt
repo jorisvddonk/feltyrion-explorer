@@ -1,3 +1,5 @@
-Planet: RIDING HIGH
+Moon: RIDING HIGH
 Starmap index: 24
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: DUPPY CONQUEROR
+Moon id: 1

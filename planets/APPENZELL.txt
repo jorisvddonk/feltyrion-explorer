@@ -1,6 +1,8 @@
-Planet: APPENZELL
+Moon: APPENZELL
 Starmap index: 43
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. RATHER DARK FOR AN ICE

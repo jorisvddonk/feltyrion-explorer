@@ -1,3 +1,5 @@
-Planet: QWAHR TRIACUS QALE
+Moon: QWAHR TRIACUS QALE
 Starmap index: 31
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR TRIACUS
+Moon id: 13

@@ -1,6 +1,8 @@
-Planet: PREFECT
+Moon: PREFECT
 Starmap index: 04
 Paris coordinates: 8208, 36174, 1539328
+Orbits: CATION
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK BUT DETAILS CAN BE MADE

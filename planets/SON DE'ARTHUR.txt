@@ -1,3 +1,5 @@
-Planet: SON DE'ARTHUR
+Moon: SON DE'ARTHUR
 Starmap index: 27
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: TOMB DE'ARTHUR
+Moon id: 0

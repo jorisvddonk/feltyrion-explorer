@@ -1,6 +1,8 @@
-Planet: UNDER PRESSURE
+Moon: UNDER PRESSURE
 Starmap index: 12
 Paris coordinates: -27248368, -15847229, -1002309845
+Orbits: SHC-3 3
+Moon id: 2
 
 Guide entries:
 WOW! *145* ATM AT THE LANDING SITE!

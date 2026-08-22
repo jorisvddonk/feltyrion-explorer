@@ -1,6 +1,8 @@
-Planet: STRUAE GAMMA
+Moon: STRUAE GAMMA
 Starmap index: 65
 Paris coordinates: 612144, 6999853, -833727
+Orbits: STRUAE
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF PLANET STRUAE IN THE GENISI SYSTEM

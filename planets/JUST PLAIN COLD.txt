@@ -1,6 +1,8 @@
-Planet: JUST PLAIN COLD
+Moon: JUST PLAIN COLD
 Starmap index: 05
 Paris coordinates: 5211056, 4249377, -1602231
+Orbits: GHILLIE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MOTTLED APPEARANCE

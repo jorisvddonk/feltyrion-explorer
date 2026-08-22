@@ -1,3 +1,5 @@
-Planet: RAZ
+Moon: RAZ
 Starmap index: 35
 Paris coordinates: 70352, 945533, 1134813
+Orbits: SAPHIRE STORM
+Moon id: 0

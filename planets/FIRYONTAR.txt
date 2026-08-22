@@ -1,3 +1,5 @@
-Planet: FIRYONTAR
+Moon: FIRYONTAR
 Starmap index: 21
 Paris coordinates: 4765328, 4381639, 1942162
+Orbits: planet index 06
+Moon id: 7

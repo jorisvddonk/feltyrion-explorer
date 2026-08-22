@@ -1,6 +1,8 @@
-Planet: DESTINGLE
+Moon: DESTINGLE
 Starmap index: 28
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: NEONAS
+Moon id: 2
 
 Guide entries:
 A FELYSIAN MOON, THE THIRD OF THE FOURTH PLANET. THE MOON, THOUGH

@@ -1,6 +1,8 @@
-Planet: RHYV
+Moon: RHYV
 Starmap index: 26
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 17
 
 Guide entries:
 M18/P05 SMALL SOLID DUSTY, VERY REFLECTIVE GREENISH COLOR WITH LARGE        

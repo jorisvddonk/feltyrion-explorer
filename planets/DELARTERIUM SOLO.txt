@@ -1,3 +1,5 @@
-Planet: DELARTERIUM SOLO
+Moon: DELARTERIUM SOLO
 Starmap index: 37
 Paris coordinates: 3283920, 5272695, -1249674
+Orbits: ASKEW 200E
+Moon id: 5

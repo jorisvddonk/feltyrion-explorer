@@ -1,3 +1,5 @@
-Planet: PROCION
+Moon: PROCION
 Starmap index: 10
 Paris coordinates: 2659632, 5047014, -45246
+Orbits: LENORD
+Moon id: 0

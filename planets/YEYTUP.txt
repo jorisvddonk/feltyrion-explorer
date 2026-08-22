@@ -1,3 +1,5 @@
-Planet: YEYTUP
+Moon: YEYTUP
 Starmap index: 20
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 3

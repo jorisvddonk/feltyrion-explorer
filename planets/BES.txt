@@ -1,6 +1,8 @@
-Planet: BES
+Moon: BES
 Starmap index: 20
 Paris coordinates: -123583024, -54967750, -1864646
+Orbits: RAVALISS 3
+Moon id: 4
 
 Guide entries:
 COVERED IN CLOUDS

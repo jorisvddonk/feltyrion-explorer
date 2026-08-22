@@ -1,6 +1,8 @@
-Planet: TCHI
+Moon: TCHI
 Starmap index: 16
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: TRIDE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE, WITH LARGE

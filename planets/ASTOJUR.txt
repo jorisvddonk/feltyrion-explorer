@@ -1,6 +1,8 @@
-Planet: ASTOJUR
+Moon: ASTOJUR
 Starmap index: 18
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: SORDESCO
+Moon id: 2
 
 Guide entries:
 M03P05, CRATERIZED AND DUSTY, PRO 0.267.120; PRV 0.006.382.620 ///

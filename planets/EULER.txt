@@ -1,6 +1,8 @@
-Planet: EULER
+Moon: EULER
 Starmap index: 08
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 0
 
 Guide entries:
 LARGE MOON, NOT CONSISTENT, COVERED WITH DENSE CLOUDS.

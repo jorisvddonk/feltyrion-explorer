@@ -1,3 +1,5 @@
-Planet: D'KAA MRI
+Moon: D'KAA MRI
 Starmap index: 31
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 12
+Moon id: 8

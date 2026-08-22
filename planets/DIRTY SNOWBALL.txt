@@ -1,6 +1,8 @@
-Planet: DIRTY SNOWBALL
+Moon: DIRTY SNOWBALL
 Starmap index: 37
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 9
 
 Guide entries:
  TOUGH ITS NOT A COMET, THSI WORLD IS YET ANOTHER ICY FARMOON

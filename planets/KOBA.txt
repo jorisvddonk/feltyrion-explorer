@@ -1,6 +1,8 @@
-Planet: KOBA
+Moon: KOBA
 Starmap index: 07
 Paris coordinates: -21119856, 889084, -11694600
+Orbits: DEN CHAWARRE C
+Moon id: 0
 
 Guide entries:
 DEN CHAWARRE 01/03; QUARTZ

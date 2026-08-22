@@ -1,3 +1,5 @@
-Planet: RADAX NURITHEL 3A
+Moon: RADAX NURITHEL 3A
 Starmap index: 04
 Paris coordinates: -39661392, 1575915, 31477743
+Orbits: RADAX NURITHEL 3
+Moon id: 0

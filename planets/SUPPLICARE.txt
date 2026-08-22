@@ -1,6 +1,8 @@
-Planet: SUPPLICARE
+Moon: SUPPLICARE
 Starmap index: 18
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A COUPLE OF HIGH

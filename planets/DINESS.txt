@@ -1,6 +1,8 @@
-Planet: DINESS
+Moon: DINESS
 Starmap index: 12
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED WITH LARGE

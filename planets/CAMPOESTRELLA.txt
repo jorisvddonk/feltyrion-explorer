@@ -1,6 +1,8 @@
-Planet: CAMPOESTRELLA
+Moon: CAMPOESTRELLA
 Starmap index: 06
 Paris coordinates: 3039280, 4757874, -1629490
+Orbits: BAS-AURI
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY ATTRADIS, EPOC 6011:599.773

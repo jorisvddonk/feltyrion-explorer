@@ -1,6 +1,8 @@
-Planet: RARUPAN
+Moon: RARUPAN
 Starmap index: 18
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: BALPIP
+Moon id: 0
 
 Guide entries:
 M01/P06 SMALL SOLID DUSTY VRYLARGE CRATERS, DUSTY COLOR. PRO 0.152.280      

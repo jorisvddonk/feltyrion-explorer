@@ -1,3 +1,5 @@
-Planet: KALED
+Moon: KALED
 Starmap index: 08
 Paris coordinates: -83920, 6858315, -1735966
+Orbits: SKARO
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: KASTRO M
+Moon: KASTRO M
 Starmap index: 19
 Paris coordinates: 3594640, -66246329, -2851929
+Orbits: KASTRO
+Moon id: 12
 
 Guide entries:
 DULL GREEN THINWORLD. (SCHMERM 6011 594.488)

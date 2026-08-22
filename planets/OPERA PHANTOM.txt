@@ -1,6 +1,8 @@
-Planet: OPERA PHANTOM
+Moon: OPERA PHANTOM
 Starmap index: 24
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: SKELETON
+Moon id: 0
 
 Guide entries:
 UPDATE:SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ONE NICE

@@ -1,6 +1,8 @@
-Planet: LITE
+Moon: LITE
 Starmap index: 12
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: MISING
+Moon id: 1
 
 Guide entries:
 EXTREMELY LOW GRAVITY PLANET WITH 0.144 FG'S, NOT THE LOWEST, BUT...        

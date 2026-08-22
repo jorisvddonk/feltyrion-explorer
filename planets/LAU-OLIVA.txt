@@ -1,6 +1,8 @@
-Planet: LAU-OLIVA
+Moon: LAU-OLIVA
 Starmap index: 25
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 13
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.901 -                               

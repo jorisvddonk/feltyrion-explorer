@@ -1,6 +1,8 @@
-Planet: JLJ-USP-11
+Moon: JLJ-USP-11
 Starmap index: 35
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: COLDER FUSION
+Moon id: 2
 
 Guide entries:
 (U)N(S)TABLE (P)LANET, UNABLE TO LAND ON!

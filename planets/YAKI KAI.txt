@@ -1,3 +1,5 @@
-Planet: YAKI KAI
+Moon: YAKI KAI
 Starmap index: 04
 Paris coordinates: 5756784, 8277784, -5438279
+Orbits: YAKI 3
+Moon id: 0

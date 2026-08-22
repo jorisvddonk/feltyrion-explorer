@@ -1,3 +1,5 @@
-Planet: LEADIUS
+Moon: LEADIUS
 Starmap index: 04
 Paris coordinates: 3335344, 4102025, -194226
+Orbits: FLATILLIAN
+Moon id: 0

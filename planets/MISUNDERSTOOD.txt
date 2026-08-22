@@ -1,3 +1,5 @@
-Planet: MISUNDERSTOOD
+Moon: MISUNDERSTOOD
 Starmap index: 15
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: BENNY MINOR
+Moon id: 7

@@ -1,3 +1,5 @@
-Planet: AWET.4.1(S)
+Moon: AWET.4.1(S)
 Starmap index: 05
 Paris coordinates: 1921776, 5644011, 440921
+Orbits: AWET.4(S)
+Moon id: 0

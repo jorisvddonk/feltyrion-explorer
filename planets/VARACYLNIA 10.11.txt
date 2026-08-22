@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 10.11
+Moon: VARACYLNIA 10.11
 Starmap index: 37
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 10
+Moon id: 10
 
 Guide entries:
  THIS ELEVENTH MOON OF VARACYLNIA 10, IS MUCH LIKE THE OTHER

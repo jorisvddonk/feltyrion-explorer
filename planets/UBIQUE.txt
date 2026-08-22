@@ -1,6 +1,8 @@
-Planet: UBIQUE
+Moon: UBIQUE
 Starmap index: 08
 Paris coordinates: 3259632, 4697415, -785262
+Orbits: BOTTLE
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF BOTTLE. NAMED BY STARDRIFTER UNKNOWN.                         

@@ -1,6 +1,8 @@
-Planet: ARCTURUS YEN
+Moon: ARCTURUS YEN
 Starmap index: 17
 Paris coordinates: 3466416, 4540059, -395069
+Orbits: PROTICUS DRIFTER
+Moon id: 6
 
 Guide entries:
  BY FAR THE MOST BEAUTIFUL AND PURE OF ANY MOON THIS CELESTIAL BO

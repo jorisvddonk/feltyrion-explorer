@@ -1,6 +1,8 @@
-Planet: LIFIC
+Moon: LIFIC
 Starmap index: 05
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY SCARRED. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: PRATAY
+Moon: PRATAY
 Starmap index: 12
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: TRETY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A FAIR GREY

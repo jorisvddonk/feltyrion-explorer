@@ -1,3 +1,5 @@
-Planet: FLOOT
+Moon: FLOOT
 Starmap index: 14
 Paris coordinates: 2839280, 5119379, -1347871
+Orbits: FLUT
+Moon id: 0

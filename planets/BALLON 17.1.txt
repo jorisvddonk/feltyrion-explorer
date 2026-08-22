@@ -1,6 +1,8 @@
-Planet: BALLON 17.1
+Moon: BALLON 17.1
 Starmap index: 49
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 0
 
 Guide entries:
 YES, I IMMEDIATELY WENT TO THE WINDOW TOO SEE THE SUBSTELLAR                

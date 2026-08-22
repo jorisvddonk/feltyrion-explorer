@@ -1,3 +1,5 @@
-Planet: BETA ABYSSALIS 4A
+Moon: BETA ABYSSALIS 4A
 Starmap index: 09
 Paris coordinates: 7160976, -16776440, 14959150
+Orbits: BETA ABYSSALIS 4
+Moon id: 0

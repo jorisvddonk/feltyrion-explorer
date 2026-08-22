@@ -1,6 +1,8 @@
-Planet: PARSIS 13.3
+Moon: PARSIS 13.3
 Starmap index: 59
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 2
 
 Guide entries:
  YET ANOTHER PLANETOID, ROCKY AND CREASED, WITH A VERY THIN,

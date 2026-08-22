@@ -1,6 +1,8 @@
-Planet: ELM NIGHTMARE
+Moon: ELM NIGHTMARE
 Starmap index: 25
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 0
 
 Guide entries:
 UPDATE: MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. THE ONLY

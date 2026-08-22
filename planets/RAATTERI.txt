@@ -1,3 +1,5 @@
-Planet: RAATTERI
+Moon: RAATTERI
 Starmap index: 13
 Paris coordinates: 5827472, 4968989, 720641
+Orbits: BALLIUS
+Moon id: 1

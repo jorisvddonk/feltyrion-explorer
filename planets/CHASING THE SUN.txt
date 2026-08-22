@@ -1,6 +1,8 @@
-Planet: CHASING THE SUN
+Moon: CHASING THE SUN
 Starmap index: 10
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: SAPTHURIL
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

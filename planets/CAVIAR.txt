@@ -1,3 +1,5 @@
-Planet: CAVIAR
+Moon: CAVIAR
 Starmap index: 07
 Paris coordinates: 4366416, 4339783, -1219192
+Orbits: SERVICE
+Moon id: 0

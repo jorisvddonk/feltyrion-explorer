@@ -1,3 +1,5 @@
-Planet: UMMA KAI
+Moon: UMMA KAI
 Starmap index: 08
 Paris coordinates: 5425712, 8286779, -4787371
+Orbits: UMMA 3
+Moon id: 4

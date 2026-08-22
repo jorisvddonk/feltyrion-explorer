@@ -1,6 +1,8 @@
-Planet: OBERON
+Moon: OBERON
 Starmap index: 20
 Paris coordinates: 3473200, 3882739, 59962
+Orbits: METEMPSYCHOSIS
+Moon id: 0
 
 Guide entries:
 A SMALL, CLOUDY ROCK. EASY TO GET LOST ON.

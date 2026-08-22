@@ -1,3 +1,5 @@
-Planet: SALCESOON
+Moon: SALCESOON
 Starmap index: 36
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: BIGGREYTHING
+Moon id: 6

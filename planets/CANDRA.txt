@@ -1,6 +1,8 @@
-Planet: CANDRA
+Moon: CANDRA
 Starmap index: 21
 Paris coordinates: 5327472, 4299442, 1208799
+Orbits: HIMAN
+Moon id: 10
 
 Guide entries:
  ANOTHER MOON (11TH) OF FOURTH WORLD, CANDLISS'S SISTER.

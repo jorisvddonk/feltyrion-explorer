@@ -1,6 +1,8 @@
-Planet: GATSII'EL
+Moon: GATSII'EL
 Starmap index: 32
 Paris coordinates: -1418775760, -1892221, -1273979677
+Orbits: LAVHETAN VII
+Moon id: 4
 
 Guide entries:
 LAVHETAN 05/07; CLOUDY

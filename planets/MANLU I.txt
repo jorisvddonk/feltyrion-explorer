@@ -1,6 +1,8 @@
-Planet: MANLU I
+Moon: MANLU I
 Starmap index: 40
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: MANMUNE
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.269.858

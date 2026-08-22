@@ -1,3 +1,5 @@
-Planet: ASKEW 137C1
+Moon: ASKEW 137C1
 Starmap index: 05
 Paris coordinates: 8639536, -17137372, 16021154
+Orbits: CARTESIAN REDHEAD
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: CORRUPTION
+Moon: CORRUPTION
 Starmap index: 23
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MINOR
+Moon id: 12

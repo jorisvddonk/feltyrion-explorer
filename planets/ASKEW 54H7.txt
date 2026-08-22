@@ -1,3 +1,5 @@
-Planet: ASKEW 54H7
+Moon: ASKEW 54H7
 Starmap index: 35
 Paris coordinates: 10700592, -19048169, 17432791
+Orbits: ASKEW 54H
+Moon id: 6

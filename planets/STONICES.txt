@@ -1,3 +1,5 @@
-Planet: STONICES
+Moon: STONICES
 Starmap index: 13
 Paris coordinates: -61501520, 29541691, 594007
+Orbits: DENSISTIQUA
+Moon id: 9

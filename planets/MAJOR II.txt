@@ -1,6 +1,8 @@
-Planet: MAJOR II
+Moon: MAJOR II
 Starmap index: 10
 Paris coordinates: -344976, 9517823, -4954054
+Orbits: MULTIPLIA MAJOR
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.848 -                                

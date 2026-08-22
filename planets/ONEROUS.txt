@@ -1,6 +1,8 @@
-Planet: ONEROUS
+Moon: ONEROUS
 Starmap index: 20
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 5
 
 Guide entries:
 A FELISIAN WORLD- GREEN COLOR PREDOMINATES, FEW LARGE BODIES OF WATER

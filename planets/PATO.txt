@@ -1,6 +1,8 @@
-Planet: PATO
+Moon: PATO
 Starmap index: 11
 Paris coordinates: -267504, 1291695, 1373831
+Orbits: AUGRA
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE PLANET AUGRA

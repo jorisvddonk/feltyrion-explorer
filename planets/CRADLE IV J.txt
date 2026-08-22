@@ -1,6 +1,8 @@
-Planet: CRADLE IV J
+Moon: CRADLE IV J
 Starmap index: 35
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IV
+Moon id: 9
 
 Guide entries:
 BLUE-GREEN DEADWORLD. (SCHMERM 6011 592.877)

@@ -1,3 +1,5 @@
-Planet: THALAX-H-S1
+Moon: THALAX-H-S1
 Starmap index: 24
 Paris coordinates: 2987856, 4262240, -2661222
+Orbits: THALAX-H
+Moon id: 0

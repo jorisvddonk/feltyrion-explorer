@@ -1,6 +1,8 @@
-Planet: ICEFLA
+Moon: ICEFLA
 Starmap index: 22
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 12
 
 Guide entries:
 THE THIRTEENTH MOON OF THE SEVENTH PLANET, A PINK ICE MOON OF LITTLE

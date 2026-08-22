@@ -1,6 +1,8 @@
-Planet: GEY
+Moon: GEY
 Starmap index: 07
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-A
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, RATHER DARK WITH SLIGHTLY VISIBLE POLAR CAP

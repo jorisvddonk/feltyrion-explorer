@@ -1,6 +1,8 @@
-Planet: EARTH AND AIR
+Moon: EARTH AND AIR
 Starmap index: 27
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 6
 
 Guide entries:
 THIS CLOUD-COVERED MOON OF 'ODD' ON EKA75 LOOKS LIKE SOIL. --EKA

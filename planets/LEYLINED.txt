@@ -1,3 +1,5 @@
-Planet: LEYLINED
+Moon: LEYLINED
 Starmap index: 17
 Paris coordinates: 3555696, 4747547, 558041
+Orbits: POLLUTION
+Moon id: 1

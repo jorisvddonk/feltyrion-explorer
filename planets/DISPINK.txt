@@ -1,6 +1,8 @@
-Planet: DISPINK
+Moon: DISPINK
 Starmap index: 25
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: SPADUST
+Moon id: 0
 
 Guide entries:
 AN AVERAGE THIN ATMO MOON, TOO DARK FOR EXPLORATION IN MANY AREAS,

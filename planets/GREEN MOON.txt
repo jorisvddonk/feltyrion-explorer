@@ -1,3 +1,5 @@
-Planet: GREEN MOON
+Moon: GREEN MOON
 Starmap index: 08
 Paris coordinates: 3373200, 4448945, -113757
+Orbits: DUSTY GREY MOSS
+Moon id: 0

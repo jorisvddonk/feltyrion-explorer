@@ -1,6 +1,8 @@
-Planet: DEEPOL
+Moon: DEEPOL
 Starmap index: 22
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 11
 
 Guide entries:
 A GREY GAS GIANT MOON. IT IS SPECKLED WITH BRIGHT WHITE SPOTS, AND

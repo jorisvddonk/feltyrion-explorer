@@ -1,6 +1,8 @@
-Planet: SO SIX
+Moon: SO SIX
 Starmap index: 10
 Paris coordinates: -481072, -153, 650323
+Orbits: SOFLAPE
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.427

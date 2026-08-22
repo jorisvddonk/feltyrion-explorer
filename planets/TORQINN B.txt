@@ -1,6 +1,8 @@
-Planet: TORQINN B
+Moon: TORQINN B
 Starmap index: 29
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: TORQINN
+Moon id: 1
 
 Guide entries:
 A COLORLESS PALE DEADWORLD WITH LARGE SHALLOW CRATERS AND SMALL DEEP

@@ -1,3 +1,5 @@
-Planet: GULFTIS
+Moon: GULFTIS
 Starmap index: 34
 Paris coordinates: 2477136, 4803452, -740111
+Orbits: GRASSIA
+Moon id: 1

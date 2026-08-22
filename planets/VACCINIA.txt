@@ -1,6 +1,8 @@
-Planet: VACCINIA
+Moon: VACCINIA
 Starmap index: 16
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: CERULEAN
+Moon id: 1
 
 Guide entries:
 VACCINIA, THE SECOND MOON OF CERULEAN, IS SURELY THE BEST PLACE TO GO

@@ -1,3 +1,5 @@
-Planet: ASKEW 78E6
+Moon: ASKEW 78E6
 Starmap index: 27
 Paris coordinates: 11727728, -19112154, 18047770
+Orbits: ASKEW 78E
+Moon id: 5

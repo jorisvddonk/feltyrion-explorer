@@ -1,6 +1,8 @@
-Planet: COCONEE
+Moon: COCONEE
 Starmap index: 19
 Paris coordinates: 191792, 393743, -1607331
+Orbits: SELLO
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE FOURTH PLANET. A BROWNISH DUSTY PLANET AS

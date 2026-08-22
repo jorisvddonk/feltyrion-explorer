@@ -1,6 +1,8 @@
-Planet: RENIZ
+Moon: RENIZ
 Starmap index: 09
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: FINGU
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MOSTLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HIGHLY

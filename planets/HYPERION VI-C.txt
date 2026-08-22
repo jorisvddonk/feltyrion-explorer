@@ -1,6 +1,8 @@
-Planet: HYPERION VI-C
+Moon: HYPERION VI-C
 Starmap index: 49
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION VI
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE

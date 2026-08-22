@@ -1,3 +1,5 @@
-Planet: PAUL 3 FARBER
+Moon: PAUL 3 FARBER
 Starmap index: 17
 Paris coordinates: 4821776, 4404922, -2423773
+Orbits: PAUL 3
+Moon id: 4

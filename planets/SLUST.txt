@@ -1,6 +1,8 @@
-Planet: SLUST
+Moon: SLUST
 Starmap index: 10
 Paris coordinates: 2140364592, -691520, 1231760
+Orbits: SPROECK
+Moon id: 0
 
 Guide entries:
 M1/P05 SMALL SOLID DUSTY. GREY BLUEISH COLOR. FAIR REFLECTIVITY WITH        

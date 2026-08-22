@@ -1,3 +1,5 @@
-Planet: PLIDIO
+Moon: PLIDIO
 Starmap index: 27
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: NAMELESS ONE
+Moon id: 2

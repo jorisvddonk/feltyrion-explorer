@@ -1,3 +1,5 @@
-Planet: MIRANDRI
+Moon: MIRANDRI
 Starmap index: 11
 Paris coordinates: 5455696, 5134810, -1145238
+Orbits: planet index 06
+Moon id: 2

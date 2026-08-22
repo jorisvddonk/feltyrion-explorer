@@ -1,3 +1,5 @@
-Planet: KIDDELUDE
+Moon: KIDDELUDE
 Starmap index: 18
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: FARRAWAE
+Moon id: 2

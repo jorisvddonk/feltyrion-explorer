@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 6.6
+Moon: ALCHEMIST 6.6
 Starmap index: 21
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 6
+Moon id: 5
 
 Guide entries:
 ANOTHER QUARTZ MOON WITH OXYGEN ATMOSPHERE. THE SIZE AND

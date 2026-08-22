@@ -1,6 +1,8 @@
-Planet: HRUE
+Moon: HRUE
 Starmap index: 10
 Paris coordinates: -625712, 1137800, 123585
+Orbits: INSIPID
+Moon id: 5
 
 Guide entries:
 IT'S NAME DOESN'T RHYME WITH GRUE FOR NO REASON. FLAT AND ICY IS ALL THIS

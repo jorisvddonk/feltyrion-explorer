@@ -1,3 +1,5 @@
-Planet: KRYPTONITE
+Moon: KRYPTONITE
 Starmap index: 35
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 14

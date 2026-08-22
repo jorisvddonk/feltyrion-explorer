@@ -1,3 +1,5 @@
-Planet: SIENA-E-S1
+Moon: SIENA-E-S1
 Starmap index: 27
 Paris coordinates: 3363568, 4274032, -2404452
+Orbits: SIENA-E
+Moon id: 0

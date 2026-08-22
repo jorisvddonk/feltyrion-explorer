@@ -1,6 +1,8 @@
-Planet: YORB
+Moon: YORB
 Starmap index: 19
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF FAT VIOLET

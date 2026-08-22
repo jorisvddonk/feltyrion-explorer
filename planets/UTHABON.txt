@@ -1,6 +1,8 @@
-Planet: UTHABON
+Moon: UTHABON
 Starmap index: 08
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 0
 
 Guide entries:
 M01/P04 THIN ATMO. SLIGHT REFLECTIVITY TO SURFACE, FAIR POLAR CAPS,

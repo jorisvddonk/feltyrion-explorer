@@ -1,3 +1,5 @@
-Planet: NEGEV
+Moon: NEGEV
 Starmap index: 41
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: HUAERIAN
+Moon id: 5

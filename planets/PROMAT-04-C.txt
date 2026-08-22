@@ -1,3 +1,5 @@
-Planet: PROMAT-04-C
+Moon: PROMAT-04-C
 Starmap index: 10
 Paris coordinates: 1756784, 6033924, -1223400
+Orbits: PROMAT-04
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: NAPOLEON
+Moon: NAPOLEON
 Starmap index: 05
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF RUFUSA, THIN ATMOSPHERE

@@ -1,6 +1,8 @@
-Planet: MERODE
+Moon: MERODE
 Starmap index: 18
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED MOON, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

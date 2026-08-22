@@ -1,6 +1,8 @@
-Planet: ISOBAR
+Moon: ISOBAR
 Starmap index: 13
 Paris coordinates: -218928, 44011, 180703
+Orbits: NOCK
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE AREAS FROM

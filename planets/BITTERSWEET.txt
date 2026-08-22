@@ -1,3 +1,5 @@
-Planet: BITTERSWEET
+Moon: BITTERSWEET
 Starmap index: 20
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: BROWN CRAYON
+Moon id: 1

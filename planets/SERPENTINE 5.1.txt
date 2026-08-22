@@ -1,6 +1,8 @@
-Planet: SERPENTINE 5.1
+Moon: SERPENTINE 5.1
 Starmap index: 17
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 5
+Moon id: 0
 
 Guide entries:
 I FORGOT TO MENTION THAT SERPENTINE 5 ALSO HAS THREE MOONS...

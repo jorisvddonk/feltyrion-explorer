@@ -1,3 +1,5 @@
-Planet: ORION 7.2
+Moon: ORION 7.2
 Starmap index: 15
 Paris coordinates: 3973200, 5021255, -469763
+Orbits: ORION 7
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: NIVILER-1
+Moon: NIVILER-1
 Starmap index: 73
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NIDALIS
+Moon id: 13

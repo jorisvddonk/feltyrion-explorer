@@ -1,6 +1,8 @@
-Planet: DERNE
+Moon: DERNE
 Starmap index: 42
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: CONNOLKI
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, DARKLY

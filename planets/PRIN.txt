@@ -1,6 +1,8 @@
-Planet: PRIN
+Moon: PRIN
 Starmap index: 23
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

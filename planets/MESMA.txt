@@ -1,6 +1,8 @@
-Planet: MESMA
+Moon: MESMA
 Starmap index: 36
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, BARELY TRACEABLE POLAR

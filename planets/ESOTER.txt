@@ -1,6 +1,8 @@
-Planet: ESOTER
+Moon: ESOTER
 Starmap index: 29
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: HETLAN
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, SLIGHT POLAR CAPS. SKINNYMON

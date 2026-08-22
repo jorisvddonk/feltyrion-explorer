@@ -1,6 +1,8 @@
-Planet: OAF
+Moon: OAF
 Starmap index: 24
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY LOW

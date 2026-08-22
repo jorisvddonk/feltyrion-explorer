@@ -1,6 +1,8 @@
-Planet: OUTFIT
+Moon: OUTFIT
 Starmap index: 40
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SKINNYMON EPOC 6011 580.317

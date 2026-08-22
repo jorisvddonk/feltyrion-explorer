@@ -1,6 +1,8 @@
-Planet: DARKNE
+Moon: DARKNE
 Starmap index: 69
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 6
 
 Guide entries:
 DON'T BOTHER, DARK, AND PROBABLY FEATURELESS.

@@ -1,6 +1,8 @@
-Planet: OOSPH
+Moon: OOSPH
 Starmap index: 13
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. MORE HOT!

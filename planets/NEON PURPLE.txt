@@ -1,6 +1,8 @@
-Planet: NEON PURPLE
+Moon: NEON PURPLE
 Starmap index: 13
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 7
 
 Guide entries:
 QUARTZ MOON OF SANITY WARP ON EKA56. NICE COLOR, NICE TEXTURE.

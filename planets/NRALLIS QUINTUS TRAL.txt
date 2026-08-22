@@ -1,3 +1,5 @@
-Planet: NRALLIS QUINTUS TRAL
+Moon: NRALLIS QUINTUS TRAL
 Starmap index: 15
 Paris coordinates: 1399669584, 1320927, 1399310799
+Orbits: NRALLIS QUINTUS
+Moon id: 2

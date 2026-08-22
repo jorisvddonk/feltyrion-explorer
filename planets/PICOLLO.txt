@@ -1,3 +1,5 @@
-Planet: PICOLLO
+Moon: PICOLLO
 Starmap index: 20
 Paris coordinates: 487856, 49102, -230101
+Orbits: GREEN MINE
+Moon id: 0

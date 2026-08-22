@@ -1,3 +1,5 @@
-Planet: PELTED
+Moon: PELTED
 Starmap index: 15
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: NIBBLE
+Moon id: 0

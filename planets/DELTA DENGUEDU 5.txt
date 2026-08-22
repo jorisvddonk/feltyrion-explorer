@@ -1,3 +1,5 @@
-Planet: DELTA DENGUEDU 5
+Moon: DELTA DENGUEDU 5
 Starmap index: 16
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: DELTA DENGUEDU
+Moon id: 4

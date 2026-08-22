@@ -1,6 +1,8 @@
-Planet: DELERNG
+Moon: DELERNG
 Starmap index: 06
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE FOURTH PLANET, A THIN ATMO. THE SURFACE, EXCEPT

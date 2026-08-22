@@ -1,3 +1,5 @@
-Planet: RETICULE
+Moon: RETICULE
 Starmap index: 14
 Paris coordinates: 4328560, 3997615, -1543936
+Orbits: QUARTERA V
+Moon id: 0

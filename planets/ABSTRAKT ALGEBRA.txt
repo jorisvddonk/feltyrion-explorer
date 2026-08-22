@@ -1,3 +1,5 @@
-Planet: ABSTRAKT ALGEBRA
+Moon: ABSTRAKT ALGEBRA
 Starmap index: 20
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: BROWN SUGAR
+Moon id: 0

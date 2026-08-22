@@ -1,6 +1,8 @@
-Planet: ORDARD
+Moon: ORDARD
 Starmap index: 34
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: GENGRE
+Moon id: 0
 
 Guide entries:
 A DIM THIN ATMO MOON, THE ONLY ONE OF THE SIXTH PLANET. SURFACE APPEARS

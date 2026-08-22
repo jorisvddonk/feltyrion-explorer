@@ -1,3 +1,5 @@
-Planet: SON DE'LURDERN
+Moon: SON DE'LURDERN
 Starmap index: 09
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: TOMB DE'CRISSIREINI
+Moon id: 0

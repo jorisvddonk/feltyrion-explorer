@@ -1,6 +1,8 @@
-Planet: VENMA
+Moon: VENMA
 Starmap index: 40
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: YAEYSAN
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:576.

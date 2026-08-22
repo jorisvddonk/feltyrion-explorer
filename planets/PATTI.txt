@@ -1,6 +1,8 @@
-Planet: PATTI
+Moon: PATTI
 Starmap index: 32
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE FIFTEENTH PLANET, PERDISTA. THICK ATMO PLANET THAT

@@ -1,6 +1,8 @@
-Planet: DEQ
+Moon: DEQ
 Starmap index: 24
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 7
 
 Guide entries:
 EIGHTH MOON OF FAT VIOLET

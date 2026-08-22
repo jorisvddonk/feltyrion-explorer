@@ -1,6 +1,8 @@
-Planet: DAQTOUM
+Moon: DAQTOUM
 Starmap index: 41
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, THIN, ATMOSPHERE. (NOTES BY NEUZD, 6011:797.628)              

@@ -1,6 +1,8 @@
-Planet: ANCIENT PIG
+Moon: ANCIENT PIG
 Starmap index: 25
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: ARDESIA
+Moon id: 0
 
 Guide entries:
 FUERTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

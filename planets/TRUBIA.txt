@@ -1,6 +1,8 @@
-Planet: TRUBIA
+Moon: TRUBIA
 Starmap index: 09
 Paris coordinates: 10412144, 437173, -10540020
+Orbits: TRACTARIAN
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GREY AND VERY

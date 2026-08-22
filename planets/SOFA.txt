@@ -1,6 +1,8 @@
-Planet: SOFA
+Moon: SOFA
 Starmap index: 09
 Paris coordinates: 4774288, -88467, -5061867
+Orbits: SCRATCHING POST
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. PLENTY OF LARGE CRATERS

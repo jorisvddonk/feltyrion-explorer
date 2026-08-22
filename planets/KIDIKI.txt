@@ -1,6 +1,8 @@
-Planet: KIDIKI
+Moon: KIDIKI
 Starmap index: 11
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: JOKE OF THE GODS
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NICE LARGE CRATERS AND

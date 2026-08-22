@@ -1,6 +1,8 @@
-Planet: CYANOS
+Moon: CYANOS
 Starmap index: 27
 Paris coordinates: 974288, 1321067, -1251662
+Orbits: SIX MARK
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY FOTIOS. EPOC 6011:609.530

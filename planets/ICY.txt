@@ -1,6 +1,8 @@
-Planet: ICY
+Moon: ICY
 Starmap index: 42
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 14
 
 Guide entries:
  MABY THE OTHERMOST WORLD OF THE DRAKHNATORIA SYSTEM. ICY IS A MOON OF THE

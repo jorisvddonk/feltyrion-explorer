@@ -1,3 +1,5 @@
-Planet: THE ONE WHO LOVED ME
+Moon: THE ONE WHO LOVED ME
 Starmap index: 04
 Paris coordinates: 14741040, 32431250, -7368054
+Orbits: REQUIEM FOR A FOE
+Moon id: 0

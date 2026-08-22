@@ -1,6 +1,8 @@
-Planet: ESPONJA
+Moon: ESPONJA
 Starmap index: 22
 Paris coordinates: 2935344, 4630986, 272990
+Orbits: VIRIDIANA
+Moon id: 4
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.920 -                               

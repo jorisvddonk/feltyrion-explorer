@@ -1,3 +1,5 @@
-Planet: MOTOK
+Moon: MOTOK
 Starmap index: 26
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: NAMELESS ONE
+Moon id: 1

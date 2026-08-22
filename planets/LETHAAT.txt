@@ -1,6 +1,8 @@
-Planet: LETHAAT
+Moon: LETHAAT
 Starmap index: 19
 Paris coordinates: -1323161232, -1306991, -1179428207
+Orbits: SOKUN 3
+Moon id: 0
 
 Guide entries:
 SOKUN 01/03; FELISIAN

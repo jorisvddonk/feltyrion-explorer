@@ -1,3 +1,5 @@
-Planet: AEX-10-D
+Moon: AEX-10-D
 Starmap index: 34
 Paris coordinates: 598576, 4279484, -1591122
+Orbits: AEX-10
+Moon id: 3

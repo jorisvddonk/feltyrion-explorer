@@ -1,6 +1,8 @@
-Planet: RUURE
+Moon: RUURE
 Starmap index: 32
 Paris coordinates: 1877136, 4742805, -279081
+Orbits: planet index 07
+Moon id: 2
 
 Guide entries:
 1.3RD MOON OF 7TH PLANET

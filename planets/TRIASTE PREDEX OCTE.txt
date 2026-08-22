@@ -1,3 +1,5 @@
-Planet: TRIASTE PREDEX OCTE
+Moon: TRIASTE PREDEX OCTE
 Starmap index: 38
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE PREDEX
+Moon id: 7

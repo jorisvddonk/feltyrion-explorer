@@ -1,6 +1,8 @@
-Planet: NOOLIN
+Moon: NOOLIN
 Starmap index: 17
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE STORM

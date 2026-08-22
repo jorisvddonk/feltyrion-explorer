@@ -1,6 +1,8 @@
-Planet: ROCKY-CREASE
+Moon: ROCKY-CREASE
 Starmap index: 03
 Paris coordinates: 3666416, 4631653, -817411
+Orbits: SMALL-FRENZAL
+Moon id: 0
 
 Guide entries:
  FIRST MOON OF SMALL FRENZAL. HAS NO ATMOSPHERE, GREEN.

@@ -1,3 +1,5 @@
-Planet: MINOR PERSONA
+Moon: MINOR PERSONA
 Starmap index: 15
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: DASHED ROCK
+Moon id: 0

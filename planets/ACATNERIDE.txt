@@ -1,6 +1,8 @@
-Planet: ACATNERIDE
+Moon: ACATNERIDE
 Starmap index: 08
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINOR
+Moon id: 1
 
 Guide entries:
 VERY LARGE,SUBSTELLAR OBJECT. BRIGHT, ALMOST PINKISH IN COLOUR.             

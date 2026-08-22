@@ -1,6 +1,8 @@
-Planet: NINE PINS
+Moon: NINE PINS
 Starmap index: 32
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: GLOOM
+Moon id: 0
 
 Guide entries:
  NINE PINS LOOKS SUSPICIOUSLY LIKE A BOWLING BALL, AS IT HAS THREE

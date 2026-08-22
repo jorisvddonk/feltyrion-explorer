@@ -1,6 +1,8 @@
-Planet: WHITE FUDGE
+Moon: WHITE FUDGE
 Starmap index: 11
 Paris coordinates: 118928, -45237, 83832
+Orbits: CHOCOLATE SUNDAE
+Moon id: 6
 
 Guide entries:
 EXTREMELY BRIGHT CRATERED MOON OF CHOCOLATE SUNDAE ON EKA69. THIS

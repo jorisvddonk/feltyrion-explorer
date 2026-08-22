@@ -1,6 +1,8 @@
-Planet: ELLIPSIS
+Moon: ELLIPSIS
 Starmap index: 15
 Paris coordinates: 8898576, -169784, -9929350
+Orbits: FAIENCE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE CRATERS IN

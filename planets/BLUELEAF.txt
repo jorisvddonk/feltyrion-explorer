@@ -1,6 +1,8 @@
-Planet: BLUELEAF
+Moon: BLUELEAF
 Starmap index: 20
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: SEMICEA
+Moon id: 2
 
 Guide entries:
 A FELYSIAN MOON, THE THIRD OF THE FOURTH PLANET. AN AVERAGE JUNGLE

@@ -1,3 +1,5 @@
-Planet: TOADYSTARRO X-II
+Moon: TOADYSTARRO X-II
 Starmap index: 10
 Paris coordinates: 3314992, 4584534, -1424016
+Orbits: planet index 04
+Moon id: 1

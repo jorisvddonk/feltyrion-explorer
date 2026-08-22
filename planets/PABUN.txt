@@ -1,6 +1,8 @@
-Planet: PABUN
+Moon: PABUN
 Starmap index: 18
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DARK AREAS ENHANCE THE

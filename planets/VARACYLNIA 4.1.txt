@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 4.1
+Moon: VARACYLNIA 4.1
 Starmap index: 15
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 4
+Moon id: 0
 
 Guide entries:
  SOLID, DUSTY, NO ATMOSPHERE - NOTHING OF ACTUAL INTEREST.

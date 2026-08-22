@@ -1,6 +1,8 @@
-Planet: BLUE HEAT
+Moon: BLUE HEAT
 Starmap index: 25
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 17
 
 Guide entries:
 FURTHER NOTES: LANDINGS AT 283.59, 308.41, AND 280.76 ALL PROVED TO

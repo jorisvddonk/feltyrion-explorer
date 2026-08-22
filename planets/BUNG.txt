@@ -1,6 +1,8 @@
-Planet: BUNG
+Moon: BUNG
 Starmap index: 05
 Paris coordinates: 967504, 817947, -1836791
+Orbits: COTZ
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY

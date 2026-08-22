@@ -1,3 +1,5 @@
-Planet: BIS
+Moon: BIS
 Starmap index: 39
 Paris coordinates: 2521776, 5015370, -132554
+Orbits: TRISTE
+Moon id: 12

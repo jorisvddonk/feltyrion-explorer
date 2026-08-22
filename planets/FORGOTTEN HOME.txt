@@ -1,6 +1,8 @@
-Planet: FORGOTTEN HOME
+Moon: FORGOTTEN HOME
 Starmap index: 33
 Paris coordinates: 2152848, 5623860, -112639
+Orbits: planet index 14
+Moon id: 1
 
 Guide entries:
 THERE IS SOMETHING ABOUT THIS WORLD... SEVERAL TIMES WHEN I

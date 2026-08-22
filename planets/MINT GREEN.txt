@@ -1,6 +1,8 @@
-Planet: MINT GREEN
+Moon: MINT GREEN
 Starmap index: 07
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: DEEP YELLOW
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. EXCEEDINGLY GREEN

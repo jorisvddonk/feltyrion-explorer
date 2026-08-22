@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.14
+Moon: GRANTED WISH 7.14
 Starmap index: 33
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 13
 
 Guide entries:
 THIS IS THE FELISIAN ONE WHICH I MENTIONED IN NO.7'S NOTES.                 

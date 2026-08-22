@@ -1,6 +1,8 @@
-Planet: PHYRA
+Moon: PHYRA
 Starmap index: 09
 Paris coordinates: 2140268528, -2165691, -352139
+Orbits: VYEJE
+Moon id: 0
 
 Guide entries:
 M01/P03 MRDIUM SIZED UNSTABLE INTERNALLY HOT. HAS A NICE TOASTY LIGHT       

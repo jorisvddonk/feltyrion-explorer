@@ -1,6 +1,8 @@
-Planet: A WORLD OF DARKNESS
+Moon: A WORLD OF DARKNESS
 Starmap index: 26
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: RINGORIA
+Moon id: 0
 
 Guide entries:
  A MOON IN THE DRAKHNATORIA SYSTEM. PLANET IS FULLY C

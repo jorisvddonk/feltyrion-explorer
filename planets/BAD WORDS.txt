@@ -1,6 +1,8 @@
-Planet: BAD WORDS
+Moon: BAD WORDS
 Starmap index: 17
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 0
 
 Guide entries:
 A FELISIAN ICE BOX- TEMPS AVERAGE OVER -100 DEGREES. AT 39.62 AND

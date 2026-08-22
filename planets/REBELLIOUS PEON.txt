@@ -1,6 +1,8 @@
-Planet: REBELLIOUS PEON
+Moon: REBELLIOUS PEON
 Starmap index: 20
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: KINGPIN
+Moon id: 3
 
 Guide entries:
 STORMY FELISIAN MOON OF PLANET KINGPIN.

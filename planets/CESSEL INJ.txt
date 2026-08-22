@@ -1,3 +1,5 @@
-Planet: CESSEL INJ
+Moon: CESSEL INJ
 Starmap index: 21
 Paris coordinates: 2353936, 5345300, -4116543
+Orbits: PARADELANTRY
+Moon id: 5

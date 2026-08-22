@@ -1,6 +1,8 @@
-Planet: PLIMOSUS
+Moon: PLIMOSUS
 Starmap index: 17
 Paris coordinates: 4142128, 4182625, -529864
+Orbits: GLORDOCIT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY LARGE CRATERS,

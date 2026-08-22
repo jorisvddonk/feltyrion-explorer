@@ -1,6 +1,8 @@
-Planet: JUL-DIAZ
+Moon: JUL-DIAZ
 Starmap index: 24
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 12
 
 Guide entries:
  DISCOVERED BBY TIANCRIS - EPOC 6011.685.901 -                              

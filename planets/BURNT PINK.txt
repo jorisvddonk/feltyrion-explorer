@@ -1,3 +1,5 @@
-Planet: BURNT PINK
+Moon: BURNT PINK
 Starmap index: 07
 Paris coordinates: -71737776, -612728, 53298332
+Orbits: PINK OUTCAST
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: SANBORN
+Moon: SANBORN
 Starmap index: 26
 Paris coordinates: -4872112, -75428596, -2064196
+Orbits: CINELU
+Moon id: 15
 
 Guide entries:
  DISCOVERED BY JAFO. EPOC 6011:583.290

@@ -1,6 +1,8 @@
-Planet: MORAINE
+Moon: MORAINE
 Starmap index: 28
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. IT

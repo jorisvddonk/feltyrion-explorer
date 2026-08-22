@@ -1,3 +1,5 @@
-Planet: PISSOS
+Moon: PISSOS
 Starmap index: 24
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: BEL ARFYSIA
+Moon id: 7

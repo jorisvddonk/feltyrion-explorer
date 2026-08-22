@@ -1,3 +1,5 @@
-Planet: ECLIPTICA
+Moon: ECLIPTICA
 Starmap index: 15
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MINOR
+Moon id: 4

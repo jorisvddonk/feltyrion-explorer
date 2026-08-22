@@ -1,6 +1,8 @@
-Planet: BOWD
+Moon: BOWD
 Starmap index: 17
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: ETOILE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, GOOD POLAR CAPS. SKINNYMON EPOC

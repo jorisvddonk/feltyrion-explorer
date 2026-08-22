@@ -1,6 +1,8 @@
-Planet: QUEB
+Moon: QUEB
 Starmap index: 09
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 2
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011

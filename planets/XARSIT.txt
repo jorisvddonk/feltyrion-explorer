@@ -1,3 +1,5 @@
-Planet: XARSIT
+Moon: XARSIT
 Starmap index: 11
 Paris coordinates: 3666416, 4676784, -623993
+Orbits: GALLIANT
+Moon id: 1

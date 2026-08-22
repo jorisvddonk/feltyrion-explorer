@@ -1,6 +1,8 @@
-Planet: VIN KEDAAL
+Moon: VIN KEDAAL
 Starmap index: 14
 Paris coordinates: -1521346320, -1701020, -1370627468
+Orbits: NOCHUT III
+Moon id: 2
 
 Guide entries:
 NOCHUT 03/03; QUARTZ

@@ -1,6 +1,8 @@
-Planet: FRIGID
+Moon: FRIGID
 Starmap index: 04
 Paris coordinates: 1694640, -50788, -972174
+Orbits: planet index 03
+Moon id: 0
 
 Guide entries:
 KIDITH 01/03

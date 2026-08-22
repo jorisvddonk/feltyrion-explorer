@@ -1,6 +1,8 @@
-Planet: SOMIX
+Moon: SOMIX
 Starmap index: 26
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, VERY SLIGHT POLAR CAPS.

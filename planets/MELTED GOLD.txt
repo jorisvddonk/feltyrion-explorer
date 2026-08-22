@@ -1,6 +1,8 @@
-Planet: MELTED GOLD
+Moon: MELTED GOLD
 Starmap index: 15
 Paris coordinates: 570352, -17743, 592279
+Orbits: NOTASTAR
+Moon id: 3
 
 Guide entries:
 THR NAMES SAYS EVERYTHING.LOOKS GOLD WHEN LIT BY THE SUN.

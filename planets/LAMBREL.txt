@@ -1,3 +1,5 @@
-Planet: LAMBREL
+Moon: LAMBREL
 Starmap index: 18
 Paris coordinates: -1342128, 7759850, -2085923
+Orbits: LUNOR
+Moon id: 0

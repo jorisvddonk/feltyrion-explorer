@@ -1,3 +1,5 @@
-Planet: KARSU
+Moon: KARSU
 Starmap index: 17
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: MANNING
+Moon id: 9

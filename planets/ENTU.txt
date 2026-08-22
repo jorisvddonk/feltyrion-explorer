@@ -1,6 +1,8 @@
-Planet: ENTU
+Moon: ENTU
 Starmap index: 20
 Paris coordinates: 3628560, 4254023, -915798
+Orbits: BLACKLANDS
+Moon id: 1
 
 Guide entries:
 FOUNDED EPOC 6011, 680.210.795 BY REZA. 2ND MOON OF BLACKLANDS.             

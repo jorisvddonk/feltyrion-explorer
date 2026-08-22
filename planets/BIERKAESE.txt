@@ -1,6 +1,8 @@
-Planet: BIERKAESE
+Moon: BIERKAESE
 Starmap index: 62
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: DOPPLRHAMSTUFE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DARKLY REFLECTIVE

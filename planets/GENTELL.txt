@@ -1,3 +1,5 @@
-Planet: GENTELL
+Moon: GENTELL
 Starmap index: 12
 Paris coordinates: 11658800, -19309869, 17985113
+Orbits: ASKEW 32E
+Moon id: 0

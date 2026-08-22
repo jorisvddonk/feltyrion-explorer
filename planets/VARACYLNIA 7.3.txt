@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 7.3
+Moon: VARACYLNIA 7.3
 Starmap index: 21
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 7
+Moon id: 2
 
 Guide entries:
  TIDAL STRESS FROM THE OTHER MOONS, AND THE MAIN PLANET, HAS

@@ -1,3 +1,5 @@
-Planet: NAYBHOVAM
+Moon: NAYBHOVAM
 Starmap index: 40
 Paris coordinates: -614992, 734031, -1219112
+Orbits: PAGU HEZPIVIR
+Moon id: 3

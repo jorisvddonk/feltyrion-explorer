@@ -1,6 +1,8 @@
-Planet: CRATER MOON
+Moon: CRATER MOON
 Starmap index: 10
 Paris coordinates: 4111056, 4595355, -531038
+Orbits: PREZIOSO
+Moon id: 1
 
 Guide entries:
  YOU CAN SEE A HUGE CRATER FROM THE ORBIT. INCREDIBLE! (NOTES SEND

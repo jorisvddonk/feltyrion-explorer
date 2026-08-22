@@ -1,3 +1,5 @@
-Planet: BRIGHTAGATE
+Moon: BRIGHTAGATE
 Starmap index: 12
 Paris coordinates: 3952848, 5179972, -1848799
+Orbits: SUNSTONE
+Moon id: 0

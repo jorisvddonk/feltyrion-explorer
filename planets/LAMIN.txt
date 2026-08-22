@@ -1,3 +1,5 @@
-Planet: LAMIN
+Moon: LAMIN
 Starmap index: 67
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: GYRIGUE
+Moon id: 0

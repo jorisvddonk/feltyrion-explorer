@@ -1,6 +1,8 @@
-Planet: FARADAR P
+Moon: FARADAR P
 Starmap index: 22
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 15
 
 Guide entries:
 A BEIGE, ALMOST GLOWING QUARTZWORLD. (SCHMERM 6011 584.162)

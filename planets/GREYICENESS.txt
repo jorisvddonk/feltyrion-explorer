@@ -1,3 +1,5 @@
-Planet: GREYICENESS
+Moon: GREYICENESS
 Starmap index: 54
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: ORANGE SECRET
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: DIZKE
+Moon: DIZKE
 Starmap index: 32
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A VERY YELLOWISH-WHITE

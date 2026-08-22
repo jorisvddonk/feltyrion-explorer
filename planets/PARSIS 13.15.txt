@@ -1,6 +1,8 @@
-Planet: PARSIS 13.15
+Moon: PARSIS 13.15
 Starmap index: 71
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 14
 
 Guide entries:
  SMALL. SOLID. ICY. NO ATMOSPHERE. NEAR ABSOLUTE ZERO TEMPERATURE

@@ -1,3 +1,5 @@
-Planet: KARHUTON
+Moon: KARHUTON
 Starmap index: 18
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: SINENEN
+Moon id: 0

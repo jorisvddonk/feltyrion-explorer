@@ -1,6 +1,8 @@
-Planet: UNCHARMED
+Moon: UNCHARMED
 Starmap index: 25
 Paris coordinates: 918928, -67261658, -687914
+Orbits: FREMO
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY JAFO. EPOC 6011:584:377

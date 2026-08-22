@@ -1,6 +1,8 @@
-Planet: KARYOGAMY
+Moon: KARYOGAMY
 Starmap index: 27
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: HAAR
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE REFLECTIVE

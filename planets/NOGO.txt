@@ -1,6 +1,8 @@
-Planet: NOGO
+Moon: NOGO
 Starmap index: 22
 Paris coordinates: 3153936, 4261063, -4661503
+Orbits: STRIDOR
+Moon id: 8
 
 Guide entries:
  22ND PLANET OF HARCOR SYSTEM. DISC BY SCAREDY-CAT, EPOC 6011.585.614

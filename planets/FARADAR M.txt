@@ -1,6 +1,8 @@
-Planet: FARADAR M
+Moon: FARADAR M
 Starmap index: 19
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 12
 
 Guide entries:
 A BEIGE-COLORED QUARTZWORLD. (SCHMERM 6011 584.162)

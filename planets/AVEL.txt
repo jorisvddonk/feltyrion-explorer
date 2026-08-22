@@ -1,6 +1,8 @@
-Planet: AVEL
+Moon: AVEL
 Starmap index: 56
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: ABIL
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.814                                    

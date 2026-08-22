@@ -1,3 +1,5 @@
-Planet: BULBI-09-A
+Moon: BULBI-09-A
 Starmap index: 49
 Paris coordinates: 2101424, 6142806, -960659
+Orbits: BULBI-09
+Moon id: 0

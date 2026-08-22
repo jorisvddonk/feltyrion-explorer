@@ -1,6 +1,8 @@
-Planet: ATHLES
+Moon: ATHLES
 Starmap index: 09
 Paris coordinates: 2060398160, -1842327, 78233
+Orbits: BACORK
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY VERY LARGE CRATERS WITH DARK RAYS ON BRIGHT       

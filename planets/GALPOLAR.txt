@@ -1,6 +1,8 @@
-Planet: GALPOLAR
+Moon: GALPOLAR
 Starmap index: 18
 Paris coordinates: -1108208, -712825, -246456
+Orbits: BLYSPHERE
+Moon id: 4
 
 Guide entries:
 MOON OF BLYSPHERE. SMALL, SOLID, THIN ATMOSPHERE.

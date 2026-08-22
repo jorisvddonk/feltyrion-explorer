@@ -1,3 +1,5 @@
-Planet: DEADROCK
+Moon: DEADROCK
 Starmap index: 40
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: ATOMIKA
+Moon id: 6

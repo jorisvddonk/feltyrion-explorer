@@ -1,6 +1,8 @@
-Planet: GLORBERON M
+Moon: GLORBERON M
 Starmap index: 24
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 12
 
 Guide entries:
 A DENSEWORLD. LIGHT-BLUE CLOUDS. (SCHMERM 6011 582.599)

@@ -1,3 +1,5 @@
-Planet: OLIVE 2
+Moon: OLIVE 2
 Starmap index: 17
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: ONYX MARBLE
+Moon id: 1

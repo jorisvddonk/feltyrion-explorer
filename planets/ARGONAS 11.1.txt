@@ -1,6 +1,8 @@
-Planet: ARGONAS 11.1
+Moon: ARGONAS 11.1
 Starmap index: 30
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 11
+Moon id: 0
 
 Guide entries:
  ROCKY, CREASED, NO ATMOSPHERE. (STARGAZER. EPOC 6011:596:891)

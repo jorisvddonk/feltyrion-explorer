@@ -1,6 +1,8 @@
-Planet: KAWBONE
+Moon: KAWBONE
 Starmap index: 10
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PACCARDO
+Moon id: 0
 
 Guide entries:
 NO ATMOSPHERE, CRATORISED. LIFELESS.

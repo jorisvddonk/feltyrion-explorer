@@ -1,6 +1,8 @@
-Planet: BAD PIZZA
+Moon: BAD PIZZA
 Starmap index: 23
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 11
 
 Guide entries:
 A HELLWORLD. IMPOSSIBLE TO LAND. (SCHMERM 6011 582.599)

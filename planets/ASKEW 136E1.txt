@@ -1,3 +1,5 @@
-Planet: ASKEW 136E1
+Moon: ASKEW 136E1
 Starmap index: 10
 Paris coordinates: 8463824, -17122580, 15758770
+Orbits: ASKEW 136E
+Moon id: 0

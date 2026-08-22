@@ -1,6 +1,8 @@
-Planet: DUBIETY
+Moon: DUBIETY
 Starmap index: 17
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 4
 
 Guide entries:
 A FELISIAN WORLD- AT 251.60 AND 5.41 IT WAS HILLY AND BARREN. AT

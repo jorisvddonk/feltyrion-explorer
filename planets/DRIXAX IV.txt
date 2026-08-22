@@ -1,6 +1,8 @@
-Planet: DRIXAX IV
+Moon: DRIXAX IV
 Starmap index: 17
 Paris coordinates: 3711056, 4612074, -78250
+Orbits: DRIXAX
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY NEURONWAKE EPOC 802.529.882                                   

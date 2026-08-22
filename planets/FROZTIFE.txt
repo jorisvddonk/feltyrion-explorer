@@ -1,3 +1,5 @@
-Planet: FROZTIFE
+Moon: FROZTIFE
 Starmap index: 24
 Paris coordinates: 4734096, 4850743, 38908954
+Orbits: planet index 03
+Moon id: 16

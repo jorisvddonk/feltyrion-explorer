@@ -1,3 +1,5 @@
-Planet: SAUSAGE BOLTON
+Moon: SAUSAGE BOLTON
 Starmap index: 21
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: TAMMY
+Moon id: 0

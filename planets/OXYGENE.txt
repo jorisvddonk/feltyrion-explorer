@@ -1,6 +1,8 @@
-Planet: OXYGENE
+Moon: OXYGENE
 Starmap index: 39
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS MAXIMA
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED MOON, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

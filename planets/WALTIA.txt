@@ -1,6 +1,8 @@
-Planet: WALTIA
+Moon: WALTIA
 Starmap index: 17
 Paris coordinates: -1108208, -712825, -246456
+Orbits: BLYSPHERE
+Moon id: 3
 
 Guide entries:
 MOON OF BLYSPHERE. MEDIUM-SIZE AND FELISIAN.

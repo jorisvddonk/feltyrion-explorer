@@ -1,6 +1,8 @@
-Planet: FOLK MEDICINE
+Moon: FOLK MEDICINE
 Starmap index: 21
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 1
 
 Guide entries:
  A FELISIAN WORLD- ALBEIT, COLD. AT 43.61 I LANDED IN

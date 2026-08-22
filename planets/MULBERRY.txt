@@ -1,6 +1,8 @@
-Planet: MULBERRY
+Moon: MULBERRY
 Starmap index: 30
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: VIOLET CRAYON
+Moon id: 5
 
 Guide entries:
 MOON 6 OF PLANET 7 IN CRAYOLA SYSTEM. FELISIAN.

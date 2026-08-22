@@ -1,6 +1,8 @@
-Planet: SUB ZERO
+Moon: SUB ZERO
 Starmap index: 12
 Paris coordinates: 356784, -74457, 270756
+Orbits: planet index 04
+Moon id: 1
 
 Guide entries:
 MOON 2/4, CRATERIZED, LIGHT BLUE FROM ORBIT.

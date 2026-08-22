@@ -1,6 +1,8 @@
-Planet: A MOON
+Moon: A MOON
 Starmap index: 25
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 8
 
 Guide entries:
  A MOON I THE DRACHNATORIA SYSTEM. FULLY COVERED BY CLOUDS, VERY DARK.

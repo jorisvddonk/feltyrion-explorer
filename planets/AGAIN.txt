@@ -1,6 +1,8 @@
-Planet: AGAIN
+Moon: AGAIN
 Starmap index: 46
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 5
 
 Guide entries:
 AGAIN A ICE PLANET

@@ -1,6 +1,8 @@
-Planet: KOLN GAMMA
+Moon: KOLN GAMMA
 Starmap index: 56
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 2
 
 Guide entries:
 THRID MOON OF PLANET KOLN IN THE GENISI SYSTEM

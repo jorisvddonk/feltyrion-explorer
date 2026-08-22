@@ -1,3 +1,5 @@
-Planet: CATCATMUNZALEX
+Moon: CATCATMUNZALEX
 Starmap index: 14
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: KUROSSE
+Moon id: 5

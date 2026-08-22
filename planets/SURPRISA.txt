@@ -1,6 +1,8 @@
-Planet: SURPRISA
+Moon: SURPRISA
 Starmap index: 04
 Paris coordinates: 3452848, 4218536, -1189215
+Orbits: SOSOPAT
+Moon id: 0
 
 Guide entries:
  THIS NATURAL SATELLITE OF SOSOPAT IS VERY MOUTAINOUS.                      

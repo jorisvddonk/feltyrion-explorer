@@ -1,3 +1,5 @@
-Planet: BEAR
+Moon: BEAR
 Starmap index: 55
 Paris coordinates: 3921776, 4763420, -1645195
+Orbits: planet index 10
+Moon id: 0

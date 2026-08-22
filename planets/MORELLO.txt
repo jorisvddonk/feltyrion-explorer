@@ -1,6 +1,8 @@
-Planet: MORELLO
+Moon: MORELLO
 Starmap index: 15
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 7
 
 Guide entries:
 UPDATE: SMALL, SOLID, THIN ATMOSPHERE. DARK WITH SMALL POLE CAPS, IF

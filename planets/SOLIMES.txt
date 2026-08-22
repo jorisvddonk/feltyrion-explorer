@@ -1,3 +1,5 @@
-Planet: SOLIMES
+Moon: SOLIMES
 Starmap index: 15
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: JB 101
+Moon id: 2

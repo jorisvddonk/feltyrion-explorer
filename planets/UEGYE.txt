@@ -1,6 +1,8 @@
-Planet: UEGYE
+Moon: UEGYE
 Starmap index: 22
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: BRIDAR
+Moon id: 0
 
 Guide entries:
 A GREY DUSTY MOON, THE FIRST OF THE EIGHTH PLANET. SURPRISINGLY, THERE

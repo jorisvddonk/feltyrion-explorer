@@ -1,6 +1,8 @@
-Planet: ILEFI
+Moon: ILEFI
 Starmap index: 14
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 7
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. RATHER DARK, WITH

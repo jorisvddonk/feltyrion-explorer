@@ -1,6 +1,8 @@
-Planet: BETWEEN
+Moon: BETWEEN
 Starmap index: 03
 Paris coordinates: 2952848, 4848045, -883575
+Orbits: ENGIROTORTES MINOR
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT.

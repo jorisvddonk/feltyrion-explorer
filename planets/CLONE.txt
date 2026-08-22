@@ -1,6 +1,8 @@
-Planet: CLONE
+Moon: CLONE
 Starmap index: 14
 Paris coordinates: 2358544, 6213718, 4159543
+Orbits: planet index 03
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY SHADOW151 6011.598.32

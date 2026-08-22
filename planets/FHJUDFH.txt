@@ -1,6 +1,8 @@
-Planet: FHJUDFH
+Moon: FHJUDFH
 Starmap index: 17
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 1
 
 Guide entries:
 M02/P07 MEDIUM SIZE QUARTZ SURFACE REFLECTIVE WHITISH SURFACE WITH          

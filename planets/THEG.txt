@@ -1,6 +1,8 @@
-Planet: THEG
+Moon: THEG
 Starmap index: 15
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: THION
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, GOOD POLAR CAPS. SKINNYMON EPOC 6011

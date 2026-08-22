@@ -1,3 +1,5 @@
-Planet: ARAFAT
+Moon: ARAFAT
 Starmap index: 41
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: BIGGREYTHING
+Moon id: 11

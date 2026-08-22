@@ -1,6 +1,8 @@
-Planet: QUORAN 2
+Moon: QUORAN 2
 Starmap index: 16
 Paris coordinates: -2233584, 33860885, 5055785
+Orbits: QUORAN
+Moon id: 1
 
 Guide entries:
  THIS MOON IS MUCH THE SAME AS THE OTHER ONE: SMALL, SOLID, DUSTY AND

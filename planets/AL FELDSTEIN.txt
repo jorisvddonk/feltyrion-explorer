@@ -1,6 +1,8 @@
-Planet: AL FELDSTEIN
+Moon: AL FELDSTEIN
 Starmap index: 11
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: ALFRED E NEUMAN
+Moon id: 0
 
 Guide entries:
 FELISIAN MOON IN MAD MAGAZINE SYSTEM

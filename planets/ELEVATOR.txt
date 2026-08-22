@@ -1,3 +1,5 @@
-Planet: ELEVATOR
+Moon: ELEVATOR
 Starmap index: 15
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: PHONE
+Moon id: 0

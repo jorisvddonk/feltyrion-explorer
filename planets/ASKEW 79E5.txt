@@ -1,6 +1,8 @@
-Planet: ASKEW 79E5
+Moon: ASKEW 79E5
 Starmap index: 14
 Paris coordinates: 11552016, -19489626, 17676794
+Orbits: ASKEW 79E
+Moon id: 4
 
 Guide entries:
 FOUND EPOC 6011 588.292.350 BY ROLAND ASKEW

@@ -1,3 +1,5 @@
-Planet: TRIASTE OCTILLE TRIL
+Moon: TRIASTE OCTILLE TRIL
 Starmap index: 25
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE OCTILLE
+Moon id: 2

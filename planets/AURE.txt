@@ -1,6 +1,8 @@
-Planet: AURE
+Moon: AURE
 Starmap index: 15
 Paris coordinates: -1666416, 405906, -1094497
+Orbits: IRANON
+Moon id: 5
 
 Guide entries:
  OBSERVED A STRANGE ANIMAL THAT MOVED AS IF IT WAS CHARGING AT SOMETHING.

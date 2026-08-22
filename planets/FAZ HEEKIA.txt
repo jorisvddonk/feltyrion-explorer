@@ -1,3 +1,5 @@
-Planet: FAZ HEEKIA
+Moon: FAZ HEEKIA
 Starmap index: 09
 Paris coordinates: 4700336, 5232862, 175184
+Orbits: TEEGAM
+Moon id: 1

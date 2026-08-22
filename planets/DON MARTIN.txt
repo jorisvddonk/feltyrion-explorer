@@ -1,6 +1,8 @@
-Planet: DON MARTIN
+Moon: DON MARTIN
 Starmap index: 13
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: ALFRED E NEUMAN
+Moon id: 2
 
 Guide entries:
 MOON IN MAD MAGAZINE SYSTEM

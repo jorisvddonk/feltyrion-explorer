@@ -1,6 +1,8 @@
-Planet: VIPER 3.3
+Moon: VIPER 3.3
 Starmap index: 08
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 2
 
 Guide entries:
 STANDARD DUSTY, CRATERIZED GLOBE - THANKS PARSIS. I COULDN'T TAKE ON

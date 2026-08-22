@@ -1,3 +1,5 @@
-Planet: GHOST DUNES
+Moon: GHOST DUNES
 Starmap index: 21
 Paris coordinates: 570352, -17743, 592279
+Orbits: NOTASTAR
+Moon id: 9

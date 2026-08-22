@@ -1,3 +1,5 @@
-Planet: DULTCH
+Moon: DULTCH
 Starmap index: 14
 Paris coordinates: 3959632, 4540688, -1516089
+Orbits: KRYPTON
+Moon id: 1

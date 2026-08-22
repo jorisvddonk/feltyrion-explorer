@@ -1,3 +1,5 @@
-Planet: MIZNIAM
+Moon: MIZNIAM
 Starmap index: 33
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 16

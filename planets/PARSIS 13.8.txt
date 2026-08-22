@@ -1,6 +1,8 @@
-Planet: PARSIS 13.8
+Moon: PARSIS 13.8
 Starmap index: 64
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 7
 
 Guide entries:
  VERY COLD, ICY ROCK IN SPACE. MANY FO THOSE HERE.

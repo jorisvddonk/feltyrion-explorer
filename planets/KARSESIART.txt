@@ -1,6 +1,8 @@
-Planet: KARSESIART
+Moon: KARSESIART
 Starmap index: 11
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: VAMEVARI
+Moon id: 0
 
 Guide entries:
 M01/P05 THIN ATMO. MODERATE REFLECTIVITY, FAIR POLAR CAPS. PRO

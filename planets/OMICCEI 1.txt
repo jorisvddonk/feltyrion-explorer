@@ -1,3 +1,5 @@
-Planet: OMICCEI 1
+Moon: OMICCEI 1
 Starmap index: 13
 Paris coordinates: 3763568, 5569852, -2799046
+Orbits: OMICRON PERCEI 5
+Moon id: 0

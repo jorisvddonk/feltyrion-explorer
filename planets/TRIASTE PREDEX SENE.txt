@@ -1,3 +1,5 @@
-Planet: TRIASTE PREDEX SENE
+Moon: TRIASTE PREDEX SENE
 Starmap index: 46
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE PREDEX
+Moon id: 15

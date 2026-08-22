@@ -1,3 +1,5 @@
-Planet: IOKAX
+Moon: IOKAX
 Starmap index: 13
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: HLOKNIRFRAK
+Moon id: 0

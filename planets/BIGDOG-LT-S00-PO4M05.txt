@@ -1,3 +1,5 @@
-Planet: BIGDOG-LT-S00-PO4M05
+Moon: BIGDOG-LT-S00-PO4M05
 Starmap index: 15
 Paris coordinates: 4470352, 8527919, -3255560
+Orbits: BIGDOG-LT-S00-P04
+Moon id: 4

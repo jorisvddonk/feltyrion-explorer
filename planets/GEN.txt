@@ -1,6 +1,8 @@
-Planet: GEN
+Moon: GEN
 Starmap index: 08
 Paris coordinates: 21446160, 6389208, 40270646
+Orbits: PEING
+Moon id: 0
 
 Guide entries:
 A GREEN ROCKY MOON, THE FIRST OF THE FOURTH PLANET. AVERAGE LAND FEATURES.

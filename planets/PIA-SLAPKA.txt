@@ -1,6 +1,8 @@
-Planet: PIA-SLAPKA
+Moon: PIA-SLAPKA
 Starmap index: 20
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 8
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.900 -                               

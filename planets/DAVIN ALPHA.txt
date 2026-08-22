@@ -1,6 +1,8 @@
-Planet: DAVIN ALPHA
+Moon: DAVIN ALPHA
 Starmap index: 33
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET DAVIN IN THE GENISI SYSTEM

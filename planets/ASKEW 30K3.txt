@@ -1,3 +1,5 @@
-Planet: ASKEW 30K3
+Moon: ASKEW 30K3
 Starmap index: 75
 Paris coordinates: 11558800, -19461295, 17911789
+Orbits: ASKEW 30K
+Moon id: 2

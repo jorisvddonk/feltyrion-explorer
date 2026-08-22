@@ -1,3 +1,5 @@
-Planet: PHIL HAHN
+Moon: PHIL HAHN
 Starmap index: 30
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: MORT DRUCKER
+Moon id: 0

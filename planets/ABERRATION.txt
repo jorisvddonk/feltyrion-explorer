@@ -1,6 +1,8 @@
-Planet: ABERRATION
+Moon: ABERRATION
 Starmap index: 74
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PARAPET
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD-THIS WORLD LOOKS SO DARK THAT EVEN I DON'T WANT TO

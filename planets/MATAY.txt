@@ -1,6 +1,8 @@
-Planet: MATAY
+Moon: MATAY
 Starmap index: 27
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 10
 
 Guide entries:
 SMAL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, BARELY VISIBLE POLAR CAPS.

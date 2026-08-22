@@ -1,6 +1,8 @@
-Planet: CORPUS JURIS
+Moon: CORPUS JURIS
 Starmap index: 19
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD- BLUE IN COLOR WITH SOME LARGE BODIES OF WATER.

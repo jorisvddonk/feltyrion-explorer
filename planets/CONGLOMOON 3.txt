@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 3
+Moon: CONGLOMOON 3
 Starmap index: 13
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 7
 
 Guide entries:
 ALSO HAS POLAR ICE/TUNDRA.

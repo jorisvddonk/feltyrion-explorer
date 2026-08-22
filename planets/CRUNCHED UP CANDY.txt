@@ -1,6 +1,8 @@
-Planet: CRUNCHED UP CANDY
+Moon: CRUNCHED UP CANDY
 Starmap index: 18
 Paris coordinates: -332496, -19693, -380818
+Orbits: SPECKLE
+Moon id: 0
 
 Guide entries:
 WHITE CRATERED MOON OF LAYERED JAWBREAKER ON EKA40. IT HAS

@@ -1,6 +1,8 @@
-Planet: SESFHAL
+Moon: SESFHAL
 Starmap index: 10
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 6
 
 Guide entries:
 M07/P03 SMALL SOLID THIN ATMO, SLIGHTLY BRIGHT, GOOD POLAR CAPS. PRO        

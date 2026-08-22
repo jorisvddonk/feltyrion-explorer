@@ -1,3 +1,5 @@
-Planet: FOLLOWER
+Moon: FOLLOWER
 Starmap index: 09
 Paris coordinates: 612144, 399853, -785670
+Orbits: PULFIN
+Moon id: 0

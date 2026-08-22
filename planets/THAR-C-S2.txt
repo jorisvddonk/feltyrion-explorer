@@ -1,3 +1,5 @@
-Planet: THAR-C-S2
+Moon: THAR-C-S2
 Starmap index: 05
 Paris coordinates: 1067504, 2853456, -2022590
+Orbits: THAR-C
+Moon id: 1

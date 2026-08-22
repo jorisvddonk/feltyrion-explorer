@@ -1,6 +1,8 @@
-Planet: SAMMY
+Moon: SAMMY
 Starmap index: 08
 Paris coordinates: 3252848, 4365390, -954754
+Orbits: MORITZ 5
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY SAMUEL MORITZ EPOC 6011 577.476.850

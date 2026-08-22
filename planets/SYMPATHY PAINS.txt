@@ -1,6 +1,8 @@
-Planet: SYMPATHY PAINS
+Moon: SYMPATHY PAINS
 Starmap index: 23
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 3
 
 Guide entries:
 A FELISIAN WORLD- AT 0.57 I FOUND A HILLY FOREST WITH SILICON

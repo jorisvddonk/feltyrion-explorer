@@ -1,3 +1,5 @@
-Planet: ANDRAIS TRIACUS NAHL
+Moon: ANDRAIS TRIACUS NAHL
 Starmap index: 15
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS TRIACUS
+Moon id: 8

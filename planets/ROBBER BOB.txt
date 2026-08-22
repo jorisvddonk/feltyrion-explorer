@@ -1,3 +1,5 @@
-Planet: ROBBER BOB
+Moon: ROBBER BOB
 Starmap index: 27
 Paris coordinates: 70352, 945533, 1134813
+Orbits: TRILAR
+Moon id: 11

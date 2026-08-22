@@ -1,3 +1,5 @@
-Planet: QHERCING
+Moon: QHERCING
 Starmap index: 08
 Paris coordinates: 5265328, 2222843, 1446761
+Orbits: ASKEW 10B
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: CRADIOUS
+Moon: CRADIOUS
 Starmap index: 07
 Paris coordinates: 2977136, 4457174, -1185882
+Orbits: LOUNENS
+Moon id: 0

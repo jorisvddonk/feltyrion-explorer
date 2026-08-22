@@ -1,3 +1,5 @@
-Planet: THINKING OF YOU
+Moon: THINKING OF YOU
 Starmap index: 16
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: NADIR
+Moon id: 2

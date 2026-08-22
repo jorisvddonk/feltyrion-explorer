@@ -1,6 +1,8 @@
-Planet: INDO SILVER
+Moon: INDO SILVER
 Starmap index: 20
 Paris coordinates: 3521776, 4359539, -1148567
+Orbits: FRESH
+Moon id: 0
 
 Guide entries:
 THIS IS A FLATISH MOON WITH A THIN ATMOSPHERE. ATX237 SHINES QUITE

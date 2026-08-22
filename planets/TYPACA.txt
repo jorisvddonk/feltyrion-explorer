@@ -1,6 +1,8 @@
-Planet: TYPACA
+Moon: TYPACA
 Starmap index: 20
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 3
+Moon id: 7
 
 Guide entries:
 YET ANOTHER PURPLE/GREEN CLOUDY WORLD

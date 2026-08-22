@@ -1,6 +1,8 @@
-Planet: ZEBRIM E
+Moon: ZEBRIM E
 Starmap index: 12
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 4
 
 Guide entries:
 A RED HELLWORLD. (SCHMERM 6011 584.404)

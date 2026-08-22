@@ -1,6 +1,8 @@
-Planet: VAJAR
+Moon: VAJAR
 Starmap index: 04
 Paris coordinates: 2070974544, -1657016, -20712
+Orbits: AMPLIUS
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY VERY LARGE CRATERS WITH WHITE RAYS ON GREEN       

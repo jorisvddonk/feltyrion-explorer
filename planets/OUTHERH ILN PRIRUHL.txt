@@ -1,3 +1,5 @@
-Planet: OUTHERH ILN PRIRUHL
+Moon: OUTHERH ILN PRIRUHL
 Starmap index: 20
 Paris coordinates: 59195344, -33661137, 926861759
+Orbits: HURERH FA FARL
+Moon id: 6

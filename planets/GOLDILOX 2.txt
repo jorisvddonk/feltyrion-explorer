@@ -1,6 +1,8 @@
-Planet: GOLDILOX 2
+Moon: GOLDILOX 2
 Starmap index: 11
 Paris coordinates: 3628560, 4254023, -915798
+Orbits: ROSEBEAD
+Moon id: 4
 
 Guide entries:
 FOUNDED EPOC 6011, 678.980.422 BY REZA. 5TH MOON OF ROSEBEAD.               

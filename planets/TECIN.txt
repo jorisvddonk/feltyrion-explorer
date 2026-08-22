@@ -1,6 +1,8 @@
-Planet: TECIN
+Moon: TECIN
 Starmap index: 21
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 6
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. CLOUD COVER HAS A

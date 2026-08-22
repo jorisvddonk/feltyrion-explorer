@@ -1,3 +1,5 @@
-Planet: YTTERBRANITWA
+Moon: YTTERBRANITWA
 Starmap index: 11
 Paris coordinates: 59081776, -33288570, 926170502
+Orbits: FUROKIATWA
+Moon id: 2

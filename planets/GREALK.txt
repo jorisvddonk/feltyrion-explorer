@@ -1,6 +1,8 @@
-Planet: GREALK
+Moon: GREALK
 Starmap index: 30
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 11
 
 Guide entries:
 *EIGHT* PLANET OF ITS KIND.

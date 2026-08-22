@@ -1,6 +1,8 @@
-Planet: ONFIN
+Moon: ONFIN
 Starmap index: 08
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: GONEL
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. QUITE ROUGH LOOKING WITHOUT

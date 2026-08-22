@@ -1,6 +1,8 @@
-Planet: SWISS
+Moon: SWISS
 Starmap index: 41
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD- AT 209.60, THE SKY IS RATHER DARK- AND IT'S DAYTIME.

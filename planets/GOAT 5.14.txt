@@ -1,6 +1,8 @@
-Planet: GOAT 5.14
+Moon: GOAT 5.14
 Starmap index: 35
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 5
+Moon id: 13
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT, UNSTABLE SURFACE. UNINVITING, TO SAY

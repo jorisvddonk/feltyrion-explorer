@@ -1,3 +1,5 @@
-Planet: GROMMIT
+Moon: GROMMIT
 Starmap index: 27
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: DENCHAN
+Moon id: 0

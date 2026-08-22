@@ -1,6 +1,8 @@
-Planet: GEGSH
+Moon: GEGSH
 Starmap index: 33
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY D
+Moon id: 7
 
 Guide entries:
 SUBSTELLAR GAS GIANT. (SCHMERM 6011 584.34)

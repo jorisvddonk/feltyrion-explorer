@@ -1,3 +1,5 @@
-Planet: MEDOUSA
+Moon: MEDOUSA
 Starmap index: 12
 Paris coordinates: 612144, 399853, -785670
+Orbits: PULFIN
+Moon id: 3

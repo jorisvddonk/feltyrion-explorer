@@ -1,3 +1,5 @@
-Planet: OTTO
+Moon: OTTO
 Starmap index: 03
 Paris coordinates: 3746064, 4402351, -1857325
+Orbits: planet index 01
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: LILIOUS
+Moon: LILIOUS
 Starmap index: 15
 Paris coordinates: 4283920, 4264038, -2340212
+Orbits: planet index 05
+Moon id: 1

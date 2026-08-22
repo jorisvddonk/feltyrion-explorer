@@ -1,6 +1,8 @@
-Planet: CORAL II-7E
+Moon: CORAL II-7E
 Starmap index: 61
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-7
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZEED, NO ATMOSPHERE. DARKLY REFLECTIVE

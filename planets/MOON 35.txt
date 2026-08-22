@@ -1,3 +1,5 @@
-Planet: MOON 35
+Moon: MOON 35
 Starmap index: 35
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: PENULTIMUS
+Moon id: 0

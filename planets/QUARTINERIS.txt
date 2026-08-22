@@ -1,3 +1,5 @@
-Planet: QUARTINERIS
+Moon: QUARTINERIS
 Starmap index: 29
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: LARNERIDGES
+Moon id: 9

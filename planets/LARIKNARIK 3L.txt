@@ -1,3 +1,5 @@
-Planet: LARIKNARIK 3L
+Moon: LARIKNARIK 3L
 Starmap index: 18
 Paris coordinates: -25176144, -19970420, -449611016
+Orbits: LARIKNARIK 3
+Moon id: 11

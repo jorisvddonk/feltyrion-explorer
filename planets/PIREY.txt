@@ -1,6 +1,8 @@
-Planet: PIREY
+Moon: PIREY
 Starmap index: 42
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: BRIL
+Moon id: 2
 
 Guide entries:
 PINK SEEN FROM SPACE, BUT THE SURFACE IS MAINLY GREY TO BLUE. IT IS

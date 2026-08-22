@@ -1,3 +1,5 @@
-Planet: IGOR
+Moon: IGOR
 Starmap index: 04
 Paris coordinates: 3870352, 6136279, -2637786
+Orbits: BALASK
+Moon id: 0

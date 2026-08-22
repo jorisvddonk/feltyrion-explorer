@@ -1,3 +1,5 @@
-Planet: AS12221510C1
+Moon: AS12221510C1
 Starmap index: 10
 Paris coordinates: 1592048, 610176, 20215061
+Orbits: CHWARIZMI
+Moon id: 0

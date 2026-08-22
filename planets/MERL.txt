@@ -1,6 +1,8 @@
-Planet: MERL
+Moon: MERL
 Starmap index: 27
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: DIALLAGE
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. JUST

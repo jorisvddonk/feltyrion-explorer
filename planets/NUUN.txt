@@ -1,6 +1,8 @@
-Planet: NUUN
+Moon: NUUN
 Starmap index: 22
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: RAUSA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

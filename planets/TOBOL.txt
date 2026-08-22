@@ -1,3 +1,5 @@
-Planet: TOBOL
+Moon: TOBOL
 Starmap index: 41
 Paris coordinates: 70352, 945533, 1134813
+Orbits: SAPHIRE STORM
+Moon id: 6

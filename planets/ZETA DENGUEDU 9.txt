@@ -1,3 +1,5 @@
-Planet: ZETA DENGUEDU 9
+Moon: ZETA DENGUEDU 9
 Starmap index: 48
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: ZETA DENGUEDU
+Moon id: 8

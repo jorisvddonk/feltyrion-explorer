@@ -1,6 +1,8 @@
-Planet: MINOR I
+Moon: MINOR I
 Starmap index: 05
 Paris coordinates: -344976, 9517823, -4954054
+Orbits: MULTIPLIA MINOR
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.801 -                                

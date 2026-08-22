@@ -1,6 +1,8 @@
-Planet: BUUN
+Moon: BUUN
 Starmap index: 24
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATELY REFLECTIVE,

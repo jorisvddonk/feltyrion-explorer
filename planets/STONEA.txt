@@ -1,6 +1,8 @@
-Planet: STONEA
+Moon: STONEA
 Starmap index: 10
 Paris coordinates: 532496, 52240661, 457813
+Orbits: PLAINARIS
+Moon id: 0
 
 Guide entries:
 THIS MOON IS EXTREMELY CLOSE TO ITS PLANET! MY SYSTEM GIVES THE

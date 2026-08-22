@@ -1,6 +1,8 @@
-Planet: ENEMO
+Moon: ENEMO
 Starmap index: 15
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: EPOMO
+Moon id: 0
 
 Guide entries:
 M01/P06 SMALL SOLID THIN ATMO. S DOUBLE FOR EPOMO. PRO 0.199.180 PRV        

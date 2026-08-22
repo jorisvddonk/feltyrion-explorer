@@ -1,3 +1,5 @@
-Planet: DIPLAD
+Moon: DIPLAD
 Starmap index: 08
 Paris coordinates: 2394640, 4207114, -1644127
+Orbits: GROENINGLAND
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: BRINSTAR
+Moon: BRINSTAR
 Starmap index: 22
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZENTORGO
+Moon id: 10

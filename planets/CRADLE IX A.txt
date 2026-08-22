@@ -1,6 +1,8 @@
-Planet: CRADLE IX A
+Moon: CRADLE IX A
 Starmap index: 65
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IX
+Moon id: 0
 
 Guide entries:
 BLUEISH DEADWORLD. (SCHMERM 6011 592.942)

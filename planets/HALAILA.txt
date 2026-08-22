@@ -1,3 +1,5 @@
-Planet: HALAILA
+Moon: HALAILA
 Starmap index: 11
 Paris coordinates: -656528, 5145821, 23647094
+Orbits: AS12240004C
+Moon id: 7

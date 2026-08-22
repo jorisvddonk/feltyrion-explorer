@@ -1,6 +1,8 @@
-Planet: LOBULE
+Moon: LOBULE
 Starmap index: 08
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HAS A

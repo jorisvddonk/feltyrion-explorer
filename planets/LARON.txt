@@ -1,6 +1,8 @@
-Planet: LARON
+Moon: LARON
 Starmap index: 12
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. ALMOST QUIET

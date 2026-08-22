@@ -1,3 +1,5 @@
-Planet: OLIVINA
+Moon: OLIVINA
 Starmap index: 15
 Paris coordinates: 3473200, 4782739, 43271
+Orbits: GIALDORIA VII/LOCKET
+Moon id: 0

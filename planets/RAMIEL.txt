@@ -1,6 +1,8 @@
-Planet: RAMIEL
+Moon: RAMIEL
 Starmap index: 18
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: ADONAI
+Moon id: 13
 
 Guide entries:
  GAS MOON, THICK ATMOSPHERE, NO LIFE LOW VISBILITY CAUTION ADVISED

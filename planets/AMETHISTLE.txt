@@ -1,6 +1,8 @@
-Planet: AMETHISTLE
+Moon: AMETHISTLE
 Starmap index: 16
 Paris coordinates: 1063568, 4731018, -338793
+Orbits: POOBODO
+Moon id: 3
 
 Guide entries:
  DISCOVERED BY CAPTAIN KAT EPOC 6011;674.448

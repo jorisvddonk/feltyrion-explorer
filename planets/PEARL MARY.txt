@@ -1,3 +1,5 @@
-Planet: PEARL MARY
+Moon: PEARL MARY
 Starmap index: 12
 Paris coordinates: 4259632, 5344350, -1544840
+Orbits: planet index 03
+Moon id: 6

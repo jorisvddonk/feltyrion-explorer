@@ -1,6 +1,8 @@
-Planet: FERSH
+Moon: FERSH
 Starmap index: 05
 Paris coordinates: 6221776, 5252973, -3881393
+Orbits: ADOR
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY MURRMURR EPOC 6011:608.592

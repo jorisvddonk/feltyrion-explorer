@@ -1,6 +1,8 @@
-Planet: CRATMOON
+Moon: CRATMOON
 Starmap index: 06
 Paris coordinates: 4966416, 6018883, -1864728
+Orbits: BIGBOY
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY MATTHIUS HOOD EPOCH 6011 TRIADS 658.670.134

@@ -1,6 +1,8 @@
-Planet: RASPBERRY
+Moon: RASPBERRY
 Starmap index: 16
 Paris coordinates: 5662480, 4424480, -1102953
+Orbits: IMAGINOS VII
+Moon id: 0
 
 Guide entries:
 FELISIAN PLANET IN IMAGINOS SYSTEM

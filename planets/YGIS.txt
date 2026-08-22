@@ -1,6 +1,8 @@
-Planet: YGIS
+Moon: YGIS
 Starmap index: 10
 Paris coordinates: 167504, 55824, -835910
+Orbits: planet index 03
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, FAIRLY DARK, LIGHT AREA NOTED, GOOD POLAR

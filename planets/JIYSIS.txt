@@ -1,6 +1,8 @@
-Planet: JIYSIS
+Moon: JIYSIS
 Starmap index: 05
 Paris coordinates: 2090958384, -1967570, -33666
+Orbits: EMOFHAT
+Moon id: 0
 
 Guide entries:
 M01/P03 MEDIUM SIZED, ROCKY, SCARRED HEAVILY, LARGE CRATERS, LOOKS LIKE     

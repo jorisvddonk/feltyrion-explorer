@@ -1,6 +1,8 @@
-Planet: SUVALKI
+Moon: SUVALKI
 Starmap index: 15
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: TU
+Moon id: 0
 
 Guide entries:
  AN ICY MOON DISCOVERED BY MRUQE, EPOC 6011:567.530

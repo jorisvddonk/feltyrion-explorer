@@ -1,6 +1,8 @@
-Planet: SICKLY
+Moon: SICKLY
 Starmap index: 17
 Paris coordinates: 8898576, -169784, -9929350
+Orbits: CLACKTONIAN
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. THE OTHER MOON MUST

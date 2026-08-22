@@ -1,6 +1,8 @@
-Planet: SHINING
+Moon: SHINING
 Starmap index: 34
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 9
 
 Guide entries:
 UPDATE: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NICE BIG

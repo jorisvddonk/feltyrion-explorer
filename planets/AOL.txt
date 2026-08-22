@@ -1,3 +1,5 @@
-Planet: AOL
+Moon: AOL
 Starmap index: 05
 Paris coordinates: 33068432, 32076420, -845600
+Orbits: planet index 03
+Moon id: 0

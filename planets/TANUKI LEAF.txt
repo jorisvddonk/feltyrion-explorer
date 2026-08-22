@@ -1,3 +1,5 @@
-Planet: TANUKI LEAF
+Moon: TANUKI LEAF
 Starmap index: 29
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: TANUKI
+Moon id: 12

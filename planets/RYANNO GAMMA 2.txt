@@ -1,3 +1,5 @@
-Planet: RYANNO GAMMA 2
+Moon: RYANNO GAMMA 2
 Starmap index: 08
 Paris coordinates: 601679280, 1439556, 55169372
+Orbits: RYANNO GAMMA
+Moon id: 1

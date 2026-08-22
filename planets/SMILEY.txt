@@ -1,6 +1,8 @@
-Planet: SMILEY
+Moon: SMILEY
 Starmap index: 16
 Paris coordinates: 2870352, 4893903, -1697850
+Orbits: ACUALANDIA
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY LAURANA, EPOC 6011:599.953

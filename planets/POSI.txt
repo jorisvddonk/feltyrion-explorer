@@ -1,6 +1,8 @@
-Planet: POSI
+Moon: POSI
 Starmap index: 26
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: SAFEN
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A FAIR AQUA REFLECTIVITY WITH

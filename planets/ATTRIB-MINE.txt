@@ -1,6 +1,8 @@
-Planet: ATTRIB-MINE
+Moon: ATTRIB-MINE
 Starmap index: 19
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 8
 
 Guide entries:
 VOLCANIC, UNABLE TO LAND. RED MOON.

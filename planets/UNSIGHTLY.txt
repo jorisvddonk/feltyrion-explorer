@@ -1,6 +1,8 @@
-Planet: UNSIGHTLY
+Moon: UNSIGHTLY
 Starmap index: 70
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: JEALOUS MINISTAR
+Moon id: 1
 
 Guide entries:
 THIS ICY MOON IS PROBABLY JEALOUS OF JEALOUS MINISTAR.. IT IS A DARK

@@ -1,6 +1,8 @@
-Planet: PLARYN
+Moon: PLARYN
 Starmap index: 19
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: BALPIP
+Moon id: 1
 
 Guide entries:
 M02/P06 SMALL SOLID THIN ATMO, QUITE BRIGHT WITH LITTLE POLAR CAPS.         

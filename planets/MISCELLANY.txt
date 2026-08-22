@@ -1,6 +1,8 @@
-Planet: MISCELLANY
+Moon: MISCELLANY
 Starmap index: 16
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 10
 
 Guide entries:
 PLAIN GREY CLOUD-COVERED MOON OF SANITY WARP ON EKA56. GREENISH

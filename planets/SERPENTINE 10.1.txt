@@ -1,6 +1,8 @@
-Planet: SERPENTINE 10.1
+Moon: SERPENTINE 10.1
 Starmap index: 25
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 10
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, NO ATMOSPHERE, SOME LARGE CRATERS, GREEN

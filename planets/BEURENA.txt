@@ -1,3 +1,5 @@
-Planet: BEURENA
+Moon: BEURENA
 Starmap index: 15
 Paris coordinates: 822864, 5139184, -2328938
+Orbits: planet index 06
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: DEUS INSANUS
+Moon: DEUS INSANUS
 Starmap index: 23
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. LANDED AT 2.60

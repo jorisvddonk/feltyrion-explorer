@@ -1,6 +1,8 @@
-Planet: YERUPTION
+Moon: YERUPTION
 Starmap index: 38
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 12
 
 Guide entries:
 AN INTERNALLY HOT MOON. ODD YELLOW COLOR.

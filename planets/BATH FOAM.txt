@@ -1,3 +1,5 @@
-Planet: BATH FOAM
+Moon: BATH FOAM
 Starmap index: 24
 Paris coordinates: 2568176, 4269415, 6430277
+Orbits: FOLLYBOWL
+Moon id: 0

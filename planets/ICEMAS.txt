@@ -1,6 +1,8 @@
-Planet: ICEMAS
+Moon: ICEMAS
 Starmap index: 35
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: YORBAN
+Moon id: 2
 
 Guide entries:
 AN ICEWORLD MOON, THE ICE IS DIRTY AND APPEARS GREEN, BUT THE SURFACE

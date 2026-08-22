@@ -1,6 +1,8 @@
-Planet: YRIRY
+Moon: YRIRY
 Starmap index: 12
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: POLLU
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY LARGE CRATERS AN A VERY BRIGHT GREEN COLOR.       

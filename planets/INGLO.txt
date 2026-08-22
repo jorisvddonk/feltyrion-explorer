@@ -1,6 +1,8 @@
-Planet: INGLO
+Moon: INGLO
 Starmap index: 17
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE RINGED CRATERS.

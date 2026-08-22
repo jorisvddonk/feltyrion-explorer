@@ -1,6 +1,8 @@
-Planet: BATAXIA
+Moon: BATAXIA
 Starmap index: 25
 Paris coordinates: 81072, -77486, -118953
+Orbits: MJIDLOS
+Moon id: 2
 
 Guide entries:
 A BITTERLY COLD WORLD THAT SUSTAINS LIFE.

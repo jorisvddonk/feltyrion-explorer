@@ -1,6 +1,8 @@
-Planet: OARIB
+Moon: OARIB
 Starmap index: 24
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, GOOD POLAR CAPS.

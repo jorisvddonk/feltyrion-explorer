@@ -1,3 +1,5 @@
-Planet: GARNIK
+Moon: GARNIK
 Starmap index: 80
 Paris coordinates: 9837776, 8235999, 8907617
+Orbits: ASKEW 20M
+Moon id: 2

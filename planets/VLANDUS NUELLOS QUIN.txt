@@ -1,3 +1,5 @@
-Planet: VLANDUS NUELLOS QUIN
+Moon: VLANDUS NUELLOS QUIN
 Starmap index: 47
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS NUELLOS
+Moon id: 4

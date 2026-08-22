@@ -1,6 +1,8 @@
-Planet: LUPTON
+Moon: LUPTON
 Starmap index: 22
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 11
 
 Guide entries:
 NO ATMOSPHERE, LIFELESS.

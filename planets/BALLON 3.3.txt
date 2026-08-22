@@ -1,6 +1,8 @@
-Planet: BALLON 3.3
+Moon: BALLON 3.3
 Starmap index: 21
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 3
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. FROM THE ORBIT, IT'S RATHER, SAY,            

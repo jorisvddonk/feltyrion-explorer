@@ -1,6 +1,8 @@
-Planet: SNEIP
+Moon: SNEIP
 Starmap index: 19
 Paris coordinates: 4142128, 4182625, -529864
+Orbits: TREEG
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH

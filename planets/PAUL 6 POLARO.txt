@@ -1,3 +1,5 @@
-Planet: PAUL 6 POLARO
+Moon: PAUL 6 POLARO
 Starmap index: 27
 Paris coordinates: 4821776, 4404922, -2423773
+Orbits: PAUL 6
+Moon id: 0

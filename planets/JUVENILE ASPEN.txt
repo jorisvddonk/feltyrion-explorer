@@ -1,3 +1,5 @@
-Planet: JUVENILE ASPEN
+Moon: JUVENILE ASPEN
 Starmap index: 32
 Paris coordinates: 15285680, 32141853, -7324159
+Orbits: planet index 05
+Moon id: 7

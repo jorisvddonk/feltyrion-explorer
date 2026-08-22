@@ -1,3 +1,5 @@
-Planet: HUYT MATENKINGOWY
+Moon: HUYT MATENKINGOWY
 Starmap index: 29
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: YEYEYE
+Moon id: 1

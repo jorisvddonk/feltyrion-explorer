@@ -1,3 +1,5 @@
-Planet: QWHAR NUELLOS DREA
+Moon: QWHAR NUELLOS DREA
 Starmap index: 56
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR OCTILLE
+Moon id: 1

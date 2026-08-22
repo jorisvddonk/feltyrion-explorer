@@ -1,6 +1,8 @@
-Planet: FENNI
+Moon: FENNI
 Starmap index: 29
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: DOCAR
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:405

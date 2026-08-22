@@ -1,6 +1,8 @@
-Planet: ALPUL 100 III-1
+Moon: ALPUL 100 III-1
 Starmap index: 06
 Paris coordinates: 4162480, 4932645, 601950
+Orbits: ALPUL 100 III
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH AND GREEN

@@ -1,3 +1,5 @@
-Planet: LUNA DE JSAON
+Moon: LUNA DE JSAON
 Starmap index: 21
 Paris coordinates: -2777136, 1207559, 1299859
+Orbits: planet index 07
+Moon id: 7

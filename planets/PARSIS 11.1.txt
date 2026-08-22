@@ -1,6 +1,8 @@
-Planet: PARSIS 11.1
+Moon: PARSIS 11.1
 Starmap index: 43
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 0
 
 Guide entries:
  THE FIRST MOON OF PARSIS 11 IS AN OXYGEN WORLD WITH A MAINLY

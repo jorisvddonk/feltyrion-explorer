@@ -1,6 +1,8 @@
-Planet: OMEGA RED XIII A
+Moon: OMEGA RED XIII A
 Starmap index: 43
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED XIII
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. PRETTY MUCH

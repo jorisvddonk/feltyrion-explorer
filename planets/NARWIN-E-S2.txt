@@ -1,3 +1,5 @@
-Planet: NARWIN-E-S2
+Moon: NARWIN-E-S2
 Starmap index: 21
 Paris coordinates: -148912, 1540144, -3543794
+Orbits: NARWIN-E-FELYS
+Moon id: 1

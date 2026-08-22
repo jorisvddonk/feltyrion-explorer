@@ -1,6 +1,8 @@
-Planet: YRTYRION 5.2
+Moon: YRTYRION 5.2
 Starmap index: 25
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 5
+Moon id: 1
 
 Guide entries:
  MOON OF FIFTH PLANET IN THE YRTYRION SYSTEM. ITS A SMALL ROCK

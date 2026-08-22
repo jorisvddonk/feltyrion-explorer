@@ -1,3 +1,5 @@
-Planet: SKADIA-1
+Moon: SKADIA-1
 Starmap index: 20
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 0

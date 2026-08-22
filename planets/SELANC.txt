@@ -1,6 +1,8 @@
-Planet: SELANC
+Moon: SELANC
 Starmap index: 13
 Paris coordinates: -267504, 1291695, 1373831
+Orbits: THULT
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE PLANET THULT

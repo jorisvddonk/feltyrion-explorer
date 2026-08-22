@@ -1,6 +1,8 @@
-Planet: CHOTHUN
+Moon: CHOTHUN
 Starmap index: 46
 Paris coordinates: -1421804656, -910355, -1278469235
+Orbits: BOTHO'ES VII
+Moon id: 6
 
 Guide entries:
 BOTHO'ES 07/07; FELISIAN

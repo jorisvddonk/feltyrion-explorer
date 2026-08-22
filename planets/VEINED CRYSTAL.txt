@@ -1,3 +1,5 @@
-Planet: VEINED CRYSTAL
+Moon: VEINED CRYSTAL
 Starmap index: 07
 Paris coordinates: 3759632, 5130317, -1039622
+Orbits: DARK DISSIDENT
+Moon id: 3

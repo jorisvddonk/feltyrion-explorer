@@ -1,6 +1,8 @@
-Planet: TOSAS
+Moon: TOSAS
 Starmap index: 09
 Paris coordinates: 634309520, -10801615, 49308989
+Orbits: AFHNYM
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL, SOLID, DUSTY, BIG CRATERS, GREEN REFLECTIVITY.               

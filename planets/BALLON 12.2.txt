@@ -1,6 +1,8 @@
-Planet: BALLON 12.2
+Moon: BALLON 12.2
 Starmap index: 44
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 12
+Moon id: 1
 
 Guide entries:
 SECOND MOON... MEDIUM-SIZED, INTERNALLY HOT. ITS DARK APPEARANCE,           

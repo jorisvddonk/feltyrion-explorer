@@ -1,3 +1,5 @@
-Planet: ASKEW 28D7
+Moon: ASKEW 28D7
 Starmap index: 11
 Paris coordinates: 11383088, -19493067, 17650489
+Orbits: ASKEW 28D
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: PLANET STORM
+Moon: PLANET STORM
 Starmap index: 16
 Paris coordinates: 70352, 945533, 1134813
+Orbits: TRILAR
+Moon id: 0
 
 Guide entries:
  I FIND THIS INTRIUGING...

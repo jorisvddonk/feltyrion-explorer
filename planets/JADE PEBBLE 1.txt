@@ -1,6 +1,8 @@
-Planet: JADE PEBBLE 1
+Moon: JADE PEBBLE 1
 Starmap index: 16
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: ONYX MARBLE
+Moon id: 0
 
 Guide entries:
 THIS PLANET WAS MOST LIKELY THROWN OFF COURSE BY ANOTHER LARGE

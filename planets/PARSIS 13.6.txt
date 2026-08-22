@@ -1,6 +1,8 @@
-Planet: PARSIS 13.6
+Moon: PARSIS 13.6
 Starmap index: 62
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 13
+Moon id: 5
 
 Guide entries:
  ICY LITTLE PLANETOID. (STARGAZER. EPOC 6011:596:660)

@@ -1,3 +1,5 @@
-Planet: FIDDLE
+Moon: FIDDLE
 Starmap index: 04
 Paris coordinates: -62646160, 29840261, 1248141
+Orbits: FILTHY
+Moon id: 0

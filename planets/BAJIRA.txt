@@ -1,6 +1,8 @@
-Planet: BAJIRA
+Moon: BAJIRA
 Starmap index: 54
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 6
+Moon id: 17
 
 Guide entries:
 CLOUDY:BLACK AND TAN FROM ORBIT

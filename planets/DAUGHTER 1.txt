@@ -1,3 +1,5 @@
-Planet: DAUGHTER 1
+Moon: DAUGHTER 1
 Starmap index: 34
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 18

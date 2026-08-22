@@ -1,3 +1,5 @@
-Planet: KRAVER-K-S1
+Moon: KRAVER-K-S1
 Starmap index: 21
 Paris coordinates: 3421104, -457417, -10795963
+Orbits: KRAVER-K
+Moon id: 0

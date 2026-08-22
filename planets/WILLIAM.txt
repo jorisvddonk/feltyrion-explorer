@@ -1,6 +1,8 @@
-Planet: WILLIAM
+Moon: WILLIAM
 Starmap index: 06
 Paris coordinates: -332496, 138827, -643676
+Orbits: AININ
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.912

@@ -1,6 +1,8 @@
-Planet: IRYMELI
+Moon: IRYMELI
 Starmap index: 43
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: SEBIJIA
+Moon id: 7
 
 Guide entries:
 M08/P09 SMALL SOLID ICY. COLOR IS BEST DESCRIBED AS PEACH (THOUGH THAT      

@@ -1,3 +1,5 @@
-Planet: M06-4812 B5
+Moon: M06-4812 B5
 Starmap index: 11
 Paris coordinates: -39141040, 1343825, 32123584
+Orbits: M06-4812 B
+Moon id: 4

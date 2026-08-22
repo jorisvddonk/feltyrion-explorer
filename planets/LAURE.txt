@@ -1,6 +1,8 @@
-Planet: LAURE
+Moon: LAURE
 Starmap index: 51
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORM ACTIVITY

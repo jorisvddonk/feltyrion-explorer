@@ -1,6 +1,8 @@
-Planet: IRJEY
+Moon: IRJEY
 Starmap index: 10
 Paris coordinates: 2140833520, -2641384, 1001352
+Orbits: SUTACK
+Moon id: 2
 
 Guide entries:
 M03/P04 SMALL DUSTY HEAVY CRATERIZED. GREEN SPLOTCHED WITH WHITE FROM       

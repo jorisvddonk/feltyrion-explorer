@@ -1,3 +1,5 @@
-Planet: BARONIHK
+Moon: BARONIHK
 Starmap index: 49
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: LAENOEWWIEM
+Moon id: 10

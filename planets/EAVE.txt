@@ -1,6 +1,8 @@
-Planet: EAVE
+Moon: EAVE
 Starmap index: 22
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: BACKLASH
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

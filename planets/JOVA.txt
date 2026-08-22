@@ -1,6 +1,8 @@
-Planet: JOVA
+Moon: JOVA
 Starmap index: 05
 Paris coordinates: 3535344, 5122009, -387026
+Orbits: GOSOVIA
+Moon id: 0
 
 Guide entries:
 ANOTHER DARK MOON WITH NOTHING MUCH TO SEE

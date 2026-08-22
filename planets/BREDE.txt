@@ -1,6 +1,8 @@
-Planet: BREDE
+Moon: BREDE
 Starmap index: 12
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HIGHLY

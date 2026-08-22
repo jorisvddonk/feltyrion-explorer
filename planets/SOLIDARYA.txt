@@ -1,3 +1,5 @@
-Planet: SOLIDARYA
+Moon: SOLIDARYA
 Starmap index: 06
 Paris coordinates: -60939376, 29605864, -46056
+Orbits: FLORIGREEN
+Moon id: 0

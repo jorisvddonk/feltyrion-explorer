@@ -1,6 +1,8 @@
-Planet: PLAN NINE
+Moon: PLAN NINE
 Starmap index: 18
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 8
 
 Guide entries:
 UPDATE:SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SOME GOOD

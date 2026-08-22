@@ -1,6 +1,8 @@
-Planet: GOAT 13.1
+Moon: GOAT 13.1
 Starmap index: 42
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 13
+Moon id: 0
 
 Guide entries:
 SMALL, ATMOSPHERELESS MOON WITH FEW UNIMPRESSIVE CRATERS.

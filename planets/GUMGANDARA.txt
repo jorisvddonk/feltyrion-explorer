@@ -1,6 +1,8 @@
-Planet: GUMGANDARA
+Moon: GUMGANDARA
 Starmap index: 12
 Paris coordinates: 2108208, 4934064, -601836
+Orbits: AXON
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY MRUQE; EPOC 6011-569.898

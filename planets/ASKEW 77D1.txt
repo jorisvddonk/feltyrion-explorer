@@ -1,3 +1,5 @@
-Planet: ASKEW 77D1
+Moon: ASKEW 77D1
 Starmap index: 05
 Paris coordinates: 11320944, -19161182, 18060856
+Orbits: ASKEW 77D
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: AEX-09-A
+Moon: AEX-09-A
 Starmap index: 30
 Paris coordinates: 598576, 4279484, -1591122
+Orbits: AEX-09
+Moon id: 0

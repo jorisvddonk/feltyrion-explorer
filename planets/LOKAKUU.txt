@@ -1,3 +1,5 @@
-Planet: LOKAKUU
+Moon: LOKAKUU
 Starmap index: 18
 Paris coordinates: 3173200, 5269226, 148820
+Orbits: ISOMUSTA
+Moon id: 4

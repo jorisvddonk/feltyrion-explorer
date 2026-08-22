@@ -1,6 +1,8 @@
-Planet: ERAN
+Moon: ERAN
 Starmap index: 14
 Paris coordinates: 4555696, 6114207, -211628
+Orbits: LIFE'S CRADLE
+Moon id: 0
 
 Guide entries:
 ONE OF THE FOUR FELISAN MOONS OF THE FIFTH PLANET OF FLAMEFIRE.

@@ -1,6 +1,8 @@
-Planet: OSOLE
+Moon: OSOLE
 Starmap index: 25
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 9
 
 Guide entries:
 M10/P07 SMALL SOLID THIN ATMO. SLIGHTLY DARK SLIGHT POLAR CAPS. PRO 0.      

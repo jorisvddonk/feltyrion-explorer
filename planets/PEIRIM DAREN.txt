@@ -1,6 +1,8 @@
-Planet: PEIRIM DAREN
+Moon: PEIRIM DAREN
 Starmap index: 19
 Paris coordinates: 107148432, 4840073, 6880235
+Orbits: KAASHID III
+Moon id: 3
 
 Guide entries:
 KAASHID 04/03; FELISIAN

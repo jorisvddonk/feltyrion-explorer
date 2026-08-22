@@ -1,3 +1,5 @@
-Planet: AS12231247D11
+Moon: AS12231247D11
 Starmap index: 20
 Paris coordinates: 257040, 3635948, 23276965
+Orbits: AS12231247D
+Moon id: 10

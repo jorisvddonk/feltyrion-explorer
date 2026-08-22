@@ -1,6 +1,8 @@
-Planet: SACHIEL
+Moon: SACHIEL
 Starmap index: 09
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: ADONAI
+Moon id: 4
 
 Guide entries:
  DEAD MOON, NO ATMOSPHERE

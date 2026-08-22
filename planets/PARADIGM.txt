@@ -1,3 +1,5 @@
-Planet: PARADIGM
+Moon: PARADIGM
 Starmap index: 38
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 3

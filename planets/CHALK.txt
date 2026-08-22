@@ -1,6 +1,8 @@
-Planet: CHALK
+Moon: CHALK
 Starmap index: 17
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: ELECTRIC BLUE
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A MODERATE YELLOW-

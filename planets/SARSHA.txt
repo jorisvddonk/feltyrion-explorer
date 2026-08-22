@@ -1,3 +1,5 @@
-Planet: SARSHA
+Moon: SARSHA
 Starmap index: 12
 Paris coordinates: 3277136, 4429407, -1460385
+Orbits: AURUS
+Moon id: 2

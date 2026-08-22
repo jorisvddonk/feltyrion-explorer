@@ -1,3 +1,5 @@
-Planet: YETHYULAEGEREDK
+Moon: YETHYULAEGEREDK
 Starmap index: 26
 Paris coordinates: 58564272, -34151242, 927662134
+Orbits: GRUELIHEHNGEL
+Moon id: 4

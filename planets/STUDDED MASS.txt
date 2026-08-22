@@ -1,3 +1,5 @@
-Planet: STUDDED MASS
+Moon: STUDDED MASS
 Starmap index: 22
 Paris coordinates: -71430992, -593618, 53172813
+Orbits: CONTOL FREAK
+Moon id: 8

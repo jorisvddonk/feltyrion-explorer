@@ -1,3 +1,5 @@
-Planet: FEGARI
+Moon: FEGARI
 Starmap index: 06
 Paris coordinates: 612144, 399853, -785670
+Orbits: ZESTI
+Moon id: 0

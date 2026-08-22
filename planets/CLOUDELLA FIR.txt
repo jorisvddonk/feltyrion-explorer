@@ -1,6 +1,8 @@
-Planet: CLOUDELLA FIR
+Moon: CLOUDELLA FIR
 Starmap index: 30
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: CLOUDELLA GREEN
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.195

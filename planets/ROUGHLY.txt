@@ -1,3 +1,5 @@
-Planet: ROUGHLY
+Moon: ROUGHLY
 Starmap index: 22
 Paris coordinates: 2568176, 4269415, 6430277
+Orbits: VALSE BIZARRE
+Moon id: 0

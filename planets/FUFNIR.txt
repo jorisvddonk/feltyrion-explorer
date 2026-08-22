@@ -1,3 +1,5 @@
-Planet: FUFNIR
+Moon: FUFNIR
 Starmap index: 16
 Paris coordinates: 14757456, 8159489, -4721068
+Orbits: RAGNAROEK
+Moon id: 0

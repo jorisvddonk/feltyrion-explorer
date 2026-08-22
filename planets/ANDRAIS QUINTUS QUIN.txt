@@ -1,3 +1,5 @@
-Planet: ANDRAIS QUINTUS QUIN
+Moon: ANDRAIS QUINTUS QUIN
 Starmap index: 39
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS QUINTUS
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: ZUNA VII-8
+Moon: ZUNA VII-8
 Starmap index: 31
 Paris coordinates: 9675376, 5043750, -13745597
+Orbits: ZUNA VII
+Moon id: 7

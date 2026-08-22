@@ -1,3 +1,5 @@
-Planet: INTOT
+Moon: INTOT
 Starmap index: 35
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 13

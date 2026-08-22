@@ -1,3 +1,5 @@
-Planet: LYRA
+Moon: LYRA
 Starmap index: 35
 Paris coordinates: 3366416, 4787233, -268194
+Orbits: planet index 05
+Moon id: 8

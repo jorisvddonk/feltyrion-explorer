@@ -1,6 +1,8 @@
-Planet: DRANT
+Moon: DRANT
 Starmap index: 08
 Paris coordinates: 3563568, 4722361, -2721466
+Orbits: COINCIDENCE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE BUT THE

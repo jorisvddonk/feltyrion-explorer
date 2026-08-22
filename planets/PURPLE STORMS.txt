@@ -1,6 +1,8 @@
-Planet: PURPLE STORMS
+Moon: PURPLE STORMS
 Starmap index: 68
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 18
 
 Guide entries:
 YET ANOTHER FELISIAN MOON ON EKA24.. WOW. THIS ONE IS ALSO

@@ -1,6 +1,8 @@
-Planet: XEOPHI
+Moon: XEOPHI
 Starmap index: 24
 Paris coordinates: 4955696, 4635983, -633493
+Orbits: VWSTPHA 4
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.000.72)

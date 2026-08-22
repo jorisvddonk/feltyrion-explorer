@@ -1,3 +1,5 @@
-Planet: PARADELANTRY 2
+Moon: PARADELANTRY 2
 Starmap index: 17
 Paris coordinates: 2353936, 5345300, -4116543
+Orbits: PARADELANTRY
+Moon id: 1

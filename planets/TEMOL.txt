@@ -1,6 +1,8 @@
-Planet: TEMOL
+Moon: TEMOL
 Starmap index: 12
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. HOT!

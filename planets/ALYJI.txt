@@ -1,6 +1,8 @@
-Planet: ALYJI
+Moon: ALYJI
 Starmap index: 42
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: IMIJIE
+Moon id: 1
 
 Guide entries:
 M02/P09 SMALL SOLID THIN ATMO. FAIR BRIGHTNESS, MODERATE POLAR CAPS.        

@@ -1,6 +1,8 @@
-Planet: ROUGH OAK
+Moon: ROUGH OAK
 Starmap index: 12
 Paris coordinates: -436432, 188642, 1163637
+Orbits: OAK
+Moon id: 5
 
 Guide entries:
 A MISTAKE READING THE INSTRUMENTS LEAD ME TO EXPECT LIFE HERE. THATS

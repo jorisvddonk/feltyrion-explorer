@@ -1,6 +1,8 @@
-Planet: SCALLIC
+Moon: SCALLIC
 Starmap index: 21
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE RAYED CRATERS.

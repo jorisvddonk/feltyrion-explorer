@@ -1,6 +1,8 @@
-Planet: DEMESOS
+Moon: DEMESOS
 Starmap index: 16
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: AMTIVAKI
+Moon id: 1
 
 Guide entries:
 M02/P05 SMALL SOLID DUUSTY VERY BRIGHT WHITE WIT MOTTLED GREY, LARGE        

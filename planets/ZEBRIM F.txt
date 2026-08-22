@@ -1,6 +1,8 @@
-Planet: ZEBRIM F
+Moon: ZEBRIM F
 Starmap index: 13
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 5
 
 Guide entries:
 A GREEN DEADWORLD WITH A FEW TINY CRATERS. (SCHMERM 6011 584.404)

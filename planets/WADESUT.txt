@@ -1,3 +1,5 @@
-Planet: WADESUT
+Moon: WADESUT
 Starmap index: 14
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: GMUSE
+Moon id: 2

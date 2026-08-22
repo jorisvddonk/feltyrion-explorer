@@ -1,6 +1,8 @@
-Planet: LESSYS
+Moon: LESSYS
 Starmap index: 22
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. TURBULENT

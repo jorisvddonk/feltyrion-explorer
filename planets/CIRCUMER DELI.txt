@@ -1,3 +1,5 @@
-Planet: CIRCUMER DELI
+Moon: CIRCUMER DELI
 Starmap index: 17
 Paris coordinates: 8953104, -17163363, 16463417
+Orbits: ASKEW 138D
+Moon id: 8

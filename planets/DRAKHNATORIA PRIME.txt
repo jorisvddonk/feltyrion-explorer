@@ -1,6 +1,8 @@
-Planet: DRAKHNATORIA PRIME
+Moon: DRAKHNATORIA PRIME
 Starmap index: 18
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 1
 
 Guide entries:
  THIS IS IT, THIS IS THE MAIN PLANET IN DRAKHNATORIA.

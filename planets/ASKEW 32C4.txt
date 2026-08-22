@@ -1,3 +1,5 @@
-Planet: ASKEW 32C4
+Moon: ASKEW 32C4
 Starmap index: 09
 Paris coordinates: 11658800, -19309869, 17985113
+Orbits: ASKEW 32C
+Moon id: 3

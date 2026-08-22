@@ -1,3 +1,5 @@
-Planet: SECOND MOTH
+Moon: SECOND MOTH
 Starmap index: 17
 Paris coordinates: 2935344, 4530986, 217285
+Orbits: GREATER COIN
+Moon id: 2

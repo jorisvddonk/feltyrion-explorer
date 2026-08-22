@@ -1,3 +1,5 @@
-Planet: YASSE MOENE RANA
+Moon: YASSE MOENE RANA
 Starmap index: 35
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: LEGORINI
+Moon id: 7

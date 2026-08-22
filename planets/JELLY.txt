@@ -1,3 +1,5 @@
-Planet: JELLY
+Moon: JELLY
 Starmap index: 12
 Paris coordinates: -64835440, 29718498, 1969366
+Orbits: JB 115
+Moon id: 0

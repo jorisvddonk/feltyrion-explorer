@@ -1,3 +1,5 @@
-Planet: REKINI-H-S8
+Moon: REKINI-H-S8
 Starmap index: 45
 Paris coordinates: 164656, -54848, -2929708
+Orbits: REKINI-H
+Moon id: 7

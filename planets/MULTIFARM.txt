@@ -1,3 +1,5 @@
-Planet: MULTIFARM
+Moon: MULTIFARM
 Starmap index: 26
 Paris coordinates: 2977136, 4457174, -1185882
+Orbits: SHADOM
+Moon id: 2

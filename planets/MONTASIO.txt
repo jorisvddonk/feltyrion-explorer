@@ -1,6 +1,8 @@
-Planet: MONTASIO
+Moon: MONTASIO
 Starmap index: 53
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. CONSIDERABLY DARK, WITH

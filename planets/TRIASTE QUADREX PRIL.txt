@@ -1,3 +1,5 @@
-Planet: TRIASTE QUADREX PRIL
+Moon: TRIASTE QUADREX PRIL
 Starmap index: 18
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE QUADREX
+Moon id: 0

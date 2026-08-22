@@ -1,6 +1,8 @@
-Planet: DISMIC
+Moon: DISMIC
 Starmap index: 16
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 8
 
 Guide entries:
 A POOR FELYSIAN PLANET, SEEMS TO BE FROZEN OVER. REGIONS WITH FLORA

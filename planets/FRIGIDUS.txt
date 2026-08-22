@@ -1,3 +1,5 @@
-Planet: FRIGIDUS
+Moon: FRIGIDUS
 Starmap index: 58
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAGNAR
+Moon id: 2

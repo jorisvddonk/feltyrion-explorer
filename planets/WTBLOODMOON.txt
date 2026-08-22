@@ -1,3 +1,5 @@
-Planet: WTBLOODMOON
+Moon: WTBLOODMOON
 Starmap index: 10
 Paris coordinates: -32884432, 5098143, -15438858
+Orbits: WAYNESCOLONY2
+Moon id: 0

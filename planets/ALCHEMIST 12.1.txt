@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 12.1
+Moon: ALCHEMIST 12.1
 Starmap index: 38
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 12
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, THICK ATMOSPHERE, BRIGHT, DEEP GREEN CLOUD COVER,

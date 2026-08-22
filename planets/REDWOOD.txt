@@ -1,6 +1,8 @@
-Planet: REDWOOD
+Moon: REDWOOD
 Starmap index: 06
 Paris coordinates: 3477136, 5741968, -1662225
+Orbits: planet index 01
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY LOGAN, EPOC 6011:664.782

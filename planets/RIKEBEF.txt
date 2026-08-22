@@ -1,6 +1,8 @@
-Planet: RIKEBEF
+Moon: RIKEBEF
 Starmap index: 19
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: YATEXOL
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

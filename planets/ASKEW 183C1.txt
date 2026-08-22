@@ -1,3 +1,5 @@
-Planet: ASKEW 183C1
+Moon: ASKEW 183C1
 Starmap index: 11
 Paris coordinates: 3620688, 634106, 2456427
+Orbits: DARWIN'S LAB
+Moon id: 0

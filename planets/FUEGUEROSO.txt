@@ -1,6 +1,8 @@
-Planet: FUEGUEROSO
+Moon: FUEGUEROSO
 Starmap index: 27
 Paris coordinates: 2935344, 4630986, 272990
+Orbits: VIRIDIANA
+Moon id: 9
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.990 -                               

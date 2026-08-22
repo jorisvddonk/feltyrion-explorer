@@ -1,3 +1,5 @@
-Planet: QWAHR TRIACUS TRAL
+Moon: QWAHR TRIACUS TRAL
 Starmap index: 20
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR TRIACUS
+Moon id: 2

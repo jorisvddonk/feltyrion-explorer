@@ -1,3 +1,5 @@
-Planet: ASKEW 143K3
+Moon: ASKEW 143K3
 Starmap index: 20
 Paris coordinates: 10431664, -18572950, 17617324
+Orbits: ASKEW 143K
+Moon id: 2

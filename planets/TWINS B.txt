@@ -1,6 +1,8 @@
-Planet: TWINS B
+Moon: TWINS B
 Starmap index: 19
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: TWINS A
+Moon id: 0
 
 Guide entries:
 A SMOOTH MOON, INDICATING IT IS FAIRLY OLD. IT IS OTHERWISE BORING.

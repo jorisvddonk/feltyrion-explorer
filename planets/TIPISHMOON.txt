@@ -1,3 +1,5 @@
-Planet: TIPISHMOON
+Moon: TIPISHMOON
 Starmap index: 07
 Paris coordinates: -60939376, 29605864, -46056
+Orbits: FLORIGREEN
+Moon id: 1

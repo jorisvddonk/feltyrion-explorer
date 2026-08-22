@@ -1,3 +1,5 @@
-Planet: JUUSTO
+Moon: JUUSTO
 Starmap index: 15
 Paris coordinates: 5576048, 4858380, 29991
+Orbits: OLOVI
+Moon id: 2

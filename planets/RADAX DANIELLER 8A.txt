@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 8A
+Moon: RADAX DANIELLER 8A
 Starmap index: 45
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 8
+Moon id: 0

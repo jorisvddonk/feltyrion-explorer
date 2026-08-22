@@ -1,6 +1,8 @@
-Planet: CETEMAS
+Moon: CETEMAS
 Starmap index: 19
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOPHERE. HAS A

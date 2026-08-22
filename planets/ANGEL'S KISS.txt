@@ -1,3 +1,5 @@
-Planet: ANGEL'S KISS
+Moon: ANGEL'S KISS
 Starmap index: 18
 Paris coordinates: 4490704, 5135203, -2035309
+Orbits: planet index 07
+Moon id: 0

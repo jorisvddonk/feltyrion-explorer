@@ -1,6 +1,8 @@
-Planet: TORQINN C
+Moon: TORQINN C
 Starmap index: 30
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: TORQINN
+Moon id: 2
 
 Guide entries:
 A DEADWORLD THAT IS A VERY SATURATED SHADE OF GREEN. IT HAS LARGE

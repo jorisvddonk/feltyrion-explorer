@@ -1,6 +1,8 @@
-Planet: PLOF
+Moon: PLOF
 Starmap index: 24
 Paris coordinates: 47759376, 603928, 1979658264
+Orbits: AS12281513F
+Moon id: 6
 
 Guide entries:
 NOT EVEN 4 STARS ARE ENOUGH TO LIGHT AND WARM THIS REMOTE WORLD.

@@ -1,6 +1,8 @@
-Planet: CLOGG
+Moon: CLOGG
 Starmap index: 27
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: SINERAMA
+Moon id: 0
 
 Guide entries:
 NOT MUCH TO SEE ALTHOUGH THE SURFACE IS COVERED WITH DEBRIS.

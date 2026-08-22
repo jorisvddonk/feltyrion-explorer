@@ -1,6 +1,8 @@
-Planet: CANTRUM
+Moon: CANTRUM
 Starmap index: 09
 Paris coordinates: -71941712, -1356971, 55222507
+Orbits: POLLUX II
+Moon id: 5
 
 Guide entries:
 SECT 89,51 IS WIDE SEA WITH APEAK MOUNTAIN

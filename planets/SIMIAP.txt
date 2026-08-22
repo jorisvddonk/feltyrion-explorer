@@ -1,6 +1,8 @@
-Planet: SIMIAP
+Moon: SIMIAP
 Starmap index: 12
 Paris coordinates: 3332496, 4249897, -2311719
+Orbits: TRIAAN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREENISH

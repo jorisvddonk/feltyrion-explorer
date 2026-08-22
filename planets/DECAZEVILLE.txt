@@ -1,3 +1,5 @@
-Planet: DECAZEVILLE
+Moon: DECAZEVILLE
 Starmap index: 16
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: PUEBLO BONITO
+Moon id: 0

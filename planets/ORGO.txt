@@ -1,6 +1,8 @@
-Planet: ORGO
+Moon: ORGO
 Starmap index: 24
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. RATHER ROUGH LOOKING WITH

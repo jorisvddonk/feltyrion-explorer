@@ -1,3 +1,5 @@
-Planet: KA'ASR
+Moon: KA'ASR
 Starmap index: 40
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: VENAKAKAY
+Moon id: 0

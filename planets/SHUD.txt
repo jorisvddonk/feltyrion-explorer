@@ -1,6 +1,8 @@
-Planet: SHUD
+Moon: SHUD
 Starmap index: 20
 Paris coordinates: 81072, -77486, -118953
+Orbits: JENUVO
+Moon id: 5
 
 Guide entries:
 DENSE ATMOSPHERE PLANET. LARGE VALLEY/CRATER/GASH DUE WEST AT 51:60

@@ -1,6 +1,8 @@
-Planet: AVYDU
+Moon: AVYDU
 Starmap index: 09
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION III
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

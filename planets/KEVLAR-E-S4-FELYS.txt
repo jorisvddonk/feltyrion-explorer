@@ -1,3 +1,5 @@
-Planet: KEVLAR-E-S4-FELYS
+Moon: KEVLAR-E-S4-FELYS
 Starmap index: 14
 Paris coordinates: 2661808, -678997, -7638597
+Orbits: KEVLAR-E
+Moon id: 3

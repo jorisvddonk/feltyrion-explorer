@@ -1,6 +1,8 @@
-Planet: SUBTER
+Moon: SUBTER
 Starmap index: 16
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-C
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK, SURFACE MARKINGS VISIBLE,

@@ -1,6 +1,8 @@
-Planet: ASKEW 67E2
+Moon: ASKEW 67E2
 Starmap index: 15
 Paris coordinates: 11045232, -19173216, 17808348
+Orbits: ASKEW 67E
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 587.346.300 BY ROLAND ASKEW

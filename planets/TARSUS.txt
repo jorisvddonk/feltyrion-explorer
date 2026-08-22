@@ -1,6 +1,8 @@
-Planet: TARSUS
+Moon: TARSUS
 Starmap index: 37
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH SLIGHT

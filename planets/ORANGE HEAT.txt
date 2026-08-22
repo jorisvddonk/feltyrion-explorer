@@ -1,3 +1,5 @@
-Planet: ORANGE HEAT
+Moon: ORANGE HEAT
 Starmap index: 39
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: GREEN SPHERE
+Moon id: 0

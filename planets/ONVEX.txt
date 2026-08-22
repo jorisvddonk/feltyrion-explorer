@@ -1,6 +1,8 @@
-Planet: ONVEX
+Moon: ONVEX
 Starmap index: 09
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. HIGHLY

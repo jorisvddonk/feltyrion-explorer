@@ -1,6 +1,8 @@
-Planet: BESOL
+Moon: BESOL
 Starmap index: 04
 Paris coordinates: 4817840, 4567690, -774077
+Orbits: EMINENCE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE AND

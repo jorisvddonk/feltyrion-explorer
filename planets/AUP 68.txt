@@ -1,6 +1,8 @@
-Planet: AUP 68
+Moon: AUP 68
 Starmap index: 39
 Paris coordinates: 4638192, 4248129, 655268
+Orbits: planet index 06
+Moon id: 7
 
 Guide entries:
 SURVEYED BY EDEANP 617.933.365

@@ -1,3 +1,5 @@
-Planet: INDIGO MOON
+Moon: INDIGO MOON
 Starmap index: 17
 Paris coordinates: 5369264, 4600105, -122686
+Orbits: RINGED CLOUD
+Moon id: 9

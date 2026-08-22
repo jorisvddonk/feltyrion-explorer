@@ -1,3 +1,5 @@
-Planet: QWAHR TRIACUS SILP
+Moon: QWAHR TRIACUS SILP
 Starmap index: 24
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR TRIACUS
+Moon id: 6

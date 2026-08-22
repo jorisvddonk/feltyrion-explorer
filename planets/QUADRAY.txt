@@ -1,6 +1,8 @@
-Planet: QUADRAY
+Moon: QUADRAY
 Starmap index: 41
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS.

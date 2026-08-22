@@ -1,3 +1,5 @@
-Planet: VLANDUS SECTEX PRIL
+Moon: VLANDUS SECTEX PRIL
 Starmap index: 52
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS SECTEX
+Moon id: 0

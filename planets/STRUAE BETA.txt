@@ -1,6 +1,8 @@
-Planet: STRUAE BETA
+Moon: STRUAE BETA
 Starmap index: 64
 Paris coordinates: 612144, 6999853, -833727
+Orbits: STRUAE
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET STRUAE IN THE GENISI SYSTEM

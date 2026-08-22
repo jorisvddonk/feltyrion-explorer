@@ -1,6 +1,8 @@
-Planet: MAGIE
+Moon: MAGIE
 Starmap index: 17
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 11
 
 Guide entries:
 I WAS AMAZED WHEN THE NAMES BUBBLE GUM, TAFFY, AND COTTON

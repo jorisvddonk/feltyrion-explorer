@@ -1,6 +1,8 @@
-Planet: LEYFH
+Moon: LEYFH
 Starmap index: 10
 Paris coordinates: 2090751600, -1867804, -44748
+Orbits: PIATYS
+Moon id: 0
 
 Guide entries:
  M01/P04 SMALL SOLID THIN ATMO FAIRLY DARK WITH FAIR POLAR CAPS, WHITE      

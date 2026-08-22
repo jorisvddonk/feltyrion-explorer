@@ -1,6 +1,8 @@
-Planet: TELLENOA
+Moon: TELLENOA
 Starmap index: 19
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. HAS A GOOD

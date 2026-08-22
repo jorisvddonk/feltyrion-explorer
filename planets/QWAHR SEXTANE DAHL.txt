@@ -1,3 +1,5 @@
-Planet: QWAHR SEXTANE DAHL
+Moon: QWAHR SEXTANE DAHL
 Starmap index: 45
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR SEXTANE
+Moon id: 9

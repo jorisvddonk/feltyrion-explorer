@@ -1,3 +1,5 @@
-Planet: LA LUNE
+Moon: LA LUNE
 Starmap index: 07
 Paris coordinates: 1924624, 7368157, 2472677
+Orbits: MARTE
+Moon id: 1

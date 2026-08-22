@@ -1,3 +1,5 @@
-Planet: HOTISFARIS
+Moon: HOTISFARIS
 Starmap index: 26
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: KISIELUS
+Moon id: 10

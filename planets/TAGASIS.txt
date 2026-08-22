@@ -1,3 +1,5 @@
-Planet: TAGASIS
+Moon: TAGASIS
 Starmap index: 11
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: PEHTOURN
+Moon id: 0

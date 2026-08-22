@@ -1,6 +1,8 @@
-Planet: KOLN ETA
+Moon: KOLN ETA
 Starmap index: 60
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF PLANET KOLN IN THE GENISI SYSTEM

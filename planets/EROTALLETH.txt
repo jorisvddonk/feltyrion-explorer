@@ -1,6 +1,8 @@
-Planet: EROTALLETH
+Moon: EROTALLETH
 Starmap index: 09
 Paris coordinates: -325712, 361387, -164300
+Orbits: ROJOSOL III
+Moon id: 0
 
 Guide entries:
 EXPLORED BY RAZORWINGS18 (566.366.644 E6011)

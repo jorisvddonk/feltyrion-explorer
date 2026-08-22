@@ -1,3 +1,5 @@
-Planet: BRUCHER-E-S5-FELYS
+Moon: BRUCHER-E-S5-FELYS
 Starmap index: 23
 Paris coordinates: 3823952, 144991, -9072118
+Orbits: BRUCHER-E
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: PALUMBUS
+Moon: PALUMBUS
 Starmap index: 16
 Paris coordinates: -61921872, 30034719, 15299
+Orbits: GRUPA 3 D
+Moon id: 8

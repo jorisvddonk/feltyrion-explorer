@@ -1,3 +1,5 @@
-Planet: SULPHUS
+Moon: SULPHUS
 Starmap index: 24
 Paris coordinates: 363568, 122957, 460932
+Orbits: MONOTH
+Moon id: 0

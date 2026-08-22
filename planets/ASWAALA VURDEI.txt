@@ -1,3 +1,5 @@
-Planet: ASWAALA VURDEI
+Moon: ASWAALA VURDEI
 Starmap index: 08
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: ASWAALA WEREING
+Moon id: 0

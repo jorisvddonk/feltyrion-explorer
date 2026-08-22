@@ -1,6 +1,8 @@
-Planet: JUDICATIO
+Moon: JUDICATIO
 Starmap index: 16
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A LARGE

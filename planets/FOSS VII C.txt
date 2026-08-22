@@ -1,3 +1,5 @@
-Planet: FOSS VII C
+Moon: FOSS VII C
 Starmap index: 35
 Paris coordinates: 1455024, 4799606, -6847908
+Orbits: FOSS VII
+Moon id: 2

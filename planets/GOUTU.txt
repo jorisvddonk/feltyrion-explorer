@@ -1,6 +1,8 @@
-Planet: GOUTU
+Moon: GOUTU
 Starmap index: 61
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: PROVALONE
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK WITH QUITE VISIBLE

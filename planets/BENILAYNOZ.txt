@@ -1,3 +1,5 @@
-Planet: BENILAYNOZ
+Moon: BENILAYNOZ
 Starmap index: 21
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: PUWLOSS
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: GROGGO
+Moon: GROGGO
 Starmap index: 19
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: GLIWATZ
+Moon id: 0

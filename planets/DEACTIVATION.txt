@@ -1,6 +1,8 @@
-Planet: DEACTIVATION
+Moon: DEACTIVATION
 Starmap index: 57
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH AND SOMEWHAT

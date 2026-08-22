@@ -1,6 +1,8 @@
-Planet: DERLEIN
+Moon: DERLEIN
 Starmap index: 37
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF THE FIFTEENTH PLANET, PERDISTA. DIM, PURPLISH COLORATION

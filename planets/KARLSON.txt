@@ -1,3 +1,5 @@
-Planet: KARLSON
+Moon: KARLSON
 Starmap index: 37
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: MICHO SHAMARA
+Moon id: 4

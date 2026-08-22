@@ -1,6 +1,8 @@
-Planet: YRTYRION 4.2
+Moon: YRTYRION 4.2
 Starmap index: 22
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 4
+Moon id: 15
 
 Guide entries:
  A PLANETOID IN ORBIT AROUND YRTYRION 4 IN THE YRTYRION SYSTEM.

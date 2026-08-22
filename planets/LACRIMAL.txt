@@ -1,6 +1,8 @@
-Planet: LACRIMAL
+Moon: LACRIMAL
 Starmap index: 51
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PALLESCENT
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SEVERAL

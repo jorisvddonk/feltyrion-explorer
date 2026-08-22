@@ -1,6 +1,8 @@
-Planet: RAPHAEL
+Moon: RAPHAEL
 Starmap index: 05
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: ADONAI
+Moon id: 0
 
 Guide entries:
  GAS MOON, THICK ATMOSPHERE, NO LIFE, LOW VISIBILITY CAUTION ADVISED

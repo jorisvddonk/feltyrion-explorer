@@ -1,6 +1,8 @@
-Planet: REFE
+Moon: REFE
 Starmap index: 24
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. APPEARS

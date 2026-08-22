@@ -1,3 +1,5 @@
-Planet: LIBESFRA
+Moon: LIBESFRA
 Starmap index: 14
 Paris coordinates: 32496, -31155479, 1002557
+Orbits: PILOKE 4
+Moon id: 2

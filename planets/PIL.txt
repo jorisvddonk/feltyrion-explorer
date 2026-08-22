@@ -1,6 +1,8 @@
-Planet: PIL
+Moon: PIL
 Starmap index: 08
 Paris coordinates: 2029806864, -1864014, 355778
+Orbits: CAVYDORAR
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL SOLID, DUSTY, MODERATE SIZE CRATERS, LIGHT GREEN COLOR.       

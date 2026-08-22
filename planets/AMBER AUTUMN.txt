@@ -1,6 +1,8 @@
-Planet: AMBER AUTUMN
+Moon: AMBER AUTUMN
 Starmap index: 54
 Paris coordinates: 3036016, -12924584, 9835578
+Orbits: ASKEW 119F
+Moon id: 14
 
 Guide entries:
 FOUND EPOC 6011 589.560.800 BY ROLAND ASKEW

@@ -1,3 +1,5 @@
-Planet: SEPIA
+Moon: SEPIA
 Starmap index: 62
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: WHITE
+Moon id: 10

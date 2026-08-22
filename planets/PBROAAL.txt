@@ -1,6 +1,8 @@
-Planet: PBROAAL
+Moon: PBROAAL
 Starmap index: 06
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED. INTERNALLY HOT. UNSTABLE SURFACE, NO ATMOSPHERE, REDDISH

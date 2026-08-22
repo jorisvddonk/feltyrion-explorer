@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.11
+Moon: FIRESKY 3.11
 Starmap index: 24
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 10
 
 Guide entries:
 QUARTZ SURFACE, OXYGEN ATMOSPHERE, MEDIUM-SIZED. INTERESTING,

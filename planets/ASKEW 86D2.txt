@@ -1,3 +1,5 @@
-Planet: ASKEW 86D2
+Moon: ASKEW 86D2
 Starmap index: 11
 Paris coordinates: 10876304, -19148790, 17887850
+Orbits: ASKEW 86D
+Moon id: 1

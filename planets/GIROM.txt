@@ -1,3 +1,5 @@
-Planet: GIROM
+Moon: GIROM
 Starmap index: 10
 Paris coordinates: 4159632, 4436827, -1722935
+Orbits: ESPERANZA
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: UGLICA
+Moon: UGLICA
 Starmap index: 13
 Paris coordinates: 3573200, 4697591, -248579
+Orbits: VANIDOSO
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY LEOW E:6011:579.146.456

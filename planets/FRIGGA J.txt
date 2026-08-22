@@ -1,6 +1,8 @@
-Planet: FRIGGA J
+Moon: FRIGGA J
 Starmap index: 37
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 9
 
 Guide entries:
 AN EIGTH ICEWORLD MOON. (SCHMERM 6011 582.419)

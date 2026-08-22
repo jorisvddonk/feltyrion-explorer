@@ -1,6 +1,8 @@
-Planet: SLATH
+Moon: SLATH
 Starmap index: 25
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DREMOBAS
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOODGREEN REFLECTIVITY

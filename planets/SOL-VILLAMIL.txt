@@ -1,6 +1,8 @@
-Planet: SOL-VILLAMIL
+Moon: SOL-VILLAMIL
 Starmap index: 23
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 11
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.901 -                               

@@ -1,6 +1,8 @@
-Planet: GARASHUZL
+Moon: GARASHUZL
 Starmap index: 20
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: BASTIAN
+Moon id: 2
 
 Guide entries:
  FOUND HOPPERS AND BIRDS, AND. LANDED IN A FOREST.

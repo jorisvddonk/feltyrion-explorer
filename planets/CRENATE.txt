@@ -1,6 +1,8 @@
-Planet: CRENATE
+Moon: CRENATE
 Starmap index: 18
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: WELCOME
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOOKING FOR A FEW GOOD

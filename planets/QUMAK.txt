@@ -1,6 +1,8 @@
-Planet: QUMAK
+Moon: QUMAK
 Starmap index: 27
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: GLOUD
+Moon id: 8
 
 Guide entries:
 A NICE QUARTZ PLANET.

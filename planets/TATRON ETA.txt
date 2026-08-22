@@ -1,6 +1,8 @@
-Planet: TATRON ETA
+Moon: TATRON ETA
 Starmap index: 73
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 6
 
 Guide entries:
 SEVENTH MOON OF PLANET TATRON IN THE GENISI SYSTEM

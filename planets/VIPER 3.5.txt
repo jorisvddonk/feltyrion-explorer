@@ -1,6 +1,8 @@
-Planet: VIPER 3.5
+Moon: VIPER 3.5
 Starmap index: 10
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 4
 
 Guide entries:
 MEDIUM-SIZED, SOLID. HAS A COVER OF GREENISH CLOUDS. TWO LARGE BELTS

@@ -1,6 +1,8 @@
-Planet: FYPLE
+Moon: FYPLE
 Starmap index: 20
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREY REFLECTIVITY

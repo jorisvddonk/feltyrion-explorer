@@ -1,6 +1,8 @@
-Planet: TINKER
+Moon: TINKER
 Starmap index: 28
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: SINERAMA
+Moon id: 1
 
 Guide entries:
 I LANDED O THE DARK SIDE OF THIS MOON.

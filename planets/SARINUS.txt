@@ -1,3 +1,5 @@
-Planet: SARINUS
+Moon: SARINUS
 Starmap index: 68
 Paris coordinates: 6998832, -16787199, 15185943
+Orbits: CUOLEC
+Moon id: 0

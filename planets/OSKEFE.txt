@@ -1,6 +1,8 @@
-Planet: OSKEFE
+Moon: OSKEFE
 Starmap index: 12
 Paris coordinates: 3214992, 4579458, -1223743
+Orbits: ISSINIESI
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. A

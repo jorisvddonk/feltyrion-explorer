@@ -1,6 +1,8 @@
-Planet: XYSTER
+Moon: XYSTER
 Starmap index: 18
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. QUITE

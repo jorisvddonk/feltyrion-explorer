@@ -1,6 +1,8 @@
-Planet: BLEU D'AVERGNE
+Moon: BLEU D'AVERGNE
 Starmap index: 54
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. WELL MOTTLED WITH

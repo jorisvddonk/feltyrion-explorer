@@ -1,6 +1,8 @@
-Planet: ATORION 4.13
+Moon: ATORION 4.13
 Starmap index: 20
 Paris coordinates: 1939280, 7034008, -476733
+Orbits: ATORION 4
+Moon id: 12
 
 Guide entries:
  SOLID, THICK ATMOSPHERE, FOGGY, AND EXTREMELY DARK.

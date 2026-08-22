@@ -1,6 +1,8 @@
-Planet: EGYMA
+Moon: EGYMA
 Starmap index: 13
 Paris coordinates: 167504, 55824, -835910
+Orbits: planet index 03
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREY REFLECTIVITY

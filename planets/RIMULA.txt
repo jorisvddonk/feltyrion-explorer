@@ -1,6 +1,8 @@
-Planet: RIMULA
+Moon: RIMULA
 Starmap index: 35
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 15
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. CLOUDS NOT VERY

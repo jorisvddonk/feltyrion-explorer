@@ -1,3 +1,5 @@
-Planet: RICHESSE-D-S1
+Moon: RICHESSE-D-S1
 Starmap index: 06
 Paris coordinates: 2606448, -710817, -7025642
+Orbits: RICHESSE-D
+Moon id: 0

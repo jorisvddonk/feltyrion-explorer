@@ -1,6 +1,8 @@
-Planet: NUMTIJ
+Moon: NUMTIJ
 Starmap index: 06
 Paris coordinates: 633440592, -10656950, 50122346
+Orbits: NEC TIMIDE
+Moon id: 0
 
 Guide entries:
 M01/P04 A PALE GREENISH REFLECTIVITY TO A DUSTY WORLD WITH LARGE            

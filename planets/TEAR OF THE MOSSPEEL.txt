@@ -1,6 +1,8 @@
-Planet: TEAR OF THE MOSSPEEL
+Moon: TEAR OF THE MOSSPEEL
 Starmap index: 29
 Paris coordinates: 2557456, 2106610, 7526289
+Orbits: planet index 05
+Moon id: 2
 
 Guide entries:
 S,S,D,C. SOME LARGE CRATERS, DIRTY DARK GREENISH SURFACE. RYAN              

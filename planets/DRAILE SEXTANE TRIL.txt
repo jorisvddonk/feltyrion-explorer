@@ -1,3 +1,5 @@
-Planet: DRAILE SEXTANE TRIL
+Moon: DRAILE SEXTANE TRIL
 Starmap index: 15
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE SEXTANE
+Moon id: 2

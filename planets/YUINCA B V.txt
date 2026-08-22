@@ -1,6 +1,8 @@
-Planet: YUINCA B V
+Moon: YUINCA B V
 Starmap index: 21
 Paris coordinates: -12144, -27311, 376371
+Orbits: YUINCA B
+Moon id: 4
 
 Guide entries:
  A CLOUD COVERED MOON. AMWHERE 6011.586.384

@@ -1,6 +1,8 @@
-Planet: JAIMU
+Moon: JAIMU
 Starmap index: 10
 Paris coordinates: 2140268528, -2165691, -352139
+Orbits: VYEJE
+Moon id: 1
 
 Guide entries:
 M02/P03 SMALL SOLID THIN ATMO MODERATE DARKNESS FAIR POLAR CAPS A           

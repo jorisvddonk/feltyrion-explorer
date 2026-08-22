@@ -1,6 +1,8 @@
-Planet: OMGYJYA
+Moon: OMGYJYA
 Starmap index: 28
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 10
 
 Guide entries:
 THIS MOON HAS A NICE LIGHT GREEN TINGE TO IT, BUT THERE SEEMS TO BE

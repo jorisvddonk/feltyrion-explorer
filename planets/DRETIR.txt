@@ -1,6 +1,8 @@
-Planet: DRETIR
+Moon: DRETIR
 Starmap index: 65
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. CONSIDERABLY DARK PURPLE

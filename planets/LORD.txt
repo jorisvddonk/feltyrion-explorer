@@ -1,3 +1,5 @@
-Planet: LORD
+Moon: LORD
 Starmap index: 08
 Paris coordinates: 270352, 5086437, 857022
+Orbits: DARTMOR
+Moon id: 2

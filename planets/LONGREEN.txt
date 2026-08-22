@@ -1,3 +1,5 @@
-Planet: LONGREEN
+Moon: LONGREEN
 Starmap index: 41
 Paris coordinates: 2460720, 5427705, -3769680
+Orbits: WOHTA
+Moon id: 0

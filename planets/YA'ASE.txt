@@ -1,3 +1,5 @@
-Planet: YA'ASE
+Moon: YA'ASE
 Starmap index: 41
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: VENAKAKAY
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: STAND-UP
+Moon: STAND-UP
 Starmap index: 25
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 10
 
 Guide entries:
 A COLD FELISIAN WORLD WITH THE MOST SANGUINE SKIES YOU CAN IMAGINE.

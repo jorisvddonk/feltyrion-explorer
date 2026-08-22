@@ -1,6 +1,8 @@
-Planet: EMBERS
+Moon: EMBERS
 Starmap index: 32
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: ORANGE SODA SHAKE
+Moon id: 2
 
 Guide entries:
 THIS INTERNALLY HOT MOON OF ORANGE SODA SHAKE ON EKA29 HAS A LOOK ABOUT

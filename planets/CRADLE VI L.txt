@@ -1,6 +1,8 @@
-Planet: CRADLE VI L
+Moon: CRADLE VI L
 Starmap index: 53
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VI
+Moon id: 11
 
 Guide entries:
 GREEN-BLUE QUARTZWORLD. (SCHMERM 6011 592.878)

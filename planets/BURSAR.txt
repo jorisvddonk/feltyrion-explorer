@@ -1,6 +1,8 @@
-Planet: BURSAR
+Moon: BURSAR
 Starmap index: 17
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 4
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED BY DENSE CLOUDS. DARKLY REFLECTIVE CLOUD

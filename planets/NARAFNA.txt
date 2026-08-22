@@ -1,3 +1,5 @@
-Planet: NARAFNA
+Moon: NARAFNA
 Starmap index: 26
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: GFUT
+Moon id: 7

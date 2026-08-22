@@ -1,6 +1,8 @@
-Planet: EVORA 6.1
+Moon: EVORA 6.1
 Starmap index: 21
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 6
+Moon id: 0
 
 Guide entries:
  THE NEAREST MOON OF EVORA 6, IS MUCH LIKE THE NEAREST MOON OF

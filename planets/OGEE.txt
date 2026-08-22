@@ -1,6 +1,8 @@
-Planet: OGEE
+Moon: OGEE
 Starmap index: 14
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NO MAJOR CRATERS TO

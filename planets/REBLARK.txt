@@ -1,6 +1,8 @@
-Planet: REBLARK
+Moon: REBLARK
 Starmap index: 39
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 15
 
 Guide entries:
 DARK PLANET, CYAN SURFACE AND RED ATMOSHPERE, RATHER FEATURELESS AND

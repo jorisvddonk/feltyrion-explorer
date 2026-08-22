@@ -1,3 +1,5 @@
-Planet: SERIELX 4E
+Moon: SERIELX 4E
 Starmap index: 11
 Paris coordinates: -39654608, 1428421, 31856803
+Orbits: SERIELX 4
+Moon id: 4

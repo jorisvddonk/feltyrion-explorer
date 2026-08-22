@@ -1,6 +1,8 @@
-Planet: ZONA
+Moon: ZONA
 Starmap index: 44
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: ZEOLITE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, GOOD POLAR CAPS. SKINNYMON

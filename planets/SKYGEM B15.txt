@@ -1,6 +1,8 @@
-Planet: SKYGEM B15
+Moon: SKYGEM B15
 Starmap index: 24
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 14
 
 Guide entries:
  A STANDARD CRATERIZED MOON. AMWHERE 6011.584.922

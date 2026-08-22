@@ -1,6 +1,8 @@
-Planet: PHAIOS
+Moon: PHAIOS
 Starmap index: 25
 Paris coordinates: 4955696, 4635983, -633493
+Orbits: VWSTPHA 4
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.000.72)

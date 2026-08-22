@@ -1,3 +1,5 @@
-Planet: FRIGHTENED
+Moon: FRIGHTENED
 Starmap index: 42
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: LOLLIPOP
+Moon id: 2

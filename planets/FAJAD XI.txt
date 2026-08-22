@@ -1,6 +1,8 @@
-Planet: FAJAD XI
+Moon: FAJAD XI
 Starmap index: 29
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 13
 
 Guide entries:
 FOURTEENTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

@@ -1,6 +1,8 @@
-Planet: OUTER HAVEN
+Moon: OUTER HAVEN
 Starmap index: 17
 Paris coordinates: -1417747568, 866844, 1433341836
+Orbits: AH-SUBSTELLAR 3
+Moon id: 8
 
 Guide entries:
 LANDED AT 6,51. GREAT, TROPICAL FEEL. ALSO SPOTTED A REALLY                 

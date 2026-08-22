@@ -1,6 +1,8 @@
-Planet: GOTHAGA
+Moon: GOTHAGA
 Starmap index: 32
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: VYON
+Moon id: 0
 
 Guide entries:
 A FAIRLY UNINTERESTING PLANETOID. WOULDN'T RECCOMEND A VISIT.

@@ -1,3 +1,5 @@
-Planet: REM A 1
+Moon: REM A 1
 Starmap index: 07
 Paris coordinates: 467504, 3945992, -1215803
+Orbits: REM A
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: ASKEW 54O3
+Moon: ASKEW 54O3
 Starmap index: 48
 Paris coordinates: 10700592, -19048169, 17432791
+Orbits: ASKEW 54O
+Moon id: 2

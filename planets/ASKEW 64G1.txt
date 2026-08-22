@@ -1,6 +1,8 @@
-Planet: ASKEW 64G1
+Moon: ASKEW 64G1
 Starmap index: 40
 Paris coordinates: 11083088, -19266817, 17947109
+Orbits: ASKEW 64G
+Moon id: 0
 
 Guide entries:
 FOUND EPOC 6011 587.170.170 BY ROLAND ASKEW

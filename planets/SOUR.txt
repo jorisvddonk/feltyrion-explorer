@@ -1,6 +1,8 @@
-Planet: SOUR
+Moon: SOUR
 Starmap index: 34
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: WARM EMBRACE
+Moon id: 1
 
 Guide entries:
 VERY ODD-COLORED QUARTZ MOON ORBITING WARM EMBRACE.

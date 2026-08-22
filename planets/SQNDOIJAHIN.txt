@@ -1,3 +1,5 @@
-Planet: SQNDOIJAHIN
+Moon: SQNDOIJAHIN
 Starmap index: 18
 Paris coordinates: 14847824, 32038901, -7119055
+Orbits: AUSTENAEDERN'S SON
+Moon id: 3

@@ -1,3 +1,5 @@
-Planet: LIMBO
+Moon: LIMBO
 Starmap index: 29
 Paris coordinates: -73010640, -1598344, 56035429
+Orbits: PRODIGIUS
+Moon id: 11

@@ -1,6 +1,8 @@
-Planet: RETEYMOSKY
+Moon: RETEYMOSKY
 Starmap index: 13
 Paris coordinates: 3583920, 4409420, -1541145
+Orbits: SHUPEJ'TA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. NICE GREEN AND YELLOW COLOURS FROM         

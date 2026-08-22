@@ -1,6 +1,8 @@
-Planet: IKLOS
+Moon: IKLOS
 Starmap index: 12
 Paris coordinates: 2140833520, -2641384, 1001352
+Orbits: JUCLUR
+Moon id: 1
 
 Guide entries:
 M02/P06 SMALL DUSTY LARGE CRATERS TURN GREEN COLORS WHITE WITH RAYS.        

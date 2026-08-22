@@ -1,6 +1,8 @@
-Planet: DRELREBERIA
+Moon: DRELREBERIA
 Starmap index: 36
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 08
+Moon id: 0
 
 Guide entries:
 SMALL THIN ATMOSPHERE WORLD. FGS 0.51, TEMP -268, ATM PRS 0.2, SUN DISC

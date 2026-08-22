@@ -1,6 +1,8 @@
-Planet: MARTH
+Moon: MARTH
 Starmap index: 11
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: SAND BALL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK, GOOD POLAR CAPS. SKINNYMON

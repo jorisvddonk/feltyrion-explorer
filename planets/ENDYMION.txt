@@ -1,3 +1,5 @@
-Planet: ENDYMION
+Moon: ENDYMION
 Starmap index: 16
 Paris coordinates: 3459632, 4395682, -759830
+Orbits: ARTEMIS
+Moon id: 0

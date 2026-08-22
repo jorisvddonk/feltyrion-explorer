@@ -1,3 +1,5 @@
-Planet: TARGONIS
+Moon: TARGONIS
 Starmap index: 23
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: DURIEL
+Moon id: 0

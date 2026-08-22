@@ -1,6 +1,8 @@
-Planet: STLIN
+Moon: STLIN
 Starmap index: 18
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK, GOOD POLAR CAPS. SKINNYMON

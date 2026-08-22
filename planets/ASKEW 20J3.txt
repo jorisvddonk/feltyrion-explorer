@@ -1,3 +1,5 @@
-Planet: ASKEW 20J3
+Moon: ASKEW 20J3
 Starmap index: 61
 Paris coordinates: 9837776, 8235999, 8907617
+Orbits: ASKEW 20J
+Moon id: 2

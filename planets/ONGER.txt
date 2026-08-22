@@ -1,6 +1,8 @@
-Planet: ONGER
+Moon: ONGER
 Starmap index: 14
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: EDNES
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DEEP CRATERS THAT MATCH

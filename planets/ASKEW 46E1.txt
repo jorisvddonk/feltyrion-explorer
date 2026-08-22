@@ -1,3 +1,5 @@
-Planet: ASKEW 46E1
+Moon: ASKEW 46E1
 Starmap index: 38
 Paris coordinates: 11669520, -19273131, 16728031
+Orbits: ASKEW 46E
+Moon id: 0

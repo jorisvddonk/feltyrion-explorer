@@ -1,6 +1,8 @@
-Planet: GESTURE
+Moon: GESTURE
 Starmap index: 07
 Paris coordinates: 174288, 19297, -474884
+Orbits: RITUAL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MOSTLY PRETTY PLAIN,

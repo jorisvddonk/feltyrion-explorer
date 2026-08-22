@@ -1,6 +1,8 @@
-Planet: ARGONAS 5.3
+Moon: ARGONAS 5.3
 Starmap index: 25
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 5
+Moon id: 2
 
 Guide entries:
  SAME AS THE OTHER TWO MOONS: DUSTY, CRATERISED, NO ATMOSPHERE.

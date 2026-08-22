@@ -1,6 +1,8 @@
-Planet: COOPER'S GUIDE
+Moon: COOPER'S GUIDE
 Starmap index: 15
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: CERULEAN
+Moon id: 0
 
 Guide entries:
 THIS PLANET HAS THE SINGLE MOST STUNNING

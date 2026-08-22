@@ -1,6 +1,8 @@
-Planet: FIRESKY 13.1
+Moon: FIRESKY 13.1
 Starmap index: 46
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 13
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, SOMEHOW STILL INTERNALLY HOT, UNSAFE SURFACE. GIANT

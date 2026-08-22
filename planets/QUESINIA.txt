@@ -1,6 +1,8 @@
-Planet: QUESINIA
+Moon: QUESINIA
 Starmap index: 17
 Paris coordinates: 5555696, 6149718, -1148640
+Orbits: BRILLER
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.682.606 -                               

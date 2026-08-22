@@ -1,3 +1,5 @@
-Planet: CARETINE
+Moon: CARETINE
 Starmap index: 48
 Paris coordinates: 9837776, 8235999, 8907617
+Orbits: ASKEW 20I
+Moon id: 3

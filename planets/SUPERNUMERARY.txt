@@ -1,6 +1,8 @@
-Planet: SUPERNUMERARY
+Moon: SUPERNUMERARY
 Starmap index: 37
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERIOR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SMALL NEWER

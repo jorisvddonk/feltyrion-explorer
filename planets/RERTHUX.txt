@@ -1,6 +1,8 @@
-Planet: RERTHUX
+Moon: RERTHUX
 Starmap index: 05
 Paris coordinates: 5703184, 4943425, 1251410
+Orbits: J-RAN
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, MOSTLY

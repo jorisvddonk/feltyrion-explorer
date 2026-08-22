@@ -1,6 +1,8 @@
-Planet: SAVARA
+Moon: SAVARA
 Starmap index: 15
 Paris coordinates: -852848, 253347, -1135839
+Orbits: planet index 08
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY ADAM DALY (TACOFERNANDEZ), E6011:664.619

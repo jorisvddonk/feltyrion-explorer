@@ -1,3 +1,5 @@
-Planet: WISPY PERIPHERIUM A
+Moon: WISPY PERIPHERIUM A
 Starmap index: 72
 Paris coordinates: 3452848, 4518536, -1183512
+Orbits: WISPY PERIPHERIUM
+Moon id: 0

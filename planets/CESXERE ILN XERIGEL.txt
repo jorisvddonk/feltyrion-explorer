@@ -1,3 +1,5 @@
-Planet: CESXERE ILN XERIGEL
+Moon: CESXERE ILN XERIGEL
 Starmap index: 39
 Paris coordinates: 58819632, -33812924, 926872580
+Orbits: XERIGEL ILN GRARN
+Moon id: 0

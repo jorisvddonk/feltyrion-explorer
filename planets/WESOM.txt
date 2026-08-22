@@ -1,6 +1,8 @@
-Planet: WESOM
+Moon: WESOM
 Starmap index: 22
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: GOTHMY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GOOD GREEN

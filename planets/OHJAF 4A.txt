@@ -1,3 +1,5 @@
-Planet: OHJAF 4A
+Moon: OHJAF 4A
 Starmap index: 18
 Paris coordinates: -26245072, -19374450, -448831906
+Orbits: OHJAF 4
+Moon id: 0

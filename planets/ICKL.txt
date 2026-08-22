@@ -1,6 +1,8 @@
-Planet: ICKL
+Moon: ICKL
 Starmap index: 14
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ANOTHER REFLECTIVE MOON

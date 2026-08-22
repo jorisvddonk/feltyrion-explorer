@@ -1,3 +1,5 @@
-Planet: PSI WONDER THINK
+Moon: PSI WONDER THINK
 Starmap index: 15
 Paris coordinates: 7060976, -16780024, 15078704
+Orbits: GAMMA ABYSSALIS 3
+Moon id: 10

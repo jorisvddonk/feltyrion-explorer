@@ -1,6 +1,8 @@
-Planet: NEON
+Moon: NEON
 Starmap index: 09
 Paris coordinates: 908208, 554963, 552389
+Orbits: BLACK HEART
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.690

@@ -1,6 +1,8 @@
-Planet: FLESA
+Moon: FLESA
 Starmap index: 14
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. ONLY A COUPLE

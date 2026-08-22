@@ -1,6 +1,8 @@
-Planet: MORE OLD GUM
+Moon: MORE OLD GUM
 Starmap index: 22
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 1
 
 Guide entries:
 A PINK CRATERED MOON OF ODD ON EKA75. NAMED BECAUSE IT LOOKS

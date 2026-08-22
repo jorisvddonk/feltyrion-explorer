@@ -1,3 +1,5 @@
-Planet: EKKADAS
+Moon: EKKADAS
 Starmap index: 10
 Paris coordinates: 2056784, 6465841, -1650892
+Orbits: SENDECA-IRPO
+Moon id: 1

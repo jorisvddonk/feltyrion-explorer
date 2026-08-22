@@ -1,6 +1,8 @@
-Planet: BALLON 10.1
+Moon: BALLON 10.1
 Starmap index: 41
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 10
+Moon id: 0
 
 Guide entries:
 A MOON. SMALL, SOLID, THIN ATMOSPHERE. THIS IS WHERE THEY GET,              

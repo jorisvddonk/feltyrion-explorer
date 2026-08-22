@@ -1,6 +1,8 @@
-Planet: TOS 5.3
+Moon: TOS 5.3
 Starmap index: 11
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: MIDTGARD 2
+Moon id: 1
 
 Guide entries:
  HOW MANY OF THESE MOONS ARE THERE? (STARGAZER. EPOC 6011)

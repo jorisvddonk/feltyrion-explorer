@@ -1,3 +1,5 @@
-Planet: DUPYD PUI
+Moon: DUPYD PUI
 Starmap index: 36
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: IANISSE
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: FOGORIA
+Moon: FOGORIA
 Starmap index: 23
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 6
 
 Guide entries:
  A PLANET FULLY COVERED BY CLOUDS. STRANGE, GREEN SURFACE DECTECTED

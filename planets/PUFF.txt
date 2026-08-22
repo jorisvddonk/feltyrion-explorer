@@ -1,3 +1,5 @@
-Planet: PUFF
+Moon: PUFF
 Starmap index: 27
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 3

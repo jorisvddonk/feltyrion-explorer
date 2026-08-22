@@ -1,3 +1,5 @@
-Planet: ACQUA MARINE LIFE
+Moon: ACQUA MARINE LIFE
 Starmap index: 45
 Paris coordinates: 5179984, 6024194, -1431630
+Orbits: planet index 08
+Moon id: 8

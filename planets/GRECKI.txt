@@ -1,6 +1,8 @@
-Planet: GRECKI
+Moon: GRECKI
 Starmap index: 13
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SLIGHTLY DARK GREENISH

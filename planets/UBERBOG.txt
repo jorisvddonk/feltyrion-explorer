@@ -1,3 +1,5 @@
-Planet: UBERBOG
+Moon: UBERBOG
 Starmap index: 31
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZEBES
+Moon id: 1

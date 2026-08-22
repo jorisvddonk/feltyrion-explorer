@@ -1,6 +1,8 @@
-Planet: DOHI
+Moon: DOHI
 Starmap index: 05
 Paris coordinates: 4817840, 4567690, -774077
+Orbits: EMINENCE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ALSO QUITE REFLECTIVE AND

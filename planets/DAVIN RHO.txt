@@ -1,6 +1,8 @@
-Planet: DAVIN RHO
+Moon: DAVIN RHO
 Starmap index: 49
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 16
 
 Guide entries:
 SEVENTEENTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

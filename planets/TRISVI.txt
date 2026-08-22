@@ -1,6 +1,8 @@
-Planet: TRISVI
+Moon: TRISVI
 Starmap index: 30
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: DOCAR
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:405

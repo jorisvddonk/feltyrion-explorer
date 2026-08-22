@@ -1,6 +1,8 @@
-Planet: FARKOR
+Moon: FARKOR
 Starmap index: 13
 Paris coordinates: 3311056, 5428793, 329445
+Orbits: YAWN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, ONLY SLIGHTLY DARK, LIGHT AREA NOTED,

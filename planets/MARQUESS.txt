@@ -1,6 +1,8 @@
-Planet: MARQUESS
+Moon: MARQUESS
 Starmap index: 31
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: SIRE
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. ALMOST FEATURELESS FROM

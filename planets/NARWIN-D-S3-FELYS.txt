@@ -1,3 +1,5 @@
-Planet: NARWIN-D-S3-FELYS
+Moon: NARWIN-D-S3-FELYS
 Starmap index: 12
 Paris coordinates: -148912, 1540144, -3543794
+Orbits: NARWIN-D
+Moon id: 2

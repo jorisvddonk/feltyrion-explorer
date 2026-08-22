@@ -1,6 +1,8 @@
-Planet: GARTRAN XI
+Moon: GARTRAN XI
 Starmap index: 18
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 13
 
 Guide entries:
 FOURTEENTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

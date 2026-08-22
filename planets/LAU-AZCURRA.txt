@@ -1,6 +1,8 @@
-Planet: LAU-AZCURRA
+Moon: LAU-AZCURRA
 Starmap index: 51
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 18
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.836 -                               

@@ -1,6 +1,8 @@
-Planet: TSUN
+Moon: TSUN
 Starmap index: 51
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 17
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FINE OLD LARGE RAYED

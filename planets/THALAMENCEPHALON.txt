@@ -1,6 +1,8 @@
-Planet: THALAMENCEPHALON
+Moon: THALAMENCEPHALON
 Starmap index: 12
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 4
 
 Guide entries:
 UPDATE: MEDIUM SIZE, SURFACE IS MAINLY NATIVE QUARTZ,

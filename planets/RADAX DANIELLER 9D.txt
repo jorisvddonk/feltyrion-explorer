@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 9D
+Moon: RADAX DANIELLER 9D
 Starmap index: 49
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 9
+Moon id: 3

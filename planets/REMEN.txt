@@ -1,6 +1,8 @@
-Planet: REMEN
+Moon: REMEN
 Starmap index: 23
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: HAMOD
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR BROWNISH GREY

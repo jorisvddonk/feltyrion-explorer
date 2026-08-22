@@ -1,6 +1,8 @@
-Planet: TALPOLAR
+Moon: TALPOLAR
 Starmap index: 22
 Paris coordinates: -1108208, -712825, -246456
+Orbits: BLYSPHERE
+Moon id: 8
 
 Guide entries:
 MOON OF BLYSPHERE. SMALL, SOLID, THIN ATMOSPHERE, HAS POLAR CAPS.

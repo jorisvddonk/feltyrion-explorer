@@ -1,3 +1,5 @@
-Planet: LUTHICA
+Moon: LUTHICA
 Starmap index: 18
 Paris coordinates: 3763568, 5569852, -2799046
+Orbits: OMICRON PERCEI 10
+Moon id: 0

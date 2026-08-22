@@ -1,3 +1,5 @@
-Planet: AILAP XIII
+Moon: AILAP XIII
 Starmap index: 22
 Paris coordinates: 14316752, 7867680, -6513449
+Orbits: JAYMEE V
+Moon id: 13

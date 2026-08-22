@@ -1,6 +1,8 @@
-Planet: DIGEN
+Moon: DIGEN
 Starmap index: 14
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: FACE VALUE
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. 'EXTREME REFLECTIVITY'

@@ -1,6 +1,8 @@
-Planet: KEEN
+Moon: KEEN
 Starmap index: 28
 Paris coordinates: 74288, 47959, -394282
+Orbits: RETENE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY APPEARING WITH

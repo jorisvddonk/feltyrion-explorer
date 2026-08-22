@@ -1,6 +1,8 @@
-Planet: LIVING DEAD
+Moon: LIVING DEAD
 Starmap index: 17
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 7
 
 Guide entries:
 UPDATE:MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS.

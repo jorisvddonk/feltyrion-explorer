@@ -1,6 +1,8 @@
-Planet: CHELI
+Moon: CHELI
 Starmap index: 23
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: LASTDIT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY APPEARANCE WITH

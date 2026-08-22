@@ -1,6 +1,8 @@
-Planet: UTOU
+Moon: UTOU
 Starmap index: 22
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: THARG
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DEEP AND RAYED CRATERS.

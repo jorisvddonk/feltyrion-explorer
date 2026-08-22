@@ -1,6 +1,8 @@
-Planet: HALLUCINATION
+Moon: HALLUCINATION
 Starmap index: 14
 Paris coordinates: 2288944, 4542138, -5770409
+Orbits: SPECTRE
+Moon id: 1
 
 Guide entries:
 FELISIAN MOON 2 OF 3RD PLANET IN S00 SYSTEM

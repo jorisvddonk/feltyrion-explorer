@@ -1,6 +1,8 @@
-Planet: FA
+Moon: FA
 Starmap index: 28
 Paris coordinates: 908208, 554963, 552389
+Orbits: BRIGHT
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.696

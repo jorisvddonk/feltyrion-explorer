@@ -1,6 +1,8 @@
-Planet: CEGO
+Moon: CEGO
 Starmap index: 20
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, FAIRLY DARK, LIGHT SPOT NOTED, FAIR POLAR

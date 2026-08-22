@@ -1,6 +1,8 @@
-Planet: PEGRLO
+Moon: PEGRLO
 Starmap index: 12
 Paris coordinates: -43376, 4332103, 37107834
+Orbits: DIMGERN
+Moon id: 1
 
 Guide entries:
 TOO DIM, ONLY BRIGHT AREAS ARE THE POLES, WHICH ARE RELATIVELY

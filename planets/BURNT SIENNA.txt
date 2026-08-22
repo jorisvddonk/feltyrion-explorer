@@ -1,3 +1,5 @@
-Planet: BURNT SIENNA
+Moon: BURNT SIENNA
 Starmap index: 22
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: ORANGE CRAYON
+Moon id: 1

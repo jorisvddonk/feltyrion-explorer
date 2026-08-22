@@ -1,3 +1,5 @@
-Planet: ASKEW 120C5
+Moon: ASKEW 120C5
 Starmap index: 08
 Paris coordinates: 2967088, -12959285, 9815055
+Orbits: ASKEW 120C
+Moon id: 4

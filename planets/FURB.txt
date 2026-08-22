@@ -1,6 +1,8 @@
-Planet: FURB
+Moon: FURB
 Starmap index: 17
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. RATHER AGITATED

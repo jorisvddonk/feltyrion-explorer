@@ -1,6 +1,8 @@
-Planet: SUPERSTATE
+Moon: SUPERSTATE
 Starmap index: 14
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERCHARGER
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, BARELY VISIBLE POLE CAPS. IS

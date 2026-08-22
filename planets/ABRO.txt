@@ -1,3 +1,5 @@
-Planet: ABRO
+Moon: ABRO
 Starmap index: 44
 Paris coordinates: 125712, -63681, 567654
+Orbits: planet index 09
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.6
+Moon: FIRESKY 3.6
 Starmap index: 19
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 5
 
 Guide entries:
 I'M BACK. SO, THIS SMALL MOON HAS NO ATMOSPHERE AND NO NOTABLE

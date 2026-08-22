@@ -1,6 +1,8 @@
-Planet: WRACK
+Moon: WRACK
 Starmap index: 05
 Paris coordinates: 3952848, 4479972, -1933892
+Orbits: BASE STATE
+Moon id: 0
 
 Guide entries:
 PLANETOID WITH AN EXTREMELY HIGH AMOUNT OF CRATERS, EPECIALLY NEAR....

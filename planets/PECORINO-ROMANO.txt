@@ -1,6 +1,8 @@
-Planet: PECORINO-ROMANO
+Moon: PECORINO-ROMANO
 Starmap index: 30
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. TOO

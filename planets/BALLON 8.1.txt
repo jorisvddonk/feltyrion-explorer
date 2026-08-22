@@ -1,6 +1,8 @@
-Planet: BALLON 8.1
+Moon: BALLON 8.1
 Starmap index: 38
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 8
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON. SMALL, SOLID, DUSTY, CRATERIZED... OH, AND GREEN.           

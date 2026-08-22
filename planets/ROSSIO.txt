@@ -1,6 +1,8 @@
-Planet: ROSSIO
+Moon: ROSSIO
 Starmap index: 05
 Paris coordinates: 2997488, 4723118, -140904
+Orbits: LX94
+Moon id: 0
 
 Guide entries:
  THE MOON OF LX94 BEFORE CENTER OF THE ARIVALS FROMSINTRA NOW ABANDONED

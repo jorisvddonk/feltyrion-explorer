@@ -1,6 +1,8 @@
-Planet: OMEGA QUAD C 2
+Moon: OMEGA QUAD C 2
 Starmap index: 08
 Paris coordinates: -11867088, -664921, -560296
+Orbits: OMEGA QUAD C
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.EXTREMELY

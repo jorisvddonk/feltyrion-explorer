@@ -1,3 +1,5 @@
-Planet: SLASH
+Moon: SLASH
 Starmap index: 13
 Paris coordinates: 1677136, 2175648, -46363
+Orbits: HACK
+Moon id: 0

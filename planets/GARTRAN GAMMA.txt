@@ -1,6 +1,8 @@
-Planet: GARTRAN GAMMA
+Moon: GARTRAN GAMMA
 Starmap index: 07
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

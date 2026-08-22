@@ -1,6 +1,8 @@
-Planet: SAIK
+Moon: SAIK
 Starmap index: 24
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 15
 
 Guide entries:
 M16/P05 DUSTY, SMALL REFLECTIVE LIGHT GREY WITH VERY DARK CRATERS AND       

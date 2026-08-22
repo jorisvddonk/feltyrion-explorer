@@ -1,3 +1,5 @@
-Planet: AS12291217D1
+Moon: AS12291217D1
 Starmap index: 12
 Paris coordinates: 48579728, 324247, 1979970535
+Orbits: AS12291217D
+Moon id: 0

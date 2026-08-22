@@ -1,6 +1,8 @@
-Planet: LOGHT
+Moon: LOGHT
 Starmap index: 09
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: FILNALFH
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR BLUE REFLECTIVITY

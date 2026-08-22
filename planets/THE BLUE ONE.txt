@@ -1,6 +1,8 @@
-Planet: THE BLUE ONE
+Moon: THE BLUE ONE
 Starmap index: 13
 Paris coordinates: 532496, 52240661, 457813
+Orbits: STRIXE
+Moon id: 1
 
 Guide entries:
 GOOD WILDLIFE AND FUNKY PURPLE PLANTS AT 291.47; AND LAND AT 186.29

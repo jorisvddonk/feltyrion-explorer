@@ -1,3 +1,5 @@
-Planet: MAX'S SATELITE
+Moon: MAX'S SATELITE
 Starmap index: 67
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: FAR AWAY
+Moon id: 0

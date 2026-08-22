@@ -1,6 +1,8 @@
-Planet: GLIESEN IX G
+Moon: GLIESEN IX G
 Starmap index: 21
 Paris coordinates: -999742544, -1308, 1419595540
+Orbits: GLIESEN IX
+Moon id: 6
 
 Guide entries:
 BRIGHT GREEN DEADWORLD. (SCHMERM 6011 597.865)

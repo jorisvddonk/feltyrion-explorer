@@ -1,3 +1,5 @@
-Planet: TASSALEK-D-S2
+Moon: TASSALEK-D-S2
 Starmap index: 15
 Paris coordinates: 2834672, -650764, -9416730
+Orbits: TASSALEK-D
+Moon id: 1

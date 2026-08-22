@@ -1,6 +1,8 @@
-Planet: FARADAR Q
+Moon: FARADAR Q
 Starmap index: 23
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 16
 
 Guide entries:
 DARK GREEN, AIRLESS, POLAR CAPS. (SCHMERM 6011 584.162)

@@ -1,6 +1,8 @@
-Planet: KARAK
+Moon: KARAK
 Starmap index: 14
 Paris coordinates: 3979984, 4619436, -235715
+Orbits: SHAI
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY AGITATED

@@ -1,6 +1,8 @@
-Planet: PALE GHOST
+Moon: PALE GHOST
 Starmap index: 31
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: RED PLAGUE
+Moon id: 6
 
 Guide entries:
 WHITE CRATERIZED MOON OF PLANET RED DEATH. --EKA

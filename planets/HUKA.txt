@@ -1,6 +1,8 @@
-Planet: HUKA
+Moon: HUKA
 Starmap index: 12
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SOMEWHAT ROUGH WITH SEVERAL

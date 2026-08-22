@@ -1,6 +1,8 @@
-Planet: FHRIJ
+Moon: FHRIJ
 Starmap index: 09
 Paris coordinates: 2090751600, -1867804, -44748
+Orbits: OBNUBLIATUS
+Moon id: 2
 
 Guide entries:
 M03/P03 SMALL SOLIS DUSTY CRARTERIZED WITH LARGE CRATERS, BLUISH GREEN      

@@ -1,3 +1,5 @@
-Planet: WISPY'S STAR-13E
+Moon: WISPY'S STAR-13E
 Starmap index: 58
 Paris coordinates: 3452848, 4518536, -1183512
+Orbits: WISPY'S STAR-13
+Moon id: 4

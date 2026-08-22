@@ -1,6 +1,8 @@
-Planet: MAGYAN
+Moon: MAGYAN
 Starmap index: 11
 Paris coordinates: -3596400, -81554, -2905806
+Orbits: GOVIN 5
+Moon id: 0
 
 Guide entries:
 GOVIN 01/05; FELISIAN

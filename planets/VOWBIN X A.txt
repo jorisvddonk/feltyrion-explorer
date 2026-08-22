@@ -1,6 +1,8 @@
-Planet: VOWBIN X A
+Moon: VOWBIN X A
 Starmap index: 43
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN X
+Moon id: 0
 
 Guide entries:
 FAINTLY PURPLE-TINTED DEADWORLD WITH CRATERS APLENTY.

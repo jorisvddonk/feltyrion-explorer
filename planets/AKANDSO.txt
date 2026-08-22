@@ -1,6 +1,8 @@
-Planet: AKANDSO
+Moon: AKANDSO
 Starmap index: 14
 Paris coordinates: 4173200, 4174602, -869194
+Orbits: GIANT RAISIN
+Moon id: 5
 
 Guide entries:
 ANOTHER BALL OF GREYISH QUARTZ SAND, SIMILAR TO QUARTZER.                   

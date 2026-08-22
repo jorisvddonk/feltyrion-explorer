@@ -1,6 +1,8 @@
-Planet: CRACK
+Moon: CRACK
 Starmap index: 49
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 8
 
 Guide entries:
 NO DRUGS. ICE.. (MEGAGUN)

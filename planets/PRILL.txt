@@ -1,6 +1,8 @@
-Planet: PRILL
+Moon: PRILL
 Starmap index: 14
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: HOMOLOSINE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ONE LARGE AND ONE SMALL

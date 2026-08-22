@@ -1,6 +1,8 @@
-Planet: FRENZID
+Moon: FRENZID
 Starmap index: 30
 Paris coordinates: 191792, 393743, -1607331
+Orbits: COLISM
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE ELEVENTH PLANET, COLISM. COLOR FROM SPACE IS

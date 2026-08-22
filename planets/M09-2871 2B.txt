@@ -1,3 +1,5 @@
-Planet: M09-2871 2B
+Moon: M09-2871 2B
 Starmap index: 10
 Paris coordinates: -38378896, 1448388, 31076565
+Orbits: M09-2871 2
+Moon id: 1

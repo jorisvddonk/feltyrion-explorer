@@ -1,6 +1,8 @@
-Planet: CILTONA
+Moon: CILTONA
 Starmap index: 27
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 6
 
 Guide entries:
 M07/P08 MEDIUM SIZED THICK ATMO DULLGREEN CLOUD COVER, SLIGHT STORMS        

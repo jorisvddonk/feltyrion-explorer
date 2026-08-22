@@ -1,3 +1,5 @@
-Planet: JELEV
+Moon: JELEV
 Starmap index: 09
 Paris coordinates: 3579984, 4607492, 169632
+Orbits: FILOV
+Moon id: 1

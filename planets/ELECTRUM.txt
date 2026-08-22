@@ -1,6 +1,8 @@
-Planet: ELECTRUM
+Moon: ELECTRUM
 Starmap index: 20
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: GLOWWORM
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. STORMS

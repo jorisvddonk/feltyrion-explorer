@@ -1,6 +1,8 @@
-Planet: KOLN EPSILON
+Moon: KOLN EPSILON
 Starmap index: 58
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF PLANET KOLN IN THE GENISI SYSTEM

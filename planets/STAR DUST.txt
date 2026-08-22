@@ -1,3 +1,5 @@
-Planet: STAR DUST
+Moon: STAR DUST
 Starmap index: 07
 Paris coordinates: 18928, -159568, 173067
+Orbits: ALEX
+Moon id: 0

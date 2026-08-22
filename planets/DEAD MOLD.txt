@@ -1,3 +1,5 @@
-Planet: DEAD MOLD
+Moon: DEAD MOLD
 Starmap index: 19
 Paris coordinates: -70572784, -326262, 53980485
+Orbits: MOLD
+Moon id: 0

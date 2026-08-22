@@ -1,3 +1,5 @@
-Planet: LUTH GINTRI
+Moon: LUTH GINTRI
 Starmap index: 14
 Paris coordinates: 2353936, 5345300, -4116543
+Orbits: LUTH CARDEL
+Moon id: 1

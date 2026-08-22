@@ -1,6 +1,8 @@
-Planet: SHAADET
+Moon: SHAADET
 Starmap index: 49
 Paris coordinates: -1421804656, -910355, -1278469235
+Orbits: BOTHO'ES VIII
+Moon id: 0
 
 Guide entries:
 BOTHO'ES 01/08

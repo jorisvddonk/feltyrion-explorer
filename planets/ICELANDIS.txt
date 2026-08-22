@@ -1,3 +1,5 @@
-Planet: ICELANDIS
+Moon: ICELANDIS
 Starmap index: 60
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: GIANTIS
+Moon id: 8

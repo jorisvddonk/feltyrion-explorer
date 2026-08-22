@@ -1,6 +1,8 @@
-Planet: TOS 6.1
+Moon: TOS 6.1
 Starmap index: 13
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: TOS 6
+Moon id: 0
 
 Guide entries:
  A MOON WITH LARGE CREATERS COVERING ITS SURFACE; BUT NOTHING TO SEE

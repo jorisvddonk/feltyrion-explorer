@@ -1,6 +1,8 @@
-Planet: WATORA
+Moon: WATORA
 Starmap index: 25
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: GASSY 1
+Moon id: 8
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.190

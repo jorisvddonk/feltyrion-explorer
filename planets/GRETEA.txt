@@ -1,6 +1,8 @@
-Planet: GRETEA
+Moon: GRETEA
 Starmap index: 03
 Paris coordinates: -232656, 4223940, 36079181
+Orbits: TRIGUN B
+Moon id: 0
 
 Guide entries:
 RELATIVELY BORING PLANET, GREENISH COLOR TO PITCH BLACK, PLATEAUS,

@@ -1,3 +1,5 @@
-Planet: STRESLAU
+Moon: STRESLAU
 Starmap index: 03
 Paris coordinates: -920688, 4849920, -4913827
+Orbits: planet index 01
+Moon id: 0

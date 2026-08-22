@@ -1,6 +1,8 @@
-Planet: THOME
+Moon: THOME
 Starmap index: 11
 Paris coordinates: 808208, 1178550, 752685
+Orbits: SILCATE
+Moon id: 0
 
 Guide entries:
 THIN ATMOSPHERE AND THE MOON OF SILCATE. NOTHING MUCH ON THE SURFACE.       

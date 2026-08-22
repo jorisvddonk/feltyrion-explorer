@@ -1,6 +1,8 @@
-Planet: LIGHTLECT
+Moon: LIGHTLECT
 Starmap index: 12
 Paris coordinates: -1139280, 528850, 7837
+Orbits: AISSLECT
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY PICHERITY, EPOC 6011, 688:911.                                

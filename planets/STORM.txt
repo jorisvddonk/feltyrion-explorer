@@ -1,3 +1,5 @@
-Planet: STORM
+Moon: STORM
 Starmap index: 05
 Paris coordinates: 4211056, 4791175, -605208
+Orbits: STORMIA
+Moon id: 0

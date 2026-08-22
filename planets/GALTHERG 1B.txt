@@ -1,3 +1,5 @@
-Planet: GALTHERG 1B
+Moon: GALTHERG 1B
 Starmap index: 10
 Paris coordinates: 4928560, 5278806, -2232144
+Orbits: GALTHERG 1
+Moon id: 1

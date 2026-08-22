@@ -1,3 +1,5 @@
-Planet: CRELUNIS
+Moon: CRELUNIS
 Starmap index: 17
 Paris coordinates: -61939376, 29523124, 672688
+Orbits: SVICURUL
+Moon id: 0

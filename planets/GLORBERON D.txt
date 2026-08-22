@@ -1,6 +1,8 @@
-Planet: GLORBERON D
+Moon: GLORBERON D
 Starmap index: 15
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 3
 
 Guide entries:
 THIN ATMOSPHERE, ICE CAPS. (SCHMERM 6011 582.598)

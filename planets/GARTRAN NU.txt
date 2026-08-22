@@ -1,6 +1,8 @@
-Planet: GARTRAN NU
+Moon: GARTRAN NU
 Starmap index: 17
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 12
 
 Guide entries:
 THIRTEENTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

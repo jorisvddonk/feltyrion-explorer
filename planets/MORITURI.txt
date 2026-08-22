@@ -1,6 +1,8 @@
-Planet: MORITURI
+Moon: MORITURI
 Starmap index: 13
 Paris coordinates: 110558800, 2821237, -80852784
+Orbits: TESAL 3
+Moon id: 7
 
 Guide entries:
 DARK, DIM, CLOUDY, UNPLEASANT

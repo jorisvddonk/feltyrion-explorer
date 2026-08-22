@@ -1,3 +1,5 @@
-Planet: GRAENKLOWD
+Moon: GRAENKLOWD
 Starmap index: 10
 Paris coordinates: -370352, 661330, -712610
+Orbits: MENNI MUNE
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: NUWI
+Moon: NUWI
 Starmap index: 20
 Paris coordinates: 3959632, 5309715, -1265022
+Orbits: HITSHA
+Moon id: 0
 
 Guide entries:
  MOON OF HITSHA. SURFACE NOT INVESTIGATED, DUE TO DARK APPEARRANCE.

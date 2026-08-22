@@ -1,3 +1,5 @@
-Planet: HEAVY MELDER
+Moon: HEAVY MELDER
 Starmap index: 10
 Paris coordinates: 3277136, 4429407, -1460385
+Orbits: AURUS
+Moon id: 0

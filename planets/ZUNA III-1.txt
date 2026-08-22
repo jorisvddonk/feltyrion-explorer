@@ -1,3 +1,5 @@
-Planet: ZUNA III-1
+Moon: ZUNA III-1
 Starmap index: 08
 Paris coordinates: 9675376, 5043750, -13745597
+Orbits: ZUNA III
+Moon id: 0

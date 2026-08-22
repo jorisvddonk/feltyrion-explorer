@@ -1,6 +1,8 @@
-Planet: CHAMBER
+Moon: CHAMBER
 Starmap index: 07
 Paris coordinates: 2532496, 4432003, -1540265
+Orbits: DECEIT
+Moon id: 1
 
 Guide entries:
 THE STARS IN THIS SYSTEM SHINE FANTASTICALLY FROM THE SURFACE OF THIS

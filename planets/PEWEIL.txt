@@ -1,6 +1,8 @@
-Planet: PEWEIL
+Moon: PEWEIL
 Starmap index: 20
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: TEMBILGO
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A VERY GREEN REFLECTIVE

@@ -1,6 +1,8 @@
-Planet: ODIFEROUS
+Moon: ODIFEROUS
 Starmap index: 09
 Paris coordinates: 8303184, 5908820, -1251717
+Orbits: GASSY1
+Moon id: 4
 
 Guide entries:
 0.64:0.-1 MUCH VEGETATION SEEMS TO GLOW ALMOST AS WITH ELECTRICITY

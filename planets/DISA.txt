@@ -1,6 +1,8 @@
-Planet: DISA
+Moon: DISA
 Starmap index: 12
 Paris coordinates: 74288, 47959, -394282
+Orbits: SCRAPEL
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE

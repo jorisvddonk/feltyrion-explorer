@@ -1,3 +1,5 @@
-Planet: PIZU
+Moon: PIZU
 Starmap index: 28
 Paris coordinates: -7335344, -13180723, 4292289
+Orbits: VIDARA 4
+Moon id: 8

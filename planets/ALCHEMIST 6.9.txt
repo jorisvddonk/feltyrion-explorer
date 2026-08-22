@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 6.9
+Moon: ALCHEMIST 6.9
 Starmap index: 24
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 6
+Moon id: 8
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT, NO ATMOSPHERE, UNSTABLE SURFACE.

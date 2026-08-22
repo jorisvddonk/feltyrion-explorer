@@ -1,6 +1,8 @@
-Planet: ATRAIGA
+Moon: ATRAIGA
 Starmap index: 10
 Paris coordinates: -20671280, 827674, -13257392
+Orbits: ERMUKHA VI
+Moon id: 1
 
 Guide entries:
 ERMUKHA 02/06; QUARTZ

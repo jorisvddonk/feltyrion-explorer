@@ -1,6 +1,8 @@
-Planet: RENTH
+Moon: RENTH
 Starmap index: 12
 Paris coordinates: 2140364592, -691520, 1231760
+Orbits: KLETH
+Moon id: 1
 
 Guide entries:
 M02/P06 SMALL SOLID THIN ATMO. BRIGHTER THAN KLETH WITH FAIR POLAR CAPS     

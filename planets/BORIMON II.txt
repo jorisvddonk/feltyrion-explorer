@@ -1,6 +1,8 @@
-Planet: BORIMON II
+Moon: BORIMON II
 Starmap index: 21
 Paris coordinates: 1373200, 778257, 2089632
+Orbits: GASEORB
+Moon id: 7
 
 Guide entries:
 SIMILAR TO ITS COUSIN BORIMON, BUT CRATERS HERE ARE EXTREMELY

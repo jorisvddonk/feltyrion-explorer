@@ -1,3 +1,5 @@
-Planet: BRINFAIR
+Moon: BRINFAIR
 Starmap index: 10
 Paris coordinates: 732496, 221830, 329207
+Orbits: HASKEN
+Moon id: 1

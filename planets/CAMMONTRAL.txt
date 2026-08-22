@@ -1,6 +1,8 @@
-Planet: CAMMONTRAL
+Moon: CAMMONTRAL
 Starmap index: 16
 Paris coordinates: 9870096, 18689224, -31714944
+Orbits: EPU
+Moon id: 8
 
 Guide entries:
 A PURPLE GAS GIANT WITH A PROMINENT ATMOSPHERE. SMALL BUT INTENSE STORMS    

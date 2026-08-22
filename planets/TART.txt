@@ -1,6 +1,8 @@
-Planet: TART
+Moon: TART
 Starmap index: 19
 Paris coordinates: -163568, 2358, -418951
+Orbits: HEBDOMAD
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, FAIRLY DARK WITH LIGHT AREAS INCLUDING A

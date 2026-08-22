@@ -1,6 +1,8 @@
-Planet: VENEER
+Moon: VENEER
 Starmap index: 08
 Paris coordinates: -225712, 2875, -131716
+Orbits: JETTY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE WITH A

@@ -1,3 +1,5 @@
-Planet: TEDEKA-E-S2
+Moon: TEDEKA-E-S2
 Starmap index: 10
 Paris coordinates: 1160720, 3427984, -2521172
+Orbits: TEDEKA-E-FELYS
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: ZIGGURAT
+Moon: ZIGGURAT
 Starmap index: 61
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 6
 
 Guide entries:
 A FELISIAN WORLD-AT 18.60 IT WAS HILLY, FORESTED LAND, A HOPPER WAS

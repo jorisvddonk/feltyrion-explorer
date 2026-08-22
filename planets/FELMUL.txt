@@ -1,3 +1,5 @@
-Planet: FELMUL
+Moon: FELMUL
 Starmap index: 04
 Paris coordinates: 2359632, 1743452, 251557
+Orbits: planet index 01
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: FRYD
+Moon: FRYD
 Starmap index: 13
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: KROTAR
+Moon id: 0
 
 Guide entries:
 LOOK AT ALL THOSE VOLCANOES! TOO BAD YOU CAN'T CLIMB THEM... THE SURFACE    

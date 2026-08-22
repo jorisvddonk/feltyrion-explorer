@@ -1,3 +1,5 @@
-Planet: NABISEWND
+Moon: NABISEWND
 Starmap index: 27
 Paris coordinates: 14872112, 32430695, -7740461
+Orbits: UNBRELLIAN GOUT
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: ATAMOSKREDYU
+Moon: ATAMOSKREDYU
 Starmap index: 21
 Paris coordinates: 1194640, 62929486, -441858
+Orbits: NYTT-YLO
+Moon id: 7
 
 Guide entries:
 A FELISIAN MOON WITH NOT SO MANY BODIES OF WATER. TEMPERATURES SEEMS TO     

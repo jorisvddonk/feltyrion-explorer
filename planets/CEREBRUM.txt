@@ -1,3 +1,5 @@
-Planet: CEREBRUM
+Moon: CEREBRUM
 Starmap index: 06
 Paris coordinates: -9564912, 328278, -10520768
+Orbits: PARMEZAN
+Moon id: 2

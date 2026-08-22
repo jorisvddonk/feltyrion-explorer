@@ -1,3 +1,5 @@
-Planet: JEGDAVAN
+Moon: JEGDAVAN
 Starmap index: 06
 Paris coordinates: 3435344, 4562017, -290200
+Orbits: CADTALINARIA
+Moon id: 0

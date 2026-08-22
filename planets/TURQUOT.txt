@@ -1,6 +1,8 @@
-Planet: TURQUOT
+Moon: TURQUOT
 Starmap index: 21
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF FAT VIOLET

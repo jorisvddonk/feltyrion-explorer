@@ -1,6 +1,8 @@
-Planet: FRIED PEPPER
+Moon: FRIED PEPPER
 Starmap index: 07
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 1
 
 Guide entries:
 INTERNALLY HOT MOON OF 'HOT OVEN' ON EKA40. --EKA

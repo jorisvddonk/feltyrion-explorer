@@ -1,3 +1,5 @@
-Planet: PAI LIGU
+Moon: PAI LIGU
 Starmap index: 19
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: URIESSE
+Moon id: 2

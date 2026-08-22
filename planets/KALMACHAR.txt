@@ -1,3 +1,5 @@
-Planet: KALMACHAR
+Moon: KALMACHAR
 Starmap index: 22
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: BLUEGASIS
+Moon id: 4

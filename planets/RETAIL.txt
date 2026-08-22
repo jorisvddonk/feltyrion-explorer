@@ -1,6 +1,8 @@
-Planet: RETAIL
+Moon: RETAIL
 Starmap index: 27
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK WITH A LIGHT AREA NOTED, GOOD

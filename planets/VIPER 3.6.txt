@@ -1,6 +1,8 @@
-Planet: VIPER 3.6
+Moon: VIPER 3.6
 Starmap index: 11
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 5
 
 Guide entries:
 MEDIUM-SIZED HELLWORLD WITH UNSTABLE, GLOWING ATMOSPHERE. SERPENS,

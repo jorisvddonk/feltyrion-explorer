@@ -1,6 +1,8 @@
-Planet: GRENK
+Moon: GRENK
 Starmap index: 06
 Paris coordinates: 3059632, 4836884, -345819
+Orbits: STORM
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. NO ATMOSPHERE. HAS A VERY GOOD GREEN

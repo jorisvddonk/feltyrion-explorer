@@ -1,6 +1,8 @@
-Planet: BOSS-ET'HULE
+Moon: BOSS-ET'HULE
 Starmap index: 11
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZE, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN AMOSPHERE.             

@@ -1,3 +1,5 @@
-Planet: LUISELLA
+Moon: LUISELLA
 Starmap index: 04
 Paris coordinates: 656784, 33028, -98036
+Orbits: DONATELLA
+Moon id: 0

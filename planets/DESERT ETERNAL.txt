@@ -1,6 +1,8 @@
-Planet: DESERT ETERNAL
+Moon: DESERT ETERNAL
 Starmap index: 11
 Paris coordinates: -443216, 735706, 871493
+Orbits: IN DARKNESS
+Moon id: 0
 
 Guide entries:
 EMPTY AND LIFELESS

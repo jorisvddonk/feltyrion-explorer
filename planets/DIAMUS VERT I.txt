@@ -1,3 +1,5 @@
-Planet: DIAMUS VERT I
+Moon: DIAMUS VERT I
 Starmap index: 15
 Paris coordinates: -701424, 293517, -259154
+Orbits: DIAMUS VERT
+Moon id: 1

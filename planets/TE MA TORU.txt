@@ -1,6 +1,8 @@
-Planet: TE MA TORU
+Moon: TE MA TORU
 Starmap index: 30
 Paris coordinates: 3036016, -12924584, 9835578
+Orbits: ASKEW 119E
+Moon id: 7
 
 Guide entries:
 FOUND EPOC 6011 589.562.200 BY ROLAND ASKEW

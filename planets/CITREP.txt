@@ -1,6 +1,8 @@
-Planet: CITREP
+Moon: CITREP
 Starmap index: 29
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DIFLAE
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

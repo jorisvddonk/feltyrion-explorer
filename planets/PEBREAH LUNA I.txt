@@ -1,3 +1,5 @@
-Planet: PEBREAH LUNA I
+Moon: PEBREAH LUNA I
 Starmap index: 06
 Paris coordinates: -2139280, 902299, 1032805
+Orbits: PEBREAH
+Moon id: 0

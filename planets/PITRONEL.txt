@@ -1,6 +1,8 @@
-Planet: PITRONEL
+Moon: PITRONEL
 Starmap index: 33
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DIFLAE
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SLIGHT BLUE

@@ -1,3 +1,5 @@
-Planet: PHALAF
+Moon: PHALAF
 Starmap index: 15
 Paris coordinates: 763568, 121186, 4975
+Orbits: TING
+Moon id: 5

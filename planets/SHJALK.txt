@@ -1,6 +1,8 @@
-Planet: SHJALK
+Moon: SHJALK
 Starmap index: 38
 Paris coordinates: 11369520, -19178570, 16789632
+Orbits: ASKEW 48H
+Moon id: 3
 
 Guide entries:
 FOUND EPOC 6011 586.044.900 BY ROLAND ASKEW

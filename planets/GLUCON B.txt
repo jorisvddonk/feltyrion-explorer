@@ -1,6 +1,8 @@
-Planet: GLUCON B
+Moon: GLUCON B
 Starmap index: 28
 Paris coordinates: 4277136, -66332076, -2510220
+Orbits: GLUCON A
+Moon id: 0
 
 Guide entries:
 A GREEN DEADWORLD, THE COMPANION PLANET TO GLUCON A. THE TWO ARE

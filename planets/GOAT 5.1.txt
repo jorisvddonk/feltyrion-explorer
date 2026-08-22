@@ -1,6 +1,8 @@
-Planet: GOAT 5.1
+Moon: GOAT 5.1
 Starmap index: 22
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 5
+Moon id: 0
 
 Guide entries:
 WELL! A VERY INTERESTING MOON! ACCORDING TO THE DESCRIPTION, IT'S

@@ -1,6 +1,8 @@
-Planet: KODFHU
+Moon: KODFHU
 Starmap index: 12
 Paris coordinates: 2100590128, -1965623, -11495
+Orbits: OIDONAP
+Moon id: 1
 
 Guide entries:
 M01/P05 SMALL SOLID DUSTY QUITE REFLECTIVE SLIGHTLY GREY WITH LARGE         

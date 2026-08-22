@@ -1,6 +1,8 @@
-Planet: PHENGG
+Moon: PHENGG
 Starmap index: 17
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 8
 
 Guide entries:
 AIRLESS, YELLOW, RIDGED INSTEAD OF CRATERED. (SCHMERM 6011 583.979)

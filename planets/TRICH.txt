@@ -1,6 +1,8 @@
-Planet: TRICH
+Moon: TRICH
 Starmap index: 55
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, FAIR POLAR CAPS.

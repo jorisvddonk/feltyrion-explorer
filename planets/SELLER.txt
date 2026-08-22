@@ -1,6 +1,8 @@
-Planet: SELLER
+Moon: SELLER
 Starmap index: 19
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: WELCOME
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ONLY ONE LARGE CRATER

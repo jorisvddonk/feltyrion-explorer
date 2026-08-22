@@ -1,6 +1,8 @@
-Planet: AYSLASH
+Moon: AYSLASH
 Starmap index: 25
 Paris coordinates: -1108208, -712825, -246456
+Orbits: PARLAKI
+Moon id: 0
 
 Guide entries:
 PARLAKI'S MOON. SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE.

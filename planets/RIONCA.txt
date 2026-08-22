@@ -1,6 +1,8 @@
-Planet: RIONCA
+Moon: RIONCA
 Starmap index: 46
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHTLY MOTTLED APPEARANCE.

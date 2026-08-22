@@ -1,6 +1,8 @@
-Planet: RASMR
+Moon: RASMR
 Starmap index: 12
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 3
 
 Guide entries:
 M04/P05 SMALL AND CRATERIZED WITH DUSTY GREEN REFLECTIVITY. LARGE           

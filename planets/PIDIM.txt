@@ -1,6 +1,8 @@
-Planet: PIDIM
+Moon: PIDIM
 Starmap index: 35
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 9
 
 Guide entries:
 A DIM, DARK THIN ATMO MOON. NOTHING MUCH OF INTEREST. POLAR REGIONS ARE

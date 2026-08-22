@@ -1,6 +1,8 @@
-Planet: DREAMSCAPE PAINT
+Moon: DREAMSCAPE PAINT
 Starmap index: 25
 Paris coordinates: 381072, 1932089, -429498
+Orbits: TOROIDAL ECLIPSE
+Moon id: 12
 
 Guide entries:
 A GRAY, DREARY QUARTZ PLANET. NAMED BY RYAN GJK E6011.789.502               

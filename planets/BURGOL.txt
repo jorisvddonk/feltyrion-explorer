@@ -1,6 +1,8 @@
-Planet: BURGOL
+Moon: BURGOL
 Starmap index: 29
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: PIZA
+Moon id: 2
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.194

@@ -1,6 +1,8 @@
-Planet: MUMBLES
+Moon: MUMBLES
 Starmap index: 18
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 8
 
 Guide entries:
 THE NINTH MOON OF THE SEVENTH PLANET, A YELLOW, DARK QUARTZ WORLD.

@@ -1,3 +1,5 @@
-Planet: GOUL DRAAN
+Moon: GOUL DRAAN
 Starmap index: 24
 Paris coordinates: -387728, 331391, 626160721
+Orbits: CERES GICLAC
+Moon id: 11

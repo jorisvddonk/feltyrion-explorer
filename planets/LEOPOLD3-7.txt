@@ -1,6 +1,8 @@
-Planet: LEOPOLD3-7
+Moon: LEOPOLD3-7
 Starmap index: 11
 Paris coordinates: -29648, -1258023, 1474796
+Orbits: LEOPOLD3
+Moon id: 6
 
 Guide entries:
 MEDIUM, QUARTZ SURFACE. OXYGEN ATMOSPHERE.

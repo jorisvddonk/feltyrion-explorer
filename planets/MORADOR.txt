@@ -1,6 +1,8 @@
-Planet: MORADOR
+Moon: MORADOR
 Starmap index: 08
 Paris coordinates: -820667056, -970662, -673672866
+Orbits: TAYARAL A
+Moon id: 1
 
 Guide entries:
 TAYARAL 02/01; FELISIAN

@@ -1,6 +1,8 @@
-Planet: ELUSINA 2
+Moon: ELUSINA 2
 Starmap index: 08
 Paris coordinates: 2446064, 4229519, -567104
+Orbits: LIVONIA
+Moon id: 1
 
 Guide entries:
  UNSTABLE AND INTERNALY HOT. IMPOSSIBLE TO LAND.2ND MOON OF LIVONIA.

@@ -1,6 +1,8 @@
-Planet: GRAND MANDALA
+Moon: GRAND MANDALA
 Starmap index: 41
 Paris coordinates: 3036016, -12924584, 9835578
+Orbits: ASKEW 119F
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 589.558.000 BY ROLAND ASKEW

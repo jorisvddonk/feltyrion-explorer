@@ -1,3 +1,5 @@
-Planet: FELISIONA
+Moon: FELISIONA
 Starmap index: 24
 Paris coordinates: 3781072, 5219529, -3829061
+Orbits: ALGERONIA 7
+Moon id: 1

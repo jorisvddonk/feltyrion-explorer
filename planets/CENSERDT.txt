@@ -1,6 +1,8 @@
-Planet: CENSERDT
+Moon: CENSERDT
 Starmap index: 13
 Paris coordinates: 11331664, -19103394, 16761200
+Orbits: ASKEW 49D
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 586.100.020 BY ROLAND ASKEW

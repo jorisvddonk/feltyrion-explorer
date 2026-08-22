@@ -1,3 +1,5 @@
-Planet: VOMULEIR
+Moon: VOMULEIR
 Starmap index: 31
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: RIAOSSE
+Moon id: 0

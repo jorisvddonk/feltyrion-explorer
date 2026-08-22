@@ -1,6 +1,8 @@
-Planet: ALOSIA 1
+Moon: ALOSIA 1
 Starmap index: 13
 Paris coordinates: -2233584, 33860885, 5055785
+Orbits: ALOSIA
+Moon id: 0
 
 Guide entries:
  A RATHER TYPICAL MOON; NO ATMOSPHERE, DUSTY, CRATERIZED.

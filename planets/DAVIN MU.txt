@@ -1,6 +1,8 @@
-Planet: DAVIN MU
+Moon: DAVIN MU
 Starmap index: 44
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 11
 
 Guide entries:
 TWELFTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

@@ -1,3 +1,5 @@
-Planet: TRIEME
+Moon: TRIEME
 Starmap index: 37
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: ATOMIKA
+Moon id: 3

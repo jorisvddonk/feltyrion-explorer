@@ -1,6 +1,8 @@
-Planet: CAPSTONE
+Moon: CAPSTONE
 Starmap index: 58
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE

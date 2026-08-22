@@ -1,3 +1,5 @@
-Planet: TRIYON-GAMMA-A
+Moon: TRIYON-GAMMA-A
 Starmap index: 07
 Paris coordinates: 395728, -199378, -3486792
+Orbits: TRIYON-GAMMA
+Moon id: 0

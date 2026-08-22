@@ -1,6 +1,8 @@
-Planet: ASIAGO D'ALLEVO
+Moon: ASIAGO D'ALLEVO
 Starmap index: 56
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: MAASDAM
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS.

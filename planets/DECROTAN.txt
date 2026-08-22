@@ -1,3 +1,5 @@
-Planet: DECROTAN
+Moon: DECROTAN
 Starmap index: 21
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: FENSTER
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: LOU PALOU
+Moon: LOU PALOU
 Starmap index: 28
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

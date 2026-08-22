@@ -1,3 +1,5 @@
-Planet: SALIC
+Moon: SALIC
 Starmap index: 06
 Paris coordinates: 2994640, 4045928, -2255363
+Orbits: LIPITUNE
+Moon id: 2

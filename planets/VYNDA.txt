@@ -1,6 +1,8 @@
-Planet: VYNDA
+Moon: VYNDA
 Starmap index: 15
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-SSO-2
+Moon id: 0
 
 Guide entries:
 I AM UNABLE TO EXPOLRE THE PLANET'S SURFACE AS THE SURFACE, EVEN IN...

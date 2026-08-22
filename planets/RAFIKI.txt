@@ -1,6 +1,8 @@
-Planet: RAFIKI
+Moon: RAFIKI
 Starmap index: 24
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: planet index 05
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.815                                    

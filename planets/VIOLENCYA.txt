@@ -1,3 +1,5 @@
-Planet: VIOLENCYA
+Moon: VIOLENCYA
 Starmap index: 11
 Paris coordinates: -61846160, 29378084, 204968
+Orbits: GRUPA 7 C
+Moon id: 4

@@ -1,3 +1,5 @@
-Planet: YELLOW DOTS
+Moon: YELLOW DOTS
 Starmap index: 24
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: TILTED RING
+Moon id: 4

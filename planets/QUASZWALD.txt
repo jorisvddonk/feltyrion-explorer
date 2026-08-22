@@ -1,6 +1,8 @@
-Planet: QUASZWALD
+Moon: QUASZWALD
 Starmap index: 23
 Paris coordinates: 3952848, 4679972, -1872131
+Orbits: FALSHE
+Moon id: 11
 
 Guide entries:
  HABITABLE. GRASS, SHRUBS, TREES, AND AVIANS SIGHTED. LARGELY OCEAN.

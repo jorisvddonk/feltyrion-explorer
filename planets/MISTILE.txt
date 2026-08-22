@@ -1,3 +1,5 @@
-Planet: MISTILE
+Moon: MISTILE
 Starmap index: 06
 Paris coordinates: 4294640, 4842645, -3606155
+Orbits: INDIFERENT
+Moon id: 0

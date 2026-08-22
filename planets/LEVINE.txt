@@ -1,6 +1,8 @@
-Planet: LEVINE
+Moon: LEVINE
 Starmap index: 20
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 6
 
 Guide entries:
 A FELISIAN MOON, NAMED BY PREVIOUS EXPLORER. LOOKS STORMY.

@@ -1,6 +1,8 @@
-Planet: NASIJI
+Moon: NASIJI
 Starmap index: 04
 Paris coordinates: 2061228144, -1654027, 3059941
+Orbits: ITMYBES
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY LARGE CRATERS, REFLECTIVE, GREEN COLOR. PRO       

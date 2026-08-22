@@ -1,3 +1,5 @@
-Planet: KO'RI
+Moon: KO'RI
 Starmap index: 34
 Paris coordinates: 5470352, 7001368, -4266745
+Orbits: J'LAN
+Moon id: 11

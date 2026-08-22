@@ -1,3 +1,5 @@
-Planet: KRU
+Moon: KRU
 Starmap index: 33
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: RIBI
+Moon id: 0

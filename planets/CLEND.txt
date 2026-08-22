@@ -1,6 +1,8 @@
-Planet: CLEND
+Moon: CLEND
 Starmap index: 21
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 11
 
 Guide entries:
 THE TWELFTH MOON OF THE SEVENTH PLANET, A VERY RARE THICK ATMO WORLD.

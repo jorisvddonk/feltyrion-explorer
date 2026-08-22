@@ -1,6 +1,8 @@
-Planet: GLAMIS
+Moon: GLAMIS
 Starmap index: 22
 Paris coordinates: -56784, -84307, -221013
+Orbits: INVERNESS
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. CRATERED AND SCARRED.

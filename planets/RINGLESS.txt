@@ -1,3 +1,5 @@
-Planet: RINGLESS
+Moon: RINGLESS
 Starmap index: 78
 Paris coordinates: 70352, 945533, 1134813
+Orbits: SEVER
+Moon id: 3

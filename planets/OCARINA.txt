@@ -1,6 +1,8 @@
-Planet: OCARINA
+Moon: OCARINA
 Starmap index: 08
 Paris coordinates: 3666416, 4731653, -785554
+Orbits: TWO EYES
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS AS REFLECTIVE

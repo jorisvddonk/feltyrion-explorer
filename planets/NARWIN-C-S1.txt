@@ -1,3 +1,5 @@
-Planet: NARWIN-C-S1
+Moon: NARWIN-C-S1
 Starmap index: 07
 Paris coordinates: -148912, 1540144, -3543794
+Orbits: NARWIN-C-FELYS
+Moon id: 0

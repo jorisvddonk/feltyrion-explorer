@@ -1,6 +1,8 @@
-Planet: KROTHIL
+Moon: KROTHIL
 Starmap index: 13
 Paris coordinates: 2140364592, -691520, 1231760
+Orbits: VUCKYST
+Moon id: 0
 
 Guide entries:
 M01/P07 SMALL SOLID DUSTY, MANY LARGE CRATERS, GREY REFLECTIVITY. PRO       

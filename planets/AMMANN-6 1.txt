@@ -1,3 +1,5 @@
-Planet: AMMANN-6 1
+Moon: AMMANN-6 1
 Starmap index: 12
 Paris coordinates: 1424, 60400, 1154420
+Orbits: AMMANN-6
+Moon id: 0

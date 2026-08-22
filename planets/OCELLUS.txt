@@ -1,6 +1,8 @@
-Planet: OCELLUS
+Moon: OCELLUS
 Starmap index: 43
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: HOLITE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. VERY

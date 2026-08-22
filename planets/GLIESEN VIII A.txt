@@ -1,6 +1,8 @@
-Planet: GLIESEN VIII A
+Moon: GLIESEN VIII A
 Starmap index: 14
 Paris coordinates: -999742544, -1308, 1419595540
+Orbits: GLIESEN VIII
+Moon id: 0
 
 Guide entries:
 BROWN THINWORLD. WELL-DEFINED POLAR CAPS.(SCHMERM 6011 597.865)

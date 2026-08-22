@@ -1,3 +1,5 @@
-Planet: ANDARIEL
+Moon: ANDARIEL
 Starmap index: 18
 Paris coordinates: 4576048, 4322743, 830100
+Orbits: MEGAVENE
+Moon id: 4

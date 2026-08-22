@@ -1,3 +1,5 @@
-Planet: ANGELA
+Moon: ANGELA
 Starmap index: 34
 Paris coordinates: 2777136, 4626086, -1230145
+Orbits: CORONA AUREA
+Moon id: 14

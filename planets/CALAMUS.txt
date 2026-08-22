@@ -1,6 +1,8 @@
-Planet: CALAMUS
+Moon: CALAMUS
 Starmap index: 71
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: BASELINE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, FAIR POLAR CAPS.

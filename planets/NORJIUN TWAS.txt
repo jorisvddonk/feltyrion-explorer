@@ -1,3 +1,5 @@
-Planet: NORJIUN TWAS
+Moon: NORJIUN TWAS
 Starmap index: 09
 Paris coordinates: 14847824, 32038901, -7119055
+Orbits: AUSTENAEDERN'S WIFE
+Moon id: 3

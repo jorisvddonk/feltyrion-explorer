@@ -1,6 +1,8 @@
-Planet: OLEXPER
+Moon: OLEXPER
 Starmap index: 16
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. AGITATED

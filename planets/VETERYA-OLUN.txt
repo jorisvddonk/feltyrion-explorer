@@ -1,6 +1,8 @@
-Planet: VETERYA-OLUN
+Moon: VETERYA-OLUN
 Starmap index: 14
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 8
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

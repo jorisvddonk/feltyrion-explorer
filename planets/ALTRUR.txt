@@ -1,3 +1,5 @@
-Planet: ALTRUR
+Moon: ALTRUR
 Starmap index: 21
 Paris coordinates: -474288, -31859501, 1067415
+Orbits: ENKO
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: BERNLAD
+Moon: BERNLAD
 Starmap index: 09
 Paris coordinates: 3959632, 4609715, -1242819
+Orbits: BRONZARIA MINOR
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY BRUCE STERLING WOODCOC, EPOC 6011:571.709

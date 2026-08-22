@@ -1,6 +1,8 @@
-Planet: TESIMOS
+Moon: TESIMOS
 Starmap index: 07
 Paris coordinates: 2037570768, -132625, -1685345
+Orbits: DERUJIK
+Moon id: 1
 
 Guide entries:
 M02/P03 MEDIUM SIZE THICK ATMO, CLOUD COVER IS GREY WITH PINK STORM         

@@ -1,6 +1,8 @@
-Planet: ORANGE STORMS
+Moon: ORANGE STORMS
 Starmap index: 47
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: WARM EMBRACE
+Moon id: 14
 
 Guide entries:
 DK. GREEN GAS GIANT ORBITING WARM EMBRACE. ORANGE SPOTS. --EKA

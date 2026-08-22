@@ -1,6 +1,8 @@
-Planet: INFERNIUS
+Moon: INFERNIUS
 Starmap index: 07
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE THIRD PLANET. BRIGHT RED INTERNALLY HOT.

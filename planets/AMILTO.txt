@@ -1,6 +1,8 @@
-Planet: AMILTO
+Moon: AMILTO
 Starmap index: 34
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: DUSTBIN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE QUITE DARK, GOOD POLAR CAPS, VERY CLOSE

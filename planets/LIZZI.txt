@@ -1,6 +1,8 @@
-Planet: LIZZI
+Moon: LIZZI
 Starmap index: 14
 Paris coordinates: 918928, -67261658, -687914
+Orbits: FORSYTH
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY JAFO. EPOC 6011:584:373

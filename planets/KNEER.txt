@@ -1,3 +1,5 @@
-Planet: KNEER
+Moon: KNEER
 Starmap index: 14
 Paris coordinates: -370352, 661330, -712610
+Orbits: MENNI MUNE
+Moon id: 5

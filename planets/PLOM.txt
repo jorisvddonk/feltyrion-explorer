@@ -1,6 +1,8 @@
-Planet: PLOM
+Moon: PLOM
 Starmap index: 18
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF FAT VIOLET

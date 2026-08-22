@@ -1,6 +1,8 @@
-Planet: KYEPH ALPHA
+Moon: KYEPH ALPHA
 Starmap index: 21
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: KYEPH
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET KYEPH IN THE QUOUN SYSTEM

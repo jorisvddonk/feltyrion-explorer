@@ -1,6 +1,8 @@
-Planet: TUPELO
+Moon: TUPELO
 Starmap index: 50
 Paris coordinates: 4779984, 10243323, -1120421
+Orbits: planet index 08
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY LOGAN, EPOC 6011:664.881

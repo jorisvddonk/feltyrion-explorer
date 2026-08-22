@@ -1,6 +1,8 @@
-Planet: BALLON 3.5
+Moon: BALLON 3.5
 Starmap index: 23
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 3
+Moon id: 4
 
 Guide entries:
 HAH, A GAS GIANT! SO I CAN STILL TRUST MY EYES. IT'S BRIGHT AND             

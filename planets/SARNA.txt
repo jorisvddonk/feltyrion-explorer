@@ -1,3 +1,5 @@
-Planet: SARNA
+Moon: SARNA
 Starmap index: 11
 Paris coordinates: 446064, 140246, 1406798
+Orbits: KATHIL
+Moon id: 3

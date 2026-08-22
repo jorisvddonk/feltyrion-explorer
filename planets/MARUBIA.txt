@@ -1,6 +1,8 @@
-Planet: MARUBIA
+Moon: MARUBIA
 Starmap index: 16
 Paris coordinates: 3959632, 5309715, -1265022
+Orbits: ZAG'S WORLD
+Moon id: 1
 
 Guide entries:
  HEAVILYCRATERISED MOON, BARREN GREY LANDSCAPE

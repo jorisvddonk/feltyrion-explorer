@@ -1,6 +1,8 @@
-Planet: UNARY
+Moon: UNARY
 Starmap index: 56
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. PROBABLY NOT

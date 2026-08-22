@@ -1,3 +1,5 @@
-Planet: TASSALEK-C-S5-FELYS
+Moon: TASSALEK-C-S5-FELYS
 Starmap index: 09
 Paris coordinates: 2834672, -650764, -9416730
+Orbits: TASSALEK-C
+Moon id: 4

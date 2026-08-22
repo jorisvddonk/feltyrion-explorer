@@ -1,3 +1,5 @@
-Planet: BATTERED
+Moon: BATTERED
 Starmap index: 23
 Paris coordinates: -71430992, -593618, 53172813
+Orbits: CONTOL FREAK
+Moon id: 9

@@ -1,3 +1,5 @@
-Planet: SON O'PRAPELLPINI
+Moon: SON O'PRAPELLPINI
 Starmap index: 11
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: TOMB O'PRAPELLPINI
+Moon id: 0

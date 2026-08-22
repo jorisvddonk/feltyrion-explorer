@@ -1,3 +1,5 @@
-Planet: VERLAMAI
+Moon: VERLAMAI
 Starmap index: 34
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: RIAOSSE
+Moon id: 3

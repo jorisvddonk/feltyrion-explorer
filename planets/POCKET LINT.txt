@@ -1,6 +1,8 @@
-Planet: POCKET LINT
+Moon: POCKET LINT
 Starmap index: 08
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 0
 
 Guide entries:
 A PURPLE QUARTZ MOON OF INSANE ON EKA75. NOT VERY NOTABLE, BUT AS

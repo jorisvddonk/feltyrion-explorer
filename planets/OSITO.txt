@@ -1,6 +1,8 @@
-Planet: OSITO
+Moon: OSITO
 Starmap index: 29
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 17
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, CONSIDERABLY DARK, SLIGHT POLAR CAPS.

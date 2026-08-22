@@ -1,6 +1,8 @@
-Planet: YUM-YUM
+Moon: YUM-YUM
 Starmap index: 18
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 9
 
 Guide entries:
 A VERY TASTY-LOOKING YELLOW GASS GIANT. MMM, CREAMY!

@@ -1,6 +1,8 @@
-Planet: CRITICAL DEFICIENCY
+Moon: CRITICAL DEFICIENCY
 Starmap index: 18
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: SMALL FLAME
+Moon id: 1
 
 Guide entries:
 LOOKED LIKE A GIANT ICEBALL AT FIRST, BUT FURTHER                           

@@ -1,6 +1,8 @@
-Planet: DEAD BODY
+Moon: DEAD BODY
 Starmap index: 25
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: RED PLAGUE
+Moon id: 0
 
 Guide entries:
 BLUE CRATERIZED ORBITING PLANET RED PLAGUE. --EKA

@@ -1,3 +1,5 @@
-Planet: DRAILE TRIACUS DREA
+Moon: DRAILE TRIACUS DREA
 Starmap index: 11
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE TRIACUS
+Moon id: 1

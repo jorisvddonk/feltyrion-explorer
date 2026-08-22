@@ -1,6 +1,8 @@
-Planet: HONEYDROP
+Moon: HONEYDROP
 Starmap index: 37
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 11
 
 Guide entries:
 A BEAUTIFUL, ALTHOUGH SLIGHTLY DARK, FELYSIAN MOON. ALMOST ALL LAND

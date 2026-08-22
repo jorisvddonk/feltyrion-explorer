@@ -1,3 +1,5 @@
-Planet: ASKEW 85H7
+Moon: ASKEW 85H7
 Starmap index: 22
 Paris coordinates: 10945232, -19339777, 17862369
+Orbits: ASKEW 85H
+Moon id: 6

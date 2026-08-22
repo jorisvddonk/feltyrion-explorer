@@ -1,3 +1,5 @@
-Planet: METHOS
+Moon: METHOS
 Starmap index: 11
 Paris coordinates: 1032496, 5728, -40498
+Orbits: planet index 04
+Moon id: 0

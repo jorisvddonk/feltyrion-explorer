@@ -1,6 +1,8 @@
-Planet: CARAAM
+Moon: CARAAM
 Starmap index: 35
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: GREROC
+Moon id: 0
 
 Guide entries:
 A DUSTY MOON, THE ONLY ONE OF THE SEVENTH PLANET. THE SURFACE CONSISTS

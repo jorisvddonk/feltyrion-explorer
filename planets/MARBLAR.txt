@@ -1,6 +1,8 @@
-Planet: MARBLAR
+Moon: MARBLAR
 Starmap index: 19
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 9
 
 Guide entries:
 THE TENTH MOON OF THE SEVENTH PLANET, A PRETTY BLUE QUARTZ WORLD.

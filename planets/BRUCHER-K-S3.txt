@@ -1,3 +1,5 @@
-Planet: BRUCHER-K-S3
+Moon: BRUCHER-K-S3
 Starmap index: 42
 Paris coordinates: 3823952, 144991, -9072118
+Orbits: BRUCHER-K
+Moon id: 2

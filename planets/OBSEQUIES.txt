@@ -1,6 +1,8 @@
-Planet: OBSEQUIES
+Moon: OBSEQUIES
 Starmap index: 10
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: MITRAILLEUSE
+Moon id: 1
 
 Guide entries:
 MEIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. A VERY

@@ -1,6 +1,8 @@
-Planet: UERPE
+Moon: UERPE
 Starmap index: 65
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, FAIR POLAR CAPS. SKINNYMON

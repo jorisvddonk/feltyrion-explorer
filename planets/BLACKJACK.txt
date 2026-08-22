@@ -1,6 +1,8 @@
-Planet: BLACKJACK
+Moon: BLACKJACK
 Starmap index: 17
 Paris coordinates: 4043216, 4320747, -4282607
+Orbits: planet index 03
+Moon id: 4
 
 Guide entries:
 5TH MOON OF 3RD PLANET IN JACKPOT SYSTEM. FELISIAN, WARM TEMPERATURE

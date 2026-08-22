@@ -1,6 +1,8 @@
-Planet: BASP EPSILON
+Moon: BASP EPSILON
 Starmap index: 80
 Paris coordinates: 612144, 6999853, -833727
+Orbits: BASP
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF PLANET BASP IN THE GENISI SYSTEM

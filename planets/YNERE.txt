@@ -1,6 +1,8 @@
-Planet: YNERE
+Moon: YNERE
 Starmap index: 08
 Paris coordinates: 2140833520, -2641384, 1001352
+Orbits: SUTACK
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY. MANY LARGE CRATERS, YET THERE IS A BRIGHT        

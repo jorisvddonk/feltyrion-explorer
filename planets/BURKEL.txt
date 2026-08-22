@@ -1,3 +1,5 @@
-Planet: BURKEL
+Moon: BURKEL
 Starmap index: 08
 Paris coordinates: 1314992, -28085909, 665371
+Orbits: GRASTURX
+Moon id: 0

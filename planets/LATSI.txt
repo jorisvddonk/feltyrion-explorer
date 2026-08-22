@@ -1,6 +1,8 @@
-Planet: LATSI
+Moon: LATSI
 Starmap index: 15
 Paris coordinates: 808208, 1178550, 752685
+Orbits: NEME
+Moon id: 3
 
 Guide entries:
 NO ATMOSPHERE. MOON OF NEME, A SUBSTELLAR OBJECT.                           

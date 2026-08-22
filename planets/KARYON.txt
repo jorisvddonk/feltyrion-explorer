@@ -1,6 +1,8 @@
-Planet: KARYON
+Moon: KARYON
 Starmap index: 10
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

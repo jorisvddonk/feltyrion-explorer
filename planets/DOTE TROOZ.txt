@@ -1,3 +1,5 @@
-Planet: DOTE TROOZ
+Moon: DOTE TROOZ
 Starmap index: 22
 Paris coordinates: 4448912, 4540329, -496923
+Orbits: TOKINASA
+Moon id: 0

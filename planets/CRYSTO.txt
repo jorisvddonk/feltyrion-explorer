@@ -1,6 +1,8 @@
-Planet: CRYSTO
+Moon: CRYSTO
 Starmap index: 21
 Paris coordinates: 1109296, 4614243, -3321680
+Orbits: planet index 04
+Moon id: 13
 
 Guide entries:
  QUARTZ PLANET DISC BY SCAREDY-CAT, EPOC 6011.589.498.

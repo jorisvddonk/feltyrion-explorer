@@ -1,3 +1,5 @@
-Planet: PERLIA I
+Moon: PERLIA I
 Starmap index: 30
 Paris coordinates: 4283920, 4264038, -2340212
+Orbits: PERLIA
+Moon id: 0

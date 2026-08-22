@@ -1,3 +1,5 @@
-Planet: GIKRI
+Moon: GIKRI
 Starmap index: 21
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUERUE
+Moon id: 12

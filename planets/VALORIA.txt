@@ -1,6 +1,8 @@
-Planet: VALORIA
+Moon: VALORIA
 Starmap index: 06
 Paris coordinates: 3552848, 3945109, -1330204
+Orbits: QUARTZIX
+Moon id: 1
 
 Guide entries:
 THIS LITTLE MOON IS YET TO BE FULLY EXPLORE.                                

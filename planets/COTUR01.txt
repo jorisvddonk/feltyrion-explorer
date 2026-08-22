@@ -1,3 +1,5 @@
-Planet: COTUR01
+Moon: COTUR01
 Starmap index: 53
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: CLOTURNO
+Moon id: 0

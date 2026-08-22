@@ -1,6 +1,8 @@
-Planet: WOORARI
+Moon: WOORARI
 Starmap index: 13
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED MOON, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

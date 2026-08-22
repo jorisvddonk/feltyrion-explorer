@@ -1,3 +1,5 @@
-Planet: VULAINE
+Moon: VULAINE
 Starmap index: 73
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: VUN
+Moon id: 0

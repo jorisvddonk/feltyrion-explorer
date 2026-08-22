@@ -1,3 +1,5 @@
-Planet: QUATTUOR VII C
+Moon: QUATTUOR VII C
 Starmap index: 28
 Paris coordinates: 3174288, 4345848, -3434396
+Orbits: QUATTUOR VII
+Moon id: 2

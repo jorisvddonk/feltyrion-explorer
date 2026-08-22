@@ -1,3 +1,5 @@
-Planet: ESSEN-5 4
+Moon: ESSEN-5 4
 Starmap index: 15
 Paris coordinates: -12144, 72689, 302469
+Orbits: ESSEN-5
+Moon id: 3

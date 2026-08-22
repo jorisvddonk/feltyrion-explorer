@@ -1,3 +1,5 @@
-Planet: PERSES GORGON
+Moon: PERSES GORGON
 Starmap index: 02
 Paris coordinates: 5226384, -2258277, 5152754
+Orbits: ASKEW 199A
+Moon id: 0

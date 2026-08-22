@@ -1,6 +1,8 @@
-Planet: FARADAR F
+Moon: FARADAR F
 Starmap index: 12
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 5
 
 Guide entries:
 LIGHT GREEN, AIRLESS, LARGE CRATERS. (SCHMERM 6011 584.161)

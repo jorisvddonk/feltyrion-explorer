@@ -1,3 +1,5 @@
-Planet: BLOOD STONE
+Moon: BLOOD STONE
 Starmap index: 13
 Paris coordinates: 27023792, 5955857, 4378899
+Orbits: DIG IT HOT
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: BILLESTA EVEL
+Moon: BILLESTA EVEL
 Starmap index: 17
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 12
 
 Guide entries:
 13TH MOON OF RUFUSA - THIN ATMOSPHERE

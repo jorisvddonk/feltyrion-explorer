@@ -1,6 +1,8 @@
-Planet: CRYSTAL SPIRE
+Moon: CRYSTAL SPIRE
 Starmap index: 38
 Paris coordinates: 3252848, 5675194, -1215611
+Orbits: GSAG
+Moon id: 12
 
 Guide entries:
 FIRST BODY OF INTEREST I DISCOVERD. VERY HILLY

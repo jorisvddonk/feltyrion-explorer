@@ -1,6 +1,8 @@
-Planet: GRAVLO
+Moon: GRAVLO
 Starmap index: 08
 Paris coordinates: -801424, -65898, -243734
+Orbits: FOGAROS
+Moon id: 0
 
 Guide entries:
 A MOON OF FOGAROS. LOW GRAVITY.

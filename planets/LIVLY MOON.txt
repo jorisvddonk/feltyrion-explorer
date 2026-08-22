@@ -1,3 +1,5 @@
-Planet: LIVLY MOON
+Moon: LIVLY MOON
 Starmap index: 19
 Paris coordinates: -718928, 9579840, 591355
+Orbits: GREEN PRUNE
+Moon id: 0

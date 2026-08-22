@@ -1,6 +1,8 @@
-Planet: ROCKBALL
+Moon: ROCKBALL
 Starmap index: 06
 Paris coordinates: 3666416, 4731653, -785554
+Orbits: FOGBOW
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY

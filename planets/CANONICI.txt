@@ -1,6 +1,8 @@
-Planet: CANONICI
+Moon: CANONICI
 Starmap index: 28
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 10
 
 Guide entries:
 A FELISIAN WORLD- BLUE IN APPEARANCE WITH SOME LARGE BODIES OF WATER.

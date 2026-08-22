@@ -1,6 +1,8 @@
-Planet: FRIGUS
+Moon: FRIGUS
 Starmap index: 27
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A BARE HINT OF GROOVING, BUT

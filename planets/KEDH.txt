@@ -1,6 +1,8 @@
-Planet: KEDH
+Moon: KEDH
 Starmap index: 04
 Paris coordinates: 2141033520, -2063295, 879601
+Orbits: POJDUO
+Moon id: 0
 
 Guide entries:
 M01/P03 MEDIUM SIZE INTERNALLY HOT UNSTABLE. HAS A RUDDY COLOR WITH DULL    

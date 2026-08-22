@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 11.8
+Moon: VARACYLNIA 11.8
 Starmap index: 46
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 11
+Moon id: 7
 
 Guide entries:
  IT'S ANOTHER LIFELESS BALL OF ICE.

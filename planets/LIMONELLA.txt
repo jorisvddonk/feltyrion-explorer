@@ -1,6 +1,8 @@
-Planet: LIMONELLA
+Moon: LIMONELLA
 Starmap index: 07
 Paris coordinates: 1353936, 4952744, -3128537
+Orbits: VIOLETTESSA
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.628.936                           

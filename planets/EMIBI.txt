@@ -1,6 +1,8 @@
-Planet: EMIBI
+Moon: EMIBI
 Starmap index: 63
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID ICY SURFACE, NO ATMOSPHERE. QUITE REFLECTIVE AND BLUISH

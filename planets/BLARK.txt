@@ -1,6 +1,8 @@
-Planet: BLARK
+Moon: BLARK
 Starmap index: 15
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: TWONE
+Moon id: 2
 
 Guide entries:
 EVEN AT THE BRIGHTEST SPOTS, ITS RELATIVELY HARD TO EXPLORE, DUE TO THE

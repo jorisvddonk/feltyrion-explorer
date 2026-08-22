@@ -1,3 +1,5 @@
-Planet: KM11
+Moon: KM11
 Starmap index: 11
 Paris coordinates: -4546064, 7347, 2982617
+Orbits: KALEB'S KEEP
+Moon id: 0

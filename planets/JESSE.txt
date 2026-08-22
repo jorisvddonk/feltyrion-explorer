@@ -1,6 +1,8 @@
-Planet: JESSE
+Moon: JESSE
 Starmap index: 19
 Paris coordinates: 2381072, 4319848, -2471627
+Orbits: planet index 03
+Moon id: 13
 
 Guide entries:
  BEAUTIFULFELISIAN,PINK CLOUDS,GREEN FLORA,FAUNA.DISC BY SCAREDY-CAT

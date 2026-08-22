@@ -1,6 +1,8 @@
-Planet: YENSEK
+Moon: YENSEK
 Starmap index: 13
 Paris coordinates: 10762736, -19034762, 17197592
+Orbits: ASKEW 53D
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 586.305.400 BY ROLAND ASKEW

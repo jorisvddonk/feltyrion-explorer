@@ -1,6 +1,8 @@
-Planet: FONTINA
+Moon: FONTINA
 Starmap index: 26
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

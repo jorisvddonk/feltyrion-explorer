@@ -1,6 +1,8 @@
-Planet: PARSIS 9.15
+Moon: PARSIS 9.15
 Starmap index: 40
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 9
+Moon id: 14
 
 Guide entries:
  A ICY LITTLE PLANETOID WITH A VERY SMOOTH SURFACE: FROZEN SOLID.

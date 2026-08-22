@@ -1,6 +1,8 @@
-Planet: UNIF
+Moon: UNIF
 Starmap index: 22
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. AGITATED WITH

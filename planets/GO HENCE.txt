@@ -1,6 +1,8 @@
-Planet: GO HENCE
+Moon: GO HENCE
 Starmap index: 18
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE WITH

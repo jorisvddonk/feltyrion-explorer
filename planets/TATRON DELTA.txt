@@ -1,6 +1,8 @@
-Planet: TATRON DELTA
+Moon: TATRON DELTA
 Starmap index: 70
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET TATRON IN THE GENISI SYSTEM

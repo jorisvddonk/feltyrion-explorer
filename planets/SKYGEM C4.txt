@@ -1,6 +1,8 @@
-Planet: SKYGEM C4
+Moon: SKYGEM C4
 Starmap index: 33
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 3
 
 Guide entries:
  A QUARTZ PLANET. AMWHERE 6011.584.971

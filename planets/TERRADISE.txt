@@ -1,6 +1,8 @@
-Planet: TERRADISE
+Moon: TERRADISE
 Starmap index: 14
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT B
+Moon id: 5
 
 Guide entries:
 BEAUTIFUL PLANET, LOOKS QUITE LIKE EARTH FROM SPACE. TREES HAVE

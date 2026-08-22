@@ -1,3 +1,5 @@
-Planet: WISPY'S STAR-4L
+Moon: WISPY'S STAR-4L
 Starmap index: 27
 Paris coordinates: 3452848, 4518536, -1183512
+Orbits: WISPY'S STAR 4
+Moon id: 11

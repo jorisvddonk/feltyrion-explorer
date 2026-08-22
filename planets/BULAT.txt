@@ -1,6 +1,8 @@
-Planet: BULAT
+Moon: BULAT
 Starmap index: 34
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. RATHER

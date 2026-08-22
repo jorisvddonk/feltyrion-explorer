@@ -1,6 +1,8 @@
-Planet: PANLATO 3.1
+Moon: PANLATO 3.1
 Starmap index: 06
 Paris coordinates: -282832, 1095865, -5377112
+Orbits: PANLATO 3
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, APPEARS TO BE ABOUT THE SIZE OF              

@@ -1,6 +1,8 @@
-Planet: FHAMA
+Moon: FHAMA
 Starmap index: 28
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: HLITIATIM
+Moon id: 0
 
 Guide entries:
 M01P10, DUSTY, CRATERIZED, PRO 0.178.200; PRV 0.001.855.207 /// DISTANCE

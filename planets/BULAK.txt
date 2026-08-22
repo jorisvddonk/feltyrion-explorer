@@ -1,6 +1,8 @@
-Planet: BULAK
+Moon: BULAK
 Starmap index: 04
 Paris coordinates: -1246064, -625757, -538613
+Orbits: PHUKRATOS
+Moon id: 0
 
 Guide entries:
 PHUKRATOS' MOON. IT IS SMALL, SOLID, AND HAS A THIN ATMOSPHERE.

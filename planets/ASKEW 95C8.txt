@@ -1,3 +1,5 @@
-Planet: ASKEW 95C8
+Moon: ASKEW 95C8
 Starmap index: 15
 Paris coordinates: 10724880, -18971815, 16962523
+Orbits: ASKEW 95C
+Moon id: 7

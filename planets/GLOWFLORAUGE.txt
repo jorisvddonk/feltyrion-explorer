@@ -1,3 +1,5 @@
-Planet: GLOWFLORAUGE
+Moon: GLOWFLORAUGE
 Starmap index: 68
 Paris coordinates: 70352, 945533, 1134813
+Orbits: GASTRIX
+Moon id: 14

@@ -1,6 +1,8 @@
-Planet: WOLTI
+Moon: WOLTI
 Starmap index: 30
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: RORBL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SUPRISINGLY FAIR GREEN

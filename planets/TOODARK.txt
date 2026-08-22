@@ -1,6 +1,8 @@
-Planet: TOODARK
+Moon: TOODARK
 Starmap index: 73
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 10
 
 Guide entries:
 AS THE NAME IMPLIES, TOO DARK. ALSO IS PROBABLY FEATURELESS.

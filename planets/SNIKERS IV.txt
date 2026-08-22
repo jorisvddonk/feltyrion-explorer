@@ -1,3 +1,5 @@
-Planet: SNIKERS IV
+Moon: SNIKERS IV
 Starmap index: 13
 Paris coordinates: -107235952, 25138811, -1828589
+Orbits: GALARETKA D
+Moon id: 4

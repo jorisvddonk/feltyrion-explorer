@@ -1,3 +1,5 @@
-Planet: RIBES
+Moon: RIBES
 Starmap index: 16
 Paris coordinates: -729648, -55940, 1873342
+Orbits: EMERATA
+Moon id: 5

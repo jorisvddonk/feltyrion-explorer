@@ -1,6 +1,8 @@
-Planet: EVERGREEN
+Moon: EVERGREEN
 Starmap index: 20
 Paris coordinates: 3652848, 4721750, -1527226
+Orbits: IDLE MAJESTY
+Moon id: 11
 
 Guide entries:
 I LANDED 2 TIMES IN THIS PLANET, THE FIRST I FOUND WHAT IT SEEMED TO

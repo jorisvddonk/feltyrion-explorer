@@ -1,6 +1,8 @@
-Planet: YAPARKRE
+Moon: YAPARKRE
 Starmap index: 39
 Paris coordinates: 1374288, -67792336, -1896928
+Orbits: YAEYSAN
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:576

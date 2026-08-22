@@ -1,6 +1,8 @@
-Planet: RAPTORIAL
+Moon: RAPTORIAL
 Starmap index: 18
 Paris coordinates: 167504, 55824, -835910
+Orbits: planet index 06
+Moon id: 2
 
 Guide entries:
 A FELISIAN WORLD, APPARENT BLUE COLORING WITH LARGE BODIES OF WATER.

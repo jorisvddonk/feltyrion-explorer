@@ -1,3 +1,5 @@
-Planet: BAREFOOT MOON
+Moon: BAREFOOT MOON
 Starmap index: 05
 Paris coordinates: 2556784, 4227335, -1961444
+Orbits: NEO DON SATUR
+Moon id: 0

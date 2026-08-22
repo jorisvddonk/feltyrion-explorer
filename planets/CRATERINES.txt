@@ -1,3 +1,5 @@
-Planet: CRATERINES
+Moon: CRATERINES
 Starmap index: 38
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: MEMFIS
+Moon id: 1

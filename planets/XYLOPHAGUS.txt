@@ -1,6 +1,8 @@
-Planet: XYLOPHAGUS
+Moon: XYLOPHAGUS
 Starmap index: 33
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. HEAVILY SCARRED.

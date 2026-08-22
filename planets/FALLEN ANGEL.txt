@@ -1,3 +1,5 @@
-Planet: FALLEN ANGEL
+Moon: FALLEN ANGEL
 Starmap index: 07
 Paris coordinates: 363568, 105380, 678168
+Orbits: EARTH ANGEL
+Moon id: 0

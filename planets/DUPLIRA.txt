@@ -1,6 +1,8 @@
-Planet: DUPLIRA
+Moon: DUPLIRA
 Starmap index: 29
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 8
 
 Guide entries:
 M09/P08 MRDIUM SIZE THICK ATMO, VERY GREY CLOUD COVER WITH DISTURBANCE      

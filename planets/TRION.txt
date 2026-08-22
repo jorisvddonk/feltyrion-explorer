@@ -1,3 +1,5 @@
-Planet: TRION
+Moon: TRION
 Starmap index: 06
 Paris coordinates: 1952848, 4313160, 256946
+Orbits: planet index 03
+Moon id: 1

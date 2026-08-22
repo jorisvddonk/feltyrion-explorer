@@ -1,3 +1,5 @@
-Planet: ASKEW 125C3
+Moon: ASKEW 125C3
 Starmap index: 15
 Paris coordinates: 4972784, -14963659, 11837379
+Orbits: CUNEIFORM TABLET
+Moon id: 2

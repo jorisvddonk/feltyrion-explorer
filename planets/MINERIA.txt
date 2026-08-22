@@ -1,6 +1,8 @@
-Planet: MINERIA
+Moon: MINERIA
 Starmap index: 05
 Paris coordinates: 6082832, 5024378, -346802
+Orbits: planet index 03
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY GILBERTO EPOC 6011 JUST A MOON WITH TONS OF MINERALS

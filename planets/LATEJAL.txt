@@ -1,6 +1,8 @@
-Planet: LATEJAL
+Moon: LATEJAL
 Starmap index: 09
 Paris coordinates: 763588656, -17558845, -127586509
+Orbits: ALVAIJ
+Moon id: 0
 
 Guide entries:
 M01P03, DUSTY AND CRATERIZED, PRO 0.152.640; PRV 0.001.635.549 ///

@@ -1,6 +1,8 @@
-Planet: PERFUNCTORY
+Moon: PERFUNCTORY
 Starmap index: 17
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 11
 
 Guide entries:
 A FELISIAN WORLD- HAS A GREEN CAST WITH MUCH WATER. AT 149.60 IT

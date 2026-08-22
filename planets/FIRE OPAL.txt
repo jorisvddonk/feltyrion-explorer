@@ -1,6 +1,8 @@
-Planet: FIRE OPAL
+Moon: FIRE OPAL
 Starmap index: 06
 Paris coordinates: 3314992, 4684534, -1413784
+Orbits: GRINNING STONE
+Moon id: 0
 
 Guide entries:
 STRIKING MOON COLORED IN RED AND ORANGE. SURFACE IS MOLTEN, AND

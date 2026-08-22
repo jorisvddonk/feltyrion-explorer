@@ -1,6 +1,8 @@
-Planet: DUOBAND
+Moon: DUOBAND
 Starmap index: 21
 Paris coordinates: -1108208, -712825, -246456
+Orbits: BLYSPHERE
+Moon id: 7
 
 Guide entries:
 MOON OF BLYSPHERE. MEDUIM, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS.

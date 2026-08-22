@@ -1,6 +1,8 @@
-Planet: FRENA
+Moon: FRENA
 Starmap index: 22
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE AREAS

@@ -1,3 +1,5 @@
-Planet: ZZ9-4723LA-F
+Moon: ZZ9-4723LA-F
 Starmap index: 14
 Paris coordinates: 3290704, 4837570, -933229
+Orbits: Y-ETA-24
+Moon id: 0

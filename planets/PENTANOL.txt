@@ -1,6 +1,8 @@
-Planet: PENTANOL
+Moon: PENTANOL
 Starmap index: 24
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A COUPLE OF

@@ -1,3 +1,5 @@
-Planet: ESSEN-3 1
+Moon: ESSEN-3 1
 Starmap index: 10
 Paris coordinates: -12144, 72689, 302469
+Orbits: ESSENSTADT
+Moon id: 0

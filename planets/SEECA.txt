@@ -1,6 +1,8 @@
-Planet: SEECA
+Moon: SEECA
 Starmap index: 12
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. VERY REFLECTIVE CLOUD

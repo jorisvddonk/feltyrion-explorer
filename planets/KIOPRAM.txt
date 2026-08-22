@@ -1,6 +1,8 @@
-Planet: KIOPRAM
+Moon: KIOPRAM
 Starmap index: 06
 Paris coordinates: 2070474544, -1823143, 385289
+Orbits: DATSFHON
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY LARGE CRATERS ON A LIGHT GREY REFLECTIVE          

@@ -1,6 +1,8 @@
-Planet: CHASTEN
+Moon: CHASTEN
 Starmap index: 11
 Paris coordinates: 8898576, -169784, -9929350
+Orbits: ENIGMA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLE CAPS.

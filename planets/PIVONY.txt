@@ -1,6 +1,8 @@
-Planet: PIVONY
+Moon: PIVONY
 Starmap index: 14
 Paris coordinates: 4142128, 4182625, -529864
+Orbits: GIVYNTI
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTENALLY HOT, UNSTABLE SURFACE. SKINNYMON EPOC 6011

@@ -1,6 +1,8 @@
-Planet: ME-ACH
+Moon: ME-ACH
 Starmap index: 23
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. GOOD STORMS,

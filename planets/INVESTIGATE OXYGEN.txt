@@ -1,3 +1,5 @@
-Planet: INVESTIGATE OXYGEN
+Moon: INVESTIGATE OXYGEN
 Starmap index: 38
 Paris coordinates: 3752848, 4941158, -1623997
+Orbits: 2ND-12
+Moon id: 0

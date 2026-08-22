@@ -1,3 +1,5 @@
-Planet: YAIS
+Moon: YAIS
 Starmap index: 33
 Paris coordinates: 1624624, 31139792, 2797652
+Orbits: TRISI
+Moon id: 0

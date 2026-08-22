@@ -1,6 +1,8 @@
-Planet: GLORBERON K
+Moon: GLORBERON K
 Starmap index: 22
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 10
 
 Guide entries:
 SMALL, AIRLESS, HUGE CRATERS, PALE SURFACE. (SCHMERM 6011 582.599)

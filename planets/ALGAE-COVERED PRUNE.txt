@@ -1,3 +1,5 @@
-Planet: ALGAE-COVERED PRUNE
+Moon: ALGAE-COVERED PRUNE
 Starmap index: 27
 Paris coordinates: -71430992, -593618, 53172813
+Orbits: RINGED SHROUD
+Moon id: 0

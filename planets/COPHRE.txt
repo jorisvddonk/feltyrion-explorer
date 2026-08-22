@@ -1,6 +1,8 @@
-Planet: COPHRE
+Moon: COPHRE
 Starmap index: 16
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: TONKTONEK
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. FAIR GREY

@@ -1,3 +1,5 @@
-Planet: BRUCHER-C-S1
+Moon: BRUCHER-C-S1
 Starmap index: 17
 Paris coordinates: 3823952, 144991, -9072118
+Orbits: BRUCHER-C
+Moon id: 0

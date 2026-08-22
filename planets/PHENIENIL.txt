@@ -1,6 +1,8 @@
-Planet: PHENIENIL
+Moon: PHENIENIL
 Starmap index: 24
 Paris coordinates: 11669520, -19273131, 16728031
+Orbits: ASKEW 46C
+Moon id: 3
 
 Guide entries:
  FOUND BY ROLAND (EPOC 6011 585.795.700)

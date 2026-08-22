@@ -1,3 +1,5 @@
-Planet: QUARLAND
+Moon: QUARLAND
 Starmap index: 07
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: PURPLOSE
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: ZILLU
+Moon: ZILLU
 Starmap index: 21
 Paris coordinates: 4073200, 5702744, -580029
+Orbits: KUUMUUS
+Moon id: 1

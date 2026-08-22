@@ -1,6 +1,8 @@
-Planet: NEWARK
+Moon: NEWARK
 Starmap index: 07
 Paris coordinates: 3405360, 5347404, -3994355
+Orbits: PALMYRA 5
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY CAPT. LUTHER ON EPOC:6011:661:27

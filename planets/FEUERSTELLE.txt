@@ -1,3 +1,5 @@
-Planet: FEUERSTELLE
+Moon: FEUERSTELLE
 Starmap index: 32
 Paris coordinates: 1281072, -17832402, -1447008
+Orbits: EINSAMER MANN
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: BACON SLICE
+Moon: BACON SLICE
 Starmap index: 04
 Paris coordinates: -9564912, 328278, -10520768
+Orbits: PARMEZAN
+Moon id: 0
 
 Guide entries:
 VERY, VERY DARK INDEED.

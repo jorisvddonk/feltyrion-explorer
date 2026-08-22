@@ -1,6 +1,8 @@
-Planet: GREICE
+Moon: GREICE
 Starmap index: 35
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: QUMAZ
+Moon id: 0
 
 Guide entries:
 GREY ICE. LOOKS NICE FROM SPACE, VERY FLAT.

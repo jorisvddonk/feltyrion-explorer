@@ -1,6 +1,8 @@
-Planet: FOL
+Moon: FOL
 Starmap index: 14
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: ELOCU
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY LARGE CRATERS.

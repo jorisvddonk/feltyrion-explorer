@@ -1,6 +1,8 @@
-Planet: ESSEN
+Moon: ESSEN
 Starmap index: 19
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 8
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.694

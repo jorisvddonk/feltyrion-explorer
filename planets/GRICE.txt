@@ -1,6 +1,8 @@
-Planet: GRICE
+Moon: GRICE
 Starmap index: 23
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: BOLT
+Moon id: 2
 
 Guide entries:
 UPDATE:SMALL, SOLID ICY SURFACE, NO ATMOSPHERE. BIG BALL OF ICE WITH

@@ -1,3 +1,5 @@
-Planet: HAMMER
+Moon: HAMMER
 Starmap index: 15
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: MARLEY
+Moon id: 9

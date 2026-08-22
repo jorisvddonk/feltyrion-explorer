@@ -1,3 +1,5 @@
-Planet: HEAT
+Moon: HEAT
 Starmap index: 13
 Paris coordinates: 3066416, 4264474, -181197
+Orbits: KRIS
+Moon id: 0

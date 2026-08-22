@@ -1,6 +1,8 @@
-Planet: FAJAD MU
+Moon: FAJAD MU
 Starmap index: 27
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 11
 
 Guide entries:
 TWELFTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

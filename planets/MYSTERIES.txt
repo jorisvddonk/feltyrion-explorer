@@ -1,6 +1,8 @@
-Planet: MYSTERIES
+Moon: MYSTERIES
 Starmap index: 40
 Paris coordinates: 5069264, 20652333, 117733
+Orbits: planet index 07
+Moon id: 4
 
 Guide entries:
 A VERY INTERESTING PLANET. UPON FIRST LANDING, IT APPEARED TO BE

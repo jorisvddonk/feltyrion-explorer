@@ -1,3 +1,5 @@
-Planet: VALYX-H-S3
+Moon: VALYX-H-S3
 Starmap index: 50
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-H
+Moon id: 2

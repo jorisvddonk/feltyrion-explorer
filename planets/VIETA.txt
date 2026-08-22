@@ -1,3 +1,5 @@
-Planet: VIETA
+Moon: VIETA
 Starmap index: 26
 Paris coordinates: 4097488, 5032993, -1271647
+Orbits: SPINNE
+Moon id: 0

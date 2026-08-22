@@ -1,6 +1,8 @@
-Planet: IN-DEPTH
+Moon: IN-DEPTH
 Starmap index: 29
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: CLOQUE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS WITH RAYS

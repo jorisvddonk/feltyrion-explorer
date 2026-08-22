@@ -1,6 +1,8 @@
-Planet: SENIUR
+Moon: SENIUR
 Starmap index: 27
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION IV
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE DUSTY LOOKING

@@ -1,3 +1,5 @@
-Planet: GREEN DUST
+Moon: GREEN DUST
 Starmap index: 09
 Paris coordinates: 3373200, 4448945, -113757
+Orbits: VINEYARD
+Moon id: 0

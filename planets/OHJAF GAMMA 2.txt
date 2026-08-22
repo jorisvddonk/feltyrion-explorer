@@ -1,3 +1,5 @@
-Planet: OHJAF GAMMA 2
+Moon: OHJAF GAMMA 2
 Starmap index: 20
 Paris coordinates: -26245072, -19374450, -448831906
+Orbits: OHJAF GAMMA
+Moon id: 1

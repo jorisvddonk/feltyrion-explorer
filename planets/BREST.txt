@@ -1,3 +1,5 @@
-Planet: BREST
+Moon: BREST
 Starmap index: 34
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: VERSAILLES
+Moon id: 3

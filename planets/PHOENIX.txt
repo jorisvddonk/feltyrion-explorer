@@ -1,6 +1,8 @@
-Planet: PHOENIX
+Moon: PHOENIX
 Starmap index: 18
 Paris coordinates: 3521776, 4359539, -1148567
+Orbits: ILLUSION
+Moon id: 1
 
 Guide entries:
 THIS MOON HAS A THIN ATMOSPHERE, AND IS, ON THE WHOLE, RATHER FLAT.

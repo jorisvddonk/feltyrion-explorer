@@ -1,6 +1,8 @@
-Planet: AKUY ALPHA
+Moon: AKUY ALPHA
 Starmap index: 05
 Paris coordinates: 3483920, 4997178, -1498364
+Orbits: AKUY
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF PLANET AKUY IN THE BINARY SYSTEM VICE

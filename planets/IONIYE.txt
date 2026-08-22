@@ -1,6 +1,8 @@
-Planet: IONIYE
+Moon: IONIYE
 Starmap index: 41
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 9
 
 Guide entries:
 THE TENTH MOON OF FIFTEENTH PLANET, PERDISTA. A SOMEWHAT BRIGHT, PINK

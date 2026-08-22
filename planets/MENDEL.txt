@@ -1,6 +1,8 @@
-Planet: MENDEL
+Moon: MENDEL
 Starmap index: 16
 Paris coordinates: -625712, 1137800, 123585
+Orbits: PAX
+Moon id: 3
 
 Guide entries:
 SMALL, FLAT, ICY, LIKE A HUNDRED OTHER PLANETS, NOT TO INTERESTING.

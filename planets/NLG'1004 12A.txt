@@ -1,3 +1,5 @@
-Planet: NLG'1004 12A
+Moon: NLG'1004 12A
 Starmap index: 25
 Paris coordinates: 2353936, 5345300, -4116543
+Orbits: NLG'1004 12
+Moon id: 0

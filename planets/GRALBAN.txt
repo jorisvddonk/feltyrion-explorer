@@ -1,3 +1,5 @@
-Planet: GRALBAN
+Moon: GRALBAN
 Starmap index: 13
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 6

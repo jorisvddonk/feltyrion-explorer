@@ -1,3 +1,5 @@
-Planet: TANKMOON7-09-03
+Moon: TANKMOON7-09-03
 Starmap index: 29
 Paris coordinates: 6344976, 7429440, -652444
+Orbits: TANKWORLD7-09
+Moon id: 2

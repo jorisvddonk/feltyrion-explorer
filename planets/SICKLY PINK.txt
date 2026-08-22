@@ -1,3 +1,5 @@
-Planet: SICKLY PINK
+Moon: SICKLY PINK
 Starmap index: 08
 Paris coordinates: -71737776, -612728, 53298332
+Orbits: THE RINGED MINIPINK
+Moon id: 0

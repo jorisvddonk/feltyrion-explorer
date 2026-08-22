@@ -1,3 +1,5 @@
-Planet: REST POINT 5
+Moon: REST POINT 5
 Starmap index: 35
 Paris coordinates: -16691120, -4929354, 27872887
+Orbits: planet index 07
+Moon id: 9

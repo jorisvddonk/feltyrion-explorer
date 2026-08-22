@@ -1,6 +1,8 @@
-Planet: SEOMI
+Moon: SEOMI
 Starmap index: 05
 Paris coordinates: 7674288, 66747, -7938951
+Orbits: YOQUEEHE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, FAIR POLAR CAPS. SKINNYMON

@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 10A
+Moon: RADAX DANIELLER 10A
 Starmap index: 62
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 10
+Moon id: 0

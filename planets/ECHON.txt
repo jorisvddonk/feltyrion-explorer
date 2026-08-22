@@ -1,6 +1,8 @@
-Planet: ECHON
+Moon: ECHON
 Starmap index: 09
 Paris coordinates: 3563568, 4722361, -2721466
+Orbits: HAPPENSTANCE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

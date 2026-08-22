@@ -1,6 +1,8 @@
-Planet: PARSIS 12.2
+Moon: PARSIS 12.2
 Starmap index: 56
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 12
+Moon id: 1
 
 Guide entries:
  REALLY JUST AN ASTEROID COGHT IN THE GRAVETATIONAL FIELDS OF THE

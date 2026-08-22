@@ -1,6 +1,8 @@
-Planet: GREYEY
+Moon: GREYEY
 Starmap index: 17
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 9
 
 Guide entries:
 TENTH MOON OF THIRD PLANET, GREEN DUSTY MOON. COLOR RANGES FROM GREY

@@ -1,3 +1,5 @@
-Planet: PALPINIS
+Moon: PALPINIS
 Starmap index: 08
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: GRUPA 6 B
+Moon id: 0

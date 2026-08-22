@@ -1,6 +1,8 @@
-Planet: SERPENTINE 9.1
+Moon: SERPENTINE 9.1
 Starmap index: 24
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 9
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED(YES!), INTERNALLY HOT, VERY UNSTABLE SURFACE,

@@ -1,6 +1,8 @@
-Planet: ANGUS
+Moon: ANGUS
 Starmap index: 10
 Paris coordinates: -267504, 1291695, 1373831
+Orbits: AYSEE-DEESEE
+Moon id: 0
 
 Guide entries:
 A COLD MOON WITH NO ATMOSPHERE BUT SOME INTERESTING SURFACE FEATURES

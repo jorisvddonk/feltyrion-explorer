@@ -1,6 +1,8 @@
-Planet: OMEGA ORANGE III A
+Moon: OMEGA ORANGE III A
 Starmap index: 04
 Paris coordinates: -11973872, -267019, -839537
+Orbits: OMEGA ORANGE III
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. PRETTY MUCH

@@ -1,6 +1,8 @@
-Planet: MENENTAVE IIIA
+Moon: MENENTAVE IIIA
 Starmap index: 13
 Paris coordinates: -56784, -84307, -221013
+Orbits: planet index 03
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE,EXTREMELY DARK, GOOD POLAR CAPS.

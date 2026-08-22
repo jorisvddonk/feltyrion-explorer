@@ -1,6 +1,8 @@
-Planet: KOMA 3
+Moon: KOMA 3
 Starmap index: 16
 Paris coordinates: 3628560, 4254023, -915798
+Orbits: ROSEBEAD
+Moon id: 9
 
 Guide entries:
 FOUNDED EPOC 6011, 678.981.998 BY REZA. 10TH MOON OF ROSEBEAD.              

@@ -1,3 +1,5 @@
-Planet: SIENA-C-S4
+Moon: SIENA-C-S4
 Starmap index: 11
 Paris coordinates: 3363568, 4274032, -2404452
+Orbits: SIENA-C
+Moon id: 3

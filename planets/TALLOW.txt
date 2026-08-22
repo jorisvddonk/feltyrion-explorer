@@ -1,6 +1,8 @@
-Planet: TALLOW
+Moon: TALLOW
 Starmap index: 55
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED BY DENSE CLOUDS. VERY REFLECTIVE WITH

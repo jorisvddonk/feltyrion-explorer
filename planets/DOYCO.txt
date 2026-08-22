@@ -1,6 +1,8 @@
-Planet: DOYCO
+Moon: DOYCO
 Starmap index: 12
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: FACE VALUE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. AN EXTREMELY REFLECTIVE

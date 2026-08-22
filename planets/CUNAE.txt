@@ -1,3 +1,5 @@
-Planet: CUNAE
+Moon: CUNAE
 Starmap index: 16
 Paris coordinates: 456784, 1761371, 150486
+Orbits: planet index 03
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: FHOYAT
+Moon: FHOYAT
 Starmap index: 08
 Paris coordinates: 2069274544, -1807205, 1405355
+Orbits: CYSHISI
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY VERY LARGE CRATERS ON A LIGHT GREEN COLORED       

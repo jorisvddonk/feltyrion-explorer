@@ -1,6 +1,8 @@
-Planet: SITHINIDE
+Moon: SITHINIDE
 Starmap index: 04
 Paris coordinates: 3159632, 4561048, -547149
+Orbits: NARSARUS
+Moon id: 0
 
 Guide entries:
 -JOSE FREDRICO DELESANTES EL SEGUNDO

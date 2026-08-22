@@ -1,3 +1,5 @@
-Planet: MUD
+Moon: MUD
 Starmap index: 14
 Paris coordinates: -71430992, -593618, 53172813
+Orbits: CONTOL FREAK
+Moon id: 0

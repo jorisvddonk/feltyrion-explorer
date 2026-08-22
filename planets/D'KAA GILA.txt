@@ -1,3 +1,5 @@
-Planet: D'KAA GILA
+Moon: D'KAA GILA
 Starmap index: 30
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 12
+Moon id: 7

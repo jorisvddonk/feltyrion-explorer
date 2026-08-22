@@ -1,3 +1,5 @@
-Planet: CECILIA
+Moon: CECILIA
 Starmap index: 37
 Paris coordinates: 9252848, 5586893, -7007054
+Orbits: SKY
+Moon id: 0

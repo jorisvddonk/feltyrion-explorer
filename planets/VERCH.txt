@@ -1,6 +1,8 @@
-Planet: VERCH
+Moon: VERCH
 Starmap index: 41
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 7
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. A VERY DARK APPEARANCE

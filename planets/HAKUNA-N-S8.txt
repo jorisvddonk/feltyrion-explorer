@@ -1,3 +1,5 @@
-Planet: HAKUNA-N-S8
+Moon: HAKUNA-N-S8
 Starmap index: 80
 Paris coordinates: 264656, 999491, -3130269
+Orbits: HAKUNA-N
+Moon id: 7

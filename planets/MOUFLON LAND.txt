@@ -1,6 +1,8 @@
-Planet: MOUFLON LAND
+Moon: MOUFLON LAND
 Starmap index: 04
 Paris coordinates: 6431408, 5601853, -1620636
+Orbits: SANA
+Moon id: 0
 
 Guide entries:
  TERRAIN WITH STEEP HILLS

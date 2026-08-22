@@ -1,6 +1,8 @@
-Planet: UNSSELI
+Moon: UNSSELI
 Starmap index: 18
 Paris coordinates: 3655696, 5093605, 729351
+Orbits: SORNFSH
+Moon id: 0
 
 Guide entries:
 'INTERNALLY HOT, UNSTABLE SURFACE', APPARENTLY. STARDRIFTER REFUSES TO

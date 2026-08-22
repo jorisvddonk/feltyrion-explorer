@@ -1,6 +1,8 @@
-Planet: NAIVA
+Moon: NAIVA
 Starmap index: 11
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE,

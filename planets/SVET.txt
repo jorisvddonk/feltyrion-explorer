@@ -1,6 +1,8 @@
-Planet: SVET
+Moon: SVET
 Starmap index: 24
 Paris coordinates: -1532496, -973713, 623217
+Orbits: WRETEB
+Moon id: 0
 
 Guide entries:
 LIFELESS AND GENERALLY FLAT.

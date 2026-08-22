@@ -1,3 +1,5 @@
-Planet: LYSO
+Moon: LYSO
 Starmap index: 21
 Paris coordinates: 1583920, -27673265, 361375
+Orbits: LUFTIKUS
+Moon id: 0

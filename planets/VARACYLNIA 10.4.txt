@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 10.4
+Moon: VARACYLNIA 10.4
 Starmap index: 30
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 10
+Moon id: 3
 
 Guide entries:
 THIS APPEARS TO BE ANOTHER ONE OF THOSE ICY WORLDS - WITH A

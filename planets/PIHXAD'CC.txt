@@ -1,3 +1,5 @@
-Planet: PIHXAD'CC
+Moon: PIHXAD'CC
 Starmap index: 66
 Paris coordinates: -614992, 734031, -1219112
+Orbits: FOOPSERID
+Moon id: 10

@@ -1,6 +1,8 @@
-Planet: ORAYL
+Moon: ORAYL
 Starmap index: 11
 Paris coordinates: 1070352, 1049165, 332090
+Orbits: TRIDENT B
+Moon id: 2
 
 Guide entries:
 PLANET SEEMS TO BE CONSIDERABLY DARK, ITS SURFACE COLORS RANGING FROM

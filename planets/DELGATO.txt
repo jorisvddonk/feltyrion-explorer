@@ -1,3 +1,5 @@
-Planet: DELGATO
+Moon: DELGATO
 Starmap index: 07
 Paris coordinates: 256784, -25799, 162335
+Orbits: UNUSUAL CALM
+Moon id: 2

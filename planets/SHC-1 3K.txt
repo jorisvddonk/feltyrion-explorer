@@ -1,6 +1,8 @@
-Planet: SHC-1 3K
+Moon: SHC-1 3K
 Starmap index: 22
 Paris coordinates: -26583376, -15647682, -1001175282
+Orbits: SHC-1 3
+Moon id: 10
 
 Guide entries:
 WHOA, A FELISIAN PLANET! (SHADOWCLAW)

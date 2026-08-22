@@ -1,3 +1,5 @@
-Planet: NEBRIS
+Moon: NEBRIS
 Starmap index: 15
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: GANAIA
+Moon id: 8

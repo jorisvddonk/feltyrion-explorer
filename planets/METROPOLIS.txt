@@ -1,6 +1,8 @@
-Planet: METROPOLIS
+Moon: METROPOLIS
 Starmap index: 11
 Paris coordinates: -280275088, -1411417, 54856035
+Orbits: TALES
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.576.809

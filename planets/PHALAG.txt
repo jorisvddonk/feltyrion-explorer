@@ -1,3 +1,5 @@
-Planet: PHALAG
+Moon: PHALAG
 Starmap index: 16
 Paris coordinates: 763568, 121186, 4975
+Orbits: TING
+Moon id: 6

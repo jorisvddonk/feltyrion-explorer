@@ -1,3 +1,5 @@
-Planet: DREK HRAN
+Moon: DREK HRAN
 Starmap index: 49
 Paris coordinates: -38647824, 1378929, 31229463
+Orbits: GHYTHUR HRAN
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: DIOPTASE
+Moon: DIOPTASE
 Starmap index: 24
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: TREASURER
+Moon id: 5
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A PRETTY

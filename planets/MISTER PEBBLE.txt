@@ -1,6 +1,8 @@
-Planet: MISTER PEBBLE
+Moon: MISTER PEBBLE
 Starmap index: 25
 Paris coordinates: 3959632, 5309715, -1265022
+Orbits: SENTINEL WORLD
+Moon id: 1
 
 Guide entries:
  GREYBROWN FLAT SURFACE

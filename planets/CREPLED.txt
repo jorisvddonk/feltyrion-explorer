@@ -1,3 +1,5 @@
-Planet: CREPLED
+Moon: CREPLED
 Starmap index: 15
 Paris coordinates: 2568176, 4269415, 6430277
+Orbits: AIRSPHERE
+Moon id: 2

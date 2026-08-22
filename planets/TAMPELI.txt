@@ -1,3 +1,5 @@
-Planet: TAMPELI
+Moon: TAMPELI
 Starmap index: 33
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 11

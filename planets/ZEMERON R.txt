@@ -1,6 +1,8 @@
-Planet: ZEMERON R
+Moon: ZEMERON R
 Starmap index: 48
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 17
 
 Guide entries:
 SMALL DARK-GREEN AIRLESS MOON. (SCHMERM 6011 583.20

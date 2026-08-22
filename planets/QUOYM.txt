@@ -1,6 +1,8 @@
-Planet: QUOYM
+Moon: QUOYM
 Starmap index: 77
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD PURPLE REFLECTIVITY WITH

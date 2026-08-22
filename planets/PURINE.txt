@@ -1,6 +1,8 @@
-Planet: PURINE
+Moon: PURINE
 Starmap index: 08
 Paris coordinates: 181072, 46421, -227392
+Orbits: SPECIOUS
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, GOOD POLAR CAPS. SKINNYMON

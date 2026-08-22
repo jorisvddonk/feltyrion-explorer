@@ -1,3 +1,5 @@
-Planet: BAXE
+Moon: BAXE
 Starmap index: 11
 Paris coordinates: 1583920, -27673265, 361375
+Orbits: BESK
+Moon id: 0

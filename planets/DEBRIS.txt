@@ -1,3 +1,5 @@
-Planet: DEBRIS
+Moon: DEBRIS
 Starmap index: 09
 Paris coordinates: -71893136, -756602, 53977080
+Orbits: EXPLOSION
+Moon id: 0

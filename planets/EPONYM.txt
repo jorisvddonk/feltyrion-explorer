@@ -1,6 +1,8 @@
-Planet: EPONYM
+Moon: EPONYM
 Starmap index: 14
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. QUITE

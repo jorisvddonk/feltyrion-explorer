@@ -1,6 +1,8 @@
-Planet: HAM
+Moon: HAM
 Starmap index: 18
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: COLD PEARL
+Moon id: 1
 
 Guide entries:
  SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. OLDER CRATERS WITH SOME

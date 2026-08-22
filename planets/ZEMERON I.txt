@@ -1,6 +1,8 @@
-Planet: ZEMERON I
+Moon: ZEMERON I
 Starmap index: 39
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 8
 
 Guide entries:
 YELLOW, ROCKY, AIRLESS. (SCHMERM 6011 582.860)

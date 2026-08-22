@@ -1,6 +1,8 @@
-Planet: DEED
+Moon: DEED
 Starmap index: 66
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOCPHERE. SKINNYMON

@@ -1,3 +1,5 @@
-Planet: CIRCADIA
+Moon: CIRCADIA
 Starmap index: 07
 Paris coordinates: 4928560, 5278806, -2232144
+Orbits: GALTHERG B
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: DESSLAR
+Moon: DESSLAR
 Starmap index: 11
 Paris coordinates: 3277136, 4429407, -1460385
+Orbits: AURUS
+Moon id: 1

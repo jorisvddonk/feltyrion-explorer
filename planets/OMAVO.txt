@@ -1,6 +1,8 @@
-Planet: OMAVO
+Moon: OMAVO
 Starmap index: 17
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 6
 
 Guide entries:
 A PURPLE DENSEWORLD WITH TWO VERY BRIGHT WHITE CLOUD BANDS.

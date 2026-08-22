@@ -1,6 +1,8 @@
-Planet: IRUFO
+Moon: IRUFO
 Starmap index: 23
 Paris coordinates: -3071024, 5332038, -7715152
+Orbits: SHEPHERD
+Moon id: 19
 
 Guide entries:
 20TH MOON OF PLANET 3,FELISIAN

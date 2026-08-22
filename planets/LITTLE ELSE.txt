@@ -1,6 +1,8 @@
-Planet: LITTLE ELSE
+Moon: LITTLE ELSE
 Starmap index: 12
 Paris coordinates: -31046256, -20000567, -499915367
+Orbits: UYGG
+Moon id: 0
 
 Guide entries:
 THERE'S ICE, AND LITTLE ELSE, HENCE THE NAME. (SHADOWCLAW)

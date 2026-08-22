@@ -1,6 +1,8 @@
-Planet: VOWBIN VI A
+Moon: VOWBIN VI A
 Starmap index: 15
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VI
+Moon id: 0
 
 Guide entries:
 YELLOW DEADWORLD. NOT MANY CRATERS. (SCHMERM 6011 600.394)

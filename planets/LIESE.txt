@@ -1,6 +1,8 @@
-Planet: LIESE
+Moon: LIESE
 Starmap index: 06
 Paris coordinates: 3094640, 5065016, -2343905
+Orbits: NESUFUR
+Moon id: 2
 
 Guide entries:
 A CURIOUSLY LOOKING QUARTZ MOON, WITH A STRANGE COMBINATION OF BRIGHT       

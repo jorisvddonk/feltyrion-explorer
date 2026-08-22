@@ -1,3 +1,5 @@
-Planet: ARISTOTLE
+Moon: ARISTOTLE
 Starmap index: 23
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: HELLAS
+Moon id: 11

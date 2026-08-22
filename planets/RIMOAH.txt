@@ -1,3 +1,5 @@
-Planet: RIMOAH
+Moon: RIMOAH
 Starmap index: 15
 Paris coordinates: 3921776, 4663420, -1624678
+Orbits: NYXATOR
+Moon id: 9

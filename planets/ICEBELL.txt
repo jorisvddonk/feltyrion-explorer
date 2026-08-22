@@ -1,3 +1,5 @@
-Planet: ICEBELL
+Moon: ICEBELL
 Starmap index: 11
 Paris coordinates: 22126480, 7896574, 48108771
+Orbits: planet index 03
+Moon id: 5

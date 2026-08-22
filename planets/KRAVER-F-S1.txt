@@ -1,3 +1,5 @@
-Planet: KRAVER-F-S1
+Moon: KRAVER-F-S1
 Starmap index: 17
 Paris coordinates: 3421104, -457417, -10795963
+Orbits: KRAVER-F-FELYS
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: 658484
+Moon: 658484
 Starmap index: 14
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 7

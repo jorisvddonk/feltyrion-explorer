@@ -1,6 +1,8 @@
-Planet: DETHBAND
+Moon: DETHBAND
 Starmap index: 16
 Paris coordinates: -1108208, -712825, -246456
+Orbits: BLYSPHERE
+Moon id: 2
 
 Guide entries:
 MOON OF BLYSPHERE. LARGE, NOT CONSISTENT, DENSE CLOUDS.

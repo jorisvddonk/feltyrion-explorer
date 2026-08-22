@@ -1,6 +1,8 @@
-Planet: PAULING 7.14
+Moon: PAULING 7.14
 Starmap index: 39
 Paris coordinates: 12052848, -4655501, -9731942
+Orbits: PAULING 7
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. AS DARK AS THE UNDERSIDE OF MY PAW

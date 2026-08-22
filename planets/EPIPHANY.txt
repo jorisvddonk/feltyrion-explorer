@@ -1,6 +1,8 @@
-Planet: EPIPHANY
+Moon: EPIPHANY
 Starmap index: 11
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 0
 
 Guide entries:
 A FELISIAN WORLD. AT 27.58 IT WAS SLIGHTLY HILLY WITH BUSHES AND

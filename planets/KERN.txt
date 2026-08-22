@@ -1,6 +1,8 @@
-Planet: KERN
+Moon: KERN
 Starmap index: 14
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. NOT

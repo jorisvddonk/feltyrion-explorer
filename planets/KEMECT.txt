@@ -1,6 +1,8 @@
-Planet: KEMECT
+Moon: KEMECT
 Starmap index: 12
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, LIGHT AREA NOTED, FAIR POLAR

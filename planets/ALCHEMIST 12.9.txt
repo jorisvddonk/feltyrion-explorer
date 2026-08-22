@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 12.9
+Moon: ALCHEMIST 12.9
 Starmap index: 46
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 12
+Moon id: 8
 
 Guide entries:
 ANOTHER ICEBALL, COMPLETELY FROZEN. POSSIBLY ALL THOSE ICE G

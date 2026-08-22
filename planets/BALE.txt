@@ -1,6 +1,8 @@
-Planet: BALE
+Moon: BALE
 Starmap index: 61
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK WITH SLIGHT POLAR CAPS.

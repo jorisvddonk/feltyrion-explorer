@@ -1,6 +1,8 @@
-Planet: KYZALIS
+Moon: KYZALIS
 Starmap index: 17
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 6
 
 Guide entries:
 QUARTZ PLANET WITH OXYGEN ATMOSPHERE

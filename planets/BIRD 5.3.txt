@@ -1,6 +1,8 @@
-Planet: BIRD 5.3
+Moon: BIRD 5.3
 Starmap index: 12
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 5
+Moon id: 2
 
 Guide entries:
 THE MOONS OF BIRD 5 ARE ALL QUITE SIMILAR. THIS IS NO EXCEPTION.

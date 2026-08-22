@@ -1,3 +1,5 @@
-Planet: PRACTICUS
+Moon: PRACTICUS
 Starmap index: 22
 Paris coordinates: 4135344, 4344104, -1049562
+Orbits: planet index 04
+Moon id: 17

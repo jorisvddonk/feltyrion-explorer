@@ -1,3 +1,5 @@
-Planet: QUARRYEA
+Moon: QUARRYEA
 Starmap index: 20
 Paris coordinates: -61432592, 29503545, 839249
+Orbits: BLUEGASIS
+Moon id: 2

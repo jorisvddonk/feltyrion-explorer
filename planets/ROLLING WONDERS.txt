@@ -1,6 +1,8 @@
-Planet: ROLLING WONDERS
+Moon: ROLLING WONDERS
 Starmap index: 31
 Paris coordinates: -1417747568, 866844, 1433341836
+Orbits: AH-SUBSTELLAR 4
+Moon id: 6
 
 Guide entries:
 205,59-FIRST LANDING. NICE COASTAL AREA, WITH SOME SCRUB AND                

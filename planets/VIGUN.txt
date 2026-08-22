@@ -1,6 +1,8 @@
-Planet: VIGUN
+Moon: VIGUN
 Starmap index: 14
 Paris coordinates: 5169264, 4083567, -202229
+Orbits: LULUNA
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GREY-WHITE ALMOST

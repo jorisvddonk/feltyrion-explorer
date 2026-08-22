@@ -1,3 +1,5 @@
-Planet: QWAHR DEX OCTE
+Moon: QWAHR DEX OCTE
 Starmap index: 73
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 7

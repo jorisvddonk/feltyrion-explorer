@@ -1,3 +1,5 @@
-Planet: BURNING BRIGHT
+Moon: BURNING BRIGHT
 Starmap index: 14
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: MANNING
+Moon id: 6

@@ -1,3 +1,5 @@
-Planet: SERGEIOV F15
+Moon: SERGEIOV F15
 Starmap index: 49
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV F
+Moon id: 14

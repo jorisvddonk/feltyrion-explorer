@@ -1,3 +1,5 @@
-Planet: MEDDLER
+Moon: MEDDLER
 Starmap index: 15
 Paris coordinates: 3714992, 5004837, -1766171
+Orbits: SISTER LOVED BY ALL
+Moon id: 2

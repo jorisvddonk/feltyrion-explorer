@@ -1,6 +1,8 @@
-Planet: DIOME
+Moon: DIOME
 Starmap index: 24
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 16
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. HIGHLY REFLECTIVE

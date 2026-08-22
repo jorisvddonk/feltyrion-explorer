@@ -1,6 +1,8 @@
-Planet: MALEATE
+Moon: MALEATE
 Starmap index: 48
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PALLESCENT
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LOTS OF

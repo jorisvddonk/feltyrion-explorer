@@ -1,6 +1,8 @@
-Planet: ZELAR
+Moon: ZELAR
 Starmap index: 26
 Paris coordinates: 3866416, 4622974, -953228
+Orbits: ZELENKO
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY JOZE MAUCEC, EPOC 6011:565.446

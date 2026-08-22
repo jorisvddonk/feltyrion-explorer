@@ -1,3 +1,5 @@
-Planet: ETERNAL WINTER 5
+Moon: ETERNAL WINTER 5
 Starmap index: 33
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: MAX KABUTO 2
+Moon id: 2

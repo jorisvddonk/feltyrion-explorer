@@ -1,3 +1,5 @@
-Planet: CLADYLUN
+Moon: CLADYLUN
 Starmap index: 05
 Paris coordinates: 3001424, 4265776, -1907110
+Orbits: PINBALLOOK
+Moon id: 1

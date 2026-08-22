@@ -1,3 +1,5 @@
-Planet: ZX3-U571-K19
+Moon: ZX3-U571-K19
 Starmap index: 11
 Paris coordinates: 3290704, 4837570, -933229
+Orbits: G71-MONO OMNICRON
+Moon id: 0

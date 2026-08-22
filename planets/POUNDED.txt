@@ -1,6 +1,8 @@
-Planet: POUNDED
+Moon: POUNDED
 Starmap index: 13
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: CARBECI
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE FIFTH PLANET, A DUSTY MOON. MANY LARGE IMPACT

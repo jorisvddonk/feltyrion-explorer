@@ -1,6 +1,8 @@
-Planet: UTHAS
+Moon: UTHAS
 Starmap index: 11
 Paris coordinates: 167504, 55824, -835910
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. MODERATE GREY REFLECTIVITY

@@ -1,6 +1,8 @@
-Planet: DOMOR
+Moon: DOMOR
 Starmap index: 30
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: OMLANTH
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE, RATHER DARK, SLIGHT RED TINGE

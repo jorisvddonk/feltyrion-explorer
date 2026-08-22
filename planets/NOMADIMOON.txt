@@ -1,6 +1,8 @@
-Planet: NOMADIMOON
+Moon: NOMADIMOON
 Starmap index: 24
 Paris coordinates: 4011056, 5199534, -373190
+Orbits: NOMAD
+Moon id: 0
 
 Guide entries:
 NOMAD'S NEARBY MOON SEEMS LESS ICY THAN NOMAD.... BUT WHY?

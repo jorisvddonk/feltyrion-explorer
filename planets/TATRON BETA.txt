@@ -1,6 +1,8 @@
-Planet: TATRON BETA
+Moon: TATRON BETA
 Starmap index: 68
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET TATRON IN THE GENISI SYSTEM

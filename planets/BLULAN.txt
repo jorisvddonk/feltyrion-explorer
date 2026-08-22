@@ -1,6 +1,8 @@
-Planet: BLULAN
+Moon: BLULAN
 Starmap index: 79
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. A MODERATELY (FOR OUT HERE)

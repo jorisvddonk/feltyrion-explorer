@@ -1,6 +1,8 @@
-Planet: ZANEO
+Moon: ZANEO
 Starmap index: 06
 Paris coordinates: 5469264, 6372338, -331449
+Orbits: KALAX
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:605.233

@@ -1,3 +1,5 @@
-Planet: CALIBRED
+Moon: CALIBRED
 Starmap index: 09
 Paris coordinates: 3666416, 4676784, -623993
+Orbits: DIVINE
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: BIFI
+Moon: BIFI
 Starmap index: 16
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: TU
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A FEW LARGE CRATERS.

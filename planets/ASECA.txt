@@ -1,6 +1,8 @@
-Planet: ASECA
+Moon: ASECA
 Starmap index: 12
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: HAESITO
+Moon id: 1
 
 Guide entries:
 M02P03, INTERNALLY HOT, UNSTABLE, PRO 0.258.840; PRV 0.004.902.667 ///

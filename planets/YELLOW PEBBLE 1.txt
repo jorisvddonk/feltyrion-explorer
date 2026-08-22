@@ -1,3 +1,5 @@
-Planet: YELLOW PEBBLE 1
+Moon: YELLOW PEBBLE 1
 Starmap index: 11
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: JADE MARBLE 1
+Moon id: 0

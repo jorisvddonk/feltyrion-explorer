@@ -1,6 +1,8 @@
-Planet: CIDLEA
+Moon: CIDLEA
 Starmap index: 38
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 13
 
 Guide entries:
 SMALL, SOLID ICY SURFACE, NO ATMOSPHERE. FAIR PINKISH REFLECTIVITY

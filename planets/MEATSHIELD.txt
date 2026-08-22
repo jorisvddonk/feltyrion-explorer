@@ -1,6 +1,8 @@
-Planet: MEATSHIELD
+Moon: MEATSHIELD
 Starmap index: 07
 Paris coordinates: 3621776, 4393277, -1326104
+Orbits: PITCH BLACK
+Moon id: 1
 
 Guide entries:
 OUCH; LOOKS LIKE THIS ONE TOOK MOST OF THE BLAST FROM THE ASTEROIDS

@@ -1,6 +1,8 @@
-Planet: MILFOIL
+Moon: MILFOIL
 Starmap index: 11
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-C
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. HAS A DARKISH

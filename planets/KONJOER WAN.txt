@@ -1,6 +1,8 @@
-Planet: KONJOER WAN
+Moon: KONJOER WAN
 Starmap index: 17
 Paris coordinates: 3959632, 5309715, -1265022
+Orbits: CHICHELO
+Moon id: 0
 
 Guide entries:
  POISON-GREEN BARREN SURFACE

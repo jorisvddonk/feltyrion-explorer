@@ -1,3 +1,5 @@
-Planet: MULTIBEAM MINOR X
+Moon: MULTIBEAM MINOR X
 Starmap index: 14
 Paris coordinates: -1439280, 2190685, 52298
+Orbits: MULTIBEAM MINOR
+Moon id: 9

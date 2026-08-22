@@ -1,3 +1,5 @@
-Planet: CLOAKING SHADOW
+Moon: CLOAKING SHADOW
 Starmap index: 18
 Paris coordinates: -70572784, -326262, 53980485
+Orbits: BEAUTIFUL EMERALD
+Moon id: 1

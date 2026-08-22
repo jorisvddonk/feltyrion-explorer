@@ -1,3 +1,5 @@
-Planet: PEBREAH LUNA III
+Moon: PEBREAH LUNA III
 Starmap index: 08
 Paris coordinates: -2139280, 902299, 1032805
+Orbits: PEBREAH
+Moon id: 2

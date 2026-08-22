@@ -1,6 +1,8 @@
-Planet: BYFI1-1
+Moon: BYFI1-1
 Starmap index: 05
 Paris coordinates: -178224, -1278064, 2452536
+Orbits: BYFI1
+Moon id: 0
 
 Guide entries:
 VOLCANIC MOON, UNSUITABLE FOR LANDING. NO ATMOSPHERE.

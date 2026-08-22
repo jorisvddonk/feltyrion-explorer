@@ -1,6 +1,8 @@
-Planet: NYRTONAM
+Moon: NYRTONAM
 Starmap index: 27
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: RINGORIA
+Moon id: 1
 
 Guide entries:
  A MOON OF THE 7 PLANET OF THE DRAKHNATORIA SYSTEM.

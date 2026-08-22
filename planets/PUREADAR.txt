@@ -1,6 +1,8 @@
-Planet: PUREADAR
+Moon: PUREADAR
 Starmap index: 07
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF FOURTH PLANET, A QUARTZ MOON. A VERY DIM SURFACE, OF

@@ -1,6 +1,8 @@
-Planet: OXBLOOD
+Moon: OXBLOOD
 Starmap index: 16
 Paris coordinates: 87856, -5814, 275087
+Orbits: SWANK
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

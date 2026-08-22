@@ -1,3 +1,5 @@
-Planet: BALLONG
+Moon: BALLONG
 Starmap index: 19
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: SINENEN
+Moon id: 1

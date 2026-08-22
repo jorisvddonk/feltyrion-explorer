@@ -1,6 +1,8 @@
-Planet: KINETIC
+Moon: KINETIC
 Starmap index: 14
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 6
 
 Guide entries:
 UPDATE: VERY LARGE, SUBSTELLAR OBLJECT, NOT CONSISTENT.

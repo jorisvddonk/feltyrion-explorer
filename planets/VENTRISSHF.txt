@@ -1,3 +1,5 @@
-Planet: VENTRISSHF
+Moon: VENTRISSHF
 Starmap index: 39
 Paris coordinates: 2513904, 31322248, 3277420
+Orbits: VENTRIS
+Moon id: 0

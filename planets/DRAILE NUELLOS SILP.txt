@@ -1,3 +1,5 @@
-Planet: DRAILE NUELLOS SILP
+Moon: DRAILE NUELLOS SILP
 Starmap index: 35
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE NUELLOS
+Moon id: 6

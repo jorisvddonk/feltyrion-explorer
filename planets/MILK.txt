@@ -1,6 +1,8 @@
-Planet: MILK
+Moon: MILK
 Starmap index: 09
 Paris coordinates: -61470448, 29952124, 573120
+Orbits: JB 73
+Moon id: 2
 
 Guide entries:
 THIS THIRD MOON OF THIRD PLANET IS TRANSPARENT AND WHITE! THE BIRDS ARE

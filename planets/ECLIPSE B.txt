@@ -1,3 +1,5 @@
-Planet: ECLIPSE B
+Moon: ECLIPSE B
 Starmap index: 20
 Paris coordinates: -61852944, 29865986, -44470
+Orbits: ECLIPSE A
+Moon id: 0

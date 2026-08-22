@@ -1,6 +1,8 @@
-Planet: REYAAN
+Moon: REYAAN
 Starmap index: 21
 Paris coordinates: -1418775760, -1892221, -1273979677
+Orbits: LAVHETAN VI
+Moon id: 7
 
 Guide entries:
 LAVHETAN 08/06; FELISIAN

@@ -1,3 +1,5 @@
-Planet: LIABEZE SON
+Moon: LIABEZE SON
 Starmap index: 14
 Paris coordinates: 2008880, -12128966, 9171998
+Orbits: LIABEZE MAJOR
+Moon id: 0

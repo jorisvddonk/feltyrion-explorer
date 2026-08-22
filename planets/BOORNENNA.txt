@@ -1,6 +1,8 @@
-Planet: BOORNENNA
+Moon: BOORNENNA
 Starmap index: 10
 Paris coordinates: 1353936, 4952744, -3128537
+Orbits: VIOLETTESSA
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.636.520                           

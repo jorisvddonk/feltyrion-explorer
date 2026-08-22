@@ -1,6 +1,8 @@
-Planet: RING
+Moon: RING
 Starmap index: 06
 Paris coordinates: 6221776, 5252973, -3881393
+Orbits: ADOR
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY MURRMURR EPOC 6011:608.592

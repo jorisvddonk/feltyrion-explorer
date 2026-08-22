@@ -1,6 +1,8 @@
-Planet: WHANT
+Moon: WHANT
 Starmap index: 76
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. HAS GOOD GREY REFLECTIVITY

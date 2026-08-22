@@ -1,6 +1,8 @@
-Planet: SO NINE
+Moon: SO NINE
 Starmap index: 13
 Paris coordinates: -481072, -153, 650323
+Orbits: SOFLAPE
+Moon id: 8
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.428

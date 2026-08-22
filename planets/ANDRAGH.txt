@@ -1,6 +1,8 @@
-Planet: ANDRAGH
+Moon: ANDRAGH
 Starmap index: 46
 Paris coordinates: 50496144, 29002, 1980926922
+Orbits: AS12272234F
+Moon id: 1
 
 Guide entries:
 A BIRDS' PARADISE WITH REMARKABLE DIFFERENCES IN TEMPERATURE.

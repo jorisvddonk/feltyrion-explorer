@@ -1,6 +1,8 @@
-Planet: TREPIDATION
+Moon: TREPIDATION
 Starmap index: 24
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 7
 
 Guide entries:
 A FELISIAN WORLD- AT 335.59 I LANDED NEAR AN ARCHIPELAGO OF SMALL

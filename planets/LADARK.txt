@@ -1,6 +1,8 @@
-Planet: LADARK
+Moon: LADARK
 Starmap index: 77
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 14
 
 Guide entries:
 TOO DARK, PROBABLY FEATURELESS, TOO.

@@ -1,3 +1,5 @@
-Planet: PICNIC
+Moon: PICNIC
 Starmap index: 05
 Paris coordinates: 6179984, 4254053, -2549392
+Orbits: GOLDSTAR
+Moon id: 0

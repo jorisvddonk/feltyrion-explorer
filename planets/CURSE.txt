@@ -1,6 +1,8 @@
-Planet: CURSE
+Moon: CURSE
 Starmap index: 39
 Paris coordinates: 156784, -15042, 351717
+Orbits: FARAWAY HOPE
+Moon id: 1
 
 Guide entries:
 A GREEN-GREY CLOUD-COVERED MOON OF 'FARAWAY HOPE' ON EKA75. LOOKS

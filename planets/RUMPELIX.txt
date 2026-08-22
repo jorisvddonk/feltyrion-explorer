@@ -1,3 +1,5 @@
-Planet: RUMPELIX
+Moon: RUMPELIX
 Starmap index: 59
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: GRUPA 6 C
+Moon id: 12

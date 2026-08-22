@@ -1,6 +1,8 @@
-Planet: ABUTMENT
+Moon: ABUTMENT
 Starmap index: 70
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: OCHROLEUCOUS
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. DARK, CRATERED,

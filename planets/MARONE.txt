@@ -1,6 +1,8 @@
-Planet: MARONE
+Moon: MARONE
 Starmap index: 36
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS MAXIMA
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED MOON, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

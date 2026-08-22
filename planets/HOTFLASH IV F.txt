@@ -1,6 +1,8 @@
-Planet: HOTFLASH IV F
+Moon: HOTFLASH IV F
 Starmap index: 10
 Paris coordinates: 3656784, -66371769, -3020393
+Orbits: HOTFLASH IV
+Moon id: 5
 
 Guide entries:
 PALE DULL YELLOW HELLWORLD. (SCHMERM 6011 594.66)

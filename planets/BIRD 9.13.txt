@@ -1,6 +1,8 @@
-Planet: BIRD 9.13
+Moon: BIRD 9.13
 Starmap index: 28
 Paris coordinates: -363568, -28395, -268008
+Orbits: BIRD 9
+Moon id: 12
 
 Guide entries:
 YES, AN ICEBALL. THANKFULLY, THERE ARE ONLY THREE MOONS REMAINING,

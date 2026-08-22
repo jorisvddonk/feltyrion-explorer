@@ -1,6 +1,8 @@
-Planet: BUBLAL
+Moon: BUBLAL
 Starmap index: 46
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SLIGHTLY REFLECTIVE,

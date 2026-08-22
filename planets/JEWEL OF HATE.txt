@@ -1,6 +1,8 @@
-Planet: JEWEL OF HATE
+Moon: JEWEL OF HATE
 Starmap index: 06
 Paris coordinates: 2501424, 4364880, -1388893
+Orbits: DARKLORE
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY SEB PAT EPOC 6011:683.559                                

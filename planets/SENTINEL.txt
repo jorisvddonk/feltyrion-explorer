@@ -1,6 +1,8 @@
-Planet: SENTINEL
+Moon: SENTINEL
 Starmap index: 36
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: NEMESIS
+Moon id: 1
 
 Guide entries:
 I HAVE DECIDED TO NAME THIS PLANET AFTER ITS DISTINGUISHING FEATURE,

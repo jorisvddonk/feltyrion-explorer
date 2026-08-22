@@ -1,6 +1,8 @@
-Planet: ALYIAHHIA
+Moon: ALYIAHHIA
 Starmap index: 35
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 06
+Moon id: 1
 
 Guide entries:
 DULL GREEN MOON WITH SEVERAL LARGE CRATERS. FGS 0.21, TEMP -265, NO

@@ -1,6 +1,8 @@
-Planet: VANC
+Moon: VANC
 Starmap index: 27
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: OBSTRE
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS, AGITATED, MEAN

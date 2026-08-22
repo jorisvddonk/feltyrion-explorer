@@ -1,6 +1,8 @@
-Planet: ELESS
+Moon: ELESS
 Starmap index: 12
 Paris coordinates: 4035344, 4684112, -921463
+Orbits: WEEDY
+Moon id: 0
 
 Guide entries:
  SMALL, SOLID, DUSTY, CRATERIZD, NO ATMOSPHERE. MANY REFLECTIVE CRATERS

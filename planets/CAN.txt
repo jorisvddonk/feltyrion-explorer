@@ -1,3 +1,5 @@
-Planet: CAN
+Moon: CAN
 Starmap index: 15
 Paris coordinates: 356784, -74457, 270756
+Orbits: planet index 05
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: KORELLA-F-S1
+Moon: KORELLA-F-S1
 Starmap index: 13
 Paris coordinates: 2952176, -481196, -10426488
+Orbits: KORELLA-F
+Moon id: 0

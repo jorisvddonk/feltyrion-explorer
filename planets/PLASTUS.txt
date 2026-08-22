@@ -1,3 +1,5 @@
-Planet: PLASTUS
+Moon: PLASTUS
 Starmap index: 26
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: JB 117
+Moon id: 14

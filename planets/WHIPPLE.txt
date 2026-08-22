@@ -1,3 +1,5 @@
-Planet: WHIPPLE
+Moon: WHIPPLE
 Starmap index: 12
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: EARLAPPLE
+Moon id: 0

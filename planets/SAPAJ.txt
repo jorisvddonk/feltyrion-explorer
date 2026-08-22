@@ -1,6 +1,8 @@
-Planet: SAPAJ
+Moon: SAPAJ
 Starmap index: 70
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MOTTLED, BUT HIGHLY REFLECTIVE

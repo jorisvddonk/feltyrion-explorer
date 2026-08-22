@@ -1,6 +1,8 @@
-Planet: VESPILLONIS
+Moon: VESPILLONIS
 Starmap index: 07
 Paris coordinates: 2040369680, -1613682, -623842
+Orbits: FRAINUT
+Moon id: 1
 
 Guide entries:
 M02/P04 FELISIAN AND NOT VERY EXPLORATION FRIENDLY; LANDINGS AT             

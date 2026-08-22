@@ -1,6 +1,8 @@
-Planet: PHANTOM
+Moon: PHANTOM
 Starmap index: 29
 Paris coordinates: 2374288, 4344078, -2741157
+Orbits: STATIC
+Moon id: 5
 
 Guide entries:
 A MOON FULL OF ENDLESS PURPLE HILLS. WITH THE VISOR UP, IT LOOKS

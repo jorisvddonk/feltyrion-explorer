@@ -1,6 +1,8 @@
-Planet: WEREKUL
+Moon: WEREKUL
 Starmap index: 27
 Paris coordinates: 11401424, 133256, -10339280
+Orbits: SETUVIR
+Moon id: 12
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. HAS A VERY GOOD

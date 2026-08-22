@@ -1,6 +1,8 @@
-Planet: ARREDO
+Moon: ARREDO
 Starmap index: 12
 Paris coordinates: -325712, 361387, -164300
+Orbits: ROJOSOL V
+Moon id: 1
 
 Guide entries:
 EXPLORED BY RAZORWINGS18 (566.457.700 E6011).

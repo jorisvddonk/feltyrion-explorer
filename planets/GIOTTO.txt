@@ -1,6 +1,8 @@
-Planet: GIOTTO
+Moon: GIOTTO
 Starmap index: 13
 Paris coordinates: 3520688, 3890216, 2622488
+Orbits: PERLA DEL CIELO
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A

@@ -1,6 +1,8 @@
-Planet: VOLMAST
+Moon: VOLMAST
 Starmap index: 10
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 1
 
 Guide entries:
 A LARGE SUBSTELLAR ORANGE GAS GIANT OBRITING POLYGAMY C.

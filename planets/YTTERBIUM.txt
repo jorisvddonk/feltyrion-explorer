@@ -1,6 +1,8 @@
-Planet: YTTERBIUM
+Moon: YTTERBIUM
 Starmap index: 50
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: ZEPHYR
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH, SLIGHTLY SCARRED

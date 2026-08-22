@@ -1,6 +1,8 @@
-Planet: BASP DELTA
+Moon: BASP DELTA
 Starmap index: 79
 Paris coordinates: 612144, 6999853, -833727
+Orbits: BASP
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET BASP IN THE GENISI SYSTEM

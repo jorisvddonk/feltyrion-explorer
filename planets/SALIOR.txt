@@ -1,6 +1,8 @@
-Planet: SALIOR
+Moon: SALIOR
 Starmap index: 06
 Paris coordinates: -425712, 797215, -142477
+Orbits: planet index 05
+Moon id: 0
 
 Guide entries:
  FIRST MOON, 5TH PLANET. MOSTLY WATER WITH ISLANDS.                         

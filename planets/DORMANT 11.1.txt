@@ -1,6 +1,8 @@
-Planet: DORMANT 11.1
+Moon: DORMANT 11.1
 Starmap index: 19
 Paris coordinates: -3013904, 10333783, -2573808
+Orbits: DORMANT 11
+Moon id: 0
 
 Guide entries:
  AS ITS PLANET, THIS WORLD IS ANOTHER DEAD ROCK. NOTHING OF

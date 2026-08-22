@@ -1,6 +1,8 @@
-Planet: IZANAMI
+Moon: IZANAMI
 Starmap index: 48
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: planet index 07
+Moon id: 12
 
 Guide entries:
 IZANAMIE DISCOVERED BY MISTRAL EPOC 6011.797.806                            

@@ -1,3 +1,5 @@
-Planet: TEXTDAYMI
+Moon: TEXTDAYMI
 Starmap index: 39
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: YEYEYE
+Moon id: 11

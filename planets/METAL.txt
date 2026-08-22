@@ -1,6 +1,8 @@
-Planet: METAL
+Moon: METAL
 Starmap index: 11
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 3
 
 Guide entries:
 GREEN CRATERED MOON OF INSANE ON EKA75. LOOKS LIKE SOME SORT OF BUMPY

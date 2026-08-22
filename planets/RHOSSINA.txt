@@ -1,6 +1,8 @@
-Planet: RHOSSINA
+Moon: RHOSSINA
 Starmap index: 09
 Paris coordinates: 1353936, 4952744, -3128537
+Orbits: VIOLETTESSA
+Moon id: 3
 
 Guide entries:
 DISCOVERED BY RYLIE THOMAS, EPOC 6011:727.632.642                           

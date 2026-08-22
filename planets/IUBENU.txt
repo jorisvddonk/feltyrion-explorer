@@ -1,3 +1,5 @@
-Planet: IUBENU
+Moon: IUBENU
 Starmap index: 51
 Paris coordinates: 1983920, -25155371, 68899
+Orbits: INSEL DER DUNKELHEIT
+Moon id: 0

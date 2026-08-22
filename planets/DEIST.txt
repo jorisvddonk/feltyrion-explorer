@@ -1,6 +1,8 @@
-Planet: DEIST
+Moon: DEIST
 Starmap index: 20
 Paris coordinates: 4166416, 4803058, -1088856
+Orbits: BEZA
+Moon id: 8
 
 Guide entries:
 A FELISIAN WORLD. AT 39.60, IT WAS MARSHY WITH SMALL BUSHES. A BIRD FLEW

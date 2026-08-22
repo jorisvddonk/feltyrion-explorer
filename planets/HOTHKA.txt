@@ -1,6 +1,8 @@
-Planet: HOTHKA
+Moon: HOTHKA
 Starmap index: 08
 Paris coordinates: 763568, 121186, 4975
+Orbits: HOTH
+Moon id: 0
 
 Guide entries:
 DISCOVERED E6011.577.916 BY DAVIN FELTH

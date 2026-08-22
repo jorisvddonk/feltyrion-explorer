@@ -1,6 +1,8 @@
-Planet: GLAMAGOGH
+Moon: GLAMAGOGH
 Starmap index: 21
 Paris coordinates: 50496144, 29002, 1980926922
+Orbits: AS12272234D
+Moon id: 13
 
 Guide entries:
 COLD AND PRETTY DESOLATE. SOME NICE PARTS.

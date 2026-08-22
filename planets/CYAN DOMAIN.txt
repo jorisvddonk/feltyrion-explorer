@@ -1,3 +1,5 @@
-Planet: CYAN DOMAIN
+Moon: CYAN DOMAIN
 Starmap index: 08
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: TITUS MAJOR
+Moon id: 1

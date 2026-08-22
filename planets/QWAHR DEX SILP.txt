@@ -1,3 +1,5 @@
-Planet: QWAHR DEX SILP
+Moon: QWAHR DEX SILP
 Starmap index: 72
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 6

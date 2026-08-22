@@ -1,6 +1,8 @@
-Planet: CALUNAX
+Moon: CALUNAX
 Starmap index: 20
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-SSO-2
+Moon id: 5
 
 Guide entries:
 THIS PLANETOID IS FARILY AVERAGE IN COMPARISON TO OTHERS I HAVE...

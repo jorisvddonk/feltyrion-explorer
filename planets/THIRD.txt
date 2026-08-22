@@ -1,3 +1,5 @@
-Planet: THIRD
+Moon: THIRD
 Starmap index: 17
 Paris coordinates: 652848, 5094897, 1459881
+Orbits: LOTIOH
+Moon id: 0

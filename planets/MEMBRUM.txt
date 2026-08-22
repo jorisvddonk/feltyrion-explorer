@@ -1,6 +1,8 @@
-Planet: MEMBRUM
+Moon: MEMBRUM
 Starmap index: 28
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

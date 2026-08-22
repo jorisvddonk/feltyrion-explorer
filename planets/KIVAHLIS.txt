@@ -1,6 +1,8 @@
-Planet: KIVAHLIS
+Moon: KIVAHLIS
 Starmap index: 11
 Paris coordinates: 2037570768, -132625, -1685345
+Orbits: DERUJIK
+Moon id: 5
 
 Guide entries:
 M06/P03 MEDIUM SIZE INTERNALLY HOT UNSTABLE, MEDIUM BROWN WITH DULL         

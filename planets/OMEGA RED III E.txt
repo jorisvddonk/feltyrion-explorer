@@ -1,6 +1,8 @@
-Planet: OMEGA RED III E
+Moon: OMEGA RED III E
 Starmap index: 19
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED III
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY WITH

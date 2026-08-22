@@ -1,6 +1,8 @@
-Planet: FOMENT
+Moon: FOMENT
 Starmap index: 28
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. WILD

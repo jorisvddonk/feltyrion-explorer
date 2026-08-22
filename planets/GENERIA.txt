@@ -1,6 +1,8 @@
-Planet: GENERIA
+Moon: GENERIA
 Starmap index: 25
 Paris coordinates: 3708208, 5049889, -2166510
+Orbits: planet index 05
+Moon id: 10
 
 Guide entries:
 GREEN-HUED MOON. SOME CRATERS, NOT MUCH ELSE.

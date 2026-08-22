@@ -1,3 +1,5 @@
-Planet: LAGIG.3.1(S)
+Moon: LAGIG.3.1(S)
 Starmap index: 06
 Paris coordinates: 1377136, 5474191, 421310
+Orbits: LAGIG.3(Q)
+Moon id: 0

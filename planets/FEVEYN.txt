@@ -1,6 +1,8 @@
-Planet: FEVEYN
+Moon: FEVEYN
 Starmap index: 12
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION III
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. AN

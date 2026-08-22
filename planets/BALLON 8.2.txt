@@ -1,6 +1,8 @@
-Planet: BALLON 8.2
+Moon: BALLON 8.2
 Starmap index: 39
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 8
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE SMALL AND CRATERIZED SORT. IT'S YELLOWISH,           

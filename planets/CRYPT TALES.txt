@@ -1,6 +1,8 @@
-Planet: CRYPT TALES
+Moon: CRYPT TALES
 Starmap index: 37
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GARGOYLE
+Moon id: 0
 
 Guide entries:
 UPDATE: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ONE LARGE

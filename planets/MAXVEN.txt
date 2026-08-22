@@ -1,6 +1,8 @@
-Planet: MAXVEN
+Moon: MAXVEN
 Starmap index: 24
 Paris coordinates: 4924624, 4489659, -461091
+Orbits: UNVENI
+Moon id: 4
 
 Guide entries:
 A GAS GIANT ORBITING THE SIXTH STAR OF THE SYSTEM.                          

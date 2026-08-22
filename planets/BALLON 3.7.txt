@@ -1,6 +1,8 @@
-Planet: BALLON 3.7
+Moon: BALLON 3.7
 Starmap index: 25
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 3
+Moon id: 6
 
 Guide entries:
 ANOTHER SMALL AND CRATERIZED MOON, AND I MIGHT EVENTUALLY RUN OUT           

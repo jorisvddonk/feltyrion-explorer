@@ -1,6 +1,8 @@
-Planet: RADILIM
+Moon: RADILIM
 Starmap index: 16
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: MYEST
+Moon id: 2
 
 Guide entries:
 THE THIRD MOON OF THE FIFTH PLANET. ODD COLORATION. FROM SPACE, IT

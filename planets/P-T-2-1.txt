@@ -1,6 +1,8 @@
-Planet: P-T-2-1
+Moon: P-T-2-1
 Starmap index: 08
 Paris coordinates: -739280, 693969, -538507
+Orbits: planet index 02
+Moon id: 0
 
 Guide entries:
 PLANET DISCOVERED BY JUS EPC 6011.578.577 OR AROUNT THAT TIME.

@@ -1,6 +1,8 @@
-Planet: FURDACK
+Moon: FURDACK
 Starmap index: 23
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: PINNACULUM
+Moon id: 2
 
 Guide entries:
 M03P07, DUSTY, SMALL, CRATERS, PRO 0.115.560; PRV 0.008.609.940 ///

@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 12.5
+Moon: ALCHEMIST 12.5
 Starmap index: 42
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 12
+Moon id: 4
 
 Guide entries:
 ANOTHER ICEBALL LYING TOO FAR FROM THE SUBSTELLAR GIANT TO GET

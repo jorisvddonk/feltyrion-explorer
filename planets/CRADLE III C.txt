@@ -1,6 +1,8 @@
-Planet: CRADLE III C
+Moon: CRADLE III C
 Starmap index: 19
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE III
+Moon id: 2
 
 Guide entries:
 STUNNING BLUE AND WHITE DENSEWORLD. (SCHMERM 6011 592.861)

@@ -1,6 +1,8 @@
-Planet: PANNERONE
+Moon: PANNERONE
 Starmap index: 20
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: CHEDDAR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SOME DUSTY, SOME

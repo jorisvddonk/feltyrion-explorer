@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 7.16
+Moon: GRANTED WISH 7.16
 Starmap index: 35
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 7
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, CRATERIZED. RATHER BRIGHT, ORANGE, WITH                       

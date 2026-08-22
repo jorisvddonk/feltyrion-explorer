@@ -1,3 +1,5 @@
-Planet: FAX DURA IV-A
+Moon: FAX DURA IV-A
 Starmap index: 07
 Paris coordinates: 4677136, 4330901, -2849413
+Orbits: FAX DURA IV
+Moon id: 0

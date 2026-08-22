@@ -1,6 +1,8 @@
-Planet: STONEK
+Moon: STONEK
 Starmap index: 17
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 7
 
 Guide entries:
 THE EIGHTH MOON OF THE SEVENTH PLANET, A DUSTY MOON. NOT MUCH OF NOTE.

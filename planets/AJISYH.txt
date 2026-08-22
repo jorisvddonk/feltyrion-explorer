@@ -1,6 +1,8 @@
-Planet: AJISYH
+Moon: AJISYH
 Starmap index: 09
 Paris coordinates: 2052562480, 532725, 204773
+Orbits: ODFHNOJAME
+Moon id: 4
 
 Guide entries:
 M05/P03 SMALL SOLID THIN ATMO, RATHER DARK BUT GOOD POLAR CAPS. PRO         

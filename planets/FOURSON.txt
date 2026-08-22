@@ -1,6 +1,8 @@
-Planet: FOURSON
+Moon: FOURSON
 Starmap index: 21
 Paris coordinates: 4193552, 4028711, 290780
+Orbits: QUATERNARY C
+Moon id: 12
 
 Guide entries:
 JEREMY HUSSELL VISITED JUST LONG ENOUGH ON 6011.564.776.268 TO CONFIRM

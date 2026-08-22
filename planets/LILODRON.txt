@@ -1,6 +1,8 @@
-Planet: LILODRON
+Moon: LILODRON
 Starmap index: 21
 Paris coordinates: 3214992, 4579458, -1223743
+Orbits: HASUM
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

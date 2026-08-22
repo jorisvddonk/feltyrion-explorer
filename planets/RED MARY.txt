@@ -1,3 +1,5 @@
-Planet: RED MARY
+Moon: RED MARY
 Starmap index: 07
 Paris coordinates: 4259632, 5344350, -1544840
+Orbits: planet index 03
+Moon id: 1

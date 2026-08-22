@@ -1,3 +1,5 @@
-Planet: VALYX-F-S2
+Moon: VALYX-F-S2
 Starmap index: 33
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-F
+Moon id: 1

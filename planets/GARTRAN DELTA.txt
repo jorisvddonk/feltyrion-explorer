@@ -1,6 +1,8 @@
-Planet: GARTRAN DELTA
+Moon: GARTRAN DELTA
 Starmap index: 08
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 3
 
 Guide entries:
 FOURTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

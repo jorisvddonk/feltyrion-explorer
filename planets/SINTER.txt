@@ -1,6 +1,8 @@
-Planet: SINTER
+Moon: SINTER
 Starmap index: 16
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: BLAND
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NO UNUSUAL FEATURES,

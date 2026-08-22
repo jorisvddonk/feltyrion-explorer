@@ -1,3 +1,5 @@
-Planet: SELENIUS
+Moon: SELENIUS
 Starmap index: 10
 Paris coordinates: 601424, 5340118, 547726
+Orbits: TERRA PRIME
+Moon id: 0

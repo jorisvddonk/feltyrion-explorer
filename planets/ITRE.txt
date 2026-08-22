@@ -1,6 +1,8 @@
-Planet: ITRE
+Moon: ITRE
 Starmap index: 07
 Paris coordinates: 2140833520, -2641384, 1001352
+Orbits: SANSUT
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY CRATERIZED. SLIGHT PURPLE HINT FOR COLOR,         

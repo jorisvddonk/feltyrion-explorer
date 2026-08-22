@@ -1,6 +1,8 @@
-Planet: ESERO
+Moon: ESERO
 Starmap index: 04
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID THIN ATMO, GOOD BRIGHTNESS WITH GOOD POLAR CAPS.        

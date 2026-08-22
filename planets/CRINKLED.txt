@@ -1,6 +1,8 @@
-Planet: CRINKLED
+Moon: CRINKLED
 Starmap index: 22
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: DESPOTIC POWER
+Moon id: 9
 
 Guide entries:
 THIS CREASED MOON OF DESPOTIC POWER ON EKA29 LOOKS LIKE A WADDED-UP

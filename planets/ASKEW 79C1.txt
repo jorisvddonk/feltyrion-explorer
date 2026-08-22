@@ -1,3 +1,5 @@
-Planet: ASKEW 79C1
+Moon: ASKEW 79C1
 Starmap index: 07
 Paris coordinates: 11552016, -19489626, 17676794
+Orbits: ASKEW 79C
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: TILT
+Moon: TILT
 Starmap index: 09
 Paris coordinates: -25712, -154450, -327558
+Orbits: VERITY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. VERY DARK, GOOD POLAR CAPS. SKINNYMON EPOC

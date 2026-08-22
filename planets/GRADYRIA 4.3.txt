@@ -1,6 +1,8 @@
-Planet: GRADYRIA 4.3
+Moon: GRADYRIA 4.3
 Starmap index: 12
 Paris coordinates: 4990704, 5477580, -2586619
+Orbits: GRADYRIA 4
+Moon id: 4
 
 Guide entries:
  A STRANGE WORLD ORBITING THE FOURTH STAR OF THE GRADYRIA SYSTEM.

@@ -1,6 +1,8 @@
-Planet: IATROCHEM
+Moon: IATROCHEM
 Starmap index: 57
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: KARYASTER
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATELY

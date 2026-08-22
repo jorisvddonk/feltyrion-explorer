@@ -1,6 +1,8 @@
-Planet: LITEADYSATE
+Moon: LITEADYSATE
 Starmap index: 10
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 3
 
 Guide entries:
 THICK ATMO MOON, THE FOURTH OF THE THIRD PLANET. VERY UNUSUAL,

@@ -1,3 +1,5 @@
-Planet: DUST HELL
+Moon: DUST HELL
 Starmap index: 07
 Paris coordinates: 3714992, 4504837, -1815290
+Orbits: FAITHLESS
+Moon id: 0

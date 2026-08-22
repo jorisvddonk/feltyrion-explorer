@@ -1,6 +1,8 @@
-Planet: AGUE
+Moon: AGUE
 Starmap index: 30
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: QUEASY
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, BARELY VISIBLE POLAR CAPS.

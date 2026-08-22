@@ -1,3 +1,5 @@
-Planet: EKFOPFR
+Moon: EKFOPFR
 Starmap index: 10
 Paris coordinates: -31046256, -20000567, -499915367
+Orbits: HEJK
+Moon id: 0

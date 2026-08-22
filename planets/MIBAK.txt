@@ -1,6 +1,8 @@
-Planet: MIBAK
+Moon: MIBAK
 Starmap index: 17
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 8
 
 Guide entries:
 M09/P05 SMALL AND DUSTY, LIGHT BLUISH-HREENISH WITH REFLECTIVE (HARD TO     

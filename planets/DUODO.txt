@@ -1,6 +1,8 @@
-Planet: DUODO
+Moon: DUODO
 Starmap index: 08
 Paris coordinates: 4924624, 4489659, -461091
+Orbits: TRIUN
+Moon id: 1
 
 Guide entries:
 SECOND PLANET OF THE SECOND SUN, OR, IF THE COMPUTER IS TO BE TAKEN         

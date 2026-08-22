@@ -1,6 +1,8 @@
-Planet: NATULI
+Moon: NATULI
 Starmap index: 31
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 10
 
 Guide entries:
 M11/P08 SMALL SOLID THIN ATMO, SLIGHTLY DARK, FAIR POLAR CAPS. PRO 0.       

@@ -1,3 +1,5 @@
-Planet: ASTOR
+Moon: ASTOR
 Starmap index: 06
 Paris coordinates: 270352, 5086437, 857022
+Orbits: DARTMOR
+Moon id: 0

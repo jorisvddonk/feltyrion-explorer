@@ -1,6 +1,8 @@
-Planet: IDOCHRO
+Moon: IDOCHRO
 Starmap index: 31
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: NEEP
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. AGITATED

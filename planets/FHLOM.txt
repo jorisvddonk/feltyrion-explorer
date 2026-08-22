@@ -1,6 +1,8 @@
-Planet: FHLOM
+Moon: FHLOM
 Starmap index: 10
 Paris coordinates: 2060398160, -1842327, 78233
+Orbits: CURCULIONIS
+Moon id: 0
 
 Guide entries:
 M01/P05 MEDIUM SIZED HOT UNSTABLE, GLOWING YELLOW WITH A WARM BROWN         

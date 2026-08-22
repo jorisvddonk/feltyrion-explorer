@@ -1,3 +1,5 @@
-Planet: HAKUNA-D-S2
+Moon: HAKUNA-D-S2
 Starmap index: 22
 Paris coordinates: 264656, 999491, -3130269
+Orbits: HAKUNA-D
+Moon id: 1

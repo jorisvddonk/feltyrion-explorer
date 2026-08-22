@@ -1,6 +1,8 @@
-Planet: PERGYNT
+Moon: PERGYNT
 Starmap index: 04
 Paris coordinates: 3331408, 5456165, 1524673
+Orbits: GRENSKI
+Moon id: 0
 
 Guide entries:
 TYPICAL 'I'M JUST ANOTHER ROCK IN SPACE' MOON.

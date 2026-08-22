@@ -1,3 +1,5 @@
-Planet: STRIPEZ
+Moon: STRIPEZ
 Starmap index: 40
 Paris coordinates: 3655696, 5293605, 702057
+Orbits: planet index 10
+Moon id: 8

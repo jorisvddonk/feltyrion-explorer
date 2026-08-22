@@ -1,6 +1,8 @@
-Planet: SIDE CARD
+Moon: SIDE CARD
 Starmap index: 13
 Paris coordinates: 381072, 1932089, -429498
+Orbits: TOROIDAL ECLIPSE
+Moon id: 0
 
 Guide entries:
 DULL RED APPEARANCE, QUITE PATCHY. UNREMARKABLE SURFACE. NAMED BY           

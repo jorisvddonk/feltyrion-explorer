@@ -1,6 +1,8 @@
-Planet: LESEA
+Moon: LESEA
 Starmap index: 18
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

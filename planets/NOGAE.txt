@@ -1,6 +1,8 @@
-Planet: NOGAE
+Moon: NOGAE
 Starmap index: 53
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SOMEWHAT DUSTY LOOKING WITH

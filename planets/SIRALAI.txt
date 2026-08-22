@@ -1,6 +1,8 @@
-Planet: SIRALAI
+Moon: SIRALAI
 Starmap index: 10
 Paris coordinates: 394640, 52221424, 264344
+Orbits: PEKLPIN
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. MODERATE

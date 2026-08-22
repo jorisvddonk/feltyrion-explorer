@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 10.8
+Moon: VARACYLNIA 10.8
 Starmap index: 34
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 10
+Moon id: 7
 
 Guide entries:
  THIS IS ONLY ANOTHER BALL OF ICE WITH NO ATMOSPHERE, NOR

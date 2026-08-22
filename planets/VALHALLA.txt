@@ -1,3 +1,5 @@
-Planet: VALHALLA
+Moon: VALHALLA
 Starmap index: 32
 Paris coordinates: 2879984, 4786591, 805414
+Orbits: PAL MUTEX
+Moon id: 1

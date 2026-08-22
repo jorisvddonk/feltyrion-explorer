@@ -1,6 +1,8 @@
-Planet: DAER
+Moon: DAER
 Starmap index: 06
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE THIRD PLANET. A DUSTY MOON, GREENISH FROM SPACE,

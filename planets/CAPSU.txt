@@ -1,6 +1,8 @@
-Planet: CAPSU
+Moon: CAPSU
 Starmap index: 04
 Paris coordinates: 1569304592, -2182619, -1103211
+Orbits: WERFAT
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A FAIRLY BRIGHT

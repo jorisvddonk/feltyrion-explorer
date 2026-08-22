@@ -1,6 +1,8 @@
-Planet: UXILLOSE
+Moon: UXILLOSE
 Starmap index: 14
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 2
 
 Guide entries:
 A DENSEWORLD MOON. LOOKS ALMOST LIKE A GAS GIANT FROM ORBIT.

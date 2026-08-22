@@ -1,3 +1,5 @@
-Planet: BUXB OQ
+Moon: BUXB OQ
 Starmap index: 55
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: KIRII
+Moon id: 1

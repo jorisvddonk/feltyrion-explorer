@@ -1,6 +1,8 @@
-Planet: REMMA
+Moon: REMMA
 Starmap index: 22
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: MAL
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, SOME POLAR CAPS. SKINNYMON

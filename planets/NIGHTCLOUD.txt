@@ -1,6 +1,8 @@
-Planet: NIGHTCLOUD
+Moon: NIGHTCLOUD
 Starmap index: 16
 Paris coordinates: 4304272, 4864874, -1110519
+Orbits: JUNIOR SIBLING
+Moon id: 10
 
 Guide entries:
 ELEVENTH MOON OF THIRD MAJOR OBJECT OF THIS SYSTEM. DISCOVERED BY           

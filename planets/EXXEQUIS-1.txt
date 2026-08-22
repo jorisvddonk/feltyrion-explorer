@@ -1,3 +1,5 @@
-Planet: EXXEQUIS-1
+Moon: EXXEQUIS-1
 Starmap index: 24
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 4

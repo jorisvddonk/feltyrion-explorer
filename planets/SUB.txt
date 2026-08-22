@@ -1,6 +1,8 @@
-Planet: SUB
+Moon: SUB
 Starmap index: 06
 Paris coordinates: -232656, 4223940, 36079181
+Orbits: TRIGUN C
+Moon id: 1
 
 Guide entries:
 AN AVERAGE SUBSTELLAR OBJECT. NO RINGS, NO MOONS (IT IS A MOON)

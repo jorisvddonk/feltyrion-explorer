@@ -1,6 +1,8 @@
-Planet: CITARIS
+Moon: CITARIS
 Starmap index: 08
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 2
 
 Guide entries:
 GAV, 03/03

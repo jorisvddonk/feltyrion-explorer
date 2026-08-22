@@ -1,6 +1,8 @@
-Planet: PIGAAF
+Moon: PIGAAF
 Starmap index: 07
 Paris coordinates: -823940592, -666067, -678703079
+Orbits: MOKHO'INEF A
+Moon id: 1
 
 Guide entries:
 MOKHO'INEF 02/01; QUARTZ

@@ -1,6 +1,8 @@
-Planet: PIRI'SETH
+Moon: PIRI'SETH
 Starmap index: 29
 Paris coordinates: 48579728, 324247, 1979970535
+Orbits: AS12291217F
+Moon id: 15
 
 Guide entries:
 THE LEAST HOSPITABLE IN THIS SYSTEM.

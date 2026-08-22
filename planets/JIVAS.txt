@@ -1,6 +1,8 @@
-Planet: JIVAS
+Moon: JIVAS
 Starmap index: 08
 Paris coordinates: 2060398160, -1842327, 78233
+Orbits: KISIRMI
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY LARGE CRATERS, VERY REFLECTIVE. PRO 0.256.680     

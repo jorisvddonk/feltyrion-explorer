@@ -1,3 +1,5 @@
-Planet: EXCAL 10 ALIVE
+Moon: EXCAL 10 ALIVE
 Starmap index: 21
 Paris coordinates: -174288, 9638409, 793201
+Orbits: EXCALIBRE
+Moon id: 9

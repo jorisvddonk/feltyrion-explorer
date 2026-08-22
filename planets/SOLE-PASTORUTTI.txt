@@ -1,6 +1,8 @@
-Planet: SOLE-PASTORUTTI
+Moon: SOLE-PASTORUTTI
 Starmap index: 15
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: MON-AYOS
+Moon id: 3
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.837 -                               

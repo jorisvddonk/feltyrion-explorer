@@ -1,6 +1,8 @@
-Planet: WEICHKAESE
+Moon: WEICHKAESE
 Starmap index: 46
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH

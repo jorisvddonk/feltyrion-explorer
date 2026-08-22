@@ -1,6 +1,8 @@
-Planet: AEOLIAN
+Moon: AEOLIAN
 Starmap index: 13
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: ELECTRIC BLUE
+Moon id: 2
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN

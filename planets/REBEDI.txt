@@ -1,6 +1,8 @@
-Planet: REBEDI
+Moon: REBEDI
 Starmap index: 23
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 15
 
 Guide entries:
 A DIM THIN ATMO MOON, THE SIXTEENTH OF THE THIRD PLANET. DIM, BUT NOT

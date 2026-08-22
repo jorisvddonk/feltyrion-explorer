@@ -1,6 +1,8 @@
-Planet: KARNING
+Moon: KARNING
 Starmap index: 13
 Paris coordinates: 288944, 1046300, -3765986
+Orbits: planet index 03
+Moon id: 1
 
 Guide entries:
 DISCOVERED EPOC 6012 060.854

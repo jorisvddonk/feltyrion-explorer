@@ -1,6 +1,8 @@
-Planet: QUIETROCK
+Moon: QUIETROCK
 Starmap index: 49
 Paris coordinates: 11143472, 13252185, 11768133
+Orbits: VEPEN
+Moon id: 0
 
 Guide entries:
 VERY DIFFERENY FROM QUIETFIRE. DEVOID OF LIFE - NORMAL MOON OF VEPEN        

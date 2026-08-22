@@ -1,6 +1,8 @@
-Planet: FARY
+Moon: FARY
 Starmap index: 16
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

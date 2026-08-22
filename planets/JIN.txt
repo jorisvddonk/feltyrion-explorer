@@ -1,3 +1,5 @@
-Planet: JIN
+Moon: JIN
 Starmap index: 06
 Paris coordinates: 1870352, 6120454, -719006
+Orbits: WU
+Moon id: 0

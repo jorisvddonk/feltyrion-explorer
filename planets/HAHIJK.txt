@@ -1,3 +1,5 @@
-Planet: HAHIJK
+Moon: HAHIJK
 Starmap index: 13
 Paris coordinates: -31046256, -20000567, -499915367
+Orbits: UYGG
+Moon id: 1

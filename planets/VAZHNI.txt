@@ -1,3 +1,5 @@
-Planet: VAZHNI
+Moon: VAZHNI
 Starmap index: 12
 Paris coordinates: 3955696, 5000472, 437976
+Orbits: GANAIA
+Moon id: 5

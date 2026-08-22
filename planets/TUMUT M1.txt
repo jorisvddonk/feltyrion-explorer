@@ -1,3 +1,5 @@
-Planet: TUMUT M1
+Moon: TUMUT M1
 Starmap index: 08
 Paris coordinates: -12144, 372689, 342906
+Orbits: TUMUT
+Moon id: 0

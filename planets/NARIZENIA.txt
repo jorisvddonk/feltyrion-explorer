@@ -1,3 +1,5 @@
-Planet: NARIZENIA
+Moon: NARIZENIA
 Starmap index: 14
 Paris coordinates: -61846160, 29378084, 204968
+Orbits: GRUPA 7 C
+Moon id: 7

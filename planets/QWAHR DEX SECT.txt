@@ -1,3 +1,5 @@
-Planet: QWAHR DEX SECT
+Moon: QWAHR DEX SECT
 Starmap index: 71
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR DEX
+Moon id: 5

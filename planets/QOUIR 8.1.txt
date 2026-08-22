@@ -1,6 +1,8 @@
-Planet: QOUIR 8.1
+Moon: QOUIR 8.1
 Starmap index: 23
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 8
+Moon id: 0
 
 Guide entries:
  A SMALL, ICY PLANETOID WITH NO ATMOSPHERE. SOME SURFACE CRACKS

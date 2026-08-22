@@ -1,6 +1,8 @@
-Planet: THE DARK TRUTH
+Moon: THE DARK TRUTH
 Starmap index: 40
 Paris coordinates: 156784, -15042, 351717
+Orbits: FARAWAY HOPE
+Moon id: 2
 
 Guide entries:
 NAMED AFTER A NEWSPAPER IN A GAME I PLAY. BLUE-BLACK THIN-ATMO

@@ -1,6 +1,8 @@
-Planet: FARMOON IV
+Moon: FARMOON IV
 Starmap index: 59
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: FARTOK
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.291.584

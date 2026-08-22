@@ -1,6 +1,8 @@
-Planet: INFANT
+Moon: INFANT
 Starmap index: 27
 Paris coordinates: -218928, 44011, 180703
+Orbits: ELK
+Moon id: 0
 
 Guide entries:
 SMALL, SOID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY APPEARING WITH

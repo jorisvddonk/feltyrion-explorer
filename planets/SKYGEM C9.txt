@@ -1,6 +1,8 @@
-Planet: SKYGEM C9
+Moon: SKYGEM C9
 Starmap index: 38
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 8
 
 Guide entries:
  A CLOUD COVERED PLANET. AMWHERE 6011.584.972

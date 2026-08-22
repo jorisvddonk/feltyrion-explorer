@@ -1,3 +1,5 @@
-Planet: JERIONARRIA
+Moon: JERIONARRIA
 Starmap index: 13
 Paris coordinates: 59081776, -33288570, 926170502
+Orbits: FUROKIATWA
+Moon id: 4

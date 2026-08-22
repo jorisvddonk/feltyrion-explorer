@@ -1,3 +1,5 @@
-Planet: PASKOFF MOON1
+Moon: PASKOFF MOON1
 Starmap index: 04
 Paris coordinates: 5017840, 4316655, -930532
+Orbits: PASKOFF 3
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: LAGASH B I
+Moon: LAGASH B I
 Starmap index: 05
 Paris coordinates: -13152432, -295929, -2253203
+Orbits: LAGASH B
+Moon id: 0
 
 Guide entries:
 FELISIAN. BIRDS SEEM TO BE THE ONLY LIVING BEINGS ON THIS PLANET.

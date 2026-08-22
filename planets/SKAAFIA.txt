@@ -1,3 +1,5 @@
-Planet: SKAAFIA
+Moon: SKAAFIA
 Starmap index: 24
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: SIDEON
+Moon id: 6

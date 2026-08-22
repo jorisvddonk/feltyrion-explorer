@@ -1,6 +1,8 @@
-Planet: TESTUDINATE
+Moon: TESTUDINATE
 Starmap index: 19
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: INDICANT
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MEDIUM AND LARGE

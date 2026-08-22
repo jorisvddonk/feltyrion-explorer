@@ -1,6 +1,8 @@
-Planet: RAMSAY'S WORLD
+Moon: RAMSAY'S WORLD
 Starmap index: 14
 Paris coordinates: 3959632, 5309715, -1265022
+Orbits: DANZIG NOVA
+Moon id: 1
 
 Guide entries:
  BEAUTIFUL VOLCANIC MOON, SECOND MOON OF CRISHOM

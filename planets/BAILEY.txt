@@ -1,3 +1,5 @@
-Planet: BAILEY
+Moon: BAILEY
 Starmap index: 12
 Paris coordinates: 3890704, 4620850, -1463671
+Orbits: CYDONIA
+Moon id: 1

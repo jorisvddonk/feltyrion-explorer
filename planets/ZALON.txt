@@ -1,6 +1,8 @@
-Planet: ZALON
+Moon: ZALON
 Starmap index: 25
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: OMLANTH
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR YELLOW GREEN

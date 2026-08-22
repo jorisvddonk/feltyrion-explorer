@@ -1,6 +1,8 @@
-Planet: CORAL II-7Q
+Moon: CORAL II-7Q
 Starmap index: 73
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-7
+Moon id: 16
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

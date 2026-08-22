@@ -1,6 +1,8 @@
-Planet: ARCHIMEDES
+Moon: ARCHIMEDES
 Starmap index: 21
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 13
 
 Guide entries:
 MEDIUM SIZED, SOLID MOON, THICK ATMOSPHERE, COVERED BY CLOUDS.

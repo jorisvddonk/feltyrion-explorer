@@ -1,6 +1,8 @@
-Planet: SALO
+Moon: SALO
 Starmap index: 14
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: GOLOR
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.169

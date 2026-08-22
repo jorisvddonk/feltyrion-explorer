@@ -1,6 +1,8 @@
-Planet: BORIMON
+Moon: BORIMON
 Starmap index: 20
 Paris coordinates: 1373200, 778257, 2089632
+Orbits: GASEORB
+Moon id: 6
 
 Guide entries:
 SMALL, DUSTY AND SOLID SURFACE, NO ATMOSPHERE. THE CRATERS' INTERIOR

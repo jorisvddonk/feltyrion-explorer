@@ -1,6 +1,8 @@
-Planet: SHADE
+Moon: SHADE
 Starmap index: 21
 Paris coordinates: -777136, 755009, -627979
+Orbits: planet index 03
+Moon id: 14
 
 Guide entries:
 PLANET 15/03 OF SYSIPH

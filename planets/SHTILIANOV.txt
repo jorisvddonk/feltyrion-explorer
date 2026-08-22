@@ -1,3 +1,5 @@
-Planet: SHTILIANOV
+Moon: SHTILIANOV
 Starmap index: 14
 Paris coordinates: 3579984, 4607492, 169632
+Orbits: FILIPOV
+Moon id: 0

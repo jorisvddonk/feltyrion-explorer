@@ -1,3 +1,5 @@
-Planet: STONE OF LEAVES
+Moon: STONE OF LEAVES
 Starmap index: 11
 Paris coordinates: 625712, 20217, -47143
+Orbits: WOP 6
+Moon id: 1

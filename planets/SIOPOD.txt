@@ -1,6 +1,8 @@
-Planet: SIOPOD
+Moon: SIOPOD
 Starmap index: 19
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: RINGO
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

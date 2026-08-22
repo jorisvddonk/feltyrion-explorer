@@ -1,6 +1,8 @@
-Planet: PLAIN
+Moon: PLAIN
 Starmap index: 33
 Paris coordinates: -163568, 2358, -418951
+Orbits: DISJUNCT
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY REFLECTIVE WITH VERY

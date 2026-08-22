@@ -1,6 +1,8 @@
-Planet: FICE
+Moon: FICE
 Starmap index: 41
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 0
 
 Guide entries:
 FAR AWAY ICE PLANET.

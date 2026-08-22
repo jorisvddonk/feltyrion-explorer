@@ -1,3 +1,5 @@
-Planet: RADAX DANIELLER 7G
+Moon: RADAX DANIELLER 7G
 Starmap index: 38
 Paris coordinates: -39830320, 1539270, 31344551
+Orbits: RADAX DANIELLER 7
+Moon id: 6

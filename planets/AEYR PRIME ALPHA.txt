@@ -1,6 +1,8 @@
-Planet: AEYR PRIME ALPHA
+Moon: AEYR PRIME ALPHA
 Starmap index: 03
 Paris coordinates: 3077136, 5007894, -1447173
+Orbits: AEYR PRIME
+Moon id: 0
 
 Guide entries:
 FIRST MOON (PLANET) OF STAR AEYR PRIME IN THE AEYR SYSTEM

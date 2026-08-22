@@ -1,6 +1,8 @@
-Planet: MANGONEL
+Moon: MANGONEL
 Starmap index: 06
 Paris coordinates: 3390704, 4178474, -942087
+Orbits: CULLET
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE AND MEDIUM

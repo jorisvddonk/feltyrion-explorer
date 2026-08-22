@@ -1,6 +1,8 @@
-Planet: CORAL II-5A
+Moon: CORAL II-5A
 Starmap index: 39
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-5
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

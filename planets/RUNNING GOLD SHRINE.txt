@@ -1,3 +1,5 @@
-Planet: RUNNING GOLD SHRINE
+Moon: RUNNING GOLD SHRINE
 Starmap index: 22
 Paris coordinates: 570352, -17743, 592279
+Orbits: GAUSS
+Moon id: 0

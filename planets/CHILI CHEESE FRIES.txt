@@ -1,6 +1,8 @@
-Planet: CHILI CHEESE FRIES
+Moon: CHILI CHEESE FRIES
 Starmap index: 11
 Paris coordinates: 2452848, 4651009, -440090
+Orbits: VEGGIE BURGER
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A

@@ -1,6 +1,8 @@
-Planet: ARIN
+Moon: ARIN
 Starmap index: 31
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 14
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE, CRATERED AND ROUGH.

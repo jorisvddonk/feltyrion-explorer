@@ -1,6 +1,8 @@
-Planet: HADOW
+Moon: HADOW
 Starmap index: 25
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SOME GROOVING, BUT HAS AN

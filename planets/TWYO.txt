@@ -1,6 +1,8 @@
-Planet: TWYO
+Moon: TWYO
 Starmap index: 20
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRIAN
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. RED.

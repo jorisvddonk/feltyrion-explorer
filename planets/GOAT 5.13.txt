@@ -1,6 +1,8 @@
-Planet: GOAT 5.13
+Moon: GOAT 5.13
 Starmap index: 34
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 5
+Moon id: 12
 
 Guide entries:
 THIS WORLD IS REALLY BEAUTIFUL... I'M NOT SAYING ANYMORE, COME AND

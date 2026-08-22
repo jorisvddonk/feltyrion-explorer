@@ -1,3 +1,5 @@
-Planet: QWAHR TRIACUS DREA
+Moon: QWAHR TRIACUS DREA
 Starmap index: 19
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR TRIACUS
+Moon id: 1

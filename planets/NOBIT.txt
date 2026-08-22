@@ -1,6 +1,8 @@
-Planet: NOBIT
+Moon: NOBIT
 Starmap index: 42
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH, SCARRED AND

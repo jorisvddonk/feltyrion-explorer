@@ -1,3 +1,5 @@
-Planet: ZEX
+Moon: ZEX
 Starmap index: 15
 Paris coordinates: 9975632, 8195351, 8947026
+Orbits: ASKEW 19E
+Moon id: 0

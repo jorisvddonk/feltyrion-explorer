@@ -1,6 +1,8 @@
-Planet: BARROWLAND
+Moon: BARROWLAND
 Starmap index: 18
 Paris coordinates: 4842128, 4434279, -1348838
+Orbits: planet index 04
+Moon id: 0
 
 Guide entries:
 MOON OF FOURTH PLANET IN UMBER SYSTEM

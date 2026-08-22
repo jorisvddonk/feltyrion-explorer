@@ -1,6 +1,8 @@
-Planet: KOLYAS
+Moon: KOLYAS
 Starmap index: 07
 Paris coordinates: 2091903024, -1729241, -163145
+Orbits: KOPRIHIJ
+Moon id: 0
 
 Guide entries:
 M01/P05 SMALL SOLID DUSTY VERY LARGE CRATERS WITH RAYS ON TAN COLOR.        

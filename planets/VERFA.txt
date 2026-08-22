@@ -1,6 +1,8 @@
-Planet: VERFA
+Moon: VERFA
 Starmap index: 20
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 6
 
 Guide entries:
 M07/P05 SMALL SOLID THIN ATMO. VERY BRIGHT WITH NICE BRIGHT POLAR CAPS,     

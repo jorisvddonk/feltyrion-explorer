@@ -1,6 +1,8 @@
-Planet: ROTVA
+Moon: ROTVA
 Starmap index: 18
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 4
 
 Guide entries:
 M05/P05 SMALL SOLID DUSTY CRATERIZED. WITH THE FEW SIZABLE CRATERS THIS     

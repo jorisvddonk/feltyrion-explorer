@@ -1,6 +1,8 @@
-Planet: CRADLE X A
+Moon: CRADLE X A
 Starmap index: 77
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE X
+Moon id: 0
 
 Guide entries:
 A BROWN THINWORLD THAT ORBITS VERY CLOSE TO ITS PARENT PLANET.

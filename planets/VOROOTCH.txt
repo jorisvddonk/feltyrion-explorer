@@ -1,3 +1,5 @@
-Planet: VOROOTCH
+Moon: VOROOTCH
 Starmap index: 40
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: JB 119
+Moon id: 8

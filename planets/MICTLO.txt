@@ -1,6 +1,8 @@
-Planet: MICTLO
+Moon: MICTLO
 Starmap index: 15
 Paris coordinates: 81072, -77486, -118953
+Orbits: JENUVO
+Moon id: 0
 
 Guide entries:
 STRANGE PLATEAUS AT 318.26 (SCHMERM 6011 579.659)

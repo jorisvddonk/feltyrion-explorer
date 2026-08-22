@@ -1,6 +1,8 @@
-Planet: CRADLE VII E
+Moon: CRADLE VII E
 Starmap index: 60
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VII
+Moon id: 4
 
 Guide entries:
 GREY THINWORLD. (SCHMERM 6011 592.878)

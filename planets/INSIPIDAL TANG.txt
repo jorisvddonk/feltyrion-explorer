@@ -1,3 +1,5 @@
-Planet: INSIPIDAL TANG
+Moon: INSIPIDAL TANG
 Starmap index: 22
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: PURPLE PASTE
+Moon id: 0

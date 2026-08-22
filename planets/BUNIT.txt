@@ -1,6 +1,8 @@
-Planet: BUNIT
+Moon: BUNIT
 Starmap index: 21
 Paris coordinates: -2512, 333266, 2788927
+Orbits: SANIKOR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE AND LIGH

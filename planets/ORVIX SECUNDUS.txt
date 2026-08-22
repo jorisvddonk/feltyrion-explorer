@@ -1,3 +1,5 @@
-Planet: ORVIX SECUNDUS
+Moon: ORVIX SECUNDUS
 Starmap index: 08
 Paris coordinates: 4755696, 4375095, -401376
+Orbits: ORVIX PRIME
+Moon id: 0

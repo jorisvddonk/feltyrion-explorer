@@ -1,6 +1,8 @@
-Planet: VAHAGN
+Moon: VAHAGN
 Starmap index: 11
 Paris coordinates: 2521776, 4915370, -175857
+Orbits: TACHI
+Moon id: 1
 
 Guide entries:
  MOON NAMED AFTER SOME GUY NAMED VAHAGN.

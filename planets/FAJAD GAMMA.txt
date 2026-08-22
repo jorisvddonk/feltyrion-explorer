@@ -1,6 +1,8 @@
-Planet: FAJAD GAMMA
+Moon: FAJAD GAMMA
 Starmap index: 18
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF PLANET FAJAD IN THE GENISI SYSTEM

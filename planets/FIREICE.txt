@@ -1,3 +1,5 @@
-Planet: FIREICE
+Moon: FIREICE
 Starmap index: 06
 Paris coordinates: 5576048, 4858380, 29991
+Orbits: PETTYMYS
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: ORUNA
+Moon: ORUNA
 Starmap index: 13
 Paris coordinates: 2870352, 4893903, -1697850
+Orbits: ESTIGIA
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY ATTRADIS AND LAURANA, EPOC 6011:599.951

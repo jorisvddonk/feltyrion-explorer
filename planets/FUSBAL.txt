@@ -1,6 +1,8 @@
-Planet: FUSBAL
+Moon: FUSBAL
 Starmap index: 21
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: GEI
+Moon id: 7
 
 Guide entries:
 *ANOTHER* CRATERIZED PIECE OF SPACE ROCK... A MOON OF GEI.                  

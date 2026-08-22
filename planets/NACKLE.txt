@@ -1,6 +1,8 @@
-Planet: NACKLE
+Moon: NACKLE
 Starmap index: 09
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: DELBER
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE WITH

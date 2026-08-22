@@ -1,6 +1,8 @@
-Planet: ALPINE
+Moon: ALPINE
 Starmap index: 34
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 18
 
 Guide entries:
 BIG FORMATION OF MOUNTAINS AT 23.1

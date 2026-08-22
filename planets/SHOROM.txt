@@ -1,6 +1,8 @@
-Planet: SHOROM
+Moon: SHOROM
 Starmap index: 08
 Paris coordinates: 267504, 645097, -1145511
+Orbits: CHROBY
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, CAN'T BE TRUSTED WITH

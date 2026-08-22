@@ -1,6 +1,8 @@
-Planet: NIGHT SOUL
+Moon: NIGHT SOUL
 Starmap index: 23
 Paris coordinates: -729648, -55940, 1873342
+Orbits: PINK PANTHER
+Moon id: 1
 
 Guide entries:
 EVEN DURING DAY WISHPERER COULDN'T BE SEEN

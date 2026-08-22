@@ -1,6 +1,8 @@
-Planet: ASKEW 93C7
+Moon: ASKEW 93C7
 Starmap index: 18
 Paris coordinates: 10793808, -18875421, 16913063
+Orbits: ASKEW 93C
+Moon id: 6
 
 Guide entries:
 FOUND EPOC 6011 588.371.600 BY ROLAND ASKEW

@@ -1,6 +1,8 @@
-Planet: PATED
+Moon: PATED
 Starmap index: 12
 Paris coordinates: 4142128, 4582625, -648170
+Orbits: HABDOCO
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. NO STORMS,

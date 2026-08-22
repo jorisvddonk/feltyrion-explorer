@@ -1,3 +1,5 @@
-Planet: IKI
+Moon: IKI
 Starmap index: 14
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: ULKU
+Moon id: 3

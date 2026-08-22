@@ -1,6 +1,8 @@
-Planet: ENDLESS SORROW
+Moon: ENDLESS SORROW
 Starmap index: 22
 Paris coordinates: -461808, 50208, 5718934
+Orbits: COBEL
+Moon id: 11
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH THICK CLOUDS. LIGHTNING

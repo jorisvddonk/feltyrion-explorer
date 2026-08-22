@@ -1,6 +1,8 @@
-Planet: HAIJIRO
+Moon: HAIJIRO
 Starmap index: 06
 Paris coordinates: -194640, -77675, -351463
+Orbits: NOVELLETUM
+Moon id: 0
 
 Guide entries:
 M01/P03 DUSTY. BRIGHT REFLECTIVITY WITH EQUALLY REFLECTIVE LARGE

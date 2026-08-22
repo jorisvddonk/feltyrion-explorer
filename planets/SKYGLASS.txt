@@ -1,6 +1,8 @@
-Planet: SKYGLASS
+Moon: SKYGLASS
 Starmap index: 21
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: PURP
+Moon id: 0
 
 Guide entries:
 FOUNDED EPOC 6011, 681.406.715 BY REZA. ONLY SATELLITE OF PURP.             

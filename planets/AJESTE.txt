@@ -1,6 +1,8 @@
-Planet: AJESTE
+Moon: AJESTE
 Starmap index: 19
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: ILLAUDATUS
+Moon id: 0
 
 Guide entries:
 M01P06, SMALL, THIN ATMOSPHERE, PRO 0.216.360; PRV 0.002.433.546 ///

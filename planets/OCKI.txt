@@ -1,6 +1,8 @@
-Planet: OCKI
+Moon: OCKI
 Starmap index: 09
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: LAYBA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE DUSTY IN APPEARANCE

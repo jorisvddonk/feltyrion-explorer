@@ -1,6 +1,8 @@
-Planet: PIFHT
+Moon: PIFHT
 Starmap index: 19
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 3
 
 Guide entries:
 M04/P07 SMALL ICY VERY WHITE WITH BARELY DETECTABLE GROOVING ON GREY        

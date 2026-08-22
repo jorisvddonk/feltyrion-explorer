@@ -1,6 +1,8 @@
-Planet: Z-X012 X A
+Moon: Z-X012 X A
 Starmap index: 23
 Paris coordinates: -1404634000, -41937, 1421169983
+Orbits: Z-X012 X
+Moon id: 0
 
 Guide entries:
 BRIGHT UNEVEN DEADWORLD. (SCHMERM 6011 598.981)

@@ -1,6 +1,8 @@
-Planet: FENWICK III E
+Moon: FENWICK III E
 Starmap index: 10
 Paris coordinates: 4470352, 4327919, -3283633
+Orbits: FENWICK III
+Moon id: 4
 
 Guide entries:
 CHECK OUT THE 'THRONE OF THE GODS' AT 25.76

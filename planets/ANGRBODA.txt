@@ -1,3 +1,5 @@
-Planet: ANGRBODA
+Moon: ANGRBODA
 Starmap index: 12
 Paris coordinates: 14757456, 8159489, -4721068
+Orbits: RATATORSK
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: MALM
+Moon: MALM
 Starmap index: 20
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: TREASURER
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A LARGE, FAIRLY NEW

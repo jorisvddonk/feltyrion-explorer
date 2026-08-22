@@ -1,6 +1,8 @@
-Planet: MAR-FABBIANI
+Moon: MAR-FABBIANI
 Starmap index: 52
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 19
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.836 -                               

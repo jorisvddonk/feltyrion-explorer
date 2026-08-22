@@ -1,6 +1,8 @@
-Planet: MUSIAL V E
+Moon: MUSIAL V E
 Starmap index: 11
 Paris coordinates: 723952, 3821710, -5996200
+Orbits: planet index 05
+Moon id: 4
 
 Guide entries:
 RICH DARK COLORS, SOME ANIMALS.

@@ -1,6 +1,8 @@
-Planet: LYTRO
+Moon: LYTRO
 Starmap index: 25
 Paris coordinates: 167504, 55824, -835910
+Orbits: TELUPY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREY REFLECTIVITY

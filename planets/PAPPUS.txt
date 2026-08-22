@@ -1,6 +1,8 @@
-Planet: PAPPUS
+Moon: PAPPUS
 Starmap index: 06
 Paris coordinates: -18928, -70320, -32484
+Orbits: LEADING QUESTION
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE REFLECTIVE WITH

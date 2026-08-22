@@ -1,3 +1,5 @@
-Planet: CHRUNKAR
+Moon: CHRUNKAR
 Starmap index: 11
 Paris coordinates: 218928, 169094, -26787
+Orbits: CUB'S NURSERY
+Moon id: 1

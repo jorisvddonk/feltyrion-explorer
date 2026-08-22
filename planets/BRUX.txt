@@ -1,3 +1,5 @@
-Planet: BRUX
+Moon: BRUX
 Starmap index: 24
 Paris coordinates: -2162480, -7768489, -2349162
+Orbits: HJUK
+Moon id: 1

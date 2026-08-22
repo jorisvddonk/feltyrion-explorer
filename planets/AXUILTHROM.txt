@@ -1,6 +1,8 @@
-Planet: AXUILTHROM
+Moon: AXUILTHROM
 Starmap index: 38
 Paris coordinates: -356784, 249112, 74478
+Orbits: PAEIUNASLYA
+Moon id: 0
 
 Guide entries:
 SMALL ROCKY MOON. FGS 0.18, TEMP -267, NO ATMOSPHERE, NO SUN DISC.

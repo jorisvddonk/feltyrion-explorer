@@ -1,6 +1,8 @@
-Planet: QUARTZ ONE 2
+Moon: QUARTZ ONE 2
 Starmap index: 33
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: BROWN ONE
+Moon id: 8
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.266.398

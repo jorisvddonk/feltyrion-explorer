@@ -1,6 +1,8 @@
-Planet: RAGGED EDGE
+Moon: RAGGED EDGE
 Starmap index: 54
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: PERNICIOUS
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. LARGE

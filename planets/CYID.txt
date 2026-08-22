@@ -1,6 +1,8 @@
-Planet: CYID
+Moon: CYID
 Starmap index: 53
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 10
 
 Guide entries:
 M11/P10 SMALL SOLID ICY VIOLET COLOR WITH PURPLE GROOVING. PRO 0.169.200    

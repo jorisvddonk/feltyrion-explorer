@@ -1,6 +1,8 @@
-Planet: IASE ROCKEFELLER
+Moon: IASE ROCKEFELLER
 Starmap index: 21
 Paris coordinates: 1413381072, -31268, -1413496484
+Orbits: GREENBACKED GEM
+Moon id: 0
 
 Guide entries:
 VOLCANIC WORLD. SURFACE NOT VERY MOTTLED, BUT IT OBVIOUSLY                  

@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 6.1
+Moon: ALCHEMIST 6.1
 Starmap index: 16
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 6
+Moon id: 0
 
 Guide entries:
 THIS MOON IS A GAS GIANT, WHICH INDICATES THAT ALCHEMIST 6 MUST

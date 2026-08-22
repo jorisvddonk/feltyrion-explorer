@@ -1,3 +1,5 @@
-Planet: PAN
+Moon: PAN
 Starmap index: 09
 Paris coordinates: 1752848, 5160015, 518853
+Orbits: PURPLE EYE
+Moon id: 3

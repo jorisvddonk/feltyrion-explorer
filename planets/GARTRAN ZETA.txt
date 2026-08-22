@@ -1,6 +1,8 @@
-Planet: GARTRAN ZETA
+Moon: GARTRAN ZETA
 Starmap index: 10
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

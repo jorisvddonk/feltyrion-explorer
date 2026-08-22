@@ -1,6 +1,8 @@
-Planet: APOLONIA
+Moon: APOLONIA
 Starmap index: 06
 Paris coordinates: 2997488, 4723118, -140904
+Orbits: LX94
+Moon id: 1
 
 Guide entries:
  CENTER OF THE ARIVALS FROM OPORTO AND PARIS NOW IN RUINS

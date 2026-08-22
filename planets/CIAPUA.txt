@@ -1,3 +1,5 @@
-Planet: CIAPUA
+Moon: CIAPUA
 Starmap index: 13
 Paris coordinates: -61294736, 30101179, 849771
+Orbits: PURPLENAEIS
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: EULACHON
+Moon: EULACHON
 Starmap index: 07
 Paris coordinates: 1283920, 4190011, 765689
+Orbits: JOCUND
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FEW SIZEABLE CRATERS.

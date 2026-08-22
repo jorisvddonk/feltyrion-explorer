@@ -1,6 +1,8 @@
-Planet: VOWBIN IX B
+Moon: VOWBIN IX B
 Starmap index: 30
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 1
 
 Guide entries:
 DIRTY WHITE ICEWORLD WITH CANALS. (SCHMERM 6011 600.721)

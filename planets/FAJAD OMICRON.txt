@@ -1,6 +1,8 @@
-Planet: FAJAD OMICRON
+Moon: FAJAD OMICRON
 Starmap index: 30
 Paris coordinates: 612144, 6999853, -833727
+Orbits: FAJAD
+Moon id: 14
 
 Guide entries:
 FIFTEENTH MOON OF PLANET FAJAD IN THE GENISI SYSTEM

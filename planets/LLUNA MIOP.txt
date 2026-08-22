@@ -1,3 +1,5 @@
-Planet: LLUNA MIOP
+Moon: LLUNA MIOP
 Starmap index: 24
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 17

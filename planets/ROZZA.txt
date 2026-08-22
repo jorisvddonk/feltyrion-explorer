@@ -1,6 +1,8 @@
-Planet: ROZZA
+Moon: ROZZA
 Starmap index: 17
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: FORDINARM
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREEN REFLECTIVITY

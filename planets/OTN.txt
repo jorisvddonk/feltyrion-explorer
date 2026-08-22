@@ -1,3 +1,5 @@
-Planet: OTN
+Moon: OTN
 Starmap index: 21
 Paris coordinates: -2255696, -5301817, -1726973
+Orbits: PROGGO
+Moon id: 6

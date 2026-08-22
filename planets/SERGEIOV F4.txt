@@ -1,3 +1,5 @@
-Planet: SERGEIOV F4
+Moon: SERGEIOV F4
 Starmap index: 38
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV F
+Moon id: 3

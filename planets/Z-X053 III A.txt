@@ -1,6 +1,8 @@
-Planet: Z-X053 III A
+Moon: Z-X053 III A
 Starmap index: 04
 Paris coordinates: -1405492208, 36257, 1420452049
+Orbits: Z-X053 III
+Moon id: 0
 
 Guide entries:
 RED HELLWORLD. (SCHMERM 6011 600.723)

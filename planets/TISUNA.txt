@@ -1,6 +1,8 @@
-Planet: TISUNA
+Moon: TISUNA
 Starmap index: 14
 Paris coordinates: -280275088, -1411417, 54856035
+Orbits: TALES
+Moon id: 5
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.576.809

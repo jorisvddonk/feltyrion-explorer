@@ -1,6 +1,8 @@
-Planet: EMPERESS
+Moon: EMPERESS
 Starmap index: 27
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-GGP-8
+Moon id: 5
 
 Guide entries:
 AN UNREMARKABLE ICE COVERED PLANET. DON'T BOTHER VISITING THIS ROCK.

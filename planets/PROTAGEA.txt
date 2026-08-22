@@ -1,6 +1,8 @@
-Planet: PROTAGEA
+Moon: PROTAGEA
 Starmap index: 24
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE III
+Moon id: 7
 
 Guide entries:
 ANOTHER FELISIAN WORLD IN THIS S09 SYSTEM!

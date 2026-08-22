@@ -1,3 +1,5 @@
-Planet: HALLS OF TIARA
+Moon: HALLS OF TIARA
 Starmap index: 11
 Paris coordinates: 4773200, 4651613, -1520195
+Orbits: XARVARC D
+Moon id: 5

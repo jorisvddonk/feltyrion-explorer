@@ -1,6 +1,8 @@
-Planet: INTORDI
+Moon: INTORDI
 Starmap index: 10
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: BELLEBLUE
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF FOURTH PLANET. INTERNALLY HOT.

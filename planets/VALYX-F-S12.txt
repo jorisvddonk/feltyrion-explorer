@@ -1,3 +1,5 @@
-Planet: VALYX-F-S12
+Moon: VALYX-F-S12
 Starmap index: 43
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-F
+Moon id: 11

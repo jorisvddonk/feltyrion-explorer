@@ -1,6 +1,8 @@
-Planet: DIAMON
+Moon: DIAMON
 Starmap index: 19
 Paris coordinates: 4304272, 4864874, -1110519
+Orbits: NOIR
+Moon id: 1
 
 Guide entries:
 THIS MOON IS COVERED BY A STRANGE, TRANSLUCENT LAYER OF SOME ICY            

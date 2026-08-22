@@ -1,3 +1,5 @@
-Planet: NIE
+Moon: NIE
 Starmap index: 07
 Paris coordinates: -1273200, -14300100, -1906276
+Orbits: SHEEN
+Moon id: 1

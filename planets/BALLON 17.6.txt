@@ -1,6 +1,8 @@
-Planet: BALLON 17.6
+Moon: BALLON 17.6
 Starmap index: 54
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 5
 
 Guide entries:
 YET AONTHER GIANT BALL OF ICE... IT'S VERY PRETTY BECAUSE OF ITS            

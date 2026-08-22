@@ -1,6 +1,8 @@
-Planet: DYING WARMTH
+Moon: DYING WARMTH
 Starmap index: 46
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: FARAWAY BODY
+Moon id: 0
 
 Guide entries:
 MOON OF FARAWAY BODY ON EKA29. INTERNALLY HOT. --EKA

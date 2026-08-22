@@ -1,6 +1,8 @@
-Planet: 2.3 LY FAITH
+Moon: 2.3 LY FAITH
 Starmap index: 33
 Paris coordinates: -1159796144, -494637, 1176526707
+Orbits: planet index 10
+Moon id: 1
 
 Guide entries:
 ACTUALLY HAS PLENTY OF LIFE.(TRY LANDING AT AREAS SUCH AS 139,20            

@@ -1,6 +1,8 @@
-Planet: ORDINARY
+Moon: ORDINARY
 Starmap index: 22
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: FELISAN
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.263.380

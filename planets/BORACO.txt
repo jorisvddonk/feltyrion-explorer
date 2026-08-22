@@ -1,6 +1,8 @@
-Planet: BORACO
+Moon: BORACO
 Starmap index: 27
 Paris coordinates: -1108208, -712825, -246456
+Orbits: PHAHR
+Moon id: 1
 
 Guide entries:
 MOON OF PHAHR. SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.

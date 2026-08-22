@@ -1,3 +1,5 @@
-Planet: ASKEW 70M8
+Moon: ASKEW 70M8
 Starmap index: 46
 Paris coordinates: 11076304, -19198926, 17684054
+Orbits: ASKEW 70M
+Moon id: 7

@@ -1,6 +1,8 @@
-Planet: ARCUL
+Moon: ARCUL
 Starmap index: 08
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: RIMYEKUR
+Moon id: 2
 
 Guide entries:
 M03/P03 HOT AND UNSTABLE WITH A DULL REDDISH APPEARANCE AND DULL GLOWING    

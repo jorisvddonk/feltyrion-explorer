@@ -1,3 +1,5 @@
-Planet: MONGOL
+Moon: MONGOL
 Starmap index: 13
 Paris coordinates: 3959632, 4540688, -1516089
+Orbits: KRYPTON
+Moon id: 0

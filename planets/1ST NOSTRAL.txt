@@ -1,3 +1,5 @@
-Planet: 1ST NOSTRAL
+Moon: 1ST NOSTRAL
 Starmap index: 53
 Paris coordinates: -174288, 9638409, 793201
+Orbits: NOSE BLEED
+Moon id: 0

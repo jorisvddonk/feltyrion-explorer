@@ -1,6 +1,8 @@
-Planet: AUJIHNAIA
+Moon: AUJIHNAIA
 Starmap index: 17
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 3
 
 Guide entries:
 THIN ATMOSPHERE WORLD WITH CRATERS. GRAV 0.68, TEMP -33, PRESS 0.06.

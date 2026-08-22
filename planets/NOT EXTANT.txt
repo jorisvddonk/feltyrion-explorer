@@ -1,3 +1,5 @@
-Planet: NOT EXTANT
+Moon: NOT EXTANT
 Starmap index: 07
 Paris coordinates: -675376, 5328164, 5102857
+Orbits: ARENDIA
+Moon id: 1

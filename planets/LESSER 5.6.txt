@@ -1,6 +1,8 @@
-Planet: LESSER 5.6
+Moon: LESSER 5.6
 Starmap index: 12
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. NO, REALLY! AT LEAST NOT AN ICEBALL,

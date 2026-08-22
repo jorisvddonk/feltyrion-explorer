@@ -1,3 +1,5 @@
-Planet: SA07
+Moon: SA07
 Starmap index: 27
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: SATAS
+Moon id: 6

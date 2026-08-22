@@ -1,6 +1,8 @@
-Planet: NOVACULITE
+Moon: NOVACULITE
 Starmap index: 22
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FINE LARGE CRATERS.

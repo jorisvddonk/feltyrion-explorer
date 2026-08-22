@@ -1,3 +1,5 @@
-Planet: GREEN BLUE
+Moon: GREEN BLUE
 Starmap index: 27
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: VIOLET CRAYON
+Moon id: 2

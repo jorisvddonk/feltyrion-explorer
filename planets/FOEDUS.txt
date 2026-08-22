@@ -1,6 +1,8 @@
-Planet: FOEDUS
+Moon: FOEDUS
 Starmap index: 15
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY REFLECTIVE WITH EVEN

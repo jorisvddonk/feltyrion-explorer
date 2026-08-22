@@ -1,6 +1,8 @@
-Planet: JOANARC
+Moon: JOANARC
 Starmap index: 10
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 5
 
 Guide entries:
 6TH MOON OF THE PLANET RUFUSA - THIN ATMOSPHERE

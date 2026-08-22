@@ -1,6 +1,8 @@
-Planet: BALLON 5.1
+Moon: BALLON 5.1
 Starmap index: 28
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 5
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, ROCKY, CREASED. AN INTERESTING OBJECT, PRIMARILY              

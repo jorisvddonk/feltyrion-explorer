@@ -1,6 +1,8 @@
-Planet: PARSIS 6.1
+Moon: PARSIS 6.1
 Starmap index: 16
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 6
+Moon id: 0
 
 Guide entries:
  THE CLOSEST MOON TO PARSIS 6 IS, AS ITS HOST PLANET, VERY

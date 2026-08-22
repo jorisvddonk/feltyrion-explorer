@@ -1,3 +1,5 @@
-Planet: YITHARLYNM 2
+Moon: YITHARLYNM 2
 Starmap index: 11
 Paris coordinates: 5248912, 5047794, -1305909
+Orbits: YITHARLYNM
+Moon id: 1

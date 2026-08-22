@@ -1,6 +1,8 @@
-Planet: DACREDA
+Moon: DACREDA
 Starmap index: 31
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: NEONAS
+Moon id: 5
 
 Guide entries:
 A DARK, THIN ATMO MOON. SIXTH OF THE FOURTH PLANET. PRETTY MUCH TOO

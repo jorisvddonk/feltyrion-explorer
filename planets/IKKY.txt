@@ -1,6 +1,8 @@
-Planet: IKKY
+Moon: IKKY
 Starmap index: 10
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: VALL
+Moon id: 0
 
 Guide entries:
 A SMALL DUSTY, CRATERIZED MOON OF THE FOURTH PLANET. UNDESCRIPT.

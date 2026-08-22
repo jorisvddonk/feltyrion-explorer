@@ -1,6 +1,8 @@
-Planet: NEOLIET
+Moon: NEOLIET
 Starmap index: 24
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 16
 
 Guide entries:
 MEDIUM SIZED, SOLID MOON WITH THICK ATMOSPHERE AND COVERED WITH CLOUDS

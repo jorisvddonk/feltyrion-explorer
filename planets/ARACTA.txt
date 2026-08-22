@@ -1,6 +1,8 @@
-Planet: ARACTA
+Moon: ARACTA
 Starmap index: 29
 Paris coordinates: -22610224, 322718, -7829968
+Orbits: SAVARO 5
+Moon id: 5
 
 Guide entries:
 FELISIAN WORLD

@@ -1,3 +1,5 @@
-Planet: VIMARAES-C-S9
+Moon: VIMARAES-C-S9
 Starmap index: 19
 Paris coordinates: 3661808, 108183, -8606009
+Orbits: VIMARAES-C
+Moon id: 8

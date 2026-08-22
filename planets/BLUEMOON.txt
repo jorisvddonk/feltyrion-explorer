@@ -1,3 +1,5 @@
-Planet: BLUEMOON
+Moon: BLUEMOON
 Starmap index: 20
 Paris coordinates: -694640, 75151, 152742
+Orbits: planet index 07
+Moon id: 8

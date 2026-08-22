@@ -1,6 +1,8 @@
-Planet: ELAINE
+Moon: ELAINE
 Starmap index: 25
 Paris coordinates: 3959632, 4609715, -1242819
+Orbits: GWYNEVERE
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY BRUCE STERLING WOODCOCK, EPOC 6011:571.707.

@@ -1,6 +1,8 @@
-Planet: REFHK
+Moon: REFHK
 Starmap index: 50
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 7
 
 Guide entries:
 M08/P10 SMALL SOLID ICY MEDIUM GREEN WITH MOTTLING AND DARK GROOVING        

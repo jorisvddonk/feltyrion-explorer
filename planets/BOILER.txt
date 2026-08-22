@@ -1,3 +1,5 @@
-Planet: BOILER
+Moon: BOILER
 Starmap index: 27
 Paris coordinates: -61270448, 30091829, 306909
+Orbits: EXCUBITOR
+Moon id: 1

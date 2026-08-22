@@ -1,3 +1,5 @@
-Planet: SPINY NORMAN
+Moon: SPINY NORMAN
 Starmap index: 12
 Paris coordinates: 3548912, 5115546, 351991
+Orbits: DINSDALE PIRANHA
+Moon id: 0

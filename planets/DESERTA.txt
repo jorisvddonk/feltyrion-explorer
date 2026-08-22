@@ -1,6 +1,8 @@
-Planet: DESERTA
+Moon: DESERTA
 Starmap index: 32
 Paris coordinates: 2052848, 1439733, 166578
+Orbits: BROWN ONE
+Moon id: 7
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.266.317

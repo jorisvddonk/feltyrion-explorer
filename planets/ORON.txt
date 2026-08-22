@@ -1,6 +1,8 @@
-Planet: ORON
+Moon: ORON
 Starmap index: 24
 Paris coordinates: 2770352, 4738986, -1565908
+Orbits: EMNAN
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. QUITE

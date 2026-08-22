@@ -1,6 +1,8 @@
-Planet: LOTTERY
+Moon: LOTTERY
 Starmap index: 14
 Paris coordinates: 3779984, 4313464, -58717
+Orbits: LIGHTBURST
+Moon id: 0
 
 Guide entries:
  FELISIAN PLANET AROUND THE 7TH PLANET OF SKYFIRE.

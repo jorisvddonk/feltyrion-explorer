@@ -1,3 +1,5 @@
-Planet: MASHAD
+Moon: MASHAD
 Starmap index: 13
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: GUAERIAN
+Moon id: 4

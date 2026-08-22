@@ -1,6 +1,8 @@
-Planet: ADULARIA
+Moon: ADULARIA
 Starmap index: 20
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID MOON WITH A THIN ATMOSPHERE. FROM SPACE THE OBJECT LOOKS

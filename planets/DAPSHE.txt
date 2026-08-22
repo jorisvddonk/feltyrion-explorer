@@ -1,6 +1,8 @@
-Planet: DAPSHE
+Moon: DAPSHE
 Starmap index: 11
 Paris coordinates: 2090958384, -1967570, -33666
+Orbits: AERUMNIBLE
+Moon id: 2
 
 Guide entries:
 M03/P04 SMALL SOLID DUSTY CRATERIZED WITH LARGE CRATERS, NOT AS             

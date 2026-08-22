@@ -1,6 +1,8 @@
-Planet: VVRASNEBULAE
+Moon: VVRASNEBULAE
 Starmap index: 09
 Paris coordinates: -38647824, 1378929, 31229463
+Orbits: M06-4723 B
+Moon id: 0
 
 Guide entries:
 *BIG* VOLCANO CALDERA AT 200.68;-38.-26

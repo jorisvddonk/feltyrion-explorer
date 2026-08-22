@@ -1,6 +1,8 @@
-Planet: YJUELA
+Moon: YJUELA
 Starmap index: 16
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 12
 
 Guide entries:
 M13/P03 MEDIUM SIZE, HOT, UNSTABLE, BROWN WITH YELLOW GLOW. PRO 0.124.      

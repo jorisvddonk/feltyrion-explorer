@@ -1,6 +1,8 @@
-Planet: JNAA
+Moon: JNAA
 Starmap index: 05
 Paris coordinates: 2141033520, -2063295, 879601
+Orbits: POJDUO
+Moon id: 1
 
 Guide entries:
 M02/P03 SMALL DUSTY COVERED WITH LARGE CRATERS WITH RAYS. HAS A LIGHT       

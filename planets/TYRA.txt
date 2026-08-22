@@ -1,6 +1,8 @@
-Planet: TYRA
+Moon: TYRA
 Starmap index: 14
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 9
 
 Guide entries:
  DARK BLUE SURFACE AND SKY, VERY THICK CLOUDS AND ATMO.

@@ -1,6 +1,8 @@
-Planet: AGEI
+Moon: AGEI
 Starmap index: 16
 Paris coordinates: 4142128, 4582625, -648170
+Orbits: HABDOCO
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. THIS COULD

@@ -1,3 +1,5 @@
-Planet: LOEX
+Moon: LOEX
 Starmap index: 20
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: LUEB
+Moon id: 12

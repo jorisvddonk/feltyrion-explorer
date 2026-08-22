@@ -1,6 +1,8 @@
-Planet: CAIR
+Moon: CAIR
 Starmap index: 11
 Paris coordinates: 4831408, 4803641, -36528
+Orbits: DISES
+Moon id: 6
 
 Guide entries:
 ICY GREEN MOON OF FOURTH PLANET OF CISCOSIS SYSTEM.

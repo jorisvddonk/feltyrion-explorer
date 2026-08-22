@@ -1,6 +1,8 @@
-Planet: GRADYRIA 4.2
+Moon: GRADYRIA 4.2
 Starmap index: 13
 Paris coordinates: 4990704, 5477580, -2586619
+Orbits: GRADYRIA 4
+Moon id: 5
 
 Guide entries:
  THE SECOUND PLANET AROUND THE GRADYRIA 4 STAR. STRANGE PURPLE

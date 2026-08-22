@@ -1,6 +1,8 @@
-Planet: TAURE
+Moon: TAURE
 Starmap index: 13
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: GEIGAS
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

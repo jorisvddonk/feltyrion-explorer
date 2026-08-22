@@ -1,3 +1,5 @@
-Planet: INDIAN RED
+Moon: INDIAN RED
 Starmap index: 57
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: WHITE
+Moon id: 5

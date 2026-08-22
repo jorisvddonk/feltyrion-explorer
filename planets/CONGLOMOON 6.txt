@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 6
+Moon: CONGLOMOON 6
 Starmap index: 12
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 6
 
 Guide entries:
 ANOTHER RUN OF THE MILL GRAY/GREEN DESOLATE MOON.

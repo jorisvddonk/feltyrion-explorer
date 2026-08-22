@@ -1,3 +1,5 @@
-Planet: URION
+Moon: URION
 Starmap index: 08
 Paris coordinates: -2295312, 5285616, -8018997
+Orbits: BRENNOR
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: ANOPIS
+Moon: ANOPIS
 Starmap index: 10
 Paris coordinates: 634309520, -10801615, 49308989
+Orbits: AFHNYM
+Moon id: 1
 
 Guide entries:
 M02/P05 SMALL, THIN ATMOSPHERE, GREEN REFLECTIVITY, GOOD POLAR CAPS,        

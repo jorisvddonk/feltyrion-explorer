@@ -1,6 +1,8 @@
-Planet: ENGLISH PRINCESS
+Moon: ENGLISH PRINCESS
 Starmap index: 04
 Paris coordinates: 501424, 261296, 648165
+Orbits: TEDOGA
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE COMPANION STAR TEDOGA

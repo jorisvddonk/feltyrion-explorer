@@ -1,6 +1,8 @@
-Planet: INCITE
+Moon: INCITE
 Starmap index: 13
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. FAIRLY REFLECTIVE

@@ -1,3 +1,5 @@
-Planet: OASTAR SECPRIMUS
+Moon: OASTAR SECPRIMUS
 Starmap index: 04
 Paris coordinates: 2147116240, 581198, 1910352254
+Orbits: OASTAR TRIACUS
+Moon id: 0

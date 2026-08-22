@@ -1,6 +1,8 @@
-Planet: SPEKULAIT
+Moon: SPEKULAIT
 Starmap index: 09
 Paris coordinates: 732496, 221830, 329207
+Orbits: HASKEN
+Moon id: 0
 
 Guide entries:
 DRY MOON. NOT TOO MUCH FUN, BUT INTERESTING.

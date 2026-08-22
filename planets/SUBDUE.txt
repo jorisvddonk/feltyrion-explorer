@@ -1,6 +1,8 @@
-Planet: SUBDUE
+Moon: SUBDUE
 Starmap index: 16
 Paris coordinates: 74288, 47959, -394282
+Orbits: KRO
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SUBDUED REFLECTIVITY

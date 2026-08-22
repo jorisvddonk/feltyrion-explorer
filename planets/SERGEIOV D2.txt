@@ -1,3 +1,5 @@
-Planet: SERGEIOV D2
+Moon: SERGEIOV D2
 Starmap index: 23
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV D
+Moon id: 1

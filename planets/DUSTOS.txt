@@ -1,3 +1,5 @@
-Planet: DUSTOS
+Moon: DUSTOS
 Starmap index: 26
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: planet index 13
+Moon id: 4

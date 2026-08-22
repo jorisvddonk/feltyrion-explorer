@@ -1,3 +1,5 @@
-Planet: EM
+Moon: EM
 Starmap index: 29
 Paris coordinates: 3652848, 3940609, -1420373
+Orbits: planet index 05
+Moon id: 0

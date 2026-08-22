@@ -1,6 +1,8 @@
-Planet: CABLE
+Moon: CABLE
 Starmap index: 22
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

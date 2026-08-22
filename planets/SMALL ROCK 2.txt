@@ -1,3 +1,5 @@
-Planet: SMALL ROCK 2
+Moon: SMALL ROCK 2
 Starmap index: 14
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: BARRENEY
+Moon id: 1

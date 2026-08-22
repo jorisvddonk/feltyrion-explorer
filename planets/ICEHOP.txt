@@ -1,6 +1,8 @@
-Planet: ICEHOP
+Moon: ICEHOP
 Starmap index: 28
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM B
+Moon id: 18
 
 Guide entries:
  (SKYGEM B19) THIS PLANET IS FRIGID, FROZEN EVEN AT THE EQUATOR.

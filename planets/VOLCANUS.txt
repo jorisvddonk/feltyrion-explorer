@@ -1,6 +1,8 @@
-Planet: VOLCANUS
+Moon: VOLCANUS
 Starmap index: 06
 Paris coordinates: 174288, 1144389, -683630
+Orbits: FLARA
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY BJS EPOC 6011 583.719

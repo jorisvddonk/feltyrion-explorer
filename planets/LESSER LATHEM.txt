@@ -1,3 +1,5 @@
-Planet: LESSER LATHEM
+Moon: LESSER LATHEM
 Starmap index: 12
 Paris coordinates: 2935344, 4530986, 217285
+Orbits: LATHEM
+Moon id: 0

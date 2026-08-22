@@ -1,3 +1,5 @@
-Planet: MEILINIAS
+Moon: MEILINIAS
 Starmap index: 24
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: MESSAGE BEARER
+Moon id: 7

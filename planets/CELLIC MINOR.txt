@@ -1,3 +1,5 @@
-Planet: CELLIC MINOR
+Moon: CELLIC MINOR
 Starmap index: 13
 Paris coordinates: 2935344, 4530986, 217285
+Orbits: CELLIC MAJOR
+Moon id: 0

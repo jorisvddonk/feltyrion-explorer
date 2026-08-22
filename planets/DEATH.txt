@@ -1,3 +1,5 @@
-Planet: DEATH
+Moon: DEATH
 Starmap index: 15
 Paris coordinates: 43216, 394196, -236960
+Orbits: SMARAG
+Moon id: 8

@@ -1,3 +1,5 @@
-Planet: DRIED MOSS
+Moon: DRIED MOSS
 Starmap index: 12
 Paris coordinates: -71893136, -756602, 53977080
+Orbits: BLUE CORAL
+Moon id: 1

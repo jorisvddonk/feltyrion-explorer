@@ -1,6 +1,8 @@
-Planet: CALIGURI
+Moon: CALIGURI
 Starmap index: 27
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 2
 
 Guide entries:
 UPDATE: MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. A COUPLE OF NICE

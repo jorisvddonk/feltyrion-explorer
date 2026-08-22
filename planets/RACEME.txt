@@ -1,6 +1,8 @@
-Planet: RACEME
+Moon: RACEME
 Starmap index: 34
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: OXALIS
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

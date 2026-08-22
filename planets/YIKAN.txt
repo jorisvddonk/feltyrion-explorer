@@ -1,6 +1,8 @@
-Planet: YIKAN
+Moon: YIKAN
 Starmap index: 08
 Paris coordinates: 3507120, 4994985, 1808677
+Orbits: KINAY
+Moon id: 0
 
 Guide entries:
 THIS MOON HAS *LARGE* CRATERS.

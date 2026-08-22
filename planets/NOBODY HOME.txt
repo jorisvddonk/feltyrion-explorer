@@ -1,3 +1,5 @@
-Planet: NOBODY HOME
+Moon: NOBODY HOME
 Starmap index: 19
 Paris coordinates: 8067088, 6822211, 4701176
+Orbits: SECOND SUN
+Moon id: 15

@@ -1,3 +1,5 @@
-Planet: LASTRADA
+Moon: LASTRADA
 Starmap index: 07
 Paris coordinates: 270352, 5086437, 857022
+Orbits: DARTMOR
+Moon id: 1

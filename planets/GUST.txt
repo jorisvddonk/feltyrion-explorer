@@ -1,3 +1,5 @@
-Planet: GUST
+Moon: GUST
 Starmap index: 45
 Paris coordinates: 377136, 935675, 1401841
+Orbits: planet index 04
+Moon id: 15

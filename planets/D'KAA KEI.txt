@@ -1,3 +1,5 @@
-Planet: D'KAA KEI
+Moon: D'KAA KEI
 Starmap index: 27
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 12
+Moon id: 4

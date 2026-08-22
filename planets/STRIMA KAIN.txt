@@ -1,3 +1,5 @@
-Planet: STRIMA KAIN
+Moon: STRIMA KAIN
 Starmap index: 07
 Paris coordinates: 5436432, 8345927, -6073742
+Orbits: STRIMA 3
+Moon id: 2

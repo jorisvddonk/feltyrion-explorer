@@ -1,6 +1,8 @@
-Planet: MERCOA
+Moon: MERCOA
 Starmap index: 06
 Paris coordinates: 4917840, 6092172, -924761
+Orbits: LOSAY
+Moon id: 0
 
 Guide entries:
  A FELISAN MOON ORBITING THE THIRD PLANET IN THE NEW LIGHT SYSTEM.

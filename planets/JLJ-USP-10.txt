@@ -1,6 +1,8 @@
-Planet: JLJ-USP-10
+Moon: JLJ-USP-10
 Starmap index: 29
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-GGP-8
+Moon id: 7
 
 Guide entries:
 (U)N(S)TABLE (P)LANET, UNABLE TO LAND ON!

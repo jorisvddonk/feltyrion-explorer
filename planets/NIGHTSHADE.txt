@@ -1,3 +1,5 @@
-Planet: NIGHTSHADE
+Moon: NIGHTSHADE
 Starmap index: 15
 Paris coordinates: 5190704, 5528316, -2752182
+Orbits: VENOM
+Moon id: 6

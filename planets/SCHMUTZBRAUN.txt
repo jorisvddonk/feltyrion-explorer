@@ -1,3 +1,5 @@
-Planet: SCHMUTZBRAUN
+Moon: SCHMUTZBRAUN
 Starmap index: 09
 Paris coordinates: -1604272, 7386891, -1484699
+Orbits: MING GAMMA
+Moon id: 3

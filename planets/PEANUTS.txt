@@ -1,6 +1,8 @@
-Planet: PEANUTS
+Moon: PEANUTS
 Starmap index: 05
 Paris coordinates: 118928, -45237, 83832
+Orbits: CHOCOLATE SUNDAE
+Moon id: 0
 
 Guide entries:
 CLOUD-COVERED MOON OF CHOCOLATE SUNDAE ON EKA69. --EKA

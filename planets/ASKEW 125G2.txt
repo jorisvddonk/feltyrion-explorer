@@ -1,3 +1,5 @@
-Planet: ASKEW 125G2
+Moon: ASKEW 125G2
 Starmap index: 24
 Paris coordinates: 4972784, -14963659, 11837379
+Orbits: ASKEW 125G
+Moon id: 1

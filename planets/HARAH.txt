@@ -1,3 +1,5 @@
-Planet: HARAH
+Moon: HARAH
 Starmap index: 04
 Paris coordinates: 2498576, 5228726, -3505735
+Orbits: RAYA
+Moon id: 0

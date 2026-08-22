@@ -1,6 +1,8 @@
-Planet: POPSORG
+Moon: POPSORG
 Starmap index: 13
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 7
 
 Guide entries:
 THE EIGHTH MOON OF THE THIRD PLANET. ROCKY PLANET OF ORANGE COLOR.

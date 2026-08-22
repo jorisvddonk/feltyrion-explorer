@@ -1,3 +1,5 @@
-Planet: NJAART
+Moon: NJAART
 Starmap index: 11
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: ULKU
+Moon id: 0

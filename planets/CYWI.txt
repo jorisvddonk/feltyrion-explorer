@@ -1,6 +1,8 @@
-Planet: CYWI
+Moon: CYWI
 Starmap index: 08
 Paris coordinates: 5009808, 4830465, 39078705
+Orbits: BIYOUNG B
+Moon id: 3
 
 Guide entries:
 AN AVERAGE ROCKY PLANET ORBITING THE SECOND STAR. COLORS RANGE FROM

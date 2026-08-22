@@ -1,6 +1,8 @@
-Planet: OBSERVATION ROOM
+Moon: OBSERVATION ROOM
 Starmap index: 19
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 12
 
 Guide entries:
 A FELISIAN WORLD- YES, OUT HERE. AT 357.61 IT WAS COLD, FLAT

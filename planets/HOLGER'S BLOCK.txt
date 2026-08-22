@@ -1,3 +1,5 @@
-Planet: HOLGER'S BLOCK
+Moon: HOLGER'S BLOCK
 Starmap index: 19
 Paris coordinates: -701424, 293517, -259154
+Orbits: GYGES
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: GRAVIS
+Moon: GRAVIS
 Starmap index: 24
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAPS VISIBLE.

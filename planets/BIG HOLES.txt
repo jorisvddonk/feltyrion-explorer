@@ -1,6 +1,8 @@
-Planet: BIG HOLES
+Moon: BIG HOLES
 Starmap index: 04
 Paris coordinates: 5393552, 5166013, -832123
+Orbits: EPISODE IV
+Moon id: 0
 
 Guide entries:
 BLADE TRAIN3R 6011 705.171                                                  

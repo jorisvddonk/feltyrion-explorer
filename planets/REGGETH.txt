@@ -1,6 +1,8 @@
-Planet: REGGETH
+Moon: REGGETH
 Starmap index: 27
 Paris coordinates: 3952848, 4679972, -1872131
+Orbits: FALSHE
+Moon id: 15
 
 Guide entries:
  HABITABLE. ONLY PLANT LIFE SIGHTED AS OF FIRST SURVEY.

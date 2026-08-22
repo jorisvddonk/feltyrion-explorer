@@ -1,6 +1,8 @@
-Planet: FORTIS
+Moon: FORTIS
 Starmap index: 32
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 18
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. LARGE DEEP CRATER AND SOME

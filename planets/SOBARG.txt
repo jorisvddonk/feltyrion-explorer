@@ -1,6 +1,8 @@
-Planet: SOBARG
+Moon: SOBARG
 Starmap index: 23
 Paris coordinates: -2512, 333266, 2788927
+Orbits: RUKEND
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, BROWN

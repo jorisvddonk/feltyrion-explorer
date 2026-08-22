@@ -1,6 +1,8 @@
-Planet: CROSSED RINGS
+Moon: CROSSED RINGS
 Starmap index: 70
 Paris coordinates: 4059632, 4388757, -1624134
+Orbits: OBELISK III
+Moon id: 0
 
 Guide entries:
 LOOK AT THE CRATERS ON THE SURFACE AND YOU'LL KNOW

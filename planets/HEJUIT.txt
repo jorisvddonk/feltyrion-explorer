@@ -1,6 +1,8 @@
-Planet: HEJUIT
+Moon: HEJUIT
 Starmap index: 25
 Paris coordinates: -1532496, -973713, 623217
+Orbits: WRETEB
+Moon id: 1
 
 Guide entries:
 PURPLE WITH HEAVY CLOUD COVER, UNLANDABLE.

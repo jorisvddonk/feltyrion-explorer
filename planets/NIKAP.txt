@@ -1,6 +1,8 @@
-Planet: NIKAP
+Moon: NIKAP
 Starmap index: 16
 Paris coordinates: 5169264, 4083567, -202229
+Orbits: WYSITH
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MILDLY REFLECTIVE WITH A

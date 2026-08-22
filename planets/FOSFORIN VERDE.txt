@@ -1,6 +1,8 @@
-Planet: FOSFORIN VERDE
+Moon: FOSFORIN VERDE
 Starmap index: 21
 Paris coordinates: 2935344, 4630986, 272990
+Orbits: VIRIDIANA
+Moon id: 3
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.918 -                               

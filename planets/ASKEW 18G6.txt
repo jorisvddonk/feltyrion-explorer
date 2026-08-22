@@ -1,3 +1,5 @@
-Planet: ASKEW 18G6
+Moon: ASKEW 18G6
 Starmap index: 34
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASKEW 18G
+Moon id: 5

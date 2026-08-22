@@ -1,6 +1,8 @@
-Planet: LEOPOLD3-3
+Moon: LEOPOLD3-3
 Starmap index: 07
 Paris coordinates: -29648, -1258023, 1474796
+Orbits: LEOPOLD3
+Moon id: 2
 
 Guide entries:
 SMALL, NO ATMOSPHERE AND CRATERISED.

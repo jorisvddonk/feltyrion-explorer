@@ -1,6 +1,8 @@
-Planet: CHESSY
+Moon: CHESSY
 Starmap index: 39
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: BROQARTZ
+Moon id: 2
 
 Guide entries:
 LOOKS NICE FROM SPACE, UNINTERESTING SURFACE.

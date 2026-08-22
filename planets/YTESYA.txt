@@ -1,6 +1,8 @@
-Planet: YTESYA
+Moon: YTESYA
 Starmap index: 06
 Paris coordinates: 2052562480, 532725, 204773
+Orbits: ODFHNOJAME
+Moon id: 1
 
 Guide entries:
 M02/P03 MEDIUM SZIE, THICK ATMO, CLOUD COVER TURBID AND RED WITH            

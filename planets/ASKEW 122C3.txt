@@ -1,3 +1,5 @@
-Planet: ASKEW 122C3
+Moon: ASKEW 122C3
 Starmap index: 09
 Paris coordinates: 3694224, -13771781, 10524077
+Orbits: ASKEW 122C
+Moon id: 2

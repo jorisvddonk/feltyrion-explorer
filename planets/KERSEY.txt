@@ -1,6 +1,8 @@
-Planet: KERSEY
+Moon: KERSEY
 Starmap index: 38
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARK AND DUSTY LOOKING WITH

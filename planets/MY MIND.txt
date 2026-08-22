@@ -1,3 +1,5 @@
-Planet: MY MIND
+Moon: MY MIND
 Starmap index: 06
 Paris coordinates: -60819024, 30074513, 831429
+Orbits: IWANNADIE
+Moon id: 1

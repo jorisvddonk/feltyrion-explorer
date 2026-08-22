@@ -1,6 +1,8 @@
-Planet: THIRST
+Moon: THIRST
 Starmap index: 28
 Paris coordinates: 156784, -15042, 351717
+Orbits: ODD
+Moon id: 7
 
 Guide entries:
 A FELISIAN MOON OF 'ODD' ON EKA75. VERY LITTLE WATER; JUST A FEW LAKES.

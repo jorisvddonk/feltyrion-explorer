@@ -1,6 +1,8 @@
-Planet: CANDEEN
+Moon: CANDEEN
 Starmap index: 13
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 2
 
 Guide entries:
 DUSTY MOON, THE THIRD OF THE FOURTH PLANET. VERY BRIGHT. COLORS RANGE

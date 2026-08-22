@@ -1,6 +1,8 @@
-Planet: SERPENTINE 6.1
+Moon: SERPENTINE 6.1
 Starmap index: 20
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 6
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, THICK ATMOSPHERE, COVERED BY PURPLE AND PINK

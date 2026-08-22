@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 7
+Moon: CONGLOMOON 7
 Starmap index: 06
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 0
 
 Guide entries:
 DUSTY PURPLE, ALSO HAS 'TUNDRA CAPS'. HAVE DECIDED TO LAND.

@@ -1,6 +1,8 @@
-Planet: AJAUR
+Moon: AJAUR
 Starmap index: 22
 Paris coordinates: 2973200, 4320580, 267849
+Orbits: YOLPH
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATE BROWN

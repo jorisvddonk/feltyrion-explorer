@@ -1,3 +1,5 @@
-Planet: MOTHER OF ALL
+Moon: MOTHER OF ALL
 Starmap index: 07
 Paris coordinates: 4304272, 4864874, -1110519
+Orbits: JUNIOR SIBLING
+Moon id: 1

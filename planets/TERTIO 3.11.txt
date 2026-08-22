@@ -1,6 +1,8 @@
-Planet: TERTIO 3.11
+Moon: TERTIO 3.11
 Starmap index: 16
 Paris coordinates: 11828560, -4640891, -9107608
+Orbits: TERTIO 3
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. NOT QUITE INTERESTING

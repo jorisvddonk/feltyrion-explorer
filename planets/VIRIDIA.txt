@@ -1,6 +1,8 @@
-Planet: VIRIDIA
+Moon: VIRIDIA
 Starmap index: 05
 Paris coordinates: -2139280, 902299, 1032805
+Orbits: GLOWSTONE
+Moon id: 0
 
 Guide entries:
 DUE TO ITS GREEN SURFACE, THIS MOON IS AN EXAMPLE OF THE PRETTIER VARIETY

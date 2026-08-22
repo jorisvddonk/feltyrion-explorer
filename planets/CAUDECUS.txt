@@ -1,6 +1,8 @@
-Planet: CAUDECUS
+Moon: CAUDECUS
 Starmap index: 64
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: SAG
+Moon id: 9
 
 Guide entries:
 A FELISIAN WORLD-AT 347.59 IT WAS NICELY FORESTED, WITH A BIRD

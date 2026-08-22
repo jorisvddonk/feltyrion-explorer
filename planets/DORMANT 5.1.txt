@@ -1,6 +1,8 @@
-Planet: DORMANT 5.1
+Moon: DORMANT 5.1
 Starmap index: 15
 Paris coordinates: -3013904, 10333783, -2573808
+Orbits: DORMANT 5
+Moon id: 1
 
 Guide entries:
  YET ANOTHER MOON WITH THIN ATMOSPHERE AND DUSTY SURFACE.

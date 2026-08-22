@@ -1,3 +1,5 @@
-Planet: ASKEW 199A2
+Moon: ASKEW 199A2
 Starmap index: 03
 Paris coordinates: 5226384, -2258277, 5152754
+Orbits: ASKEW 199A
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: VRONIM
+Moon: VRONIM
 Starmap index: 10
 Paris coordinates: 218928, 169094, -26787
+Orbits: CUB'S NURSERY
+Moon id: 0

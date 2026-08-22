@@ -1,3 +1,5 @@
-Planet: OPANISHAD
+Moon: OPANISHAD
 Starmap index: 20
 Paris coordinates: 270352, 5086437, 857022
+Orbits: KRIOS
+Moon id: 0

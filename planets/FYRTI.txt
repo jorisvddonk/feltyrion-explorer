@@ -1,3 +1,5 @@
-Planet: FYRTI
+Moon: FYRTI
 Starmap index: 09
 Paris coordinates: -31046256, -20000567, -499915367
+Orbits: PFYR
+Moon id: 0

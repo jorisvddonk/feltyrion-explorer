@@ -1,6 +1,8 @@
-Planet: LINCOLN
+Moon: LINCOLN
 Starmap index: 11
 Paris coordinates: 501424, 261296, 648165
+Orbits: RUFUSA
+Moon id: 6
 
 Guide entries:
 7TH MOON OF THE PLANET RUFUSA - THIN ATMOSPHERE

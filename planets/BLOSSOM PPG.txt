@@ -1,6 +1,8 @@
-Planet: BLOSSOM PPG
+Moon: BLOSSOM PPG
 Starmap index: 13
 Paris coordinates: -1066416, 281721, -1728727
+Orbits: UTONIUM
+Moon id: 7
 
 Guide entries:
 MOON 8 OF PLANET 3 IN POWERPUFF SYSTEM. FELISIAN.

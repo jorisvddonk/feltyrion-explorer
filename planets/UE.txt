@@ -1,3 +1,5 @@
-Planet: UE
+Moon: UE
 Starmap index: 11
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: OMAX
+Moon id: 1

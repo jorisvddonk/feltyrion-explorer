@@ -1,6 +1,8 @@
-Planet: MANT
+Moon: MANT
 Starmap index: 76
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATELY REFLECTIVE WITH SOME

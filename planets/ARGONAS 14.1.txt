@@ -1,6 +1,8 @@
-Planet: ARGONAS 14.1
+Moon: ARGONAS 14.1
 Starmap index: 47
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 14
+Moon id: 0
 
 Guide entries:
  A MEDIUM SIZED WORLD, SOLID, FULLY COVERED BY CLOUDS.

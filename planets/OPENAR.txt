@@ -1,3 +1,5 @@
-Planet: OPENAR
+Moon: OPENAR
 Starmap index: 29
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: LATERZ
+Moon id: 18

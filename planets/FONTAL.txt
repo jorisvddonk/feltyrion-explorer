@@ -1,6 +1,8 @@
-Planet: FONTAL
+Moon: FONTAL
 Starmap index: 31
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXCEEDINGLY DARK, MODERATE POLAR CAPS.

@@ -1,3 +1,5 @@
-Planet: NOT 19
+Moon: NOT 19
 Starmap index: 34
 Paris coordinates: 70352, 945533, 1134813
+Orbits: TRILAR
+Moon id: 18

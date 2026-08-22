@@ -1,6 +1,8 @@
-Planet: GRIAC
+Moon: GRIAC
 Starmap index: 58
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GREYISH BLUE REFLECTIVITY WITH

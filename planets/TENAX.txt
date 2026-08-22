@@ -1,6 +1,8 @@
-Planet: TENAX
+Moon: TENAX
 Starmap index: 27
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: BRASSAR
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE REFLECTIVE WITH PURPLE

@@ -1,6 +1,8 @@
-Planet: VERRUCA
+Moon: VERRUCA
 Starmap index: 25
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: FOLLICLE
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS

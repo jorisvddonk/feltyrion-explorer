@@ -1,3 +1,5 @@
-Planet: VLANDUS NUELLOS PRIL
+Moon: VLANDUS NUELLOS PRIL
 Starmap index: 43
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS NUELLOS
+Moon id: 0

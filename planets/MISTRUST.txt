@@ -1,6 +1,8 @@
-Planet: MISTRUST
+Moon: MISTRUST
 Starmap index: 19
 Paris coordinates: -461808, 50208, 5718934
+Orbits: COBEL
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. IT CAN

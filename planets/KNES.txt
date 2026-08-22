@@ -1,3 +1,5 @@
-Planet: KNES
+Moon: KNES
 Starmap index: 11
 Paris coordinates: 759632, -29653883, 1894601
+Orbits: XURGEL
+Moon id: 0

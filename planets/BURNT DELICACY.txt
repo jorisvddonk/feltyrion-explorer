@@ -1,6 +1,8 @@
-Planet: BURNT DELICACY
+Moon: BURNT DELICACY
 Starmap index: 14
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 8
 
 Guide entries:
 THIN-ATMOSPHERE MOON OF 'HOT OVEN' ON EKA40. LOOKS LIKE IT'S

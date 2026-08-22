@@ -1,6 +1,8 @@
-Planet: EMBHE
+Moon: EMBHE
 Starmap index: 27
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 11
 
 Guide entries:
 M12/P07 MEDIUM SIZE ROCKY CREASED. DULL GREY WITH LARGE CRATERS AND         

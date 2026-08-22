@@ -1,6 +1,8 @@
-Planet: ATERYCE
+Moon: ATERYCE
 Starmap index: 56
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. FAIRLY REFLECTIVE

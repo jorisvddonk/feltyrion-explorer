@@ -1,6 +1,8 @@
-Planet: PLUM
+Moon: PLUM
 Starmap index: 17
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 0
 
 Guide entries:
 FIRST MOON OF FAT VIOLET

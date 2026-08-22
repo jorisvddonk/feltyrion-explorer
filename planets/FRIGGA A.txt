@@ -1,6 +1,8 @@
-Planet: FRIGGA A
+Moon: FRIGGA A
 Starmap index: 28
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOW REFLECTIVEITY AND

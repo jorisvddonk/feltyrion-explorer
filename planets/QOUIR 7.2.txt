@@ -1,6 +1,8 @@
-Planet: QOUIR 7.2
+Moon: QOUIR 7.2
 Starmap index: 15
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 1
 
 Guide entries:
  A SMALL PLANETOID WITH A RATHER THIN ATMOSPHERE. GOOD POLAR

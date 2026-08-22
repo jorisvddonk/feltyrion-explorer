@@ -1,6 +1,8 @@
-Planet: UMELE
+Moon: UMELE
 Starmap index: 48
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED WITH CLOUDS. VERY

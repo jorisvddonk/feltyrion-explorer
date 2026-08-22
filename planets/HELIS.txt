@@ -1,3 +1,5 @@
-Planet: HELIS
+Moon: HELIS
 Starmap index: 71
 Paris coordinates: 11558800, -19461295, 17911789
+Orbits: ASKEW 30I
+Moon id: 16

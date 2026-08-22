@@ -1,6 +1,8 @@
-Planet: MILDEN
+Moon: MILDEN
 Starmap index: 23
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: ROSE
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NICE DEEP CRATERS AWAIT

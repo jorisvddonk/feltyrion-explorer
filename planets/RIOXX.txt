@@ -1,6 +1,8 @@
-Planet: RIOXX
+Moon: RIOXX
 Starmap index: 30
 Paris coordinates: -118928, 136846, 52177
+Orbits: NEMOS CHOLOREM
+Moon id: 0
 
 Guide entries:
 A HELLWORLD MOON. (SCHMERM 6011 582.600)

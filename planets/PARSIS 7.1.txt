@@ -1,6 +1,8 @@
-Planet: PARSIS 7.1
+Moon: PARSIS 7.1
 Starmap index: 18
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 7
+Moon id: 0
 
 Guide entries:
  THE NEAREST MOON TO PARSIS 7 IS A WORLD MUCH LIKE GANYMEDE OR LUNA

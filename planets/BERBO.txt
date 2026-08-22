@@ -1,6 +1,8 @@
-Planet: BERBO
+Moon: BERBO
 Starmap index: 42
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. HAS A FAIR PURPLE

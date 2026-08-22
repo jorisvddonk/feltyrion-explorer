@@ -1,6 +1,8 @@
-Planet: FARADAR E
+Moon: FARADAR E
 Starmap index: 11
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 4
 
 Guide entries:
 A YELLOW-BROWN HELLWORLD. (SCHMERM 6011 584.161)

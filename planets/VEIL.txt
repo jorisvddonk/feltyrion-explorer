@@ -1,6 +1,8 @@
-Planet: VEIL
+Moon: VEIL
 Starmap index: 23
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: DIRTY ROCK
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, BARELY VISIBLE

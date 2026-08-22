@@ -1,6 +1,8 @@
-Planet: RAVEIL
+Moon: RAVEIL
 Starmap index: 08
 Paris coordinates: 2029875792, -1775088, 340992
+Orbits: CUBYAS
+Moon id: 0
 
 Guide entries:
 M01/P06 MEDIUM SIZE, UNSTABLE, INTERNALLY HOT, HAS A NICE YELLOW PALLOR     

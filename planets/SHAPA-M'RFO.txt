@@ -1,3 +1,5 @@
-Planet: SHAPA-M'RFO
+Moon: SHAPA-M'RFO
 Starmap index: 16
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: ATRIGA KOMAJUL
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: CAIMON
+Moon: CAIMON
 Starmap index: 13
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 7
 
 Guide entries:
 BRIGHT GREEN QUARTZ MOON OF 'HOT OVEN' ON EKA40. VERY SHINY,

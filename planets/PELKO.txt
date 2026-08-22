@@ -1,3 +1,5 @@
-Planet: PELKO
+Moon: PELKO
 Starmap index: 27
 Paris coordinates: 4097488, 5032993, -1271647
+Orbits: HARMUS
+Moon id: 0

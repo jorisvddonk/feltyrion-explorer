@@ -1,6 +1,8 @@
-Planet: TOS 7.2
+Moon: TOS 7.2
 Starmap index: 14
 Paris coordinates: 4373200, 5223248, -1089557
+Orbits: TOS 7
+Moon id: 0
 
 Guide entries:
  A VULCANIC WORLD WITH UNSTABLE SURFACE.

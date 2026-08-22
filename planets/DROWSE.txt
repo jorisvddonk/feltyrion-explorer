@@ -1,6 +1,8 @@
-Planet: DROWSE
+Moon: DROWSE
 Starmap index: 09
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: DREAMSCAPE
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SOME LARGE CRATERS.

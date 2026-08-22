@@ -1,6 +1,8 @@
-Planet: SERPENTINE 5.3
+Moon: SERPENTINE 5.3
 Starmap index: 19
 Paris coordinates: 218928, 369094, -5434
+Orbits: SERPENTINE 5
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, NO ATMOSPHERE, PINK TO PURPLE COLOUR,

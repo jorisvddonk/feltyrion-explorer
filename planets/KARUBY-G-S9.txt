@@ -1,3 +1,5 @@
-Planet: KARUBY-G-S9
+Moon: KARUBY-G-S9
 Starmap index: 23
 Paris coordinates: 264656, 434473, -3302103
+Orbits: KARUBY-G
+Moon id: 8

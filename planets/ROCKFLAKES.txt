@@ -1,6 +1,8 @@
-Planet: ROCKFLAKES
+Moon: ROCKFLAKES
 Starmap index: 25
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: TWIN OCULI
+Moon id: 1
 
 Guide entries:
 (TYPICAL)SMALL, DUSTY OBJECT. NAMED AND DISCOVERED BY RYAN GJK              

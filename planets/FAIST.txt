@@ -1,3 +1,5 @@
-Planet: FAIST
+Moon: FAIST
 Starmap index: 24
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: LONORIS
+Moon id: 0

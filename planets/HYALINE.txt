@@ -1,6 +1,8 @@
-Planet: HYALINE
+Moon: HYALINE
 Starmap index: 10
 Paris coordinates: -25712, -154450, -327558
+Orbits: VERITY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A MOSTLY DUSTY

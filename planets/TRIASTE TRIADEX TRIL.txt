@@ -1,3 +1,5 @@
-Planet: TRIASTE TRIADEX TRIL
+Moon: TRIASTE TRIADEX TRIL
 Starmap index: 50
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE TRIADEX
+Moon id: 2

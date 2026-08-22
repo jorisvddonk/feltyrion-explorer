@@ -1,6 +1,8 @@
-Planet: SLUMBER
+Moon: SLUMBER
 Starmap index: 14
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: DREAMSCAPE
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, FULLY COVERED BY CLOUDS.

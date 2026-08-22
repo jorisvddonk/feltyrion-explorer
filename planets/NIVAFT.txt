@@ -1,6 +1,8 @@
-Planet: NIVAFT
+Moon: NIVAFT
 Starmap index: 11
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, GOOD POLAR CAPS, LIGHT

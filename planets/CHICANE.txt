@@ -1,6 +1,8 @@
-Planet: CHICANE
+Moon: CHICANE
 Starmap index: 09
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, NOT VERY DARK, A RING AREA IN SOUTH,

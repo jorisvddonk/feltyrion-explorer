@@ -1,3 +1,5 @@
-Planet: FELYRATIS
+Moon: FELYRATIS
 Starmap index: 33
 Paris coordinates: -61125808, 29740310, 724290
+Orbits: BIGGREYTHING
+Moon id: 3

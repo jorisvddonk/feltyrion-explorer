@@ -1,6 +1,8 @@
-Planet: TERRAMONT
+Moon: TERRAMONT
 Starmap index: 14
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: SWIRLING MIST
+Moon id: 1
 
 Guide entries:
 A MOON FULL OF LIFE WITH AN AVERAGE TEMERATURE OF 13C. MODERATE RAIN

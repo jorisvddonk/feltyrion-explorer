@@ -1,6 +1,8 @@
-Planet: FACULAE
+Moon: FACULAE
 Starmap index: 37
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: NEEP
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

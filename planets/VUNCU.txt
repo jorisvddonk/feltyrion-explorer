@@ -1,6 +1,8 @@
-Planet: VUNCU
+Moon: VUNCU
 Starmap index: 15
 Paris coordinates: 3866416, 4813508, -735695
+Orbits: SORGHUM FEMALE
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. CRATERED WITH SCARRING.

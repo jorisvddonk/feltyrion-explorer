@@ -1,3 +1,5 @@
-Planet: NIMBUS
+Moon: NIMBUS
 Starmap index: 52
 Paris coordinates: 4059632, 4388757, -1624134
+Orbits: SPARKLES
+Moon id: 14

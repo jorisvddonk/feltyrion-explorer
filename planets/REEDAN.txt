@@ -1,6 +1,8 @@
-Planet: REEDAN
+Moon: REEDAN
 Starmap index: 30
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 0
 
 Guide entries:
  (SKYGEM C1) A FELYISAN PLANEY. TEST LANDINGS SHOW NOTHING UNUSUAL.

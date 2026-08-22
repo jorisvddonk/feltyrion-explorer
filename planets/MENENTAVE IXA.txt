@@ -1,6 +1,8 @@
-Planet: MENENTAVE IXA
+Moon: MENENTAVE IXA
 Starmap index: 25
 Paris coordinates: -56784, -84307, -221013
+Orbits: MENENTAVE IX
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DULL AND DUSTY WITH

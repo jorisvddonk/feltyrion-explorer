@@ -1,3 +1,5 @@
-Planet: STEWARD
+Moon: STEWARD
 Starmap index: 19
 Paris coordinates: 446064, 140246, 1406798
+Orbits: MARIK
+Moon id: 6

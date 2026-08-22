@@ -1,6 +1,8 @@
-Planet: GEV
+Moon: GEV
 Starmap index: 18
 Paris coordinates: -221776, 2836740, -1736452
+Orbits: planet index 03
+Moon id: 11
 
 Guide entries:
 BARREN, YET THINGS STILL SURVIVE

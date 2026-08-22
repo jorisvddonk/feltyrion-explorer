@@ -1,3 +1,5 @@
-Planet: NEUROSIS
+Moon: NEUROSIS
 Starmap index: 18
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: SACRATAR
+Moon id: 1

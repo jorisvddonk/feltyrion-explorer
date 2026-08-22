@@ -1,3 +1,5 @@
-Planet: MCGYVER
+Moon: MCGYVER
 Starmap index: 06
 Paris coordinates: 563568, 437608, 261632
+Orbits: ELECTRON
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: COMETIERIS
+Moon: COMETIERIS
 Starmap index: 58
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: GIANTIS
+Moon id: 6

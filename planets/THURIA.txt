@@ -1,6 +1,8 @@
-Planet: THURIA
+Moon: THURIA
 Starmap index: 16
 Paris coordinates: -3539280, 1680833, 2227697
+Orbits: SARI
+Moon id: 5
 
 Guide entries:
 6TH MOON OF 8TH PLANET IN PELLUCIDAR SYSTEM. FELISIAN

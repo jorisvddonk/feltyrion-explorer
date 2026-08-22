@@ -1,6 +1,8 @@
-Planet: CHOICE
+Moon: CHOICE
 Starmap index: 06
 Paris coordinates: 3266416, 4234407, -205776
+Orbits: FATE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGH REFLECTIVITY

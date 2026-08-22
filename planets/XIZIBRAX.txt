@@ -1,3 +1,5 @@
-Planet: XIZIBRAX
+Moon: XIZIBRAX
 Starmap index: 45
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: LAENOEWWIEM
+Moon id: 6

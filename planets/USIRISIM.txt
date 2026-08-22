@@ -1,6 +1,8 @@
-Planet: USIRISIM
+Moon: USIRISIM
 Starmap index: 09
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: EXINANLO
+Moon id: 1
 
 Guide entries:
 M02/P04 THIN ATMO. SOMEWHAT LIGHT REFLECTIVITY WITH SOME LIGHT SPOTS

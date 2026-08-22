@@ -1,6 +1,8 @@
-Planet: TRAPISTE
+Moon: TRAPISTE
 Starmap index: 18
 Paris coordinates: 3635344, 4013073, -545271
+Orbits: planet index 06
+Moon id: 7
 
 Guide entries:
 INITIAL PLANETARY SURVEY HAS REVEALED SOME CREATURES.                       

@@ -1,6 +1,8 @@
-Planet: BARREN MAJESTY
+Moon: BARREN MAJESTY
 Starmap index: 12
 Paris coordinates: 36432, 433110, -621435
+Orbits: DES3
+Moon id: 5
 
 Guide entries:
 THERE IS A STRANGE MAJESTY TO THIS BARREN ROCK MOON

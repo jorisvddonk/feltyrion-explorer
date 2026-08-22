@@ -1,3 +1,5 @@
-Planet: DINIA
+Moon: DINIA
 Starmap index: 38
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: CUSMINO
+Moon id: 0

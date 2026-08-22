@@ -1,3 +1,5 @@
-Planet: SUERUELLUE
+Moon: SUERUELLUE
 Starmap index: 10
 Paris coordinates: 3951760, 5640032, 2112631
+Orbits: BRINXO
+Moon id: 4

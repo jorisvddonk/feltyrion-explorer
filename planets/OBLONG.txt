@@ -1,6 +1,8 @@
-Planet: OBLONG
+Moon: OBLONG
 Starmap index: 49
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: SABULOSE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE,VERY DARK, MODERATE POLAR CAPS. SKINNYMON

@@ -1,6 +1,8 @@
-Planet: BALLON 5.7
+Moon: BALLON 5.7
 Starmap index: 34
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 5
+Moon id: 6
 
 Guide entries:
 MEDIUM-SIZED, SOLID, THICK ATMOSPHERE. GREEN AND, ON THE FIRST              

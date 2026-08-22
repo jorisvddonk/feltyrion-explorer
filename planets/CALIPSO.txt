@@ -1,3 +1,5 @@
-Planet: CALIPSO
+Moon: CALIPSO
 Starmap index: 14
 Paris coordinates: 3066416, 4264474, -181197
+Orbits: STARA ZAGORA
+Moon id: 0

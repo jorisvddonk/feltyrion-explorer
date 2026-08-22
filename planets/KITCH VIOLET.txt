@@ -1,3 +1,5 @@
-Planet: KITCH VIOLET
+Moon: KITCH VIOLET
 Starmap index: 06
 Paris coordinates: 3121776, 4855657, -847391
+Orbits: BENNY MEDIUM
+Moon id: 0

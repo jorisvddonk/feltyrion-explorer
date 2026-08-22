@@ -1,6 +1,8 @@
-Planet: YIEKNA
+Moon: YIEKNA
 Starmap index: 03
 Paris coordinates: -1996709872, 7885, 1308189
+Orbits: BYENTI B
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE FIRST 'PLANET'. A YELLOW SUBSTELLAR OBJECT OF         

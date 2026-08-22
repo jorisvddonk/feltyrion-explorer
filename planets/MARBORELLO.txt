@@ -1,6 +1,8 @@
-Planet: MARBORELLO
+Moon: MARBORELLO
 Starmap index: 30
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 19
 
 Guide entries:
 A GREEN GAS GIANT WITH ONLY A FEW BRIGHT WHITE SPOTS ON ITS CLOUD

@@ -1,6 +1,8 @@
-Planet: CEL BLUTON
+Moon: CEL BLUTON
 Starmap index: 14
 Paris coordinates: 2977136, 4524315, -1356906
+Orbits: MOYSIARI
+Moon id: 2
 
 Guide entries:
  A FLAT SILVERISH MOON                                                      

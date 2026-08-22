@@ -1,6 +1,8 @@
-Planet: IMBROGEN IV-A
+Moon: IMBROGEN IV-A
 Starmap index: 07
 Paris coordinates: 2268592, 5848899, -7008251
+Orbits: IMBROGEN IV
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.632 -                                

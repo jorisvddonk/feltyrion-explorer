@@ -1,6 +1,8 @@
-Planet: DELIRARE
+Moon: DELIRARE
 Starmap index: 22
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. REMINDS ME

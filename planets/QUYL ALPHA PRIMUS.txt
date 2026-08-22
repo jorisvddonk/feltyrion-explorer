@@ -1,3 +1,5 @@
-Planet: QUYL ALPHA PRIMUS
+Moon: QUYL ALPHA PRIMUS
 Starmap index: 03
 Paris coordinates: 2147407344, 2335430, 1001378966
+Orbits: QUYL ALPHA
+Moon id: 0

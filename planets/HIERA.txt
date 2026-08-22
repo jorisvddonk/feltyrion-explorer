@@ -1,6 +1,8 @@
-Planet: HIERA
+Moon: HIERA
 Starmap index: 21
 Paris coordinates: 1975376, 4755210, -6263722
+Orbits: PANOPEA
+Moon id: 0
 
 Guide entries:
 MONSTER PINNACLE AT 80.90 - SIDES ALMOST VERTICAL.

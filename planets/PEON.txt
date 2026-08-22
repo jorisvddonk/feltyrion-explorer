@@ -1,6 +1,8 @@
-Planet: PEON
+Moon: PEON
 Starmap index: 17
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: KINGPIN
+Moon id: 0
 
 Guide entries:
 A GRAY CRATERIZED ORBITING THE MANY-MOONED KINGPIN MINISTAR. --EKA

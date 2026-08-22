@@ -1,6 +1,8 @@
-Planet: BLACK BALL
+Moon: BLACK BALL
 Starmap index: 04
 Paris coordinates: 100336, 5003294, 4841407
+Orbits: BLUESTONE
+Moon id: 0
 
 Guide entries:
 IT'S DARK AND FLAT. THAT'S ALL THERE IS TO IT.

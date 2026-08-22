@@ -1,6 +1,8 @@
-Planet: ALTYWAY
+Moon: ALTYWAY
 Starmap index: 10
 Paris coordinates: 3214992, 4579458, -1223743
+Orbits: ISSINIESI
+Moon id: 1
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. GREYISH AND DARKLY

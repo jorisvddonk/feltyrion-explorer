@@ -1,3 +1,5 @@
-Planet: ANDRAIS QUADREX TRIL
+Moon: ANDRAIS QUADREX TRIL
 Starmap index: 21
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS QUADREX
+Moon id: 2

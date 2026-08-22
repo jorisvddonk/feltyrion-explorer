@@ -1,6 +1,8 @@
-Planet: UNEXPECTED
+Moon: UNEXPECTED
 Starmap index: 26
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: ERNOST
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY

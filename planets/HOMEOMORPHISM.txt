@@ -1,6 +1,8 @@
-Planet: HOMEOMORPHISM
+Moon: HOMEOMORPHISM
 Starmap index: 14
 Paris coordinates: 8898576, -169784, -9929350
+Orbits: FAIENCE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAPS.

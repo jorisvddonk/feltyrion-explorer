@@ -1,6 +1,8 @@
-Planet: UMEMFH
+Moon: UMEMFH
 Starmap index: 33
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ICKUTO
+Moon id: 17
 
 Guide entries:
 M18/P07 MEDIUM SIZE INTERNALLY HOT, UNSTABLE. GLOWING YELLOW WITH A         

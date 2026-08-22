@@ -1,3 +1,5 @@
-Planet: M06-4723 A2
+Moon: M06-4723 A2
 Starmap index: 08
 Paris coordinates: -38647824, 1378929, 31229463
+Orbits: M06-4723 A
+Moon id: 1

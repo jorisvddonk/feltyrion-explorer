@@ -1,6 +1,8 @@
-Planet: LOPOFHR
+Moon: LOPOFHR
 Starmap index: 11
 Paris coordinates: 2029875792, -1775088, 340992
+Orbits: CUBYAS
+Moon id: 3
 
 Guide entries:
 M04/P06 MEDIUM SIZE THICK ATMO, CLOUD COVER TURBIDAND DULL RED WITH         

@@ -1,6 +1,8 @@
-Planet: RUFDAK
+Moon: RUFDAK
 Starmap index: 08
 Paris coordinates: 2090751600, -1867804, -44748
+Orbits: OBNUBLIATUS
+Moon id: 1
 
 Guide entries:
 M02/P03 SMALL SOLID THIN ATMO FAIRLY DARK WITH GOOD POLAR CAPS. PRO 0.      

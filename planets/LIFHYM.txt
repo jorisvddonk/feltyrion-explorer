@@ -1,6 +1,8 @@
-Planet: LIFHYM
+Moon: LIFHYM
 Starmap index: 09
 Paris coordinates: 2060873872, -1780546, 127470
+Orbits: OVERIRFH
+Moon id: 1
 
 Guide entries:
 M02/P04 SMALL SOLID THIN ATMO, FIRLY BRIGHT, GOOD POLAR CAPS, WHAT I        

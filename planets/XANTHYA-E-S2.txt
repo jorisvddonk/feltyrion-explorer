@@ -1,3 +1,5 @@
-Planet: XANTHYA-E-S2
+Moon: XANTHYA-E-S2
 Starmap index: 13
 Paris coordinates: 922864, 3162771, -2336095
+Orbits: XANTHYA-E-FELYS
+Moon id: 1

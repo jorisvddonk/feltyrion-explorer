@@ -1,3 +1,5 @@
-Planet: MARECKT
+Moon: MARECKT
 Starmap index: 17
 Paris coordinates: -370352, 661330, -712610
+Orbits: MENNI MUNE
+Moon id: 8

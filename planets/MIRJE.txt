@@ -1,6 +1,8 @@
-Planet: MIRJE
+Moon: MIRJE
 Starmap index: 04
 Paris coordinates: -21178064, 831929, -13241110
+Orbits: SAKAATEN III
+Moon id: 0
 
 Guide entries:
 SAKAATEN 01/03; CLOUDY

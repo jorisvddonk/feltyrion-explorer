@@ -1,6 +1,8 @@
-Planet: AGYPE
+Moon: AGYPE
 Starmap index: 37
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: ILFHLEJ
+Moon id: 3
 
 Guide entries:
 M04/P08 MEDIUM SIZE THICK ATMO, MAGENTA COLOR WITH LARGE DARK BANDS.        

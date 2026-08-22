@@ -1,6 +1,8 @@
-Planet: SUPERVENE
+Moon: SUPERVENE
 Starmap index: 18
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: SU
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD, ALBEIT A COLD ONE! LANDING AT 300.60 I THOUGHT I

@@ -1,6 +1,8 @@
-Planet: GIBIB
+Moon: GIBIB
 Starmap index: 06
 Paris coordinates: -1766416, -6455599, -921319
+Orbits: GURION
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY RHODAN IN EPOC 6011.632.335

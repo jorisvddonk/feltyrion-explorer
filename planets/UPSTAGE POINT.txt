@@ -1,3 +1,5 @@
-Planet: UPSTAGE POINT
+Moon: UPSTAGE POINT
 Starmap index: 27
 Paris coordinates: 3773200, 4027206, -299920
+Orbits: MINOR HOST
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: OMEGA FLARE V B
+Moon: OMEGA FLARE V B
 Starmap index: 09
 Paris coordinates: -11598160, -297821, -821353
+Orbits: OMEGA FLARE V
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHT REFLECTIVITY,

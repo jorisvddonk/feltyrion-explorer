@@ -1,3 +1,5 @@
-Planet: QWAHR SEXTANE OCTE
+Moon: QWAHR SEXTANE OCTE
 Starmap index: 43
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR SEXTANE
+Moon id: 7

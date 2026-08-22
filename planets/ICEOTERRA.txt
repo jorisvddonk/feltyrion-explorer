@@ -1,3 +1,5 @@
-Planet: ICEOTERRA
+Moon: ICEOTERRA
 Starmap index: 28
 Paris coordinates: 4273200, 3965722, -767003
+Orbits: planet index 13
+Moon id: 6

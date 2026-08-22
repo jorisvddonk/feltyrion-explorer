@@ -1,6 +1,8 @@
-Planet: JILAENARYA
+Moon: JILAENARYA
 Starmap index: 15
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 1
 
 Guide entries:
 BRIGHT CRATERIZED WORLD, 0.27 GRAV, TEMP -266, NO ATM PRESSURE. SUN DISC

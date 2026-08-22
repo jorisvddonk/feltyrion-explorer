@@ -1,6 +1,8 @@
-Planet: CRADLE IX E
+Moon: CRADLE IX E
 Starmap index: 69
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IX
+Moon id: 4
 
 Guide entries:
 BLUE AND BANDED DENSEWORLD. (SCHMERM 6011 592.942)

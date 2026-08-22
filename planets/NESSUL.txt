@@ -1,6 +1,8 @@
-Planet: NESSUL
+Moon: NESSUL
 Starmap index: 41
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: MYDRISAL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, ONLY THE SLIGHTEST TRACERIES

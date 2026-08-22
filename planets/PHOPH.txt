@@ -1,6 +1,8 @@
-Planet: PHOPH
+Moon: PHOPH
 Starmap index: 11
 Paris coordinates: -770352, 114475, -280746
+Orbits: TCHO
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY XEN MARMARIS, 6011:563.668

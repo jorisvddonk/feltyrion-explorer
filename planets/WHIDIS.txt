@@ -1,6 +1,8 @@
-Planet: WHIDIS
+Moon: WHIDIS
 Starmap index: 66
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKLY GREY REFLECTIVITY WITH

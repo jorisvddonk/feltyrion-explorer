@@ -1,3 +1,5 @@
-Planet: IMPACTIS
+Moon: IMPACTIS
 Starmap index: 29
 Paris coordinates: -61132592, 29530985, 540729
+Orbits: MANERATES
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: GLIT
+Moon: GLIT
 Starmap index: 10
 Paris coordinates: 4831408, 4803641, -36528
+Orbits: DISES
+Moon id: 5
 
 Guide entries:
 MOON OF FOURTH PLANET IN CISCOSIS SYSTEM.

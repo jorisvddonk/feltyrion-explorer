@@ -1,3 +1,5 @@
-Planet: MANNAH
+Moon: MANNAH
 Starmap index: 44
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: NAIKEL
+Moon id: 2

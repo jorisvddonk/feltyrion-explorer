@@ -1,3 +1,5 @@
-Planet: NORTHA
+Moon: NORTHA
 Starmap index: 27
 Paris coordinates: 4342128, 4859934, -802867
+Orbits: planet index 04
+Moon id: 15

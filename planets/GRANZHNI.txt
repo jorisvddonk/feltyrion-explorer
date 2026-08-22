@@ -1,6 +1,8 @@
-Planet: GRANZHNI
+Moon: GRANZHNI
 Starmap index: 18
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 2
 
 Guide entries:
 I DIDN'T EXPECT A FELISIAN PLANET TO BE IN THIS SYSTEM!

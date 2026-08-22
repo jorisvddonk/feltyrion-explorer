@@ -1,6 +1,8 @@
-Planet: SUPERB
+Moon: SUPERB
 Starmap index: 29
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERPARASITE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. IT'S PROBABLY AN

@@ -1,6 +1,8 @@
-Planet: ROULETTE
+Moon: ROULETTE
 Starmap index: 15
 Paris coordinates: 4043216, 4320747, -4282607
+Orbits: planet index 03
+Moon id: 2
 
 Guide entries:
 3RD MOON OF 3RD PLANET IN JACKPOT SYSTEM. FELISIAN, COOL TEMPERATURE

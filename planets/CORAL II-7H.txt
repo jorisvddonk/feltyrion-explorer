@@ -1,6 +1,8 @@
-Planet: CORAL II-7H
+Moon: CORAL II-7H
 Starmap index: 64
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-7
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, CURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE

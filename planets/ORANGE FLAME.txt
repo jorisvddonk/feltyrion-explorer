@@ -1,3 +1,5 @@
-Planet: ORANGE FLAME
+Moon: ORANGE FLAME
 Starmap index: 08
 Paris coordinates: -72724208, -1193191, 55085629
+Orbits: PINK CORONIS B
+Moon id: 0

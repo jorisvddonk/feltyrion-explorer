@@ -1,6 +1,8 @@
-Planet: RICH MAN'S SHINE
+Moon: RICH MAN'S SHINE
 Starmap index: 20
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 14
 
 Guide entries:
 A VERY BEAUTIFUL INTERNALLY HOT MOON OF SANITY WARP ON EKA56.

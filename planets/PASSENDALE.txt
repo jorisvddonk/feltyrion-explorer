@@ -1,6 +1,8 @@
-Planet: PASSENDALE
+Moon: PASSENDALE
 Starmap index: 50
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY, A

@@ -1,6 +1,8 @@
-Planet: SAPAYO
+Moon: SAPAYO
 Starmap index: 41
 Paris coordinates: 1243216, 298375, -1471960
+Orbits: MALAWI 6
+Moon id: 4
 
 Guide entries:
 ANOTHER PEA-SOUP PLANET. THICK AND GREEN

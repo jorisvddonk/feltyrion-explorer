@@ -1,6 +1,8 @@
-Planet: LOFAM BETA
+Moon: LOFAM BETA
 Starmap index: 51
 Paris coordinates: 612144, 6999853, -833727
+Orbits: LOFAM
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET LOFAM IN THE GENISI SYSTEM

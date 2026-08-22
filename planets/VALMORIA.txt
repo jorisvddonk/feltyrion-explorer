@@ -1,6 +1,8 @@
-Planet: VALMORIA
+Moon: VALMORIA
 Starmap index: 20
 Paris coordinates: 43216, 394196, -236960
+Orbits: TOXIC
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY FOTIOS. EPOC 6011:609.545

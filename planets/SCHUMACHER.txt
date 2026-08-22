@@ -1,3 +1,5 @@
-Planet: SCHUMACHER
+Moon: SCHUMACHER
 Starmap index: 13
 Paris coordinates: 1167504, 4837930, -1943668
+Orbits: LORD OF THE RINGS
+Moon id: 1

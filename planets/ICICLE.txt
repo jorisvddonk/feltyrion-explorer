@@ -1,3 +1,5 @@
-Planet: ICICLE
+Moon: ICICLE
 Starmap index: 71
 Paris coordinates: 4059632, 4388757, -1624134
+Orbits: SHANNON
+Moon id: 0

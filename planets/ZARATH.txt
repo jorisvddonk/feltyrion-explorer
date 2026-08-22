@@ -1,6 +1,8 @@
-Planet: ZARATH
+Moon: ZARATH
 Starmap index: 14
 Paris coordinates: 167504, 55824, -835910
+Orbits: planet index 03
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: FRIESIAN
+Moon: FRIESIAN
 Starmap index: 48
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: EMMENTAL
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. FAIR REFLECTIVITY,

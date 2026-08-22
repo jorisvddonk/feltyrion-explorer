@@ -1,3 +1,5 @@
-Planet: ZUNA IV-1
+Moon: ZUNA IV-1
 Starmap index: 11
 Paris coordinates: 9675376, 5043750, -13745597
+Orbits: ZUNA IV
+Moon id: 0

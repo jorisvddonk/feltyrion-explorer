@@ -1,3 +1,5 @@
-Planet: PRISOMI ALTIER
+Moon: PRISOMI ALTIER
 Starmap index: 15
 Paris coordinates: 5264240, -2142229, 5191049
+Orbits: ASKEW 196D
+Moon id: 9

@@ -1,6 +1,8 @@
-Planet: YNIS
+Moon: YNIS
 Starmap index: 07
 Paris coordinates: 4142128, 4582625, -648170
+Orbits: YNIC
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, A LIGHT SPOT NOTED,

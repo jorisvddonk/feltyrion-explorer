@@ -1,6 +1,8 @@
-Planet: CONGLOMOON 8
+Moon: CONGLOMOON 8
 Starmap index: 09
 Paris coordinates: -4838192, 5080255, -272731
+Orbits: CONGLOMO
+Moon id: 3
 
 Guide entries:
 ANOTHER CAPPED MOON. DECIDED NOT TO LAND.

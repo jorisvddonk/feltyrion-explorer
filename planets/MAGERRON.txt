@@ -1,6 +1,8 @@
-Planet: MAGERRON
+Moon: MAGERRON
 Starmap index: 13
 Paris coordinates: 2970352, 3448819, -1792674
+Orbits: KLAMATAK
+Moon id: 0
 
 Guide entries:
 THIS MEANS 'THE HALLOWED GROUND' IN LIMBIAN, IT HAS LONG BEEN THE...

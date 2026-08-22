@@ -1,6 +1,8 @@
-Planet: JOFHT
+Moon: JOFHT
 Starmap index: 46
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 3
 
 Guide entries:
 M04/10 SMASLLSOLID ICY APPEARANCE OF GREEN ROCKY WORLD WITH DARK GROOVES    

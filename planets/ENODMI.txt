@@ -1,6 +1,8 @@
-Planet: ENODMI
+Moon: ENODMI
 Starmap index: 30
 Paris coordinates: 908208, 554963, 552389
+Orbits: BRIGHT
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.696

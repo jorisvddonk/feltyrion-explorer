@@ -1,6 +1,8 @@
-Planet: DAMAGED BALL
+Moon: DAMAGED BALL
 Starmap index: 10
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 2
 
 Guide entries:
 A BRIGHT GREEN MOON OF INSANE ON EKA75. --EKA

@@ -1,3 +1,5 @@
-Planet: ASTRAL PLANE
+Moon: ASTRAL PLANE
 Starmap index: 12
 Paris coordinates: 4904272, 4729963, -1676767
+Orbits: PROMETEI
+Moon id: 3

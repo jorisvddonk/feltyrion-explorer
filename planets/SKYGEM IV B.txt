@@ -1,6 +1,8 @@
-Planet: SKYGEM IV B
+Moon: SKYGEM IV B
 Starmap index: 50
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM IV
+Moon id: 1
 
 Guide entries:
  A DARK, DUSTY WORLD. AMWHERE 6011.585.75

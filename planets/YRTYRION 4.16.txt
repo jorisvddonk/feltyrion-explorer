@@ -1,6 +1,8 @@
-Planet: YRTYRION 4.16
+Moon: YRTYRION 4.16
 Starmap index: 11
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 4
+Moon id: 4
 
 Guide entries:
  RACKY, CREASED; NO ATMOSPHERE. NORMAL MOON OF FOURTH PLANET.

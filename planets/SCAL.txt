@@ -1,6 +1,8 @@
-Planet: SCAL
+Moon: SCAL
 Starmap index: 11
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 0
 
 Guide entries:
 SMALL,, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE WITH LITTLE

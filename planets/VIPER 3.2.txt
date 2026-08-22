@@ -1,6 +1,8 @@
-Planet: VIPER 3.2
+Moon: VIPER 3.2
 Starmap index: 07
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 1
 
 Guide entries:
 A FELISIAN MOON! THE SURFACE IS DARK AND IT'S DIFFICULT TO SEE ANT

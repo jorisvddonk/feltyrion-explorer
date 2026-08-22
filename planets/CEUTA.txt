@@ -1,6 +1,8 @@
-Planet: CEUTA
+Moon: CEUTA
 Starmap index: 16
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 7
 
 Guide entries:
 M08/P05 SMALL AND DUSTY WITH A ROUGH APPEARANCE AND LARGE CRATERS,          

@@ -1,6 +1,8 @@
-Planet: BALLON 17.7
+Moon: BALLON 17.7
 Starmap index: 55
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 6
 
 Guide entries:
 ANOTHER MOON OF THE SAME TYPE. IT'S A BIT WEIRD, THE SURFACE                

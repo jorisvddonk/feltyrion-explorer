@@ -1,6 +1,8 @@
-Planet: SUPERSTITIO
+Moon: SUPERSTITIO
 Starmap index: 21
 Paris coordinates: -822864, 4092963, 2445003
+Orbits: VIMINAL
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, FELISIAN, BREATHABLE ATMOSPHERE. IF YOU THOUGHT

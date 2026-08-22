@@ -1,3 +1,5 @@
-Planet: GAMMA ABYSSALIS 4K
+Moon: GAMMA ABYSSALIS 4K
 Starmap index: 27
 Paris coordinates: 7060976, -16780024, 15078704
+Orbits: GAMMA ABYSSALIS 4
+Moon id: 10

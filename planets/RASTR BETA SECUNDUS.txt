@@ -1,3 +1,5 @@
-Planet: RASTR BETA SECUNDUS
+Moon: RASTR BETA SECUNDUS
 Starmap index: 06
 Paris coordinates: 1400207440, 1427364, 1398908212
+Orbits: RASTR BETA
+Moon id: 1

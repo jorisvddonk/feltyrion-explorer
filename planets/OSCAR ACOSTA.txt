@@ -1,6 +1,8 @@
-Planet: OSCAR ACOSTA
+Moon: OSCAR ACOSTA
 Starmap index: 14
 Paris coordinates: -625712, 1137800, 123585
+Orbits: PAX
+Moon id: 1
 
 Guide entries:
 SURFACE IS NATIVE QUARTZ, ATMOSPHERE OXYGEN. NOTHING ELSE.

@@ -1,6 +1,8 @@
-Planet: CENETAPH
+Moon: CENETAPH
 Starmap index: 18
 Paris coordinates: 10869520, -19274356, 17549028
+Orbits: ASKEW 58E
+Moon id: 12
 
 Guide entries:
 FOUND EPOC 6011 586.899.100 BY ROLAND ASKEW

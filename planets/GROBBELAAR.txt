@@ -1,6 +1,8 @@
-Planet: GROBBELAAR
+Moon: GROBBELAAR
 Starmap index: 16
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: DORE
+Moon id: 8
 
 Guide entries:
 SMALL,SOLID, DUSTY AND CRATERIZED MOON, NO ATMOSPHERE.

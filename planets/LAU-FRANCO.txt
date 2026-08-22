@@ -1,6 +1,8 @@
-Planet: LAU-FRANCO
+Moon: LAU-FRANCO
 Starmap index: 48
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 15
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.836 -                               

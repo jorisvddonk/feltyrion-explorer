@@ -1,3 +1,5 @@
-Planet: GHOSTLY REMINDER
+Moon: GHOSTLY REMINDER
 Starmap index: 10
 Paris coordinates: 3408208, 4220650, -1855031
+Orbits: DARK FOREST
+Moon id: 1

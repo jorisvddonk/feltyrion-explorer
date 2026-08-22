@@ -1,6 +1,8 @@
-Planet: RIMOR
+Moon: RIMOR
 Starmap index: 14
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: CAPACIT
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE RAYED CRATERS.

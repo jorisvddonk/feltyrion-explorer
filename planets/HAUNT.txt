@@ -1,6 +1,8 @@
-Planet: HAUNT
+Moon: HAUNT
 Starmap index: 21
 Paris coordinates: -701424, 293517, -259154
+Orbits: HUICTIGAR
+Moon id: 0
 
 Guide entries:
 PLANET HAD A VERY EERIE DENSE, PURPLE ATMOSPHERE. INHOSPITABLE.

@@ -1,6 +1,8 @@
-Planet: WIDE
+Moon: WIDE
 Starmap index: 17
 Paris coordinates: -163568, 2358, -418951
+Orbits: NEIGH
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATE REFLECTIVITY,

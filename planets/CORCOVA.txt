@@ -1,3 +1,5 @@
-Planet: CORCOVA
+Moon: CORCOVA
 Starmap index: 16
 Paris coordinates: -73010640, -1598344, 56035429
+Orbits: CAMPEXE
+Moon id: 1

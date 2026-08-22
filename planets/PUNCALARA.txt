@@ -1,3 +1,5 @@
-Planet: PUNCALARA
+Moon: PUNCALARA
 Starmap index: 06
 Paris coordinates: 356784, 302863, -10167
+Orbits: FELLAMABADYA
+Moon id: 2

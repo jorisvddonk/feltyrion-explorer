@@ -1,6 +1,8 @@
-Planet: EMISSION
+Moon: EMISSION
 Starmap index: 05
 Paris coordinates: 294640, 1102336, 449711
+Orbits: GLOBULE
+Moon id: 0
 
 Guide entries:
 EMISSION, A MOON OF GLOBULE, IS DIMLY LIT, YET MAINTAINS A CONSTANT

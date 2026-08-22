@@ -1,6 +1,8 @@
-Planet: SANGUINE
+Moon: SANGUINE
 Starmap index: 22
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: BOLT
+Moon id: 1
 
 Guide entries:
 UPDATE:MEDIUM SIZE, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

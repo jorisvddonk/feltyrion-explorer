@@ -1,3 +1,5 @@
-Planet: DEEP SHADOW 8A-8
+Moon: DEEP SHADOW 8A-8
 Starmap index: 12
 Paris coordinates: 965104, -26996, -1499436612
+Orbits: DEEP SHADOW 8A
+Moon id: 7

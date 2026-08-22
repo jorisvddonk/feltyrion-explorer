@@ -1,6 +1,8 @@
-Planet: ELUSINA 4
+Moon: ELUSINA 4
 Starmap index: 10
 Paris coordinates: 2446064, 4229519, -567104
+Orbits: CRONIA
+Moon id: 1
 
 Guide entries:
  THIN ATMOSPHERE, SMALL. DESOLATE. NOTHING NEW.

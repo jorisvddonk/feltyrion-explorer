@@ -1,6 +1,8 @@
-Planet: SENJIRA
+Moon: SENJIRA
 Starmap index: 15
 Paris coordinates: -20671280, 827674, -13257392
+Orbits: ERMUKHA VI
+Moon id: 6
 
 Guide entries:
 ERMUKHA 07/06; FELISIAN

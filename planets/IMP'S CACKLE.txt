@@ -1,6 +1,8 @@
-Planet: IMP'S CACKLE
+Moon: IMP'S CACKLE
 Starmap index: 07
 Paris coordinates: 4648912, 5143891, -664846
+Orbits: IMP'S LAUGH
+Moon id: 0
 
 Guide entries:
 MANQ THIS PLACE RULES! LOW GRAVITY AND MOUNTAINS SO HIGH YOU GET

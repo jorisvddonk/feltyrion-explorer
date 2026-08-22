@@ -1,3 +1,5 @@
-Planet: PERINBI
+Moon: PERINBI
 Starmap index: 22
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: JAKAB
+Moon id: 7

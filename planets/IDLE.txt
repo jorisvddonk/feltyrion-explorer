@@ -1,6 +1,8 @@
-Planet: IDLE
+Moon: IDLE
 Starmap index: 46
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: PALLESCENT
+Moon id: 2
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. SLIGHTLY UNREFLECTIVE

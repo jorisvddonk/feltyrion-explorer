@@ -1,3 +1,5 @@
-Planet: AERISSLER GRAALER
+Moon: AERISSLER GRAALER
 Starmap index: 09
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: AERISSLER WEREING
+Moon id: 0

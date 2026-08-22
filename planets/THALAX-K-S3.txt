@@ -1,3 +1,5 @@
-Planet: THALAX-K-S3
+Moon: THALAX-K-S3
 Starmap index: 29
 Paris coordinates: 2987856, 4262240, -2661222
+Orbits: THALAX-K
+Moon id: 2

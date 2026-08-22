@@ -1,6 +1,8 @@
-Planet: BUDSE
+Moon: BUDSE
 Starmap index: 36
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRORN
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, REDDISH.

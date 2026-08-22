@@ -1,6 +1,8 @@
-Planet: DIJIOR
+Moon: DIJIOR
 Starmap index: 12
 Paris coordinates: 634309520, -10801615, 49308989
+Orbits: KOTYNFHAS
+Moon id: 0
 
 Guide entries:
 M01/P06 SMALL SOLID DUSTY VERY GREEN REFLECTIVITY WITH LARGE CRATERS        

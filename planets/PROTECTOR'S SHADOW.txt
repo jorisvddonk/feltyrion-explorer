@@ -1,6 +1,8 @@
-Planet: PROTECTOR'S SHADOW
+Moon: PROTECTOR'S SHADOW
 Starmap index: 14
 Paris coordinates: 3008208, 4283926, -1464016
+Orbits: PROTECTOR
+Moon id: 4
 
 Guide entries:
 A MOON THAT HARBORS LIFE IN ORBIT AROUND PROTECTOR.

@@ -1,3 +1,5 @@
-Planet: YUERIOES
+Moon: YUERIOES
 Starmap index: 07
 Paris coordinates: -1766416, -6455599, -921319
+Orbits: GURION
+Moon id: 1

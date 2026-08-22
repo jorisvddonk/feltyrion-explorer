@@ -1,3 +1,5 @@
-Planet: ULENRIRDOXINARA
+Moon: ULENRIRDOXINARA
 Starmap index: 25
 Paris coordinates: 58795344, -33712659, 927379101
+Orbits: SRAKURWELLICK
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: WISWAN.6.9(F)
+Moon: WISWAN.6.9(F)
 Starmap index: 56
 Paris coordinates: 4276048, 4146733, 1284897
+Orbits: WISWAN.6(!)
+Moon id: 8
 
 Guide entries:
 BY LANDING ON THE NIGHT SIDE OF THE PLANET IT'S POSSIBLE TO SEE             

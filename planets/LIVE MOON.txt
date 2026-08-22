@@ -1,3 +1,5 @@
-Planet: LIVE MOON
+Moon: LIVE MOON
 Starmap index: 16
 Paris coordinates: 2546064, 3827429, -731391
+Orbits: GOLDIAN
+Moon id: 5

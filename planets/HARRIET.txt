@@ -1,3 +1,5 @@
-Planet: HARRIET
+Moon: HARRIET
 Starmap index: 14
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SHINY
+Moon id: 1

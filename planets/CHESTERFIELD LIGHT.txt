@@ -1,6 +1,8 @@
-Planet: CHESTERFIELD LIGHT
+Moon: CHESTERFIELD LIGHT
 Starmap index: 04
 Paris coordinates: 2870352, 5993903, -1732830
+Orbits: CHESTERFIELD
+Moon id: 0
 
 Guide entries:
  MOON DISCOVERED BY MRUQE; EPOC 6011-568.776

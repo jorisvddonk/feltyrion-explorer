@@ -1,6 +1,8 @@
-Planet: ANKRU
+Moon: ANKRU
 Starmap index: 20
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. NOT MY

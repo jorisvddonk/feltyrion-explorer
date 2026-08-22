@@ -1,6 +1,8 @@
-Planet: BLUE GREEN MOON
+Moon: BLUE GREEN MOON
 Starmap index: 24
 Paris coordinates: 3869264, 5944472, 1100617
+Orbits: BLUE YELLOW SEA
+Moon id: 0
 
 Guide entries:
 DISCOVERED EPOC 6012 1049.115

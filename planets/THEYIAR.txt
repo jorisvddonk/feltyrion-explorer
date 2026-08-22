@@ -1,6 +1,8 @@
-Planet: THEYIAR
+Moon: THEYIAR
 Starmap index: 07
 Paris coordinates: 26708976, 6394413, 44397605
+Orbits: LENSE
+Moon id: 0
 
 Guide entries:
 A THIN ATMO MOON, THE ONLY ONE OF THE THIRD PLANET. COLORATION RANGES

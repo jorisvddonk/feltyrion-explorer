@@ -1,6 +1,8 @@
-Planet: GATH
+Moon: GATH
 Starmap index: 16
 Paris coordinates: 3311056, 5428793, 329445
+Orbits: FETHOR
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTENALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, LIGHT BROWN

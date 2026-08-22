@@ -1,6 +1,8 @@
-Planet: TORIAMOS
+Moon: TORIAMOS
 Starmap index: 21
 Paris coordinates: 6007120, 4721244, -713119
+Orbits: PABLO
+Moon id: 11
 
 Guide entries:
 TWELVETH PLANET OF THE PABLO COMPANION STAR IN THE AMNESIAC SYSTEM.

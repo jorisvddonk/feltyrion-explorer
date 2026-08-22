@@ -1,6 +1,8 @@
-Planet: SALSYS I
+Moon: SALSYS I
 Starmap index: 13
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 5
 
 Guide entries:
 SMALL MOON WITH NO ATMOSPHERE.

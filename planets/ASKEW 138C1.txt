@@ -1,3 +1,5 @@
-Planet: ASKEW 138C1
+Moon: ASKEW 138C1
 Starmap index: 08
 Paris coordinates: 8953104, -17163363, 16463417
+Orbits: ASKEW 138C
+Moon id: 0

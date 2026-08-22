@@ -1,6 +1,8 @@
-Planet: FUPRA
+Moon: FUPRA
 Starmap index: 30
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DIFLAE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LIGHT BROWNISH AND

@@ -1,6 +1,8 @@
-Planet: MUDREL
+Moon: MUDREL
 Starmap index: 18
 Paris coordinates: -474288, -31859501, 1067415
+Orbits: ENKO
+Moon id: 3
 
 Guide entries:
 STRANGE KIND OF ROCKS FOUND ON SURFACE; SOME STONES HAVE ASSUMED THE

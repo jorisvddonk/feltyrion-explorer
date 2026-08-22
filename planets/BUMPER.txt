@@ -1,6 +1,8 @@
-Planet: BUMPER
+Moon: BUMPER
 Starmap index: 21
 Paris coordinates: -1532496, -973713, 623217
+Orbits: PELPER
+Moon id: 10
 
 Guide entries:
 PINK SURFACE SCATTERED WITH MESA LIKE MOUNDS

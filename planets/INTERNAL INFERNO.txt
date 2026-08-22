@@ -1,3 +1,5 @@
-Planet: INTERNAL INFERNO
+Moon: INTERNAL INFERNO
 Starmap index: 08
 Paris coordinates: 2552848, 5341525, -241069
+Orbits: DISLOCATE
+Moon id: 1

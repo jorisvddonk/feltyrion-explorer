@@ -1,6 +1,8 @@
-Planet: PAROUSIA
+Moon: PAROUSIA
 Starmap index: 13
 Paris coordinates: 3214992, 4579458, -1223743
+Orbits: ISSINIESI
+Moon id: 4
 
 Guide entries:
 A FELISIAN WORLD- PURPLISH IN APPEARANCE WITH MUCH LAND AREA. AT

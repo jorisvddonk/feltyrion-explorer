@@ -1,6 +1,8 @@
-Planet: FAPKEN
+Moon: FAPKEN
 Starmap index: 22
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 6
 
 Guide entries:
 ANOTHER FELISIAN PLANET IN THE LARGE QUAERIAN SYSTEM...

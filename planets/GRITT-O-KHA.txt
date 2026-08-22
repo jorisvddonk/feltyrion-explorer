@@ -1,6 +1,8 @@
-Planet: GRITT-O-KHA
+Moon: GRITT-O-KHA
 Starmap index: 28
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 17
 
 Guide entries:
 MEDIUM SIZE, FELISIAN. PRELIMINARY EXPLORATION REVEALED A TRANSPARENT       

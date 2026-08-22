@@ -1,6 +1,8 @@
-Planet: KOTH
+Moon: KOTH
 Starmap index: 20
 Paris coordinates: 974288, 1321067, -1251662
+Orbits: GOLBRAT
+Moon id: 7
 
 Guide entries:
 PLANET DISCOVERED BY FOTIOS. EPOC 6011:609.374

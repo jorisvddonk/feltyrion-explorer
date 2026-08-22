@@ -1,6 +1,8 @@
-Planet: MUMMY
+Moon: MUMMY
 Starmap index: 20
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: BEELZEBUB
+Moon id: 10
 
 Guide entries:
 UPDATE: MEDIUM SIZED, THICK ATMOSPHERE, FULLY COVERD BY CLOUDS. A MAJOR

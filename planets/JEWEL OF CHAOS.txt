@@ -1,6 +1,8 @@
-Planet: JEWEL OF CHAOS
+Moon: JEWEL OF CHAOS
 Starmap index: 13
 Paris coordinates: 2501424, 4364880, -1388893
+Orbits: DARKLORE
+Moon id: 7
 
 Guide entries:
 MOON DISCOVERED BY SEB PAT EPOC 6011:683.648                                

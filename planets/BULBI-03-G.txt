@@ -1,3 +1,5 @@
-Planet: BULBI-03-G
+Moon: BULBI-03-G
 Starmap index: 18
 Paris coordinates: 2101424, 6142806, -960659
+Orbits: BULBI-03
+Moon id: 6

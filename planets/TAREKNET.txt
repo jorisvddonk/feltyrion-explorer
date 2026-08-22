@@ -1,6 +1,8 @@
-Planet: TAREKNET
+Moon: TAREKNET
 Starmap index: 10
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 0
 
 Guide entries:
 THE FIRST MOON OF THE SEVENTH PLANET, A FELYSIAN WORLD. SURPRISINGLY,

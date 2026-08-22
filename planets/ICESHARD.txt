@@ -1,3 +1,5 @@
-Planet: ICESHARD
+Moon: ICESHARD
 Starmap index: 04
 Paris coordinates: 3759632, 5130317, -1039622
+Orbits: DARK DISSIDENT
+Moon id: 0

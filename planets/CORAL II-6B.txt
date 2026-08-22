@@ -1,6 +1,8 @@
-Planet: CORAL II-6B
+Moon: CORAL II-6B
 Starmap index: 50
 Paris coordinates: -539280, 237210, -624416
+Orbits: planet index 06
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE DEEP CRATERS

@@ -1,6 +1,8 @@
-Planet: CATALYST
+Moon: CATALYST
 Starmap index: 10
 Paris coordinates: 2790704, 4295193, -442131
+Orbits: SELITH
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY THRONUS DALVI IN EPOC 6011:660.31.684.

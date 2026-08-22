@@ -1,6 +1,8 @@
-Planet: PECE
+Moon: PECE
 Starmap index: 48
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PERIP
+Moon id: 5
 
 Guide entries:
 NOTHING INTERESTING, JUST DARK BLUE TO BLACK FLAT SURFACES WITH ROCKS.

@@ -1,3 +1,5 @@
-Planet: JAWBREAKER XVI
+Moon: JAWBREAKER XVI
 Starmap index: 18
 Paris coordinates: -107235952, 25138811, -1828589
+Orbits: GALARETKA D
+Moon id: 9

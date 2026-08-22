@@ -1,6 +1,8 @@
-Planet: YREN
+Moon: YREN
 Starmap index: 13
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: FACE VALUE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ANOTHER EXTREMELY

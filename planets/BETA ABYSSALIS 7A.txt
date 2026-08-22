@@ -1,3 +1,5 @@
-Planet: BETA ABYSSALIS 7A
+Moon: BETA ABYSSALIS 7A
 Starmap index: 17
 Paris coordinates: 7160976, -16776440, 14959150
+Orbits: BETA ABYSSALIS 7
+Moon id: 0

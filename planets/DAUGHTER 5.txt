@@ -1,3 +1,5 @@
-Planet: DAUGHTER 5
+Moon: DAUGHTER 5
 Starmap index: 30
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 14

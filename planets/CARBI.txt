@@ -1,6 +1,8 @@
-Planet: CARBI
+Moon: CARBI
 Starmap index: 04
 Paris coordinates: 2020375120, -1795082, 72198
+Orbits: YATHOR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

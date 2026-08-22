@@ -1,6 +1,8 @@
-Planet: CHOUSK
+Moon: CHOUSK
 Starmap index: 16
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: PRIERS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY GREENISH

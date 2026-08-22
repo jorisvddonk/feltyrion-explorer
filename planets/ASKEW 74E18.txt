@@ -1,3 +1,5 @@
-Planet: ASKEW 74E18
+Moon: ASKEW 74E18
 Starmap index: 29
 Paris coordinates: 11052016, -19059857, 17952287
+Orbits: ASKEW 74E
+Moon id: 17

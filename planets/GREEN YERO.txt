@@ -1,3 +1,5 @@
-Planet: GREEN YERO
+Moon: GREEN YERO
 Starmap index: 13
 Paris coordinates: 5855696, 5122770, -1659619
+Orbits: DWAMEE
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: JACKSON
+Moon: JACKSON
 Starmap index: 20
 Paris coordinates: 743216, 2074788, -991483
+Orbits: planet index 03
+Moon id: 5
 
 Guide entries:
  SUN IS VERY BRIGHT GIVING EVERY THING AN ERRIE WASHED OUT LOOK             

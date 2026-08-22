@@ -1,3 +1,5 @@
-Planet: KOTAR
+Moon: KOTAR
 Starmap index: 06
 Paris coordinates: -77136, -10954, -1386472
+Orbits: KOWASU
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: DEBRA DOWA
+Moon: DEBRA DOWA
 Starmap index: 13
 Paris coordinates: 1128560, 5066859, 1663748
+Orbits: SAKUYU
+Moon id: 2
 
 Guide entries:
 3RD MOON OF 5TH PLANET IN AZANIA SYSTEM - FELISIAN

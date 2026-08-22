@@ -1,3 +1,5 @@
-Planet: HEDUN
+Moon: HEDUN
 Starmap index: 06
 Paris coordinates: 4362480, 4333712, 192997
+Orbits: KAKON
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: GARTRAN IOTA
+Moon: GARTRAN IOTA
 Starmap index: 13
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: GARTRAN
+Moon id: 8
 
 Guide entries:
 NINTH MOON OF PLANET GARTRAN IN THE QUOUN SYSTEM

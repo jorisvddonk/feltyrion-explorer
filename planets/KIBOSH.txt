@@ -1,6 +1,8 @@
-Planet: KIBOSH
+Moon: KIBOSH
 Starmap index: 42
 Paris coordinates: -163568, 2358, -418951
+Orbits: KEMPS
+Moon id: 7
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. VERY DARK WITH DARK GROOVING.

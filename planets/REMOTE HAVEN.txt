@@ -1,6 +1,8 @@
-Planet: REMOTE HAVEN
+Moon: REMOTE HAVEN
 Starmap index: 64
 Paris coordinates: -1417747568, 866844, 1433341836
+Orbits: AH-SUBSTELLAR 5
+Moon id: 10
 
 Guide entries:
 THE 2ND FELISIAN I'M EXPLORING AFTER 'DRAPE'. APPEARS TO BE                 

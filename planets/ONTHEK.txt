@@ -1,6 +1,8 @@
-Planet: ONTHEK
+Moon: ONTHEK
 Starmap index: 29
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: UMPF
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. EXTREMELY SCARRED AND

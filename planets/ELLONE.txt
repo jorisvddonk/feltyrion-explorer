@@ -1,6 +1,8 @@
-Planet: ELLONE
+Moon: ELLONE
 Starmap index: 13
 Paris coordinates: 3473200, 3882739, 59962
+Orbits: DEUS EX MACHINAS
+Moon id: 0
 
 Guide entries:
 STANDARD SMALL CRATERED MOON; NO ATMOSPHERE, NO LIFE.

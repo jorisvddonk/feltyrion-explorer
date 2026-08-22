@@ -1,3 +1,5 @@
-Planet: SERGEIOV F9
+Moon: SERGEIOV F9
 Starmap index: 43
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV F
+Moon id: 8

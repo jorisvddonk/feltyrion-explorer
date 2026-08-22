@@ -1,3 +1,5 @@
-Planet: PATRICK
+Moon: PATRICK
 Starmap index: 27
 Paris coordinates: 4187856, 4758060, -3857377
+Orbits: YUU
+Moon id: 3

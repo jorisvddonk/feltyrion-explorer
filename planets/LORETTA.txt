@@ -1,6 +1,8 @@
-Planet: LORETTA
+Moon: LORETTA
 Starmap index: 25
 Paris coordinates: 2339280, 5242070, -821097
+Orbits: JACK
+Moon id: 0
 
 Guide entries:
 A FEATURELESS DESERT LIKE MOON WITH LOW GRAVITY.

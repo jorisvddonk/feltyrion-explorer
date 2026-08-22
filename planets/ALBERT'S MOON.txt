@@ -1,3 +1,5 @@
-Planet: ALBERT'S MOON
+Moon: ALBERT'S MOON
 Starmap index: 11
 Paris coordinates: 3473200, 4782739, 43271
+Orbits: ALBERT'S LAIR
+Moon id: 0

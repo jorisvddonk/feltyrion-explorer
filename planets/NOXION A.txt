@@ -1,6 +1,8 @@
-Planet: NOXION A
+Moon: NOXION A
 Starmap index: 14
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: NOXION
+Moon id: 0
 
 Guide entries:
 A COLORLESS THINWORLD. (SCHMERM 6011 600.726)

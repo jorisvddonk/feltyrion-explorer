@@ -1,6 +1,8 @@
-Planet: LUDLOW
+Moon: LUDLOW
 Starmap index: 06
 Paris coordinates: 4293552, 3757950, 243471
+Orbits: DOUGLAS ADAMS
+Moon id: 0
 
 Guide entries:
 THE LOW GRAVITY MAKES THE MASSIVE CRATERS SEEM NOT AS FOREBODING.

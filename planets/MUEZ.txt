@@ -1,6 +1,8 @@
-Planet: MUEZ
+Moon: MUEZ
 Starmap index: 26
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE, VERY SCARRED. SKINNYMON EPOC

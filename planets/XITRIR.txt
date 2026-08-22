@@ -1,6 +1,8 @@
-Planet: XITRIR
+Moon: XITRIR
 Starmap index: 35
 Paris coordinates: 3614992, 4399761, -1691336
+Orbits: DIFLAE
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MODERATE RED-VIOLET

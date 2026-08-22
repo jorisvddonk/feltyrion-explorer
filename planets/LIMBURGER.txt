@@ -1,6 +1,8 @@
-Planet: LIMBURGER
+Moon: LIMBURGER
 Starmap index: 29
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 4
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

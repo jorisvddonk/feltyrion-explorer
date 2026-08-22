@@ -1,3 +1,5 @@
-Planet: OLD DUSTY
+Moon: OLD DUSTY
 Starmap index: 07
 Paris coordinates: 4021776, 4697159, -1738166
+Orbits: PEASOUP
+Moon id: 0

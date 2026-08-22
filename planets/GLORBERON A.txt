@@ -1,3 +1,5 @@
-Planet: GLORBERON A
+Moon: GLORBERON A
 Starmap index: 12
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 0

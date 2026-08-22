@@ -1,6 +1,8 @@
-Planet: YOR
+Moon: YOR
 Starmap index: 21
 Paris coordinates: 4413904, 4349423, 1348058
+Orbits: planet index 05
+Moon id: 3
 
 Guide entries:
 SURVEYED BY EDEANP 6011.618.2.695, ABUNDANT LIFE

@@ -1,6 +1,8 @@
-Planet: VIPER 4.1
+Moon: VIPER 4.1
 Starmap index: 19
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 4
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED... TYPICAL (MANY THINGS ARE TYPICAL

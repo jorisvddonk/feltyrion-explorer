@@ -1,6 +1,8 @@
-Planet: IDIO
+Moon: IDIO
 Starmap index: 29
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: XYLOTOMUS
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUST ON THE SURFACE MAKES

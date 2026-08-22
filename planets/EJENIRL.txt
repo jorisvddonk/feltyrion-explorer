@@ -1,6 +1,8 @@
-Planet: EJENIRL
+Moon: EJENIRL
 Starmap index: 30
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZE, ROCKY, CREASED, NO ATMOSPHERE. (NOTES BY NEUZD, 6011:797.136)  

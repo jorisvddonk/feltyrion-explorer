@@ -1,3 +1,5 @@
-Planet: BRATTAIN II
+Moon: BRATTAIN II
 Starmap index: 29
 Paris coordinates: 806448, 5628299, -5233432
+Orbits: BRATTAIN I
+Moon id: 0

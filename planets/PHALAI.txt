@@ -1,3 +1,5 @@
-Planet: PHALAI
+Moon: PHALAI
 Starmap index: 18
 Paris coordinates: 763568, 121186, 4975
+Orbits: TING
+Moon id: 8

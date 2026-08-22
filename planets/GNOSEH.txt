@@ -1,6 +1,8 @@
-Planet: GNOSEH
+Moon: GNOSEH
 Starmap index: 23
 Paris coordinates: 4517840, 4425313, -473575
+Orbits: CHEW BALL II
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, SLIGHT POLAR CAPS. SKINNYMON

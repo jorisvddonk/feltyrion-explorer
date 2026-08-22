@@ -1,3 +1,5 @@
-Planet: BIRDGLYPH
+Moon: BIRDGLYPH
 Starmap index: 13
 Paris coordinates: 4879984, 4503699, -961220
+Orbits: DREAVIA
+Moon id: 0

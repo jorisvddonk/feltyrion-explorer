@@ -1,3 +1,5 @@
-Planet: AMATEUR CAMOUFLAGE
+Moon: AMATEUR CAMOUFLAGE
 Starmap index: 14
 Paris coordinates: -71562064, -598009, 53608687
+Orbits: CAMOUFLAGE
+Moon id: 0

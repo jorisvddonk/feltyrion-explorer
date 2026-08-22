@@ -1,3 +1,5 @@
-Planet: MOOTER
+Moon: MOOTER
 Starmap index: 05
 Paris coordinates: -1415416496, 962798, 1430901758
+Orbits: planet index 03
+Moon id: 0

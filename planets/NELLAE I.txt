@@ -1,3 +1,5 @@
-Planet: NELLAE I
+Moon: NELLAE I
 Starmap index: 12
 Paris coordinates: 3779984, 4313464, -58717
+Orbits: NELLAE
+Moon id: 0

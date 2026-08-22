@@ -1,6 +1,8 @@
-Planet: BRUNUR
+Moon: BRUNUR
 Starmap index: 46
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: DEISY
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SLIGHT

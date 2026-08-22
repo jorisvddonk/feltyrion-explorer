@@ -1,3 +1,5 @@
-Planet: UKZE
+Moon: UKZE
 Starmap index: 07
 Paris coordinates: 2628560, -26514628, 119618
+Orbits: MALZXYU
+Moon id: 0

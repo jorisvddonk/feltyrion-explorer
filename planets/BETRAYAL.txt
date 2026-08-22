@@ -1,6 +1,8 @@
-Planet: BETRAYAL
+Moon: BETRAYAL
 Starmap index: 30
 Paris coordinates: -1443216, 11223, 1866440
+Orbits: DEPRESSION
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SOME GROOVING VISIBLE.

@@ -1,6 +1,8 @@
-Planet: AEX-04-A
+Moon: AEX-04-A
 Starmap index: 13
 Paris coordinates: 598576, 4279484, -1591122
+Orbits: AEX-04
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY YAYO (ROBERTO CORREZZOLA) EPOC 6011:684.871              

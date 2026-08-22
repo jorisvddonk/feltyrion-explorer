@@ -1,3 +1,5 @@
-Planet: MARITAL BRIDE
+Moon: MARITAL BRIDE
 Starmap index: 61
 Paris coordinates: 5179568, -15162902, 12055564
+Orbits: ASKEW 126F
+Moon id: 8

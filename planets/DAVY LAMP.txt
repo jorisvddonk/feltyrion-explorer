@@ -1,6 +1,8 @@
-Planet: DAVY LAMP
+Moon: DAVY LAMP
 Starmap index: 14
 Paris coordinates: 3935344, 4324120, -784352
+Orbits: BLAND
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

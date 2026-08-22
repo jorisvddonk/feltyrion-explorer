@@ -1,6 +1,8 @@
-Planet: HYDRON
+Moon: HYDRON
 Starmap index: 03
 Paris coordinates: 2018928, 1964914, -1734179
+Orbits: planet index 01
+Moon id: 1
 
 Guide entries:
  I WAS WRONG, THERE IS A PLANET.

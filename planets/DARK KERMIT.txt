@@ -1,6 +1,8 @@
-Planet: DARK KERMIT
+Moon: DARK KERMIT
 Starmap index: 09
 Paris coordinates: 5179984, 4634153, -1332711
+Orbits: MISS PIGGY
+Moon id: 0
 
 Guide entries:
  GREENISH, NICE ALIGNING WITH PLANET,

@@ -1,3 +1,5 @@
-Planet: DASTPAEDES
+Moon: DASTPAEDES
 Starmap index: 63
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 12

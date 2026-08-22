@@ -1,6 +1,8 @@
-Planet: LESKEN
+Moon: LESKEN
 Starmap index: 38
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAR ATTEMPT
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. VERY ROUGH, SLIGHT SCARS.

@@ -1,3 +1,5 @@
-Planet: ASKEW 68C1
+Moon: ASKEW 68C1
 Starmap index: 07
 Paris coordinates: 11314160, -19380914, 17626244
+Orbits: AIR SMITHY
+Moon id: 0

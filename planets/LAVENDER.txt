@@ -1,3 +1,5 @@
-Planet: LAVENDER
+Moon: LAVENDER
 Starmap index: 59
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: WHITE
+Moon id: 7

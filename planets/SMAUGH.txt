@@ -1,3 +1,5 @@
-Planet: SMAUGH
+Moon: SMAUGH
 Starmap index: 39
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: ATOMIKA
+Moon id: 5

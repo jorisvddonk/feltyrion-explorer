@@ -1,3 +1,5 @@
-Planet: BLAZE+SPINGIE PLANET
+Moon: BLAZE+SPINGIE PLANET
 Starmap index: 31
 Paris coordinates: 2414992, 4238852, -479109
+Orbits: planet index 04
+Moon id: 12

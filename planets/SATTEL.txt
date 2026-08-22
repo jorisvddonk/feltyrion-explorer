@@ -1,6 +1,8 @@
-Planet: SATTEL
+Moon: SATTEL
 Starmap index: 04
 Paris coordinates: 4868176, 13657481, 4132873
+Orbits: TESTRA
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MURRMURR EPOC 6011:608.156

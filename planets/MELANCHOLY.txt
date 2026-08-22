@@ -1,3 +1,5 @@
-Planet: MELANCHOLY
+Moon: MELANCHOLY
 Starmap index: 18
 Paris coordinates: 4867504, -2585957, -5646997
+Orbits: KING OF PAIN
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: JASONSIGMA
+Moon: JASONSIGMA
 Starmap index: 12
 Paris coordinates: -98576, 812650, 1187944
+Orbits: IOCASTE
+Moon id: 2

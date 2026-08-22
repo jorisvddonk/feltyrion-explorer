@@ -1,6 +1,8 @@
-Planet: KLASH
+Moon: KLASH
 Starmap index: 18
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 11
 
 Guide entries:
  DORUIMS SISTER PLANET. IT'S YOUR BASIC FELESIAN PLANET. PLANT LIFE, ECT

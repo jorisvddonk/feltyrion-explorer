@@ -1,6 +1,8 @@
-Planet: APOCRYPH
+Moon: APOCRYPH
 Starmap index: 14
 Paris coordinates: 3473200, 3882739, 59962
+Orbits: SELIN
+Moon id: 0
 
 Guide entries:
 HUGE CRATERS VISIBLE FROM ORBIT MAR IT'S SURFACE.

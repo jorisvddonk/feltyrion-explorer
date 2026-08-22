@@ -1,6 +1,8 @@
-Planet: FHIJILI
+Moon: FHIJILI
 Starmap index: 08
 Paris coordinates: 2054927472, 1424347, -408821
+Orbits: HAPSIJA
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID DUSTY, LARGE CRATERS VERY GREEN REFLECTIVITY.           

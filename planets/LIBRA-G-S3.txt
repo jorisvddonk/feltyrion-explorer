@@ -1,3 +1,5 @@
-Planet: LIBRA-G-S3
+Moon: LIBRA-G-S3
 Starmap index: 33
 Paris coordinates: 2587856, 4207324, -2338295
+Orbits: LIBRA-G-FELYS
+Moon id: 2

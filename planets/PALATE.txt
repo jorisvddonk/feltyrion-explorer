@@ -1,6 +1,8 @@
-Planet: PALATE
+Moon: PALATE
 Starmap index: 59
 Paris coordinates: 3156784, 4918987, -2783767
+Orbits: WALLPLUG
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. VERY LARGE

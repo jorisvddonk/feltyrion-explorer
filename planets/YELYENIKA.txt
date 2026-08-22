@@ -1,6 +1,8 @@
-Planet: YELYENIKA
+Moon: YELYENIKA
 Starmap index: 24
 Paris coordinates: 10700592, -19048169, 17432791
+Orbits: ASKEW 54D
+Moon id: 5
 
 Guide entries:
 FOUND EPOC 6011 586.378.000 BY ROLAND ASKEW

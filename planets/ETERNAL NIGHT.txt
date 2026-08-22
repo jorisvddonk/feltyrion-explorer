@@ -1,3 +1,5 @@
-Planet: ETERNAL NIGHT
+Moon: ETERNAL NIGHT
 Starmap index: 21
 Paris coordinates: 4159632, 4436827, -1722935
+Orbits: PITEUS
+Moon id: 9

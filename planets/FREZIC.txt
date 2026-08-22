@@ -1,6 +1,8 @@
-Planet: FREZIC
+Moon: FREZIC
 Starmap index: 20
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 10
 
 Guide entries:
 THE ELEVENTH MOON OF THE SEVENTH PLANET, A VERY COLD FELYSIAN PLANET.

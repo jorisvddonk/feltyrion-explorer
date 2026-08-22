@@ -1,6 +1,8 @@
-Planet: ETHYS
+Moon: ETHYS
 Starmap index: 59
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: RAMIREZ
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, SLIGHT POLAR CAPS.

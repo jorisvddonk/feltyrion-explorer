@@ -1,6 +1,8 @@
-Planet: WIN
+Moon: WIN
 Starmap index: 09
 Paris coordinates: 1348912, 4927784, 2646091
+Orbits: PLACE
+Moon id: 1
 
 Guide entries:
 FELISIAN WORLD IN TRIFECTA SYSTEM - R02/P04. TERRAIN IS GENTLE HILLS

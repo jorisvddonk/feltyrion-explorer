@@ -1,6 +1,8 @@
-Planet: GREYLOCK
+Moon: GREYLOCK
 Starmap index: 30
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 6
 
 Guide entries:
 PLANET MAY BE GREEN ON OUTSIDE, BUT SURFACE AREA IS GREY, AND LARGELY

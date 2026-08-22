@@ -1,3 +1,5 @@
-Planet: JYG
+Moon: JYG
 Starmap index: 12
 Paris coordinates: 5360, 336337, -613214
+Orbits: SERTA
+Moon id: 0

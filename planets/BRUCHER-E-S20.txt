@@ -1,3 +1,5 @@
-Planet: BRUCHER-E-S20
+Moon: BRUCHER-E-S20
 Starmap index: 38
 Paris coordinates: 3823952, 144991, -9072118
+Orbits: BRUCHER-E
+Moon id: 19

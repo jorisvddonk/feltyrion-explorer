@@ -1,6 +1,8 @@
-Planet: EMPORIUM
+Moon: EMPORIUM
 Starmap index: 16
 Paris coordinates: 1975376, 4755210, -6263722
+Orbits: MARPESIA
+Moon id: 1
 
 Guide entries:
 FELISIAN MOON (R02/P07) IN OCEANA SYSTEM

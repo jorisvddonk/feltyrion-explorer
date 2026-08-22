@@ -1,6 +1,8 @@
-Planet: INPAJAS
+Moon: INPAJAS
 Starmap index: 07
 Paris coordinates: 2070474544, -1823143, 385289
+Orbits: DATSFHON
+Moon id: 1
 
 Guide entries:
 M02/P04 SMALL SOLID THIN ATMO MODERATELY BRIGHT FAIR POLAR CAPS. PRO        

@@ -1,3 +1,5 @@
-Planet: TERNDYTA
+Moon: TERNDYTA
 Starmap index: 44
 Paris coordinates: -614992, 734031, -1219112
+Orbits: GOPSESSA
+Moon id: 0

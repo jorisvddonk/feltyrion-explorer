@@ -1,3 +1,5 @@
-Planet: MATANDA
+Moon: MATANDA
 Starmap index: 22
 Paris coordinates: -190841520, 789656, -115880313
+Orbits: KOTOCHA 6
+Moon id: 1

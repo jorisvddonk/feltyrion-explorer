@@ -1,6 +1,8 @@
-Planet: FENDHA
+Moon: FENDHA
 Starmap index: 13
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: PARFHSTREYA
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:403

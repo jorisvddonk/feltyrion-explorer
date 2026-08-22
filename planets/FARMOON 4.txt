@@ -1,6 +1,8 @@
-Planet: FARMOON 4
+Moon: FARMOON 4
 Starmap index: 31
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 3
 
 Guide entries:
  DO I REALLY HAVE TO TELL? ITS YET ANOTHER ICY WORLD, AS ALL THE

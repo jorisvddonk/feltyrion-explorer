@@ -1,6 +1,8 @@
-Planet: ARALON J
+Moon: ARALON J
 Starmap index: 33
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 9
 
 Guide entries:
 AIRLESS, VERY PALE BLUE, LARGE CRATERS. (SCHMERM 6011 584.201)

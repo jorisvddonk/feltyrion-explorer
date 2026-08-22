@@ -1,6 +1,8 @@
-Planet: FIRESKY 6.1
+Moon: FIRESKY 6.1
 Starmap index: 37
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 6
+Moon id: 0
 
 Guide entries:
 SMALL, DUSTY AND CRATERIZED, LACKS AN ATMOSPHERE. GREY APPEARANCE,

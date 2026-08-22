@@ -1,6 +1,8 @@
-Planet: KEEP
+Moon: KEEP
 Starmap index: 24
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 1
 
 Guide entries:
 THIS FELISIAN MOON IS FAR FROM IT'S SUN MAKING IT A COLD PLACE TO LIVE.

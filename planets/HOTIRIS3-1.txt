@@ -1,3 +1,5 @@
-Planet: HOTIRIS3-1
+Moon: HOTIRIS3-1
 Starmap index: 20
 Paris coordinates: 3055696, 4879869, 1258058
+Orbits: HOTIRIS3
+Moon id: 0

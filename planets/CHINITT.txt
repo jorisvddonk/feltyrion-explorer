@@ -1,6 +1,8 @@
-Planet: CHINITT
+Moon: CHINITT
 Starmap index: 23
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: DECOCTACATO
+Moon id: 12
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. THE SURFACE OF THIS MOON    

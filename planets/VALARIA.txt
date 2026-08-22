@@ -1,3 +1,5 @@
-Planet: VALARIA
+Moon: VALARIA
 Starmap index: 42
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZEBES
+Moon id: 12

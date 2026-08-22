@@ -1,3 +1,5 @@
-Planet: THE MINIPINK
+Moon: THE MINIPINK
 Starmap index: 06
 Paris coordinates: -71737776, -612728, 53298332
+Orbits: PINK OUTCAST
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: SOMMERSWERD
+Moon: SOMMERSWERD
 Starmap index: 23
 Paris coordinates: 3921776, 4663420, -1624678
+Orbits: TORAN
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: PERDITION
+Moon: PERDITION
 Starmap index: 16
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAW
+Moon id: 3

@@ -1,3 +1,5 @@
-Planet: HOTSPOT
+Moon: HOTSPOT
 Starmap index: 13
 Paris coordinates: 2568176, 4269415, 6430277
+Orbits: AIRSPHERE
+Moon id: 0

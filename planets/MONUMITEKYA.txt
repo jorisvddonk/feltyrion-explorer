@@ -1,6 +1,8 @@
-Planet: MONUMITEKYA
+Moon: MONUMITEKYA
 Starmap index: 29
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 0
 
 Guide entries:
 A FELISIAN MOON WITH VERY FEW REAL BODIES OF WATER.LIFE IS PROSPER          

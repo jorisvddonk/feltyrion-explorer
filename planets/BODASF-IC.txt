@@ -1,6 +1,8 @@
-Planet: BODASF-IC
+Moon: BODASF-IC
 Starmap index: 31
 Paris coordinates: 2732496, 7144244, -1685433
+Orbits: ACATO MINIMA
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZE, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.            

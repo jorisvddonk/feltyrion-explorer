@@ -1,6 +1,8 @@
-Planet: OMEGA BIG BLUE VIIA
+Moon: OMEGA BIG BLUE VIIA
 Starmap index: 12
 Paris coordinates: -11567088, -299536, -851430
+Orbits: OMEGA BIG BLUE VII
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS.

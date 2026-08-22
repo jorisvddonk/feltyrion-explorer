@@ -1,6 +1,8 @@
-Planet: RIGNE
+Moon: RIGNE
 Starmap index: 10
 Paris coordinates: 808208, 1178550, 752685
+Orbits: HIDROXY
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NOT TO MENTION MOON OF      

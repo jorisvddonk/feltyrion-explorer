@@ -1,6 +1,8 @@
-Planet: SIGNPOST
+Moon: SIGNPOST
 Starmap index: 17
 Paris coordinates: 10318928, 9974768, -10092158
+Orbits: planet index 06
+Moon id: 6
 
 Guide entries:
  MY HUNCH PAID OFF. AFTER A 1500 PARSIS JUMP, I MAY HAVE FOUND

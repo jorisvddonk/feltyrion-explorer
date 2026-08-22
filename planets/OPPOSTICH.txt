@@ -1,3 +1,5 @@
-Planet: OPPOSTICH
+Moon: OPPOSTICH
 Starmap index: 11
 Paris coordinates: 563568, 437608, 261632
+Orbits: ELECTRON
+Moon id: 6

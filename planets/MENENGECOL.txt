@@ -1,3 +1,5 @@
-Planet: MENENGECOL
+Moon: MENENGECOL
 Starmap index: 66
 Paris coordinates: 11558800, -19461295, 17911789
+Orbits: ASKEW 30I
+Moon id: 11

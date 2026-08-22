@@ -1,6 +1,8 @@
-Planet: GRANTED WISH 3.3
+Moon: GRANTED WISH 3.3
 Starmap index: 10
 Paris coordinates: 20016, 931585, -3607528
+Orbits: GRANTED WISH 3
+Moon id: 2
 
 Guide entries:
 MEDIUM-SIZED, ROCKY, CREASED, NO ATMOSPHERE. THIS MOON HAS                  

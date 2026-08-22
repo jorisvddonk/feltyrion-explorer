@@ -1,6 +1,8 @@
-Planet: YRTYRION 4.7
+Moon: YRTYRION 4.7
 Starmap index: 10
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 4
+Moon id: 3
 
 Guide entries:
  A RATHER DEAD WORLD; CRATERIZED; NO ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: WUKLU
+Moon: WUKLU
 Starmap index: 40
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 15
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. FAIRLY DARK AND PURPLE WITH

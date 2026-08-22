@@ -1,6 +1,8 @@
-Planet: DAVIN PI
+Moon: DAVIN PI
 Starmap index: 48
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 15
 
 Guide entries:
 SIXTEENTH MOON OF PLANET DAVIN IN THE GENISI SYSTEM

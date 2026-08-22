@@ -1,3 +1,5 @@
-Planet: FRINK
+Moon: FRINK
 Starmap index: 39
 Paris coordinates: 9252848, 5586893, -7007054
+Orbits: FEDERICIA
+Moon id: 0

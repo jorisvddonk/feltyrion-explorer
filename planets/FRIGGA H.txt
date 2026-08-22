@@ -1,6 +1,8 @@
-Planet: FRIGGA H
+Moon: FRIGGA H
 Starmap index: 35
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 7
 
 Guide entries:
 A SIXTH ICEWORLD MOON. BROWNISH WITH CRISSCROSS PATTERNS.

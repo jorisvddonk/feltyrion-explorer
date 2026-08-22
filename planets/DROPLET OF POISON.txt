@@ -1,3 +1,5 @@
-Planet: DROPLET OF POISON
+Moon: DROPLET OF POISON
 Starmap index: 10
 Paris coordinates: -71893136, -756602, 53977080
+Orbits: ENTICING POISON
+Moon id: 0

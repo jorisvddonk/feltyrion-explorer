@@ -1,6 +1,8 @@
-Planet: UNCLEAR HORIZONS
+Moon: UNCLEAR HORIZONS
 Starmap index: 12
 Paris coordinates: -443216, 735706, 871493
+Orbits: IN DARKNESS
+Moon id: 1
 
 Guide entries:
 MOST OF THIS PLANET IS COVERED IN A THICK, GREEN FOG

@@ -1,3 +1,5 @@
-Planet: JER HOH
+Moon: JER HOH
 Starmap index: 47
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 12

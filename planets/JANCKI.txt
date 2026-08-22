@@ -1,3 +1,5 @@
-Planet: JANCKI
+Moon: JANCKI
 Starmap index: 06
 Paris coordinates: -853680, 7535162, 25961518
+Orbits: AS12241810C
+Moon id: 1

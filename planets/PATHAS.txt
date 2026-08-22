@@ -1,6 +1,8 @@
-Planet: PATHAS
+Moon: PATHAS
 Starmap index: 17
 Paris coordinates: 4276048, 4341552, 1134378
+Orbits: ZHABRIY
+Moon id: 9
 
 Guide entries:
  YET ANOTHER MOON OF THE THIRD PLANET. IF THIS KEEPS UP,

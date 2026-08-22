@@ -1,3 +1,5 @@
-Planet: TOVARENIS
+Moon: TOVARENIS
 Starmap index: 29
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: KRESTARINES
+Moon id: 0

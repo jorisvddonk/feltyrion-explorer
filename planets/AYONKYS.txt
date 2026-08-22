@@ -1,3 +1,5 @@
-Planet: AYONKYS
+Moon: AYONKYS
 Starmap index: 13
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: YAETS'R
+Moon id: 1

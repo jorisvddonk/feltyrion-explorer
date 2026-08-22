@@ -1,6 +1,8 @@
-Planet: HOIMA
+Moon: HOIMA
 Starmap index: 14
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: GEIGAS
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

@@ -1,3 +1,5 @@
-Planet: ZAFFIRO
+Moon: ZAFFIRO
 Starmap index: 17
 Paris coordinates: 3473200, 4782739, 43271
+Orbits: GIALDORIA VII/LOCKET
+Moon id: 2

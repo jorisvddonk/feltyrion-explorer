@@ -1,6 +1,8 @@
-Planet: FALGORM
+Moon: FALGORM
 Starmap index: 09
 Paris coordinates: -2114992, 2833754, 263597
+Orbits: POLYGAMY C
+Moon id: 0
 
 Guide entries:
 A YELLOWISH-GREEN GAS GIANT ORBITING POLYGAMY C. (SCHMERM 6011 583.978

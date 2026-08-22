@@ -1,6 +1,8 @@
-Planet: MALCOLM
+Moon: MALCOLM
 Starmap index: 19
 Paris coordinates: -56784, -84307, -221013
+Orbits: INVERNESS
+Moon id: 1
 
 Guide entries:
 A SMALL FELYSIAN MOON. NO MAIN CONTINENTS, BUT LOTS OF SMALL ISLANDS

@@ -1,6 +1,8 @@
-Planet: DENABLU
+Moon: DENABLU
 Starmap index: 08
 Paris coordinates: -43376, 4332103, 37107834
+Orbits: BINBLUE B
+Moon id: 2
 
 Guide entries:
 A PRETTY NICE FELYSIAN MOON AROUND THE SECOND STAR, RELATIVELY DRY,

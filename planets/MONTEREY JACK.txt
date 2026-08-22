@@ -1,6 +1,8 @@
-Planet: MONTEREY JACK
+Moon: MONTEREY JACK
 Starmap index: 38
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: GOUDA
+Moon id: 13
 
 Guide entries:
 A FELISIAN WORLD- AT 160.61 IT WAS VERY HILLY WITH A NICE, THICK

@@ -1,6 +1,8 @@
-Planet: FLAMBOTON
+Moon: FLAMBOTON
 Starmap index: 05
 Paris coordinates: -32496, 1907498, -927835
+Orbits: SMOKE RING
+Moon id: 0
 
 Guide entries:
  A HOT ROCK...YIPITY DOO DA (SARCASM)

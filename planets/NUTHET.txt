@@ -1,6 +1,8 @@
-Planet: NUTHET
+Moon: NUTHET
 Starmap index: 12
 Paris coordinates: 167504, 55824, -835910
+Orbits: planet index 03
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. FAIR GREY

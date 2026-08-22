@@ -1,3 +1,5 @@
-Planet: DO NOT LAND!
+Moon: DO NOT LAND!
 Starmap index: 11
 Paris coordinates: 574288, 535718, -933464
+Orbits: planet index 03
+Moon id: 6

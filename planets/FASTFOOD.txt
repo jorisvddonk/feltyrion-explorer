@@ -1,3 +1,5 @@
-Planet: FASTFOOD
+Moon: FASTFOOD
 Starmap index: 22
 Paris coordinates: -64835440, 29718498, 1969366
+Orbits: LONGERBOW
+Moon id: 1

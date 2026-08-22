@@ -1,3 +1,5 @@
-Planet: YRHIJI
+Moon: YRHIJI
 Starmap index: 45
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: UNFHEVUC
+Moon id: 0

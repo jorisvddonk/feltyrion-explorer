@@ -1,6 +1,8 @@
-Planet: SPRINKLES
+Moon: SPRINKLES
 Starmap index: 07
 Paris coordinates: 118928, -45237, 83832
+Orbits: CHOCOLATE SUNDAE
+Moon id: 2
 
 Guide entries:
 MOON OF CHOCOLATE SUNDAE ON EKA69. VERY BEAUTIFUL, STRONG GREEN

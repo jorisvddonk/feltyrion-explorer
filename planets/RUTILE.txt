@@ -1,6 +1,8 @@
-Planet: RUTILE
+Moon: RUTILE
 Starmap index: 07
 Paris coordinates: -461808, 50208, 5718934
+Orbits: NAOS
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LOTS OF LOVELY HIGH

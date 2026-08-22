@@ -1,6 +1,8 @@
-Planet: VOWBIN VII I
+Moon: VOWBIN VII I
 Starmap index: 26
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VII
+Moon id: 8
 
 Guide entries:
 BEIGE-COLORED DEADWORLD. A CRATER OR TWO. (SCHMERM 6011 600.395)

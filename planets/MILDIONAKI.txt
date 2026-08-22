@@ -1,3 +1,5 @@
-Planet: MILDIONAKI
+Moon: MILDIONAKI
 Starmap index: 14
 Paris coordinates: 3858544, 5745947, 2575799
+Orbits: NUUERHT
+Moon id: 0

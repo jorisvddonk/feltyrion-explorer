@@ -1,3 +1,5 @@
-Planet: LUNAIOUS
+Moon: LUNAIOUS
 Starmap index: 12
 Paris coordinates: 753936, 5628283, -2542346
+Orbits: MONDAS
+Moon id: 0

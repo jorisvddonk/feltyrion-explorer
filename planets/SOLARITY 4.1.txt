@@ -1,6 +1,8 @@
-Planet: SOLARITY 4.1
+Moon: SOLARITY 4.1
 Starmap index: 12
 Paris coordinates: -232496, -77019, -427705
+Orbits: SOLARITY 4
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NOTHING SPECIAL,

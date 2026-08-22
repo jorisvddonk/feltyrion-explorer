@@ -1,3 +1,5 @@
-Planet: MUTE STORM
+Moon: MUTE STORM
 Starmap index: 17
 Paris coordinates: 70352, 945533, 1134813
+Orbits: TRILAR
+Moon id: 1

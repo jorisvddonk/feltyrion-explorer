@@ -1,6 +1,8 @@
-Planet: RUTA
+Moon: RUTA
 Starmap index: 10
 Paris coordinates: 2656784, 5306745, -2228491
+Orbits: AKENDUNN
+Moon id: 0
 
 Guide entries:
 TRACES OF ICE ON THE SURFACE

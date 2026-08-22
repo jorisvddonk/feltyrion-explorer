@@ -1,3 +1,5 @@
-Planet: REGULAR MOON 00002
+Moon: REGULAR MOON 00002
 Starmap index: 14
 Paris coordinates: 6251760, 5044996, -324250
+Orbits: SPACE DUST 0002
+Moon id: 0

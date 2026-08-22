@@ -1,6 +1,8 @@
-Planet: LAGRIN A
+Moon: LAGRIN A
 Starmap index: 27
 Paris coordinates: 3625712, -66300682, -2983002
+Orbits: LAGRIN
+Moon id: 0
 
 Guide entries:
 BRIGHT TURQUOISE DEADWORLD MOON NOT FAR OFF FROM ITS PARENT.

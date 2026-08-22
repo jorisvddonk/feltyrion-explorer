@@ -1,3 +1,5 @@
-Planet: FROSTED GLASS
+Moon: FROSTED GLASS
 Starmap index: 07
 Paris coordinates: 5869264, 5201184, -917539
+Orbits: planet index 04
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: PRICKLE
+Moon: PRICKLE
 Starmap index: 11
 Paris coordinates: 3552848, 6145109, -1343871
+Orbits: ROSA
+Moon id: 1

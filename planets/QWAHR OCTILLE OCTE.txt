@@ -1,3 +1,5 @@
-Planet: QWAHR OCTILLE OCTE
+Moon: QWAHR OCTILLE OCTE
 Starmap index: 62
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR OCTILLE
+Moon id: 7

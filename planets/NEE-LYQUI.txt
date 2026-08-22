@@ -1,3 +1,5 @@
-Planet: NEE-LYQUI
+Moon: NEE-LYQUI
 Starmap index: 37
 Paris coordinates: -614992, 734031, -1219112
+Orbits: PAGU HEZPIVIR
+Moon id: 0

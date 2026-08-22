@@ -1,6 +1,8 @@
-Planet: UNYS
+Moon: UNYS
 Starmap index: 27
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: ADITUL
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NOT ATMOSPHERE. GOOD THOUGH MOSTLY GREY

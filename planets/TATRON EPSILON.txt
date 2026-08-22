@@ -1,6 +1,8 @@
-Planet: TATRON EPSILON
+Moon: TATRON EPSILON
 Starmap index: 71
 Paris coordinates: 612144, 6999853, -833727
+Orbits: TATRON
+Moon id: 4
 
 Guide entries:
 FIFTH MOON OF PLANET TATRON IN THE GENISI SYSTEM

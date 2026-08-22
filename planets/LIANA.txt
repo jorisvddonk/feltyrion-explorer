@@ -1,3 +1,5 @@
-Planet: LIANA
+Moon: LIANA
 Starmap index: 09
 Paris coordinates: 2659632, 5047014, -45246
+Orbits: GARIBALDI
+Moon id: 0

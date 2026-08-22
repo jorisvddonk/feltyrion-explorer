@@ -1,3 +1,5 @@
-Planet: CELEBER
+Moon: CELEBER
 Starmap index: 11
 Paris coordinates: 570352, -17743, 592279
+Orbits: BETRAYED
+Moon id: 0

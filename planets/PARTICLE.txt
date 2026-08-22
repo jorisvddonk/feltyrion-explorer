@@ -1,6 +1,8 @@
-Planet: PARTICLE
+Moon: PARTICLE
 Starmap index: 21
 Paris coordinates: 4273200, 4648925, -986128
+Orbits: ROSE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MOSTLY DARK THOUGH LARGE 'LIGHTER'

@@ -1,6 +1,8 @@
-Planet: LOCKED WATER
+Moon: LOCKED WATER
 Starmap index: 06
 Paris coordinates: 885008, 5065379, -2638278
+Orbits: FAMILIAR II
+Moon id: 0
 
 Guide entries:
 A MOON OF FAMILIAR II COMPOSED OF AN ICY SURFACE OF UNKNOWN DEPTH

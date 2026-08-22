@@ -1,6 +1,8 @@
-Planet: LONGSHOT
+Moon: LONGSHOT
 Starmap index: 12
 Paris coordinates: 3973200, 4221255, -548021
+Orbits: SHOCK
+Moon id: 4
 
 Guide entries:
 DISCOVERED 6011.564.765.790 BY JEREMY HUSSELL

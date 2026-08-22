@@ -1,6 +1,8 @@
-Planet: BAKARAK
+Moon: BAKARAK
 Starmap index: 44
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: JUMOR
+Moon id: 5
 
 Guide entries:
 VISITED 263:092; FEW SHRUBS, SMALL FAST BIRDS AROUND. OCEAN APPEARS A

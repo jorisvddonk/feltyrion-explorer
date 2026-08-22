@@ -1,6 +1,8 @@
-Planet: GLORBERON Q
+Moon: GLORBERON Q
 Starmap index: 29
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 17
 
 Guide entries:
 ANOTHER HELLWORLD MOON OF GLORBERON. (SCHMERM 6011 582.600)

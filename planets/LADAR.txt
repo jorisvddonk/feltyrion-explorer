@@ -1,6 +1,8 @@
-Planet: LADAR
+Moon: LADAR
 Starmap index: 65
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: DEADAR
+Moon id: 2
 
 Guide entries:
 I'M NOT SURE HOW THIS HAPPENED, BUT SOME AREAS ACTUALLY SUPPORT LIFE.

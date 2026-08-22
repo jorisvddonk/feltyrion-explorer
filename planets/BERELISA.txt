@@ -1,6 +1,8 @@
-Planet: BERELISA
+Moon: BERELISA
 Starmap index: 34
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 06
+Moon id: 0
 
 Guide entries:
 BRIGHT PINK AND WHITE ROCKY MOON, FGS 0.22, TEMP -266, NO ATMOSPHERE

@@ -1,3 +1,5 @@
-Planet: JUGI
+Moon: JUGI
 Starmap index: 20
 Paris coordinates: -1862480, -12887279, -2575254
+Orbits: ZTRAK
+Moon id: 1

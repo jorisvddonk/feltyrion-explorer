@@ -1,6 +1,8 @@
-Planet: VORD HOSBN
+Moon: VORD HOSBN
 Starmap index: 21
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 3
 
 Guide entries:
 A LIFE-HARBOURING MOON. FOUND LITTLE ANIMAL LIFE HERE, JUST MOSTLY

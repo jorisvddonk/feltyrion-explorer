@@ -1,3 +1,5 @@
-Planet: EARIDON BETTA 3
+Moon: EARIDON BETTA 3
 Starmap index: 09
 Paris coordinates: 99064688, 1346115, 54624595
+Orbits: EARIDON BETA
+Moon id: 2

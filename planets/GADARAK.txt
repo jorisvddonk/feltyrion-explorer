@@ -1,6 +1,8 @@
-Planet: GADARAK
+Moon: GADARAK
 Starmap index: 24
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: YEOBJET
+Moon id: 16
 
 Guide entries:
  A GAS GIANT THAT IS A MOON. SEVENTEENTH OF THE THIRD PLANET.

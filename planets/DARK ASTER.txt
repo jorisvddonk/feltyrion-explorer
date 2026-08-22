@@ -1,6 +1,8 @@
-Planet: DARK ASTER
+Moon: DARK ASTER
 Starmap index: 64
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: POOKIE
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORM IN

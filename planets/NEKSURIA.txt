@@ -1,3 +1,5 @@
-Planet: NEKSURIA
+Moon: NEKSURIA
 Starmap index: 16
 Paris coordinates: 1583920, -27673265, 361375
+Orbits: RATOLUTA
+Moon id: 3

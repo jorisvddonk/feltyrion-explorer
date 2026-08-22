@@ -1,6 +1,8 @@
-Planet: ECTOR
+Moon: ECTOR
 Starmap index: 06
 Paris coordinates: 3959632, 4609715, -1242819
+Orbits: BRONZARIA MINOR
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY BRUCE STERLING WOODCOCK, EPOC 6011:571.703

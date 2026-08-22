@@ -1,6 +1,8 @@
-Planet: KOJOK
+Moon: KOJOK
 Starmap index: 40
 Paris coordinates: 780309456, -1972027, -24687
+Orbits: ISPHIKI
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR GREEN-GREY

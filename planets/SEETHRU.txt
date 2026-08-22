@@ -1,6 +1,8 @@
-Planet: SEETHRU
+Moon: SEETHRU
 Starmap index: 40
 Paris coordinates: -21340784, 17982045, 37379397
+Orbits: planet index 05
+Moon id: 12
 
 Guide entries:
  SMALL THIN ATMOSPHERE PLANETOF FODUCK SYSTEM. UNUSUAL IN THAT IT HAS

@@ -1,3 +1,5 @@
-Planet: ZENESER
+Moon: ZENESER
 Starmap index: 06
 Paris coordinates: 11796656, -19185769, 18074499
+Orbits: ASKEW 34D
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: DAGADYU
+Moon: DAGADYU
 Starmap index: 49
 Paris coordinates: -614992, 734031, -1219112
+Orbits: GOPSESSA
+Moon id: 5

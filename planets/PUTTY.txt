@@ -1,6 +1,8 @@
-Planet: PUTTY
+Moon: PUTTY
 Starmap index: 24
 Paris coordinates: 356784, 2863, -23661
+Orbits: ANGELIDRAN
+Moon id: 0
 
 Guide entries:
 REMARKABLE CRATERED MOON OF PLANET INTRIGUE ON EKA56; THE TEXTURE.. THE

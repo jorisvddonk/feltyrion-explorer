@@ -1,6 +1,8 @@
-Planet: ELAS
+Moon: ELAS
 Starmap index: 19
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

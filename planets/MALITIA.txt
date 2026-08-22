@@ -1,6 +1,8 @@
-Planet: MALITIA
+Moon: MALITIA
 Starmap index: 28
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 15
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

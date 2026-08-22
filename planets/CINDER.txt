@@ -1,6 +1,8 @@
-Planet: CINDER
+Moon: CINDER
 Starmap index: 17
 Paris coordinates: -625712, 1137800, 123585
+Orbits: PAX
+Moon id: 4
 
 Guide entries:
 NOT EXACTLY THE FAVORITE HANG-OUT OF MOUNTAIN CLIMBERS, MAYBE SPEED

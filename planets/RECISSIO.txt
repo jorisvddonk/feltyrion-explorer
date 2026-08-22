@@ -1,6 +1,8 @@
-Planet: RECISSIO
+Moon: RECISSIO
 Starmap index: 16
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 3
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMINESS

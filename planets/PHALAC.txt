@@ -1,3 +1,5 @@
-Planet: PHALAC
+Moon: PHALAC
 Starmap index: 12
 Paris coordinates: 763568, 121186, 4975
+Orbits: TING
+Moon id: 2

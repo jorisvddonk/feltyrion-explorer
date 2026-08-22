@@ -1,6 +1,8 @@
-Planet: JOHN THULIN
+Moon: JOHN THULIN
 Starmap index: 30
 Paris coordinates: -28560, 4607999, -2560039
+Orbits: planet index 08
+Moon id: 3
 
 Guide entries:
 4TH MOON OF 8TH PLANET IN WHAD'YAKNOW SYSTEM

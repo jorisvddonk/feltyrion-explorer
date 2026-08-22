@@ -1,6 +1,8 @@
-Planet: BICE
+Moon: BICE
 Starmap index: 44
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 3
 
 Guide entries:
 FAR ICE.

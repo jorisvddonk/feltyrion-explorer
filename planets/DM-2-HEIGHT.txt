@@ -1,6 +1,8 @@
-Planet: DM-2-HEIGHT
+Moon: DM-2-HEIGHT
 Starmap index: 12
 Paris coordinates: 3804272, 4498014, -620206
+Orbits: HIEGHT
+Moon id: 1
 
 Guide entries:
 DEAD MOON, NO ATMOSPHERE

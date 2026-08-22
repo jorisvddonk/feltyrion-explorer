@@ -1,6 +1,8 @@
-Planet: SEBASTOPOL
+Moon: SEBASTOPOL
 Starmap index: 34
 Paris coordinates: 4648912, 4643891, -722344
+Orbits: LUMINUS MAXIMA
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED MOON, ROCKY, CREASED, NO ATMOSPERE.

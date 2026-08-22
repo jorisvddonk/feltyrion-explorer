@@ -1,3 +1,5 @@
-Planet: PULSAR-1-D-S1
+Moon: PULSAR-1-D-S1
 Starmap index: 05
 Paris coordinates: 2456784, 4349420, -2089330
+Orbits: PULASR-1-D
+Moon id: 0

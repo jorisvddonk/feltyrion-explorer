@@ -1,6 +1,8 @@
-Planet: GEHENOM
+Moon: GEHENOM
 Starmap index: 40
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: planet index 07
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.812                                    

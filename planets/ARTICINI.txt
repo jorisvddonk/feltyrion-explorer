@@ -1,3 +1,5 @@
-Planet: ARTICINI
+Moon: ARTICINI
 Starmap index: 08
 Paris coordinates: 26677904, 6146018, 44553651
+Orbits: BLUEVE C
+Moon id: 0

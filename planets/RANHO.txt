@@ -1,3 +1,5 @@
-Planet: RANHO
+Moon: RANHO
 Starmap index: 50
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: JUMOR
+Moon id: 11

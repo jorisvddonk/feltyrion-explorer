@@ -1,3 +1,5 @@
-Planet: SKADIA-4
+Moon: SKADIA-4
 Starmap index: 75
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: NESIMA
+Moon id: 1

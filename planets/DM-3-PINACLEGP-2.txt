@@ -1,6 +1,8 @@
-Planet: DM-3-PINACLEGP-2
+Moon: DM-3-PINACLEGP-2
 Starmap index: 17
 Paris coordinates: 3804272, 4498014, -620206
+Orbits: GP-PINACLE-2
+Moon id: 2
 
 Guide entries:
 DEAD MOON, THIN ATMOSPHERE

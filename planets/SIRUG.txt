@@ -1,6 +1,8 @@
-Planet: SIRUG
+Moon: SIRUG
 Starmap index: 13
 Paris coordinates: 10081072, 292379, -10232107
+Orbits: KIMONG
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A GOOD PINKISH-WHITE

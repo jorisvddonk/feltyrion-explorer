@@ -1,3 +1,5 @@
-Planet: DOWN
+Moon: DOWN
 Starmap index: 19
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: PHONE
+Moon id: 4

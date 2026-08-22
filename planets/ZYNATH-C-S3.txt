@@ -1,3 +1,5 @@
-Planet: ZYNATH-C-S3
+Moon: ZYNATH-C-S3
 Starmap index: 15
 Paris coordinates: 2838608, -355266, -11118826
+Orbits: ZYNATH-C
+Moon id: 2

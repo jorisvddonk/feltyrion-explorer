@@ -1,3 +1,5 @@
-Planet: QWAHR SEPTUS QUIN
+Moon: QWAHR SEPTUS QUIN
 Starmap index: 52
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR SEPTUS
+Moon id: 4

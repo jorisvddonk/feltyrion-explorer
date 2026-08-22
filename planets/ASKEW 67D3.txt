@@ -1,3 +1,5 @@
-Planet: ASKEW 67D3
+Moon: ASKEW 67D3
 Starmap index: 13
 Paris coordinates: 11045232, -19173216, 17808348
+Orbits: INCONTINENT
+Moon id: 2

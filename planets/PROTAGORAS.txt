@@ -1,3 +1,5 @@
-Planet: PROTAGORAS
+Moon: PROTAGORAS
 Starmap index: 20
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: HELLAS
+Moon id: 8

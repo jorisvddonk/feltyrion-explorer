@@ -1,6 +1,8 @@
-Planet: ZEBRIM C
+Moon: ZEBRIM C
 Starmap index: 10
 Paris coordinates: 12144, 154769, -241000
+Orbits: ZEBRIM
+Moon id: 2
 
 Guide entries:
 A THINWORLD. SURFACE SLIGHTLY PURPLE. (SCHMERM 6011 584.404)

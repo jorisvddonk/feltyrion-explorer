@@ -1,6 +1,8 @@
-Planet: HUXTAGROMAGH
+Moon: HUXTAGROMAGH
 Starmap index: 10
 Paris coordinates: 50496144, 29002, 1980926922
+Orbits: AS12272234D
+Moon id: 2
 
 Guide entries:
 PLENTY OF WATER ON THIS FELYSIAN MOON.

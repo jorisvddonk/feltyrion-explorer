@@ -1,6 +1,8 @@
-Planet: BLUES
+Moon: BLUES
 Starmap index: 32
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: PURPIAN
+Moon id: 8
 
 Guide entries:
 SAD FELYSIAN PLANET, HABITABLE TEMPERATURES ONLY AT SEA LEVEL

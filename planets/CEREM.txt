@@ -1,6 +1,8 @@
-Planet: CEREM
+Moon: CEREM
 Starmap index: 18
 Paris coordinates: 3759632, 4475620, -1345634
+Orbits: DOLSI
+Moon id: 2
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. QUITE

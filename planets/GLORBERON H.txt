@@ -1,6 +1,8 @@
-Planet: GLORBERON H
+Moon: GLORBERON H
 Starmap index: 19
 Paris coordinates: -118928, 136846, 52177
+Orbits: GLORBERON
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED AND ROCKY. (SCHMERM 6011 582.599)

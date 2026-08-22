@@ -1,6 +1,8 @@
-Planet: OPEG
+Moon: OPEG
 Starmap index: 16
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 8
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

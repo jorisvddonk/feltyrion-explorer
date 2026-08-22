@@ -1,6 +1,8 @@
-Planet: ARCTURUS NEL
+Moon: ARCTURUS NEL
 Starmap index: 19
 Paris coordinates: 3466416, 4540059, -395069
+Orbits: PROTICUS DRIFTER
+Moon id: 8
 
 Guide entries:
 HOT DANG I LOVE THESE KINDA MOONS.IF ONLY I COULD LAND ON IT AND

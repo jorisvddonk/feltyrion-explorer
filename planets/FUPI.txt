@@ -1,6 +1,8 @@
-Planet: FUPI
+Moon: FUPI
 Starmap index: 13
 Paris coordinates: 81072, -77486, -118953
+Orbits: ALMAZAR
+Moon id: 0
 
 Guide entries:
 AIRLESS. 0.18 GRAVITY. GREEN AND BROWN WITH QUARTZ DEPOSITS.

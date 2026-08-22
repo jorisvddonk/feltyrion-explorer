@@ -1,6 +1,8 @@
-Planet: KARYSOME
+Moon: KARYSOME
 Starmap index: 21
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: OBOVOID
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZE, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. A COUPLE OF

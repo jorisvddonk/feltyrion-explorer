@@ -1,6 +1,8 @@
-Planet: SORA
+Moon: SORA
 Starmap index: 21
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-D
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS REFLECTIVE. STILL

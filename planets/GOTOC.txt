@@ -1,6 +1,8 @@
-Planet: GOTOC
+Moon: GOTOC
 Starmap index: 16
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREYISH

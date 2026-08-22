@@ -1,6 +1,8 @@
-Planet: CLOUDELLA RIF
+Moon: CLOUDELLA RIF
 Starmap index: 31
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: CLOUDELLA GREEN
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.195

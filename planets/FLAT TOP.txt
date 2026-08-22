@@ -1,6 +1,8 @@
-Planet: FLAT TOP
+Moon: FLAT TOP
 Starmap index: 06
 Paris coordinates: 3462480, 4481780, 1175915
+Orbits: WHEELER
+Moon id: 1
 
 Guide entries:
 THERE IS AN IMMENSE PLATEAU IN 119.78. IT IS FIXED ATOP A GIANT

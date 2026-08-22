@@ -1,6 +1,8 @@
-Planet: MOLTEG
+Moon: MOLTEG
 Starmap index: 29
 Paris coordinates: 6212656, 5124804, 40079781
+Orbits: NEONAS
+Moon id: 3
 
 Guide entries:
 AN INTERNALLY HOT MOON. FOURTH OF THE FOURTH PLANET.

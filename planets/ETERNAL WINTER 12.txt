@@ -1,3 +1,5 @@
-Planet: ETERNAL WINTER 12
+Moon: ETERNAL WINTER 12
 Starmap index: 45
 Paris coordinates: 3077136, 4447919, -1286006
+Orbits: MAX KABUTO 2
+Moon id: 14

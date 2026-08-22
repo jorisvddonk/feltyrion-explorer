@@ -1,3 +1,5 @@
-Planet: KUROS-SE'TOME
+Moon: KUROS-SE'TOME
 Starmap index: 15
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: KUROSSE
+Moon id: 6

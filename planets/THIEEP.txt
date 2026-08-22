@@ -1,6 +1,8 @@
-Planet: THIEEP
+Moon: THIEEP
 Starmap index: 22
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: TWONE
+Moon id: 9
 
 Guide entries:
 A PRETTY NICE THICK ATMO PLANET, THE SURFACE AREA IS A NICE PURPLISH

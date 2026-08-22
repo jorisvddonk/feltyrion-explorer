@@ -1,6 +1,8 @@
-Planet: ZEGRET
+Moon: ZEGRET
 Starmap index: 14
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 7
 
 Guide entries:
 A THICK ATMO MOON, THE EIGHTH OF THE THIRD PLANET. SURFACE COLOR RANGES

@@ -1,6 +1,8 @@
-Planet: DILINGEL
+Moon: DILINGEL
 Starmap index: 27
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: MARIANA
+Moon id: 7
 
 Guide entries:
 I MAY BE WRONG, BUT I THINK THERE IS LITTLE FAUNA IN THIS PLANET. IN

@@ -1,3 +1,5 @@
-Planet: JB 92
+Moon: JB 92
 Starmap index: 12
 Paris coordinates: -61846160, 29378084, 204968
+Orbits: GRUPA 7 C
+Moon id: 5

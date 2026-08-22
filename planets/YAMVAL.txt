@@ -1,6 +1,8 @@
-Planet: YAMVAL
+Moon: YAMVAL
 Starmap index: 11
 Paris coordinates: 2054927472, 1424347, -408821
+Orbits: PULVERULENTUS
+Moon id: 2
 
 Guide entries:
 M03/P04 SMALL SOLID DUSTY LARGE CRATERS WITH WHITE RAYS ON REFLECTIVE       

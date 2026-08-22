@@ -1,6 +1,8 @@
-Planet: JUIVO
+Moon: JUIVO
 Starmap index: 14
 Paris coordinates: 2140268528, -2165691, -352139
+Orbits: JUOTI
+Moon id: 0
 
 Guide entries:
 M01/P07 SMSMALL SOLID DUSTY CRATERIZED. SLIGHT PINK REFLECTIVITY FROM       

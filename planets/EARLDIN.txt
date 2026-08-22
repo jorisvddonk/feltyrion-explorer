@@ -1,3 +1,5 @@
-Planet: EARLDIN
+Moon: EARLDIN
 Starmap index: 54
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 19

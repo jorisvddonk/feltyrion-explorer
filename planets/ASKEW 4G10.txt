@@ -1,3 +1,5 @@
-Planet: ASKEW 4G10
+Moon: ASKEW 4G10
 Starmap index: 40
 Paris coordinates: 2067504, 5563906, -2988222
+Orbits: ASKEW 4G
+Moon id: 9

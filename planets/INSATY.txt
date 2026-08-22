@@ -1,6 +1,8 @@
-Planet: INSATY
+Moon: INSATY
 Starmap index: 22
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 1
 
 Guide entries:
 M02/P08 MEDIUM SIZE ROCKY VERY ROUGH, VERY SCARRED, DARK GREY. PRO          

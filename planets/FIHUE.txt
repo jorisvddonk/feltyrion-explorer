@@ -1,6 +1,8 @@
-Planet: FIHUE
+Moon: FIHUE
 Starmap index: 19
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: TEMBILGO
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

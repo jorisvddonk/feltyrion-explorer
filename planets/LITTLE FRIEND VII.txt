@@ -1,3 +1,5 @@
-Planet: LITTLE FRIEND VII
+Moon: LITTLE FRIEND VII
 Starmap index: 10
 Paris coordinates: 3008208, 5683926, -1431904
+Orbits: LITTLE BROTHER
+Moon id: 6

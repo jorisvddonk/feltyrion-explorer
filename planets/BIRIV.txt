@@ -1,3 +1,5 @@
-Planet: BIRIV
+Moon: BIRIV
 Starmap index: 17
 Paris coordinates: -2582832, -6847123, -3094735
+Orbits: GUGLOWSK
+Moon id: 0

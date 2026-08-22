@@ -1,6 +1,8 @@
-Planet: KIRIAMAL
+Moon: KIRIAMAL
 Starmap index: 11
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: HAESITO
+Moon id: 0
 
 Guide entries:
 M01P03, SMALL AND DUSTY, PRO 0.209.520; PRV 0.002.131.731 /// ROUGH

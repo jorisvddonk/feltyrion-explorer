@@ -1,3 +1,5 @@
-Planet: KAUHU
+Moon: KAUHU
 Starmap index: 14
 Paris coordinates: 5576048, 4858380, 29991
+Orbits: OLOVI
+Moon id: 1

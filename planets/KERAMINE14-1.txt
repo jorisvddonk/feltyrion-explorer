@@ -1,6 +1,8 @@
-Planet: KERAMINE14-1
+Moon: KERAMINE14-1
 Starmap index: 40
 Paris coordinates: -36432, -1290440, 1061497
+Orbits: KERAMINE14
+Moon id: 0
 
 Guide entries:
 SMALL, THIN ATMOSPHERE.

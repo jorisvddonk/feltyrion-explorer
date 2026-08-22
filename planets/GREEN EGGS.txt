@@ -1,6 +1,8 @@
-Planet: GREEN EGGS
+Moon: GREEN EGGS
 Starmap index: 17
 Paris coordinates: 3648912, 4732863, 353992
+Orbits: COLD PEARL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED!, NO ATMOSPHERE. THIS MOON HAS

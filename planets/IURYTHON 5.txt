@@ -1,3 +1,5 @@
-Planet: IURYTHON 5
+Moon: IURYTHON 5
 Starmap index: 08
 Paris coordinates: -105456, -268569, 1579253151
+Orbits: IURYTHON
+Moon id: 4

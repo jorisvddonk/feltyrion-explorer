@@ -1,6 +1,8 @@
-Planet: TUNIC
+Moon: TUNIC
 Starmap index: 25
 Paris coordinates: -218928, 44011, 180703
+Orbits: ROLEAU
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, SLIGHTLY DARK, LIGHT AREAS INCLUDING A

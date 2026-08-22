@@ -1,6 +1,8 @@
-Planet: LARIKNARIK 3F
+Moon: LARIKNARIK 3F
 Starmap index: 12
 Paris coordinates: -25176144, -19970420, -449611016
+Orbits: LARIKNARIK 3
+Moon id: 5
 
 Guide entries:
 THIS MOON HAS A SURFACE COMPOSED OF QUARTZ. (SHADOWCLAW)

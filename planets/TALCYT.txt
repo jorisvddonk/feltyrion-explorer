@@ -1,6 +1,8 @@
-Planet: TALCYT
+Moon: TALCYT
 Starmap index: 24
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: NUBNAKI
+Moon id: 3
 
 Guide entries:
 M04/08 MEDIUM SIZE THICK ATMO, BROWN CLOUD COVER ALMOST OBLITERATED BY      

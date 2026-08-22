@@ -1,6 +1,8 @@
-Planet: AIT
+Moon: AIT
 Starmap index: 22
 Paris coordinates: 587856, 70599, -335898
+Orbits: NITSA
+Moon id: 7
 
 Guide entries:
 THIS MOONS SURFACE IS ENVELOPED IN A THICK PALE GREEN FOG.THIS MAKES

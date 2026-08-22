@@ -1,6 +1,8 @@
-Planet: KALLACH IX A
+Moon: KALLACH IX A
 Starmap index: 16
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: KALLACH IX
+Moon id: 0
 
 Guide entries:
 PURPLE THINWORLD. (SCHMERM 6011 600.975)

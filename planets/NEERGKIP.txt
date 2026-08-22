@@ -1,6 +1,8 @@
-Planet: NEERGKIP
+Moon: NEERGKIP
 Starmap index: 08
 Paris coordinates: 281744, 1534683, 9315465
+Orbits: TELAPEL
+Moon id: 0
 
 Guide entries:
 MOON IS DARK GREEN IN MOST AREAS, JUST BARELY EXPLORABLE AT PINK

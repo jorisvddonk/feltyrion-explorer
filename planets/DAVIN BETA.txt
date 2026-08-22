@@ -1,6 +1,8 @@
-Planet: DAVIN BETA
+Moon: DAVIN BETA
 Starmap index: 34
 Paris coordinates: 612144, 6999853, -833727
+Orbits: DAVIN
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET DAVIN IN THE GENISI SYSTEM

@@ -1,3 +1,5 @@
-Planet: KHUROS
+Moon: KHUROS
 Starmap index: 30
 Paris coordinates: -363568, 271605, -221691
+Orbits: planet index 07
+Moon id: 14

@@ -1,3 +1,5 @@
-Planet: BAID'N
+Moon: BAID'N
 Starmap index: 14
 Paris coordinates: 3759632, 5175620, -1292134
+Orbits: planet index 05
+Moon id: 2

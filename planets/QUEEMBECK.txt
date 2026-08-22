@@ -1,3 +1,5 @@
-Planet: QUEEMBECK
+Moon: QUEEMBECK
 Starmap index: 35
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: JB 119
+Moon id: 3

@@ -1,3 +1,5 @@
-Planet: IURYTHON 3
+Moon: IURYTHON 3
 Starmap index: 06
 Paris coordinates: -105456, -268569, 1579253151
+Orbits: IURYTHON
+Moon id: 2

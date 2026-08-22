@@ -1,6 +1,8 @@
-Planet: SNOW BLIND
+Moon: SNOW BLIND
 Starmap index: 18
 Paris coordinates: 36432, 433110, -621435
+Orbits: DES3
+Moon id: 11
 
 Guide entries:
 THIS MOON IS MADE OF QUARTZ

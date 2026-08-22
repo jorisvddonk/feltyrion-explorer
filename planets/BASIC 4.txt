@@ -1,6 +1,8 @@
-Planet: BASIC 4
+Moon: BASIC 4
 Starmap index: 19
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 12
 
 Guide entries:
 FOUNDED EPOC 6011, 681.315.414 BY REZA. 13TH MOON OF OCEAN.                 

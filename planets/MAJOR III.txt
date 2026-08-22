@@ -1,6 +1,8 @@
-Planet: MAJOR III
+Moon: MAJOR III
 Starmap index: 11
 Paris coordinates: -344976, 9517823, -4954054
+Orbits: MULTIPLIA MAJOR
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY TIANCRIS - EPOC 6011.691.848 -                                

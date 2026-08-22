@@ -1,3 +1,5 @@
-Planet: GRAEINLARANGUYTH
+Moon: GRAEINLARANGUYTH
 Starmap index: 14
 Paris coordinates: 58564272, -34151242, 927662134
+Orbits: REYEWNGAERGYHUHN
+Moon id: 4

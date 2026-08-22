@@ -1,6 +1,8 @@
-Planet: MIAHIE
+Moon: MIAHIE
 Starmap index: 11
 Paris coordinates: 763588656, -17558845, -127586509
+Orbits: ADAVAYNE
+Moon id: 0
 
 Guide entries:
 M01P05, DUSTY AND CRATERIZED, PRO 0.099.720; PRV 0.002.053.509 /// VERY

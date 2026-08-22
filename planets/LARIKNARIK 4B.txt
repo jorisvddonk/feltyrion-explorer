@@ -1,3 +1,5 @@
-Planet: LARIKNARIK 4B
+Moon: LARIKNARIK 4B
 Starmap index: 20
 Paris coordinates: -25176144, -19970420, -449611016
+Orbits: LARIKNARIK 4
+Moon id: 1

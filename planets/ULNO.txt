@@ -1,6 +1,8 @@
-Planet: ULNO
+Moon: ULNO
 Starmap index: 37
 Paris coordinates: 3873200, 5739766, -376082
+Orbits: OXALIS
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. SKINNYMON

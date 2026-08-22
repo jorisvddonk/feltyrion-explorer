@@ -1,6 +1,8 @@
-Planet: VIPER 5.2
+Moon: VIPER 5.2
 Starmap index: 21
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 5
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY ETC. HAS BOWNISH APPEARANCE, GOOD REFLECTIVITY

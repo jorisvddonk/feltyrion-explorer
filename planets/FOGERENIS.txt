@@ -1,3 +1,5 @@
-Planet: FOGERENIS
+Moon: FOGERENIS
 Starmap index: 24
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: LARNERIDGES
+Moon id: 4

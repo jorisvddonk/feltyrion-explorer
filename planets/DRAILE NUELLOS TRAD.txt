@@ -1,3 +1,5 @@
-Planet: DRAILE NUELLOS TRAD
+Moon: DRAILE NUELLOS TRAD
 Starmap index: 41
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE NUELLOS
+Moon id: 12

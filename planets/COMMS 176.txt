@@ -1,3 +1,5 @@
-Planet: COMMS 176
+Moon: COMMS 176
 Starmap index: 35
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 0

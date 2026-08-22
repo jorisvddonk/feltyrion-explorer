@@ -1,6 +1,8 @@
-Planet: SWARS
+Moon: SWARS
 Starmap index: 06
 Paris coordinates: 4297488, 4641055, -1532611
+Orbits: GRYNTI
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FAIR SLIGHTLY PURPLE

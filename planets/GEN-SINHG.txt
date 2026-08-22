@@ -1,6 +1,8 @@
-Planet: GEN-SINHG
+Moon: GEN-SINHG
 Starmap index: 28
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-GGP-8
+Moon id: 6
 
 Guide entries:
 THIS CLOUD COVERED WORLD HAS NO REMARKABLE FEATURES THAT I HAVE...

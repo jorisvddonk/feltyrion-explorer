@@ -1,3 +1,5 @@
-Planet: SUFFOCOST
+Moon: SUFFOCOST
 Starmap index: 53
 Paris coordinates: 4328560, 3997615, -1543936
+Orbits: planet index 11
+Moon id: 12

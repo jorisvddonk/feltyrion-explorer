@@ -1,6 +1,8 @@
-Planet: MOONSEED
+Moon: MOONSEED
 Starmap index: 18
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: HOT PLATE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY CRATERIZED, BUT

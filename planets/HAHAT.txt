@@ -1,3 +1,5 @@
-Planet: HAHAT
+Moon: HAHAT
 Starmap index: 08
 Paris coordinates: 612144, 399853, -785670
+Orbits: KAMPIA
+Moon id: 0

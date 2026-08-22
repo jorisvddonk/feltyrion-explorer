@@ -1,6 +1,8 @@
-Planet: SULPHUR
+Moon: SULPHUR
 Starmap index: 34
 Paris coordinates: 3459632, 4362483, -1005168
+Orbits: RESERVOIR
+Moon id: 0
 
 Guide entries:
 IF YOU WANT THE MOON, YOU CAN HAVE IT. INITIAL SURVEY REVEALED NOTHING

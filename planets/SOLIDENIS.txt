@@ -1,3 +1,5 @@
-Planet: SOLIDENIS
+Moon: SOLIDENIS
 Starmap index: 18
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: KISIELUS
+Moon id: 2

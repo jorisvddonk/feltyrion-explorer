@@ -1,6 +1,8 @@
-Planet: CRADLE VI C
+Moon: CRADLE VI C
 Starmap index: 44
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE VI
+Moon id: 2
 
 Guide entries:
 PURPLE DENSEWORLD WITH BLUE BANDS. (SCHMERM 6011 592.878)

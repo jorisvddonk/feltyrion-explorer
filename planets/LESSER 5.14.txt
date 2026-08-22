@@ -1,6 +1,8 @@
-Planet: LESSER 5.14
+Moon: LESSER 5.14
 Starmap index: 20
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 5
+Moon id: 13
 
 Guide entries:
 MEDIUM-SIZED QUARTZ MOON. BLUE APPEARANCE. I DIDN'T DARE TO LAND

@@ -1,6 +1,8 @@
-Planet: PARMIGIANO
+Moon: PARMIGIANO
 Starmap index: 21
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: MOZZARELLA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE.A DUSTBALL WITH

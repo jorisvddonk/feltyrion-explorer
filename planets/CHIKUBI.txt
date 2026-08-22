@@ -1,3 +1,5 @@
-Planet: CHIKUBI
+Moon: CHIKUBI
 Starmap index: 12
 Paris coordinates: 1077136, 143103, 570971
+Orbits: SABURE TOO
+Moon id: 8

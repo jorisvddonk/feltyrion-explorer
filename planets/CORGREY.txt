@@ -1,6 +1,8 @@
-Planet: CORGREY
+Moon: CORGREY
 Starmap index: 36
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 10
 
 Guide entries:
 AN AVERAGE THICK ATMO MOON, SURFACE AREA COLORS ARE USUALLY GREY, BUT

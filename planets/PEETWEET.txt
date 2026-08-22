@@ -1,6 +1,8 @@
-Planet: PEETWEET
+Moon: PEETWEET
 Starmap index: 57
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: PERNICIOUS
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAPS VISIBLE.

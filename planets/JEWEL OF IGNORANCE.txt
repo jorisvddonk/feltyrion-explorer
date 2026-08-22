@@ -1,6 +1,8 @@
-Planet: JEWEL OF IGNORANCE
+Moon: JEWEL OF IGNORANCE
 Starmap index: 09
 Paris coordinates: 2501424, 4364880, -1388893
+Orbits: DARKLORE
+Moon id: 3
 
 Guide entries:
 MOON DISCOVERED BY SEB PAT EPOC 6011:683.560                                

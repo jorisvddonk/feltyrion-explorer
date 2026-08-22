@@ -1,6 +1,8 @@
-Planet: KASHNEKA
+Moon: KASHNEKA
 Starmap index: 08
 Paris coordinates: 2052769264, -423632, 262976
+Orbits: IBAERY
+Moon id: 4
 
 Guide entries:
 M05/PP03 MEDIUM SIZE THICK ATMO, GREEN TURBID CLOUD COVER, LARGE            

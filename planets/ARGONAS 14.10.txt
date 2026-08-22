@@ -1,6 +1,8 @@
-Planet: ARGONAS 14.10
+Moon: ARGONAS 14.10
 Starmap index: 56
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 14
+Moon id: 9
 
 Guide entries:
  NO ATMOSPHERE, NO HEAT, NO HOPE. SMALL, ICY.

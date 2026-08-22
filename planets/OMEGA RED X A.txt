@@ -1,6 +1,8 @@
-Planet: OMEGA RED X A
+Moon: OMEGA RED X A
 Starmap index: 27
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED X
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. PRETTY DINGY,

@@ -1,3 +1,5 @@
-Planet: NEMARIS
+Moon: NEMARIS
 Starmap index: 13
 Paris coordinates: -61846160, 29378084, 204968
+Orbits: GRUPA 7 C
+Moon id: 6

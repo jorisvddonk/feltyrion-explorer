@@ -1,6 +1,8 @@
-Planet: MOODO
+Moon: MOODO
 Starmap index: 35
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: GRORN
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. MODERATE

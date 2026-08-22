@@ -1,6 +1,8 @@
-Planet: QOUIR 7.8
+Moon: QOUIR 7.8
 Starmap index: 21
 Paris coordinates: 2108208, 1634064, -606358
+Orbits: QOUIR 7
+Moon id: 7
 
 Guide entries:
  A FELISIAN FAR-MOON, SIMILAR TO WETWICK IN THE FENIA SYSTEM.

@@ -1,6 +1,8 @@
-Planet: HOL VATAT
+Moon: HOL VATAT
 Starmap index: 11
 Paris coordinates: 43216, 394196, -236960
+Orbits: SMARAG
+Moon id: 4
 
 Guide entries:
 DISCOVERED BY FOTIOS. EPOC 6011:609.544

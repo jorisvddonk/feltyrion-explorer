@@ -1,3 +1,5 @@
-Planet: MOON 30
+Moon: MOON 30
 Starmap index: 30
 Paris coordinates: 4566416, 4745435, -1511147
+Orbits: WALTZPERDOS
+Moon id: 0

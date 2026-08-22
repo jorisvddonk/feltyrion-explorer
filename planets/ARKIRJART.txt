@@ -1,6 +1,8 @@
-Planet: ARKIRJART
+Moon: ARKIRJART
 Starmap index: 13
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: VAMEVARI
+Moon id: 2
 
 Guide entries:
 M03/P05 ROCKY. ROUGH, CRATERED WITH DARK FIELDS NEARBY. PRO 0.186.

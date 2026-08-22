@@ -1,3 +1,5 @@
-Planet: GAESIOWS
+Moon: GAESIOWS
 Starmap index: 19
 Paris coordinates: -370352, 661330, -712610
+Orbits: MENNI MUNE
+Moon id: 10

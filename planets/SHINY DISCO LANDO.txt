@@ -1,6 +1,8 @@
-Planet: SHINY DISCO LANDO
+Moon: SHINY DISCO LANDO
 Starmap index: 08
 Paris coordinates: -776048, 4351251, -4442859
+Orbits: TROPIC DE SINE
+Moon id: 1
 
 Guide entries:
  FOUND SOME INTERESTING MONTAINS NEAR LQ 236-076

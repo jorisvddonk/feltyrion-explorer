@@ -1,3 +1,5 @@
-Planet: ULNAREE
+Moon: ULNAREE
 Starmap index: 07
 Paris coordinates: 4293552, 3757950, 243471
+Orbits: SHURI-RYU
+Moon id: 0

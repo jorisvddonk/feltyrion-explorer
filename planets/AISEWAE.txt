@@ -1,3 +1,5 @@
-Planet: AISEWAE
+Moon: AISEWAE
 Starmap index: 46
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: SCHOJ
+Moon id: 3

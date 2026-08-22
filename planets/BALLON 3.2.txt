@@ -1,6 +1,8 @@
-Planet: BALLON 3.2
+Moon: BALLON 3.2
 Starmap index: 20
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 3
+Moon id: 1
 
 Guide entries:
 THIS OBJECT IS OF THE SAME TYPE AS THE PREVIOUS ONE. VERY YELLOW,           

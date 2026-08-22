@@ -1,3 +1,5 @@
-Planet: HAKUNA-E-S1
+Moon: HAKUNA-E-S1
 Starmap index: 32
 Paris coordinates: 264656, 999491, -3130269
+Orbits: HAKUNA-E
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: ORANGE XUD
+Moon: ORANGE XUD
 Starmap index: 15
 Paris coordinates: 5779984, 5063991, -1935655
+Orbits: planet index 03
+Moon id: 5

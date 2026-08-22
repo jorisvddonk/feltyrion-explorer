@@ -1,6 +1,8 @@
-Planet: THINK
+Moon: THINK
 Starmap index: 09
 Paris coordinates: 5009808, 4830465, 39078705
+Orbits: BIYOUNG B
+Moon id: 4
 
 Guide entries:
 AN AVERAGE, BUT BEAUTIFUL, THICK ATMO PLANET AROUND THE SECOND STAR.

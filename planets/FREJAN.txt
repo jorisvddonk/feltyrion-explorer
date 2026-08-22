@@ -1,3 +1,5 @@
-Planet: FREJAN
+Moon: FREJAN
 Starmap index: 23
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: SIDEON
+Moon id: 5

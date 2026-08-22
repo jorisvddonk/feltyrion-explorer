@@ -1,6 +1,8 @@
-Planet: LIGHTPATCH
+Moon: LIGHTPATCH
 Starmap index: 36
 Paris coordinates: 381072, 1932089, -429498
+Orbits: planet index 08
+Moon id: 5
 
 Guide entries:
 QUITE BRIGHT ON THE SURFACE FOR A WORLD OF ITS DISTANCE;OTHERWISE           

@@ -1,6 +1,8 @@
-Planet: ORBAN TRX 4
+Moon: ORBAN TRX 4
 Starmap index: 38
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: AUSSOIS
+Moon id: 2
 
 Guide entries:
 THIS LIFE-HARBOURING MOON IS SURPRISINGLY FLAT. PLANT LIFE IS NOT

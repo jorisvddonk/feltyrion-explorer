@@ -1,6 +1,8 @@
-Planet: BOPP
+Moon: BOPP
 Starmap index: 15
 Paris coordinates: 2801424, 3939203, -1655792
+Orbits: NIMBUS ROXO
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY CAPT. CARLOS ON 6011.602.875.62. APART FROM THE SEVERAL

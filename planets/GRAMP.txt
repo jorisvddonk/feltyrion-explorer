@@ -1,6 +1,8 @@
-Planet: GRAMP
+Moon: GRAMP
 Starmap index: 29
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 12
 
 Guide entries:
 THIRDTEENTH MOON OF FAT VIOLET

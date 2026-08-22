@@ -1,3 +1,5 @@
-Planet: ORANGE YELLOW
+Moon: ORANGE YELLOW
 Starmap index: 37
 Paris coordinates: -3970352, 1646424, 2969723
+Orbits: PEACH CRAYON
+Moon id: 0

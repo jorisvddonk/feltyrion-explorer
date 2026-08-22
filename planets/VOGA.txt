@@ -1,3 +1,5 @@
-Planet: VOGA
+Moon: VOGA
 Starmap index: 13
 Paris coordinates: 753936, 5628283, -2542346
+Orbits: MONDAS
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: HURF
+Moon: HURF
 Starmap index: 43
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FALMUT
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, REDDISH.

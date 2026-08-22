@@ -1,3 +1,5 @@
-Planet: FISH HAVEN
+Moon: FISH HAVEN
 Starmap index: 45
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 10

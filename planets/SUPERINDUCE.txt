@@ -1,6 +1,8 @@
-Planet: SUPERINDUCE
+Moon: SUPERINDUCE
 Starmap index: 19
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERCHARGER
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. STORMS

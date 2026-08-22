@@ -1,3 +1,5 @@
-Planet: BRASHUR
+Moon: BRASHUR
 Starmap index: 15
 Paris coordinates: -770352, 114475, -280746
+Orbits: ALBRECHT
+Moon id: 0

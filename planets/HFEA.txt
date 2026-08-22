@@ -1,6 +1,8 @@
-Planet: HFEA
+Moon: HFEA
 Starmap index: 16
 Paris coordinates: 808208, 1178550, 752685
+Orbits: LHITE
+Moon id: 0
 
 Guide entries:
 THE MOON OF LHITE, WHICH HAPPENS TO HAVE MORE SURFACE GRAVITY THAN IT'S     

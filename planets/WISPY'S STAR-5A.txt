@@ -1,3 +1,5 @@
-Planet: WISPY'S STAR-5A
+Moon: WISPY'S STAR-5A
 Starmap index: 29
 Paris coordinates: 3452848, 4518536, -1183512
+Orbits: WISPY'S STAR-5
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: WHIPPED CREAM
+Moon: WHIPPED CREAM
 Starmap index: 08
 Paris coordinates: 118928, -45237, 83832
+Orbits: CHOCOLATE SUNDAE
+Moon id: 3
 
 Guide entries:
 FELISIAN MOON OF CHOCOLATE SUNDAE ON EKA69. MOSTLY LAND, THOUGH

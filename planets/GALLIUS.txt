@@ -1,3 +1,5 @@
-Planet: GALLIUS
+Moon: GALLIUS
 Starmap index: 37
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: KASSIUS
+Moon id: 15

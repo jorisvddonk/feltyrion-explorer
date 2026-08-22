@@ -1,3 +1,5 @@
-Planet: QATYRU
+Moon: QATYRU
 Starmap index: 23
 Paris coordinates: -614992, 734031, -1219112
+Orbits: KOMA HEZPIVIR
+Moon id: 6

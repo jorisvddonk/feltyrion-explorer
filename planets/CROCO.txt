@@ -1,3 +1,5 @@
-Planet: CROCO
+Moon: CROCO
 Starmap index: 70
 Paris coordinates: 70352, 945533, 1134813
+Orbits: GASTRIX
+Moon id: 16

@@ -1,6 +1,8 @@
-Planet: AEX-05-K
+Moon: AEX-05-K
 Starmap index: 24
 Paris coordinates: 598576, 4279484, -1591122
+Orbits: AEX-05
+Moon id: 10
 
 Guide entries:
 MOON DISCOVERED BY YAYO (ROBERTO CORREZZOLA) EPOC 6011:684.907              

@@ -1,3 +1,5 @@
-Planet: EIGHTYSEVEN
+Moon: EIGHTYSEVEN
 Starmap index: 38
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: YEYEYE
+Moon id: 10

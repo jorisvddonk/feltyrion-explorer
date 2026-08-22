@@ -1,3 +1,5 @@
-Planet: GANT M1
+Moon: GANT M1
 Starmap index: 09
 Paris coordinates: 318928, 183426, -53503
+Orbits: GANT
+Moon id: 0

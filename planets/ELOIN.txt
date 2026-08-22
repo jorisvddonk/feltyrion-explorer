@@ -1,6 +1,8 @@
-Planet: ELOIN
+Moon: ELOIN
 Starmap index: 18
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. EXTREMELY SCARRED.

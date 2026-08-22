@@ -1,6 +1,8 @@
-Planet: DESOLATION ROW
+Moon: DESOLATION ROW
 Starmap index: 38
 Paris coordinates: 6159632, 4245248, -3438980
+Orbits: PIDDOCK
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. WELL COVERED

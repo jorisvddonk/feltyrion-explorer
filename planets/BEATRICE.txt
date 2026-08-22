@@ -1,3 +1,5 @@
-Planet: BEATRICE
+Moon: BEATRICE
 Starmap index: 19
 Paris coordinates: 4648912, 5743891, -726921
+Orbits: SIDEON
+Moon id: 1

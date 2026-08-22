@@ -1,6 +1,8 @@
-Planet: DRACH
+Moon: DRACH
 Starmap index: 29
 Paris coordinates: 4142128, 4282625, -592209
+Orbits: EXAN
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, NICE

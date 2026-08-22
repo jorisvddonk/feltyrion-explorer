@@ -1,3 +1,5 @@
-Planet: KIANOS
+Moon: KIANOS
 Starmap index: 15
 Paris coordinates: -61294736, 30101179, 849771
+Orbits: ACINAIS
+Moon id: 0

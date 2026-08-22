@@ -1,3 +1,5 @@
-Planet: GLITCH
+Moon: GLITCH
 Starmap index: 48
 Paris coordinates: 70352, 945533, 1134813
+Orbits: SAPHIRE STORM
+Moon id: 13

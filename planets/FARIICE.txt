@@ -1,6 +1,8 @@
-Planet: FARIICE
+Moon: FARIICE
 Starmap index: 47
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 6
 
 Guide entries:
 FAR, ICE. (MEGAGUN)

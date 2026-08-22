@@ -1,6 +1,8 @@
-Planet: BRATIL
+Moon: BRATIL
 Starmap index: 67
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. QUITE DARKLY REFLECTIVE

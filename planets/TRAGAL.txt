@@ -1,6 +1,8 @@
-Planet: TRAGAL
+Moon: TRAGAL
 Starmap index: 43
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALYE
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. ONLY THE HINT

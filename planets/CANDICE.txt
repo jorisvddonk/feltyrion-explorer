@@ -1,6 +1,8 @@
-Planet: CANDICE
+Moon: CANDICE
 Starmap index: 21
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: REITER
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.815                                    

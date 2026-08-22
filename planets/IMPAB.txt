@@ -1,6 +1,8 @@
-Planet: IMPAB
+Moon: IMPAB
 Starmap index: 07
 Paris coordinates: 14539952, 7307815, -3397368
+Orbits: GLOGAFIDU
+Moon id: 0
 
 Guide entries:
 SMALL, SPLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HAS A DULL GREY

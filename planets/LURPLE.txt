@@ -1,6 +1,8 @@
-Planet: LURPLE
+Moon: LURPLE
 Starmap index: 14
 Paris coordinates: 26171120, 6391224, 44798266
+Orbits: CARBECI
+Moon id: 1
 
 Guide entries:
 THE SECOND MOON OF THE FIFTH PLANET, A DUSTY MOON. LIGHT PURPLE SURFACE

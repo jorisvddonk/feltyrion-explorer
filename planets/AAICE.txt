@@ -1,6 +1,8 @@
-Planet: AAICE
+Moon: AAICE
 Starmap index: 43
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: FARFART
+Moon id: 2
 
 Guide entries:
 ICE PLANET. (DISCOVERED BY MEGAGUN)

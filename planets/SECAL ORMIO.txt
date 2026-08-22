@@ -1,6 +1,8 @@
-Planet: SECAL ORMIO
+Moon: SECAL ORMIO
 Starmap index: 19
 Paris coordinates: 3583920, 4409420, -1541145
+Orbits: POCSEMOS
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE. (NOTES BY NEUZD, 6011:797.800)               

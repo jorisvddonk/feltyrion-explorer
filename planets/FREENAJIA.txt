@@ -1,6 +1,8 @@
-Planet: FREENAJIA
+Moon: FREENAJIA
 Starmap index: 26
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 12
 
 Guide entries:
 SMALL BRIGHT ROCKY WORLD WITH MANY RAY CRATERS. FGS 0.29, TEMP -266,

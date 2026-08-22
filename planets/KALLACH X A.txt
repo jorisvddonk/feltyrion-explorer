@@ -1,6 +1,8 @@
-Planet: KALLACH X A
+Moon: KALLACH X A
 Starmap index: 17
 Paris coordinates: -1405536848, -1687, 1419818841
+Orbits: KALLACH X
+Moon id: 0
 
 Guide entries:
 A GREEN DEADWORLD. SMOOTHED-OUT TERRAIN AND FEW SHALLOW CRATERS.

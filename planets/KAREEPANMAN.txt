@@ -1,3 +1,5 @@
-Planet: KAREEPANMAN
+Moon: KAREEPANMAN
 Starmap index: 34
 Paris coordinates: 3559632, 4410553, -1049465
+Orbits: TETSUROU
+Moon id: 6

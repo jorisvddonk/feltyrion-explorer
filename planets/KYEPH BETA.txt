@@ -1,6 +1,8 @@
-Planet: KYEPH BETA
+Moon: KYEPH BETA
 Starmap index: 22
 Paris coordinates: 3859632, 5023690, -1372682
+Orbits: KYEPH
+Moon id: 1
 
 Guide entries:
 SECOND MOON OF PLANET KYEPH IN THE QUOUN SYSTEM

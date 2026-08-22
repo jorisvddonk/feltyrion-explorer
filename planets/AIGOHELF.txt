@@ -1,3 +1,5 @@
-Planet: AIGOHELF
+Moon: AIGOHELF
 Starmap index: 63
 Paris coordinates: -614992, 734031, -1219112
+Orbits: FOOPSERID
+Moon id: 7

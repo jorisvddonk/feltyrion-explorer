@@ -1,6 +1,8 @@
-Planet: TENEBRAE
+Moon: TENEBRAE
 Starmap index: 14
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 4
 
 Guide entries:
 A FELISIAN WORLD- HAS A GREEN HUE WITH SOME LARGE BODIES OF WATER.

@@ -1,3 +1,5 @@
-Planet: SEERDROGENG
+Moon: SEERDROGENG
 Starmap index: 79
 Paris coordinates: 58795344, -33712659, 927379101
+Orbits: SHRAELINURTH
+Moon id: 3

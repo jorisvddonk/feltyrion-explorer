@@ -1,6 +1,8 @@
-Planet: DECEMVIR
+Moon: DECEMVIR
 Starmap index: 08
 Paris coordinates: -625712, 1137800, 123585
+Orbits: INSIPID
+Moon id: 3
 
 Guide entries:
 AS SOON AS YOU CAN, SIT DOWN ON THIS MOON AND TAKE A STROLL, YOU'LL

@@ -1,6 +1,8 @@
-Planet: BALLON 4.1
+Moon: BALLON 4.1
 Starmap index: 27
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 4
+Moon id: 0
 
 Guide entries:
 AH, YES, THE 'MOON'. NOT ONLY IS IT LARGER, BUT ALSO EXTREMELY              

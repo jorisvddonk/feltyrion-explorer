@@ -1,6 +1,8 @@
-Planet: DAGOBAH
+Moon: DAGOBAH
 Starmap index: 18
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 11
 
 Guide entries:
 FOUNDED EPOC 6011, 681.315.127 BY REZA. 12TH MOON OF OCEAN. O2 ATM.         

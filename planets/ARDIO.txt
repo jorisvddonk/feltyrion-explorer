@@ -1,6 +1,8 @@
-Planet: ARDIO
+Moon: ARDIO
 Starmap index: 07
 Paris coordinates: 4035344, 4684112, -921463
+Orbits: HAUST
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID,DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE, WITH

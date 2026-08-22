@@ -1,6 +1,8 @@
-Planet: KUNDAR
+Moon: KUNDAR
 Starmap index: 19
 Paris coordinates: 3477136, 4542209, -1941456
+Orbits: THYTAR
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. GOOD

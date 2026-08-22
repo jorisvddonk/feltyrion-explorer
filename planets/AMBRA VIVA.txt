@@ -1,3 +1,5 @@
-Planet: AMBRA VIVA
+Moon: AMBRA VIVA
 Starmap index: 18
 Paris coordinates: 3473200, 4782739, 43271
+Orbits: GIALDORIA VII/LOCKET
+Moon id: 3

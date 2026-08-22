@@ -1,6 +1,8 @@
-Planet: ARALON G
+Moon: ARALON G
 Starmap index: 30
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 6
 
 Guide entries:
 A GREEN DENSEWORLD WITH QUITE A UNIFORM ATMOSPHERE.

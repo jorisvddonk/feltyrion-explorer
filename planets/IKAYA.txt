@@ -1,6 +1,8 @@
-Planet: IKAYA
+Moon: IKAYA
 Starmap index: 44
 Paris coordinates: -890704, 333652, -1384376
+Orbits: VAAG
+Moon id: 15
 
 Guide entries:
  YET ANOTHER INHABITED MOON. DESPITE THE EXTREMELI LOW TEMPERATURE,

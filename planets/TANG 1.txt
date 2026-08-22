@@ -1,3 +1,5 @@
-Planet: TANG 1
+Moon: TANG 1
 Starmap index: 08
 Paris coordinates: -1604272, 7386891, -1484699
+Orbits: MING GAMMA
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: PATOKAAN
+Moon: PATOKAAN
 Starmap index: 20
 Paris coordinates: -21393296, -5446820, 40255542
+Orbits: BEL ARFYSIA
+Moon id: 3
 
 Guide entries:
 THE FIRST PLANET DISCOVERED IN FRANCE 2 WHICH IS CAPABLE OF                 

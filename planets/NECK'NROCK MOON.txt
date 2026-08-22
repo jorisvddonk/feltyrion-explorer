@@ -1,3 +1,5 @@
-Planet: NECK'NROCK MOON
+Moon: NECK'NROCK MOON
 Starmap index: 05
 Paris coordinates: 1570352, 4124634, -351480
+Orbits: C-ITGROW
+Moon id: 0

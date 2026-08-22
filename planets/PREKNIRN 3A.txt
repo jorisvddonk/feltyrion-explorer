@@ -1,3 +1,5 @@
-Planet: PREKNIRN 3A
+Moon: PREKNIRN 3A
 Starmap index: 04
 Paris coordinates: -26958640, -19616960, -448688620
+Orbits: PREKNIRN 3
+Moon id: 0

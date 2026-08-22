@@ -1,3 +1,5 @@
-Planet: AJKIMETOIAT
+Moon: AJKIMETOIAT
 Starmap index: 31
 Paris coordinates: 634747376, -10764602, 49182722
+Orbits: AYHLISJARSI
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: STEN
+Moon: STEN
 Starmap index: 16
 Paris coordinates: 9252848, 5586893, -7007054
+Orbits: HOPBLAPAP
+Moon id: 0

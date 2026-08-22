@@ -1,3 +1,5 @@
-Planet: ASKEW 116B1
+Moon: ASKEW 116B1
 Starmap index: 04
 Paris coordinates: 2522448, -12551255, 9480527
+Orbits: ASKEW 116B
+Moon id: 0

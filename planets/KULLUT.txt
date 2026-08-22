@@ -1,6 +1,8 @@
-Planet: KULLUT
+Moon: KULLUT
 Starmap index: 20
 Paris coordinates: 4073200, 5702744, -580029
+Orbits: KUUMUUS
+Moon id: 0
 
 Guide entries:
 MOON OF SIXTH PLANET OF REDDULL SYSTEM, KUUMUUS. FELISIAN, HAS LIFE.

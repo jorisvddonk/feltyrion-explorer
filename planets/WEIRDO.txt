@@ -1,6 +1,8 @@
-Planet: WEIRDO
+Moon: WEIRDO
 Starmap index: 44
 Paris coordinates: -118928, 136846, 52177
+Orbits: ZEMERON
+Moon id: 13
 
 Guide entries:
 THIS IS SCARY... A  SECOND  GAS GIANT MOON OF ZEMERON, THE PARENT GAS

@@ -1,3 +1,5 @@
-Planet: NEON BLUE
+Moon: NEON BLUE
 Starmap index: 09
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: RAINBOW
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: MIRLETE
+Moon: MIRLETE
 Starmap index: 19
 Paris coordinates: 3655696, 5093605, 729351
+Orbits: SORNFSH
+Moon id: 1
 
 Guide entries:
 A LIFE-HARBORING MOON! UNLIKE THE OTHER MOON OF THIS PLANET, IT'S COLD

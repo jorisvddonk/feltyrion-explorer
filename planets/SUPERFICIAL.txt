@@ -1,6 +1,8 @@
-Planet: SUPERFICIAL
+Moon: SUPERFICIAL
 Starmap index: 16
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERCHARGER
+Moon id: 3
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERIZED IS

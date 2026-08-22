@@ -1,6 +1,8 @@
-Planet: TYROO
+Moon: TYROO
 Starmap index: 07
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: ADGLA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE CRATERS AND A

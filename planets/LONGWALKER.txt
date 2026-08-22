@@ -1,6 +1,8 @@
-Planet: LONGWALKER
+Moon: LONGWALKER
 Starmap index: 25
 Paris coordinates: 5100336, 5995542, -152474
+Orbits: JLJ-GGP-8
+Moon id: 3
 
 Guide entries:
 A PLANETOID WITH SEVERAL LARGE CRATERS. THE SURFACE IS SOMEWHAT...

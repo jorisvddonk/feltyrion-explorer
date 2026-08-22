@@ -1,3 +1,5 @@
-Planet: TANKMOON2A
+Moon: TANKMOON2A
 Starmap index: 04
 Paris coordinates: 5769264, 6836116, -738272
+Orbits: TANKCOMPSTAR2
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: SCHEMING COMRADE
+Moon: SCHEMING COMRADE
 Starmap index: 23
 Paris coordinates: 356784, 2863, -23661
+Orbits: GRAITION
+Moon id: 0
 
 Guide entries:
 THIN-ATMOSPHERE MOON OF STUDDED LEATHER ON EKA56. DARK. SEEMS

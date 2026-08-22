@@ -1,6 +1,8 @@
-Planet: MARSHER
+Moon: MARSHER
 Starmap index: 16
 Paris coordinates: -72824208, -13935588, 55276606
+Orbits: TELMAK
+Moon id: 0
 
 Guide entries:
 A DAMN NICE PLANET.

@@ -1,3 +1,5 @@
-Planet: TIMJU
+Moon: TIMJU
 Starmap index: 21
 Paris coordinates: 2173200, 2163851, 1078175
+Orbits: ERION
+Moon id: 1

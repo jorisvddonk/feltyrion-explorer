@@ -1,3 +1,5 @@
-Planet: LUCY-3.1
+Moon: LUCY-3.1
 Starmap index: 04
 Paris coordinates: -946064, -156848, -609785
+Orbits: LUCY-3
+Moon id: 0

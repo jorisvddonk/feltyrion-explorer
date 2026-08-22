@@ -1,3 +1,5 @@
-Planet: SETTING SOUTH
+Moon: SETTING SOUTH
 Starmap index: 19
 Paris coordinates: 3677136, 4440439, -2078563
+Orbits: planet index 03
+Moon id: 15

@@ -1,6 +1,8 @@
-Planet: PESTHOUSE
+Moon: PESTHOUSE
 Starmap index: 24
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: SARDONIC
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. THIS

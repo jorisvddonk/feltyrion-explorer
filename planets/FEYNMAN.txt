@@ -1,6 +1,8 @@
-Planet: FEYNMAN
+Moon: FEYNMAN
 Starmap index: 05
 Paris coordinates: 3462480, 4481780, 1175915
+Orbits: WHEELER
+Moon id: 0
 
 Guide entries:
 CONSISTS OF PLAINS OR VERY SLIGHT ROLLING HILLS. ALL IN ALL, IT'S FLAT

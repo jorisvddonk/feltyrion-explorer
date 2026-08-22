@@ -1,6 +1,8 @@
-Planet: FIRST HOPE
+Moon: FIRST HOPE
 Starmap index: 14
 Paris coordinates: 3790704, 5011018, -1396148
+Orbits: planet index 04
+Moon id: 5
 
 Guide entries:
 THIS MOON HAS A BREATHABLE ATMOSPHERE!I WILL LAND AND INVESTIGATE..

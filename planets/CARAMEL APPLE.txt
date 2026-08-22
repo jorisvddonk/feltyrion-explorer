@@ -1,6 +1,8 @@
-Planet: CARAMEL APPLE
+Moon: CARAMEL APPLE
 Starmap index: 10
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 4
 
 Guide entries:
 MOON OF 'HOT OVEN' ON EKA40. INTERNALLY HOT. --EKA

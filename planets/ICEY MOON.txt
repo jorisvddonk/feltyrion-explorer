@@ -1,3 +1,5 @@
-Planet: ICEY MOON
+Moon: ICEY MOON
 Starmap index: 04
 Paris coordinates: 3081072, 7069688, -3236482
+Orbits: PURPUM
+Moon id: 0

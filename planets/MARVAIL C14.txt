@@ -1,6 +1,8 @@
-Planet: MARVAIL C14
+Moon: MARVAIL C14
 Starmap index: 20
 Paris coordinates: -232496, 305408, -733741
+Orbits: planet index 03
+Moon id: 13
 
 Guide entries:
  LIFEFORMS FOUND HERE AS WELL, A SINGLE HOPPER, WHITE IN COLOR.

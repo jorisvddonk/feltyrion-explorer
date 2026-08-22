@@ -1,6 +1,8 @@
-Planet: CORAL II-3L
+Moon: CORAL II-3L
 Starmap index: 32
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-3
+Moon id: 11
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. QUIET IN

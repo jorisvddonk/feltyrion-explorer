@@ -1,3 +1,5 @@
-Planet: UMMA REI
+Moon: UMMA REI
 Starmap index: 16
 Paris coordinates: 5425712, 8286779, -4787371
+Orbits: UMMA 3
+Moon id: 12

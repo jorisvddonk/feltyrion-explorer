@@ -1,6 +1,8 @@
-Planet: INDOL
+Moon: INDOL
 Starmap index: 15
 Paris coordinates: 3359632, 4745485, -930356
+Orbits: CALAB
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. QUITE SCARRED LOOKING FROM

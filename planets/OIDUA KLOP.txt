@@ -1,6 +1,8 @@
-Planet: OIDUA KLOP
+Moon: OIDUA KLOP
 Starmap index: 22
 Paris coordinates: -322864, 941929, 1880094
+Orbits: AMLUAS
+Moon id: 0
 
 Guide entries:
  A CRATTERED LAND OF NOTHING SPECIAL

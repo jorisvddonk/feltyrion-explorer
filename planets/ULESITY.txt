@@ -1,6 +1,8 @@
-Planet: ULESITY
+Moon: ULESITY
 Starmap index: 11
 Paris coordinates: 5482832, 5821092, 328552
+Orbits: ASENURE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MODERATE PINK

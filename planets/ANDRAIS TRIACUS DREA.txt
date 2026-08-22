@@ -1,3 +1,5 @@
-Planet: ANDRAIS TRIACUS DREA
+Moon: ANDRAIS TRIACUS DREA
 Starmap index: 08
 Paris coordinates: 1400114224, 1898999, 1399436359
+Orbits: ANDRAIS TRIACUS
+Moon id: 1

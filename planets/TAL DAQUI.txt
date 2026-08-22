@@ -1,6 +1,8 @@
-Planet: TAL DAQUI
+Moon: TAL DAQUI
 Starmap index: 26
 Paris coordinates: 54591120, 440076, 1982299900
+Orbits: AS01042152E
+Moon id: 6
 
 Guide entries:
 NOT VERY WARM, BUT PRETTY AND FULL OF LIFE.

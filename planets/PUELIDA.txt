@@ -1,3 +1,5 @@
-Planet: PUELIDA
+Moon: PUELIDA
 Starmap index: 19
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: LUEB
+Moon id: 11

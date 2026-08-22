@@ -1,6 +1,8 @@
-Planet: CREARK
+Moon: CREARK
 Starmap index: 18
 Paris coordinates: 22364336, 7906996, 48257710
+Orbits: DIOB
+Moon id: 7
 
 Guide entries:
 A SLIGHTLY DARK GAS GIANT WHICH IS THE EIGHTH MOON OF THE FOURTH

@@ -1,6 +1,8 @@
-Planet: GOAT 5.9
+Moon: GOAT 5.9
 Starmap index: 30
 Paris coordinates: -401424, -59309, -558865
+Orbits: GOAT 5
+Moon id: 8
 
 Guide entries:
  SMALL, SOLID, THIN ATMOSPHERE. SERPENS, 6011 665.614

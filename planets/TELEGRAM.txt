@@ -1,6 +1,8 @@
-Planet: TELEGRAM
+Moon: TELEGRAM
 Starmap index: 27
 Paris coordinates: 6007120, 4721244, -713119
+Orbits: PABLO
+Moon id: 17
 
 Guide entries:
 AN UNUSUAL FELISIAN WORLD OF PABLO, A COMPANION STAR OF AMNESIAC.

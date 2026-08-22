@@ -1,3 +1,5 @@
-Planet: NORDUX
+Moon: NORDUX
 Starmap index: 06
 Paris coordinates: 256784, -25799, 162335
+Orbits: UNUSUAL CALM
+Moon id: 1

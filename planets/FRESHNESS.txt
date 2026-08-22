@@ -1,3 +1,5 @@
-Planet: FRESHNESS
+Moon: FRESHNESS
 Starmap index: 39
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 16

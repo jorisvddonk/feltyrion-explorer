@@ -1,6 +1,8 @@
-Planet: TIDINIMI
+Moon: TIDINIMI
 Starmap index: 09
 Paris coordinates: 26353616, 6645766, 45295798
+Orbits: GRAES
+Moon id: 3
 
 Guide entries:
 THE FOURTH MOON OF THE THIRD PLANET. A THIN ATMO PLANET, RELATIVELY

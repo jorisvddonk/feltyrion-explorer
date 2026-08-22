@@ -1,6 +1,8 @@
-Planet: FIRESKY 10.1
+Moon: FIRESKY 10.1
 Starmap index: 43
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 10
+Moon id: 0
 
 Guide entries:
 SIMILAR TO ITS PLANET, BUT A LITTLE BRIGHTER. SERPENS, 6011

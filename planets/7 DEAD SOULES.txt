@@ -1,6 +1,8 @@
-Planet: 7 DEAD SOULES
+Moon: 7 DEAD SOULES
 Starmap index: 39
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 11
 
 Guide entries:
  A DUSTY, CREASEDMOON BY THE EDGE OF THE DRAKHNATORIA SYSTEM.

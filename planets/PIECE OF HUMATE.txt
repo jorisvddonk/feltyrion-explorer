@@ -1,6 +1,8 @@
-Planet: PIECE OF HUMATE
+Moon: PIECE OF HUMATE
 Starmap index: 22
 Paris coordinates: -1425549328, 1737959, 1435181847
+Orbits: CONCISE BANDS
+Moon id: 8
 
 Guide entries:
 FELISIAN. NOTHING NOTEWORTHY DISCOVERED, HOWEVER. LARGELY                   

@@ -1,6 +1,8 @@
-Planet: CORAL II-8A
+Moon: CORAL II-8A
 Starmap index: 74
 Paris coordinates: -539280, 237210, -624416
+Orbits: CORAL II-8
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. AGITATED

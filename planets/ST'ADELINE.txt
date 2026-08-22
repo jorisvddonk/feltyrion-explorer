@@ -1,6 +1,8 @@
-Planet: ST'ADELINE
+Moon: ST'ADELINE
 Starmap index: 06
 Paris coordinates: 5169264, 4383567, -129735
+Orbits: ST'DYDYS
+Moon id: 1
 
 Guide entries:
  DISCOVERED BY SAREK BLUES, EPOC 565.933

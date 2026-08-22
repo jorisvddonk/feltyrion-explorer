@@ -1,6 +1,8 @@
-Planet: ABERRAND
+Moon: ABERRAND
 Starmap index: 22
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: OBOVOID
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SLIGHT SCARRING.

@@ -1,6 +1,8 @@
-Planet: BLACK HELL
+Moon: BLACK HELL
 Starmap index: 74
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: JEALOUS MINISTAR
+Moon id: 5
 
 Guide entries:
 VERY DARK GAS GIANT MOON ORBITING JEALOUS MINISTAR ON EKA24. --EKA

@@ -1,3 +1,5 @@
-Planet: CHEESE WAD
+Moon: CHEESE WAD
 Starmap index: 05
 Paris coordinates: 18928, -159568, 173067
+Orbits: KRADEN
+Moon id: 0

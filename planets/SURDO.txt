@@ -1,3 +1,5 @@
-Planet: SURDO
+Moon: SURDO
 Starmap index: 27
 Paris coordinates: 2721776, -23948225, -404417
+Orbits: JAKAB
+Moon id: 12

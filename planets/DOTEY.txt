@@ -1,6 +1,8 @@
-Planet: DOTEY
+Moon: DOTEY
 Starmap index: 36
 Paris coordinates: 191792, 393743, -1607331
+Orbits: PERDISTA
+Moon id: 4
 
 Guide entries:
 THE FIFTH MOON OF THE FIFTEENTH PLANET, PERDISTA. THIN ATMO THAT SHOULD

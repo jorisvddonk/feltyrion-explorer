@@ -1,6 +1,8 @@
-Planet: 1
+Moon: 1
 Starmap index: 13
 Paris coordinates: -643216, 9578380, 958538
+Orbits: THE ORANGE MYSTERY
+Moon id: 5
 
 Guide entries:
 SOME RELIGIONS HOLD THAT THIS MOON IS THE SINGLE CELESTIAL BODY FROM WHICH

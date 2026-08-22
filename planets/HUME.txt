@@ -1,3 +1,5 @@
-Planet: HUME
+Moon: HUME
 Starmap index: 38
 Paris coordinates: 3708208, 4049889, -2205765
+Orbits: KANT
+Moon id: 2

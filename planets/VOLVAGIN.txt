@@ -1,6 +1,8 @@
-Planet: VOLVAGIN
+Moon: VOLVAGIN
 Starmap index: 13
 Paris coordinates: 2521776, 4915370, -175857
+Orbits: OXYRA
+Moon id: 0
 
 Guide entries:
  NAMED AFTER CLAN MEMBER VOLVAGIN...

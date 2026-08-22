@@ -1,6 +1,8 @@
-Planet: MAGIC
+Moon: MAGIC
 Starmap index: 16
 Paris coordinates: 2766416, 3796421, 167479
+Orbits: ROOK
+Moon id: 3
 
 Guide entries:
 THE PRETTIEST MOON I'VE COME ACROSS. I'D BUILD A SUMMER HOUSE THERE.

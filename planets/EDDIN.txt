@@ -1,6 +1,8 @@
-Planet: EDDIN
+Moon: EDDIN
 Starmap index: 24
 Paris coordinates: 4066416, 4619160, -1022930
+Orbits: YBERNA
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. FEW SIZEABLE CRATERS, IF

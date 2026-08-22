@@ -1,3 +1,5 @@
-Planet: HAWK-11
+Moon: HAWK-11
 Starmap index: 20
 Paris coordinates: 4362480, 4533712, 213199
+Orbits: SILVERHAWK
+Moon id: 10

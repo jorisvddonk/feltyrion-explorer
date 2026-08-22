@@ -1,3 +1,5 @@
-Planet: WEREING JYTTRUL
+Moon: WEREING JYTTRUL
 Starmap index: 10
 Paris coordinates: 4773200, 4804238, -1220168
+Orbits: AERISSLER WEREING
+Moon id: 1

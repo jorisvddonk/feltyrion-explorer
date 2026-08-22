@@ -1,6 +1,8 @@
-Planet: ORDEL
+Moon: ORDEL
 Starmap index: 22
 Paris coordinates: 2770352, 4738986, -1565908
+Orbits: IGVE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. MUCH GROOVING, AND IT SOMEHOW

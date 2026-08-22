@@ -1,3 +1,5 @@
-Planet: SOAP
+Moon: SOAP
 Starmap index: 13
 Paris coordinates: 3890704, 4920850, -1487843
+Orbits: LUIZ ALFONSO
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: VOWBIN IX D
+Moon: VOWBIN IX D
 Starmap index: 32
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IX
+Moon id: 3
 
 Guide entries:
 PALE YELLOW ICEWORLD WITH BRIGHT CANALS. (SCHMERM 6011 600.721)

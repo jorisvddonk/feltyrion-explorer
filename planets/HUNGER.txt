@@ -1,3 +1,5 @@
-Planet: HUNGER
+Moon: HUNGER
 Starmap index: 13
 Paris coordinates: -62139376, 29684697, 1110989
+Orbits: SCREWDRIVER
+Moon id: 1

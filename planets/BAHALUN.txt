@@ -1,6 +1,8 @@
-Planet: BAHALUN
+Moon: BAHALUN
 Starmap index: 14
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 3
 
 Guide entries:
 A DENSEWORLD WITH PINKISH CLOUDS AND A GREENISH-COLORED SURFACE.

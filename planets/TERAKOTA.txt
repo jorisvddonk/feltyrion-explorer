@@ -1,3 +1,5 @@
-Planet: TERAKOTA
+Moon: TERAKOTA
 Starmap index: 29
 Paris coordinates: 570352, -17743, 592279
+Orbits: ZERO SLASHED
+Moon id: 6

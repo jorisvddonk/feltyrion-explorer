@@ -1,3 +1,5 @@
-Planet: HITCHKOK
+Moon: HITCHKOK
 Starmap index: 17
 Paris coordinates: 270352, 5086437, 857022
+Orbits: ROWLING
+Moon id: 4

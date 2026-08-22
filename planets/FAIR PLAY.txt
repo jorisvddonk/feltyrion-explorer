@@ -1,6 +1,8 @@
-Planet: FAIR PLAY
+Moon: FAIR PLAY
 Starmap index: 09
 Paris coordinates: 2452848, 4651009, -440090
+Orbits: BEACON TO ST LUKES
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN

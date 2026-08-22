@@ -1,6 +1,8 @@
-Planet: MURKY DARKNESS
+Moon: MURKY DARKNESS
 Starmap index: 15
 Paris coordinates: -71424208, -766330, 53757229
+Orbits: DESPOTIC POWER
+Moon id: 2
 
 Guide entries:
 THIN-ATMOSPHERE MOON OF DESPOTIC POWER ON EKA29. --EKA

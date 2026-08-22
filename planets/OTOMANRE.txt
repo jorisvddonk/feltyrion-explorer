@@ -1,3 +1,5 @@
-Planet: OTOMANRE
+Moon: OTOMANRE
 Starmap index: 07
 Paris coordinates: 9870096, 18689224, -31714944
+Orbits: DASCAIZEBU
+Moon id: 0

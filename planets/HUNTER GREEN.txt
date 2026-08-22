@@ -1,6 +1,8 @@
-Planet: HUNTER GREEN
+Moon: HUNTER GREEN
 Starmap index: 20
 Paris coordinates: 3966416, 5566334, -844380
+Orbits: ELECTRIC BLUE
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE, MOSTLY ROUGH AND

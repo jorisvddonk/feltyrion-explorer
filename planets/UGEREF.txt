@@ -1,6 +1,8 @@
-Planet: UGEREF
+Moon: UGEREF
 Starmap index: 13
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: ELOCU
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTTIVE LARGE

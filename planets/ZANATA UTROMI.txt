@@ -1,6 +1,8 @@
-Planet: ZANATA UTROMI
+Moon: ZANATA UTROMI
 Starmap index: 12
 Paris coordinates: 1194640, 62929486, -441858
+Orbits: SSIMUF'
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED. VARIOUS IMPRESSIVE CRATERS CAN BE EASILY   

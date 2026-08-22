@@ -1,6 +1,8 @@
-Planet: LIVID
+Moon: LIVID
 Starmap index: 07
 Paris coordinates: -625712, 1137800, 123585
+Orbits: INSIPID
+Moon id: 2
 
 Guide entries:
 MADE UP OF MOSTLY QUARTZ, WITH AN OXYGEN ATMOSPHERE, NOT MUCH ELSE.

@@ -1,3 +1,5 @@
-Planet: LEAVE ME ALONE
+Moon: LEAVE ME ALONE
 Starmap index: 15
 Paris coordinates: 4348912, 3923012, -386959
+Orbits: HUGSTONE
+Moon id: 6

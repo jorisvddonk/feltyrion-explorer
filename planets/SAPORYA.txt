@@ -1,6 +1,8 @@
-Planet: SAPORYA
+Moon: SAPORYA
 Starmap index: 37
 Paris coordinates: -22675216, 619249, -9556300
+Orbits: SONNKAR B
+Moon id: 0
 
 Guide entries:
 SONNKAR 01/07; FELISIAN WORLD

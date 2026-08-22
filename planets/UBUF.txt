@@ -1,6 +1,8 @@
-Planet: UBUF
+Moon: UBUF
 Starmap index: 17
 Paris coordinates: 5169264, 4083567, -202229
+Orbits: ITEKEO
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE AND

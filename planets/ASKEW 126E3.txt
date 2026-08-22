@@ -1,3 +1,5 @@
-Planet: ASKEW 126E3
+Moon: ASKEW 126E3
 Starmap index: 42
 Paris coordinates: 5179568, -15162902, 12055564
+Orbits: ASKEW 126E
+Moon id: 2

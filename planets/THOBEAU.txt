@@ -1,6 +1,8 @@
-Planet: THOBEAU
+Moon: THOBEAU
 Starmap index: 07
 Paris coordinates: 5469264, 6372338, -331449
+Orbits: KALAX
+Moon id: 2
 
 Guide entries:
 DISCOVERD BY SHADOWSTAR ON 6011:605.234

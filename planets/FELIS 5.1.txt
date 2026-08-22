@@ -1,6 +1,8 @@
-Planet: FELIS 5.1
+Moon: FELIS 5.1
 Starmap index: 08
 Paris coordinates: -1626800, 33322066, 4959862
+Orbits: FELIS 5
+Moon id: 0
 
 Guide entries:
  THIS MOON HAS A LOT OF QUARTS COMPOUND ON ITS SURFACE, AND AN

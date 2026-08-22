@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 12.13
+Moon: ALCHEMIST 12.13
 Starmap index: 50
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 12
+Moon id: 12
 
 Guide entries:
 ICEBALL. BLEAK SURFACE, ANY LIQUIDS WERE FROZEN EPOCS AGO.

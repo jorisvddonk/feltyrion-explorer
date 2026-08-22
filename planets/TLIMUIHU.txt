@@ -1,3 +1,5 @@
-Planet: TLIMUIHU
+Moon: TLIMUIHU
 Starmap index: 19
 Paris coordinates: 4097488, 5032993, -1271647
+Orbits: BINK
+Moon id: 8

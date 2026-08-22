@@ -1,6 +1,8 @@
-Planet: SNOWCONE
+Moon: SNOWCONE
 Starmap index: 65
 Paris coordinates: 2691792, 4176126, -4029925
+Orbits: planet index 10
+Moon id: 11
 
 Guide entries:
  ICE PLANET OF THE AUNFINT SYSTEM DISC BY SCAREDY-CAT, 6011.585.820

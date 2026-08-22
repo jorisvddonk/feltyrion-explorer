@@ -1,3 +1,5 @@
-Planet: LUGORON
+Moon: LUGORON
 Starmap index: 11
 Paris coordinates: -2582832, -6847123, -3094735
+Orbits: SEBBROAH
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: DIMPEN
+Moon: DIMPEN
 Starmap index: 08
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 1
 
 Guide entries:
 A LUMPY, DUSTY MOON, THE SECOND OF THE THIRD PLANET. ALTHOUGH FROM

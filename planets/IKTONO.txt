@@ -1,6 +1,8 @@
-Planet: IKTONO
+Moon: IKTONO
 Starmap index: 10
 Paris coordinates: 2054927472, 1424347, -408821
+Orbits: PULVERULENTUS
+Moon id: 1
 
 Guide entries:
 M02/P04 SMALL SOLID THIN ATMO. FAIRLY BRIGHT, GOOD POLAR CAPS. PRO          

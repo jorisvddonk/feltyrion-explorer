@@ -1,6 +1,8 @@
-Planet: MICHAEL
+Moon: MICHAEL
 Starmap index: 54
 Paris coordinates: 4679984, 4340337, -1040649
+Orbits: planet index 13
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY MISTRAL, EPOC 6011.797.812                                    

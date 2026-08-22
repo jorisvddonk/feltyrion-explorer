@@ -1,6 +1,8 @@
-Planet: MAFIC
+Moon: MAFIC
 Starmap index: 09
 Paris coordinates: -222864, 4125508, 1855459
+Orbits: CRI DE COEUR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, DARK, POLAR CAPS FAIR.

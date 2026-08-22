@@ -1,6 +1,8 @@
-Planet: MAMAE MESSIAS
+Moon: MAMAE MESSIAS
 Starmap index: 33
 Paris coordinates: 156784, 4245538, 225243
+Orbits: planet index 06
+Moon id: 1
 
 Guide entries:
 A BEAUTIFUL PURPLE PLANET.

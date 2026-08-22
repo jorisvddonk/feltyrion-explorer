@@ -1,6 +1,8 @@
-Planet: CHIPPED ICE ROCK
+Moon: CHIPPED ICE ROCK
 Starmap index: 10
 Paris coordinates: 3966416, 3899706, -1028195
+Orbits: SAARDANT
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY SEBASTIAN PATTERSON EPOC 6011:683.298                    

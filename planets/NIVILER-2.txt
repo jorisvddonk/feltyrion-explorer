@@ -1,3 +1,5 @@
-Planet: NIVILER-2
+Moon: NIVILER-2
 Starmap index: 42
 Paris coordinates: 3804272, 4398014, -524676
+Orbits: CUSMINO
+Moon id: 4

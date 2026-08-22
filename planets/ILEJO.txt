@@ -1,6 +1,8 @@
-Planet: ILEJO
+Moon: ILEJO
 Starmap index: 48
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 5
 
 Guide entries:
 M06/P10 LARGE NON CONSISTENT. HAS A RED GLOW WITH YELLOW STORMS AND         

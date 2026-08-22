@@ -1,3 +1,5 @@
-Planet: DAUGHTER 2
+Moon: DAUGHTER 2
 Starmap index: 33
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 17

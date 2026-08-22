@@ -1,6 +1,8 @@
-Planet: COCYTUS
+Moon: COCYTUS
 Starmap index: 44
 Paris coordinates: 1366416, 5070742, 1491936
+Orbits: MAWSON
+Moon id: 0
 
 Guide entries:
 FELISIAN MOON IN SCHWIMMER SYSTEM - R01/P18

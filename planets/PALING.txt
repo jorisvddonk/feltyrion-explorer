@@ -1,6 +1,8 @@
-Planet: PALING
+Moon: PALING
 Starmap index: 30
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: NEEP
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: TSINA
+Moon: TSINA
 Starmap index: 23
 Paris coordinates: -532496, -163263, -374858
+Orbits: SSTUSSAISS
+Moon id: 3
 
 Guide entries:
 AT (275.110) THERE'S A STAR SHAPED ISLAND SURROUNDED BY ICE VAST EXTENSI

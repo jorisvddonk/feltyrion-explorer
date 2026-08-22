@@ -1,6 +1,8 @@
-Planet: ANWAR
+Moon: ANWAR
 Starmap index: 15
 Paris coordinates: 4173200, 4174602, -869194
+Orbits: GIANT RAISIN
+Moon id: 6
 
 Guide entries:
 DISCOVERED BY SHADOWSTAR ON 6011:850.593                                    

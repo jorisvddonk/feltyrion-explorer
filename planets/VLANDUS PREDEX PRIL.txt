@@ -1,3 +1,5 @@
-Planet: VLANDUS PREDEX PRIL
+Moon: VLANDUS PREDEX PRIL
 Starmap index: 48
 Paris coordinates: 1399200656, 1246996, 1399521124
+Orbits: VLANDUS PREDEX
+Moon id: 0

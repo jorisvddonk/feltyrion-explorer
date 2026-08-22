@@ -1,6 +1,8 @@
-Planet: GEZELMOG
+Moon: GEZELMOG
 Starmap index: 14
 Paris coordinates: 112144, 40438, -249045
+Orbits: IXRON
+Moon id: 7
 
 Guide entries:
 FELYSIAN MOON. MOSTLY DRY LAND AND NOT MANY BODIES OF WATER.

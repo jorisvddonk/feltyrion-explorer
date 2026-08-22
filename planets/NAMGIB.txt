@@ -1,3 +1,5 @@
-Planet: NAMGIB
+Moon: NAMGIB
 Starmap index: 42
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: ASKEW 8K
+Moon id: 7

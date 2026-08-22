@@ -1,6 +1,8 @@
-Planet: MRASA
+Moon: MRASA
 Starmap index: 08
 Paris coordinates: -165744, 3241563, 7052137
+Orbits: TRITENA
+Moon id: 0
 
 Guide entries:
 THE MOON OF TRITENA. IT HAS A THIN ATMOSPHERE AND A SURFACE SIMILIAR TO     

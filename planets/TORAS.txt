@@ -1,6 +1,8 @@
-Planet: TORAS
+Moon: TORAS
 Starmap index: 11
 Paris coordinates: 4142128, 4582625, -648170
+Orbits: HABDOCO
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD REFLECTIVITY WITH

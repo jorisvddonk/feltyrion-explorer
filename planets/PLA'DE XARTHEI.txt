@@ -1,3 +1,5 @@
-Planet: PLA'DE XARTHEI
+Moon: PLA'DE XARTHEI
 Starmap index: 20
 Paris coordinates: -39516752, 1335635, 31878154
+Orbits: THE MAUSOLEUM
+Moon id: 7

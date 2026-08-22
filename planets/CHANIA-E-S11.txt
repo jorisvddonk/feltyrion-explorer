@@ -1,3 +1,5 @@
-Planet: CHANIA-E-S11
+Moon: CHANIA-E-S11
 Starmap index: 22
 Paris coordinates: 4198576, 4521282, -5157453
+Orbits: CHANIA-E
+Moon id: 10

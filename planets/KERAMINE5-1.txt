@@ -1,6 +1,8 @@
-Planet: KERAMINE5-1
+Moon: KERAMINE5-1
 Starmap index: 18
 Paris coordinates: -36432, -1290440, 1061497
+Orbits: KERAMINE5
+Moon id: 0
 
 Guide entries:
 VOLCANIC MOON OF KERAMINE5, UNLANDABLE. MANY SURFACE MARKINGS.

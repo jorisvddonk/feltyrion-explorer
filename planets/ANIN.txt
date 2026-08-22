@@ -1,3 +1,5 @@
-Planet: ANIN
+Moon: ANIN
 Starmap index: 30
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAHDI
+Moon id: 13

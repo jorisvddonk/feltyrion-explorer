@@ -1,6 +1,8 @@
-Planet: OMEGA RED XII E
+Moon: OMEGA RED XII E
 Starmap index: 32
 Paris coordinates: -11529232, -276713, -840343
+Orbits: OMEGA RED XII
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHEREMODERATELY REFLECTIVE,

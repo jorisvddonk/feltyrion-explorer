@@ -1,6 +1,8 @@
-Planet: SIESTA
+Moon: SIESTA
 Starmap index: 07
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: DREAMSCAPE
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

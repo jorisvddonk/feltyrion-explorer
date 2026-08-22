@@ -1,6 +1,8 @@
-Planet: OLD BONES
+Moon: OLD BONES
 Starmap index: 21
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 15
 
 Guide entries:
 CRATERED MOON OF SANITY WARP ON EKA56. NICE GREY COLOR. NOT A BAD

@@ -1,6 +1,8 @@
-Planet: RET
+Moon: RET
 Starmap index: 33
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: GLOO
+Moon id: 7
 
 Guide entries:
 A THIN ATMO MOON. TOO DARK FOR EXPLORATION, EXCEPT AT POLES, WHERE A GREEN

@@ -1,6 +1,8 @@
-Planet: VOWBIN VII K
+Moon: VOWBIN VII K
 Starmap index: 28
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VII
+Moon id: 10
 
 Guide entries:
 A BROWN GAS GIANT IDENTICAL TO #4. (SCHMERM 6011 600.395)

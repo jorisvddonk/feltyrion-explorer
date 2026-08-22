@@ -1,6 +1,8 @@
-Planet: MOLECO
+Moon: MOLECO
 Starmap index: 45
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: RUTEC
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. ALMOST FRECKLED APPEARANCE.

@@ -1,6 +1,8 @@
-Planet: DREADNAUGHT
+Moon: DREADNAUGHT
 Starmap index: 17
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: NAAH
+Moon id: 0
 
 Guide entries:
 UPDATE:SMALL, SOLID, THIN ATMOSPHERE. A VERY DARK WORLD.

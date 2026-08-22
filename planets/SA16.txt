@@ -1,3 +1,5 @@
-Planet: SA16
+Moon: SA16
 Starmap index: 36
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: SATAS
+Moon id: 15

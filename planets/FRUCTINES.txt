@@ -1,3 +1,5 @@
-Planet: FRUCTINES
+Moon: FRUCTINES
 Starmap index: 18
 Paris coordinates: -61232592, 30020466, 379974
+Orbits: PHLEASIS
+Moon id: 9

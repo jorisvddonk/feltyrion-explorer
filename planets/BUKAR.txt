@@ -1,6 +1,8 @@
-Planet: BUKAR
+Moon: BUKAR
 Starmap index: 08
 Paris coordinates: 3363568, 4338782, -2645725
+Orbits: KARSIF
+Moon id: 2
 
 Guide entries:
  A NONDESCRIPT, UNREMARKABLE MOON. OR IS IT?....NO, PROBABLY NOT.           

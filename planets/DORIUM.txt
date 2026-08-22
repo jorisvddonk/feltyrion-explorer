@@ -1,6 +1,8 @@
-Planet: DORIUM
+Moon: DORIUM
 Starmap index: 14
 Paris coordinates: 670352, 437173, 502845
+Orbits: BANISH
+Moon id: 7
 
 Guide entries:
  I'VE FOUND A GREAT PLANET. DORIUM HAS NICE ORANGE BUSHES, AND BLACK

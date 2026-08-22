@@ -1,6 +1,8 @@
-Planet: EUPLAS
+Moon: EUPLAS
 Starmap index: 35
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION V
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A RELATIVELY

@@ -1,3 +1,5 @@
-Planet: RIVOTEA
+Moon: RIVOTEA
 Starmap index: 08
 Paris coordinates: -61439376, 29916264, 239760
+Orbits: GRUPA 5 D
+Moon id: 0

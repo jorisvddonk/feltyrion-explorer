@@ -1,3 +1,5 @@
-Planet: ASKEW 65D12
+Moon: ASKEW 65D12
 Starmap index: 28
 Paris coordinates: 11052016, -19159857, 17954467
+Orbits: ASKEW 65D
+Moon id: 11

@@ -1,6 +1,8 @@
-Planet: DIMLAND
+Moon: DIMLAND
 Starmap index: 16
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: PLEASANCE
+Moon id: 2
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, THIN ATMOSPHERE, DARKPOLAR CAPS.

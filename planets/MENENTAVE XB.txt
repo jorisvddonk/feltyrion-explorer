@@ -1,6 +1,8 @@
-Planet: MENENTAVE XB
+Moon: MENENTAVE XB
 Starmap index: 27
 Paris coordinates: -56784, -84307, -221013
+Orbits: MENENTAVE X
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. REFLECTIVE CRATERS WITH

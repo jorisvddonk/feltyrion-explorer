@@ -1,6 +1,8 @@
-Planet: WHITE HALO BLUE
+Moon: WHITE HALO BLUE
 Starmap index: 18
 Paris coordinates: 12271024, 5968397, -1126107
+Orbits: planet index 04
+Moon id: 12
 
 Guide entries:
 NEVER BEFORE HAVE I SEEN SUCH LIFE AS NOW I HEAD TO THE EDGE

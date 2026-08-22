@@ -1,3 +1,5 @@
-Planet: HOTERASTIS
+Moon: HOTERASTIS
 Starmap index: 22
 Paris coordinates: -61408304, 29262541, 167965
+Orbits: KISIELUS
+Moon id: 6

@@ -1,6 +1,8 @@
-Planet: KESSON DALET
+Moon: KESSON DALET
 Starmap index: 62
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: CYMRU 54
+Moon id: 2
 
 Guide entries:
 A FELISIAN MOON WHICH SEEMS QUITE CLOUDY. THERE IS A STRANGE

@@ -1,6 +1,8 @@
-Planet: SKYGEM C19
+Moon: SKYGEM C19
 Starmap index: 48
 Paris coordinates: 294640, 402336, 404519
+Orbits: SKYGEM C
+Moon id: 18
 
 Guide entries:
  A THICK ATMOSPHERE WORLD. AMWHERE 6011.585.75

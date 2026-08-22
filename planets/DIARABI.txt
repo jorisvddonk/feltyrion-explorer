@@ -1,3 +1,5 @@
-Planet: DIARABI
+Moon: DIARABI
 Starmap index: 16
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: MARLEY
+Moon id: 10

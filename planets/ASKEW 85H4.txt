@@ -1,6 +1,8 @@
-Planet: ASKEW 85H4
+Moon: ASKEW 85H4
 Starmap index: 19
 Paris coordinates: 10945232, -19339777, 17862369
+Orbits: ASKEW 85H
+Moon id: 3
 
 Guide entries:
 FOUND EPOC 6011 588.351.200 BY ROLAND ASKEW

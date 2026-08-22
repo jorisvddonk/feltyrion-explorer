@@ -1,6 +1,8 @@
-Planet: SUIT
+Moon: SUIT
 Starmap index: 21
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHTLY REFLECTIVE WITH MANY

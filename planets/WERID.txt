@@ -1,6 +1,8 @@
-Planet: WERID
+Moon: WERID
 Starmap index: 19
 Paris coordinates: 81072, 322514, -244542
+Orbits: GLOBLARA
+Moon id: 0
 
 Guide entries:
  THIS PLANET HAS TWO LIGHTER AREAS ON BOTH POLES

@@ -1,6 +1,8 @@
-Planet: LAND OF ROADS
+Moon: LAND OF ROADS
 Starmap index: 08
 Paris coordinates: 902096, 1026900, 9976407
+Orbits: GREEN DEPTHS
+Moon id: 0
 
 Guide entries:
 THIS MOON OF THE FIFTH PLANET IN THE BLUEFIRE SYSTEM IS                     

@@ -1,3 +1,5 @@
-Planet: GIBBONS
+Moon: GIBBONS
 Starmap index: 06
 Paris coordinates: 4366416, 4339783, -1219192
+Orbits: HARLEY
+Moon id: 0

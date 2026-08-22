@@ -1,6 +1,8 @@
-Planet: AUP 45
+Moon: AUP 45
 Starmap index: 16
 Paris coordinates: 4638192, 4248129, 655268
+Orbits: planet index 04
+Moon id: 4
 
 Guide entries:
 SURVEYED BY EDEANP 617.927.143

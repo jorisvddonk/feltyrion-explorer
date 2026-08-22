@@ -1,6 +1,8 @@
-Planet: BLAZE
+Moon: BLAZE
 Starmap index: 08
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 1
 
 Guide entries:
 FOUNDED EPOC 6011, 680.211.664 BY REZA. 2ND MOON OF OCEAN. VERY HOT         

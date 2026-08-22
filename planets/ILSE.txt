@@ -1,6 +1,8 @@
-Planet: ILSE
+Moon: ILSE
 Starmap index: 11
 Paris coordinates: -332496, 138827, -643676
+Orbits: AININ
+Moon id: 6
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:568.914

@@ -1,3 +1,5 @@
-Planet: TRIASTE TRIACUS PRIL
+Moon: TRIASTE TRIACUS PRIL
 Starmap index: 15
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE TRIACUS
+Moon id: 0

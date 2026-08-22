@@ -1,6 +1,8 @@
-Planet: GOTHAM
+Moon: GOTHAM
 Starmap index: 22
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: BALOONE
+Moon id: 0
 
 Guide entries:
 FOUNDED EPOC 6011:681.407.59 BY REZA. 1ST SATELLITE OF BALOONE.             

@@ -1,6 +1,8 @@
-Planet: DORNGE
+Moon: DORNGE
 Starmap index: 08
 Paris coordinates: -1290448, 2491256, 22212119
+Orbits: PIRUNING
+Moon id: 0
 
 Guide entries:
 VERY DARK MOON, BRIGHTEST AREAS ARE VERY DIM AND DARK, THE ATMOSHPERE

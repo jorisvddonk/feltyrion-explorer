@@ -1,6 +1,8 @@
-Planet: SHJURDER
+Moon: SHJURDER
 Starmap index: 40
 Paris coordinates: 11369520, -19178570, 16789632
+Orbits: ASKEW 48H
+Moon id: 5
 
 Guide entries:
 FOUND EPOC 6011 586.046.400 BY ROLAND ASKEW

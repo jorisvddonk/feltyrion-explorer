@@ -1,6 +1,8 @@
-Planet: SAGE
+Moon: SAGE
 Starmap index: 19
 Paris coordinates: -4241040, 222411, -3036412
+Orbits: MINT
+Moon id: 2
 
 Guide entries:
 FELISIAN MOON IN HERB GARDEN SYSTEM.

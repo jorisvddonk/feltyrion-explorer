@@ -1,3 +1,5 @@
-Planet: AREN
+Moon: AREN
 Starmap index: 15
 Paris coordinates: 4555696, 6114207, -211628
+Orbits: LIFE'S CRADLE
+Moon id: 1

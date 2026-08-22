@@ -1,6 +1,8 @@
-Planet: ARAELLIA
+Moon: ARAELLIA
 Starmap index: 31
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 04
+Moon id: 17
 
 Guide entries:
 SMALL THIN ATMOSPHERE WORLD, GRAV 0.38 FG, TEMP -41, 0.05 ATM PRESSURE

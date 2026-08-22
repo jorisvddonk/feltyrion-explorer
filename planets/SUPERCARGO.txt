@@ -1,6 +1,8 @@
-Planet: SUPERCARGO
+Moon: SUPERCARGO
 Starmap index: 32
 Paris coordinates: 2018928, -35086, -1819660
+Orbits: SUPERADD
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. ONE REALLY GOOD

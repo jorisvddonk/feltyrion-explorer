@@ -1,6 +1,8 @@
-Planet: CARPAL TUNNEL
+Moon: CARPAL TUNNEL
 Starmap index: 09
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: ONEIRIC
+Moon id: 2
 
 Guide entries:
 A FELISIAN WORLD- AT 276.68 IT IS HILLY AND FORESTED. AT 256.57

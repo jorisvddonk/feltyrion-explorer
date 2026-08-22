@@ -1,6 +1,8 @@
-Planet: PARSIS 11.10
+Moon: PARSIS 11.10
 Starmap index: 52
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 11
+Moon id: 9
 
 Guide entries:
  ICY SURFACE, SOME CRACKS, NO ATMOSPHERE.

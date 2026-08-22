@@ -1,6 +1,8 @@
-Planet: VERAZ
+Moon: VERAZ
 Starmap index: 08
 Paris coordinates: 3955696, 6200472, 411097
+Orbits: TEANUS
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY POKECAT(6011.998.773)

@@ -1,6 +1,8 @@
-Planet: BLAZE 2
+Moon: BLAZE 2
 Starmap index: 09
 Paris coordinates: 3742128, 3928007, -212877
+Orbits: OCEAN
+Moon id: 2
 
 Guide entries:
 FOUNDED EPOC 6011, 680.211.734 BY REZA. 3RD MOON OF OCEAN. TWIN MOON        

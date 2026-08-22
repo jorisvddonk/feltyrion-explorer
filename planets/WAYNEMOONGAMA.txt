@@ -1,3 +1,5 @@
-Planet: WAYNEMOONGAMA
+Moon: WAYNEMOONGAMA
 Starmap index: 14
 Paris coordinates: -32884432, 5098143, -15438858
+Orbits: planet index 06
+Moon id: 2

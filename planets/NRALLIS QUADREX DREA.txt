@@ -1,3 +1,5 @@
-Planet: NRALLIS QUADREX DREA
+Moon: NRALLIS QUADREX DREA
 Starmap index: 11
 Paris coordinates: 1399669584, 1320927, 1399310799
+Orbits: NRALLIS QUADREX
+Moon id: 1

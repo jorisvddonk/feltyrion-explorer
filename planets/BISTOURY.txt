@@ -1,6 +1,8 @@
-Planet: BISTOURY
+Moon: BISTOURY
 Starmap index: 06
 Paris coordinates: 4769264, 4335633, 374468
+Orbits: IN SITU
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

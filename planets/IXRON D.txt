@@ -1,6 +1,8 @@
-Planet: IXRON D
+Moon: IXRON D
 Starmap index: 10
 Paris coordinates: 112144, 40438, -249045
+Orbits: IXRON
+Moon id: 3
 
 Guide entries:
 SMALL, GREEN, THIN ATMOSPHERE, AND POLAR CAPS. (SCHMERM 6011 582.561)

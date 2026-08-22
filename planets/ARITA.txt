@@ -1,6 +1,8 @@
-Planet: ARITA
+Moon: ARITA
 Starmap index: 24
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHTLY DARK WITH MANY

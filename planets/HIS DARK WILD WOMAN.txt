@@ -1,3 +1,5 @@
-Planet: HIS DARK WILD WOMAN
+Moon: HIS DARK WILD WOMAN
 Starmap index: 28
 Paris coordinates: 3714992, 5004837, -1766171
+Orbits: QUIET BROTHER
+Moon id: 1

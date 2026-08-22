@@ -1,6 +1,8 @@
-Planet: SHINARA
+Moon: SHINARA
 Starmap index: 09
 Paris coordinates: 2939280, 4388626, -1511660
+Orbits: REGENT
+Moon id: 0
 
 Guide entries:
  DISCOVERED EPOC 6011:582.394 BY MARCUS ARAC

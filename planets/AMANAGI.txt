@@ -1,3 +1,5 @@
-Planet: AMANAGI
+Moon: AMANAGI
 Starmap index: 35
 Paris coordinates: 3890704, 4320850, -1439499
+Orbits: WUAERIAN
+Moon id: 19

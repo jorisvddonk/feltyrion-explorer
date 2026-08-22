@@ -1,6 +1,8 @@
-Planet: SNOWPEAK
+Moon: SNOWPEAK
 Starmap index: 08
 Paris coordinates: 3663568, 4179686, -2879759
+Orbits: GRINGA
+Moon id: 1
 
 Guide entries:
  BLAK CRATER 28.66:45.71 TALL MOUNTAIN WITH SNOW

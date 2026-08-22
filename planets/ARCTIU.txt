@@ -1,3 +1,5 @@
-Planet: ARCTIU
+Moon: ARCTIU
 Starmap index: 07
 Paris coordinates: 2277136, 4608192, -622436
+Orbits: planet index 04
+Moon id: 1

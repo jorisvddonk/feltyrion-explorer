@@ -1,6 +1,8 @@
-Planet: FIRIDA
+Moon: FIRIDA
 Starmap index: 14
 Paris coordinates: 3408208, 420650, -1856116
+Orbits: RINI 3
+Moon id: 9
 
 Guide entries:
 CLOUDY; GREY/BROWN

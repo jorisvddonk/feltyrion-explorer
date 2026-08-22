@@ -1,6 +1,8 @@
-Planet: BROKEN EMERALD
+Moon: BROKEN EMERALD
 Starmap index: 08
 Paris coordinates: 4304272, 4864874, -1110519
+Orbits: JUNIOR SIBLING
+Moon id: 2
 
 Guide entries:
 THIRD MOON OF THIRD MAJOR OBJECT IN THIS MULTIPLE SYSTEM.                   

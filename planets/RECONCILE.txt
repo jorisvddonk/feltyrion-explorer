@@ -1,6 +1,8 @@
-Planet: RECONCILE
+Moon: RECONCILE
 Starmap index: 27
 Paris coordinates: 74288, 47959, -394282
+Orbits: PLOT
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH

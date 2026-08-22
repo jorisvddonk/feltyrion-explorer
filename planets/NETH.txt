@@ -1,6 +1,8 @@
-Planet: NETH
+Moon: NETH
 Starmap index: 12
 Paris coordinates: -770352, 114475, -280746
+Orbits: TCHO
+Moon id: 1
 
 Guide entries:
 DISCOVERED BY XEN MARMARIS, 6011:563.668

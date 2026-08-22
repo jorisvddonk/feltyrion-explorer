@@ -1,3 +1,5 @@
-Planet: IL-2
+Moon: IL-2
 Starmap index: 07
 Paris coordinates: 3921776, 3763420, -1571101
+Orbits: JORGAN
+Moon id: 3

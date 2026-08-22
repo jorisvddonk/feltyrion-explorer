@@ -1,6 +1,8 @@
-Planet: MALEFIDA
+Moon: MALEFIDA
 Starmap index: 09
 Paris coordinates: 2061228144, -1654027, 3059941
+Orbits: ITMYBES
+Moon id: 5
 
 Guide entries:
 M06/P03 ANOTHER FELISIAN WORLD. AT 356.62 WITH A HILLSIDE LANDING           

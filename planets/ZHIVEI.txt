@@ -1,6 +1,8 @@
-Planet: ZHIVEI
+Moon: ZHIVEI
 Starmap index: 16
 Paris coordinates: 4276048, 4341552, 1134378
+Orbits: ZHABRIY
+Moon id: 8
 
 Guide entries:
  HOPPER SIGHTING, PHOTOGRAPHIC EVIDENCE PROCURED.

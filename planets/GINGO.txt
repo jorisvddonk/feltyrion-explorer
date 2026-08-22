@@ -1,3 +1,5 @@
-Planet: GINGO
+Moon: GINGO
 Starmap index: 15
 Paris coordinates: 1583920, -27673265, 361375
+Orbits: RATOLUTA
+Moon id: 2

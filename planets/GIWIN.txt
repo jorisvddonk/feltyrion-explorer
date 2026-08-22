@@ -1,3 +1,5 @@
-Planet: GIWIN
+Moon: GIWIN
 Starmap index: 16
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: PIRU
+Moon id: 0

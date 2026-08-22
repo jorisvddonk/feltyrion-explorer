@@ -1,3 +1,5 @@
-Planet: HELGHAN
+Moon: HELGHAN
 Starmap index: 17
 Paris coordinates: 4279984, 4628393, -549462
+Orbits: planet index 08
+Moon id: 0

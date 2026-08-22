@@ -1,6 +1,8 @@
-Planet: VOWBIN VII B
+Moon: VOWBIN VII B
 Starmap index: 19
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN VII
+Moon id: 1
 
 Guide entries:
 A GREEN DENSEWORLD WITH A FAINT HINT OF ATMOSPHERIC BANDS.

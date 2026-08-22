@@ -1,6 +1,8 @@
-Planet: 2
+Moon: 2
 Starmap index: 12
 Paris coordinates: -643216, 9578380, 958538
+Orbits: THE ORANGE MYSTERY
+Moon id: 4
 
 Guide entries:
 SOMEWHAT UNUSUAL FOR A QUARTZ MOON TO HAVE AN OXYGEN ATMOSPHERE. DISCOVERER

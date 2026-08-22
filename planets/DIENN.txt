@@ -1,6 +1,8 @@
-Planet: DIENN
+Moon: DIENN
 Starmap index: 15
 Paris coordinates: 108838448, 4900014, -80363987
+Orbits: GROZAL 3
+Moon id: 4
 
 Guide entries:
 FELISIAN WORLD; LOVELY PINK SKIES, GREEN HILLS, BLUE OCEANS

@@ -1,6 +1,8 @@
-Planet: CANTRUUNT
+Moon: CANTRUUNT
 Starmap index: 08
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: EKUSSE
+Moon id: 0
 
 Guide entries:
 THICK ATMOSPHERE WORLD, WITH PALE BROWN COLORS, ALSO ON SOME AREAS ON       

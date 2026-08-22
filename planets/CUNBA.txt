@@ -1,6 +1,8 @@
-Planet: CUNBA
+Moon: CUNBA
 Starmap index: 22
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: THOUE
+Moon id: 8
 
 Guide entries:
 M09/P05 SMALL SOLID DUSTY CRATERIZED. HAS THE SAME REFLECTIVITY BUT A       

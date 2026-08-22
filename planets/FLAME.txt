@@ -1,6 +1,8 @@
-Planet: FLAME
+Moon: FLAME
 Starmap index: 08
 Paris coordinates: -239280, 241390, -939373
+Orbits: ERAT
+Moon id: 3
 
 Guide entries:
 CONSIDERABLY FRESH WORLD, UNSUITABLE TO LAND ON.

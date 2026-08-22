@@ -1,6 +1,8 @@
-Planet: DONBOTH
+Moon: DONBOTH
 Starmap index: 61
 Paris coordinates: 20068432, 1328172, 12119336
+Orbits: GRYST
+Moon id: 0
 
 Guide entries:
 DON'T EVEN BOTHER, THIS PLANET IS TOO DARK TO EXPLORE, PITCH BLACK.

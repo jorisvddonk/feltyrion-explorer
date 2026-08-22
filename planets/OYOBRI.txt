@@ -1,6 +1,8 @@
-Planet: OYOBRI
+Moon: OYOBRI
 Starmap index: 35
 Paris coordinates: 4413904, 4349423, 1348058
+Orbits: planet index 05
+Moon id: 17
 
 Guide entries:
 SURVEYED BY EDEANP 6011.618.7.404, ABUNDANT LIFE

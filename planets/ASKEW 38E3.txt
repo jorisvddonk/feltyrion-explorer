@@ -1,3 +1,5 @@
-Planet: ASKEW 38E3
+Moon: ASKEW 38E3
 Starmap index: 14
 Paris coordinates: 11996656, -18940405, 17834589
+Orbits: NELLYINAH
+Moon id: 2

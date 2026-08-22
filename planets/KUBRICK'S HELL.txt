@@ -1,6 +1,8 @@
-Planet: KUBRICK'S HELL
+Moon: KUBRICK'S HELL
 Starmap index: 14
 Paris coordinates: 4073200, 4600279, -799854
+Orbits: TABLETOP
+Moon id: 0
 
 Guide entries:
 HIGH CONTRAST - RED SKY AND BLUE GROUND. A PLANET FROM ODISSEY

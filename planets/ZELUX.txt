@@ -1,3 +1,5 @@
-Planet: ZELUX
+Moon: ZELUX
 Starmap index: 27
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: LUSOW
+Moon id: 1

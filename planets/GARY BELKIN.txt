@@ -1,3 +1,5 @@
-Planet: GARY BELKIN
+Moon: GARY BELKIN
 Starmap index: 25
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: ALFRED E NEUMAN
+Moon id: 14

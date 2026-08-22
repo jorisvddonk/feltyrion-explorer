@@ -1,3 +1,5 @@
-Planet: PYROPATA
+Moon: PYROPATA
 Starmap index: 25
 Paris coordinates: -61439376, 29916264, 239760
+Orbits: GRUPA 5 E
+Moon id: 2

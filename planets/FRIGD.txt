@@ -1,3 +1,5 @@
-Planet: FRIGD
+Moon: FRIGD
 Starmap index: 15
 Paris coordinates: 4877136, 4743462, -3053809
+Orbits: MONOO
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: BOOWATTU
+Moon: BOOWATTU
 Starmap index: 12
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: YAETS'R
+Moon id: 0

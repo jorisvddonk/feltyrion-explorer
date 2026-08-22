@@ -1,6 +1,8 @@
-Planet: NIETUD
+Moon: NIETUD
 Starmap index: 08
 Paris coordinates: 10256784, 156885, -9838554
+Orbits: USPRI
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE, ORANGE

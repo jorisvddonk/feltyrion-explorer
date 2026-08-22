@@ -1,6 +1,8 @@
-Planet: HICAZ
+Moon: HICAZ
 Starmap index: 60
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: KERWAU
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. PURPLE REFLECTIVITY, SLIGHTLY

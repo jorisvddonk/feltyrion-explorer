@@ -1,6 +1,8 @@
-Planet: PAPER MACHE
+Moon: PAPER MACHE
 Starmap index: 09
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 1
 
 Guide entries:
 A TEAL CRATERED MOON OF INSANE ON EKA75. BUMPY, WITH LARGE DARK

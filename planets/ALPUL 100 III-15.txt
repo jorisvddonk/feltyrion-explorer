@@ -1,6 +1,8 @@
-Planet: ALPUL 100 III-15
+Moon: ALPUL 100 III-15
 Starmap index: 20
 Paris coordinates: 4162480, 4932645, 601950
+Orbits: ALPUL 100 III
+Moon id: 14
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, VERY DARK, SLIGHT POLAR CAPS.

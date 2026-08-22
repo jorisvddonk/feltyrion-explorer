@@ -1,6 +1,8 @@
-Planet: FRULTE
+Moon: FRULTE
 Starmap index: 74
 Paris coordinates: 3339280, 4396688, -1925777
+Orbits: FRINTH
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. SLIGHT PURPLE REFLECTIVITY

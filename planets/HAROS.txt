@@ -1,6 +1,8 @@
-Planet: HAROS
+Moon: HAROS
 Starmap index: 19
 Paris coordinates: 3604272, 5732627, -331444
+Orbits: STEX
+Moon id: 6
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. SOME STORMLIKE

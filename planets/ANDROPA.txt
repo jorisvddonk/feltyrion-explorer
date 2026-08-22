@@ -1,6 +1,8 @@
-Planet: ANDROPA
+Moon: ANDROPA
 Starmap index: 17
 Paris coordinates: 1546064, 1448329, 276029
+Orbits: GASSY 1
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY BJS EPOC 6011:584.188

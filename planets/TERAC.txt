@@ -1,6 +1,8 @@
-Planet: TERAC
+Moon: TERAC
 Starmap index: 45
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK WITH A SMALL LIGHT AREA NOTED,

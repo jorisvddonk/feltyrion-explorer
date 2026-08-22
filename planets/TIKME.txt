@@ -1,6 +1,8 @@
-Planet: TIKME
+Moon: TIKME
 Starmap index: 11
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: KRITO
+Moon id: 1
 
 Guide entries:
 M02/P03 SMALL DUSTY CRATERIZED. LIGHT GREEN WITH FEW LARGE CRATERS. PRO     

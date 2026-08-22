@@ -1,6 +1,8 @@
-Planet: NEW SYRTIS
+Moon: NEW SYRTIS
 Starmap index: 06
 Paris coordinates: 446064, 140246, 1406798
+Orbits: planet index 02
+Moon id: 0
 
 Guide entries:
  LARGE, NOT CONSISTEND, COVERED IN DENSE CLOUDS

@@ -1,3 +1,5 @@
-Planet: SCHALAND
+Moon: SCHALAND
 Starmap index: 13
 Paris coordinates: 1194640, -18470514, -525444
+Orbits: LJUBVO
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: DEADRISE
+Moon: DEADRISE
 Starmap index: 66
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAGNAR
+Moon id: 10

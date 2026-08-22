@@ -1,3 +1,5 @@
-Planet: ROMA 9.1
+Moon: ROMA 9.1
 Starmap index: 23
 Paris coordinates: 3828560, 4747754, -1135269
+Orbits: ROMA-9.0
+Moon id: 0

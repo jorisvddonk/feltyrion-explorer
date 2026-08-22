@@ -1,3 +1,5 @@
-Planet: XARVARC D3
+Moon: XARVARC D3
 Starmap index: 08
 Paris coordinates: 4773200, 4651613, -1520195
+Orbits: XARVARC D
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: EMOLUMENT
+Moon: EMOLUMENT
 Starmap index: 13
 Paris coordinates: 4366416, 5139783, -1340666
+Orbits: VINCER
+Moon id: 9
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, FAIRLY DARK, GOOD POLAR CAPS.

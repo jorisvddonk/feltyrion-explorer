@@ -1,3 +1,5 @@
-Planet: ASKEW 8G1
+Moon: ASKEW 8G1
 Starmap index: 31
 Paris coordinates: 4276048, 2046733, 1291565
+Orbits: DAEMONICA
+Moon id: 0

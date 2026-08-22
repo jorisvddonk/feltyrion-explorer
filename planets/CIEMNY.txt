@@ -1,3 +1,5 @@
-Planet: CIEMNY
+Moon: CIEMNY
 Starmap index: 19
 Paris coordinates: 3942128, 4405316, -393735
+Orbits: planet index 05
+Moon id: 12

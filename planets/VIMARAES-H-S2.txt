@@ -1,3 +1,5 @@
-Planet: VIMARAES-H-S2
+Moon: VIMARAES-H-S2
 Starmap index: 38
 Paris coordinates: 3661808, 108183, -8606009
+Orbits: VIMARAES-H
+Moon id: 1

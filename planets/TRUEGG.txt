@@ -1,3 +1,5 @@
-Planet: TRUEGG
+Moon: TRUEGG
 Starmap index: 07
 Paris coordinates: 3951760, 5640032, 2112631
+Orbits: BRINXO
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: GELATINUS
+Moon: GELATINUS
 Starmap index: 29
 Paris coordinates: -56784, -84307, -221013
+Orbits: FRIGGA
+Moon id: 1
 
 Guide entries:
 A PURPLE DENSEWORLD THAT HAS A TRANSPARENT SURFACE!

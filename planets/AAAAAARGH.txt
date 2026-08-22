@@ -1,6 +1,8 @@
-Planet: AAAAAARGH
+Moon: AAAAAARGH
 Starmap index: 06
 Paris coordinates: 8303184, 5908820, -1251717
+Orbits: GASSY1
+Moon id: 1
 
 Guide entries:
 349.125:-1.0 VERY WEIRD VISUAL EFFECT

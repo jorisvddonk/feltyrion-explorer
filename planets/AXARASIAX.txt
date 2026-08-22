@@ -1,3 +1,5 @@
-Planet: AXARASIAX
+Moon: AXARASIAX
 Starmap index: 50
 Paris coordinates: 11558800, -19461295, 17911789
+Orbits: ASKEW 30F
+Moon id: 17

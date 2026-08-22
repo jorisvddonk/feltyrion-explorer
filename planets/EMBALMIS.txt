@@ -1,3 +1,5 @@
-Planet: EMBALMIS
+Moon: EMBALMIS
 Starmap index: 09
 Paris coordinates: -394640, -22759, -214423
+Orbits: SONIA
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: NEW MORA
+Moon: NEW MORA
 Starmap index: 38
 Paris coordinates: 7476048, 5871993, -2145588
+Orbits: planet index 08
+Moon id: 6
 
 Guide entries:
 FELISIAN MOON AROUND THE 8TH PLANET OF THE REBIRTH SYSTEM.

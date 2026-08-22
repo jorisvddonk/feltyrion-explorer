@@ -1,3 +1,5 @@
-Planet: SPAK
+Moon: SPAK
 Starmap index: 24
 Paris coordinates: -9464912, 329770, -10628299
+Orbits: PACT
+Moon id: 0

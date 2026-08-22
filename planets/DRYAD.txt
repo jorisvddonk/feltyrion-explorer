@@ -1,6 +1,8 @@
-Planet: DRYAD
+Moon: DRYAD
 Starmap index: 11
 Paris coordinates: 3277136, 4829407, -1500921
+Orbits: VALL
+Moon id: 1
 
 Guide entries:
 A SMALL, DUSTY AND CRATERIZED, UNDESCRIPT.

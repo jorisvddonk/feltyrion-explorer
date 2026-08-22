@@ -1,6 +1,8 @@
-Planet: PSEPH
+Moon: PSEPH
 Starmap index: 16
 Paris coordinates: 3751760, 4461391, 2168286
+Orbits: PSEDRITE
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. GREEN AND HIGHLY

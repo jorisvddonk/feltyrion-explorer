@@ -1,3 +1,5 @@
-Planet: CAHR
+Moon: CAHR
 Starmap index: 06
 Paris coordinates: 3717840, 4660522, 308917
+Orbits: AVION (CHA III)
+Moon id: 2

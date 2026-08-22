@@ -1,3 +1,5 @@
-Planet: DELEHN
+Moon: DELEHN
 Starmap index: 34
 Paris coordinates: 81072, -77486, -118953
+Orbits: BODERON
+Moon id: 7

@@ -1,3 +1,5 @@
-Planet: PROMESIUM
+Moon: PROMESIUM
 Starmap index: 15
 Paris coordinates: 3277136, 4429407, -1460385
+Orbits: AURUS
+Moon id: 5

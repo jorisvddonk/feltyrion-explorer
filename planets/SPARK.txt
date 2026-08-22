@@ -1,6 +1,8 @@
-Planet: SPARK
+Moon: SPARK
 Starmap index: 05
 Paris coordinates: -1394640, 5313966, 754093
+Orbits: TORI
+Moon id: 1
 
 Guide entries:
 A LIFELESS CRATERED ROCK.

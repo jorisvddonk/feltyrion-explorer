@@ -1,6 +1,8 @@
-Planet: OKOTIBE
+Moon: OKOTIBE
 Starmap index: 23
 Paris coordinates: 3135344, 4250969, 31832
+Orbits: BRASSAR
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH

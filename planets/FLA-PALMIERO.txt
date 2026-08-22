@@ -1,6 +1,8 @@
-Planet: FLA-PALMIERO
+Moon: FLA-PALMIERO
 Starmap index: 44
 Paris coordinates: 3170352, 4739313, -1769991
+Orbits: ALE-PRADON
+Moon id: 11
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.835 -                               

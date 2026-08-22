@@ -1,6 +1,8 @@
-Planet: FRIED GREEN TOMATOES
+Moon: FRIED GREEN TOMATOES
 Starmap index: 12
 Paris coordinates: -332496, -19693, -380818
+Orbits: GAV 3
+Moon id: 6
 
 Guide entries:
 CLOUD-COVERED MOON OF 'HOT OVEN' ON EKA40. BRIGHT GREEN

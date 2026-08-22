@@ -1,6 +1,8 @@
-Planet: LINKS
+Moon: LINKS
 Starmap index: 11
 Paris coordinates: 3359632, 4945485, -922921
+Orbits: DOLORES
+Moon id: 0
 
 Guide entries:
 DISCOVERED BY ZK306 EPOC 6011.667.519.865

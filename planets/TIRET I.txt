@@ -1,6 +1,8 @@
-Planet: TIRET I
+Moon: TIRET I
 Starmap index: 07
 Paris coordinates: -19904016, -5654995, 40012174
+Orbits: planet index 01
+Moon id: 0
 
 Guide entries:
 THE PLANET OF MANY WONDERS. FOUND AT MENDEZ PRIME, THIS PLANET LIES         

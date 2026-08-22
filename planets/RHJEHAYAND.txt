@@ -1,6 +1,8 @@
-Planet: RHJEHAYAND
+Moon: RHJEHAYAND
 Starmap index: 17
 Paris coordinates: -194640, -77675, -351463
+Orbits: EU ARSALVA
+Moon id: 9
 
 Guide entries:
 M10/P04 THICK ATMO. DULL REFLECTIVITY WITH TURBID CLOUD COVER,

@@ -1,6 +1,8 @@
-Planet: ALPINULA
+Moon: ALPINULA
 Starmap index: 06
 Paris coordinates: 5262480, 4636210, -419139
+Orbits: ALPINUS
+Moon id: 0
 
 Guide entries:
 MOON OF ALPINUS. TYPICAL BODY LACKING ATMOSPHERE TO PROTECT IT FROM         

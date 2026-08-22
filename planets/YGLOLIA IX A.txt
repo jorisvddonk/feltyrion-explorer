@@ -1,3 +1,5 @@
-Planet: YGLOLIA IX A
+Moon: YGLOLIA IX A
 Starmap index: 17
 Paris coordinates: -87856, 69100, -95029
+Orbits: YGLOLIA IX
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: LOEN
+Moon: LOEN
 Starmap index: 17
 Paris coordinates: 3542128, 4319626, -23198
+Orbits: COBALT
+Moon id: 6
 
 Guide entries:
 VERY LARGE, SUBSTELLAR OBJECT, NOT CONSISTENT. SKINNYMON EPOC 6011

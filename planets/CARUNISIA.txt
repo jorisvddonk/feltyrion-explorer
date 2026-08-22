@@ -1,6 +1,8 @@
-Planet: CARUNISIA
+Moon: CARUNISIA
 Starmap index: 33
 Paris coordinates: -356784, 249112, 74478
+Orbits: planet index 05
+Moon id: 0
 
 Guide entries:
 SMALL CRATERED MOON. FGS 0.28, TEMP -267, NO ATMOSPHERE, SUN DISC IS

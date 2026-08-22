@@ -1,3 +1,5 @@
-Planet: SPAWN1
+Moon: SPAWN1
 Starmap index: 15
 Paris coordinates: 3555696, 4747547, 558041
+Orbits: SPAWN
+Moon id: 0

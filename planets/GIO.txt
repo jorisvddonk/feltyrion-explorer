@@ -1,6 +1,8 @@
-Planet: GIO
+Moon: GIO
 Starmap index: 15
 Paris coordinates: -280275088, -1411417, 54856035
+Orbits: TALES
+Moon id: 6
 
 Guide entries:
 DISCOVERED BY PAUL EIPPER, EPOC 6011.576.810

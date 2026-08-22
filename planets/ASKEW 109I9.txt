@@ -1,3 +1,5 @@
-Planet: ASKEW 109I9
+Moon: ASKEW 109I9
 Starmap index: 56
 Paris coordinates: 1902096, -12067422, 8947965
+Orbits: ASKEW 109I
+Moon id: 8

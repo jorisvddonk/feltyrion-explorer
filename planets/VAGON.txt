@@ -1,6 +1,8 @@
-Planet: VAGON
+Moon: VAGON
 Starmap index: 08
 Paris coordinates: 4246064, 4391901, -2339348
+Orbits: GRERN
+Moon id: 0
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED WITH DENSE CLOUDS. EXCEEDINGLY REFLECTIVE

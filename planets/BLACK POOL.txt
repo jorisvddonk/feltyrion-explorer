@@ -1,3 +1,5 @@
-Planet: BLACK POOL
+Moon: BLACK POOL
 Starmap index: 25
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAHDI
+Moon id: 8

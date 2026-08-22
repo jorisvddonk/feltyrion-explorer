@@ -1,3 +1,5 @@
-Planet: TORTURE MOON
+Moon: TORTURE MOON
 Starmap index: 07
 Paris coordinates: 4486768, 4507317, -341658
+Orbits: CORDELIA
+Moon id: 0

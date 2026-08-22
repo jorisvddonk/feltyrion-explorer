@@ -1,6 +1,8 @@
-Planet: URVO
+Moon: URVO
 Starmap index: 09
 Paris coordinates: 3587856, 4660150, -3339201
+Orbits: LETAI
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE. LOW

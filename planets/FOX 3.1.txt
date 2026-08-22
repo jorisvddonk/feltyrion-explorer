@@ -1,6 +1,8 @@
-Planet: FOX 3.1
+Moon: FOX 3.1
 Starmap index: 04
 Paris coordinates: 5360, 36337, -545027
+Orbits: FOX 3
+Moon id: 0
 
 Guide entries:
 SMALL AND SOLID, THIN ATMOSPHERE. FOUR TIMES MORE MASSIVE THAN ITS

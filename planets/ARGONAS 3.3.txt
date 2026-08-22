@@ -1,6 +1,8 @@
-Planet: ARGONAS 3.3
+Moon: ARGONAS 3.3
 Starmap index: 17
 Paris coordinates: 2163568, 1586571, -1137857
+Orbits: ARGONAS 3
+Moon id: 2
 
 Guide entries:
  ORBITING EXTREMELY CLOSE TO ANOTHER MOON, THIS WORLD IS A DEAD,

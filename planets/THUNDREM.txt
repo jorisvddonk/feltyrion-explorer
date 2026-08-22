@@ -1,6 +1,8 @@
-Planet: THUNDREM
+Moon: THUNDREM
 Starmap index: 04
 Paris coordinates: 4304272, 4464874, -1145651
+Orbits: ARGOS
+Moon id: 0
 
 Guide entries:
 LITTLE MOON AROUND THE SECOND STAR. NO RELEVANT SIGHTS. KASGOR

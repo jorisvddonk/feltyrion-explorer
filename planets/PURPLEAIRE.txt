@@ -1,6 +1,8 @@
-Planet: PURPLEAIRE
+Moon: PURPLEAIRE
 Starmap index: 10
 Paris coordinates: 3228560, 4666563, -483683
+Orbits: planet index 05
+Moon id: 0
 
 Guide entries:
  FELISIAN PLANET OF STAR FANTARI. DISC BY SCAREDY-CAT, 6011.587.921

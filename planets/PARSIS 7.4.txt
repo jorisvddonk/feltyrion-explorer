@@ -1,6 +1,8 @@
-Planet: PARSIS 7.4
+Moon: PARSIS 7.4
 Starmap index: 21
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 7
+Moon id: 3
 
 Guide entries:
  THE FOURTH MOON OF PARSIS 7 IS, LIKE THE FIFTH MOON, FULLY COVERED

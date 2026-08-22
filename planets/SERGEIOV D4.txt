@@ -1,3 +1,5 @@
-Planet: SERGEIOV D4
+Moon: SERGEIOV D4
 Starmap index: 25
 Paris coordinates: -72317424, -1376064, 54932106
+Orbits: SERGEIOV D
+Moon id: 3

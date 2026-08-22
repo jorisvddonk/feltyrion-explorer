@@ -1,3 +1,5 @@
-Planet: DUSTORM 2
+Moon: DUSTORM 2
 Starmap index: 38
 Paris coordinates: 663568, 1836709, 279372
+Orbits: ZEBES
+Moon id: 8

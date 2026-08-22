@@ -1,6 +1,8 @@
-Planet: ROBINSON
+Moon: ROBINSON
 Starmap index: 04
 Paris coordinates: 163568, 107470, 773613
+Orbits: GALTOR
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZE, INTERNALLY HOT, UNSTABLE SURFACE, NO ATNOSPHERE

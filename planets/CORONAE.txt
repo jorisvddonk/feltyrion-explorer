@@ -1,3 +1,5 @@
-Planet: CORONAE
+Moon: CORONAE
 Starmap index: 06
 Paris coordinates: 4821776, 4604922, -2453236
+Orbits: planet index 03
+Moon id: 1

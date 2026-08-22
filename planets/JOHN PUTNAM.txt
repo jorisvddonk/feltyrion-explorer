@@ -1,3 +1,5 @@
-Planet: JOHN PUTNAM
+Moon: JOHN PUTNAM
 Starmap index: 29
 Paris coordinates: 257872, 4330231, -3480811
+Orbits: BILL ELDER
+Moon id: 2

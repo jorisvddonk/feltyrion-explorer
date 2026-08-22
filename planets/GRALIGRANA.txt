@@ -1,3 +1,5 @@
-Planet: GRALIGRANA
+Moon: GRALIGRANA
 Starmap index: 16
 Paris coordinates: 59081776, -33288570, 926170502
+Orbits: FUROKIATWA
+Moon id: 7

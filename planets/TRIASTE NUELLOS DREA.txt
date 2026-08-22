@@ -1,3 +1,5 @@
-Planet: TRIASTE NUELLOS DREA
+Moon: TRIASTE NUELLOS DREA
 Starmap index: 30
 Paris coordinates: 1400245296, 1594807, 1399274759
+Orbits: TRIASTE NUELLOS
+Moon id: 1

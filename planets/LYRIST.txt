@@ -1,6 +1,8 @@
-Planet: LYRIST
+Moon: LYRIST
 Starmap index: 07
 Paris coordinates: -18928, -70320, -32484
+Orbits: LEADING QUESTION
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, MODERATELY DARK, GOOD POLAR CAPS.

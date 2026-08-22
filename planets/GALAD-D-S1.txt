@@ -1,3 +1,5 @@
-Planet: GALAD-D-S1
+Moon: GALAD-D-S1
 Starmap index: 09
 Paris coordinates: 3121104, -370574, -10520597
+Orbits: GALAD-D
+Moon id: 0

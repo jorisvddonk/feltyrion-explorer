@@ -1,6 +1,8 @@
-Planet: NAKOOL
+Moon: NAKOOL
 Starmap index: 18
 Paris coordinates: -729454288, 639775, -580611177
+Orbits: GOSI'UZOV 4
+Moon id: 6
 
 Guide entries:
 GOSI'UZOV 07/04; QUARTZ

@@ -1,6 +1,8 @@
-Planet: VIFHTE
+Moon: VIFHTE
 Starmap index: 09
 Paris coordinates: 2090958384, -1967570, -33666
+Orbits: AERUMNIBLE
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL SOLID DUSTY VERY GOOD GREEN REFLECTIVITY, LARGE CRATERS.      

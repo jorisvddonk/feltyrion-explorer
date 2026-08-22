@@ -1,6 +1,8 @@
-Planet: INDUSTRY
+Moon: INDUSTRY
 Starmap index: 19
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: KINGPIN
+Moon id: 2
 
 Guide entries:
 GREY CLOUD-COVERED MOON OF PLANET KINGPIN.

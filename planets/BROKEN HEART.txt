@@ -1,3 +1,5 @@
-Planet: BROKEN HEART
+Moon: BROKEN HEART
 Starmap index: 47
 Paris coordinates: 3690704, 4470114, -1321181
+Orbits: planet index 13
+Moon id: 10

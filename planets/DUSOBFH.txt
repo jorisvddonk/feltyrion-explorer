@@ -1,6 +1,8 @@
-Planet: DUSOBFH
+Moon: DUSOBFH
 Starmap index: 14
 Paris coordinates: 2029827216, 2306055, 1542231
+Orbits: PAMVISY
+Moon id: 1
 
 Guide entries:
 M02/P03 SMALL SOLID DUSTY, PINKISH COLOR WITH VERY LARGE CRATERS. PRO       

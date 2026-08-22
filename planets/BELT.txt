@@ -1,3 +1,5 @@
-Planet: BELT
+Moon: BELT
 Starmap index: 10
 Paris coordinates: 356784, -74457, 270756
+Orbits: planet index 03
+Moon id: 4

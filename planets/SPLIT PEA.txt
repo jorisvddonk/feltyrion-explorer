@@ -1,6 +1,8 @@
-Planet: SPLIT PEA
+Moon: SPLIT PEA
 Starmap index: 13
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: SARIKA C
+Moon id: 5
 
 Guide entries:
 UPDATE:SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. LARGE CRATER

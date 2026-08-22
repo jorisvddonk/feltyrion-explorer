@@ -1,6 +1,8 @@
-Planet: SYRAL
+Moon: SYRAL
 Starmap index: 26
 Paris coordinates: 4879984, 4546309, -1156168
+Orbits: BARDIVAL
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. DARKISH PALLOR AND HEAVILY

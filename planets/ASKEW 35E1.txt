@@ -1,3 +1,5 @@
-Planet: ASKEW 35E1
+Moon: ASKEW 35E1
 Starmap index: 11
 Paris coordinates: 11865584, -18961787, 17976433
+Orbits: FARADAY
+Moon id: 0

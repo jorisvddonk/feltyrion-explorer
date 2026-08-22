@@ -1,6 +1,8 @@
-Planet: JOSH
+Moon: JOSH
 Starmap index: 05
 Paris coordinates: 181072, 46421, -227392
+Orbits: REBECCA
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY MANUEL F. LANCTOT, EPOC 6011:576.344

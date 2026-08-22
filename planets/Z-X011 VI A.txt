@@ -1,6 +1,8 @@
-Planet: Z-X011 VI A
+Moon: Z-X011 VI A
 Starmap index: 11
 Paris coordinates: -1404734000, -44052, 1421101164
+Orbits: Z-X011 VI
+Moon id: 0
 
 Guide entries:
 GREY THINWORLD. (SCHMERM 6011 598.637)

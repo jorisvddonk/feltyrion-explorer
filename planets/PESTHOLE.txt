@@ -1,6 +1,8 @@
-Planet: PESTHOLE
+Moon: PESTHOLE
 Starmap index: 23
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: SARDONIC
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTENALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. LOOKS

@@ -1,6 +1,8 @@
-Planet: DULAY
+Moon: DULAY
 Starmap index: 14
 Paris coordinates: -267504, 1291695, 1373831
+Orbits: AERSI
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE PLANET AERSI

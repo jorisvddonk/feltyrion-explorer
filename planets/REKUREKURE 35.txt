@@ -1,3 +1,5 @@
-Planet: REKUREKURE 35
+Moon: REKUREKURE 35
 Starmap index: 07
 Paris coordinates: -61501520, 29541691, 594007
+Orbits: DENSISTIQUA
+Moon id: 3

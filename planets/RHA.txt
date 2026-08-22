@@ -1,6 +1,8 @@
-Planet: RHA
+Moon: RHA
 Starmap index: 17
 Paris coordinates: 2879984, 4786591, 805414
+Orbits: PAL YHOLIS
+Moon id: 3
 
 Guide entries:
 4TH MOON OF PAL YHOLIS

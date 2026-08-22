@@ -1,6 +1,8 @@
-Planet: ALCHEMIST 6.7
+Moon: ALCHEMIST 6.7
 Starmap index: 22
 Paris coordinates: 4448912, 4340329, -472415
+Orbits: ALCHEMIST 6
+Moon id: 6
 
 Guide entries:
 MEDIUM-SIZED, CREASED, ATMOSPHERELESS DEADWORLD. ONE HUGE CRATER

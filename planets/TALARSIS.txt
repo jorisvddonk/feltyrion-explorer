@@ -1,6 +1,8 @@
-Planet: TALARSIS
+Moon: TALARSIS
 Starmap index: 22
 Paris coordinates: 634478448, -10891563, 49175409
+Orbits: PINNACULUM
+Moon id: 1
 
 Guide entries:
  M02P07, DUSTY AND SMALL WITH CRATERS, PRO 0.160.920; PRV

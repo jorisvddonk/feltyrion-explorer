@@ -1,6 +1,8 @@
-Planet: FIRESKY 9.1
+Moon: FIRESKY 9.1
 Starmap index: 42
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 9
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, INTERNALLY HOT, VERY UNSTABLE SURFACE, LOTS OF

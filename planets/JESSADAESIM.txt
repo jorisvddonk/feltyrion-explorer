@@ -1,3 +1,5 @@
-Planet: JESSADAESIM
+Moon: JESSADAESIM
 Starmap index: 16
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUERUE
+Moon id: 7

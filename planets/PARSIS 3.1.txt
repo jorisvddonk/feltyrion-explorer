@@ -1,6 +1,8 @@
-Planet: PARSIS 3.1
+Moon: PARSIS 3.1
 Starmap index: 14
 Paris coordinates: 2952848, 6448045, -840503
+Orbits: PARSIS 3
+Moon id: 0
 
 Guide entries:
  THIS MOON IS BORING, DUSTY CRATERIZED WORLD WITH NO ATMOSPHERE.

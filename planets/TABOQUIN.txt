@@ -1,6 +1,8 @@
-Planet: TABOQUIN
+Moon: TABOQUIN
 Starmap index: 27
 Paris coordinates: 3901424, -66380183, -2847415
+Orbits: BREYUS
+Moon id: 16
 
 Guide entries:
 THIS MOON IS A DENSEWORLD THAT APPEARS TO HAVE AN EVEN, FUZZY ORANGE

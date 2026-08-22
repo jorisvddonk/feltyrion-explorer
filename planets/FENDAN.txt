@@ -1,6 +1,8 @@
-Planet: FENDAN
+Moon: FENDAN
 Starmap index: 19
 Paris coordinates: 2846064, 4721160, -1042736
+Orbits: FLEXCA
+Moon id: 7
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

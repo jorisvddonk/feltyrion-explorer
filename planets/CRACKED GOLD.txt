@@ -1,6 +1,8 @@
-Planet: CRACKED GOLD
+Moon: CRACKED GOLD
 Starmap index: 14
 Paris coordinates: 356784, 2863, -23661
+Orbits: ALIURTREN
+Moon id: 8
 
 Guide entries:
 QUARTZ MOON OF SANITY WARP ON EKA56. VERY NICE COLOR; I HAVEN'T

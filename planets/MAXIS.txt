@@ -1,3 +1,5 @@
-Planet: MAXIS
+Moon: MAXIS
 Starmap index: 60
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAGNAR
+Moon id: 4

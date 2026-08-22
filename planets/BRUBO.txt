@@ -1,3 +1,5 @@
-Planet: BRUBO
+Moon: BRUBO
 Starmap index: 11
 Paris coordinates: -835344, -14673956, -2040846
+Orbits: GRUEGOR
+Moon id: 3

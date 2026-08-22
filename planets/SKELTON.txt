@@ -1,3 +1,5 @@
-Planet: SKELTON
+Moon: SKELTON
 Starmap index: 11
 Paris coordinates: -83920, 6858315, -1735966
+Orbits: KELDIAK
+Moon id: 0

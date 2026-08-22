@@ -1,6 +1,8 @@
-Planet: ROKARA
+Moon: ROKARA
 Starmap index: 17
 Paris coordinates: -22675216, 619249, -9556300
+Orbits: SONNKAR A
+Moon id: 7
 
 Guide entries:
 SONNKAR 08/04; FELISIAN WORLD

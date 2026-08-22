@@ -1,6 +1,8 @@
-Planet: FARMOON
+Moon: FARMOON
 Starmap index: 40
 Paris coordinates: 4173200, 5584233, -640733
+Orbits: FARWORLD
+Moon id: 12
 
 Guide entries:
  ASNOTHER COLD WORLD AT THE EDGE OF THIS SYSTEM. NOTHING OF INTEREST.

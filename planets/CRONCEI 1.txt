@@ -1,3 +1,5 @@
-Planet: CRONCEI 1
+Moon: CRONCEI 1
 Starmap index: 15
 Paris coordinates: 3763568, 5569852, -2799046
+Orbits: OMICRON PERCEI 7
+Moon id: 0

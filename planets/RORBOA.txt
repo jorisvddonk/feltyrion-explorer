@@ -1,6 +1,8 @@
-Planet: RORBOA
+Moon: RORBOA
 Starmap index: 16
 Paris coordinates: 4655696, 4329115, -291333
+Orbits: MISCREANT
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. A VERY DUSTY LOOKING

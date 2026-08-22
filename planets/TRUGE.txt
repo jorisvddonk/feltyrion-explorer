@@ -1,6 +1,8 @@
-Planet: TRUGE
+Moon: TRUGE
 Starmap index: 07
 Paris coordinates: -165744, 3241563, 7052137
+Orbits: FROCAR
+Moon id: 1
 
 Guide entries:
 A CRATEREIZED MOON-LIKE PLANET WITH THE NORMAL GREEN TINT FROM ORBIT.       

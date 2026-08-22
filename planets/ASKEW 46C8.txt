@@ -1,3 +1,5 @@
-Planet: ASKEW 46C8
+Moon: ASKEW 46C8
 Starmap index: 28
 Paris coordinates: 11669520, -19273131, 16728031
+Orbits: ASKEW 46C
+Moon id: 7

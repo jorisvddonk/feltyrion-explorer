@@ -1,6 +1,8 @@
-Planet: GITTE
+Moon: GITTE
 Starmap index: 74
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: VAWLESS
+Moon id: 10
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. REFLECTIVE WITH SOME GROOVING.

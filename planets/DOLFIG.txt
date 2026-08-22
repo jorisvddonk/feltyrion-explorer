@@ -1,6 +1,8 @@
-Planet: DOLFIG
+Moon: DOLFIG
 Starmap index: 26
 Paris coordinates: 167504, 55824, -835910
+Orbits: TELUPY
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, EXTREMELY DARK, SLIGHT POLAR CAPS.

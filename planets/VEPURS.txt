@@ -1,6 +1,8 @@
-Planet: VEPURS
+Moon: VEPURS
 Starmap index: 16
 Paris coordinates: 287856, -62820, 77351
+Orbits: SWITRILIC
+Moon id: 6
 
 Guide entries:
 THE SEVENTH MOON OF THE SEVENTH PLANET. A THICK ATMO PLANET.

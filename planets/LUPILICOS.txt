@@ -1,6 +1,8 @@
-Planet: LUPILICOS
+Moon: LUPILICOS
 Starmap index: 24
 Paris coordinates: 3877136, 4607596, -2277855
+Orbits: planet index 04
+Moon id: 17
 
 Guide entries:
 LAST MOON OF THE LAST PLANET.IT HAS A PHOSPHORO GREEN COLOR.

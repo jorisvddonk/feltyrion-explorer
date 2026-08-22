@@ -1,3 +1,5 @@
-Planet: PHLENGO BETA PRIME
+Moon: PHLENGO BETA PRIME
 Starmap index: 08
 Paris coordinates: 1600572784, 2148138, 54617322
+Orbits: PHLENGO BETA
+Moon id: 0

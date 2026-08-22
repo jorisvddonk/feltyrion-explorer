@@ -1,6 +1,8 @@
-Planet: INFAMY
+Moon: INFAMY
 Starmap index: 15
 Paris coordinates: 87856, -5814, 275087
+Orbits: SWANK
+Moon id: 5
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

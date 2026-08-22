@@ -1,6 +1,8 @@
-Planet: ALIEN
+Moon: ALIEN
 Starmap index: 35
 Paris coordinates: 4613904, 4279877, 1160764
+Orbits: GHOUL
+Moon id: 10
 
 Guide entries:
 UPDATE: SMALL, SOLID, THIN ATMOSPHERE. ASIDE FROM THE POLES, REALLY,

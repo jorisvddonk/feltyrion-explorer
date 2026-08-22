@@ -1,6 +1,8 @@
-Planet: MOLDY CHEESE
+Moon: MOLDY CHEESE
 Starmap index: 14
 Paris coordinates: 156784, -15042, 351717
+Orbits: INSANE
+Moon id: 6
 
 Guide entries:
 A YELLOW-GREEN MOON OF INSANE ON EKA75. LOOKS RATHER CHEESY AND

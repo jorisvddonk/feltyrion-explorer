@@ -1,3 +1,5 @@
-Planet: BURSTEIN
+Moon: BURSTEIN
 Starmap index: 32
 Paris coordinates: 2359632, 5058003, 162880
+Orbits: URIJ
+Moon id: 0

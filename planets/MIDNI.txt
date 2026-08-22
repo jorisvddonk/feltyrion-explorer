@@ -1,6 +1,8 @@
-Planet: MIDNI
+Moon: MIDNI
 Starmap index: 45
 Paris coordinates: 708048, 4444727, 37468260
+Orbits: AEON
+Moon id: 1
 
 Guide entries:
 A THIN ATMO MOON. TOO DARK!

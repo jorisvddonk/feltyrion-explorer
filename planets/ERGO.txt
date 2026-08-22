@@ -1,6 +1,8 @@
-Planet: ERGO
+Moon: ERGO
 Starmap index: 25
 Paris coordinates: 287856, 37180, -27643
+Orbits: NUPTIAL
+Moon id: 12
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. AGITATED IN

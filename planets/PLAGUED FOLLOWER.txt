@@ -1,3 +1,5 @@
-Planet: PLAGUED FOLLOWER
+Moon: PLAGUED FOLLOWER
 Starmap index: 16
 Paris coordinates: -70572784, -326262, 53980485
+Orbits: PINK GIANT
+Moon id: 2

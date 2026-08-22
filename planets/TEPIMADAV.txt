@@ -1,3 +1,5 @@
-Planet: TEPIMADAV
+Moon: TEPIMADAV
 Starmap index: 17
 Paris coordinates: -600336, 1926450, -4140651
+Orbits: JASUH
+Moon id: 0

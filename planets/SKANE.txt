@@ -1,3 +1,5 @@
-Planet: SKANE
+Moon: SKANE
 Starmap index: 51
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: GREGORIUS
+Moon id: 0

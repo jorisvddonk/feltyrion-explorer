@@ -1,3 +1,5 @@
-Planet: ASKEW 144L2
+Moon: ASKEW 144L2
 Starmap index: 23
 Paris coordinates: 10324880, -18318396, 17337844
+Orbits: ASKEW 144L
+Moon id: 1

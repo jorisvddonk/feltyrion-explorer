@@ -1,6 +1,8 @@
-Planet: PLATIH
+Moon: PLATIH
 Starmap index: 09
 Paris coordinates: 3479984, 6392650, 474414
+Orbits: CLATANAM
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SOLID, THICK ATMOSPHERE, COVERED BY CLOUDS. BLUE AND OF

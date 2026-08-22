@@ -1,6 +1,8 @@
-Planet: CRADLE IX C
+Moon: CRADLE IX C
 Starmap index: 67
 Paris coordinates: 4190704, -10156437, -1803955
+Orbits: CRADLE IX
+Moon id: 2
 
 Guide entries:
 BRIGHT BLUE ICEWORLD WITH WHITE CRISS-CROSSES.

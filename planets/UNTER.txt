@@ -1,6 +1,8 @@
-Planet: UNTER
+Moon: UNTER
 Starmap index: 05
 Paris coordinates: 26315760, 6575944, 45184823
+Orbits: BIZA
+Moon id: 0
 
 Guide entries:
 A DUSTY MOON, THE ONLY ONE OF THE THIRD PLANET. COLORATION RANGES FROM

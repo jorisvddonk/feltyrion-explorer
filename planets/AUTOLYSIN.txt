@@ -1,6 +1,8 @@
-Planet: AUTOLYSIN
+Moon: AUTOLYSIN
 Starmap index: 08
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-A
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DOES HAVE SOME

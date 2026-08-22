@@ -1,6 +1,8 @@
-Planet: ABSCESS
+Moon: ABSCESS
 Starmap index: 38
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: ECHO
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

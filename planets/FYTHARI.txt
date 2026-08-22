@@ -1,3 +1,5 @@
-Planet: FYTHARI
+Moon: FYTHARI
 Starmap index: 04
 Paris coordinates: -749744, 5604404, 24103110
+Orbits: AS12240035B
+Moon id: 0

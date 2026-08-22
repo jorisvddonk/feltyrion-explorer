@@ -1,6 +1,8 @@
-Planet: PELENOR VEGGIES
+Moon: PELENOR VEGGIES
 Starmap index: 69
 Paris coordinates: -1417747568, 866844, 1433341836
+Orbits: AH-SUBSTELLAR 6
+Moon id: 3
 
 Guide entries:
 SMALLISH FELISIAN WITH LITTLE OCEAN. NAMED AS SUCH BECAUSE                  

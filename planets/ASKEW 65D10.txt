@@ -1,6 +1,8 @@
-Planet: ASKEW 65D10
+Moon: ASKEW 65D10
 Starmap index: 26
 Paris coordinates: 11052016, -19159857, 17954467
+Orbits: ASKEW 65D
+Moon id: 9
 
 Guide entries:
 FOUND EPOC 6011 587.303.200 BY ROLAND ASKEW

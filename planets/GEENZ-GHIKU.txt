@@ -1,3 +1,5 @@
-Planet: GEENZ-GHIKU
+Moon: GEENZ-GHIKU
 Starmap index: 46
 Paris coordinates: 767504, 8315857, -1670814
+Orbits: ANEOSSE
+Moon id: 5

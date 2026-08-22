@@ -1,3 +1,5 @@
-Planet: ILYASTRAFEL VIII A
+Moon: ILYASTRAFEL VIII A
 Starmap index: 14
 Paris coordinates: -187856, 83432, 427
+Orbits: planet index 08
+Moon id: 0

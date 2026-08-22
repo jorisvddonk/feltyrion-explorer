@@ -1,6 +1,8 @@
-Planet: LUMINANCE 8
+Moon: LUMINANCE 8
 Starmap index: 08
 Paris coordinates: -425712, 797215, -142477
+Orbits: planet index 05
+Moon id: 2
 
 Guide entries:
 DISCOVERED BY POKECAT(6012.059.82)

@@ -1,6 +1,8 @@
-Planet: AJIKYBE
+Moon: AJIKYBE
 Starmap index: 14
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 10
 
 Guide entries:
 M11/P03 MEDIUM SIZE ROCKY SCARRED LARGE CRATERS APPEARS GREENISH            

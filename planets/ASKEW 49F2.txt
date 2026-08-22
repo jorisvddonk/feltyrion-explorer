@@ -1,3 +1,5 @@
-Planet: ASKEW 49F2
+Moon: ASKEW 49F2
 Starmap index: 26
 Paris coordinates: 11331664, -19103394, 16761200
+Orbits: ASKEW 49F
+Moon id: 1

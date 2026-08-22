@@ -1,3 +1,5 @@
-Planet: LAVOS
+Moon: LAVOS
 Starmap index: 22
 Paris coordinates: 4297488, 4141055, -1473285
+Orbits: DYNAMOS
+Moon id: 0

@@ -1,3 +1,5 @@
-Planet: FATSA
+Moon: FATSA
 Starmap index: 07
 Paris coordinates: 612144, 399853, -785670
+Orbits: ZESTI
+Moon id: 1

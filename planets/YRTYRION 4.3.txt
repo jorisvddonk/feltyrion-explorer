@@ -1,6 +1,8 @@
-Planet: YRTYRION 4.3
+Moon: YRTYRION 4.3
 Starmap index: 14
 Paris coordinates: 5473200, 5334019, -2191107
+Orbits: YRTYRION 4
+Moon id: 7
 
 Guide entries:
  A LARGE; NOT CONSISTENT MOON OF THE 4TH PLANET OF THE YRTYRION

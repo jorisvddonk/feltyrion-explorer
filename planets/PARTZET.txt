@@ -1,6 +1,8 @@
-Planet: PARTZET
+Moon: PARTZET
 Starmap index: 16
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 9
 
 Guide entries:
 A QUARTZ MOON, THE TENTH OF THE THIRD PLANET. THE SURFACE COLORS ARE

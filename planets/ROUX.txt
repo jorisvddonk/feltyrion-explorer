@@ -1,3 +1,5 @@
-Planet: ROUX
+Moon: ROUX
 Starmap index: 31
 Paris coordinates: 3570352, 5140459, -2376901
+Orbits: HIVES
+Moon id: 0

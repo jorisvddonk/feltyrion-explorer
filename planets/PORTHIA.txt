@@ -1,6 +1,8 @@
-Planet: PORTHIA
+Moon: PORTHIA
 Starmap index: 11
 Paris coordinates: 4342128, 4559934, -807862
+Orbits: PEACH
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE, LARGE

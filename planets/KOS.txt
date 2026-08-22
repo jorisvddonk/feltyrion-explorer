@@ -1,6 +1,8 @@
-Planet: KOS
+Moon: KOS
 Starmap index: 27
 Paris coordinates: 4279984, 4828393, -649180
+Orbits: GEO
+Moon id: 11
 
 Guide entries:
  DISCOVERED BY FOTIOS M. ILIOPOULOS. EPOC 6011:608.321

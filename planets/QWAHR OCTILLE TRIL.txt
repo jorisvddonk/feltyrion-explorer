@@ -1,3 +1,5 @@
-Planet: QWAHR OCTILLE TRIL
+Moon: QWAHR OCTILLE TRIL
 Starmap index: 57
 Paris coordinates: 1399969584, 1318258, 1398991970
+Orbits: QWAHR OCTILLE
+Moon id: 2

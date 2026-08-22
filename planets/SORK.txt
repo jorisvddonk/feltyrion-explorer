@@ -1,3 +1,5 @@
-Planet: SORK
+Moon: SORK
 Starmap index: 25
 Paris coordinates: -2255696, -5301817, -1726973
+Orbits: VUEGUUE
+Moon id: 0

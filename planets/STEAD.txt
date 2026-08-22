@@ -1,6 +1,8 @@
-Planet: STEAD
+Moon: STEAD
 Starmap index: 14
 Paris coordinates: -163568, 2358, -418951
+Orbits: FOYER
+Moon id: 1
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. CRATERS IN CRATERS IN

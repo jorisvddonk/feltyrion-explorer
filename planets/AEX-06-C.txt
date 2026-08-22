@@ -1,3 +1,5 @@
-Planet: AEX-06-C
+Moon: AEX-06-C
 Starmap index: 27
 Paris coordinates: 598576, 4279484, -1591122
+Orbits: AEX-06
+Moon id: 2

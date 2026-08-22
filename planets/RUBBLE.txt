@@ -1,3 +1,5 @@
-Planet: RUBBLE
+Moon: RUBBLE
 Starmap index: 10
 Paris coordinates: 1752848, 5160015, 518853
+Orbits: DUSTY
+Moon id: 0

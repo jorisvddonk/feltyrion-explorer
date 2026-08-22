@@ -1,6 +1,8 @@
-Planet: HUBLA
+Moon: HUBLA
 Starmap index: 36
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 11
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. GOOD REFLECTIVITY WITH A

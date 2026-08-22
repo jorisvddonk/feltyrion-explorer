@@ -1,3 +1,5 @@
-Planet: GINBO
+Moon: GINBO
 Starmap index: 44
 Paris coordinates: -1404272, -14064165, -1675893
+Orbits: KILLY
+Moon id: 1

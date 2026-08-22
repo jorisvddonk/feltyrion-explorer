@@ -1,6 +1,8 @@
-Planet: SO ONE
+Moon: SO ONE
 Starmap index: 05
 Paris coordinates: -481072, -153, 650323
+Orbits: SOFLAPE
+Moon id: 0
 
 Guide entries:
 DISCOVRED BY EXPLORER EPOC 6011:568.426

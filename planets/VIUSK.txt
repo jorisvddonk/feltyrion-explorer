@@ -1,6 +1,8 @@
-Planet: VIUSK
+Moon: VIUSK
 Starmap index: 20
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 11
 
 Guide entries:
 M12/P05 THICK PURPLE REFLECTIVE CLOUD COVER WITH SOME AGITATION IN NORTH    

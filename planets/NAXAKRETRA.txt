@@ -1,6 +1,8 @@
-Planet: NAXAKRETRA
+Moon: NAXAKRETRA
 Starmap index: 16
 Paris coordinates: 974288, -67378933, -1309413
+Orbits: PARFHSTREYA
+Moon id: 7
 
 Guide entries:
 DISCOVERED BY JAFO. EPOC 6011:584:404

@@ -1,3 +1,5 @@
-Planet: REBECCHI M2
+Moon: REBECCHI M2
 Starmap index: 16
 Paris coordinates: 4066416, 5645367, -1158831
+Orbits: REBECCHI
+Moon id: 1

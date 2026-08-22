@@ -1,3 +1,5 @@
-Planet: LV-018
+Moon: LV-018
 Starmap index: 35
 Paris coordinates: -107235952, 25138811, -1828589
+Orbits: GALARETKA E
+Moon id: 6

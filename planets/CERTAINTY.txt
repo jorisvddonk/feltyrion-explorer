@@ -1,6 +1,8 @@
-Planet: CERTAINTY
+Moon: CERTAINTY
 Starmap index: 17
 Paris coordinates: 4142128, 4582625, -648170
+Orbits: HABDOCO
+Moon id: 6
 
 Guide entries:
 FELISIAN...OUT HERE. AT 332.60 THERE'S SOME INTERESTING GROUND, BUT

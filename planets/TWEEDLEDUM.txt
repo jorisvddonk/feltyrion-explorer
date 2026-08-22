@@ -1,6 +1,8 @@
-Planet: TWEEDLEDUM
+Moon: TWEEDLEDUM
 Starmap index: 09
 Paris coordinates: 3997488, 4363426, -1144751
+Orbits: TWEEDLEDEE
+Moon id: 0
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, THIN ATMOSPHERE, QUITE DARK, SLIGHT

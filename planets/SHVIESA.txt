@@ -1,3 +1,5 @@
-Planet: SHVIESA
+Moon: SHVIESA
 Starmap index: 06
 Paris coordinates: 13778896, 7771155, -6306874
+Orbits: VILNIUS
+Moon id: 0

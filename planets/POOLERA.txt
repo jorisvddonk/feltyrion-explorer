@@ -1,3 +1,5 @@
-Planet: POOLERA
+Moon: POOLERA
 Starmap index: 04
 Paris coordinates: -61501520, 29541691, 594007
+Orbits: DENSISTIQUA
+Moon id: 0

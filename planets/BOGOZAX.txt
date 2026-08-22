@@ -1,3 +1,5 @@
-Planet: BOGOZAX
+Moon: BOGOZAX
 Starmap index: 22
 Paris coordinates: 81072, -77486, -118953
+Orbits: JENUVO
+Moon id: 7

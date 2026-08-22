@@ -1,6 +1,8 @@
-Planet: ZENDOR
+Moon: ZENDOR
 Starmap index: 17
 Paris coordinates: 81072, -77486, -118953
+Orbits: JENUVO
+Moon id: 2
 
 Guide entries:
 INITIAL LANDINGS: (0.60) DECIDUOUS FOREST WITH NORMAL-LOOKING TREES

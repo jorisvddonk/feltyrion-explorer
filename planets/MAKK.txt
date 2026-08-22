@@ -1,6 +1,8 @@
-Planet: MAKK
+Moon: MAKK
 Starmap index: 10
 Paris coordinates: 4142128, 4782625, -641787
+Orbits: DEK
+Moon id: 1
 
 Guide entries:
  UNSTABLE SURFACE, SAME AS ALL THE REST(RAPTORJEDI EPOC 6011 605.146)

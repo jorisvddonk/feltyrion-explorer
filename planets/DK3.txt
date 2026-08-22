@@ -1,3 +1,5 @@
-Planet: DK3
+Moon: DK3
 Starmap index: 67
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: DAKERDE
+Moon id: 2

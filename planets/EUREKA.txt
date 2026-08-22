@@ -1,6 +1,8 @@
-Planet: EUREKA
+Moon: EUREKA
 Starmap index: 24
 Paris coordinates: 3153936, 4261063, -4661503
+Orbits: STRIDOR
+Moon id: 10
 
 Guide entries:
  FELISIANMOON DISC BY SCAREDY-CAT, EPOC 6011.585.614. EUREKA IS THE

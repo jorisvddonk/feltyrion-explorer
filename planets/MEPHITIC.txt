@@ -1,6 +1,8 @@
-Planet: MEPHITIC
+Moon: MEPHITIC
 Starmap index: 12
 Paris coordinates: -461808, 50208, 5718934
+Orbits: COBEL
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

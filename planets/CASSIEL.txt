@@ -1,6 +1,8 @@
-Planet: CASSIEL
+Moon: CASSIEL
 Starmap index: 10
 Paris coordinates: 3290704, 4437570, -887888
+Orbits: ADONAI
+Moon id: 5
 
 Guide entries:
 DEAD MOON, NO ATMOSPHERE

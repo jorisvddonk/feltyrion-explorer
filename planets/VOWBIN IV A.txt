@@ -1,6 +1,8 @@
-Planet: VOWBIN IV A
+Moon: VOWBIN IV A
 Starmap index: 14
 Paris coordinates: -1405461136, 43873, 1420369441
+Orbits: VOWBIN IV
+Moon id: 0
 
 Guide entries:
 YELLOW-GREEN DEADWORLD, FEW SMALL CRATERS AND A VERY ROUGH SURFACE

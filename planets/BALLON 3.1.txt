@@ -1,6 +1,8 @@
-Planet: BALLON 3.1
+Moon: BALLON 3.1
 Starmap index: 19
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 3
+Moon id: 0
 
 Guide entries:
 MEDIUM-SIZED, SOLID, THICK ATMOSPHERE. THERE'S A STORM IN THE               

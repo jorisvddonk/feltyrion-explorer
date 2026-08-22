@@ -1,6 +1,8 @@
-Planet: VARACYLNIA 10.12
+Moon: VARACYLNIA 10.12
 Starmap index: 38
 Paris coordinates: 2459632, 7706073, -15349
+Orbits: VARACYLNIA 10
+Moon id: 11
 
 Guide entries:
  MOSTLY HARMLESS.

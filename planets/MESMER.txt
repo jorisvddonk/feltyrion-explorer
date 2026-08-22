@@ -1,6 +1,8 @@
-Planet: MESMER
+Moon: MESMER
 Starmap index: 04
 Paris coordinates: 3552848, 4245109, -1290363
+Orbits: SOMNUS
+Moon id: 0
 
 Guide entries:
 MEDIUM SIZED, SURFACE IS NATIVE QUARTZ, OXYGEN ATMOSPHERE. DULL WORLD,

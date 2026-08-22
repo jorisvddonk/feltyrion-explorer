@@ -1,6 +1,8 @@
-Planet: LIGE
+Moon: LIGE
 Starmap index: 21
 Paris coordinates: 4579984, 4773244, -735859
+Orbits: XALB
+Moon id: 9
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. SCARRED WITH CRATERS.

@@ -1,3 +1,5 @@
-Planet: VESPEX
+Moon: VESPEX
 Starmap index: 27
 Paris coordinates: 81072, -77486, -118953
+Orbits: BODERON
+Moon id: 0

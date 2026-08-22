@@ -1,3 +1,5 @@
-Planet: GORON'S ICY DAUGHTER
+Moon: GORON'S ICY DAUGHTER
 Starmap index: 19
 Paris coordinates: 4148912, 4488377, -127177
+Orbits: DP-GORGON-4
+Moon id: 0

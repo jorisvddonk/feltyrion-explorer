@@ -1,6 +1,8 @@
-Planet: RONYM
+Moon: RONYM
 Starmap index: 11
 Paris coordinates: 4644976, 6123464, 991091
+Orbits: LUMINARY B
+Moon id: 4
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. NOT MUCH OF INTEREST.

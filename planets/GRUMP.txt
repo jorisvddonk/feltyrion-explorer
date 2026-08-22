@@ -1,6 +1,8 @@
-Planet: GRUMP
+Moon: GRUMP
 Starmap index: 28
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT VIOLET
+Moon id: 11
 
 Guide entries:
 TWELVETH MOON OF FAT VIOLET

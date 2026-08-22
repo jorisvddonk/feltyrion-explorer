@@ -1,3 +1,5 @@
-Planet: NONOS
+Moon: NONOS
 Starmap index: 10
 Paris coordinates: 612144, 399853, -785670
+Orbits: PULFIN
+Moon id: 1

@@ -1,6 +1,8 @@
-Planet: GREEN BERET
+Moon: GREEN BERET
 Starmap index: 17
 Paris coordinates: 1902096, -12067422, 8947965
+Orbits: ASKEW 109C
+Moon id: 2
 
 Guide entries:
 FOUND EPOC 6011 588.964.379 BY ROLAND ASKEW

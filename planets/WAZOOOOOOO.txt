@@ -1,3 +1,5 @@
-Planet: WAZOOOOOOO
+Moon: WAZOOOOOOO
 Starmap index: 08
 Paris coordinates: 194640, 652177, 450273
+Orbits: KEWL
+Moon id: 1

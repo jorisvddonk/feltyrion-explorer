@@ -1,6 +1,8 @@
-Planet: ZATLU
+Moon: ZATLU
 Starmap index: 33
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: CIMMPUO
+Moon id: 8
 
 Guide entries:
 SMALL, SOLID, ICY SURFACE, NO ATMOSPHERE. LOW REFLECTIVITY, ALMOST

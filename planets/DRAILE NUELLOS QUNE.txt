@@ -1,3 +1,5 @@
-Planet: DRAILE NUELLOS QUNE
+Moon: DRAILE NUELLOS QUNE
 Starmap index: 43
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE NUELLOS
+Moon id: 14

@@ -1,6 +1,8 @@
-Planet: BRIGHT FELYSIA
+Moon: BRIGHT FELYSIA
 Starmap index: 22
 Paris coordinates: 4189616, 12634737, 2050432
+Orbits: planet index 04
+Moon id: 5
 
 Guide entries:
 THE FIRST LIFE-BEARING PLANET (MOON, ACTUALLY) IN A BLUE GIANT

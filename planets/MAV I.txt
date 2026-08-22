@@ -1,3 +1,5 @@
-Planet: MAV I
+Moon: MAV I
 Starmap index: 16
 Paris coordinates: -701424, 293517, -259154
+Orbits: MAV
+Moon id: 0

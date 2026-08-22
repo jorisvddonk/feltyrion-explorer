@@ -1,6 +1,8 @@
-Planet: BUBBLES
+Moon: BUBBLES
 Starmap index: 07
 Paris coordinates: -1066416, 281721, -1728727
+Orbits: UTONIUM
+Moon id: 1
 
 Guide entries:
 MOON 2 OF PLANET 3 IN POWERPUFF SYSTEM. FELISIAN.

@@ -1,3 +1,5 @@
-Planet: VERDE
+Moon: VERDE
 Starmap index: 10
 Paris coordinates: 2863568, 5045371, -2030641
+Orbits: TORRIN
+Moon id: 0

@@ -1,6 +1,8 @@
-Planet: TERTIO 3.5
+Moon: TERTIO 3.5
 Starmap index: 10
 Paris coordinates: 11828560, -4640891, -9107608
+Orbits: TERTIO 3
+Moon id: 4
 
 Guide entries:
 HAS A THICK ATMOSPHERE. THE SURFACE IS COMPLETELY CLOUDED, AND I'M

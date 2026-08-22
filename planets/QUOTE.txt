@@ -1,6 +1,8 @@
-Planet: QUOTE
+Moon: QUOTE
 Starmap index: 18
 Paris coordinates: -163568, 2358, -418951
+Orbits: NEIGH
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY WITH REFLECTIVE

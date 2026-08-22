@@ -1,3 +1,5 @@
-Planet: ROMA 4.2
+Moon: ROMA 4.2
 Starmap index: 18
 Paris coordinates: 3828560, 4747754, -1135269
+Orbits: ROMA 4.0
+Moon id: 0

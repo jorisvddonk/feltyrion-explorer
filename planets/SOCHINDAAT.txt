@@ -1,6 +1,8 @@
-Planet: SOCHINDAAT
+Moon: SOCHINDAAT
 Starmap index: 34
 Paris coordinates: -1418775760, -1892221, -1273979677
+Orbits: LAVHETAN VII
+Moon id: 6
 
 Guide entries:
 LAVHETAN 07/07; FELISIAN

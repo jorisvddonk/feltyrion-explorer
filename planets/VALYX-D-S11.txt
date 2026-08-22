@@ -1,3 +1,5 @@
-Planet: VALYX-D-S11
+Moon: VALYX-D-S11
 Starmap index: 22
 Paris coordinates: 2916080, -262885, -4753549
+Orbits: VALYX-D
+Moon id: 10

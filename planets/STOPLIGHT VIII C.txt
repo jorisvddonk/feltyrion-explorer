@@ -1,3 +1,5 @@
-Planet: STOPLIGHT VIII C
+Moon: STOPLIGHT VIII C
 Starmap index: 13
 Paris coordinates: -243216, 861959, 568836
+Orbits: STOPLIGHT VIII
+Moon id: 2

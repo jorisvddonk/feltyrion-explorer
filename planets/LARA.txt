@@ -1,3 +1,5 @@
-Planet: LARA
+Moon: LARA
 Starmap index: 33
 Paris coordinates: 3766416, 4629610, -721972
+Orbits: BEAUTY ;-D
+Moon id: 1

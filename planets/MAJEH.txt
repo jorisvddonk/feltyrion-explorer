@@ -1,6 +1,8 @@
-Planet: MAJEH
+Moon: MAJEH
 Starmap index: 06
 Paris coordinates: 2060873872, -1780546, 127470
+Orbits: ALLUVIONIS
+Moon id: 0
 
 Guide entries:
 M01/P03 SMALL SOLID THIN ATMO, FAIRLY DARK BUT GOOD POLAR CAPS, LIGHT       

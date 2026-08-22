@@ -1,3 +1,5 @@
-Planet: LIDIO
+Moon: LIDIO
 Starmap index: 13
 Paris coordinates: -1273200, -14300100, -1906276
+Orbits: SURGO
+Moon id: 0

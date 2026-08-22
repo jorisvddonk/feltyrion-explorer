@@ -1,6 +1,8 @@
-Planet: RAINBOW COUNTRY
+Moon: RAINBOW COUNTRY
 Starmap index: 22
 Paris coordinates: 3559632, 4419846, -912889
+Orbits: MARLEY
+Moon id: 16
 
 Guide entries:
 A FELISIAN PLANET! LANDED AT 1,61 TO FIND GREEN GRASS AND                   

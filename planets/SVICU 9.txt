@@ -1,3 +1,5 @@
-Planet: SVICU 9
+Moon: SVICU 9
 Starmap index: 16
 Paris coordinates: -61439376, 29916264, 239760
+Orbits: JB 78
+Moon id: 3

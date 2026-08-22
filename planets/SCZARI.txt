@@ -1,6 +1,8 @@
-Planet: SCZARI
+Moon: SCZARI
 Starmap index: 14
 Paris coordinates: 3520688, 3890216, 2622488
+Orbits: PERLA DEL CIELO
+Moon id: 1
 
 Guide entries:
 FURTHER NOTES: SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. QUITE

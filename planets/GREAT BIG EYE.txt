@@ -1,3 +1,5 @@
-Planet: GREAT BIG EYE
+Moon: GREAT BIG EYE
 Starmap index: 43
 Paris coordinates: 663568, 1836709, 279372
+Orbits: GROMET
+Moon id: 0

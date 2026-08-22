@@ -1,3 +1,5 @@
-Planet: ASKEW 53C1
+Moon: ASKEW 53C1
 Starmap index: 09
 Paris coordinates: 10762736, -19034762, 17197592
+Orbits: LIANAAD
+Moon id: 0

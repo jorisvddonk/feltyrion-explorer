@@ -1,6 +1,8 @@
-Planet: KOLN ZETA
+Moon: KOLN ZETA
 Starmap index: 59
 Paris coordinates: 612144, 6999853, -833727
+Orbits: KOLN
+Moon id: 5
 
 Guide entries:
 SIXTH MOON OF PLANET KOLN IN THE GENISI SYSTEM

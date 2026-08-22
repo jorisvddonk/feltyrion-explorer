@@ -1,6 +1,8 @@
-Planet: CYLISIA
+Moon: CYLISIA
 Starmap index: 16
 Paris coordinates: 2069605616, -2029036, 997220
+Orbits: FHRKYSFHRKOE
+Moon id: 12
 
 Guide entries:
 M13/P03 MEDIUM SIZE THICK ATMO DULL PINKISH CLOUD COVER. STORMS IN          

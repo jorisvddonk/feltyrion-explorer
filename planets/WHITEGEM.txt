@@ -1,6 +1,8 @@
-Planet: WHITEGEM
+Moon: WHITEGEM
 Starmap index: 21
 Paris coordinates: -37434256, 1637172, 30859794
+Orbits: planet index 07
+Moon id: 0
 
 Guide entries:
 MARVELLOUS QUARTZ PLAINS

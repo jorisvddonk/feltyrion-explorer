@@ -1,3 +1,5 @@
-Planet: LANKATA
+Moon: LANKATA
 Starmap index: 32
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: NAMELESS ONE
+Moon id: 7

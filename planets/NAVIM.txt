@@ -1,6 +1,8 @@
-Planet: NAVIM
+Moon: NAVIM
 Starmap index: 32
 Paris coordinates: -828560, 1640462, -1553926
+Orbits: planet index 05
+Moon id: 15
 
 Guide entries:
 16TH MOON OF CELEPH 5

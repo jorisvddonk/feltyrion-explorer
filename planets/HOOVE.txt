@@ -1,3 +1,5 @@
-Planet: HOOVE
+Moon: HOOVE
 Starmap index: 08
 Paris coordinates: -194640, 6822325, -323763
+Orbits: SHUB-NIGGURATH
+Moon id: 2

@@ -1,3 +1,5 @@
-Planet: SHC-3 6D
+Moon: SHC-3 6D
 Starmap index: 27
 Paris coordinates: -27248368, -15847229, -1002309845
+Orbits: SHC-3 6
+Moon id: 3

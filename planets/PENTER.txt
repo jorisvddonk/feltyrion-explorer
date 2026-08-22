@@ -1,6 +1,8 @@
-Planet: PENTER
+Moon: PENTER
 Starmap index: 09
 Paris coordinates: 23736112, 8395872, 49007275
+Orbits: PEGESGES
+Moon id: 2
 
 Guide entries:
 A DUSTY MOON, THE THIRD OF THE THIRD PLANET. SURFACE FROM SPACE IS

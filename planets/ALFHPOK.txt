@@ -1,6 +1,8 @@
-Planet: ALFHPOK
+Moon: ALFHPOK
 Starmap index: 08
 Paris coordinates: 2031852592, -464651, -4802779
+Orbits: YAPELOS
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL, SOLID, DUSTY, MANY LARGE DARK CRATERS WITH WHITE RAYS        

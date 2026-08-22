@@ -1,6 +1,8 @@
-Planet: SANDS SAHARA
+Moon: SANDS SAHARA
 Starmap index: 11
 Paris coordinates: 11552016, -19489626, 17676794
+Orbits: ASKEW 79E
+Moon id: 1
 
 Guide entries:
 FOUND EPOC 6011 588.125.000 BY ROLAND ASKEW

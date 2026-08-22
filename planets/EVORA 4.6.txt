@@ -1,6 +1,8 @@
-Planet: EVORA 4.6
+Moon: EVORA 4.6
 Starmap index: 16
 Paris coordinates: 456784, 5761371, 165059
+Orbits: EVORA 4
+Moon id: 5
 
 Guide entries:
  THIS CLOUDY MOON HAS SEVERAL GIGANTIC CANYONS, CHASIMS AND PITS -

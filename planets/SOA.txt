@@ -1,6 +1,8 @@
-Planet: SOA
+Moon: SOA
 Starmap index: 21
 Paris coordinates: 3628560, 4254023, -915798
+Orbits: BLACKLANDS
+Moon id: 2
 
 Guide entries:
 FOUNDED EPOC 6011, 680.210.836 BY REZA. 3RD MOON OF BLACKLANDS.             

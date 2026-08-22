@@ -1,3 +1,5 @@
-Planet: D'KAA IMA
+Moon: D'KAA IMA
 Starmap index: 22
 Paris coordinates: 4860720, 8320240, -6249233
+Orbits: D'KAA 10
+Moon id: 0

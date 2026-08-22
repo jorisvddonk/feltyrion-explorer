@@ -1,3 +1,5 @@
-Planet: XAXO
+Moon: XAXO
 Starmap index: 09
 Paris coordinates: -770352, 114475, -280746
+Orbits: PRIMA THULE
+Moon id: 0

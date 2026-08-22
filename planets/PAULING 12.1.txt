@@ -1,6 +1,8 @@
-Planet: PAULING 12.1
+Moon: PAULING 12.1
 Starmap index: 45
 Paris coordinates: 12052848, -4655501, -9731942
+Orbits: PAULING 12
+Moon id: 0
 
 Guide entries:
 SMALL, DUSTY, CRATERIZED, NO ATMOSPHERE. IT'S VERY CLOSE TO THE

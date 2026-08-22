@@ -1,6 +1,8 @@
-Planet: POCOSIN
+Moon: POCOSIN
 Starmap index: 25
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: WEEN
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY LARGE, HIGHLY

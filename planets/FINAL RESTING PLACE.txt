@@ -1,3 +1,5 @@
-Planet: FINAL RESTING PLACE
+Moon: FINAL RESTING PLACE
 Starmap index: 05
 Paris coordinates: -485008, 1322727, 2464057
+Orbits: planet index 03
+Moon id: 0

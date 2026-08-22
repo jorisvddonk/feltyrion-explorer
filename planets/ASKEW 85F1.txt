@@ -1,3 +1,5 @@
-Planet: ASKEW 85F1
+Moon: ASKEW 85F1
 Starmap index: 13
 Paris coordinates: 10945232, -19339777, 17862369
+Orbits: ASKEW 85F
+Moon id: 0

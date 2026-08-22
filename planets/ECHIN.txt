@@ -1,6 +1,8 @@
-Planet: ECHIN
+Moon: ECHIN
 Starmap index: 30
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: OBSTRE
+Moon id: 5
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SOME LARGE CRATERS.

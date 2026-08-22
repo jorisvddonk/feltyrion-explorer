@@ -1,3 +1,5 @@
-Planet: ASKEW 200C8
+Moon: ASKEW 200C8
 Starmap index: 16
 Paris coordinates: 3283920, 5272695, -1249674
+Orbits: ASKEW 200C
+Moon id: 7

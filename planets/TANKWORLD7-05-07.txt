@@ -1,3 +1,5 @@
-Planet: TANKWORLD7-05-07
+Moon: TANKWORLD7-05-07
 Starmap index: 23
 Paris coordinates: 6344976, 7429440, -652444
+Orbits: TANKWORLD7-05
+Moon id: 6

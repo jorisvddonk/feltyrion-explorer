@@ -1,6 +1,8 @@
-Planet: SANDHILL
+Moon: SANDHILL
 Starmap index: 07
 Paris coordinates: 3663568, 4179686, -2879759
+Orbits: GRINGA
+Moon id: 0
 
 Guide entries:
  HILLY AND QUITE ROCKY.

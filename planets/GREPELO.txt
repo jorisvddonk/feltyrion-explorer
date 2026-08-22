@@ -1,6 +1,8 @@
-Planet: GREPELO
+Moon: GREPELO
 Starmap index: 11
 Paris coordinates: -43376, 4332103, 37107834
+Orbits: DIMGERN
+Moon id: 0
 
 Guide entries:
 AVERAGE DUSTY MOON, ODD COLORATIONS MAINLY ARE A GREEN COLOR.

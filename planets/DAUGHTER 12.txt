@@ -1,3 +1,5 @@
-Planet: DAUGHTER 12
+Moon: DAUGHTER 12
 Starmap index: 22
 Paris coordinates: 3652848, 5121750, -1588493
+Orbits: SISTER
+Moon id: 6

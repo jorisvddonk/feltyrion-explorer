@@ -1,6 +1,8 @@
-Planet: GOLDROCK
+Moon: GOLDROCK
 Starmap index: 14
 Paris coordinates: -325712, 361387, -164300
+Orbits: LITSPOT
+Moon id: 0
 
 Guide entries:
 EXPLORED BY RAZORWINGS18 (566.638.680 E6011).

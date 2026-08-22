@@ -1,3 +1,5 @@
-Planet: PARADELANTRY 3
+Moon: PARADELANTRY 3
 Starmap index: 18
 Paris coordinates: 2353936, 5345300, -4116543
+Orbits: PARADELANTRY
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: IPUDMYENA
+Moon: IPUDMYENA
 Starmap index: 06
 Paris coordinates: 2090958384, -1967570, -33666
+Orbits: EMOFHAT
+Moon id: 1
 
 Guide entries:
 M02/P03 MEDIUM SIZE THICK ATMO. LIGHT BROWN CLOUD COVER WITH BRIGHT         

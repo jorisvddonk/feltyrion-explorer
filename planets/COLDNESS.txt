@@ -1,3 +1,5 @@
-Planet: COLDNESS
+Moon: COLDNESS
 Starmap index: 68
 Paris coordinates: 2508208, 3870789, -1004086
+Orbits: MAGNAR
+Moon id: 12

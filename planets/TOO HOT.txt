@@ -1,3 +1,5 @@
-Planet: TOO HOT
+Moon: TOO HOT
 Starmap index: 24
 Paris coordinates: -61584016, 29782048, -184920
+Orbits: planet index 09
+Moon id: 1

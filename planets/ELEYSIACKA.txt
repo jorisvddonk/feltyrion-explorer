@@ -1,6 +1,8 @@
-Planet: ELEYSIACKA
+Moon: ELEYSIACKA
 Starmap index: 17
 Paris coordinates: -18928, 29680, -67336
+Orbits: FAL GALMATRIFAL
+Moon id: 11
 
 Guide entries:
 FURTHER NOTES: MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. LOOKS

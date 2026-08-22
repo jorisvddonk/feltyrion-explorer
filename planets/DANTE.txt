@@ -1,6 +1,8 @@
-Planet: DANTE
+Moon: DANTE
 Starmap index: 19
 Paris coordinates: -601424, 221860, -411711
+Orbits: TWILIGHT
+Moon id: 5
 
 Guide entries:
 MOON DISCOVERED BY CHRIS GODDARD, EPOC 6011:561.60

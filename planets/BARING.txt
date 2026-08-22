@@ -1,6 +1,8 @@
-Planet: BARING
+Moon: BARING
 Starmap index: 09
 Paris coordinates: 1566416, 449930, 1557757
+Orbits: BIRONG
+Moon id: 0
 
 Guide entries:
 BORING MOON OF BIRONG.                                                      

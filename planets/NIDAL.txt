@@ -1,6 +1,8 @@
-Planet: NIDAL
+Moon: NIDAL
 Starmap index: 27
 Paris coordinates: 908208, 554963, 552389
+Orbits: LOST BLUE
+Moon id: 16
 
 Guide entries:
 DISCOVERED BY EXPLORER EPOC 6011:567.696

@@ -1,6 +1,8 @@
-Planet: TEOSIN
+Moon: TEOSIN
 Starmap index: 42
 Paris coordinates: 4373200, 4547211, -883866
+Orbits: FAT AGNUS
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. VERY REFLECTIVE CRATERS

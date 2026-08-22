@@ -1,6 +1,8 @@
-Planet: LAJASTRA
+Moon: LAJASTRA
 Starmap index: 14
 Paris coordinates: 43216, 94196, -280322
+Orbits: FARADAR
+Moon id: 7
 
 Guide entries:
 A GREEN/BLUE FELYSIAN WORLD, THE EIGHTH MOON OF THE FOURTH PLANET.

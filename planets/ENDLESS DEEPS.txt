@@ -1,6 +1,8 @@
-Planet: ENDLESS DEEPS
+Moon: ENDLESS DEEPS
 Starmap index: 03
 Paris coordinates: -21767664, -20022887, -350089203
+Orbits: ROMEO
+Moon id: 0
 
 Guide entries:
 NAMED FOR A DEEP CHASM AT MY PRELIMENARY LANDING SITE - THE ONLY

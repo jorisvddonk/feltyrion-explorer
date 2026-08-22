@@ -1,6 +1,8 @@
-Planet: RHABDOMANCY
+Moon: RHABDOMANCY
 Starmap index: 16
 Paris coordinates: -1167504, 2144, 2251524
+Orbits: NILUS
+Moon id: 6
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MANY LARGE TO

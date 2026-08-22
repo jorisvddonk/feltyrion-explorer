@@ -1,3 +1,5 @@
-Planet: SOPADUY
+Moon: SOPADUY
 Starmap index: 12
 Paris coordinates: 3621776, 4793277, -1241121
+Orbits: ELBRAZ
+Moon id: 5

@@ -1,6 +1,8 @@
-Planet: TAFAU
+Moon: TAFAU
 Starmap index: 20
 Paris coordinates: 3311056, 5428793, 329445
+Orbits: JEBLIM
+Moon id: 0
 
 Guide entries:
  SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. MILDLY REFLECTIVE WITH

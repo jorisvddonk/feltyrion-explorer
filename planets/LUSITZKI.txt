@@ -1,3 +1,5 @@
-Planet: LUSITZKI
+Moon: LUSITZKI
 Starmap index: 12
 Paris coordinates: 1670352, -20147273, -251169
+Orbits: NUERUE
+Moon id: 3

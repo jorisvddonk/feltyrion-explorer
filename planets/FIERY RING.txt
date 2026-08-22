@@ -1,3 +1,5 @@
-Planet: FIERY RING
+Moon: FIERY RING
 Starmap index: 06
 Paris coordinates: 1752848, 5160015, 518853
+Orbits: PURPLE EYE
+Moon id: 0

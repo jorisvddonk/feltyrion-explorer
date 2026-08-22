@@ -1,6 +1,8 @@
-Planet: HARVA
+Moon: HARVA
 Starmap index: 14
 Paris coordinates: 3311056, 5428793, 329445
+Orbits: DIMBUTO
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID DUSTY, CRATERIZED, NO ATMOSPHERE. GOOD GREEN REFLECTIVITY

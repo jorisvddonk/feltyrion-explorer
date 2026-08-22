@@ -1,6 +1,8 @@
-Planet: UDAMSAY
+Moon: UDAMSAY
 Starmap index: 14
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: OSITI
+Moon id: 0
 
 Guide entries:
 M01/P04 SMALL DUST CRATERIZED WITH A FEW MODERATE SIZE CRATERS ON A         

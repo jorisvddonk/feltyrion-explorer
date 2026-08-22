@@ -1,6 +1,8 @@
-Planet: FIRESKY 3.1
+Moon: FIRESKY 3.1
 Starmap index: 14
 Paris coordinates: 4128560, 4303885, -1407510
+Orbits: FIRESKY 3
+Moon id: 0
 
 Guide entries:
 INTERNALLY HOT HELLWORLD. A LOT OF UNSTABLE SPOTS ON ITS SURFACE.

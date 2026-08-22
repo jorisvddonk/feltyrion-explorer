@@ -1,6 +1,8 @@
-Planet: KERNHEM
+Moon: KERNHEM
 Starmap index: 19
 Paris coordinates: 3466416, 5740059, -349098
+Orbits: CHEDDAR
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. DUSTY APPEARANCE WITH

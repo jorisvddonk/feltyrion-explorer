@@ -1,3 +1,5 @@
-Planet: DRAILE TRIACUS PRIL
+Moon: DRAILE TRIACUS PRIL
 Starmap index: 10
 Paris coordinates: 1400121008, 1740948, 1399814788
+Orbits: DRAILE TRIACUS
+Moon id: 0

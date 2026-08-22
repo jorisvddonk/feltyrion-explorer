@@ -1,6 +1,8 @@
-Planet: RUJAATA'EM
+Moon: RUJAATA'EM
 Starmap index: 22
 Paris coordinates: 107148432, 4840073, 6880235
+Orbits: KAASHID V
+Moon id: 0
 
 Guide entries:
 KAASHID 01/05; FELISIAN

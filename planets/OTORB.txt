@@ -1,6 +1,8 @@
-Planet: OTORB
+Moon: OTORB
 Starmap index: 21
 Paris coordinates: 4048912, 4271060, -89414
+Orbits: RILLON
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. ROUGH WITH CRATERS, A

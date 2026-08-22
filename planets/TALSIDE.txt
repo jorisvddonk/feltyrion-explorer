@@ -1,6 +1,8 @@
-Planet: TALSIDE
+Moon: TALSIDE
 Starmap index: 15
 Paris coordinates: 780585168, -2058199, 143641
+Orbits: VAMEVARI
+Moon id: 4
 
 Guide entries:
 M05/P05 HOT AND UNSTABLE. GOOD REFLECTIVITY WITH LOTS OF GLOWING AREAS

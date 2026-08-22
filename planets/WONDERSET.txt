@@ -1,3 +1,5 @@
-Planet: WONDERSET
+Moon: WONDERSET
 Starmap index: 08
 Paris coordinates: 3283920, 5272695, -1249674
+Orbits: ASKEW 200A
+Moon id: 1

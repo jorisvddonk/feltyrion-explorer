@@ -1,3 +1,5 @@
-Planet: TSIRITSI
+Moon: TSIRITSI
 Starmap index: 14
 Paris coordinates: -314992, -16059700, -1548818
+Orbits: LUEB
+Moon id: 6

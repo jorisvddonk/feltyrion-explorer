@@ -1,3 +1,5 @@
-Planet: JENDARIA
+Moon: JENDARIA
 Starmap index: 23
 Paris coordinates: 9830992, 8533201, 8516575
+Orbits: ASSMARTIN
+Moon id: 12

@@ -1,6 +1,8 @@
-Planet: COTTON CANDY
+Moon: COTTON CANDY
 Starmap index: 63
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 13
 
 Guide entries:
 GAS GIANT MOON ORBITING FERTILE MINISTAR ON EKA24. PINK. --EKA

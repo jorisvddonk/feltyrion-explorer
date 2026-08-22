@@ -1,3 +1,5 @@
-Planet: EVERDARK
+Moon: EVERDARK
 Starmap index: 18
 Paris coordinates: 4479984, 5134365, -725610
+Orbits: planet index 07
+Moon id: 7

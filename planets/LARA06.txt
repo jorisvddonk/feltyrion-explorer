@@ -1,3 +1,5 @@
-Planet: LARA06
+Moon: LARA06
 Starmap index: 60
 Paris coordinates: 4146064, 4893991, -2244689
+Orbits: LARANI
+Moon id: 5

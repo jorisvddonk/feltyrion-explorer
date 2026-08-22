@@ -1,6 +1,8 @@
-Planet: TERTIO 3.9
+Moon: TERTIO 3.9
 Starmap index: 14
 Paris coordinates: 11828560, -4640891, -9107608
+Orbits: TERTIO 3
+Moon id: 8
 
 Guide entries:
 A QUARTZ WORLD BY DESCRIPTION, BUT I DIDN'T NOTICE TOO MUCH QUARTZ

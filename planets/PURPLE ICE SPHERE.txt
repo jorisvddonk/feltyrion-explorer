@@ -1,3 +1,5 @@
-Planet: PURPLE ICE SPHERE
+Moon: PURPLE ICE SPHERE
 Starmap index: 57
 Paris coordinates: 3942128, 4305316, -442144
+Orbits: ORANGE SECRET
+Moon id: 8

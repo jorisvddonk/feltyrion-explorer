@@ -1,6 +1,8 @@
-Planet: YELLOW SPANIEL
+Moon: YELLOW SPANIEL
 Starmap index: 12
 Paris coordinates: 2008880, -12128966, 9171998
+Orbits: ASKEW 112D
+Moon id: 3
 
 Guide entries:
 FOUND EPOC 6011 589.076.000 BY ROLAND ASKEW

@@ -1,6 +1,8 @@
-Planet: OUT THERE
+Moon: OUT THERE
 Starmap index: 31
 Paris coordinates: 2290704, 5021744, 172013
+Orbits: planet index 05
+Moon id: 5
 
 Guide entries:
  FELISIAN PLANET AROUND THE 5TH PLANET(STAR) IN THE MULTI SYSTEM.

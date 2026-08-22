@@ -1,6 +1,8 @@
-Planet: YELLOW SHERE
+Moon: YELLOW SHERE
 Starmap index: 08
 Paris coordinates: -525712, 133043, 25099
+Orbits: BLUE MISTS
+Moon id: 1
 
 Guide entries:
 MOON DISCOVERED BY JUS EPOC 6011.578.511

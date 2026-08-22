@@ -1,6 +1,8 @@
-Planet: GEDAAME
+Moon: GEDAAME
 Starmap index: 18
 Paris coordinates: -21119856, 889084, -11694600
+Orbits: DEN CHAWARRE D
+Moon id: 0
 
 Guide entries:
 DEN CHAWARRE 01/04; QUARTZ

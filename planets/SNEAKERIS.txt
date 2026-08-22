@@ -1,3 +1,5 @@
-Planet: SNEAKERIS
+Moon: SNEAKERIS
 Starmap index: 35
 Paris coordinates: -61263664, 29271007, 710111
+Orbits: QUARENIS
+Moon id: 0

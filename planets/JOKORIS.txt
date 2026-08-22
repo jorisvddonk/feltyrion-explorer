@@ -1,3 +1,5 @@
-Planet: JOKORIS
+Moon: JOKORIS
 Starmap index: 23
 Paris coordinates: 1067504, 1964183, -1819350
+Orbits: ORAGON
+Moon id: 6

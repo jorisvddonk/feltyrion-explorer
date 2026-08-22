@@ -1,6 +1,8 @@
-Planet: BAEPS
+Moon: BAEPS
 Starmap index: 22
 Paris coordinates: 634216304, -10847893, 49858171
+Orbits: DODEMSEM
+Moon id: 13
 
 Guide entries:
 M14/P05 SMALL, SOLID, THIN ATMOSPHERE WITH A GREY REFLECTIVITY AND GOOD     

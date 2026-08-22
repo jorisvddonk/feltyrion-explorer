@@ -1,6 +1,8 @@
-Planet: GALL
+Moon: GALL
 Starmap index: 40
 Paris coordinates: 3074288, 5074511, -3389200
+Orbits: ECHO
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. HIGHLY REFLECTIVE LARGE

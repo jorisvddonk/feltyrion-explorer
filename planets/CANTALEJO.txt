@@ -1,6 +1,8 @@
-Planet: CANTALEJO
+Moon: CANTALEJO
 Starmap index: 14
 Paris coordinates: 2870352, 4893903, -1697850
+Orbits: BASDERIN
+Moon id: 0
 
 Guide entries:
 MOON DISCOVERED BY ATTRADIS AND LAURANA, EPOC 6011:599.952

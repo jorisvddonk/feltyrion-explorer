@@ -1,6 +1,8 @@
-Planet: WANSU
+Moon: WANSU
 Starmap index: 17
 Paris coordinates: 3473200, 3882739, 59962
+Orbits: DENMOK
+Moon id: 0
 
 Guide entries:
 ANOTHER STEREO-TYPICAL MOON, MOUNTAIN SIZED CRATERS AS USUAL.

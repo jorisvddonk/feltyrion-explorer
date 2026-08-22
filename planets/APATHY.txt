@@ -1,6 +1,8 @@
-Planet: APATHY
+Moon: APATHY
 Starmap index: 29
 Paris coordinates: 74288, 47959, -394282
+Orbits: RETENE
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE. THE LAST

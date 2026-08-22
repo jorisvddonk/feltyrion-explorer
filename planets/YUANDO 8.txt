@@ -1,3 +1,5 @@
-Planet: YUANDO 8
+Moon: YUANDO 8
 Starmap index: 08
 Paris coordinates: 1752848, 5860015, 576142
+Orbits: planet index 03
+Moon id: 2

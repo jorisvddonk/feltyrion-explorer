@@ -1,3 +1,5 @@
-Planet: VAQQN DALLKN
+Moon: VAQQN DALLKN
 Starmap index: 17
 Paris coordinates: 14872112, 32430695, -7740461
+Orbits: BROMMALTARM
+Moon id: 3

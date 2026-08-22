@@ -1,3 +1,5 @@
-Planet: PIECE OF PEAT
+Moon: PIECE OF PEAT
 Starmap index: 20
 Paris coordinates: -1425091120, 1038855, 1436371991
+Orbits: TINGE-PINK
+Moon id: 8

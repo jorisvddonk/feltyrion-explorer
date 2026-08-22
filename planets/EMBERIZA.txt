@@ -1,3 +1,5 @@
-Planet: EMBERIZA
+Moon: EMBERIZA
 Starmap index: 26
 Paris coordinates: -61921872, 30034719, 15299
+Orbits: JB 65
+Moon id: 2

@@ -1,6 +1,8 @@
-Planet: LESSER 3.1
+Moon: LESSER 3.1
 Starmap index: 06
 Paris coordinates: 263568, 396703, 562792
+Orbits: LESSER 3
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, ICY, NO ATMOSPHERE. I YOU WANT TO READ MORE, SEE

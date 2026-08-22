@@ -1,6 +1,8 @@
-Planet: WABUUK
+Moon: WABUUK
 Starmap index: 15
 Paris coordinates: 4397488, 4379550, -1527000
+Orbits: ARS
+Moon id: 10
 
 Guide entries:
 MEDIUM SIZED, ROCKY, CREASED, NO ATMOSPHERE. MILDLY REFLECTIVE,

@@ -1,6 +1,8 @@
-Planet: PICRIC
+Moon: PICRIC
 Starmap index: 21
 Paris coordinates: 4273200, 4348925, -1047278
+Orbits: BOLT
+Moon id: 0
 
 Guide entries:
 UPDATE:MEDIUM SIZE, SURFACE IS MAINLY NATIVE QUARTZ, OXYGEN ATMOSPHERE.

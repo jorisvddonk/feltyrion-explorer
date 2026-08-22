@@ -1,3 +1,5 @@
-Planet: FRUDNE 3A
+Moon: FRUDNE 3A
 Starmap index: 09
 Paris coordinates: -26983376, -15671371, -1000732795
+Orbits: FRUDNE 3
+Moon id: 0

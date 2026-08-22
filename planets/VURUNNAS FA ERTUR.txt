@@ -1,3 +1,5 @@
-Planet: VURUNNAS FA ERTUR
+Moon: VURUNNAS FA ERTUR
 Starmap index: 15
 Paris coordinates: 59195344, -33661137, 926861759
+Orbits: HURERH FA FARL
+Moon id: 1

@@ -1,3 +1,5 @@
-Planet: OPALA
+Moon: OPALA
 Starmap index: 11
 Paris coordinates: 270352, 5086437, 857022
+Orbits: DARTMOR
+Moon id: 5

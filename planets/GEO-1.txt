@@ -1,3 +1,5 @@
-Planet: GEO-1
+Moon: GEO-1
 Starmap index: 56
 Paris coordinates: 4362480, 4533712, 213199
+Orbits: GEODE
+Moon id: 0

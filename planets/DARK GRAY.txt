@@ -1,6 +1,8 @@
-Planet: DARK GRAY
+Moon: DARK GRAY
 Starmap index: 58
 Paris coordinates: -71930992, -764206, 53866081
+Orbits: FERTILE MINISTAR
+Moon id: 8
 
 Guide entries:
 THIN-ATMOSPHERE MOON ORBITING FERTILE MINISTAR ON EKA24. --EKA

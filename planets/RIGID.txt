@@ -1,3 +1,5 @@
-Planet: RIGID
+Moon: RIGID
 Starmap index: 07
 Paris coordinates: -62832592, 29548943, 2203579
+Orbits: MY TIME
+Moon id: 1

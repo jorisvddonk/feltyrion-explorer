@@ -1,6 +1,8 @@
-Planet: CLOTHO
+Moon: CLOTHO
 Starmap index: 16
 Paris coordinates: 4348912, 4223012, -412744
+Orbits: GEA
+Moon id: 2
 
 Guide entries:
 MOON DISCOVERED BY E.SIRAVEGNA ON EPOC 6011:564.661

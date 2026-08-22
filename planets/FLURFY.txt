@@ -1,3 +1,5 @@
-Planet: FLURFY
+Moon: FLURFY
 Starmap index: 33
 Paris coordinates: 3570352, 5140459, -2376901
+Orbits: HOLDING ON
+Moon id: 0

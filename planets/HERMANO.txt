@@ -1,6 +1,8 @@
-Planet: HERMANO
+Moon: HERMANO
 Starmap index: 16
 Paris coordinates: 4648912, 4943891, -687845
+Orbits: NIMSEY
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.680.885 -                               

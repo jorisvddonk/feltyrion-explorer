@@ -1,3 +1,5 @@
-Planet: HIMPUUKI
+Moon: HIMPUUKI
 Starmap index: 14
 Paris coordinates: 3790704, 5311018, -1433729
+Orbits: KIUAS
+Moon id: 0

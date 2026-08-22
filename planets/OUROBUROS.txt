@@ -1,6 +1,8 @@
-Planet: OUROBUROS
+Moon: OUROBUROS
 Starmap index: 06
 Paris coordinates: 112144, 40438, -249045
+Orbits: KATAREYAR
+Moon id: 0
 
 Guide entries:
 A ROCKY HEAVILY CRATERED SMALL MOON. NOTHING TO SEE HERE.

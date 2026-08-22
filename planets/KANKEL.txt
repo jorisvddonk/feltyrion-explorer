@@ -1,3 +1,5 @@
-Planet: KANKEL
+Moon: KANKEL
 Starmap index: 45
 Paris coordinates: 5658544, 4943265, 798068
+Orbits: NAIKEL
+Moon id: 3

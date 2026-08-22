@@ -1,6 +1,8 @@
-Planet: BIFIC
+Moon: BIFIC
 Starmap index: 24
 Paris coordinates: 4211056, 4491175, -595767
+Orbits: INDIPENDENCE
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. SUPRISINGLY REFLECTIVE

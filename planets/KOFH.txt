@@ -1,6 +1,8 @@
-Planet: KOFH
+Moon: KOFH
 Starmap index: 55
 Paris coordinates: 2121167184, -2143435, -449499
+Orbits: FHSJIM
+Moon id: 12
 
 Guide entries:
 M13/P10 SMALL SOLID ICY. WHITE REFLECTIVITY WITH MUCH GROOVING, DARK        

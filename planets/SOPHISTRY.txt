@@ -1,6 +1,8 @@
-Planet: SOPHISTRY
+Moon: SOPHISTRY
 Starmap index: 45
 Paris coordinates: 4107120, 4445444, 1182666
+Orbits: DEISY
+Moon id: 1
 
 Guide entries:
 A FELISIAN WORLD- AT THIS DISTANCE, A FELISIAN WORLD? PROBABLY

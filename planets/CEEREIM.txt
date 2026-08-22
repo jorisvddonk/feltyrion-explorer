@@ -1,6 +1,8 @@
-Planet: CEEREIM
+Moon: CEEREIM
 Starmap index: 06
 Paris coordinates: 26553616, 6466652, 45080159
+Orbits: BRONEZ
+Moon id: 0
 
 Guide entries:
 THE ONLY MOON OF THE FOURTH PLANET, A TAN DUSTY MOON. THE LAND

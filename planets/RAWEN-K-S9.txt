@@ -1,3 +1,5 @@
-Planet: RAWEN-K-S9
+Moon: RAWEN-K-S9
 Starmap index: 27
 Paris coordinates: 553936, 3527327, -2132597
+Orbits: RAWEN-K
+Moon id: 8

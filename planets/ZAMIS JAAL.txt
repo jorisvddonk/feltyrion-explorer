@@ -1,3 +1,5 @@
-Planet: ZAMIS JAAL
+Moon: ZAMIS JAAL
 Starmap index: 06
 Paris coordinates: 4147152, 8296636, -6104665
+Orbits: ZAMIS 3
+Moon id: 0

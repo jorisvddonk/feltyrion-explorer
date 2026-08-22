@@ -1,3 +1,5 @@
-Planet: CARPARTHIA
+Moon: CARPARTHIA
 Starmap index: 13
 Paris coordinates: 5155696, 4727943, -820349
+Orbits: CREETH
+Moon id: 0

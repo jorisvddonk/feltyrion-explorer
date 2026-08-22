@@ -1,6 +1,8 @@
-Planet: PEDRA VIVA2
+Moon: PEDRA VIVA2
 Starmap index: 07
 Paris coordinates: 3090704, 4686833, -647137
+Orbits: SARAIVA
+Moon id: 3
 
 Guide entries:
 NAMED BY MELANC EPOC 6011.600.737.750

@@ -1,6 +1,8 @@
-Planet: VIPER 3.13
+Moon: VIPER 3.13
 Starmap index: 18
 Paris coordinates: -525712, 233043, 78714
+Orbits: VIPER 3
+Moon id: 12
 
 Guide entries:
 LARGE, NOT CONSISTENT, COVERED BY DENSE CLOUDS. LIGHT BLUE IN

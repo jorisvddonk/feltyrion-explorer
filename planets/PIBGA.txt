@@ -1,6 +1,8 @@
-Planet: PIBGA
+Moon: PIBGA
 Starmap index: 24
 Paris coordinates: 2140775312, -1801647, -339743
+Orbits: PEONTY
+Moon id: 0
 
 Guide entries:
 M01/P06 SMALL SOLID THIN ATMO. MODERATELY DARK WITH FAIR POLAR CAPS.        

@@ -1,6 +1,8 @@
-Planet: COURT JESTER
+Moon: COURT JESTER
 Starmap index: 28
 Paris coordinates: 7560720, -181007, -8743640
+Orbits: SIRE
+Moon id: 1
 
 Guide entries:
 MEDIUM SIZED, INTERNALLY HOT, UNSTABLE SURFACE, NO ATMOSPHERE.

@@ -1,6 +1,8 @@
-Planet: FAL LAL
+Moon: FAL LAL
 Starmap index: 13
 Paris coordinates: 3904272, 4765172, -710492
+Orbits: TRALFAMAGORIA-C
+Moon id: 2
 
 Guide entries:
 SMALL, SOLID, THIN ATMOSPHERE, NOT TOO DARK, SURFACE MARKINGS VISIBLE

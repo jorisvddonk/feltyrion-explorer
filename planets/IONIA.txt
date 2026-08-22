@@ -1,3 +1,5 @@
-Planet: IONIA
+Moon: IONIA
 Starmap index: 12
 Paris coordinates: 4297488, 4141055, -1473285
+Orbits: BLASTOV
+Moon id: 3

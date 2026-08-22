@@ -1,6 +1,8 @@
-Planet: AMPHIGORY
+Moon: AMPHIGORY
 Starmap index: 14
 Paris coordinates: 4786768, 4771191, -649231
+Orbits: HYPERION III
+Moon id: 5
 
 Guide entries:
 A FELISIAN TYPE WORLD- COLD AND BARREN. AT 88.60 IT WAS HILLY, WITH

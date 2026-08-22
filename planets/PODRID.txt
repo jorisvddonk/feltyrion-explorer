@@ -1,6 +1,8 @@
-Planet: PODRID
+Moon: PODRID
 Starmap index: 36
 Paris coordinates: 2935344, 4630986, 272990
+Orbits: LECHUGUEN
+Moon id: 0
 
 Guide entries:
  DISCOVERED BY TIANCRIS - EPOC 6011.685.391 -                               

@@ -1,6 +1,8 @@
-Planet: ARALON A
+Moon: ARALON A
 Starmap index: 24
 Paris coordinates: 43216, 94196, -280322
+Orbits: ARALON
+Moon id: 0
 
 Guide entries:
 BRIGHT YELLOW QUARTZWORLD. SHINY SURFACE. (SCHMERM 6011 584.162)

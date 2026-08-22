@@ -1,6 +1,8 @@
-Planet: SHABBY-GENTEEL
+Moon: SHABBY-GENTEEL
 Starmap index: 11
 Paris coordinates: 3797488, 4355365, -1030058
+Orbits: PWILL
+Moon id: 0
 
 Guide entries:
 SMALL, SOLID, DUSTY, CRATERIZED, NO ATMOSPHERE. PROBABLY QUITE

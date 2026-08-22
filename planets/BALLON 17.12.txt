@@ -1,6 +1,8 @@
-Planet: BALLON 17.12
+Moon: BALLON 17.12
 Starmap index: 60
 Paris coordinates: -448912, 749102, -3154910
+Orbits: BALLON 17
+Moon id: 11
 
 Guide entries:
 WELL, MAYBE THERE'S NO FELISIAN MOON HERE AFTER ALL. THIS ONE               

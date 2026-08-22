@@ -1,3 +1,5 @@
-Planet: SHC-3 3F
+Moon: SHC-3 3F
 Starmap index: 15
 Paris coordinates: -27248368, -15847229, -1002309845
+Orbits: SHC-3 3
+Moon id: 5

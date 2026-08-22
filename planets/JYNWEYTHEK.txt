@@ -1,6 +1,8 @@
-Planet: JYNWEYTHEK
+Moon: JYNWEYTHEK
 Starmap index: 20
 Paris coordinates: 2877136, 4366430, -1053033
+Orbits: DRUKQS
+Moon id: 2
 
 Guide entries:
 THIS MOON HAS A VERY THICK AND DARK CLOUD COVER BUT STILL HAS A
