@@ -72,11 +72,23 @@ export function buildStarText(star: any): string {
 
 export function buildPlanetText(planet: any): string {
   const lines: string[] = [];
-  lines.push(`Planet: ${planet.data.name}`);
+  const isMoon = planet.isMoon;
+  lines.push(`${isMoon ? "Moon" : "Planet"}: ${planet.data.name}`);
   lines.push(`Starmap index: ${planet.data.index}`);
   lines.push(
     `Paris coordinates: ${planet.data.x}, ${-planet.data.y}, ${planet.data.z}`
   );
+
+  if (isMoon) {
+    const ownerLabel =
+      planet.ownerName !== null && planet.ownerName !== undefined
+        ? planet.ownerName
+        : `planet index ${String((planet.ownerIndex ?? 0) + 1).padStart(2, "0")}`;
+    lines.push(`Orbits: ${ownerLabel}`);
+    if (planet.moonId !== null && planet.moonId !== undefined) {
+      lines.push(`Moon id: ${planet.moonId}`);
+    }
+  }
 
   const guide = (planet.childrenGuideEntry || [])
     .map(e => e.data.text)

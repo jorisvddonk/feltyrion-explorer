@@ -81,6 +81,10 @@ exports.onPostBuild = async ({ graphql }) => {
       }
       allPlanet {
         nodes {
+          isMoon
+          ownerIndex
+          moonId
+          ownerName
           data {
             name
             index

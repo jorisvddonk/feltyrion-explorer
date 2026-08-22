@@ -4,13 +4,28 @@ import { graphql } from "gatsby";
 
 export default function PlanetInfo({ data }) {
   const { planet } = data;
+  const isMoon = planet.isMoon;
   return (
     <Layout>
       <h1>{planet.data.name}</h1>
       <p>
-        planet with index <em>{planet.data.index}</em> at {planet.data.x}, {-planet.data.y},{" "}
-        {planet.data.z}
+        {isMoon ? "moon" : "planet"} with index <em>{planet.data.index}</em> at{" "}
+        {planet.data.x}, {-planet.data.y}, {planet.data.z}
       </p>
+
+      {isMoon && (
+        <p>
+          {planet.ownerName ? (
+            <>
+              moon of <a href={`/planets/${planet.ownerName}`}>{planet.ownerName}</a>{" "}
+              (planet index {String(planet.ownerIndex + 1).padStart(2, "0")})
+            </>
+          ) : (
+            <>moon of planet index {String(planet.ownerIndex + 1).padStart(2, "0")}</>
+          )}
+          {planet.moonId !== null && <> — moon #{planet.moonId}</>}
+        </p>
+      )}
 
       <h2>Guide entries</h2>
       <pre>
@@ -23,6 +38,10 @@ export const query = graphql`
   query($slug: String!) {
     planet(fields: { slug: { eq: $slug } }) {
       id
+      isMoon
+      ownerIndex
+      moonId
+      ownerName
       data {
         name
         index
