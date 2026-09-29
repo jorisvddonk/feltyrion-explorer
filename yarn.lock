@@ -5137,8 +5137,8 @@ js-tokens@^3.0.2:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-3.0.2.tgz#9866df395102130e38f7f996bceb65443209c25b"
 
 js-yaml@^3.10.0, js-yaml@^3.13.1, js-yaml@^3.5.2:
-  version "3.13.1"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.13.1.tgz#aff151b30bfdfa8e49e05da22e7415e9dfa37847"
+  version "3.15.2"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.15.2.tgz#3f83823ac6be17f570f23b2ecdef3777ff5ea364"
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
@@ -5793,9 +5793,9 @@ nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
 
-noctis-starmap@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/noctis-starmap/-/noctis-starmap-1.0.4.tgz#e84558dea84a1d7a0bb7e786329520c1671884fc"
+noctis-starmap@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/noctis-starmap/-/noctis-starmap-1.0.5.tgz#29c702dae49d83ffca40e41c98aff893e353269e"
 
 node-emoji@^1.10.0:
   version "1.10.0"
